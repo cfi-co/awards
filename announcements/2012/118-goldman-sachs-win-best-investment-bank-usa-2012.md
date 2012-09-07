@@ -1,0 +1,24 @@
+---
+id: 118
+title: "Goldman Sachs win Best Investment Bank USA 2012"
+award_year: 2012
+published: 2012-09-07 17:46:30
+published_gmt: 2012-09-07 17:46:30
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2012/goldman-sachs-win-best-investment-bank-usa-2012/"
+categories: ["Banking", "Finance", "North America"]
+content_sha256: c89b8d823ad1220d8c8c875c0b64737af1db87f47e19724d71f295b6c2863b01
+canonical: 118-goldman-sachs-win-best-investment-bank-usa-2012.json
+---
+
+# Goldman Sachs win Best Investment Bank USA 2012
+
+> Verbatim archived copy. Canonical machine record: `118-goldman-sachs-win-best-investment-bank-usa-2012.json`.
+
+&nbsp;
+
+<img class="aligncenter size-full wp-image-2088" src="https://cfi.co/awards/wp-content/uploads/2012/09/gs1.jpg" alt="gs" width="225" height="225" />
+
+<strong>Despite significantly reduced revenues in 2011, the judging panel was overall highly supportive of Goldman’s recent investment banking activities and termed the Bank’s corporate social responsibility programmes as ‘inspirational’. </strong>
+
+The panel commented favourably on risk management at Goldman Sachs as well as referring to their ‘sterling work in M&amp;A advisory and strong  revenue generation through equities trading.’
