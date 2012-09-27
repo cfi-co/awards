@@ -1,0 +1,19 @@
+---
+id: 216
+title: "Steel Giant is one of CFI’s Corporate Leaders, 2012"
+award_year: 2012
+published: 2012-09-27 21:18:37
+published_gmt: 2012-09-27 21:18:37
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2012/steel-giant-is-one-of-cfis-corporate-leaders-2012/"
+categories: ["Asia Pacific", "Best Practice", "CSR", "Corporate Governance", "Corporate Leadership", "Industries", "Middle East", "Mining", "Oil &amp; Gas", "Sustainability"]
+content_sha256: 46f13e2b38a5ad1b960d2b75f823c6cba30f17c54ddce109a1a2cb7051422e5b
+canonical: 216-steel-giant-is-one-of-cfis-corporate-leaders-2012.json
+---
+
+# Steel Giant is one of CFI’s Corporate Leaders, 2012
+
+> Verbatim archived copy. Canonical machine record: `216-steel-giant-is-one-of-cfis-corporate-leaders-2012.json`.
+
+<p style="text-align: justify;"><a href="https://cfi.co/awards/wp-content/uploads/2012/09/arcelor-mittal.jpg"><img class="  wp-image-221 aligncenter" title="arcelor-mittal" src="https://cfi.co/awards/wp-content/uploads/2012/09/arcelor-mittal-300x225.jpg" alt="" width="210" height="158" /></a><strong>Arcelor Mittal is a global leader in steel and mining. </strong></p>
+<p style="text-align: justify;">The CFI judging panel pointed to the philanthropy as well as the extraordinary business acumen of chairman and CEO Lakshmi Mittal who founded the Mittal Steel Company in 1976 (Arcelor is its successor). Education, health and community development are at the heart of the company’s CSR concerns. The judges praised the Arcelor Mittal Foundation which works for the sustainable development of local communities. Bem Bank in Brazil is a microcredit facility supported by AM and serves 3000 people. The panel congratulated this Corporate Leadership Award winner on its Gender Diversity Steering Group, its success in encouraging employees to take up voluntary work in communities and the redevelopment aid provided by the Company following the earthquake in Haiti.</p>
