@@ -1,0 +1,20 @@
+---
+id: 105
+title: "Award Winner: Itau Private Bank Best Private Bank Brazil 2012"
+award_year: 2012
+published: 2012-10-07 17:36:29
+published_gmt: 2012-10-07 17:36:29
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2012/award-winner-itau-private-bank-best-private-bank-brazil-2012/"
+categories: ["Banking", "Finance", "Latin America"]
+content_sha256: 16d5d0a7ba36fe5f86b889fd89c37625949348efbfb59e3c2409adf2fd868c48
+canonical: 105-award-winner-itau-private-bank-best-private-bank-brazil-2012.json
+---
+
+# Award Winner: Itau Private Bank Best Private Bank Brazil 2012
+
+> Verbatim archived copy. Canonical machine record: `105-award-winner-itau-private-bank-best-private-bank-brazil-2012.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2042" src="https://cfi.co/awards/wp-content/uploads/2012/10/i.jpg" alt="i" width="160" height="160" /></p>
+<p style="text-align: justify;"><strong>Without question a major force for private banking in Latin America, Itau also boasts a very strong international network which the judging panel considers to a have ‘a </strong><strong>good and secure future’.</strong></p>
+<p style="text-align: justify;">Investor relations are well thought out and very effective. This winner also scores high in terms of sustainability and is a responsible and generous corporate citizen.</p>
