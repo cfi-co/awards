@@ -1,0 +1,19 @@
+---
+id: 594
+title: "Millennium bcp: CFI 2013 Award Winner in Portugal and an Example to Banks around the World"
+award_year: 2013
+published: 2013-06-17 13:35:10
+published_gmt: 2013-06-17 13:35:10
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2013/millennium-bcp-cfi-2013-award-winner-in-portugal-and-an-example-to-banks-around-the-world/"
+categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_sha256: 6edab88f449b3e9dc9de0b462f5802b6d2df1f84b74b99ccadc363681d7c88b6
+canonical: 594-millennium-bcp-cfi-2013-award-winner-in-portugal-and-an-example-to-banks-around-.json
+---
+
+# Millennium bcp: CFI 2013 Award Winner in Portugal and an Example to Banks around the World
+
+> Verbatim archived copy. Canonical machine record: `594-millennium-bcp-cfi-2013-award-winner-in-portugal-and-an-example-to-banks-around-.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-606" src="https://cfi.co/awards/wp-content/uploads/2013/06/accolades_bcp.jpg" alt="accolades_bcp" width="220" height="110" />The judging panel at CFI are delighted to declare Millennium bcp winner of awards for Best Corporate Governance and Best Investor Relations Team, Portugal, 2013.</strong> Millennium stand out as an example - not just in Portugal but to banks across the world - of how constant evolution, the application of the highest standards of corporate governance and a clear and concise communication of objectives even in very difficult times can bring benefit to all stakeholders. Millennium are constantly strengthening their model of corporate governance and make excellent use of a diverse mix of strong independent directors, shareholder representatives and oversight committees which closely monitor the bank’s activity and management processes, ensuring alignment among the different stakeholders. It is the panel's belief that the impact of effective independent directors combined with a strong governance model has resulted in the high levels of stability that ensure stakeholder confidence. This is clearly reflected in the financial markets and the Investor Relations Team have done an excellent job in communicating and building trust with a broad spectrum of investors. The results are clear in the size of the investor base, which has risen to more than 187,000 shareholders, with a steady increase in the number of small investors and high levels of confidence from institutional investors. Banks around the world would do well to look at Millennium as an example of how, by maintaining and developing the highest levels of corporate governance, financial institutions can maintain and (in Millennium's case) build confidence even in turbulent times.</p>
+<p style="text-align: center;"><a href="http://www.millenniumbcp.pt" target="_blank"><img class="aligncenter size-full wp-image-596" src="https://cfi.co/awards/wp-content/uploads/2013/06/millennium_bcp.jpg" alt="millennium_bcp" width="500" height="114" /></a></p>
