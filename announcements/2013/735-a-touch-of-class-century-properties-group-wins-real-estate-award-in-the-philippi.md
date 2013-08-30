@@ -1,0 +1,22 @@
+---
+id: 735
+title: "A Touch of Class: Century Properties Group Wins Real Estate Award in the Philippines"
+award_year: 2013
+published: 2013-08-30 08:15:28
+published_gmt: 2013-08-30 08:15:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2013/a-touch-of-class-century-properties-group-wins-real-estate-award-in-the-philippines/"
+categories: ["Asia Pacific", "Finance", "Real Estate"]
+content_sha256: 086fff5cb0ff60877d5481019aa6996d85a2b0ccc0e79c2eeb450d2fbdce2204
+canonical: 735-a-touch-of-class-century-properties-group-wins-real-estate-award-in-the-philippi.json
+---
+
+# A Touch of Class: Century Properties Group Wins Real Estate Award in the Philippines
+
+> Verbatim archived copy. Canonical machine record: `735-a-touch-of-class-century-properties-group-wins-real-estate-award-in-the-philippi.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-736" src="https://cfi.co/awards/wp-content/uploads/2013/08/century.png" alt="century" width="284" height="72" /></p>
+<p style="text-align: justify;"><strong>With a passion for quality in both service and product plus an uncannily keen sense for offering the right deal at the right time, the Century Properties Group from the Philippines claims the Real Estate Awards. The CFI.co Judging Panel named the company ‘Best Premier Real Estate Developer, Philippines, 2013’.</strong></p>
+<p style="text-align: justify;">The judges were particularly impressed by “the superb value proposition” Century Properties Group consistently offers. Examples cited were the New York-themed Gramercy Residences – currently the tallest building in the Philippines – and the Knightsbridge Building were affluent families may enjoy a taste of London.</p>
+<p style="text-align: justify;">A successful and rather unique collaboration between Century Properties and iconic Italian fashion designer Versace has resulted in Milano Residences. This 52-storey building, soon to be opened, features a Versace-inspired façade and is part of Century City, a mega-development marketed as “a new urban experience” set to redefine the skyline of Makati, one of greater Manila’s sixteen cities.</p>
+<p style="text-align: justify;">The Philippine economy is on a roll. Over the second quarter of 2013 the growth rate shot up 7.6%. With half its population of 100 million aged less than 26 and remittances from overseas workers totalling over $20 billion annually the market has places to go. The Century Properties Group is exceptionally well placed to take full advantage of both improving purchasing power and the new wealth being created. The Company recorded a 15% year-on-year growth and is set to power ahead in the stylish manner that it has carefully nurtured over the years.</p>
