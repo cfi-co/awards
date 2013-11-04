@@ -1,0 +1,22 @@
+---
+id: 257
+title: "Zenith Bank: <br> A Winner in Nigeria"
+award_year: 2013
+published: 2013-11-04 09:02:42
+published_gmt: 2013-11-04 09:02:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2013/zenith-bank-a-winner-in-nigeria/"
+categories: ["Africa", "Banking", "Best Practice", "Corporate Governance", "Finance"]
+content_sha256: 2d92feb9a5085f55146d2a193ee66a3942455c5b191de858664dbb0b3994c7fb
+canonical: 257-zenith-bank-a-winner-in-nigeria.json
+---
+
+# Zenith Bank: <br> A Winner in Nigeria
+
+> Verbatim archived copy. Canonical machine record: `257-zenith-bank-a-winner-in-nigeria.json`.
+
+<p style="text-align: justify;"><strong><img class="alignright size-full wp-image-1660" src="https://cfi.co/awards/wp-content/uploads/2013/11/z.jpg" alt="z" width="315" height="275" />The Bank was named Best Commercial Bank, Africa this year in view of its sterling work at home over the past 22 years and given the excellent progress it has made in other markets within Africa and further afield. </strong></p>
+<p style="text-align: justify;">Zenith Bank has built a brand as a reputable, international financial institution - recognised for innovation, superior customer service and performance while creating premium value for all stakeholders. Today, the Bank is known for its innovation, solid financial performance, stable and dedicated management, highly-skilled personnel, cutting edge ICT, strategic distribution channels and asset quality.</p>
+<p style="text-align: justify;">Excerpts from CFI.co’s Judging Panel Summary: “Under Jim Ovin leadership, Zenith created strong foundations with a broad shareholder base, high levels of capitalisation and very strong corporate governance. Godwin Emefiele and his team have continued to build on these foundations. It is the Bank’s commitment to all of its stakeholders that shines through, enabling it to provide the highest levels of service. There has been substantial investment in staff development creating a team that we feel will  bring ever improving standards of banking to clients and good results to investors. Thanks to its highly credible CSR policy, Zenith Bank ensures that it is also playing its part in society as whole.”</p>
+<p style="text-align: center;"><img class="aligncenter wp-image-259" title="zenith-optimized-2" src="https://cfi.co/awards/wp-content/uploads/2012/10/zenith-optimized-2.jpg" alt="" width="700" height="613" /><a href="https://cfi.co/awards/wp-content/uploads/2012/10/zenith-optimized-2.jpg">
+</a></p>
