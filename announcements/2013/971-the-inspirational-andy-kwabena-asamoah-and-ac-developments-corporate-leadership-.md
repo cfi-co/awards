@@ -1,0 +1,22 @@
+---
+id: 971
+title: "The Inspirational Andy Kwabena Asamoah and A&C Developments: Corporate Leadership Award, Ghana, 2013"
+award_year: 2013
+published: 2013-11-25 10:52:43
+published_gmt: 2013-11-25 10:52:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2013/the-inspirational-andy-kwabena-asamoah-and-ac-developments-corporate-leadership-award-ghana-2013/"
+categories: ["Africa", "Best Practice", "Corporate Leadership"]
+content_sha256: dbfe0e99a8622c83f75ce483c66f0b9ecfbbc3da993e38d7080fb84a2c5d5df3
+canonical: 971-the-inspirational-andy-kwabena-asamoah-and-ac-developments-corporate-leadership-.json
+---
+
+# The Inspirational Andy Kwabena Asamoah and A&C Developments: Corporate Leadership Award, Ghana, 2013
+
+> Verbatim archived copy. Canonical machine record: `971-the-inspirational-andy-kwabena-asamoah-and-ac-developments-corporate-leadership-.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-974" src="https://cfi.co/awards/wp-content/uploads/2013/11/a-c.jpg" alt="a-c" width="319" height="56" /></p>
+<p style="text-align: justify;"><strong>We receive many nominations of worthy individuals and companies for the consideration of our Judging Panel but only rarely do we come across such highly impassioned nominations as those this year naming Andy Kwabena Asamoah. His achievements stand out as an example of what tenacity can deliver and his life story provides inspiration to others of what can achieved through hard work, education and ambition.</strong></p>
+<p style="text-align: justify;">Born in Ghana in 1945, the young Mr Asamoah fully understood that education was going to be the key to his future success. He worked at a local market from the age of 12 to fund his education and at the age of 22 was accepted by the World Health Organisation (WHO) to work in a regional office. Mr Asamoah assumed a pattern of studying while working and his academic achievements allowed him to further develop his career at the WHO. This culminated in Mr Asamoah qualifying as a barrister and then becoming a Director in Geneva for the WHO.</p>
+<p style="text-align: justify;">Upon retiring from the organisation Mr Asamoah returned to Ghana and risked everything he had built up during his career to create Ghana’s first shopping complex and founded A &amp; C Development. Under Mr Asamoah’s leadership the company is now a key player in developing the country’s multi-purpose shopping mall sector. Having attracted investment from the IFC in 2012 A &amp; C is set to further help drive forward the Ghanaian economy.</p>
+<p style="text-align: justify;">The panel feels that Mr Asamoah is true example of a corporate leader and should be seen as an example to youngsters struggling to get through school and an example to successful members of the African diaspora thinking of bringing their skills back home. As such, the panel feels humbled by his example and are delighted to declare Mr Asamoah and A &amp; C Developments winner of the CFI Corporate Leadership Award, Ghana, 2013.</p>
