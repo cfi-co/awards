@@ -1,0 +1,21 @@
+---
+id: 977
+title: "CORE Securities, Tanzania, Our Advisory Brokerage Winner in East Africa"
+award_year: 2013
+published: 2013-11-25 11:00:52
+published_gmt: 2013-11-25 11:00:52
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2013/core-securities-tanzania-our-advisory-brokerage-winner-in-east-africa/"
+categories: ["Africa", "Exchanges &amp; Brokers", "Finance"]
+content_sha256: c3254a8ffa472f58332e5716825bd0b98183fdb4aa8127eb1d419c2f4088e428
+canonical: 977-core-securities-tanzania-our-advisory-brokerage-winner-in-east-africa.json
+---
+
+# CORE Securities, Tanzania, Our Advisory Brokerage Winner in East Africa
+
+> Verbatim archived copy. Canonical machine record: `977-core-securities-tanzania-our-advisory-brokerage-winner-in-east-africa.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-980" src="https://cfi.co/awards/wp-content/uploads/2013/11/CORE.jpg" alt="CORE" width="397" height="96" /></p>
+<p style="text-align: justify;"><strong>The CFI Judging Panel congratulates CORE Securities Limited, on its advisory services and is pleased to name this firm, ‘Best Advisory Brokerage, East Africa, 2013’.</strong></p>
+<p style="text-align: justify;">The Panel considers CORE to be, ‘An efficient and innovative brokerage that offers investors consistently strong advice and good service. CORE sensibly counsels investors to think big, begin small and begin now.’</p>
+<p style="text-align: justify;">Core was first licenced fifteen years ago and has regional ambitions which the Panel consider to be realistic. The firm has good solid research capabilities and an ethical approach to client relationships.</p>
