@@ -1,0 +1,22 @@
+---
+id: 3601
+title: "FDH Financial Holdings: Outstanding Corporate Leadership Africa 2015 - Dr Thomson F Mpinganjira"
+award_year: 2015
+published: 2015-01-01 12:33:07
+published_gmt: 2015-01-01 12:33:07
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2015/fdh-financial-holdings-outstanding-corporate-leadership-africa-2015-dr-thomson-f-mpinganjira/"
+categories: ["Africa", "Corporate Leadership"]
+content_sha256: a92f7f9e3bc582e52aa88bd6f598a119df04366a894104f96ef8d6520dca8203
+canonical: 3601-fdh-financial-holdings-outstanding-corporate-leadership-africa-2015-dr-thomson-f.json
+---
+
+# FDH Financial Holdings: Outstanding Corporate Leadership Africa 2015 - Dr Thomson F Mpinganjira
+
+> Verbatim archived copy. Canonical machine record: `3601-fdh-financial-holdings-outstanding-corporate-leadership-africa-2015-dr-thomson-f.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-medium wp-image-3602" src="https://cfi.co/awards/wp-content/uploads/2016/12/FDH-300x63.jpg" alt="fdh" width="300" height="63" /></p>
+<p style="text-align: justify;"><strong>Drawing on his in-depth knowledge and experience in economics, accounting, and finance, Dr Thomson Mpinganjira may be considered representative of a new generation of African corporate leaders. Dr Mpinganjira is chief executive officer of FDH Holdings in Malawi and has attained prominence in the business world by tirelessly advocating for increased transparency, good governance, and scrupulous honesty. Dr Mpinganjira was instrumental in FDH’s recent acquisition of a 75% stake in the Malawi Savings Bank (MSB). He has set a leadership example for senior executives to follow throughout Africa.</strong></p>
+<p style="text-align: justify;">These are financially interesting times for this particular region of Africa. People such as Dr Mpinganjira are providing both the entrepreneurial muscle and intellectual wherewithal that fuel the regional boom. He has special interest in the development of the small and medium-sized enterprises (SMEs) as an engine for growth, having himself been inspired by his father who ran a small import and export business.</p>
+<p style="text-align: justify;">Diligence in corporate affairs has moved to the top of the local business agenda with Dr Mpinganjira spearheading a major investigation into the alleged systemic fraud which previously affected the MSB. Thus, the Malawi banker has assumed a major role in the development of the country’s financial sector with his relentless pursuit of improved governance standards.</p>
+<p style="text-align: justify;">The CFI.co judging panel commends Dr Mpinganjira on his efforts and readily agrees that corporate governance is singularly important to boosting development throughout Africa and attaining higher levels of prosperity. The judges are impressed by Dr Mpinganjira’s standing, not only within Malawi, but throughout the region. The judging panel is therefore most pleased to offer Dr Mpinganjira the win of the 2015 Outstanding Corporate Leadership in Africa Award.</p>
