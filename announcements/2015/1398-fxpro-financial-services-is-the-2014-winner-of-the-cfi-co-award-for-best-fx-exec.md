@@ -1,0 +1,23 @@
+---
+id: 1398
+title: "FxPro Financial Services is the 2014 Winner of the CFI.co Award for ‘Best FX Execution, Global’"
+award_year: 2015
+published: 2015-01-06 13:42:54
+published_gmt: 2015-01-06 13:42:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2015/fxpro-financial-services-is-the-2014-winner-of-the-cfi-co-award-for-best-fx-execution-global/"
+categories: ["Europe", "Exchanges &amp; Brokers", "Finance", "Industries", "Technology"]
+content_sha256: f837a7ce8d195cb1f79f78f8b5f01a29a2eab3775c62ecd78f8d79bd2327544f
+canonical: 1398-fxpro-financial-services-is-the-2014-winner-of-the-cfi-co-award-for-best-fx-exec.json
+---
+
+# FxPro Financial Services is the 2014 Winner of the CFI.co Award for ‘Best FX Execution, Global’
+
+> Verbatim archived copy. Canonical machine record: `1398-fxpro-financial-services-is-the-2014-winner-of-the-cfi-co-award-for-best-fx-exec.json`.
+
+[caption id="attachment_1399" align="aligncenter" width="455"]<img class="wp-image-1399" src="https://cfi.co/awards/wp-content/uploads/2014/11/fxp.jpg" alt="" width="455" height="388" /> <strong>Simon Smith, Director of UK Operations</strong>[/caption]
+<p style="text-align: justify;"><strong>The panel comments that ‘FxPro offers slick, speedy and secure professional access to markets.  </strong></p>
+<p style="text-align: justify;">Their FX Agency model is exemplary and customer support is outstanding. The firm has a trustworthy and transparent approach, has worked hard to eliminate conflicts of interest, is regulated in two jurisdictions and would be a confident choice for relative newcomers to the markets as well as the more seasoned traders.</p>
+<p style="text-align: justify;">There is a highly impressive choice of trading platforms at FxPro, market information provided is strong and reliable and the firm makes very good use of technology for the express benefit of users.</p>
+<p style="text-align: justify;">We have no hesitation in confirming an award in this key category to FxPro and offer our congratulations on the interesting and important innovations FXPro is bringing to forex trading’.</p>
+<p style="text-align: justify;">For further information, please visit <a href="http://www.fxpro.co.uk/" target="_blank" rel="noopener noreferrer">http://www.fxpro.co.uk/</a></p>
