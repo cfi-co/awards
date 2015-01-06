@@ -1,0 +1,21 @@
+---
+id: 1459
+title: "Building Trust and Ensuring Good Business Conduct: Our Corporate Governance Winner in West Africa"
+award_year: 2015
+published: 2015-01-06 13:32:43
+published_gmt: 2015-01-06 13:32:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2015/building-trust-and-ensuring-good-business-conduct-our-corporate-governance-winner-in-west-africa/"
+categories: ["Africa", "Best Practice", "Corporate Governance", "Industries"]
+content_sha256: af3c18b95cfa138bf329fc8750cf34d7c63a63adc464effb1b984d657501ae67
+canonical: 1459-building-trust-and-ensuring-good-business-conduct-our-corporate-governance-winne.json
+---
+
+# Building Trust and Ensuring Good Business Conduct: Our Corporate Governance Winner in West Africa
+
+> Verbatim archived copy. Canonical machine record: `1459-building-trust-and-ensuring-good-business-conduct-our-corporate-governance-winne.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-1460" src="https://cfi.co/awards/wp-content/uploads/2015/01/logo_lafarge_en_int.gif" alt="logo_lafarge_en_int" width="170" height="140" /></p>
+<p style="text-align: justify;"><strong>Lafarge Africa Plc is the worthy winner of the CFI.co 2014 award for ‘Best Corporate Governance, West Africa’.</strong></p>
+<p style="text-align: justify;">Lafarge Africa Plc, formerly known as Lafarge Cement Wapco Nigeria Plc, was created during the past year through the combination of Lafarge’s other Nigerian operations: Ashakacem Plc, United Cement Company Limited (Unicem), Atlas Cement Company Limited and Lafarge’s South African assets with Lafarge Cement Wapco Nigeria Plc. The company was renamed Lafarge Africa Plc.</p>
+<p style="text-align: justify;">The Judging Panel was impressed by the Lafarge’s efforts to protect the interests of the minority shareholders throughout the process. We note that a non-executive board sub-committee was set up to lead the negotiations for Lafarge Wapco, an independent valuation was prepared by Standard Chartered Bank, that KPMG issued a fairness opinion and that the board’s audit committee assessed the transaction and approved the same before bringing it forward to the AGM. We also note Lafarge chose not to vote its shares at the AGM. Overall, corporate standards at Lafarge Africa are very high with policies and practices in place. We congratulate this enterprise and wish it all success.’</p>
