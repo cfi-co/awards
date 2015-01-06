@@ -1,0 +1,24 @@
+---
+id: 1619
+title: "Marks & Spencer: Best Retail Franchise GCC 2014"
+award_year: 2015
+published: 2015-01-06 13:33:05
+published_gmt: 2015-01-06 13:33:05
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2015/marks-spencer-best-retail-franchise-gcc-2014/"
+categories: ["Europe", "Industries", "Middle East", "Retail"]
+content_sha256: dd7ccebd37a281f1ea5284dc62712a15df6d8e7c8228f10e49cd88a34e2b0790
+canonical: 1619-marks-spencer-best-retail-franchise-gcc-2014.json
+---
+
+# Marks & Spencer: Best Retail Franchise GCC 2014
+
+> Verbatim archived copy. Canonical machine record: `1619-marks-spencer-best-retail-franchise-gcc-2014.json`.
+
+<p style="text-align: justify;"><img class="aligncenter" src="https://cfi.co/awards/wp-content/uploads/2015/02/ms.jpg" alt="" width="363" height="139" /></p>
+<p style="text-align: justify;"><strong>Perhaps the most quintessential of UK retailers, Marks &amp; Spencer has been remarkably successful in exporting its brand – keeping in touch with the times while maintaining true to both its corporate identity and the company’s exceptionally rich heritage. Marks &amp; Spencer is currently paying particular attention to the requirements of its core customer demographic – those in the 40 to 60 age group – while keeping its hard-won appeal to patrons of all ages.</strong></p>
+<p style="text-align: justify;">The legendary Marks &amp; Spencer slogan “The customer is always and completely right,” adopted in 1953, has set the tone for much of the company’s 131 year history. Though its first foray overseas, to Canada in 1973, ended in ignominy with the last of 47 loss-making stores closing in 1999, the company has since moved decisively outside its British comfort zone and is now at home in over fifty jurisdictions, at last count operating 455 stores.</p>
+<p style="text-align: justify;">With revenue of its international operations growing about three times as fast as income from the 798 UK stores, Marks &amp; Spencer sees considerable growth opportunities outside Britain. The company has already identified a potential for no less than 250 new stores over the next three years. A significant part of the international expansion is to come from the Middle East. In Saudi Arabia, Marks &amp; Spencer expects to open no less than ten stores over the next twelve months.</p>
+<p style="text-align: justify;">The retailer has big – even aggressive – plans for the buoyant GCC (Gulf Cooperation Council) region. The company’s international managers are especially sensitive to the maintenance of strict quality standards, thus ensuring that the vast overseas store network adheres closely to the policies and guidelines which underlie M&amp;S’ success and enabled its growth from a market stall in Leeds to a worldwide emporium with a revenue exceeding £10 billion.</p>
+<p style="text-align: justify;">The CFI.co judging panel is impressed with Marks &amp; Spencer’s persistence in expanding the geographical footprint of its much-lauded brand. The company has found that local knowledge coupled to superior quality in the delivery of retail services constitute a formula for success applicable globally.</p>
+<p style="text-align: justify;">The judges are pleased – if not positively honoured – to offer Marks &amp; Spencer, that most British of retailers, the 2014 Best Retail Franchise GCC Award in recognition of a most promising expansion drive.</p>
