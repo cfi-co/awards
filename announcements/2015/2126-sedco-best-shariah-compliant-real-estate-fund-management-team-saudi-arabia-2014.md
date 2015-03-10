@@ -1,0 +1,26 @@
+---
+id: 2126
+title: "SEDCO: Best Shariah-Compliant Real Estate Fund Management Team Saudi Arabia 2014"
+award_year: 2015
+published: 2015-03-10 12:03:06
+published_gmt: 2015-03-10 12:03:06
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2015/sedco-best-shariah-compliant-real-estate-fund-management-team-saudi-arabia-2014/"
+categories: ["Asset Management", "Best Practice", "Finance", "Middle East", "Real Estate"]
+content_sha256: 0392611c049e6d796f24d3bab8b57cbd0080c1485e4d908741953b2d2c95af03
+canonical: 2126-sedco-best-shariah-compliant-real-estate-fund-management-team-saudi-arabia-2014.json
+---
+
+# SEDCO: Best Shariah-Compliant Real Estate Fund Management Team Saudi Arabia 2014
+
+> Verbatim archived copy. Canonical machine record: `2126-sedco-best-shariah-compliant-real-estate-fund-management-team-saudi-arabia-2014.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2127" src="https://cfi.co/awards/wp-content/uploads/2015/03/sedco.jpg" alt="sedco" width="337" height="110" /></p>
+<p style="text-align: justify;"><strong>One of the premier private wealth management companies in the Kingdom of Saudi Arabia, SEDCO Holding can trace its origins to the remarkable life of Sheikh Salem Bin Mahfouz who founded the Saudi Economic and Development Company in 1976 while at the helm of the kingdom’s first domestic bank – the National Commercial Bank – he had helped form in 1953.</strong></p>
+<p style="text-align: justify;">The remarkable life story of Sheikh Salem Bin Mahfouz best serves to illustrate SEDCO’s unrelenting dedication to excellence and diligence. By sheer force of will, perseverance, and – for lack of a better expression – street smarts, Sheikh Salem Bin Mahfouz overcame the dire poverty and scant educational opportunities of his childhood to become one the kingdom’s premier bankers.</p>
+<p style="text-align: justify;">Arriving penniless in Mecca with his brothers in 1912, the young Salem soon developed a knack for business. Moving to Jeddah and securing access to one of that city’s two only telephones, Salem became a moneychanger to the royal court securing Maria Theresa thalers to buy army supplies. In 1951, Salem co-founded a foreign exchange business which, at the suggestion of then-Finance Minister Sheikh Abdullah Sulayman, was turned into the country’s first commercial bank. The rest – as they say – is history.</p>
+<p style="text-align: justify;">And that history is precisely why SEDCO – entrusted to four of Sheikh Salem Bin Mahfouz’ sons upon his passing away in 1994 and transformed into a holding two years later– is a most remarkable company: it is not only deeply rooted in history; it derives its strength and agility from it. SEDCO has grown into a large and diversified conglomerate with operations spanning the continents and with interests across a vast range of asset classes.</p>
+<p style="text-align: justify;">Pursuing stability rather than risk, SEDCO has concluded a number of large-scale real estate projects such as the Jeddah Al Mahmal Centre, the Metro West master-planned community in Orlando, and the landmark JP Morgan Chase building in Houston – Texas’ tallest skyscraper.</p>
+<p style="text-align: justify;">SEDCO Development remains firmly focused on the development, management, and operation of real estate projects. Investments are structured in full compliance with Shariah Law and deliver yields of 7% to clients. Funds are invested alongside clients, rather than on behalf of them.</p>
+<p style="text-align: justify;">SEDCO Capital had successfully executed real estate transactions in excess of $1 billion. The company successfully divested from 21 developments in France, Malaysia, Singapore, UK, and Mexico. SEDCO Capital now has acquired 19 investments in strategic markets such as USA, UK, and Saudi Arabia.</p>
+<p style="text-align: justify;">Due to the company’s firm commitment to innovation grounded in history and custom, the CFI.co judging panel considers SEDCO an exemplary real estate fund manager: fads and fashions are shunned, while true innovation – the one that adds value to all stakeholders and respects their preferences – is given ample room to mature. Beyond any shadow of doubt, SEDCO fully merits the CFI.co 2014 Best Shariah-Compliant Real Estate Fund Management Team Saudi Arabia Award.</p>
