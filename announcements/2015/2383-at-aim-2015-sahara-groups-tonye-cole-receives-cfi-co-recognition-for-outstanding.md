@@ -1,0 +1,23 @@
+---
+id: 2383
+title: "At AIM 2015: Sahara Group’s Tonye Cole Receives CFI.co Recognition for Outstanding Contribution to Youth Education in Africa"
+award_year: 2015
+published: 2015-04-02 12:17:42
+published_gmt: 2015-04-02 12:17:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2015/at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding-contribution-to-youth-education-in-africa/"
+categories: ["Africa", "Best Practice", "Community Engagement"]
+content_sha256: c39f7525bac9844b77e51408adcdc31843469623dad8e1abb6e6058b8716709b
+canonical: 2383-at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding.json
+---
+
+# At AIM 2015: Sahara Group’s Tonye Cole Receives CFI.co Recognition for Outstanding Contribution to Youth Education in Africa
+
+> Verbatim archived copy. Canonical machine record: `2383-at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding.json`.
+
+<p style="text-align: justify;"><img class="aligncenter wp-image-2384 size-full" src="https://cfi.co/awards/wp-content/uploads/2015/08/tc.jpg" alt="tc" width="750" height="477" /></p>
+<p style="text-align: justify;"><strong>Following presentation of the Annual Investment Meeting  (AIM)  2015 Awards for FDI-agencies at a Gala Dinner at the Armani Hotel in Dubai on Monday 30th March, the AIM organising committee in conjunction with CFI.co was pleased to provided further recognition of excellence.</strong></p>
+<p style="text-align: justify;">One of  three trophies handed over on stage went to Sahara Foundation and was accepted by its founder, chairman Tonye Cole. This prize -  in the category of Transformation &amp; Empowerment - was made to mark the organisation’s Outstanding Contribution to Youth Education in Africa.</p>
+<p style="text-align: justify;">Education is key to creating the labour skills for FDI and the management skills necessary for developing society at large. SF works tirelessly in their educational programmes in Africa, which include economic empowerment activities, creativity competitions to stimulate innovation, feeding programmes in schools, scholarships and financial support (including for classroom upgrades).</p>
+<p style="text-align: justify;">AIM 2015, which was held from 30 March - 1 April at the Dubai international Convention and Exhibition Center, focused on ‘Sustainable Development through FDI Induced Innovation and Technology Transfer’. This was an important gathering of some of  the world's leading FDI academics, experts and practitioners - including Knowledge Partner CFI.co - under the patronage of HH Sheikh Mohammed Bin Rashid Al Maktoum, UAE Vice President, Prime Minister and Ruler of Dubai.</p>
+<p style="text-align: justify;">For further information, please see the <span style="text-decoration: underline;"><a href="http://www.sahara-group.com/corporate_responsibility.html" target="_blank">Sahara Foundation</a></span>.</p>
