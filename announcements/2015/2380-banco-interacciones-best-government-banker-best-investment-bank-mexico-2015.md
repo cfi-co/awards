@@ -1,0 +1,23 @@
+---
+id: 2380
+title: "Banco Interacciones: Best Government Banker & Best Investment Bank Mexico 2015"
+award_year: 2015
+published: 2015-04-20 13:41:18
+published_gmt: 2015-04-20 13:41:18
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2015/banco-interacciones-best-government-banker-best-investment-bank-mexico-2015/"
+categories: ["Banking", "Latin America"]
+content_sha256: 229742fdc804a71c0bd753c7effbca16165726e8340447753eecfb61e484a3f4
+canonical: 2380-banco-interacciones-best-government-banker-best-investment-bank-mexico-2015.json
+---
+
+# Banco Interacciones: Best Government Banker & Best Investment Bank Mexico 2015
+
+> Verbatim archived copy. Canonical machine record: `2380-banco-interacciones-best-government-banker-best-investment-bank-mexico-2015.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-medium wp-image-1821" src="https://cfi.co/awards/wp-content/uploads/2013/11/interacciones-300x66.jpg" alt="interacciones" width="300" height="66" /></p>
+<p style="text-align: justify;"><strong>The largest niche bank in Mexico, Banco Interacciones offers a broad range of financial services tailored to meet the requirements and needs of public entities and governments at local, state, and federal level. The bank also specialises in setting up and serving public-private partnerships. Additionally, Banco Interacciones assists private businesses that provide products and services to public bodies.</strong></p>
+<p style="text-align: justify;">The only bank in Mexico focused solely on providing financial solutions to the country’s public administration – and all those dealing with it – Banco Interacciones has accumulated a vast reservoir of knowledge and experience that enables the institution to offer clients results-oriented services carefully conceived to maximise efficiency via a one-stop shop approach either directly and/or through its consultancy services subsidiary company [EF&amp;I].</p>
+<p style="text-align: justify;">Exceptionally competitive and adhering to the highest standards of quality in the delivery of its services, Banco Interacciones plays a major role in the provision of financing for small to medium scale infrastructure projects. Leveraging its experience with the public sector, the bank is peerless in the design of comprehensive solutions that meet – and often exceed – legal requirements, allowing clients an edge that often proves decisive when it comes to being awarded public contracts.</p>
+<p style="text-align: justify;">Banco Interacciones has been in business for over twenty years and has established a solid reputation that now extends well beyond Mexico. The bank is now recognised globally as the go-to place for all who have dealings with Mexico’s public administration. As the country’s development accelerates, public procurement processes become increasingly more sophisticated, requiring the expert knowledge only a specialist bank such as Banco Interacciones can readily provide. The bank also maintains a number of investment funds that are set up and managed to comply fully with the specific requirement of public entities deposit and investment decisions.</p>
+<p style="text-align: justify;">The CFI.co judges note that Banco Interacciones has put systems in place that allow for the constant monitoring of its performance. Feedback loops enable the bank to promptly respond to changing circumstances and thus maintain its already formidable lead. Banco Interacciones has attained exceptionally high growth rates by, amongst others, adhering to well-established best governance practices. The consistency of Banco Interacciones’ performance is again recognised by the CFI.co judging panel with a double award title – Best Government Banker Mexico 2015 and Best Investment Bank Mexico 2015. Banco Interacciones is a repeat winner and the judging panel is delighted in acknowledging the bank’s excellence for a third time.</p>
