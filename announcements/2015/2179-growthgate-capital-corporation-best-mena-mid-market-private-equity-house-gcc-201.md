@@ -1,0 +1,25 @@
+---
+id: 2179
+title: "Growthgate Capital Corporation: Best MENA Mid-Market Private Equity House GCC 2015"
+award_year: 2015
+published: 2015-04-20 08:07:33
+published_gmt: 2015-04-20 08:07:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2015/growthgate-capital-corporation-best-mena-mid-market-private-equity-house-gcc-2015/"
+categories: ["Asset Management", "Finance", "Middle East"]
+content_sha256: 81cdac495482e0538c442893435ca2f898fee351fd16c9a7930311487d23a202
+canonical: 2179-growthgate-capital-corporation-best-mena-mid-market-private-equity-house-gcc-201.json
+---
+
+# Growthgate Capital Corporation: Best MENA Mid-Market Private Equity House GCC 2015
+
+> Verbatim archived copy. Canonical machine record: `2179-growthgate-capital-corporation-best-mena-mid-market-private-equity-house-gcc-201.json`.
+
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2180" src="https://cfi.co/awards/wp-content/uploads/2015/04/growthgate.jpg" alt="" width="344" height="134" /></p>
+<p style="text-align: justify;"><strong>Now for something completely different: ambitious mid-market companies run by their founders, dedicated to provide excellence in services. Interestingly enough, this segment is historically underserved, if not wholly ignored, by equity managers. Not so at Growthgate Capital Corporation where these businesses form the very backbone of a direct investment strategy that consistently produces stellar results.</strong></p>
+<p style="text-align: justify;">The approach masterminded by Growthgate Capital is a model of both simplicity and elegance. The firm’s buy-and-build strategy aims to empower mid-market companies to smash the glass ceiling and attain their true potential as regional leaders.</p>
+<p style="text-align: justify;">Growthgate Capital not only provides selected companies with the funds necessary for their breakout, the firm also helps with expertise that ensures optimum operational efficiencies are reached and maintained. Companies are expected to embrace strict standards of corporate governance as well as show financial discipline and prudence.</p>
+<p style="text-align: justify;">On average, the buy-and-build strategy requires five to seven years to fully mature at which point accrued benefits are harvested. Growthgate Capital is careful to allocate funds to best-in-class companies and entrepreneurs. Its diligence also seeks to maximise synergies between the chosen recipient-business and the firm’s own core competencies and available in-house expertise. This approach ensures optimum returns to investors.</p>
+<p style="text-align: justify;">Apart from enabling the accelerated organic growth of its companies – typically businesses valued at between $50m to $200m in which a 25-50% stake is taken – Growthgate Capital also looks for opportunities to expand their corporate footprint, and cash flow, via bolt-on acquisitions.</p>
+<p style="text-align: justify;">The CFI.co judging panel is thoroughly impressed by the straightforward and pragmatic approach Growthgate Capital has developed by leveraging its regional knowledge and experience. There is no doubt in the judges’ mind that Growthgate Capital Corporation fully merits the 2015 Best MENA Mid-Market Private Equity House GCC.</p>
