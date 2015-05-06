@@ -1,0 +1,24 @@
+---
+id: 2216
+title: "AJIL Financial Services Company: Most Innovative Financial Solutions Team Saudi Arabia 2014"
+award_year: 2015
+published: 2015-05-06 14:35:55
+published_gmt: 2015-05-06 14:35:55
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2015/ajil-financial-services-company-most-innovative-financial-solutions-team-saudi-arabia-2014/"
+categories: ["Finance", "Islamic Banking", "Middle East"]
+content_sha256: ca513e70f37a7a01d384f02c33e2013b31c607b8dad06cb10075e6d0f4a7f1bb
+canonical: 2216-ajil-financial-services-company-most-innovative-financial-solutions-team-saudi-a.json
+---
+
+# AJIL Financial Services Company: Most Innovative Financial Solutions Team Saudi Arabia 2014
+
+> Verbatim archived copy. Canonical machine record: `2216-ajil-financial-services-company-most-innovative-financial-solutions-team-saudi-a.json`.
+
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2217" src="https://cfi.co/awards/wp-content/uploads/2015/05/AJIL.jpg" alt="" width="349" height="122" /></p>
+<p style="text-align: justify;"><strong>Innovation in financial services need not imply a relaxing of quality standards. While an architect of highly original and bespoke financing solutions for the acquisition of capital assets, the AJIL Financial Services Company has resolutely stuck to prudent policies that underwrite a well-established reputation for reliability and sectorial leadership.</strong></p>
+<p style="text-align: justify;">The AJIL management team, a collective of exceptionally seasoned professionals, boasts a level of expertise and experience that – in barely fifteen years – propelled the company to the very apex of the market. With a presence in fifteen cities and over 2,500 clients, AJIL provides financial solutions across a diverse range of sectors from construction and transportation to trade and manufacturing. AJIL is a Saudi closed joint stock company. Amongst its shareholder are well-known corporations such as Riyad Bank, Mitsubishi Corporation, and Zahid Group Holding.</p>
+<p style="text-align: justify;">More than just a financial services company, AJIL aims to establish long-term partnerships that enable clients to realise projects, obtain consistent growth, and achieve corporate objectives. The CFI.co judges were pleased to see that AJIL emphasises simplicity and transparency in its interactions with clients. Without sacrificing due diligence, paperwork is kept to a minimum while operational procedures are straight and clear.</p>
+<p style="text-align: justify;">The judges also applaud AJIL’s rather unique approach to customer relations. The company’s agents make a concerted and hands-on effort to gain a thorough understanding of their clients’ businesses and their specific requirements. This way, AJIL professionals are oftentimes able to help identify needs and possibilities that stretch beyond the scope of the initial consult.</p>
+<p style="text-align: justify;">As a premier provider of lease finance products, AJIL Financial Services Company has now reached a height that allows it to oversee, and indeed lead, the market. Consequently, the CFI.co judges feel no hesitation in presenting the company with the Most Innovative Financial Solutions Team Saudi Arabia 2014 Award.</p>
