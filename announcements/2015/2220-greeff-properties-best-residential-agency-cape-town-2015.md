@@ -1,0 +1,25 @@
+---
+id: 2220
+title: "Greeff Properties: Best Residential Agency Cape Town 2015"
+award_year: 2015
+published: 2015-05-08 14:02:25
+published_gmt: 2015-05-08 14:02:25
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2015/greeff-properties-best-residential-agency-cape-town-2015/"
+categories: ["Africa", "Professional Services"]
+content_sha256: d0bde3f5c595654690f4c8c3ba302fdb36ea7ec99c8f9868729d5b3bc80af52a
+canonical: 2220-greeff-properties-best-residential-agency-cape-town-2015.json
+---
+
+# Greeff Properties: Best Residential Agency Cape Town 2015
+
+> Verbatim archived copy. Canonical machine record: `2220-greeff-properties-best-residential-agency-cape-town-2015.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2221" src="https://cfi.co/awards/wp-content/uploads/2015/05/greef.jpg" alt="" width="593" height="83" /></p>
+<p style="text-align: justify;"><strong>A top destination and excellent value. As far as real estate is concerned, Cape Town is a no-brainer. One of the world’s most emblematic spots – sitting astride one of the three legendary southern capes – vivacious Cape Town has long been a favourite playground of the happy few. However, their ranks are swelling thanks to the slow slide of South Africa’s rand which has realigned property values and reignited investor interest.</strong></p>
+<p style="text-align: justify;">With both domestic and international demand on the rise, business is discretely booming at Greeff Properties – an exclusive affiliate of Christie’s International Real Estate. Though a niche market realty, Greeff Properties is a force to reckon with in Cape Town’s highly sought-after Southern Suburbs and Peninsula, City Bowl, and the Atlantic Seaboard districts.</p>
+<p style="text-align: justify;">Open for business since 2001, Greeff Properties grew from a kitchen table outfit to a premier realtor employing over 75 of Cape Town’s top agents and support staff. The company’s founder, Mike Greeff, brings a life’s worth of realty experience to the table. Dedicated to customer care and meticulous in the execution of its vast array of services, Greeff Properties has its market cornered.</p>
+<p style="text-align: justify;">In 2011, the excellence of the company’s approach was recognised when it managed to secure affiliation with Christie’s International Real Estate after successfully completing the most rigorous vetting procedure known to the industry. Greeff Properties is one of only three realtors in South Africa invited by Christie’s to become partners.</p>
+<p style="text-align: justify;">As an affiliate of the world’s premier luxury real estate company, Greeff Properties enjoys unparalleled access to the international market, thereby offering sellers an added layer of service unavailable elsewhere. The world-renowned Christie’s Magazine regularly features the company’s exclusive listings. The publication is distributed quarterly to over 70,000 people with an average net-worth in excess of $9 million.</p>
+<p style="text-align: justify;">The CFI.co judging panel likewise recognises that Greeff Properties is a one-of-a-kind realtor that inspires trust, loyalty, and respect not just in its home market but far beyond as well. The company’s Bespoke Marketing Programme, tailored to fit the unique needs of the high-end market, operates on a truly global scale with the discretion – and efficiency – required to satisfy sellers and buyers alike.</p>
+<p style="text-align: justify;">With a level of service unprecedented – or, if you will, sans pareil – in Cape Town and its environs, Greeff Properties breaks new ground and fully merits the CFI.co 2015 Best Residential Agency Cape Town Award.</p>
