@@ -1,0 +1,24 @@
+---
+id: 2274
+title: "PwC: Best Corporate Advisory Services Nigeria"
+award_year: 2015
+published: 2015-06-09 11:14:00
+published_gmt: 2015-06-09 10:14:00
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2015/pricewaterhousecoopers-best-corporate-advisory-services-nigeria-2015/"
+categories: ["Accounting", "Africa", "Consultancies", "Legal", "Professional Services"]
+content_sha256: 5ac227ce9b6125b0bf1b0190422cbbe8d5d6a7a37ca4ce3bda7f312272879f9d
+canonical: 2274-pricewaterhousecoopers-best-corporate-advisory-services-nigeria-2015.json
+---
+
+# PwC: Best Corporate Advisory Services Nigeria
+
+> Verbatim archived copy. Canonical machine record: `2274-pricewaterhousecoopers-best-corporate-advisory-services-nigeria-2015.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2276" src="https://cfi.co/awards/wp-content/uploads/2015/06/pwc.jpg" alt="pwc" width="193" height="154" /></p>
+<p style="text-align: justify;"><strong>The Nigerian economy seems to possess the resilience required to keep its annual growth rate running at between five and six per cent. The smooth and violence-free process that ushered in a change of government earlier this year boosted the confidence of the entire nation and may well herald an economic upswing.</strong></p>
+<p style="text-align: justify;">The senior economic spokesman at PricewaterhouseCoopers (PwC) Nigeria, Dr Andrew Nevin, agrees that the economy will continue to grow, but emphasises the need for long-term planning to underpin future expansion. Mr Nevin notes that the real economy is largely insulated against a drop in oil prices. He is also pleased to see the share of the energy sector in Nigeria’s GDP shrinking from 40% in 2000 to less than 13% now.</p>
+<p style="text-align: justify;">PwC has cautioned that whilst the infrastructure in Nigeria is relatively advanced by African standards, it nevertheless falls short of requirements and thus constitutes an impediment to more robust and sustained economic development. On the plus side, Nigeria boasts a large, young, and urbanised population; huge reserves of oil and natural gas; and a diversified economy. The country has also embarked on an accelerated drive to upgrade its transportation infrastructure.</p>
+<p style="text-align: justify;">The CFI.co judging panel finds that PwC’s stellar reputation for corporate advisory in Nigeria is easy to explain: the firm offers a wealth of services to companies presently doing business in Nigeria or those that mull taking the plunge into Africa’s most promising market.</p>
+<p style="text-align: justify;">The judges are pleased to see that PwC is fully engaged in programmes that aim to further improve leadership skills in Nigeria with a particular focus on youth and education. Training is at the heart of the PwC model and its tax academy enjoys a solid reputation. The firm also organises an Executive Master of Finance &amp; Control Programme for the energy industry. This year PwC’s interesting Chess4Change Initiative challenges secondary school students to improve their analytical and mathematical proficiency by taking to the game with a passion.</p>
+<p style="text-align: justify;">PwC Nigeria benefits, of course, from the skills base of a formidable network of firms present in 157 countries and employing 184,000 people. The CFI.co judges are very pleased with the dedication shown by PwC to this part of Africa and, without hesitation, confirm the firm’s win of the 2015 Best Corporate Advisory Services Nigeria Award.</p>
