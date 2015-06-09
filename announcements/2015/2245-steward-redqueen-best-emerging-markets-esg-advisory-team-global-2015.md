@@ -1,0 +1,25 @@
+---
+id: 2245
+title: "Steward Redqueen: Best Emerging Markets ESG Advisory Team Global 2015"
+award_year: 2015
+published: 2015-06-09 11:15:42
+published_gmt: 2015-06-09 11:15:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2015/steward-redqueen-best-emerging-markets-esg-advisory-team-global-2015/"
+categories: ["Best Practice", "Consultancies", "Europe", "Professional Services", "Sustainability"]
+content_sha256: ee87e4c2d0b02e6f8378676581f8a0fc8c0f09bdda4ce2ede8ca43e4ab530425
+canonical: 2245-steward-redqueen-best-emerging-markets-esg-advisory-team-global-2015.json
+---
+
+# Steward Redqueen: Best Emerging Markets ESG Advisory Team Global 2015
+
+> Verbatim archived copy. Canonical machine record: `2245-steward-redqueen-best-emerging-markets-esg-advisory-team-global-2015.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2246" src="https://cfi.co/awards/wp-content/uploads/2015/05/sr.jpg" alt="sr" width="800" height="563" /></p>
+<p style="text-align: justify;"><strong>Incorporating environmental, social, and governance (ESG) parameters into day-to-day business operations constitutes a classic case of easier-said-than-done. Though a great many companies are eager to comply, and recognise the paramount importance of putting their processes and operations on a sustainable footing, many struggle with defining and implementing ESG principles.</strong></p>
+<p style="text-align: justify;">Even some big name brands may need a helping hand – and a word of advice – to measure their impact on nature and society. Steward Redqueen is able to offer both. From its head office in The Netherlands, and supported by its global SRQ Associates Network, the firm offers global companies bespoke consultancy services on a vast array of socio-economic issues and topics.</p>
+<p style="text-align: justify;">Steward Redqueen operates where the corporate sphere overlaps the surrounding environment. Its consultancy services aim to provide a seamless integration of both spaces. Dilemmas arise as corporations try to square their profit-driven existence in a competitive world with a growing awareness of the civic responsibilities this entails. Thus, the business side of operations may conflict with wider stewardship obligations.</p>
+<p style="text-align: justify;">It is at this point that Steward Redqueen is able to help. It does so by measuring the socio-economic impact of its clients’ operations. This data allows companies to adjust corporate policies to better dovetail with local realities, often transforming challenges into opportunities for all stakeholders.</p>
+<p style="text-align: justify;">Steward Redqueen has helped a major Dutch brewery gauge its impact on the emerging markets of Sub-Saharan Africa which, in turn, allowed the company to better engage with local communities. For a global asset manager, Steward Redqueen developed a tool that enables investment professionals to incorporate ESG parameters into decision-making processes and subsequently monitor a company’s ability to manage these issues. As a result, the client may now easily embed ESG factors in its risk rating and valuation models.</p>
+<p style="text-align: justify;">With a roster of clients akin to a who’s-who of the corporate world, including a number of Fortune 500 companies, Steward Redqueen has become the go-to consultancy for any company wishing to get a handle on its ESG performance and to improve the sustainability of its business.</p>
+<p style="text-align: justify;">The CFI.co judging panel considers the scope of the services provided by Steward Redqueen quite exceptional. This is not an outfit staffed by dreamers; rather Steward Redqueen keep its eye on the bottom line, finding opportunity where others may see trouble. In fact, the firm has found more than one way of fitting square pegs into round holes. That is an accomplishment the CFI.co judges wish to recognise. The judges are glad to extend Steward Redqueen the 2015 Best Emerging Markets ESG Advisory Team Global Award.</p>
