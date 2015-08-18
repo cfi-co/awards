@@ -1,0 +1,24 @@
+---
+id: 2375
+title: "Clyde & Co (Hong Kong): Best Aviation Finance Advisory Team for Emerging Markets 2015"
+award_year: 2015
+published: 2015-08-18 15:22:45
+published_gmt: 2015-08-18 15:22:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2015/clyde-co-hong-kong-best-aviation-finance-advisory-team-for-emerging-markets-2015/"
+categories: ["Asia Pacific", "Finance", "Industries"]
+content_sha256: 213217c813e02079172b04a6ca17dbed23c27f3e99aedf2c38e3716d05c5ddca
+canonical: 2375-clyde-co-hong-kong-best-aviation-finance-advisory-team-for-emerging-markets-2015.json
+---
+
+# Clyde & Co (Hong Kong): Best Aviation Finance Advisory Team for Emerging Markets 2015
+
+> Verbatim archived copy. Canonical machine record: `2375-clyde-co-hong-kong-best-aviation-finance-advisory-team-for-emerging-markets-2015.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-2376" src="https://cfi.co/awards/wp-content/uploads/2015/08/cc.jpg" alt="cc" width="277" height="66" /></p>
+<p style="text-align: justify;"><strong>A market leader in aviation regulation and finance, the Hong Kong law office of Clyde &amp; Co helps clients keep abreast of the latest developments in the fast-paced airline industry and consistently delivers world class legal assistance to the sector’s major players and those aiming for the top.</strong></p>
+<p style="text-align: justify;">The firm has long been acquainted with the particular needs of the airline industry in emerging markets. It is precisely here that much of the industry’s growth is taking place, with new airlines spreading their wings and existing ones expanding route networks and fleets. Clyde &amp; Co has been serving the aviation sector for over eighty years and boasts a solid track record in assisting airlines from emerging markets in Africa and elsewhere soar high – safely and securely.</p>
+<p style="text-align: justify;">Liability rules, global emissions trading frameworks, and other regulatory trends are carefully monitored and mapped by Clyde &amp; Co’s in-house team of legal professionals and industry experts to help airlines deal with a constantly shifting business environment.</p>
+<p style="text-align: justify;">The firm operates on a global scale and is widely recognised as the elite team to call whenever highly complex matters arise. Clyde &amp; Co’s vast experience in the aviation sector also allows it to offer clients sound advice on finance, insurance and reinsurance matters, fuel contracts, labour disputes, and other nuts-and-bolts questions that aviation executives habitually face.</p>
+<p style="text-align: justify;">In the aviation industry, Clyde &amp; Co has become a byword for efficiency. The firm seeks legal solutions through straight-line-simplicity, with prompt conflict resolution – whether via litigation, mediation, or arbitration – considered of paramount importance.</p>
+<p style="text-align: justify;">The CFI.co judges expressed admiration for Clyde &amp; Co’s proactive approach: clients not just benefit from the firm’s in-depth knowledge of a highly complex and heavily regulated industry, they also receive constant updates regarding changes in rules and practices which enables clients to promptly adjust business processes and thus keep a few steps ahead of the competition. The CFI.co judges are pleased to confer on Clyde &amp; Co (Hong Kong) their 2015 Best Aviation Finance Advisory Team for Emerging Markets Award.</p>
