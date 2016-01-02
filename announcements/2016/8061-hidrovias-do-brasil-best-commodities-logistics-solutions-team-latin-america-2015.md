@@ -1,0 +1,22 @@
+---
+id: 8061
+title: "Hidrovias do Brasil: Best Commodities Logistics Solutions Team Latin America 2015"
+award_year: 2016
+published: 2016-01-02 10:05:27
+published_gmt: 2016-01-02 10:05:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2016/hidrovias-do-brasil-best-commodities-logistics-solutions-team-latin-america-2015/"
+categories: ["Industries", "Latin America"]
+content_sha256: c8524e7c34fec2d43f3ba68639df29d840485fbe3a8c2147c4ba943207597cb8
+canonical: 8061-hidrovias-do-brasil-best-commodities-logistics-solutions-team-latin-america-2015.json
+---
+
+# Hidrovias do Brasil: Best Commodities Logistics Solutions Team Latin America 2015
+
+> Verbatim archived copy. Canonical machine record: `8061-hidrovias-do-brasil-best-commodities-logistics-solutions-team-latin-america-2015.json`.
+
+<img class="aligncenter size-full wp-image-8062" src="https://cfi.co/awards/wp-content/uploads/2020/08/Hidrovias-do-Brasil.jpg" alt="Hidrovias do Brasil" width="450" height="123" />
+<p style="text-align: justify;"><strong>With over 60,000 km of inland waterways, moving bulk cargo in Brazil by river seems a given. Yet only about a fifth of the country’s navigable waterways are currently used as transport arteries. While last year about 45 million tonnes of cargo was moved by river, the vast network of Brazilian waterways has a carrying capacity in excess of 180 million tonnes annually.</strong></p>
+<p style="text-align: justify;">Hidrovias do Brasil aims to leverage the unequalled power of Brazil’s great rivers to move bulk cargo efficiently and sustainably. One of only a handful of companies dedicated to providing logistic services over inland waterways, Hidrovias do Brasil operates a number of terminals and shipping lines across the country. In the north, the company as of next year is set to move grains from upstream terminals to a newly built private port facility at Barcarena, some 1,100 km down the Tapajós and Amazon Rivers and adjacent to Belém do Pará – the gateway to the lower Amazon Basin.</p>
+<p style="text-align: justify;">In the south, Hidrovias do Brasil already now exploits a number of shipping arteries on the Paraná-Paraguay twin river system, transporting iron ore, grain, and fertilizers. The company operates a large fleet of pusher tugs and barges to move bulk cargo. Hidrovias do Brasil has signed long-term contracts with customers to ensure a steady return on its sizeable investment.</p>
+<p style="text-align: justify;">The company recently received a $300 million cash injection from a consortium of investment banks – including the International Finance Corporation, part of the World Bank Group – that enables it to both consolidate present operations and launch new initiatives. The CFI.co judging panel applauds Hidrovias do Brasil for – quite literally – choosing the route less travelled: river-based transport is not only cheap and efficient; it also has a low carbon footprint and is, as such, part of any solution towards sustainable development. The judges are unanimous in their decision to offer Hidrovias do Brasil the recognition it is due and hereby hands the company the 2015 Best Commodities Logistics Solutions Team Latin America Award.</p>
