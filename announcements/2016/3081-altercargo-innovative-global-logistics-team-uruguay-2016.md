@@ -1,0 +1,23 @@
+---
+id: 3081
+title: "Altercargo: Most Innovative Global Logistics Team Uruguay 2016"
+award_year: 2016
+published: 2016-04-14 14:28:40
+published_gmt: 2016-04-14 14:28:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/industries/transport/2016/altercargo-innovative-global-logistics-team-uruguay-2016/"
+categories: ["Industries", "Latin America", "Transport"]
+content_sha256: 3689289a70af6763a8d7acfcde016c6089c8588f4c45e98e09773c1988671849
+canonical: 3081-altercargo-innovative-global-logistics-team-uruguay-2016.json
+---
+
+# Altercargo: Most Innovative Global Logistics Team Uruguay 2016
+
+> Verbatim archived copy. Canonical machine record: `3081-altercargo-innovative-global-logistics-team-uruguay-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3082" src="https://cfi.co/awards/wp-content/uploads/2016/04/altercargo.jpg" alt="altercargo" width="184" height="182" /></p>
+<p style="text-align: justify;"><strong>At the crossroads of South America’s vast Atlantic seaboard, Uruguay has invested heavily and decisively in state-of-the-art transport facilities, upgrading its infrastructure to cater to its vast hinterland and meet demand from eager exporters. Plugged into the world’s major markets by good air and sea connections, and home to the region’s first fully-fledged free port, Uruguay is making a splash in the highly competitive world of intercontinental and intermodal transport.</strong></p>
+<p style="text-align: justify;">Exceptionally well-poised to reap the benefits of Uruguay’s strategic position, Altercargo offers shippers access to an intricately woven mesh of logistics solutions. The company specialises in providing a one-stop window for shippers that need to efficiently move cargo into or out of the region. Altercargo combines different modalities – air, sea, riverine, and road – that ensure point-to-point delivery of any freight consigned to the company.</p>
+<p style="text-align: justify;">Rather than acting as an external agent, Altercargo aims to partner with clients to become an integral part of their business. Thus, the company is able to ensure a seamless and uninterrupted flow of goods and commodities. Incorporating efficiency and excellence in the delivery of its services into its operational philosophy, Altercargo is able to guarantee results that are invariably timely and predictable.</p>
+<p style="text-align: justify;">Altercargo maintains a global network of agents that report to the Montevideo headquarters where experienced professionals consistently find and design the most cost-effective way of shipping cargo across great distances. The company’s holistic approach to its business relieves customers of the need to engage a number of different parties to coordinate transhipments, warehousing, and all other aspects of freight forwarding. Altercargo provides for a single and tightly integrated solution to any and all shipping requirements.</p>
+<p style="text-align: justify;">The CFI.co judging panel is pleasantly surprised by the novel rationale pioneered by Altercargo. While an integrated approach to shipping cargo may seem logical and sensible; it is still much the exception in the industry. Altercargo has set out to change all that with a clear approach and vision. The judges are pleased to offer Altercargo the 2016 Most Innovative Global Logistics Team Uruguay Award.</p>
