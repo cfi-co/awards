@@ -1,0 +1,23 @@
+---
+id: 3139
+title: "Cisco Capital: Best Captive Technology Finance Team Global 2015"
+award_year: 2016
+published: 2016-04-19 12:41:55
+published_gmt: 2016-04-19 12:41:55
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2016/cisco-capital-best-captive-technology-finance-team-global-2015-2/"
+categories: []
+content_sha256: fd056abac2213c15e84f70d7fb6bf8f9d08f10afbc258ff20f66845f64c59dae
+canonical: 3139-cisco-capital-best-captive-technology-finance-team-global-2015-2.json
+---
+
+# Cisco Capital: Best Captive Technology Finance Team Global 2015
+
+> Verbatim archived copy. Canonical machine record: `3139-cisco-capital-best-captive-technology-finance-team-global-2015-2.json`.
+
+<p style="text-align: justify;"><strong>Staying up to date with technology is not so much a drain on the bottom line as it is an opportunity for improving efficiencies and expanding operations. Rather than a corporate expense, IT adds value and delivers the means that allow organisations to embrace ever-changing business dynamics.</strong></p>
+<p style="text-align: justify;">Corporations that keep ahead of the curve and allow for shorter IT lifecycles typically fare better than those waiting for obsolescence to extract its toll, only to ultimately impose the inevitable upgrades. Keeping the IT initiative is key to enduring success. With that lesson borne out of corporate experience in mind, Cisco Capital has developed its Lifecycle Financing facility which recognises that how businesses acquire technology is every bit as important as what is being acquired.</p>
+<p style="text-align: justify;">The approach allows corporations to dovetail their IT policies with business plans and initiatives. Lifecycle Financing also stretches budgets while shortening deployment times and offers build-in flexibility that enables companies to adjust work styles and flows in response to shifting market conditions.</p>
+<p style="text-align: justify;">Cisco Capital offers its bespoke Lifecycle Financing facility in over one hundred countries to businesses of all sizes. The company leverages its intimate knowledge of clients’ operations – gathered during the IT system design phase – to put in place customised financing solutions that take into account not just present IT requirements, but fine-tune system scalability to match corporate strategy.</p>
+<p style="text-align: justify;">As a result, Cisco Capital is able to go where conventional lenders often dare not tread, maintaining non-performance risk ratios that are the envy of the industry. Familiarity with the creditor’s business operations and managerial expertise allows Cisco Capital to effectively underwrite IT projects in emerging markets where corporate growth is usually hampered by a lack of affordable financing options.</p>
+<p style="text-align: justify;">The CFI.co judging panel finds the integrated approach to IT financing pioneered by Cisco Capital refreshing. The judges fully agree that businesses aspiring to gain, or keep, their competitive advantage need to bring IT investments forward. Cisco’s Lifecycle Financing significantly shortens IT lifecycles without adding pressure to budgets. Always charmed by innovative business models, the judges have no hesitation in extending the 2015 Best Captive Technology Finance Team Global Award to Cisco Capital.</p>
