@@ -1,0 +1,23 @@
+---
+id: 4422
+title: "BMW: Best Auto Innovation Excellence Global 2016"
+award_year: 2016
+published: 2016-07-20 15:06:32
+published_gmt: 2016-07-20 14:06:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2016/bmw-best-auto-innovation-excellence-global-2016/"
+categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_sha256: ef5f7c9b5a27dec05d2d89c2a3b42aeb91eaf5777c4304d3f1b1f2721cdfafde
+canonical: 4422-bmw-best-auto-innovation-excellence-global-2016.json
+---
+
+# BMW: Best Auto Innovation Excellence Global 2016
+
+> Verbatim archived copy. Canonical machine record: `4422-bmw-best-auto-innovation-excellence-global-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4423" src="https://cfi.co/awards/wp-content/uploads/2017/06/BMW.jpg" alt="" width="700" height="491" /></p>
+<p style="text-align: justify;"><strong>Time and again, BMW proves itself as one of the front running automotive brands in the world; an association that neither comes easily nor without constant innovation on the brand’s part.</strong></p>
+<p style="text-align: justify;">As connected cars become more and more of a focal point within the automotive industry, it seems that every car manufacturer under the sun is now ready to embrace the next step in connectivity. But some brands are always one step ahead of the rest; amidst the haze of competitors vying to offer cutting-edge innovation, BMW has been both a staple and a pioneer of driver assisted technology since 1980.</p>
+<p style="text-align: justify;">Today, most onlookers marvel at the luxurious experience of BMW’s 7 series and the technology that supports it: ConnectedDrive, a series of advanced apps and services to suit the consumer. BMW’s Ko-HAF research initiative is also taking the next step towards highly-automated driving. The company’s joint venture with Sixt DriveNow, operating over 4,000 vehicles in six countries, allows users to access its car sharing service through revolutionary BMW and MINI credit cards.</p>
+<p style="text-align: justify;">The rate of ground-breaking can only accelerate further under BMW’s Virtual Innovation Agency; an initiative developed in order to promote public solutions and ideas into viable start-ups.</p>
+<p style="text-align: justify;">As car manufacturers try to find their way within the new era of the automotive industry, BMW has already mapped out the route, and is racing ahead. For this, the CFI.co judging panel offers BMW the 2016 Best Auto Innovation Excellence Global Award.</p>
