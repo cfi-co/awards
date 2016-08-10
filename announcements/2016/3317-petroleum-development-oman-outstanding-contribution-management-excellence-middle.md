@@ -1,0 +1,22 @@
+---
+id: 3317
+title: "Petroleum Development Oman:  Outstanding Contribution to Management Excellence in the Middle East 2016"
+award_year: 2016
+published: 2016-08-10 16:46:37
+published_gmt: 2016-08-10 15:46:37
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2016/petroleum-development-oman-outstanding-contribution-management-excellence-middle-east-2016/"
+categories: ["Corporate Leadership", "Industries", "Middle East", "Oil &amp; Gas"]
+content_sha256: 7b1588aefbff08ceef268f8faf709df61711a27c51cd438fe024e226476ccdfc
+canonical: 3317-petroleum-development-oman-outstanding-contribution-management-excellence-middle.json
+---
+
+# Petroleum Development Oman:  Outstanding Contribution to Management Excellence in the Middle East 2016
+
+> Verbatim archived copy. Canonical machine record: `3317-petroleum-development-oman-outstanding-contribution-management-excellence-middle.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3318" src="https://cfi.co/awards/wp-content/uploads/2016/08/PDO.jpg" alt="PDO" width="387" height="131" /></p>
+<p style="text-align: justify;"><strong>A regional pioneer in enhanced oil recovery techniques, Petroleum Development Oman (PDO) has built-up a vast reservoir of expertise in the cost-efficient exploitation of hydrocarbon reserves. The company has established an impressive track record reinvigorating older wells via the application of gas, chemicals - or the injection of steam. Leveraging state-of-the-art technologies and knowledge, PDO this year expects to continue to ramp up production and is confident that it will meet its new 600,000 barrels per day long-term oil production target set for 2019 well ahead of schedule.</strong></p>
+<p style="text-align: justify;">Notwithstanding the slump in oil prices, the company – 60% state-owned – managed to exceed its targets in 2015. For example, it set a new combined oil, gas and condensate production record of 1.29 million barrels of oil equivalent per day. Although global oil prices have recovered to some extent from the 10-year lows set at the start of 2016, the operating environment remains extremely challenging for oil companies. PDO fully recognises the need to drive down costs without compromising safety and strives for continuous business improvements through its established Lean programme.</p>
+<p style="text-align: justify;">PDO is also actively engaged in creating sustainable employment opportunities for Omanis ranging from vocational jobs for school leavers through to roles for those holding post-graduate qualifications. It underwrites a number of initiatives that aim to tap into the talent pool already available in the Sultanate.</p>
+<p style="text-align: justify;">The CFI.co judging panel is pleased to announce Petroleum Development of Oman as the winner of the 2016 Outstanding Contribution to Management Excellence in the Middle East Award.</p>
