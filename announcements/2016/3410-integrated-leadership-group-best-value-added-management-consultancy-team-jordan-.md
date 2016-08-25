@@ -1,0 +1,25 @@
+---
+id: 3410
+title: "Integrated Leadership Group: Best Value-Added Management Consultancy Team Jordan 2016"
+award_year: 2016
+published: 2016-08-25 15:24:24
+published_gmt: 2016-08-25 14:24:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2016/integrated-leadership-group-best-value-added-management-consultancy-team-jordan-2016/"
+categories: ["Consultancies", "Middle East", "Professional Services"]
+content_sha256: 5c5830ae88b55fab50bb925c81eb68bbdfcef3f147fe220cdc35a592a90172e7
+canonical: 3410-integrated-leadership-group-best-value-added-management-consultancy-team-jordan-.json
+---
+
+# Integrated Leadership Group: Best Value-Added Management Consultancy Team Jordan 2016
+
+> Verbatim archived copy. Canonical machine record: `3410-integrated-leadership-group-best-value-added-management-consultancy-team-jordan-.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3411" src="https://cfi.co/awards/wp-content/uploads/2016/08/ilg-holding.jpg" alt="" width="350" height="352" /></p>
+
+
+[caption id="attachment_3412" align="alignright" width="152"]<img class="wp-image-3412" src="https://cfi.co/awards/wp-content/uploads/2016/08/SUHAIB1.jpg" alt="SUHAIB1" width="152" height="170" /> Suhaib Al-Khawaldah[/caption]
+<p style="text-align: justify;"><strong>A key to success and a catalyst for change: Integrated Leadership Group (ILG) knows what it takes to up the business ante and deliver results. The company, headquartered in Jordan, provides bespoke solutions to corporations and non-profits aiming high. ILG holding boasts a range of specialised services that increase business efficiency, such as management, financial, accounting, auditing, and marketing consultancies. ILG also offers feasibility studies, staff development planning, and educational services. The company’s geographic footprint includes Saudi Arabia, Lebanon, Qatar, and the United Arab Emirates.</strong></p>
+<p style="text-align: justify;">ILG Holding operates according to a business philosophy that sees the company take a stake in corporates that are ready for a paradigm shift in order to attain market leadership. With a view to maximising the creation of lasting value, ILG Holding focuses on holistic business solutions, educational development, and the empowerment of young people.</p>
+<p style="text-align: justify;">Deploying a unique approach that breaks down business challenges into their component parts in order to address each issue thoroughly, Integrated Leadership Group has established a peerless reputation for operational excellence. The company is fast becoming the go-to window for businesses that, whilst already successful, wish to cash into their potential and break through any glass ceilings to claim a spot at the very top.</p>
+<p style="text-align: justify;">The CFI.co judging panel applauds the can-do spirit that drives the ILG team. The judges note that the company is actively involved in promoting entrepreneurship and empowering the next generation of business owners. Integrated Leadership Group is hereby named winner of the 2016 Best Value-Added Management Consultancy Team Jordan.</p>
