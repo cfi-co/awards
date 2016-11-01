@@ -1,0 +1,22 @@
+---
+id: 4108
+title: "Thyssenkrupp: Most Innovative Engineering Solutions Europe 2016"
+award_year: 2016
+published: 2016-11-01 17:11:22
+published_gmt: 2016-11-01 17:11:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/industries/2016/thyssenkrupp-most-innovative-engineering-solutions-europe-2016/"
+categories: ["Industries", "Manufacturing", "Technology"]
+content_sha256: 90ecf0780e0284ce784eef88ddaafb07b0daac980a4ec0d16d8caee83e98d035
+canonical: 4108-thyssenkrupp-most-innovative-engineering-solutions-europe-2016.json
+---
+
+# Thyssenkrupp: Most Innovative Engineering Solutions Europe 2016
+
+> Verbatim archived copy. Canonical machine record: `4108-thyssenkrupp-most-innovative-engineering-solutions-europe-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4109" src="https://cfi.co/awards/wp-content/uploads/2017/03/thyssenkrupp.jpg" alt="" width="500" height="96" /></p>
+<p style="text-align: justify;"><strong>The 1999 merger of Germany’s two largest steelworks Krupp and Thyssen produced a global conglomerate that now includes some 670 companies, organised into two divisions – Materials and Technology. Still one of the world’s largest steel producers, ThyssenKrupp AG also manufactures lifts, capital goods, and components for the automotive and defence industries, amongst a host of other products and services.</strong></p>
+<p style="text-align: justify;">The company is also Germany’s largest defence contractor. Its Howaldtswerke-Deutsche and Blohm + Voss shipyards produce some of the world’s most advanced warships, including the 200 series submarines which now include versions with air-independent propulsion (AIP) systems and non-magnetic hulls that are significantly quieter than even the most advanced nuclear-powered boats.</p>
+<p style="text-align: justify;">ThyssenKrupp employs well over 150,000 people worldwide and is currently mulling the takeover of the troubled Port Talbot steelworks in the UK from its Indian owner Tata Steel. Perhaps slightly less eye-catching, ThyssenKrupp’s lifts and escalator division has become the world’s largest manufacturer of people movers. It recently won a contract to supply, install, and maintain around 500 lifts and escalators for Qatar’s lavishly equipped Doha Metro network.</p>
+<p style="text-align: justify;">Once the largest company in Europe, Krupp – purveyor of Krupp Stahl both famed and feared – has an industrial heritage second to none. Its merger with Thyssen, a pioneering vertically integrated company, produced an industrial behemoth that unites ground-breaking technologies, most developed in-house, with an almost unequalled manufacturing prowess. The CFI.co judging panel is happy to offer ThyssenKrupp its 2016 Most Innovative Engineering Solutions Europe Award.</p>
