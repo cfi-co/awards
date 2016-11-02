@@ -1,0 +1,23 @@
+---
+id: 4130
+title: "Great American Insurance Group: Best P&C Insurer North America 2016"
+award_year: 2016
+published: 2016-11-02 09:41:39
+published_gmt: 2016-11-02 09:41:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/professional-services/2016/great-american-insurance-group-best-pc-insurer-north-america-2016/"
+categories: ["Professional Services"]
+content_sha256: ad2a9de27785f7eb76c7d5e02781fff8f6fa0a8303f224c5838eb712b42d6da9
+canonical: 4130-great-american-insurance-group-best-pc-insurer-north-america-2016.json
+---
+
+# Great American Insurance Group: Best P&C Insurer North America 2016
+
+> Verbatim archived copy. Canonical machine record: `4130-great-american-insurance-group-best-pc-insurer-north-america-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-medium wp-image-4137" src="https://cfi.co/awards/wp-content/uploads/2017/03/GAIC-300x140.jpg" alt="" width="300" height="140" /></p>
+<p style="text-align: justify;"><strong>The Great American Insurance Group is focused on property and casualty insurance (P&amp;C), primarily dealing in specialised commercial products for businesses and in the sale of traditional fixed and fixed-indexed annuities.</strong></p>
+<p style="text-align: justify;">Established in 1872, the company is one of the oldest P&amp;C insurers in the United States and now comprises over thirty niche speciality insurance companies; each exclusively covering separate market segments that target specialised commercial products and services for businesses.</p>
+<p style="text-align: justify;">Structured like a network of small businesses, all of Great American Insurance Group’s subsidiary companies and divisions design products and build relationships within their own individual markets and communities. The firm has a range of experts within each speciality line who personally provide commercial customers a with unique insights of their industries. This enables the company to optimise regulatory understanding of each industry – reducing paperwork and responding faster to customer enquiries.</p>
+<p style="text-align: justify;">This deep industry expertise also optimises the company’s ability to assess and manage the risks inherent within each respective industry, as well as their customers’ unique business circumstances. Great American Insurance provides hundreds of innovative products and programmes designed to manage the specific risks of every sector. Businesses today, especially small and mid-sized companies, are under a bigger threat than ever from outside risk; a lawsuit, or simply bad luck, could set a company back – or even sink it completely, without an in-depth and knowledgeable assessment.</p>
+<p style="text-align: justify;">The CFI.co judging panel grants the Great American Insurance Group the 2016 Best P&amp;C Insurer North America Award.</p>
