@@ -1,0 +1,24 @@
+---
+id: 3581
+title: "Rothschild & Cie Gestion: Best Institutional Asset Manager Europe 2016"
+award_year: 2016
+published: 2016-11-14 16:15:58
+published_gmt: 2016-11-14 16:15:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2016/rothschild-cie-gestion-best-institutional-asset-manager-europe-2016/"
+categories: ["Asset Management", "Banking", "Europe", "Finance"]
+content_sha256: 7994b447b0cc701a78d7a24a615f0692df233bc73943b554f40901821219e260
+canonical: 3581-rothschild-cie-gestion-best-institutional-asset-manager-europe-2016.json
+---
+
+# Rothschild & Cie Gestion: Best Institutional Asset Manager Europe 2016
+
+> Verbatim archived copy. Canonical machine record: `3581-rothschild-cie-gestion-best-institutional-asset-manager-europe-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3582" src="https://cfi.co/awards/wp-content/uploads/2016/11/Rothschild.jpg" alt="rothschild" width="500" height="57" /></p>
+<p style="text-align: justify;"><strong>A hallmark of excellence, and a name that exudes timeless solidity: Rothschild &amp; Cie Gestion stands for transcendent quality sustained over the ages. Few, if any, asset managers may boast a heritage equal to that of the Rothschild &amp; Cie Gestion Group. However, the firm’s impeccable pedigree does not preclude it from raising the bar on innovation.</strong></p>
+<p style="text-align: justify;">Finely attuned to the demands of ever-changing times, Rothschild &amp; Cie Gestion already in 2011 signed on to the United Nations-supported Principles of Responsible Investment (UNPRI) – a codified set of six guidelines that help investors incorporate environmental, social, and governance (ESG) concerns – and other non-financial parameters – into their decision-making processes.</p>
+<p style="text-align: justify;">Serving institutional investors, fund distributors, and financial intermediaries around the world with asset management services and advice from offices in Paris, London, Zurich, and New York, Rothschild &amp; Cie Gestion is widely recognised – and praised – for its conviction-based approach to the preservation and growth of capital. Thus value is created through the strategic allocation of assets.</p>
+<p style="text-align: justify;">The firm is particularly well-equipped to consistently extract above-market returns from stocks that perform well regardless of market sentiment while maintaining an optimised risk profile. Rothschild &amp; Cie Gestion concentrates its efforts primarily on European equities – a segment that allows the firm’s to leverage its considerable expertise to maximise benefits for investors.</p>
+<p style="text-align: justify;">Rothschild &amp; Cie Gestion also offers an exceptionally comprehensive universe of open architecture investment solutions that cross asset classes and are tailored to meet the exact requirements of clients. Based in London, the firm’s Risk Based Investment Solutions Ltd provides investors an innovative way to maximise risk diversification and avoid excessive turnover and portfolio concentration.</p>
+<p style="text-align: justify;">The CFI.co judging panel agrees that Rothschild &amp; Cie Gestion has found a way to stay true to its heritage while remaining at the leading edge of innovation in asset management – effectively combining the best of both worlds to produce a palette of investment solutions that unswervingly delivers optimised results. The judges declare Rothschild &amp; Cie Gestion the winner of the 2016 Best Institutional Asset Manager Europe Award.</p>
