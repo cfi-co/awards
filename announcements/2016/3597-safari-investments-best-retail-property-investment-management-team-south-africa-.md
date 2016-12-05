@@ -1,0 +1,24 @@
+---
+id: 3597
+title: "Safari Investments: Best Retail Property Investment Management Team South Africa 2016"
+award_year: 2016
+published: 2016-12-05 13:36:38
+published_gmt: 2016-12-05 13:36:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2016/safari-investments-best-retail-property-investment-management-team-south-africa-2016/"
+categories: ["Africa", "Finance", "Real Estate"]
+content_sha256: 3ae31168c5d404d3488ae4fc0c26f944520a3fe4404eb92c0c84cb686ec39401
+canonical: 3597-safari-investments-best-retail-property-investment-management-team-south-africa-.json
+---
+
+# Safari Investments: Best Retail Property Investment Management Team South Africa 2016
+
+> Verbatim archived copy. Canonical machine record: `3597-safari-investments-best-retail-property-investment-management-team-south-africa-.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3598" src="https://cfi.co/awards/wp-content/uploads/2016/12/SafariInvestments.jpg" alt="safariinvestments" width="300" height="107" /></p>
+<p style="text-align: justify;"><strong>Listed on the Johannesburg Stock Exchange, Safari Investments is focused on accumulating and holding quality investments in prime real estate via pooled resources. The firm maintains a healthy debt/equity ratio in order to maintain attractive to both investors and financial institutions.</strong></p>
+<p style="text-align: justify;">Whilst Safari Investments concentrates on acquiring income-generating properties, the firm also holds vacant land with development potential and is active in the retail property market in high-growth areas. Committed to generating sustainable income and capital growth, Safari Investments has established a solid track record and can look forward to significant income growth.</p>
+<p style="text-align: justify;">Selecting properties that offer optimum returns over the medium to long term, Safari Investments manages a large real estate portfolio that includes many of South Africa’s leading retailers as tenants. The company pays particular attention to the long-term sustainability of its portfolio. It does so by taking a holistic approach to investment propositions, including economic and demographic trends that may affect future capital value and rental income streams.</p>
+<p style="text-align: justify;">Risk is mitigated by only investing in properties and developments that already include lease undertakings from reputable tenants. Safari Investment produces a biennial survey of the rental sector in order to keep abreast of developments.</p>
+<p style="text-align: justify;">The company in September 2016 completed construction of its R640 million investment in a new landmark for Namibia, the Platz am Meer Lifestyle Centre. The 50,000m2 waterfront project on the coast of Swakopmund includes prime retail facilities, penthouses, and a small craft harbour.</p>
+<p style="text-align: justify;">The CFI.co judging panel commends Safari Investments for its cautious yet proactive approach to real estate investments. The judges are pleased to offer the company their 2016 Best retail Property Investment Management Team South Africa Award.</p>
