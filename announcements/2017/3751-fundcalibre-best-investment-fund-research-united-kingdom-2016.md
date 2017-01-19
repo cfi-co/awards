@@ -1,0 +1,24 @@
+---
+id: 3751
+title: "FundCalibre: Best Investment Fund Research United Kingdom 2016"
+award_year: 2017
+published: 2017-01-19 10:33:20
+published_gmt: 2017-01-19 10:33:20
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2017/fundcalibre-best-investment-fund-research-united-kingdom-2016/"
+categories: ["Consultancies", "Finance", "Professional Services"]
+content_sha256: dc5e149750a772e8286a352bf03f2d3c50cea612d998d495f6bd645b4c5b5022
+canonical: 3751-fundcalibre-best-investment-fund-research-united-kingdom-2016.json
+---
+
+# FundCalibre: Best Investment Fund Research United Kingdom 2016
+
+> Verbatim archived copy. Canonical machine record: `3751-fundcalibre-best-investment-fund-research-united-kingdom-2016.json`.
+
+<p style="text-align: justify;"><img class="size-full wp-image-3752 aligncenter" src="https://cfi.co/awards/wp-content/uploads/2017/01/FundCalibre.jpg" alt="fundcalibre" width="297" height="85" /></p>
+<p style="text-align: justify;"><strong>In a universe of more than 3,000 funds available to UK investors, FundCalibre gives its Elite Rating to only around 150. With an in-house research team that boasts more than 50 years of expertise, the ratings house meets hundreds of managers each year to filter the list down to only those they believe truly stand out.</strong></p>
+<p style="text-align: justify;">At the heart of FundCalibre’s evaluation process is the firm’s proprietary AlphaQuest tool, which not only analyses past performance, but finds the funds most likely to outperform based on their managers’ track records. A fund must achieve a certain AlphaQuest score before the team will even consider further qualitative research.</p>
+<p style="text-align: justify;">FundCalibre’s research analysts will then interview the managers face-to-face to better understand their investment process and style, and what gives them an edge. Finally, both quantitative and qualitative analysis is subjected to peer group review before deciding whether to award an Elite Rating.</p>
+<p style="text-align: justify;">FundCalibre enables experienced investors to help validate decisions and find hidden gems, while newcomers may benefit from its simple, easy-to-understand ratings system; straightforward, jargon-free research notes; and weekly editorial email to highlight and explain major financial news.</p>
+<p style="text-align: justify;">Due to investor demand, the Elite Rating now also includes a ‘Responsible Investing’ category, which looks at funds that set out to make a difference through both avoiding various sectors and trends, as well as actively seeking out companies that are leading the way in terms of environmental action and social responsibility.</p>
+<p style="text-align: justify;">Taking the guesswork out of the investment process, FundCalibre provides a valuable service to the independent investor. The CFI.co judging panel is pleased to offer FundCalibre the 2016 Best Investment Fund Research United Kingdom Award.</p>
