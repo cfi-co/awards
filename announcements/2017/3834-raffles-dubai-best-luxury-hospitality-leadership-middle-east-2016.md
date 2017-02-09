@@ -1,0 +1,23 @@
+---
+id: 3834
+title: "Raffles Dubai: Best Luxury Hospitality Leadership Middle East"
+award_year: 2017
+published: 2017-02-09 10:35:45
+published_gmt: 2017-02-09 10:35:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2017/raffles-dubai-best-luxury-hospitality-leadership-middle-east-2016/"
+categories: ["Best Practice", "Industries", "Middle East"]
+content_sha256: dc26cd4a7e7fff69de3a60f29c81f1460c7ac161d80700b41a05ade68af78f37
+canonical: 3834-raffles-dubai-best-luxury-hospitality-leadership-middle-east-2016.json
+---
+
+# Raffles Dubai: Best Luxury Hospitality Leadership Middle East
+
+> Verbatim archived copy. Canonical machine record: `3834-raffles-dubai-best-luxury-hospitality-leadership-middle-east-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3835" src="https://cfi.co/awards/wp-content/uploads/2017/02/Raffles.jpg" alt="" width="265" height="270" /></p>
+<p style="text-align: justify;"><strong>Standing, proudly, at the apex of splendour and perpetuating the grandeur of a time almost lost, Raffles welcomes its overnight guests to a painstakingly crafted world of unhurried luxury. The original Raffles Hotel in Singapore, birthplace of the legendary Singapore Sling and a home away from home to nearly all of the world’s greats, remains a celebrated landmark – and a national monument – in the city state at the crossroads of civilisations.</strong></p>
+<p style="text-align: justify;">From its founding in 1887 as a ten-room guest lodge overlooking the South China Sea, Raffles has been synonymous with style and elegance, a magnet for the wealthy and powerful craving for a respite from their hectic surroundings. Offering a veritable oasis of tranquillity, and its fabled Long Bar where Ernest Hemingway and Somerset Maughan found inspiration, Raffles left no detail to chance and soon set the benchmark for luxury hotels the world over.</p>
+<p style="text-align: justify;">That legacy remains alive today as Raffles expands overseas. In addition to the original in Singapore, eleven Raffles Hotels have been opened across Asia, Europe, and the Middle East. Instead of pursuing uniformity, Raffles has awarded each of its hotels a set of unique characteristics whilst remaining true to the brand’s hallmark of unsurpassed quality.</p>
+<p style="text-align: justify;">Raffles Dubai lends its surroundings a touch of class with an understated, yet ever-present, refinement – an art acquired through heritage rather than by learning.</p>
+<p style="text-align: justify;">The CFI.co judging panel cannot help but offer Raffles Dubai an ode to its accomplishments: successfully replicating that what is unique by its very definition. Thus, Raffles Dubai is offered the 2016 Best Luxury Hospitality Leadership Middle East Award.</p>
