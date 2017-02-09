@@ -1,0 +1,23 @@
+---
+id: 3838
+title: "KPMG: Best Tax Team Germany"
+award_year: 2017
+published: 2017-02-09 10:38:48
+published_gmt: 2017-02-09 10:38:48
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2017/kpmg-best-tax-team-germany-2016/"
+categories: ["Consultancies", "Finance", "Professional Services"]
+content_sha256: dae325c68f94678b3ac4b115c405bd8b38043b9b75b814bdbefd2966974b3d1f
+canonical: 3838-kpmg-best-tax-team-germany-2016.json
+---
+
+# KPMG: Best Tax Team Germany
+
+> Verbatim archived copy. Canonical machine record: `3838-kpmg-best-tax-team-germany-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3839" src="https://cfi.co/awards/wp-content/uploads/2017/02/KPMG.jpg" alt="" width="382" height="158" /></p>
+<p style="text-align: justify;"><strong>Known as one of the Big Four auditing firms, KPMG is a professional services company specialising in audit, tax, consulting, and deal advisory.</strong></p>
+<p style="text-align: justify;">In Germany alone, the company boasts 9,800 employees in over twenty locations and its tax advisory team includes interdisciplinary specialists with access to KPMG’s top-of-the-range data-management system. Each specialist operates within his/her own key industry group in order to fully understand specific tax issues within each industry.</p>
+<p style="text-align: justify;">Germany’s tax transformation is set to take the country by storm, thanks to the Organization for Economic Cooperation and Development’s global action plan on base erosion and profit shifting (BEPS). This plan includes fifteen action points to ensure international tax rules are fit for today’s globalised world; adequately taxing multinational companies and closing tax avoidance loopholes.</p>
+<p style="text-align: justify;">With a verbal commitment to BEPS, as well as a first draft law to implement the action plan, Germany is well on the way to changing its corporate taxation matrices – and KPMG is well prepared for this. The firm is already advising clients on how to meet their compliance responsibilities and act on planning opportunities. The German team not only has access to dedicated resources across the global network, but can also draw from the deep knowledge base of the global offices for multinational tax queries.</p>
+<p style="text-align: justify;">The firm’s industry-orientated organisation and depth of resources only adds to the fantastic wealth of knowledge and experience of its employees. The CFI.co judging panel is pleased to offer KPMG the 2016 Best Tax Team Germany Award.</p>
