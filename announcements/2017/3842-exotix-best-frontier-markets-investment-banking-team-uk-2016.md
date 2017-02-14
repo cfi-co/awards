@@ -1,0 +1,24 @@
+---
+id: 3842
+title: "Exotix: Best Frontier Markets Investment Banking Team - UK 2016"
+award_year: 2017
+published: 2017-02-14 14:16:25
+published_gmt: 2017-02-14 14:16:25
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2017/exotix-best-frontier-markets-investment-banking-team-uk-2016/"
+categories: ["Banking", "Finance"]
+content_sha256: 773a2f9901512b19352d47e1d5fc9fe46d5d65ed279261daf960f01b91cefd71
+canonical: 3842-exotix-best-frontier-markets-investment-banking-team-uk-2016.json
+---
+
+# Exotix: Best Frontier Markets Investment Banking Team - UK 2016
+
+> Verbatim archived copy. Canonical machine record: `3842-exotix-best-frontier-markets-investment-banking-team-uk-2016.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-3843" src="https://cfi.co/awards/wp-content/uploads/2017/02/Exotix.jpg" alt="" width="252" height="102" /></p>
+<p style="text-align: justify;"><strong>With analysts covering more countries than any other frontier markets firm in the world, Exotix has been renowned for its thought leadership and dominance within the field for over 15 years.</strong></p>
+<p style="text-align: justify;">Having traded since the time frontier and illiquid markets were still dubbed “exotics”, the company has had time to build invaluable relationships and expertise within the industry, allowing its clients to benefit from the innovative financing structures it can offer.</p>
+<p style="text-align: justify;">The firm’s stronghold spans across Europe, the Middle East, Africa, Asia and Latin America, and provides investment banking services to over 130 companies, financial institutions, investment funds and governments. Not only that, but Exotix enjoys a leading market share of trading across Kenya, Nigeria, Pakistan and Bangladesh.</p>
+<p style="text-align: justify;">Exotix is also quick to jump on the new opportunities and trends its famous research team swiftly uncovers; the firm is currently planning an expansion of the core global loans business and coverage of Latin America, where it has seen major gains.</p>
+<p style="text-align: justify;">The firm’s ongoing global deals are a testament to its success, including a range of upcoming IPOs and energy projects – from renewables to oil and gas. Exotix also recently announced a landmark deal with a Tanzanian company, Swala Oil and Gas, to place corporate bonds of up to a value of $120 million in order to finance a material transaction.</p>
+<p style="text-align: justify;">The CFI.co judging panel commends Exotix on its dominance and knowledgeability of its market, and awards the firm with the Best Frontier Markets Investment Banking Team in the UK for 2016.</p>
