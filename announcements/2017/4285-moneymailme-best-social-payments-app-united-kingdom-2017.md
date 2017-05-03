@@ -1,0 +1,24 @@
+---
+id: 4285
+title: "Moneymailme: Best Social Payments App United Kingdom 2017"
+award_year: 2017
+published: 2017-05-03 13:10:21
+published_gmt: 2017-05-03 12:10:21
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2017/moneymailme-best-social-payments-app-united-kingdom-2017/"
+categories: ["Europe", "Technology"]
+content_sha256: 34557932ff3d64579d1f77802a995113bb218587667431927b656601c5f6fd4e
+canonical: 4285-moneymailme-best-social-payments-app-united-kingdom-2017.json
+---
+
+# Moneymailme: Best Social Payments App United Kingdom 2017
+
+> Verbatim archived copy. Canonical machine record: `4285-moneymailme-best-social-payments-app-united-kingdom-2017.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4286" src="https://cfi.co/awards/wp-content/uploads/2017/05/Moneymailme.jpg" alt="" width="374" height="99" /></p>
+<p style="text-align: justify;"><strong>Adding yet another convenient shortcut to money transfer, Moneymailme allows users to send funds while chatting with friends on their smartphone. The Moneymailme app pioneers the novel concept of social money – micro payments to friends, relatives, colleagues, or others to repay favours, contribute towards gifts, or offer help in an emergency. Charities can employ Moneymailme to raise funds for initiatives and campaigns. The app can also be used to pay for goods and services at e-shops.</strong></p>
+<p style="text-align: justify;">Social money is the latest dimension to further enrich the social media environment. The Moneymailme is a fully-featured chatting app with video calls and file sharing. Money transfers are processed in real-time via a secure and regulated network of e-wallets. Both conversations and transactions are encrypted, using advanced protocols that ensure data are protected against privacy breaches. Whilst transfers are free, the topping-up of users’ accounts incurs a small charge.</p>
+<p style="text-align: justify;">Moneymailme has partnered with Mangopay, a payment technology provider, and maintains a custodian account at Barclays Bank to facilitate secure transactions. Moneymailme is available in more than 130 countries. Users can send and receive small remittances in euros, pounds, US dollars, SA rands, Swiss francs, and Polish zlotys. The company is currently considering adding crypto money such as bitcoin to its currency mix.</p>
+<p style="text-align: justify;">The CFI.co judging panel applauds Moneymailme’s innovative approach to social money and money transfers. The judges are pleased to declare Moneymailme winner of the 2017 Best Social Payments App United Kingdom Award.</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4376" src="https://cfi.co/awards/wp-content/uploads/2017/05/moneymailme-1.jpg" alt="" width="370" height="748" /></p>
+<p style="text-align: justify;"></p>
