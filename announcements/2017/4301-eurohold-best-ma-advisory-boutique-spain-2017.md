@@ -1,0 +1,22 @@
+---
+id: 4301
+title: "Eurohold: Best M&A Advisory Boutique Spain 2017"
+award_year: 2017
+published: 2017-05-03 13:57:47
+published_gmt: 2017-05-03 12:57:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/professional-services/2017/eurohold-best-ma-advisory-boutique-spain-2017/"
+categories: ["Consultancies", "Professional Services"]
+content_sha256: d6e4d4e3615b5f625d9d6a73148dac7eda049c0af51ab6e196eb829d3dabb9a5
+canonical: 4301-eurohold-best-ma-advisory-boutique-spain-2017.json
+---
+
+# Eurohold: Best M&A Advisory Boutique Spain 2017
+
+> Verbatim archived copy. Canonical machine record: `4301-eurohold-best-ma-advisory-boutique-spain-2017.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4302" src="https://cfi.co/awards/wp-content/uploads/2017/05/Eurohold.jpg" alt="" width="349" height="115" /></p>
+<p style="text-align: justify;"><strong>Thanks to a business model that prioritises proximity to clients, Eurohold has become one of the largest providers of a full range of corporate financial services to global companies, private equity funds, and privately-held businesses. The firm, based in Barcelona, Spain, but with a global reach, has a particularly noteworthy track record in the mergers and acquisitions field, successfully structuring highly-complex deals such as the recent sale of Gigigo Group, a digital marketing pioneer, to Digital Dimension of France, a leading provider of transformative digital technology to business. Eurohold was on the buy side of the deal.</strong></p>
+<p style="text-align: justify;">With offices and representatives spread across the globe, Eurohold is able to facilitate cross-border corporate transactions leveraging the firm’s vast reservoir of local expertise. Eurohold’s holistic approach means that its clients receive guidance, insights, and solid advice throughout the M&amp;A process – taking guesswork out of the equation and mitigating risk. Fiercely independent and adhering to the highest ethical standards, Eurohold sticks to its core business of corporate finance to ensure the firm suffers no distractions or conflicts of interest. The firm is Spain’s largest independent corporate financial advisor in the mid and small cap segments by number of deals.</p>
+<p style="text-align: justify;">Eurohold pursues long-term relationships with its clients, striving to become a true business partner with a thorough understanding of corporate needs, philosophy, and goals in order to ensure the services offered dovetail precisely with requirements.</p>
+<p style="text-align: justify;">The CFI.co judging panel notes that Eurohold had been in business for over a quarter century, growing steadily into a major force in the market. The judges are pleased to offer the company the 2017 Best M&amp;A Advisory Boutique Spain Award.</p>
