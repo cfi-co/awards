@@ -1,0 +1,22 @@
+---
+id: 4258
+title: "GTBank (Ghana): Best Digital Banking Ghana 2017"
+award_year: 2017
+published: 2017-05-03 12:40:25
+published_gmt: 2017-05-03 11:40:25
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2017/gtbank-ghana-best-digital-banking-ghana-2017/"
+categories: ["Africa", "Banking"]
+content_sha256: 87bb500ae2f85dd67d500f7ec961e5d70e6548294bc541b3ae77ce3c18f6a158
+canonical: 4258-gtbank-ghana-best-digital-banking-ghana-2017.json
+---
+
+# GTBank (Ghana): Best Digital Banking Ghana 2017
+
+> Verbatim archived copy. Canonical machine record: `4258-gtbank-ghana-best-digital-banking-ghana-2017.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4260" src="https://cfi.co/awards/wp-content/uploads/2017/05/GTbank.jpg" alt="" width="229" height="233" /></p>
+<p style="text-align: justify;"><strong>With a state-of-the-art and full-service online banking portal, and multiple alternative service access channels, Guaranty Trust Bank (Ghana) has established a well-earned reputation as an e-banking pioneer. The parent company, GTBank Plc, a publicly-traded company listed on the London Stock Exchange and the Deutsche Börse, maintains a Pan-African network of subsidiaries. The bank’s geographical footprint extends to the UK via its London branch which received its full banking licence in 2008.</strong></p>
+<p style="text-align: justify;">The Nigeria-based banking group – one of the largest in Sub-Saharan Africa – was amongst the first to offer a full palette of services delivered via the Internet and mobile devices. The bank recently expanded its operations to include the buoyant economies of East Africa with the acquisition of a controlling stake in Fina Bank – since rebranded – with offices in Kenya, Rwanda, and Uganda.</p>
+<p style="text-align: justify;">One of its flagship subsidiaries, GTBank (Ghana) has pushed the envelope, and set the pace, in providing excellence in customer service. The bank aims to maintain the closest possible proximity to its clients and, to this end, instituted an open-door policy that offers clients a multitude of ways to keep in touch with the bank’s agents and account executives.</p>
+<p style="text-align: justify;">The CFI.co judging panel notes that GTBank (Ghana) has carefully crafted its brand image to convey openness, inclusiveness, and a can-do spirit that is unique in the industry. The judges wholeheartedly agree that GTBank (Ghana) amply deserves recognition as winner of the 2017 Best Digital Bank Ghana Award.</p>
