@@ -1,0 +1,22 @@
+---
+id: 4327
+title: "Evertec: Best Payment Processing Provider Latin America 2017"
+award_year: 2017
+published: 2017-05-03 14:17:28
+published_gmt: 2017-05-03 13:17:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2017/evertec-best-payment-processing-provider-latin-america-2017/"
+categories: ["Latin America", "Professional Services", "Technology"]
+content_sha256: 177af21444d30b0fff3dca13918357451c6c5e4f2b46543b36b84cf96b6df16e
+canonical: 4327-evertec-best-payment-processing-provider-latin-america-2017.json
+---
+
+# Evertec: Best Payment Processing Provider Latin America 2017
+
+> Verbatim archived copy. Canonical machine record: `4327-evertec-best-payment-processing-provider-latin-america-2017.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4328" src="https://cfi.co/awards/wp-content/uploads/2017/05/Evertec.jpg" alt="" width="396" height="107" /></p>
+<p style="text-align: justify;"><strong>Processing in excess of two billion payment transactions annually, Puerto Rico-based Evertec, listed on the New York Stock Exchange [NYSE:EVTC], is one of the leading full-service business solution providers in Latin America and the Caribbean. The company was set up in 2004 as a subsidiary of Popular – the largest financial services provider in the Caribbean. It has since become a publicly traded company – the first Puerto Rican tech business to gain a listing on the NYSE.</strong></p>
+<p style="text-align: justify;">Evertec owns and operates the ATH network, one of the leading personal identification number (PIN) debit networks in Latin America. The company expanded most recently into Colombia and has a footprint that stretches from Mexico via the Central American isthmus to South America and the Caribbean. Evertec maintains three business lines: merchant acquiring, payment processing, and business solution services. The company offers a full suite of services for core bank processing, cash processing, and the outsourcing of technology. Amongst its clients, Evertec counts large corporations, governments, merchants, and leading financial institutions that require robust fail safe technology solutions.</p>
+<p style="text-align: justify;">Boasting almost three decades’ of experience in fintech, Evertec has gained wide recognition for offering innovative and reliable solutions that are fully scalable and easily adaptable to local regulatory frameworks.</p>
+<p style="text-align: justify;">The CFI.co judging panel agrees that efficient and seamless payment processing solutions are key to any organisation mindful of costs and end-user satisfaction. At the leading edge of fintech, Evertec is thus a natural winner of the 2017 Best Payment Processing Provider Latin America Award.</p>
