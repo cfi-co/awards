@@ -1,0 +1,22 @@
+---
+id: 4250
+title: "United Waters International: Most Innovative Water Purification Technology Global 2017"
+award_year: 2017
+published: 2017-05-03 12:34:38
+published_gmt: 2017-05-03 11:34:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/industries/2017/united-waters-international-most-innovative-water-purification-technology-global-2017/"
+categories: ["Industries", "Technology"]
+content_sha256: a0f3a077c61a854155752f5d12dad669c34c98809682b5ba875268d871f80bc1
+canonical: 4250-united-waters-international-most-innovative-water-purification-technology-global.json
+---
+
+# United Waters International: Most Innovative Water Purification Technology Global 2017
+
+> Verbatim archived copy. Canonical machine record: `4250-united-waters-international-most-innovative-water-purification-technology-global.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-4251" src="https://cfi.co/awards/wp-content/uploads/2017/05/UnitedWaters.jpg" alt="" width="240" height="78" /></p>
+<p style="text-align: justify;"><strong>The world is thirsty. Demand for drinking water has risen six-fold over the last half century and is expected to triple over the next fifty years. Yet only about 1.3% of the world’s water resources is available for human consumption. Water purification has become a high-growth industry, expanding globally at a ten to fifteen percent annual clip. The price of potable water, a finite resource, is set to rise in tandem.</strong></p>
+<p style="text-align: justify;">United Waters International (UWI) of Switzerland has developed and introduced a revolutionary biological water purification system that uses no harmful chemicals and produces no residues whilst offering remarkable cost-savings. BioEcoTech also requires up to 80% less energy to produce a sustainable and reliable supply of clean water.</p>
+<p style="text-align: justify;">Founded in 2005 and to provide high-tech water purification solutions, UWI brings together strong industrialists, experienced managers, and leading scientists in a collective effort to force technological breakthroughs. Using a partnership model, UWI works in close collaboration with municipalities, NGOs, and other entities to ensure a broad social impact of its technology. The company is already active in Indian and China, and now mulls expansion into Africa and the Americas.</p>
+<p style="text-align: justify;">The CFI.co judging panel commend UWI for its hands-on approach to providing water purification solution that are easy to implement and scale at an affordable price and with a minimal environmental footprint. The judges are pleased to name United Water International winner of the 2017 Most Innovative Water Purification Technology Global Award.</p>
