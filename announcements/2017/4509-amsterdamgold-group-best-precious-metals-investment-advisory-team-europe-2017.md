@@ -1,0 +1,24 @@
+---
+id: 4509
+title: "AmsterdamGold Group: Best Precious Metals Investment Advisory Team Europe 2017"
+award_year: 2017
+published: 2017-06-06 09:51:45
+published_gmt: 2017-06-06 08:51:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2017/amsterdamgold-group-best-precious-metals-investment-advisory-team-europe-2017/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: 3c0e889f91356df9b38effe55ca81462c1e724337f9e610bde4adf4d234f0688
+canonical: 4509-amsterdamgold-group-best-precious-metals-investment-advisory-team-europe-2017.json
+---
+
+# AmsterdamGold Group: Best Precious Metals Investment Advisory Team Europe 2017
+
+> Verbatim archived copy. Canonical machine record: `4509-amsterdamgold-group-best-precious-metals-investment-advisory-team-europe-2017.json`.
+
+[caption id="attachment_5060" align="aligncenter" width="800"]<img class="wp-image-5060 size-full" src="https://cfi.co/awards/wp-content/uploads/2017/06/AmsterdamGold1.jpg" alt="Luc van Hecke (CEO) and Jeroen Kamphuis (CFO)" width="800" height="606" /> <span style="text-decoration: underline;"><strong><a href="https://cfi.co/corporate-leaders/2017/09/cfi-co-meets-the-ceo-of-amsterdamgold-group-luc-van-hecke/">Mr van Hecke (CEO)</a></strong></span> and Jeroen Kamphuis (CFO)[/caption]
+<p style="text-align: justify;"><strong>It cannot be printed and does not depend on blockchains, algorithms, or other new-fangled processes: precious metals are the perennial fool- and fail-proof investment vehicle for those who seek long-term certainties in a world increasingly beset by risk. Gold and silver, either in bullion or coins, are tangible assets that may fluctuate momentarily in price but always represent concrete value.</strong></p>
+<p style="text-align: justify;">AmsterdamGold Group is counted amongst the world’s largest precious metals trading houses. Founded in 2008, just before the global banking crisis erupted, the company quickly became a safe haven for investors spooked by the fragility of the monetary system. Fully regulated and authorised by the Dutch Financial Market Regulator AFM, AmsterdamGold expanded into a group of four companies that together offer a full suite of services.</p>
+<p style="text-align: justify;">AmsterdamSafe operates a fully-secured VAT-free storage facility at Schiphol Airport, guarded by the Royal Constabulary. AmsterdamGold also buys, sells, and transports precious metals. The company’s management is comprised of professionals and captains of industry with extensive business experience accumulated at the country’s largest multinational corporations.</p>
+<p style="text-align: justify;">Already the largest full-service precious metals trading and clearing house in the Benelux, AmsterdamGold is now poised for rapid expansion in Europe and beyond.</p>
+<p style="text-align: justify;">The CFI.co judging panel commends the company on its holistic and baseline driven approach to precious metals trading, offering ready solutions to investors of all sizes. The judges are pleased to declare AmsterdamGold winner of the 2017 Best Precious Metals Investment Advisory Team Europe Award.</p>
+<img class="aligncenter size-full wp-image-4510" style="text-align: justify;" src="https://cfi.co/awards/wp-content/uploads/2017/06/AmsterdamgoldGroup.jpg" alt="" width="341" height="143" />
