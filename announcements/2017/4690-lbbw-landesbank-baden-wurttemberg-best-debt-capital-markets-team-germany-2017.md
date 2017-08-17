@@ -1,0 +1,23 @@
+---
+id: 4690
+title: "LBBW (Landesbank Baden-Württemberg): Best Debt Capital Markets Team Germany 2017"
+award_year: 2017
+published: 2017-08-17 14:36:22
+published_gmt: 2017-08-17 13:36:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2017/lbbw-landesbank-baden-wurttemberg-best-debt-capital-markets-team-germany-2017/"
+categories: ["Banking", "Europe", "Finance"]
+content_sha256: cb5918858d65bfbf5908cf4b11dd3b693edc89f7fc58d567a72a236072170255
+canonical: 4690-lbbw-landesbank-baden-wurttemberg-best-debt-capital-markets-team-germany-2017.json
+---
+
+# LBBW (Landesbank Baden-Württemberg): Best Debt Capital Markets Team Germany 2017
+
+> Verbatim archived copy. Canonical machine record: `4690-lbbw-landesbank-baden-wurttemberg-best-debt-capital-markets-team-germany-2017.json`.
+
+<img class="aligncenter size-full wp-image-4692" src="https://cfi.co/awards/wp-content/uploads/2017/08/LBBW.jpg" alt="" width="225" height="93" />
+<p style="text-align: justify;"><strong>With a reach extending far beyond its home turf, Landesbank Baden-Württemberg (LBBW) has established a formidable reputation for offering superior access into the EUR fixed income markets.</strong></p>
+<p style="text-align: justify;">LBBW being itself a regular issuer, its DCM set-up today serves FIG, SSA and corporate issuers alike. Based on broad distribution capabilities and an in-depth understanding of investor needs, trademark issuers like EIB, KfW, Rabobank, Nordea Bank, and Daimler have repeatedly entrusted LBBW with their benchmark business. The bank remains equally dedicated to developing the market further.</p>
+<p style="text-align: justify;">Numerous first-time issuers have relied on LBBW for their successful market entry or product innovations like sustainable bonds. And its leading corporate SSD business provides the essential link between LBBW’s corporate client base and Germany’s largest investor base.</p>
+<p style="text-align: justify;">More than anything else, LBBW has been recognised for providing reliable advice and distribution in often challenging market conditions. This has allowed the bank to steadily grow its market share and become a partner of choice for quality credits.</p>
+<p style="text-align: justify;">The CFI.co judging panel recognises the debt capital market expertise available at LBBW which represents real value to issuers. The judges are pleased to offer LBBW the 2017 Best Debt Capital Markets Team Germany Award.</p>
