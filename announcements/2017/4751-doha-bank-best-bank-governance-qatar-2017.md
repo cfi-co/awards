@@ -1,0 +1,23 @@
+---
+id: 4751
+title: "Doha Bank: Best Bank Governance Qatar 2017"
+award_year: 2017
+published: 2017-08-17 14:34:04
+published_gmt: 2017-08-17 13:34:04
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2017/doha-bank-best-bank-governance-qatar-2017/"
+categories: ["Banking", "Middle East"]
+content_sha256: 95acffc89450dd2c0b9741af009e84bcd76ac083f63894f1bdf29bd5fa7c65e3
+canonical: 4751-doha-bank-best-bank-governance-qatar-2017.json
+---
+
+# Doha Bank: Best Bank Governance Qatar 2017
+
+> Verbatim archived copy. Canonical machine record: `4751-doha-bank-best-bank-governance-qatar-2017.json`.
+
+<img class="aligncenter size-full wp-image-4753" src="https://cfi.co/awards/wp-content/uploads/2017/08/DohaBank.jpg" alt="" width="294" height="110" />
+<p style="text-align: justify;"><strong>Corporate governance entails more than adherence to guidelines and codes; it requires the embrace of a full set of values, placed at the core of operations, that provides a solid and well-defined platform from which business is conducted in the interest of all stakeholders – owners, employees, clients, and people in surrounding communities.</strong></p>
+<p style="text-align: justify;">For Doha Bank, founded in 1979 and now one of the leading financial services providers in Qatar, good governance underpins the company’s corporate success. Fielding its participative leadership philosophy, Doha Bank prides itself on an all-inclusive approach to business that meets the demands and requirements of all stakeholders. It also ensures Doha Bank is able to offer its clients consistently superior services.</p>
+<p style="text-align: justify;">Pursuing long-term value creation has allowed Doha Bank to avoid corporate pitfalls and stay clear of market fads. Instead, the bank, now operating in sixteen countries, focuses on the sustainability of its operations, gauging corporate performance against environmental, social, and governance (ESG) benchmarks.</p>
+<p style="text-align: justify;">Doha Bank has been recognised and praised for the transparency of its business dealings. This openness is also a key component of the bank’s drive towards innovation – Doha Bank aims to offer its clients a banking experience second to none in convenience.</p>
+<p style="text-align: justify;">The bank maintains a number of social outreach programmes and initiatives that promote, amongst others, financial inclusion and global citizenship. The CFI.co judging panel congratulates the bank on its achievements. The judges wish to offer Doha Bank the 2017 Best Bank Governance Award.</p>
