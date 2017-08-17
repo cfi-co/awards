@@ -1,0 +1,23 @@
+---
+id: 4627
+title: "AnandRathi: Best Wealth Manager India 2017"
+award_year: 2017
+published: 2017-08-17 15:09:43
+published_gmt: 2017-08-17 14:09:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2017/anandrathi-best-wealth-manager-india-2017/"
+categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_sha256: 1c90e00a1a1b60d6dd845468eb1e6e04a66659de8fa0af7ab919eddacb54f0a0
+canonical: 4627-anandrathi-best-wealth-manager-india-2017.json
+---
+
+# AnandRathi: Best Wealth Manager India 2017
+
+> Verbatim archived copy. Canonical machine record: `4627-anandrathi-best-wealth-manager-india-2017.json`.
+
+<img class="aligncenter size-full wp-image-4628" src="https://cfi.co/awards/wp-content/uploads/2017/08/AnandRathi.jpg" alt="" width="341" height="138" />
+<p style="text-align: justify;"><strong>Canvassing India with a network of over 1,200 branch offices, sub-brokers, and representatives, AnandRathi employs more than 2,500 professionals helping clients nurture and grow wealth. As one of the country’s principal investment banks and securities brokers, AnandRathi boasts a stellar track record grounded in its dedication to research, due diligence, and risk mitigation strategies.Canvassing India with a network of over 1,200 branch offices, sub-brokers, and representatives, AnandRathi employs more than 2,500 professionals helping clients nurture and grow wealth. As one of the country’s principal investment banks and securities brokers, AnandRathi boasts a stellar track record grounded in its dedication to research, due diligence, and risk mitigation strategies.</strong></p>
+<p style="text-align: justify;">Partnering with Citigroup Venture Capital International, which owns a sizeable stake in the firm, allows AnandRathi to offer seamless access to the world’s main financial markets. The company also maintains an office in Dubai to gain privileged access and exposure to the region’s buoyant markets.</p>
+<p style="text-align: justify;">AnandRathi is a fully-accredited member of the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE), as well as the newer Multi Commodity Exchange (MCX), amongst others. This way, AnandRathi is able to offer clients direct access to all of the country’s major trading venues.</p>
+<p style="text-align: justify;">By emphasising the excellence of its research and customer care, the company has been able to maintain steady growth and successfully fend off competition from inferior low-cost brokers. With its client-centric approach to investment services, AnandRathi – in business since 1994 – is recognised for consistently outperforming the overall market.</p>
+<p style="text-align: justify;">The CFI.co judging panel has followed AnandRathi for a number of years. In 2015 and 2016, the judges found the company to be peerless in wealth management. This year, the judges feel AnandRathi is again entitled to receive recognition and declare the company winner of the 2017 Best Wealth Manager India Award.</p>
