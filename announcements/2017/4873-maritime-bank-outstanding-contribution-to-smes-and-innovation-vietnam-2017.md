@@ -1,0 +1,23 @@
+---
+id: 4873
+title: "Maritime Bank: Outstanding Contribution to SMEs and Innovation Vietnam 2017"
+award_year: 2017
+published: 2017-10-16 15:25:07
+published_gmt: 2017-10-16 14:25:07
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2017/maritime-bank-outstanding-contribution-to-smes-and-innovation-vietnam-2017/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: dc313c325c1510979d5c661fafecfc142f358944af2817ce9dd6c9b2cda9cb6c
+canonical: 4873-maritime-bank-outstanding-contribution-to-smes-and-innovation-vietnam-2017.json
+---
+
+# Maritime Bank: Outstanding Contribution to SMEs and Innovation Vietnam 2017
+
+> Verbatim archived copy. Canonical machine record: `4873-maritime-bank-outstanding-contribution-to-smes-and-innovation-vietnam-2017.json`.
+
+<img class="aligncenter size-full wp-image-4874" src="https://cfi.co/awards/wp-content/uploads/2017/10/MB.jpg" alt="" width="276" height="100" />
+<p style="text-align: justify;"><strong>Its mission is deceptively simple: to be the full-service bank everyone wants to join and no one wants to leave. Vietnam’s Maritime Bank is well on its way to reach this goal. In line with its mission, Maritime Bank relentlessly pursues a corporate culture that fosters transparency, high performance, and excellence in customer service. Leveraging the strength of this three-pronged approach,</strong></p>
+<p style="text-align: justify;">Maritime Bank consistently delivers optimised results for all stakeholders, including customers, shareholders, staff members, and surrounding communities. The bank is considered a pioneer in the promotion of financial inclusion.</p>
+<p style="text-align: justify;">Adhering to its fine-tuned operational approach, Maritime Bank has registered sustained growth for over a quarter century. The bank was set up in 1991 in Haiphong City. It later moved the head office to Hanoi in order to allow for faster business development. In 2015, Maritime Bank merged with Mekong Development Bank to become one of Vietnam’s five largest publicly-owned financial services providers.</p>
+<p style="text-align: justify;">The bank maintains a national presence with a network of close to 300 branches and around 500 ATMs. Maritime Bank has gained a solid reputation for anticipating, and responding to, its clients’ needs. The bank’s range of services include tailored products to suit the needs of private accountholders, SMEs, and large corporations. Maritime Bank is recognised for its up-to-date IT backbone which ensures operational efficiency and an optimised customer experience.</p>
+<p style="text-align: justify;">The CFI.co judging panel congratulates the bank on its significant achievements and offers Maritime Bank the 2017 Outstanding Contribution to SMEs and Innovation Vietnam Award.</p>
