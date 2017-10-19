@@ -1,0 +1,23 @@
+---
+id: 4857
+title: "EFG Asset Management: Best Fixed Income Fund Manager United Kingdom 2017"
+award_year: 2017
+published: 2017-10-19 14:12:39
+published_gmt: 2017-10-19 13:12:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2017/efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2017/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: e55e1531340ffb7915064dfa73cf0b59ad00b8344b73445762ba6759c2fc7410
+canonical: 4857-efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2017.json
+---
+
+# EFG Asset Management: Best Fixed Income Fund Manager United Kingdom 2017
+
+> Verbatim archived copy. Canonical machine record: `4857-efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2017.json`.
+
+<img class="aligncenter size-full wp-image-4858" src="https://cfi.co/awards/wp-content/uploads/2017/10/EFG.jpg" alt="" width="235" height="139" />
+<p style="text-align: justify;"><strong>EFG Asset Management takes a hands-on approach to private banking with a can-do mentality that mirrors its corporate philosophy and fits neatly with today’s highly dynamic markets. At EFG, an entrepreneurial spirit coupled to refreshing pragmatism translate into a unique experience for investors. The firm caters to private investors, asset and wealth managers, financial advisers, and institutional investors with tailored and time-honoured yet adaptable formulas that consistently ensure optimum performance.</strong></p>
+<p style="text-align: justify;">The EFG Group of companies is headquartered in Zürich, Switzerland, and maintains a large presence in London in addition to a network of branches and private banks spanning three continents and reaching all of the world’s major financial markets.</p>
+<p style="text-align: justify;">Founded in 1995 by two veteran private bankers, EFG has grown from a promising start-up to a worldwide banking group. The company is listed on SIX Swiss Exchange since 2005 and last year acquired BSI, the oldest bank in Switzerland.</p>
+<p style="text-align: justify;">EFG Asset Management, a division of EFG Private Bank in London, serves the investment needs of the entire group and boasts a global team of experienced professionals around the globe. The division has approximately $20bn in assets under management on behalf of clients. EFG Asset Management is recognised for fostering a corporate culture of independent thinking within a highly disciplined framework.</p>
+<p style="text-align: justify;">The CFI.co judging panel appreciates the value of EFG Asset Management’s proactive straightforward approach. The judges are pleased to offer EFG Asset management the 2017 Best Fixed Income Fund Manager United Kingdom Award.</p>
