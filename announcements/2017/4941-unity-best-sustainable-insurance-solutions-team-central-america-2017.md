@@ -1,0 +1,22 @@
+---
+id: 4941
+title: "Unity: Best Sustainable Insurance Solutions Team Central America 2017"
+award_year: 2017
+published: 2017-11-11 13:24:27
+published_gmt: 2017-11-11 13:24:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2017/unity-best-sustainable-insurance-solutions-team-central-america-2017/"
+categories: ["Latin America", "Professional Services"]
+content_sha256: 138f12da2101064da895c9f5f3f9c4f40d5f08cf32bcbae04fbc1dd31eb7a330
+canonical: 4941-unity-best-sustainable-insurance-solutions-team-central-america-2017.json
+---
+
+# Unity: Best Sustainable Insurance Solutions Team Central America 2017
+
+> Verbatim archived copy. Canonical machine record: `4941-unity-best-sustainable-insurance-solutions-team-central-america-2017.json`.
+
+<img class="aligncenter size-full wp-image-4942" src="https://cfi.co/awards/wp-content/uploads/2017/10/Unity.jpg" alt="" width="236" height="108" />
+<p style="text-align: justify;"><strong>The only regional insurance brokerage offering coverage across Central America, Unity offers a full range of risk management products and services to individual clients, groups, and businesses. The company is recognised for its unequalled experience in the region, joining different cultures and corporate environments under a single roof.</strong></p>
+<p style="text-align: justify;">Founded in 1991 as LR Ducruet and Sons, the company quickly earned the trust of the market and expanded from its base in Panama to reach far into Central America, meeting a pent-up demand for premier insurance services. Via close collaboration, and eventual mergers, with insurance brokers elsewhere in the region, Unity managed to forge a truly Central American company. Today, Unity maintains a presence in Costa Rica, Nicaragua, El Salvador, Honduras, and Guatemala. The firm is the only one in the region that offers corporate risk management products adjusted to the specific needs of the jurisdictions it serves – using a single and tightly integrated IT backbone that ensures operational efficiency and excellence in the delivery of customer services.</p>
+<p style="text-align: justify;">Now eyeing expansion further afield, Unity seeks to apply its experience and corporate formula to new markets. The brokerage employs over 500 professionals throughout Central America and offers insurance advice to well over 5,000 companies. Unity processes more than 80,000 claims annually and boasts around 300,000 clients.</p>
+<p style="text-align: justify;">The CFI.co judging panel has monitored the progress of Unity for a number of years and congratulates the company on its sustained growth. The judges wish to again recognise Unity’s achievements and declare the company winner of the 2017 Best Sustainable Insurance Solutions Team Central America Award.</p>
