@@ -1,0 +1,23 @@
+---
+id: 4949
+title: "fair-finance: Most Socially-Responsible Pension Fund Central Europe 2017"
+award_year: 2017
+published: 2017-11-11 13:35:40
+published_gmt: 2017-11-11 13:35:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2017/fair-finance-most-socially-responsible-pension-fund-central-europe-2017/"
+categories: ["Best Practice", "CSR", "Europe", "Professional Services"]
+content_sha256: f9da59397c0de45c4e44530c40a0b5343c5204948292d9865c95b5269e601945
+canonical: 4949-fair-finance-most-socially-responsible-pension-fund-central-europe-2017.json
+---
+
+# fair-finance: Most Socially-Responsible Pension Fund Central Europe 2017
+
+> Verbatim archived copy. Canonical machine record: `4949-fair-finance-most-socially-responsible-pension-fund-central-europe-2017.json`.
+
+<img class="aligncenter size-full wp-image-4950" src="https://cfi.co/awards/wp-content/uploads/2017/10/FairFinance.jpg" alt="" width="238" height="75" />
+<p style="text-align: justify;"><strong>Austria’s provident funds – “Vorsorgekassen” – are quickly becoming institutional investors of note. The funds, legislated into existence in 2003, manage the mandatory employer contributions towards their workers’ severance pay packages. As contributions accumulate over time, the Vorsorgekassen have become sizeable institutional investors, none more so than fair-finance – the youngest amongst the country’s provident funds.</strong></p>
+<p style="text-align: justify;">With its growing portfolio of investments – mostly, though not exclusively, held-to-maturity bonds – fair-finance consistently manages to outperform its peers by adhering to green economy and sustainability principles. The fund has recently decided to move up to 10% of its portfolio into real estate – the maximum allowed by law. fair-finance will mainly invest in multi-tenant properties in and around Vienna. The fund aims to have its entire portfolio analysed and certified by the country’s environmental watchdog – Österreichisches Umweltzeichen, set up in 1990 to determine the ecological footprint of products and services.</p>
+<p style="text-align: justify;">All investments considered by fair-finance are also subjected to the strict standards set and maintained by ÖGUT – an independent platform for the environment and technology.</p>
+<p style="text-align: justify;">With its vast experience in managing responsible investments, fair-finance helps others such as international corporations and multilateral entities attain similar standards. The fund also pioneers studies and supports educational programmes aimed at greening financial markets and the broader society.</p>
+<p style="text-align: justify;">The CFI.co judging panel is pleased to note the fund’s continued progress and its full embrace of sustainability principles. A repeat winner, fair-finance is offered the 2017 Most Socially-Responsible Pension Fund Central Europe Award.</p>
