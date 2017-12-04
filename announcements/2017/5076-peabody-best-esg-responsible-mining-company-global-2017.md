@@ -1,0 +1,23 @@
+---
+id: 5076
+title: "Peabody: Best ESG-Responsible Mining Company Global 2017"
+award_year: 2017
+published: 2017-12-04 13:20:43
+published_gmt: 2017-12-04 13:20:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2017/peabody-best-esg-responsible-mining-company-global-2017/"
+categories: ["Industries", "Mining", "North America"]
+content_sha256: 2d7b967905c1ac0aea9b54c7205601336c0b768bd31e2d9ebdf289b5ac0dd08c
+canonical: 5076-peabody-best-esg-responsible-mining-company-global-2017.json
+---
+
+# Peabody: Best ESG-Responsible Mining Company Global 2017
+
+> Verbatim archived copy. Canonical machine record: `5076-peabody-best-esg-responsible-mining-company-global-2017.json`.
+
+<img class="aligncenter size-full wp-image-5178" src="https://cfi.co/awards/wp-content/uploads/2017/12/Peabody.jpg" alt="" width="400" height="133" />
+<p style="text-align: justify;"><strong>Though environmental concerns will alter the energy mix, fossil fuels – for now – remain essential to ensure the reliability, continuity, and scalability of supply. In fact, fossil fuels satisfy up to 80% of global primary energy demand and coal is very much a part of that. The good news is that coal’s environmental footprint can be decreased, offset, and thus neutralised in multiple ways to help achieve the world’s environmental goals. That is the approach of Peabody, the world’s largest private-sector coal company.</strong></p>
+<p style="text-align: justify;">Insisting pragmatism works best, Peabody has set aside significant collateral to cover future mine restoration activities. With demand for coal picking up and prices recovering from their 2016 low, the company is able to dedicate significant resources to meet its ambitious environmental goals.</p>
+<p style="text-align: justify;">Recognised for the early adoption of sustainable mining practices, Peabody in 1954 launched its first land reclamation initiative – nearly a quarter century before US law mandated such programmes. Over the past decade, Peabody has spent $177 million to restore over 49,000 acres of land. In 2016, the company accelerated its restoration activities reclaiming 80% more land than was disturbed. In addition, the company continued reductions in total greenhouse gas emissions and has improved greenhouse gas intensity at its mining operations 21% over the past five years.</p>
+<p style="text-align: justify;">Peabody is a leading voice in advocating for the deployment of HELE (high efficiency, low emissions) power stations and is investing considerable resources in the development of CCUS (carbon capture, use, and storage) technologies in pursuit of near-zero emissions from coal-fuelled generation.</p>
+<p style="text-align: justify;">Whilst aware of the controversies surrounding coal mining, the CFI.co judging panel strongly believes that, for now, coal cannot be dispensed with as a source of energy. The judges agree that coal mining in particular benefits from strict adherence to ESG standards. Peabody recognises its corporate responsibilities better than most – and acts upon them. As such, Peabody is declared winner of the 2017 Best ESG-Responsible Mining Company Global Award.</p>
