@@ -1,0 +1,25 @@
+---
+id: 5098
+title: "CoverWallet: Best Commercial Insurance Start-Up United States 2017"
+award_year: 2017
+published: 2017-12-14 15:45:04
+published_gmt: 2017-12-14 15:45:04
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2017/coverwallet-best-commercial-insurance-start-up-united-states-2017/"
+categories: ["North America", "Professional Services"]
+content_sha256: 1cc2899654af10267dab4af5b35b162b3d6f3a740afc4d37038f952267c79500
+canonical: 5098-coverwallet-best-commercial-insurance-start-up-united-states-2017.json
+---
+
+# CoverWallet: Best Commercial Insurance Start-Up United States 2017
+
+> Verbatim archived copy. Canonical machine record: `5098-coverwallet-best-commercial-insurance-start-up-united-states-2017.json`.
+
+<img class="aligncenter size-full wp-image-5099" src="https://cfi.co/awards/wp-content/uploads/2017/12/CoverWallet.jpg" alt="" width="500" height="73" />
+
+&nbsp;
+<p style="text-align: justify;"><strong>New York-based CoverWallet helps small businesses efficiently navigate the often bewildering maze of commercial insurance policies and find the coverage best suited to their specific needs. CoverWallet provides a smart online platform that helps businesses understand the coverage they need, get quotes instantly, and monitor and manage everything, including polices, claims, and certificates of insurance.</strong></p>
+<p style="text-align: justify;">CoverWallet works as a concierge service for the insurance needs of professionals and small and medium size businesses. Harnessing data with thoughtful design and technology allows the company to instantly tailor insurance policies and optimise pricing, providing the best coverage while saving business owners time and money.</p>
+<p style="text-align: justify;">CoverWallet has the capability to offer a full suite of insurance products to protect businesses for risks they might face, from general liability and workers compensation on through to cyber security breaches and executive wrongdoing.</p>
+<p style="text-align: justify;">The company, set up by successful tech entrepreneurs, has attracted top talent and investors to build a platform of unrivalled ease of use. The company’s platform is the first to be considered an all-in-one destination to understand, purchase, and manage commercial insurance products.</p>
+<p style="text-align: justify;">The CFI.co judging panel recognises the need – and demand – for an agile online platform that streamlines and simplifies the commercial insurance business. The judges feel that CoverWallet has succeeded brilliantly where others stumbled or failed. CoverWallet is declared winner of the Best Commercial Insurance Start-Up United States Award.</p>
