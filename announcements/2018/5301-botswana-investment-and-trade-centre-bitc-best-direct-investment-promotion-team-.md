@@ -1,0 +1,24 @@
+---
+id: 5301
+title: "Botswana Investment and Trade Centre (BITC): Best Direct Investment Promotion Team Africa 2017"
+award_year: 2018
+published: 2018-01-11 14:07:19
+published_gmt: 2018-01-11 14:07:19
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2018/botswana-investment-and-trade-centre-bitc-best-direct-investment-promotion-team-africa-2017/"
+categories: ["Africa", "Development", "FDI Agencies", "Government", "Projects"]
+content_sha256: 750a938895ed204a7ac4c3fa2b1e23b066a2cc8f3c606da9a9405e36ddbb348c
+canonical: 5301-botswana-investment-and-trade-centre-bitc-best-direct-investment-promotion-team-.json
+---
+
+# Botswana Investment and Trade Centre (BITC): Best Direct Investment Promotion Team Africa 2017
+
+> Verbatim archived copy. Canonical machine record: `5301-botswana-investment-and-trade-centre-bitc-best-direct-investment-promotion-team-.json`.
+
+<p style="text-align: justify;"><strong><img class="aligncenter size-full wp-image-5302" src="https://cfi.co/awards/wp-content/uploads/2018/02/Botswana.jpg" alt="" width="500" height="185" /></strong></p>
+&nbsp;
+<p style="text-align: justify;"><strong>Botswana is, without doubt, one of Africa’s gems: the country consistently reaps regional top honours on global rankings of governance, ease of doing business, and economic performance. An exceptionally stable political climate, a fully independent judiciary, and a rigorously observed human rights legislation make Botswana stand out and shine as a regional, and indeed continental, beacon of freedom and tranquillity.</strong></p>
+<p style="text-align: justify;">The country is also wide open for business. Botswana offers a vast array of opportunities, underpinned by its highly educated workforce, business-friendly environment, and – perhaps best of all – an efficient and knowledgeable investment promotion agency: the Botswana Investment and Trade Centre (BITC) which offers advice and guidance to those seeking to establish a presence in the country.</p>
+<p style="text-align: justify;">Strategically located in the very heart of the Southern African Region, Botswana is ideally suited as a base from which to serve this economically vibrant and buoyant part of the continent. BITC is the proud custodian of the Botswana brand, now well-recognised globally. The centre organises the annual Global Expo Botswana trade fair which aims to showcase the country and forge lasting partnerships with foreign investors.</p>
+<p style="text-align: justify;">Established by act of parliament, BITC operates as an integrated agency – a one-stop shop for investors. Over the years, the centre has become one of the principal drivers of the country’s economy. BITC also helps domestic business tap into foreign markets and maintains a well-stocked toolkit to help exporters seize opportunity. The centre values sustainable business practices and leads by example.</p>
+<p style="text-align: justify;">The CFI.co judging panel is always excited to hear from Botswana. The judges consider the country a worthy example for others to follow. The judging panel agrees that BITC does a stellar job of promoting Botswana the world over and wishes to offer the centre the 2017 Best Direct Investment Promotion Team Africa Award.</p>
