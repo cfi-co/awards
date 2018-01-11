@@ -1,0 +1,22 @@
+---
+id: 5305
+title: "Academy of Rock: Outstanding Contribution to Music Education Asia Pacific 2017"
+award_year: 2018
+published: 2018-01-11 14:07:22
+published_gmt: 2018-01-11 14:07:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2018/academy-of-rock-outstanding-contribution-to-music-education-asia-pacific-2017/"
+categories: ["Asia Pacific", "Community Engagement"]
+content_sha256: fa047766112278c75b6c6935a0dd93109de37d48e7ca0537b96673127b342bd2
+canonical: 5305-academy-of-rock-outstanding-contribution-to-music-education-asia-pacific-2017.json
+---
+
+# Academy of Rock: Outstanding Contribution to Music Education Asia Pacific 2017
+
+> Verbatim archived copy. Canonical machine record: `5305-academy-of-rock-outstanding-contribution-to-music-education-asia-pacific-2017.json`.
+
+<p style="text-align: justify;"><strong><img class="aligncenter wp-image-5307" src="https://cfi.co/awards/wp-content/uploads/2018/02/AoR.jpg" alt="" width="232" height="229" /></strong></p>
+<p style="text-align: justify;"><strong>South East Asia is about to rock and it’s not just the economy that is moving and shaking. The Singapore-based Academy of Rock, set up in 2007 and now recognised as the region’s premier music education venue, offers a whole raft of qualifications not previously available to aspiring rock stars. The institution has implemented a comprehensive and well-structured curriculum that gives contemporary music students an educational grounding similar to those enjoyed by classical music performers.</strong></p>
+<p style="text-align: justify;">The academy works in close cooperation with the music industry in order to provide students with a maximum of opportunities. The Academy of Rock recently opened its own state-of-the-art recording studio to expand its programme with courses on creative music production techniques. The academy organises and hosts a large number of masterclasses and clinics with internationally-renowned artists. Students are prepared for graded music exams and diplomas which are fully accredited by UK regulators and include UCAS points.</p>
+<p style="text-align: justify;">True to its motto that it’s never too early (or too late) to rock, the academy launched Jungle Jam, a series of books designed for 0-5 year olds. Jungle Jam is slated to expand into an online music platform for young children and will provide a seamless transition to the academy’s Early Years Programme which is set to be launched next January.</p>
+<p style="text-align: justify;">The CFI.co judging panel noted that the Academy of Rock is currently pursuing deals with Netflix and Disney, and has also embarked on regional expansion with franchises in a number of countries. The judges are pleased to offer the Academy of Rock the 2017 Outstanding Contribution to Music Education Asia Pacific Award.</p>
