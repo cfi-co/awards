@@ -1,0 +1,22 @@
+---
+id: 5266
+title: "MEEZA: Best IT Security GCC 2017"
+award_year: 2018
+published: 2018-01-11 14:07:04
+published_gmt: 2018-01-11 14:07:04
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2018/meeza-best-it-security-gcc-2017/"
+categories: ["Industries", "Middle East", "Technology"]
+content_sha256: 03af46d0d509cefcf7f5d2b390c88ce82adfb4d10866735eb83ca2db614e61a4
+canonical: 5266-meeza-best-it-security-gcc-2017.json
+---
+
+# MEEZA: Best IT Security GCC 2017
+
+> Verbatim archived copy. Canonical machine record: `5266-meeza-best-it-security-gcc-2017.json`.
+
+<img class="aligncenter size-full wp-image-3916" src="https://cfi.co/awards/wp-content/uploads/2017/03/Meeza.jpg" alt="" width="388" height="163" />
+<p style="text-align: justify;"><strong>In the IT security landscape, change comes quickly and poses an often lethal threat to business. Breaches of security with the attendant loss of data integrity and privacy can lead to both reputational damage and financial ruin. A basic antivirus programme of the install-and-forget variety no longer suffices to keep intruders at bay. Today’s networks and datacentres call for advanced permanent monitoring, scanning, logging, and analysis of both external and internal threats.</strong></p>
+<p style="text-align: justify;">MEEZA, a Qatar-based IT security company, offers a range of services that together ensure the resilience of client networks and allow for full regulatory compliance. The company’s advanced security monitoring service scrutinises critical IT assets round the clock and instantly flags and reports incidents. To detect suspicious activity, MEEZA uses self-learning algorithms that check for network traffic that deviates from historic patterns.</p>
+<p style="text-align: justify;">MEEZA also helps clients boost their IT security by mapping vulnerabilities and weighing future threats. The company offers cost effective solutions that maintain the operational flexibility required from companies in today’s fast-paced global market. MEEZA recognises IT security as a main pillar of corporate risk mitigation strategy. The company also helps clients meet increasingly strict logging, privacy, and reporting standards with its universal log management service.</p>
+<p style="text-align: justify;">The CFI.co judging panel notes that IT security is no longer a corporate after-thought. Security breaches can and do result in reputational damage that is hard to contain and even more difficult to revert. Fielding a team of highly-trained IT security professionals and deploying cutting-edge technology, MEEZA offers a level of assurance seldom seen in the business. A repeat winner, MEEZA is named recipient of the 2017 Best IT Security GCC Award.</p>
