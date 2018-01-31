@@ -1,0 +1,23 @@
+---
+id: 5276
+title: "Caixa Económica Montepio Geral: Best Heritage Retail Bank Portugal 2017"
+award_year: 2018
+published: 2018-01-31 12:15:19
+published_gmt: 2018-01-31 12:15:19
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2018/caixa-economica-montepio-geral-best-heritage-retail-bank-portugal-2017/"
+categories: ["Banking", "Europe"]
+content_sha256: cdf707213041da72aebcc41c16431317ca39a4bc998ab84b8d1e765ab7a10d77
+canonical: 5276-caixa-economica-montepio-geral-best-heritage-retail-bank-portugal-2017.json
+---
+
+# Caixa Económica Montepio Geral: Best Heritage Retail Bank Portugal 2017
+
+> Verbatim archived copy. Canonical machine record: `5276-caixa-economica-montepio-geral-best-heritage-retail-bank-portugal-2017.json`.
+
+<img class="aligncenter size-full wp-image-5277" src="https://cfi.co/awards/wp-content/uploads/2018/01/Montepio.jpg" alt="" width="349" height="218" />
+<p style="text-align: justify;"><strong>Displaying both resilience and determination, Caixa Económica Montepio Geral – one of Portugal’s oldest banks – has survived and indeed prospered throughout the ages thanks to its ability to quickly adapt and meet shifting market conditions with aplomb and a keen eye for opportunity.</strong></p>
+<p style="text-align: justify;">Founded in 1840 and headquartered in Lisbon, Caixa Económica Montepio Geral traces its corporate origins to a mutual savings entity. Today, Caixa Económica Montepio Geral stands at the apex of a business group that also includes insurance, fund and asset management, and property management companies.</p>
+<p style="text-align: justify;">In January, Caixa Económica Montepio Geral’s management revealed a much higher than expected capital ratio, beating market expectations with the bank’s Tier 1 ratio significantly exceeding the tighter requirements that only come into force later this year. The achievement allowsCaixa Económica Montepio Geral to consolidate and expand its activities. The bank continues to play a major role, as it has done for many decades, in the development of Portugal’s business environment, placing particular emphasis on supporting young entrepreneurs and start-ups.</p>
+<p style="text-align: justify;">Deeply rooted in the country’s corporate establishment, Caixa Económica Montepio Geral is able to close the generational divide between young and established entrepreneurs, coupling ambition and drive with experience and knowledge for superior results that help underpin the country’s economy.</p>
+<p style="text-align: justify;">The CFI.co judging panel congratulates Caixa Económica Montepio Geral on its hands-on approach to business development. The judges agree that the bank is peerless when it comes to navigating the buoyant Portuguese economy. The judges declare Caixa Económica Montepio Geral winner of the 2017 Best Heritage Bank Portugal Award.</p>
