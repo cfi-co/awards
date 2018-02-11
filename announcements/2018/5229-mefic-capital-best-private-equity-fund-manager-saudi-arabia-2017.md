@@ -1,0 +1,22 @@
+---
+id: 5229
+title: "MEFIC Capital: Best Private Equity Fund Manager Saudi Arabia 2017"
+award_year: 2018
+published: 2018-02-11 13:58:58
+published_gmt: 2018-02-11 13:58:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2018/mefic-capital-best-private-equity-fund-manager-saudi-arabia-2017/"
+categories: ["Asset Management", "Finance", "Middle East"]
+content_sha256: ff01dec13e06b0ad082dc5aba6491fbac9e7d0168272a740b4f977c5d6e3065d
+canonical: 5229-mefic-capital-best-private-equity-fund-manager-saudi-arabia-2017.json
+---
+
+# MEFIC Capital: Best Private Equity Fund Manager Saudi Arabia 2017
+
+> Verbatim archived copy. Canonical machine record: `5229-mefic-capital-best-private-equity-fund-manager-saudi-arabia-2017.json`.
+
+<img class="aligncenter size-full wp-image-5231" src="https://cfi.co/awards/wp-content/uploads/2018/01/Mefic.jpg" alt="" width="500" height="178" />
+<p style="text-align: justify;"><strong>A full service financial services company in the Kingdom of Saudi Arabia, MEFIC Capital is active in all segments of the investment banking and consultancy sector. The company helps both individual investors and corporates attain their financial objectives via a holistic approach grounded in experience and expertise. MEFIC Capital is owned by Ahli United Bank of Bahrain, The Arab Investment Company (TAIC), and a number of ultra-high-net-worth individuals. The firm was set up and licensed in 2007 and has since received ample recognition for its pioneering role in the further development of the buoyant KSA securities markets.</strong></p>
+<p style="text-align: justify;">MEFIC Capital maintains four distinct, yet closely integrated, business lines: asset management, wealth management, corporate finance and advisory, and custody services. Its brokerage is one of the most efficient in the kingdom and offers a number of structured products that enable optimised returns whilst minimising exposure to risk.</p>
+<p style="text-align: justify;">Thanks to its thorough understanding of local and regional market conditions, and its affiliation with one of the region’s top banks, MEFIC Capital’s investment banking arm is considered without equal when it comes to debt and equity placements, mergers and acquisitions, and initial public offerings (IPOs).</p>
+<p style="text-align: justify;">The CFI.co judging panel notes that MEFIC Capital also maintains a comprehensive corporate responsibility programme focused on skill development and the creation of job opportunities for young professionals. The judges are pleased to offer MEFIC Capital the 2017 Best Private Equity Fund Manager Saudi Arabia Award.</p>
