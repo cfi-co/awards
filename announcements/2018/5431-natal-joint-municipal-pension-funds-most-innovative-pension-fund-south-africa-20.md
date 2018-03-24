@@ -1,0 +1,24 @@
+---
+id: 5431
+title: "Natal Joint Municipal Pension Funds: Most Innovative Pension Fund South Africa 2018"
+award_year: 2018
+published: 2018-03-24 12:16:47
+published_gmt: 2018-03-24 12:16:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2018/natal-joint-municipal-pension-funds-most-innovative-pension-fund-south-africa-2018/"
+categories: ["Africa"]
+content_sha256: 66ae9722d6176831ee252c79b5da581321f17ba3da55eb816e7dc93afb205399
+canonical: 5431-natal-joint-municipal-pension-funds-most-innovative-pension-fund-south-africa-20.json
+---
+
+# Natal Joint Municipal Pension Funds: Most Innovative Pension Fund South Africa 2018
+
+> Verbatim archived copy. Canonical machine record: `5431-natal-joint-municipal-pension-funds-most-innovative-pension-fund-south-africa-20.json`.
+
+<p style="text-align: justify;"><strong><img class="aligncenter size-full wp-image-5433" src="https://cfi.co/awards/wp-content/uploads/2018/04/NJMPF.jpg" alt="" width="259" height="400" /></strong></p>
+<p style="text-align: justify;"><strong>The Natal Joint Municipal Pension Funds (NJMPF) provide retirement benefits for municipal workers in South Africa’s KwaZulu-Natal Province. NJMPF encompasses two defined benefit funds and one defined contribution fund that allow members access to a range of products closely matched to life’s evolving circumstances. Founded in 1942 and with over SAR 18bn in assets under management, the NJMPF is recognised for its adherence to the highest standards of corporate governance and sound investment policies which have become industry benchmarks.</strong></p>
+<p style="text-align: justify;">NJMPF was one of the first in South Africa to leverage the power of new technologies such as big data analysis and artificial intelligence to further improve service levels and communication with members, streamline procedures, and lower overheads. In particular, the fund maintains a number of initiatives to disseminate financial literacy and gain insights into the financial challenges faced by members.</p>
+<p style="text-align: justify;">Last year, NJMPF introduced a cross-platform app that enables members to quickly access their accounts and obtain an overview of the fund’s investments. The app also contains a micropædia of financial terms and affords NJMPF a direct channel of communication with its members. By furthering financial literacy and advocating for positive changes in financial behaviour, the fund helps set in motion a behavioural transformation that benefits the wider community.</p>
+<p style="text-align: justify;">With approximately 20,000 active contributors and around 10,000 pensioners in 55 municipalities, NJMPF takes much stock in gauging member satisfaction. The fund regularly conducts in-depth market studies in order to determine demand and has engaged an independent polling company to evaluate the reach of the new app and map its actual use.</p>
+<p style="text-align: justify;">The NJMPF has also been at the forefront of a nationwide drive to reduce the number and volume of unclaimed benefits. The fund has implemented a number of programmes and seconded its most experienced professionals to trace around 1,500 beneficiaries who are owed in excess of SAR 80m. The fund works in close collaboration with social services agencies to track claimants who have dropped off the radar, often due to tragic circumstance, and stand in dire need of help.</p>
+<p style="text-align: justify;">The CFI.co judging panel tips its collective hat to the NJMPF and its professionals who spare no effort to help members receive their benefits. The fund stands as a testament to the need for financial literacy, showing that small contributions add up to a secure future. For the third consecutive year, the judges wholeheartedly agree to recognise the achievements of NJMPF. The Natal Joint Municipal Pension Funds is declared winner of the 2018 Most Innovative Pension Fund South Africa Award.</p>
