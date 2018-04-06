@@ -1,0 +1,30 @@
+---
+id: 5389
+title: "EY Germany: Best Assurance & Advisory Services Team Germany 2018"
+award_year: 2018
+published: 2018-04-06 17:17:11
+published_gmt: 2018-04-06 16:17:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2018/ey-germany-best-assurance-advisory-services-team-germany-2018/"
+categories: ["Accounting", "Consultancies", "Europe", "Legal", "Professional Services"]
+content_sha256: edb8c8e8c47941315eb00ddb464f50928937ad39e304ab87a54461da769aaa3a
+canonical: 5389-ey-germany-best-assurance-advisory-services-team-germany-2018.json
+---
+
+# EY Germany: Best Assurance & Advisory Services Team Germany 2018
+
+> Verbatim archived copy. Canonical machine record: `5389-ey-germany-best-assurance-advisory-services-team-germany-2018.json`.
+
+<img class="aligncenter wp-image-5390" src="https://cfi.co/awards/wp-content/uploads/2018/04/EY.jpg" alt="" width="414" height="197" />
+<p style="text-align: justify;"><strong>Professional services firm EY Germany is dedicated to empowering businesses to do their best. The firm´s young and dynamic team of assurance and advisory professionals excels at finding novel ways to do audits in the digital age, support companies in their transformation of business models, and improve performance in the relentless quest for perfection – or the closest to it.</strong></p>
+<p style="text-align: justify;">Recognized and celebrated for its pursuit of high performance and efficiency, EY Germany´s accounting and advisory team has set itself an ambitious goal: to strengthen the confidence in the economy by helping the interconnected financial world to work better every day.</p>
+<p style="text-align: justify;">Now the country´s second-largest professional services firm, EY Germany is determined to take the lead in helping clients deal with – and prosper in – the new economy shaped by digital transformation. EY Germany also enjoys a decisive edge when helping companies operating cross border, being part of the world´s most internationally integrated professional services firm.</p>
+<p style="text-align: justify;">It is the only large corporate services company in Germany to maintain specialised US and digital Tax expert desks. As the leader in Transaction Advisory Services, EY Germany has also established a dedicated Chinese business desk including professionals from China to offer clients access to their insights on business culture and help them to successfully do transactions with Chinese partners.</p>
+<p style="text-align: justify;">EY Germany´s services blanket the entire spectrum of the business universe. As such, the company assumes the role of knowledgeable partner to its clients.</p>
+<p style="text-align: justify;">The CFI.co judging panel applauds the holistic approach of EY Germany. The firm has, in fact, become a portal for businesses attuned to changing times and ready to fully exploit new opportunities. The judges declare EY Germany winner of the 2018 Best Assurance &amp; Advisory Services Team Germany Award.</p>
+<p style="text-align: justify;">Professional services firm EY Germany is dedicated to empowering businesses to do their best. The firm´s young and dynamic team of assurance and advisory professionals excels at finding novel ways to do audits in the digital age, support companies in their transformation of business models, and improve performance in the relentless quest for perfection – or the closest to it.</p>
+<p style="text-align: justify;">Recognized and celebrated for its pursuit of high performance and efficiency, EY Germany´s accounting and advisory team has set itself an ambitious goal: to strengthen the confidence in the economy by helping the interconnected financial world to work better every day.</p>
+<p style="text-align: justify;">Now the country´s second-largest professional services firm, EY Germany is determined to take the lead in helping clients deal with – and prosper in – the new economy shaped by digital transformation. EY Germany also enjoys a decisive edge when helping companies operating cross border, being part of the world´s most internationally integrated professional services firm.</p>
+<p style="text-align: justify;">It is the only large corporate services company in Germany to maintain specialised US and digital Tax expert desks. As the leader in Transaction Advisory Services, EY Germany has also established a dedicated Chinese business desk including professionals from China to offer clients access to their insights on business culture and help them to successfully do transactions with Chinese partners.</p>
+<p style="text-align: justify;">EY Germany´s services blanket the entire spectrum of the business universe. As such, the company assumes the role of knowledgeable partner to its clients.</p>
+<p style="text-align: justify;">The CFI.co judging panel applauds the holistic approach of EY Germany. The firm has, in fact, become a portal for businesses attuned to changing times and ready to fully exploit new opportunities. The judges declare EY Germany winner of the 2018 Best Assurance &amp; Advisory Services Team Germany Award.</p>
