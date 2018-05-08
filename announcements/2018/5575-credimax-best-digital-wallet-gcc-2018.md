@@ -1,0 +1,21 @@
+---
+id: 5575
+title: "CrediMax: Best Digital Wallet GCC 2018"
+award_year: 2018
+published: 2018-05-08 13:05:29
+published_gmt: 2018-05-08 12:05:29
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2018/credimax-best-digital-wallet-gcc-2018/"
+categories: ["Middle East", "Technology"]
+content_sha256: f5e9adb66445f19c12e97891377506919abdde959c60b487bb068aba2d8e94e9
+canonical: 5575-credimax-best-digital-wallet-gcc-2018.json
+---
+
+# CrediMax: Best Digital Wallet GCC 2018
+
+> Verbatim archived copy. Canonical machine record: `5575-credimax-best-digital-wallet-gcc-2018.json`.
+
+[caption id="attachment_5631" align="aligncenter" width="800"]<img class="wp-image-5631 size-full" src="https://cfi.co/awards/wp-content/uploads/2018/05/Yousif-Mirza.jpg" alt="" width="800" height="533" /> <strong>CEO:</strong> Yousif Mirza[/caption]
+<p style="text-align: justify;"><strong>CrediMax is the first and leading Credit Card Issuer and Acquirer in the Kingdom of Bahrain, providing high quality products and services for its Cardholders and Merchants. CrediMax continuously ensures the application of effective processes and procedures across the company, maintaining compliance and protects the company’s assets as well as obtain advanced technology and security systems to protect its customer database and sustain trusting and lasting partnership with its Cardholders and Merchants.</strong></p>
+<p style="text-align: justify;">CrediMax has grown from a mere card centre unit within one of the largest commercial banks in Bahrain, branching out to a full service card and payment management company with a diversified line of products that enable shoppers and merchants alike to conveniently – and smoothly – complete their transactions in a minimum of time. As the company grew its business, CrediMax adopted an organisational structure that ensures lean operational processes whilst keeping in place a robust framework of risk policies and tools. Over the years, CrediMax has accumulated a vast reservoir of knowledge that now allows the company to expand the scope and depth of its business without sacrificing the operational nimbleness for which it is known.</p>
+<p style="text-align: justify;">The CFI.co judging panel congratulates CrediMax on the launch of MaxWallet, its ground-breaking digital wallet – a QR-enabled mobile payment solution that gives user a quick and secure way to complete face-to-face transactions. The judges agree that CrediMax has been particularly successful in adapting to the new digital and mobile payments environment. The panel declares CrediMax winner of the 2018 Best Digital Wallet GCC Award.</p>
