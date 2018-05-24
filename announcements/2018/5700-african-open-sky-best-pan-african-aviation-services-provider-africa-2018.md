@@ -1,0 +1,23 @@
+---
+id: 5700
+title: "African Open Sky: Best Pan-African Aviation Services Provider Africa 2018"
+award_year: 2018
+published: 2018-05-24 13:57:02
+published_gmt: 2018-05-24 12:57:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2018/african-open-sky-best-pan-african-aviation-services-provider-africa-2018/"
+categories: ["Africa", "Transport"]
+content_sha256: 4a78b390d0991a587b9f8995b376925f5941502ecd038b55acf0f2c40b9f03a4
+canonical: 5700-african-open-sky-best-pan-african-aviation-services-provider-africa-2018.json
+---
+
+# African Open Sky: Best Pan-African Aviation Services Provider Africa 2018
+
+> Verbatim archived copy. Canonical machine record: `5700-african-open-sky-best-pan-african-aviation-services-provider-africa-2018.json`.
+
+<img class="aligncenter size-full wp-image-5701" src="https://cfi.co/awards/wp-content/uploads/2018/05/AOS.jpg" alt="" width="500" height="345" />
+<p style="text-align: justify;"><strong>Africa’s largest flight support company goes the proverbial extra mile, and then some, to make sure its customers receive world class services that exceed expectations. African Open Sky (AOS) takes care of all aspects of pre- and post-flight ground handling services, including catering, refuelling, security, maintenance, stowage, warehousing, flight planning, and crew management amongst others.</strong></p>
+<p style="text-align: justify;">AOS has built a continent-wide network of more than fifty offices in order to deliver optimised services and maintain proximity to its clients. AOS’ large corporate footprint also allows the company to tap into local expertise and ensure ready access to aviation authorities. AOS is fully licensed by aeronautical regulatory entities in all jurisdictions where the company maintains a presence. To maintain its high levels of service, the company refuses to outsource any of its operations to third-party agencies.</p>
+<p style="text-align: justify;">Thanks to its unique “go local” approach, African Open Sky has registered exceptionally strong growth. The company fully explores and exploits market synergies, adapting to local circumstance without compromising on the quality of its services. Wherever state, commercial, corporate, or private airline operators need ground services, AOS stands ready to deliver.</p>
+<p style="text-align: justify;">The CFI.co judging panels commends the Côte d’Ivoire company on it winning formula and wishes to recognise in particular the vision and accomplishments of AOS CEO Max O Cisse whose exemplary leadership has allowed the company to soar high. Mr Cisse was instrumental in establishing close cooperative relationships with civil aviation authorities across Africa, thus laying a solid foundation upon which the business has been erected. By refusing to compromise on safety and quality, Mr Cisse transformed AOS into a trusted partner of regulatory agencies. As a result of the confidence AOS inspires, the company is able to secure permits and licenses much quicker than others – and at a much lower cost as well.</p>
+<p style="text-align: justify;">The judges congratulate the company and its CEO on a double win: African Open Sky is declared winner of the 2018 Best Pan-African Aviation Services Provider Africa Award whilst AOS CEO Max O Cisse is the recipient of the 2018 Best Aviation CEO Africa Award.</p>
