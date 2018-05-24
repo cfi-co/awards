@@ -1,0 +1,22 @@
+---
+id: 5535
+title: "Produbanco: Best Bank Governance Ecuador 2018"
+award_year: 2018
+published: 2018-05-24 12:11:39
+published_gmt: 2018-05-24 11:11:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2018/produbanco-best-bank-governance-ecuador-2018/"
+categories: ["Banking", "Corporate Governance", "Latin America"]
+content_sha256: 2519d6eb01cc1794cf50065303db5e70faa97b72c548ae8c3e196cd1e3a7317c
+canonical: 5535-produbanco-best-bank-governance-ecuador-2018.json
+---
+
+# Produbanco: Best Bank Governance Ecuador 2018
+
+> Verbatim archived copy. Canonical machine record: `5535-produbanco-best-bank-governance-ecuador-2018.json`.
+
+<p style="text-align: justify;"><strong><img class="aligncenter size-full wp-image-5697" src="https://cfi.co/awards/wp-content/uploads/2018/05/ProduBanco.jpg" alt="" width="400" height="127" /></strong></p>
+<p style="text-align: justify;"><strong>One of only a select few banks in South America with a triple A credit rating, Ecuador’s Banco de la Producción S.A. – Produbanco – illustrates the power of corporate governance to bolster resilience and drive growth. Late last year, the bank breached the 700,000 customer mark and further expanded its nationwide network to 115 full-service branch offices.</strong></p>
+<p style="text-align: justify;">Facing the public with a commitment to excellence in the delivery of services, Produbanco has managed to claim additional market share, further improve its financial performance, and strengthen the already solid fundamentals. The bank, one of the largest in the country, is part of Grupo Promerica which has emerged as a regional corporate powerhouse with a presence in nine countries.</p>
+<p style="text-align: justify;">Produbanco is widely recognised as a pioneer in the implementation of a solid corporate governance structure that not only serves as the bank’s operational backbone but also underpins its performance and helps push sustained growth. The pursuit of corporate transparency also helps the bank mitigate risk whilst ensuring full engagement with all stakeholders.</p>
+<p style="text-align: justify;">The CFI.co judging panel has followed Produbanco for a number of years. During that time, the bank has consistently met or surpassed industry benchmarks. The judges agree to declare Produbanco winner of the 2018 Best Bank Governance Ecuador Award.</p>
