@@ -1,0 +1,24 @@
+---
+id: 5547
+title: "Tracom Services: Best Enterprise Payment Solutions East Africa 2018"
+award_year: 2018
+published: 2018-05-24 12:12:26
+published_gmt: 2018-05-24 11:12:26
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2018/tracom-services-best-enterprise-payment-solutions-east-africa-2018/"
+categories: ["Africa", "Professional Services"]
+content_sha256: 5f1bcdccb73ea2c44e836eaef7874ecac7cecf9d7bed44a156933fc94e5db65e
+canonical: 5547-tracom-services-best-enterprise-payment-solutions-east-africa-2018.json
+---
+
+# Tracom Services: Best Enterprise Payment Solutions East Africa 2018
+
+> Verbatim archived copy. Canonical machine record: `5547-tracom-services-best-enterprise-payment-solutions-east-africa-2018.json`.
+
+<p style="text-align: justify;"><strong><img class="aligncenter size-full wp-image-5554" src="https://cfi.co/awards/wp-content/uploads/2018/04/Tracom.jpg" alt="" width="400" height="142" /></strong></p>
+<p style="text-align: justify;"><strong>Home to some of the country’s most gifted whizz kids – now grown into seasoned professionals – Tracom Services of Kenya is in the business of pushing the tech envelope and helping customers seize digital opportunities and prosper by exploiting the latest online delivery channels.</strong></p>
+<p style="text-align: justify;">The company has developed a number of innovative payment and online banking platforms that offer solutions tailored to the needs of the local market. Tracom Services offers a full suite of fully adaptable and scalable IT packages for the financial services industry.</p>
+<p style="text-align: justify;">The software development studio and certified hardware centre one of the largest and most admired in East and Central Africa, maintains a number of development hubs with offices spanning across the East and Central African region. Tracom Services offers a number of ready-made and bespoke payment solutions that are designed to fit seamlessly into existing operations, empowering businesses, and providing instant scalability.</p>
+<p style="text-align: justify;">From its corporate beginnings, Tracom Services has kept its leading edge by embracing innovation and helping both private and public sector customers with cost effective solutions that significantly improve day-to-day operations by simplifying and automating internal processes – such as reporting and risk assessment requirements.</p>
+<p style="text-align: justify;">Tracom Services helps its customers gain the nimbleness that is needed to stay or surge ahead of the competition. The firm partners with top hardware companies such as Ingenico, Diebold Nixdorf, Idemia (OT- Morpho), Evolis, Cardag, among others that are recognised for their innovative approach to payment processing.</p>
+<p style="text-align: justify;">The CFI.co recognises the power of seamless, single-click payment processing: well-designed systems can deliver business growth rates that shatter benchmarks. The judges name Tracom Services winner of the 2018 Best Enterprise Payment Solutions East Africa Award.</p>
