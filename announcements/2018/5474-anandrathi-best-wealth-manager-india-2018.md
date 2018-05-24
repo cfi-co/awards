@@ -1,0 +1,23 @@
+---
+id: 5474
+title: "AnandRathi: Best Wealth Manager India 2018"
+award_year: 2018
+published: 2018-05-24 12:09:11
+published_gmt: 2018-05-24 11:09:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2018/anandrathi-best-wealth-manager-india-2018/"
+categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_sha256: 15b46ada0b3597d5a8f61694330d91243091757ef64f11087d7c7715b57857e1
+canonical: 5474-anandrathi-best-wealth-manager-india-2018.json
+---
+
+# AnandRathi: Best Wealth Manager India 2018
+
+> Verbatim archived copy. Canonical machine record: `5474-anandrathi-best-wealth-manager-india-2018.json`.
+
+<img class="aligncenter size-full wp-image-4628" src="https://cfi.co/awards/wp-content/uploads/2017/08/AnandRathi.jpg" alt="" width="341" height="138" />
+<p style="text-align: justify;"><strong>For proof that a client-centric approach in financial services yields superior results, look no further than AnandRathi – the premier Indian wealth manager and investment bank which last year grew its business by an astonishing 80%. The firm is recognised as one of the country’s foremost – as well as most innovative – providers of financial solutions to private, corporate, and institutional clients.</strong></p>
+<p style="text-align: justify;">AnandRathi was set up in 1994 and quickly canvassed the nation with well over 1,200 branch offices and associate brokers. The firm also maintains a presence in Dubai and is a member of India’s most important bourses, including the Bombay and National stock exchanges, and the National Commodities Exchange.</p>
+<p style="text-align: justify;">AnandRathi owes a significant part of its remarkable corporate success to its staff which now comprises over 2,500 professionals. Comprehensive skill development programmes enable staff members to stay well ahead of their peers and accumulate the expertise that forms the core of the firm’s business.</p>
+<p style="text-align: justify;">Already receiving much acclaim for its research department, AnandRathi has also stayed well ahead of the technological curve. The company now offers its clients a trading platform optimised for mobile devices which allows clients to trade whilst on the go and check and evaluate their positions at all times.</p>
+<p style="text-align: justify;">The CFI.co judging panel has followed AnandRathi’s corporate trajectory since 2014 and recognised the firm’s progress with three awards. The judges agree that the company has kept pace and managed to expand its already formidable lead with new products and services. The judges feel justified in declaring AnandRathi winner of the 2018 Best Wealth Manager India Award.</p>
