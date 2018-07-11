@@ -1,0 +1,22 @@
+---
+id: 5467
+title: "Valentino: Best Fashion Corporate Governance Italy"
+award_year: 2018
+published: 2018-07-11 12:24:04
+published_gmt: 2018-07-11 11:24:04
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2018/valentino-best-fashion-corporate-governance-italy-2018/"
+categories: ["Best Practice", "Corporate Governance", "Europe"]
+content_sha256: 8e8e71a79384bae78c4b498b78bfde807d03ff500d0a5b6d0926ff5142cfd48a
+canonical: 5467-valentino-best-fashion-corporate-governance-italy-2018.json
+---
+
+# Valentino: Best Fashion Corporate Governance Italy
+
+> Verbatim archived copy. Canonical machine record: `5467-valentino-best-fashion-corporate-governance-italy-2018.json`.
+
+[caption id="attachment_5768" align="aligncenter" width="800"]<img class="size-full wp-image-5768" src="https://cfi.co/awards/wp-content/uploads/2018/05/Valentino.jpg" alt="" width="800" height="520" /> Antonella Andrioli, Valentino's Legal and Corporate Affairs Director (right) receiving an award from CFI.co[/caption]
+<p style="text-align: justify;"><strong>The name evokes a certain je ne sais quoi. Valentino, the landmark Italian fashion house named after its founder, has redefined and perfected style since the early 1960s with a perfect melange of suave subtlety and luxurious extravagance. The company’s designers unfailingly set the tone in the fashion world with collections that push the boundaries of convention and explore new frontiers without ever going over the top.</strong></p>
+<p style="text-align: justify;">The brand received wide acclaim from the specialist press at the 2018 Paris Fashion Show, the industry’s flagship event, where even critics not usually given to handing out praise broke with tradition and penned raving reviews citing exquisite colour juxtapositions – always arresting but never jarring. Reaffirming ownership of its signatory house style, Valentino’s creative director Pierpaolo Piccioli showcased in Paris a haute couture at its most dreamily elevated without ever coming close to – or even within striking distance of – the caricatures often trying to steal the show with appeals to the extremely ridiculous or utterly impractical.</p>
+<p style="text-align: justify;">The fashion house has generated a great deal of excitement on the trading floor as well in anticipation of its possible float. Owned by a Qatar-based privately-owned investment company, Valentino has reportedly mulled offering up to 25% of its share capital on the Milan Stock Exchange. Though the IPO has been suspended for now, investors recognise exceptional value due to Valentino’s well-established reputation for excellence in corporate governance.</p>
+<p style="text-align: justify;">The CFI.co judging panel notes that Valentino has resisted the urge to stray from its core business. The company has powered its growth organically, leveraging the peerless competencies that made it into the true last emperor of the fashion world – and this emperor is indeed very well clothed. The judges are honoured to offer Valentino the 2018 Best Fashion Corporate Governance Award.</p>
