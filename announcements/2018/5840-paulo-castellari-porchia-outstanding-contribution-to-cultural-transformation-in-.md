@@ -1,0 +1,23 @@
+---
+id: 5840
+title: "Paulo Castellari-Porchia: Outstanding Contribution to Cultural Transformation in Mining Governance 2018"
+award_year: 2018
+published: 2018-07-30 14:13:18
+published_gmt: 2018-07-30 13:13:18
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2018/paulo-castellari-porchia-outstanding-contribution-to-cultural-transformation-in-mining-governance-2018/"
+categories: ["Corporate Governance", "Industries", "Middle East", "Mining"]
+content_sha256: e6811eb9a68bd9514599f92812a1f5715feb990b7470f53fcb20b7a93e6eaa5e
+canonical: 5840-paulo-castellari-porchia-outstanding-contribution-to-cultural-transformation-in-.json
+---
+
+# Paulo Castellari-Porchia: Outstanding Contribution to Cultural Transformation in Mining Governance 2018
+
+> Verbatim archived copy. Canonical machine record: `5840-paulo-castellari-porchia-outstanding-contribution-to-cultural-transformation-in-.json`.
+
+<img class="aligncenter size-full wp-image-5841" src="https://cfi.co/awards/wp-content/uploads/2018/07/EGA.jpg" alt="" width="407" height="206" />
+<p style="text-align: justify;"><strong>Few people have done more to change the fundamentals of the mining industry than Paulo Castellari-Porchia. Recognising early-on in his career that most mining companies were caught out on the wrong side of the sustainability debate, Mr Castellari-Porchia set out to modify and update long-established processes and practices by engaging all stakeholders, addressing environmental concerns, and developing corporate social responsibility initiatives. His overriding concern has been to change the way mining companies conduct their business, and by doing so, put the industry on a much more sustainable footing. Throughout his career, Mr Castellari-Porchia has listened more than he talked.</strong></p>
+<p style="text-align: justify;">As CEO of Anglo American’s iron ore operations in his native Brazil, Mr Castellari-Porchia had a unique opportunity to reshape the sector. From 2011 to 2015, he oversaw the execution of the $8.3bn Minas-Rio iron ore project – one of the largest of its kind in the world. Mr Castellari-Porchia was brought in as a trouble-shooter at a time when the project was suffering both delays and cost overruns.</p>
+<p style="text-align: justify;">He quickly put a new management team into place, mended strained relations with all stakeholders, and secured the cooperation of government at both local and national level. The turnaround Mr Castellari-Porchia accomplished with Minas-Rio has since been studied and discussed by multilateral banks and development agencies as a textbook example of how to implement and manage a megaproject under challenging conditions with the least amount of disruption and friction.</p>
+<p style="text-align: justify;">Mr Castellari-Porchia now lends his expertise to Emirates Global Aluminium (EGA) which found him willing to lead the company’s Guinean Alumina Corporation (GAC). In West Africa, Mr Castellari-Porchia now oversees the implementation of a large bauxite mine. He has already indicated that GAC is to become a Guinean company first and foremost and to that end will train local professionals to take over management of the operation before long. In Guinea, Mr Castellari-Porchia launched a number of initiatives to strengthen ties with all stakeholders in order to ensure optimum outcomes for both EGA and the host country.</p>
+<p style="text-align: justify;">The CFI.co judging panel commends Mr Castellari-Porchia on his visionary approach to mining and his efforts to lead the industry into a new era where corporate sustainability is used as a lever for risk mitigation. The judges declare Paulo Castellari-Porchia winner of the 2018 Outstanding Contribution to Cultural Transformation in Mining Governance Award.</p>
