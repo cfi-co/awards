@@ -1,0 +1,19 @@
+---
+id: 7332
+title: "National Bank of Greece: Best Corporate Governance Greece 2018"
+award_year: 2018
+published: 2018-08-17 12:49:40
+published_gmt: 2018-08-17 11:49:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2018/national-bank-of-greece-best-corporate-governance-greece-2018/"
+categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_sha256: dc15dd0e2ff1256ecaa12d8f309b92eef1f0da8b671e7352133b69b378778eca
+canonical: 7332-national-bank-of-greece-best-corporate-governance-greece-2018.json
+---
+
+# National Bank of Greece: Best Corporate Governance Greece 2018
+
+> Verbatim archived copy. Canonical machine record: `7332-national-bank-of-greece-best-corporate-governance-greece-2018.json`.
+
+<img class="aligncenter size-full wp-image-4174" src="https://cfi.co/awards/wp-content/uploads/2017/04/NBG.jpg" alt="NBG" width="500" height="316" />
+<p style="text-align: justify;">The National Bank of Greece (NBG) is a trusted global financial institution with a long history of long-term, sustainable business growth. The bank owes its success to the endurance of its founding values of responsibility and shared prosperity. NBG branches and subsidiaries abound in Greece and abroad, offering a broad range of financial products and services regulated by respected international bodies. Since its launch in 1841, NBG has embraced the role of responsible corporate citizen, and its code of ethical standards has enabled it – along with its shareholders and stakeholders – to progress and prosper. The NBG Corporate Governance Code provides a framework to guide the bank’s internal and external processes, and reflect its commitment to responsibility, transparency, and quality. The code targets all facets of NBG operations, from environmental concerns and human rights issues to economic initiatives and market-strengthening measures. This is the third award for NBG from the CFI.co judging panel, which referenced the bank’s start-up support programmes, Crowdfunding initiatives, and transparent recruitment processes as factors in its 2016 and 2017 wins. The judges were once again impressed by NBG’s corporate governance and social responsibility initiatives, which are constantly reviewed, refined, and developed to ensure the highest standards of conduct and sustainable development. Congratulations to the National Bank of Greece, winner of the 2018 award for Best Corporate Governance (Greece).</p>
