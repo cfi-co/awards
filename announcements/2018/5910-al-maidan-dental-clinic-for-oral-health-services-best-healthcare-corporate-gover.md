@@ -1,0 +1,23 @@
+---
+id: 5910
+title: "Al-Maidan Dental Clinic for Oral Health & Services:  Best Healthcare Corporate Governance Kuwait 2018"
+award_year: 2018
+published: 2018-08-30 12:45:42
+published_gmt: 2018-08-30 11:45:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/al-maidan-dental-clinic-for-oral-health-services-best-healthcare-corporate-governance-kuwait-2018/"
+categories: []
+content_sha256: ec17cb4aca0d763595e2a4cb759cfbf06b786462243fb363ffdad67c5b71b6b5
+canonical: 5910-al-maidan-dental-clinic-for-oral-health-services-best-healthcare-corporate-gover.json
+---
+
+# Al-Maidan Dental Clinic for Oral Health & Services:  Best Healthcare Corporate Governance Kuwait 2018
+
+> Verbatim archived copy. Canonical machine record: `5910-al-maidan-dental-clinic-for-oral-health-services-best-healthcare-corporate-gover.json`.
+
+<img class="aligncenter wp-image-5911" src="https://cfi.co/awards/wp-content/uploads/2018/08/AlMaidan.jpg" alt="" width="455" height="133" />
+<p style="text-align: justify;"><strong>Creating well over one million smiles, and counting. The Al-Maidan Clinic for Oral Health Services is the largest of its kind in both Kuwait and the wider GCC. Always incorporating the latest developments in oral health, the Al-Maidan Clinic ensures that its patients benefit from to most up-to-date treatments anywhere. Its professionals are committed to lifelong learning in order to stay abreast of new techniques and procedures.</strong></p>
+<p style="text-align: justify;">The clinic was set up in 1987 as Kuwait’s first private dental practice by a small group of dentists who envisioned a facility that offers patients a combination of state-of-the-art technology, professional expertise, and the proverbial service-with-a-smile. That mission has been accomplished: today Al-Maidan Clinic comprises seven branches covering the country’s governorates in addition to a mobile clinic. The clinic’s over seventy dental clinicians and their support staff have established a reputation for personalised care.</p>
+<p style="text-align: justify;">In order to safeguard the quality of its treatments, Al-Maidan Clinic maintains an in-house dental lab and a full complement of ultramodern medical hardware that allows its dentists and technicians to instantly provide diagnoses and treatment options without the need to outsource procedures.</p>
+<p style="text-align: justify;">Al-Maidan Clinic maintains a comprehensive corporate social responsibility programme that revolves around a number of initiatives to provide dental care to vulnerable and disadvantaged people. The clinic also sponsors public service campaigns that promote oral hygiene and the need for regular check-ups.</p>
+<p style="text-align: justify;">The CFI.co judging panel notes the Al-Maidan Clinic serves a broad demographic and keeps the prices of its rather priceless services highly competitive – a comprehensive range of financing options is available as well. The judges agree to name Al-Maidan Dental Clinic for Oral Health &amp; Services winner of the 2018 Best Healthcare Corporate Governance Kuwait Award.</p>
