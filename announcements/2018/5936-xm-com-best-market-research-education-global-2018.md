@@ -1,0 +1,22 @@
+---
+id: 5936
+title: "XM.com: Best Market Research & Education Global 2018"
+award_year: 2018
+published: 2018-09-04 11:03:21
+published_gmt: 2018-09-04 10:03:21
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/xm-com-best-market-research-education-global-2018/"
+categories: []
+content_sha256: 7d575d0d6f73d56e7b6e0a09d7851a6ae03d1ae87dd6de2cb879e535a419487b
+canonical: 5936-xm-com-best-market-research-education-global-2018.json
+---
+
+# XM.com: Best Market Research & Education Global 2018
+
+> Verbatim archived copy. Canonical machine record: `5936-xm-com-best-market-research-education-global-2018.json`.
+
+<img class="aligncenter size-full wp-image-4668" src="https://cfi.co/awards/wp-content/uploads/2017/08/XM.jpg" alt="" width="271" height="103" />
+<p style="text-align: justify;"><strong>Success in trading comes from education and the experience that follows. Therefore, traders who value their money and aim to carve out a better future need to continually develop and hone their skills.</strong></p>
+<p style="text-align: justify;">UK-based XM.com maintains a staff of highly trained expert traders who are eager to share their knowledge of the forex market with both newbie traders and more experienced investors who long to reach the next level. The firm offers a wide array of courses and seminars that cater to traders of all skill levels. The company’s educational staff has lent its knowledge to professionals from world class financial services providers such as global banks and brokerages. XM.com has designed a number of hands-on courses that emphasize practicalities, warn of common pitfalls, and offer valuable insights into the tricks of the trade. The courses allow traders to detect the early warning signs of major and minor market swings, allowing them ample time to optimise their exposure and maximise benefit.</p>
+<p style="text-align: justify;">XM.com is also recognised for the exceptional performance and high quality output of its research department. Traders have access to a veritable wealth of information, organised in such a way that hard data is always just a few mouse clicks away. The firm regularly publishes overviews of broader market trends and special reports on specific trade opportunities that contain valuable nuggets of information for savvy and attentive traders.</p>
+<p style="text-align: justify;">The CFI.co judging panel is no stranger to XM.com. The judges have followed the firm’s progress and dedication to the training of its traders. The judging panel is pleased to offer XM.com the 2018 Best Market Research &amp; Education Global Award.</p>
