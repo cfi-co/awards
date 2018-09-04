@@ -1,0 +1,23 @@
+---
+id: 5942
+title: "Tanzania Women’s Bank (TWB): Best Social Impact Bank Tanzania 2018"
+award_year: 2018
+published: 2018-09-04 11:15:25
+published_gmt: 2018-09-04 10:15:25
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/tanzania-womens-bank-twb-best-social-impact-bank-tanzania-2018/"
+categories: []
+content_sha256: 79aee7258142249de77177ebf58d8bc787e8d55aeab615ec74f002edebcc3681
+canonical: 5942-tanzania-womens-bank-twb-best-social-impact-bank-tanzania-2018.json
+---
+
+# Tanzania Women’s Bank (TWB): Best Social Impact Bank Tanzania 2018
+
+> Verbatim archived copy. Canonical machine record: `5942-tanzania-womens-bank-twb-best-social-impact-bank-tanzania-2018.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-5943" src="https://cfi.co/awards/wp-content/uploads/2018/09/TWB.jpg" alt="" width="388" height="218" />
+<strong>Empowering women entrepreneurs across the country, Tanzania Women’s Bank (TWB), set up in 2007 and open for business since 2009, aims to simplify the provision of credit and know-how to micro, small, and medium-sized businesses whose needs are often ignored by commercial banks.</strong></p>
+<p style="text-align: justify;">Female entrepreneurs face a number of hurdles that conspire against success. Studies have found that banks usually refuse to engage with women business owners or, if they do, charge exorbitant interest rates and demand significant collateral for even small loans. Deprived of working capital, an untold number of promising small businesses fail to take off or remain well below their potential.</p>
+<p style="text-align: justify;">Closely enmeshed with the communities in which it operates, Tanzania Women’s Bank is able to lend a helping hand by knowing its customers. The bank’s staff seeks to establish a true partnership with clients in order to properly understand their needs, gauge the potential of their businesses, and offer advice – and credit.</p>
+<p style="text-align: justify;">TWB also maintains a full suite of current and savings accounts tailored to the requirements and demands of each demographic. The bank offers, for example, accounts that help minors gain financial literacy skills and women wishing to secure their family’s future.</p>
+<p style="text-align: justify;">The CFI.co judging panel has followed the trajectory of TWB for a number of years and has noted the bank’s achievements in helping women-led businesses break through the glass ceiling. As an instrument of social and economic empowerment, TWB has a significant impact on Tanzania’s national development. Moreover, the bank enables women to benefit from the country’s buoyant economy and, by doing so, helps redress social injustice. The judging panel declares Tanzania Women’s Bank winner of the 2018 Best Social Impact Bank Tanzania Award.</p>
