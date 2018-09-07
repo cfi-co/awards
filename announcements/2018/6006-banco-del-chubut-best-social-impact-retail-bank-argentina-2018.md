@@ -1,0 +1,23 @@
+---
+id: 6006
+title: "Banco del Chubut: Best Social Impact Retail Bank Argentina 2018"
+award_year: 2018
+published: 2018-09-07 15:10:19
+published_gmt: 2018-09-07 14:10:19
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/banco-del-chubut-best-social-impact-retail-bank-argentina-2018/"
+categories: []
+content_sha256: 1760b73f1ec32457a3e8e7c7481bcab9bcde6f547eb08ac0694f473caaea30b3
+canonical: 6006-banco-del-chubut-best-social-impact-retail-bank-argentina-2018.json
+---
+
+# Banco del Chubut: Best Social Impact Retail Bank Argentina 2018
+
+> Verbatim archived copy. Canonical machine record: `6006-banco-del-chubut-best-social-impact-retail-bank-argentina-2018.json`.
+
+<img class="aligncenter size-full wp-image-6007" src="https://cfi.co/awards/wp-content/uploads/2018/09/Chubut.jpg" alt="" width="349" height="36" />
+<p style="text-align: justify;"><strong>Banco del Chubut is going places: not only has the Argentine bank sustained solid growth over the past five years, it also serves the far-flung communities that dot the plains of Patagonia. One of Argentina’s most recognisable provincial banks, Banco del Chubut has been an instrument of development and social support since its earliest corporate beginnings. In business for close to six decades, the bank maintains a countrywide network of branch offices.</strong></p>
+<p style="text-align: justify;">However, in Chubut – a sparsely populated part of the country that stretches from the Atlantic seaboard to the Andes mountain range – the bank is present in even the smallest communities. Here, Banco del Chubut often sits at the very core of local economic and social life – and offers provincial authorities a way to ensure that its development policies and social initiatives reach and benefit the province’s entire population.</p>
+<p style="text-align: justify;">Founded in 1959, Banco del Chubut is considered a textbook example of what a financial institution with a dual mission may accomplish. The bank not only offers a complete array of financial products and services to individuals, businesses of all sizes, government entities, and investors; it also provides seed capital and services to support specific demographics and segments of the market that need help or a nudge to grow and prosper. Banco del Chubut has launched a number of initiatives that aim to encourage the development of promising small and medium-sized enterprises (SMEs). Small traders may also count on the bank’s support.</p>
+<p style="text-align: justify;">Additionally, Banco del Chubut is recognised as a pioneer of corporate social responsibility and maintains a number of outreach programmes via a foundation set up for that purpose.</p>
+<p style="text-align: justify;">The CFI.co judging panel notes that Banco del Chubut involves all stakeholders in its corporate undertakings. The bank also adheres to international standards and best practices in order to keep its operations on a sustainable footing. The judges are unanimous in their decision to grant Banco del Chubut the 2018 Best Social Impact Retail Bank Argentina Award.</p>
