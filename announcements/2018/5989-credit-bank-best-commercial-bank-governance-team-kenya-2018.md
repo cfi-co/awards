@@ -1,0 +1,23 @@
+---
+id: 5989
+title: "Credit Bank: Best Commercial Bank Governance Team Kenya 2018"
+award_year: 2018
+published: 2018-09-07 12:50:08
+published_gmt: 2018-09-07 11:50:08
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/credit-bank-best-commercial-bank-governance-team-kenya-2018/"
+categories: []
+content_sha256: a70460cd8066e9c343d86423ef0c7f5b13412b24c68a815a1a5d1f83e0b14657
+canonical: 5989-credit-bank-best-commercial-bank-governance-team-kenya-2018.json
+---
+
+# Credit Bank: Best Commercial Bank Governance Team Kenya 2018
+
+> Verbatim archived copy. Canonical machine record: `5989-credit-bank-best-commercial-bank-governance-team-kenya-2018.json`.
+
+<img class="aligncenter size-full wp-image-5990" src="https://cfi.co/awards/wp-content/uploads/2018/09/CreditBank.jpg" alt="" width="349" height="115" />
+<p style="text-align: justify;"><strong>Helping microbusinesses grow, prosper, and reach the next level up by becoming sustainable small and medium-sized enterprises (SMEs), Kenya’s Credit Bank seeks to effectively underwrite the country’s economic future. Small business are not just an engine of growth; the sector is also where most new jobs are created. Usually fiercely competitive, the SME universe shapes the next generation of business leaders.</strong></p>
+Credit Bank looks at much more than just spreadsheets. The bank never loses sight of its corporate reason for being: furthering financial inclusion and offering structured solutions to enterprising Kenyans whose drive and savvy are unmatched by capital. Thus, Credit Bank is particularly keen to help SMEs vie for contracts, put in bids, and seize opportunity. The bank helps small business owners establish sound operational practices and maintain good corporate governance no matter the scale of the enterprise.
+<p style="text-align: justify;">The bank’s operations and policies are based on a corporate governance framework that ensures the business adheres to international best practices. A board of directors sees to it that integrity, accountability, and transparency are maintained at all times throughout the organisation.</p>
+<p style="text-align: justify;">Credit Bank works as a – moneyed – partner alongside entrepreneurs in a collaborative manner, dispensing valuable insights into business practices, regulation, and operational procedures. To that end, Credit Bank maintains a staff of experienced professionals whose deep knowledge of local conditions is put at the disposal of customers. Credit Bank pursues a humane corporate policy that prioritises gender balance and promotes simple, yet crucially important, aspects such as happiness. That is, after all, what humans work for.</p>
+<p style="text-align: justify;">The CFI.co judging panel admires Credit Bank’s approach to providing financial services to SMEs and customers who may not yet be all that familiar with banks. Its insistence on lowering the threshold for customers has brought in significant new business and broadened the bank’s client base. The judges declare Credit Bank winner of the 2018 Best Commercial Bank Governance Team Kenya Award.</p>
