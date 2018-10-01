@@ -1,0 +1,19 @@
+---
+id: 6073
+title: "Mack International: Best Investment Manager Executive Search Firm USA 2018"
+award_year: 2018
+published: 2018-10-01 16:34:56
+published_gmt: 2018-10-01 15:34:56
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/professional-services/2018/mack-international-best-investment-manager-executive-search-firm-usa-2018/"
+categories: ["Consultancies", "Professional Services"]
+content_sha256: b543beb26b8187e729a36d84f55b7ab7a9e77e687312e38d8083bb74287a2410
+canonical: 6073-mack-international-best-investment-manager-executive-search-firm-usa-2018.json
+---
+
+# Mack International: Best Investment Manager Executive Search Firm USA 2018
+
+> Verbatim archived copy. Canonical machine record: `6073-mack-international-best-investment-manager-executive-search-firm-usa-2018.json`.
+
+<img class="aligncenter size-full wp-image-5016" src="https://cfi.co/awards/wp-content/uploads/2017/10/Mack.jpg" alt="" width="349" height="196" />
+<p style="text-align: justify;"><strong>“In search of excellence, excellence in search” - the Mack International motto sums-up the firm’s mission statement and history of success.</strong> Mack International is a US firm specialising in retained executive searches and strategic human capital consulting. The firm serves ultra-high net-worth private-wealth and family markets, using its extensive network to access hidden talent pools and identify the best candidates for each opportunity. Finding the right skilled executives can be time-consuming, but matching personalities and personal ethos with a perfect cultural fit is an even more exacting process. “Culture trumps skill,” insists company founder Linda Mack, and the firm has carved out a niche for itself by recruiting candidates who fit seamlessly with the client’s culture. The firm takes an immersive approach to each assignment, delving deep into each client’s business to gain an understanding of its needs and cultural philosophy. The entire firm – founder included – works together on each assignment, focusing the collective power of its senior team of search consultants to give each client its undivided attention. During the thorough process of research, assessment, and co-interviews, Mack International gathers and shares competitive market intelligence with clients, affording them a significant value-added edge. Its far-reaching network of contacts also ensures that the firm stays abreast of the latest market trends and developments, adding such hot topics as social impact investing to its repertoire of talents — leading to the CFI.co judging panel’s decision: Mack International takes the 2018 award for Best Investment Manager Executive Search Firm USA.</p>
