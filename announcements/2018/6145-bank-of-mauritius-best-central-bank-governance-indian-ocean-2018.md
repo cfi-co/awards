@@ -1,0 +1,23 @@
+---
+id: 6145
+title: "Bank of Mauritius: Best Central Bank Governance Indian Ocean 2018"
+award_year: 2018
+published: 2018-10-16 18:04:22
+published_gmt: 2018-10-16 17:04:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2018/bank-of-mauritius-best-central-bank-governance-indian-ocean-2018/"
+categories: ["Asia Pacific", "Banking", "Best Practice", "Corporate Governance"]
+content_sha256: c31859d7ba117319ca14b9faba89226f7597ef06e08dab0096c5fc0508b746b8
+canonical: 6145-bank-of-mauritius-best-central-bank-governance-indian-ocean-2018.json
+---
+
+# Bank of Mauritius: Best Central Bank Governance Indian Ocean 2018
+
+> Verbatim archived copy. Canonical machine record: `6145-bank-of-mauritius-best-central-bank-governance-indian-ocean-2018.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-6147" src="https://cfi.co/awards/wp-content/uploads/2018/10/BankofMauritius.gif" alt="" width="349" height="349" /></p>
+<p style="text-align: justify;"><strong>Long known for the natural wonder of its beaches and reefs, the Indian Ocean Island of Mauritius is striving to set international standards for good financial governance and best banking practices. Throughout its fifty years of experience, the Bank of Mauritius has worked hand-in-hand with public and private stakeholders to strengthen and modernise the country’s banking industry.</strong></p>
+<p style="text-align: justify;">The Bank of Mauritius has taken a hard stance on governance policies, adopting best international prudential standards and exacting monitoring procedures paired with innovative solutions to ensure its regulatees are adequately capitalised with sufficient liquidity buffers. The fact that ninety percent of the capital base of commercial banks is in the form of Common Equity Tier 1 capital is testimony to the success of the Bank’s endeavour to adhere to international best practices. The Bank of Mauritius is currently implementing a stringent risk-based supervisory framework for more efficient, effective and forward-looking outcomes.</p>
+<p style="text-align: justify;">With regard to the implementation of monetary policy, the Bank of Mauritius has reviewed its framework to optimise the transmission of monetary policy. Intent on promoting the Mauritian secondary bond market, the Bank has launched an awareness campaign to enhance savings intermediation and optimise monetary policy conduct.</p>
+<p style="text-align: justify;">The Bank of Mauritius is also committed to transforming the Mauritian society into a financial literate one. The financial literacy programme launched this year has helped raise public awareness on central banking, monetary policy, currency, the importance of a savings culture and smart and safe investments.</p>
+<p style="text-align: justify;">For its exacting regulatory framework, new Fintech solutions, and customer outreach efforts — and building on their successful win in 2017 — the CFI.co judging panel is pleased to confirm the Bank of Mauritius winner of the 2018 award for Best Central Bank Governance Indian Ocean.</p>
