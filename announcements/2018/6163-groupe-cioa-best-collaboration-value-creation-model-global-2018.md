@@ -1,0 +1,19 @@
+---
+id: 6163
+title: "Groupe CIOA: Best Collaboration Value Creation Model – Global 2018"
+award_year: 2018
+published: 2018-10-17 12:43:46
+published_gmt: 2018-10-17 11:43:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/groupe-cioa-best-collaboration-value-creation-model-global-2018/"
+categories: []
+content_sha256: 6f10004081c824997bdbe27970066329c1b3a12ec273eca37cce56e7f455429d
+canonical: 6163-groupe-cioa-best-collaboration-value-creation-model-global-2018.json
+---
+
+# Groupe CIOA: Best Collaboration Value Creation Model – Global 2018
+
+> Verbatim archived copy. Canonical machine record: `6163-groupe-cioa-best-collaboration-value-creation-model-global-2018.json`.
+
+<img class="aligncenter size-full wp-image-6164" src="https://cfi.co/awards/wp-content/uploads/2018/10/CIOA.jpg" alt="" width="349" height="95" />
+<p style="text-align: justify;">Stronger and more powerful than the sum of its parts, the CIOA Group’s expansive network of subsidiaries and providers encompasses a global market of shared resources, networking opportunities, and strategic expertise. CIOA (International Business Opportunities Centre) affiliates operate in more than 140 countries, representing 500,000 businesses and 120,000 suppliers across multiple industries. CIOA is a facilitator of international business, and provides companies, organisations and government agencies with multidisciplinary solutions and collaborative services to reach a global audience. The company is focused on creating valuable business connections, linking suppliers to customers and expediting strategic technology and financial partnerships. It offers administrative support for business by managing and monitoring data, from daily transactions to customer relations. With more than 40 offices worldwide, 200 multidisciplinary advisors and 2,300 co-developers in its network, CIOA understands the importance of collaboration. Since its inception in 1994, it has grown to become an international advocate for, and facilitator of, global, open, and self-sufficient business models. With a firm foothold on the global map, CIOA recognises that “together we are stronger” – making it the clear winner of the Best Collaboration Value Creation Model – Global 2018 award.</p>
