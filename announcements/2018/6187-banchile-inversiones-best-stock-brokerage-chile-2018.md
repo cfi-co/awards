@@ -1,0 +1,19 @@
+---
+id: 6187
+title: "Banchile Inversiones: Best Stock Brokerage Chile 2018"
+award_year: 2018
+published: 2018-10-17 14:55:40
+published_gmt: 2018-10-17 13:55:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/banchile-inversiones-best-stock-brokerage-chile-2018/"
+categories: []
+content_sha256: 6ea9c342e9a04e8af956eb8c57fe8d7befa17302c5758ac3224f3eb5ac397a13
+canonical: 6187-banchile-inversiones-best-stock-brokerage-chile-2018.json
+---
+
+# Banchile Inversiones: Best Stock Brokerage Chile 2018
+
+> Verbatim archived copy. Canonical machine record: `6187-banchile-inversiones-best-stock-brokerage-chile-2018.json`.
+
+<img class="aligncenter size-full wp-image-6188" src="https://cfi.co/awards/wp-content/uploads/2018/10/Banchile.jpg" alt="" width="349" height="96" />
+<p style="text-align: justify;">For more than three decades, Banchile Inversiones has been a leading and trusted provider of financial services in Chile. Banchile Inversiones is a subsidiary of the Banco de Chile, one of the most dominant financial conglomerates in the country. The company’s focus is two-fold: its brokerage activities are handled through its subsidiary Banchile Corredores de Bolsa, while asset management is handled through its subsidiary Banchile Administradora General de Fondos. With more than 300,000 clients and $11bn worth of international and local shares, Banchile Inversiones commands the largest share of the market, boasting a 20 percent market share. In terms of traded volume, its brokerage firm is among the biggest in the country, claiming a 13 percent share of the market. Clients of Banchile’s brokerage firm range from institutions and organisations to high-net-worth individuals and retail customers. The brokerage firm provides sales, trading, and advisory services in equities, fixed income, currencies, and derivatives. Banchile has a top-ranked research department and is nationally renowned as an industry leader in finance research. Largest is not always best, but the CFI.co judging panel felt that in the case of the Chilean market, it is. Banchile has been a major player in helping the capital markets deliver sustainable economic growth to Chile, and the panel is delighted to declare Banchile Inversiones as the 2018 winner of the Best Stock Brokerage Chile award.</p>
