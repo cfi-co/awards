@@ -1,0 +1,19 @@
+---
+id: 6267
+title: "Capital First: Most Inspirational Management Buyout India 2018"
+award_year: 2018
+published: 2018-10-26 12:27:59
+published_gmt: 2018-10-26 11:27:59
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/capital-first-most-inspirational-management-buyout-india-2018/"
+categories: []
+content_sha256: 48846dfb40547433ac22da1d0fd240dc111623168b9360206751d2ec76f9b18b
+canonical: 6267-capital-first-most-inspirational-management-buyout-india-2018.json
+---
+
+# Capital First: Most Inspirational Management Buyout India 2018
+
+> Verbatim archived copy. Canonical machine record: `6267-capital-first-most-inspirational-management-buyout-india-2018.json`.
+
+<img class="aligncenter size-full wp-image-4914" src="https://cfi.co/awards/wp-content/uploads/2017/10/CapitalFirst.jpg" alt="" width="349" height="128" />
+<p style="text-align: justify;">V Vaidyanathan, Founder and Chairman of Capital First, is a quintessential entrepreneur who embarked on an ambitious plan some eight years ago. Quitting his senior-level Board position at India’s largest private-sector bank, he acquired a 10 percent stake in a small beaten-down finance company by leveraging his home and other assets. He immediately defined the mission as “financing small entrepreneurs and consumers in India.” Between 2010 and 2011, Vaidyanathan used contemporary technologies to build a “proof of concept” retail loan book worth $120m, and demonstrated the unique model to PEs. Based upon this, he secured private equity backing from Warburg Pincus of $159m in 2012 to fund the MBO, and Capital First was founded in the process. He grew loan assets to $3b in 2017, and the market capitalisation grew from $120m at the time of the MBO in 2012 to $1.2bn in five years. Vaidyanathan then sold a 1.5 percent stake in the company to square his leverage. In 2018, Capital First merged with a listed bank, IDFC Bank, in an all-stock deal, and Vaidyanathan became the CEO of the combined bank, thus acquiring a commercial bank licence for Capital First. The bank’s shareholders showed their approval, with 99.98 percent of votes in favour, an unheard of mandate in banking circles. MBOs are rare but successful leveraged ones make for management textbooks. The CFI.co judging panel applauds Vaidyanathan’s successful soft touchdown of the MBO and creation of a commercial banking platform, leading to his 2018 award win for Most Inspirational Management Buyout India.</p>
