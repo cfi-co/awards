@@ -1,0 +1,19 @@
+---
+id: 6379
+title: "Boursa Kuwait: Best Securities Exchange Corporate Governance GCC 2018"
+award_year: 2018
+published: 2018-12-01 14:36:24
+published_gmt: 2018-12-01 14:36:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2018/boursa-kuwait-best-securities-exchange-corporate-governance-gcc-2018/"
+categories: []
+content_sha256: 6c7b4c6dfc9578a3284a382892f5c971905da8d591118c65d060d2948e8c7186
+canonical: 6379-boursa-kuwait-best-securities-exchange-corporate-governance-gcc-2018.json
+---
+
+# Boursa Kuwait: Best Securities Exchange Corporate Governance GCC 2018
+
+> Verbatim archived copy. Canonical machine record: `6379-boursa-kuwait-best-securities-exchange-corporate-governance-gcc-2018.json`.
+
+<p style="text-align: justify;"><img class="aligncenter wp-image-6380" src="https://cfi.co/awards/wp-content/uploads/2019/01/Boursa-Kuwait.jpg" alt="" width="406" height="302" /></p>
+<p style="text-align: justify;">Kuwait’s stock exchange, Boursa Kuwait, has been tirelessly working to revamp its operating practices — and its efforts have been producing results. Kuwait privatised its stock exchange in 2014, establishing Boursa Kuwait to assume responsibility of the exchange. Boursa began an overhaul of its operating practices, creating a transparent capital market platform that adheres to rigorous international governance standards. Implementation is halfway complete: governance and transparency have been shored up, market segmentation introduced, and settlement cycles and listing requirements updated. Boursa’s next development stage promises new short-sell SLB (stock lending and borrowing) and REITs (real estate investment trusts). Boursa’s strategic vision has garnered international recognition and pushed the exchange one step closer towards its goal of global integration with financial markets and exchanges. The Financial Times Stock Exchange (FTSE) Russell Governance Board upgraded Boursa Kuwait from a frontier market to an emerging one last year, resulting in a major inflow of foreign investment — and Boursa expects to achieve the same status upgrade from Morgan Stanley Capital International (MSCI) this year. The stock exchange now has a market capitalisation of over $95 billion and 176 listed companies across all industries. Boursa is preparing for its initial public offering in early 2019 and anticipates new IPOs and an increase in capital inflow throughout the next year. The CFI.co judging panel salutes the continuous development process and robust corporate governance framework of the exchange, and presents Boursa Kuwait with the 2018 award for Best Securities Exchange Corporate Governance (GCC).</p>
