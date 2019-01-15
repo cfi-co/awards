@@ -1,0 +1,24 @@
+---
+id: 6501
+title: "Aston Martin Lagonda: Best ESG Manufacturing Strategy United Kingdom 2018"
+award_year: 2019
+published: 2019-01-15 17:54:06
+published_gmt: 2019-01-15 17:54:06
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2019/aston-martin-lagonda-best-esg-manufacturing-strategy-united-kingdom-2018/"
+categories: []
+content_sha256: 18e7d13dd7a0cd21a856577aec512b683df291f3f3de764811fd9401e9811541
+canonical: 6501-aston-martin-lagonda-best-esg-manufacturing-strategy-united-kingdom-2018.json
+---
+
+# Aston Martin Lagonda: Best ESG Manufacturing Strategy United Kingdom 2018
+
+> Verbatim archived copy. Canonical machine record: `6501-aston-martin-lagonda-best-esg-manufacturing-strategy-united-kingdom-2018.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-6503" src="https://cfi.co/awards/wp-content/uploads/2019/01/Aston-Martin.jpg" alt="" width="349" height="154" /></p>
+<p style="text-align: justify;">Aston Martin Lagonda is a symbol of British heritage that epitomises motoring prestige and elegance – and the company’s environmental, social, and governance policies have ensured a sustainable future for the luxury brand.
+The iconic sports car company was immortalised by the daring exploits of the UK’s favourite fictional spy – but Aston Martin Lagonda’s Second Century Strategy goes beyond Bond. The strategy promotes responsible and sustainable economic growth – without compromising the opulent level of detail for which it’s famed.
+As a signatory of the UN Global Compact, Aston Martin Lagonda’s Corporate Responsibility Strategy seeks to addresses environmental and supply chain sustainability, community and stakeholder engagement, and the health and wellbeing of its employees.
+The company has a long history in motor racing and continues in the tradition of transferring key racing technologies such as aerodynamics, lightweight materials and advanced powertrain solutions from the racetrack to the road.
+Under its Second Century Strategy, Aston Martin Lagonda will launch seven new cars over a seven year period, including the company’s first SUV, first mid-engine sports car and its first electric vehicles (EV). The company outlined its EV plans earlier this year at the Genève Motor Show , where it announced the company’s second brand Lagonda was to be relaunched as a Luxury EV brand. The company also intends hybrid or fully electric technology to be available for all its models by the middle of the next decade. In addition to electrifying its new products the company has announced plans to retrofit its classic cars with electric powerplants.
+The CFI.co judging panel admires the company’s ability to combine sustainable growth with its vision of a zero-emissions future. The judges also commend Aston Martin’s commitment to recycling, and its dedication to gender equality, outreach programmes, and flexible working arrangements. Aston Martin Lagonda takes the 2018 award for Best ESG Manufacturing Strategy (United Kingdom).</p>
