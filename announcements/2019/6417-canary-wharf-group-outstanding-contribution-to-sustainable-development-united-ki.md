@@ -1,0 +1,19 @@
+---
+id: 6417
+title: "Canary Wharf Group: Outstanding Contribution to Sustainable Development United Kingdom 2018"
+award_year: 2019
+published: 2019-01-15 15:00:11
+published_gmt: 2019-01-15 15:00:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/best-practice/sustainability/2019/canary-wharf-group-outstanding-contribution-to-sustainable-development-united-kingdom-2018/"
+categories: ["Sustainability"]
+content_sha256: b99452636d989657c9741813bd18de94cb9e0a6195c34fed0302568b8f0e0f10
+canonical: 6417-canary-wharf-group-outstanding-contribution-to-sustainable-development-united-ki.json
+---
+
+# Canary Wharf Group: Outstanding Contribution to Sustainable Development United Kingdom 2018
+
+> Verbatim archived copy. Canonical machine record: `6417-canary-wharf-group-outstanding-contribution-to-sustainable-development-united-ki.json`.
+
+<img class="aligncenter size-full wp-image-6418" src="https://cfi.co/awards/wp-content/uploads/2019/01/CanaryWharf.jpg" alt="" width="349" height="177" />
+<p style="text-align: justify;">The Canary Wharf Group has worked over the past three decades laying the foundation for the cities of tomorrow. The group has left an indelible mark on the cityscape of London, adding 37 high-rise building to the iconic city skyline since its inception, and transforming the derelict docks of Canary Wharf into a thriving, 16.5m square feet of world-renowned office, retail, residential, and leisure spaces. With its far-sighted goals and bold ambitions, the group does more than pay lip service to the UN’s sustainable development goals (SDGs): it implements those principles and practices by promoting a resilient circular economy, where waste is converted into a resource and carbon emissions are minimised. As an inspiring early adopter with some impressive benchmarks, the Canary Wharf Group has powered all its operations by renewable energy since 2012, and minimised landfill waste since 2009. The company has established sustainable procurement procedures throughout its supply chain, set science-based targets to address ESG challenges, and collaborated with leading ecologists to encourage biodiversity throughout the area’s green spaces, which comprise 20% of the estate. The group is a fully integrated property development, investment, and management company, with the expertise and experience to take any project from concept to implementation. Of all the company’s forward-thinking approaches, the CFI.co judging panel particularly appreciates the group’s culture of ownership, which have afforded the brand absolute control over its ESG initiatives and clinched its status as an industry leader in sustainability. The judges congratulate Canary Wharf Group on its 2018 award win for Outstanding Contribution to Sustainable Development (United Kingdom).</p>
