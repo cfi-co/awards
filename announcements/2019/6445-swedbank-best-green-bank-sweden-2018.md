@@ -1,0 +1,19 @@
+---
+id: 6445
+title: "Swedbank: Best Green Bank Sweden 2018"
+award_year: 2019
+published: 2019-01-15 15:14:07
+published_gmt: 2019-01-15 15:14:07
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2019/swedbank-best-green-bank-sweden-2018/"
+categories: []
+content_sha256: fa87665902cfea96d15178f0e813d28a5e1fa9b6c85ae6a0cf6d826464d87190
+canonical: 6445-swedbank-best-green-bank-sweden-2018.json
+---
+
+# Swedbank: Best Green Bank Sweden 2018
+
+> Verbatim archived copy. Canonical machine record: `6445-swedbank-best-green-bank-sweden-2018.json`.
+
+<img class="aligncenter size-full wp-image-6447" src="https://cfi.co/awards/wp-content/uploads/2019/01/Swedbank.jpg" alt="" width="349" height="80" />
+<p style="text-align: justify;">Swedbank balances economic ambition with environmental, social, and governance (ESG) responsibilities, assuming a strong role in the communities in which it operates and society at large. With around 7.4 million individual customers and 600,000 corporate clients, Swedbank is the largest bank in Sweden and one of the leading financial institutions in Estonia, Latvia, and Lithuania. This strong market presence affords the bank the clout to influence market trends, and Swedbank is betting on a greener, more sustainable future. In support and promotion of long-term sustainable solutions, the bank issues green bonds to finance the development of sustainable innovations and services. Swedbank’s efforts are aligned with UN 2030 Sustainable Development Goals (SDG), specifically promoting affordable and clean energy, industry and infrastructure innovation, sustainable cities and communities, climate action, and life on land. The institution aims to lead by example, continuously assessing sustainability factors in order to reduce social and ecological risks and contributing to a more sustainable business community. Likewise, the bank’s careful consideration of anti-corruption and human rights issues supports its risk management strategy and creates value for stakeholders. According to Swedbank, sustainability risks equate financial risks, and for the CFI.co judging panel, this seals the deal: Swedbank wins the 2018 Best Green Bank (Sweden) award.</p>
