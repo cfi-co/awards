@@ -1,0 +1,19 @@
+---
+id: 6464
+title: "BDO Austria: Best Audit and Tax Team Austria 2018"
+award_year: 2019
+published: 2019-01-15 16:10:02
+published_gmt: 2019-01-15 16:10:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2019/bdo-austria-best-audit-and-tax-team-austria-2018/"
+categories: ["Accounting", "Consultancies", "Europe", "Professional Services"]
+content_sha256: b101696947f83db744bdedcae527f1eb4d1097185044f934c4baa6de0461a379
+canonical: 6464-bdo-austria-best-audit-and-tax-team-austria-2018.json
+---
+
+# BDO Austria: Best Audit and Tax Team Austria 2018
+
+> Verbatim archived copy. Canonical machine record: `6464-bdo-austria-best-audit-and-tax-team-austria-2018.json`.
+
+[caption id="attachment_6611" align="aligncenter" width="1500"]<img class="size-full wp-image-6611" src="https://cfi.co/awards/wp-content/uploads/2019/01/BDO-Austria_Members-of-the-Management-Board_cfi-online.jpg" alt="" width="1500" height="829" /> From left to right: Dr Andreas Bernhart, Dr Peter Pilz, Mag Peter Bartos, Dr Berndt Zinnöcker, Mag Andreas Thürridl, MMag Marcus Bartl[/caption]
+<p style="text-align: justify;">Outsourcing tax and auditing responsibilities is a smart move for businesses seeking unbiased financial analysis, and can prove useful at tax time. BDO Austria has a 50-year history of delivering sage tax advice and versatile auditing services. BDO Austria partners with global clients as well as family businesses and SMEs to provide a range of specialised auditing and tax consulting services. The customer-centric company is led by Austrian partners and supported by a team of 420 local auditing and tax professionals. It has nine offices throughout Austria, is well-placed to meet demands across the country — and its reach is global. The BDO network extends across 162 countries and includes 74,000 people, affording BDO Austria clients unparalleled support and resources for international operations. BDO Austria develops individualised solutions for clients, and assigns dedicated consultants to each of them. This has led to partnerships of deep trust and long history. Swift and transparent communication is a company standard, and BDO Austria seeks feedback from its clients and its team to fuel continuous improvement. The CFI.co judging panel cites the company’s work environment and engagement programmes as contributing factors to its recruitment success. For its committed approach to client relationships and team collaboration, the judges present to BDO Austria the 2018 award for the Best Audit and Tax Team (Austria) award.</p>
