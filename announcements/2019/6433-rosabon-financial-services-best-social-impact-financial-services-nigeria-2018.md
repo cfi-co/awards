@@ -1,0 +1,19 @@
+---
+id: 6433
+title: "Rosabon Financial Services: Best Social Impact Financial Services Nigeria 2018"
+award_year: 2019
+published: 2019-01-15 15:08:59
+published_gmt: 2019-01-15 15:08:59
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2019/rosabon-financial-services-best-social-impact-financial-services-nigeria-2018/"
+categories: []
+content_sha256: b1f355b994e03cd1f8661de8136e3318dac2fe6db41841caafc3bd85570630ac
+canonical: 6433-rosabon-financial-services-best-social-impact-financial-services-nigeria-2018.json
+---
+
+# Rosabon Financial Services: Best Social Impact Financial Services Nigeria 2018
+
+> Verbatim archived copy. Canonical machine record: `6433-rosabon-financial-services-best-social-impact-financial-services-nigeria-2018.json`.
+
+<img class="aligncenter size-full wp-image-6434" src="https://cfi.co/awards/wp-content/uploads/2019/01/Rosabon.jpg" alt="" width="349" height="139" />
+<p style="text-align: justify;">Lending drives the development of industries and economies, and the progressive and modern non-banking institution of Nigeria, Rosabon Financial Services, is ready to help fund the mission. The financial products developed by Rosabon are fine-tuned to the demands of its clientele, and constantly updated to reflect evolving needs. The institution offers collateralised and non-collateralised loans, investment plans, and leasing services. Rosabon garnered the attention of the CFI.co judging panel in 2015 for its ethical business practices and peak corporate performance, and the institution has since made strides to become an even more socially oriented organisation. Passionate about education, Rosabon sponsors pupils from low-income families with school supplies each year. Furthermore, the Rosabon Educational Support Initiative partners with primary, secondary, and tertiary schools to offer low-interest tuition loans that enable parents to tackle private education in comfortable monthly payments rather than a large lump sum. Rosabon partnerships open avenues of capital flow in the travel sector, real estate market, and medical industry. Rosabon's Medical Equipment Leasing Initiative addresses healthcare concerns and covers a gap in the market, financing the procurement of crucial medical equipment for hospitals and medical facilities. Regulated by the Central Bank of Nigeria and a member of the Equipment Leasing Association of Nigeria (ELAN), Rosabon offers a gamut of products that promote financial inclusion and encourage consumer and corporate investment, leading the CFI.co judging panel to name Rosabon Financial Services winner of the 2018 Best Social Impact Financial Services (Nigeria) award.</p>
