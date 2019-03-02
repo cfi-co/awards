@@ -1,0 +1,19 @@
+---
+id: 7938
+title: "Shell LiveWIRE: Best Youth Entrepreneurship Engagement Programme Global 2019"
+award_year: 2019
+published: 2019-03-02 11:24:00
+published_gmt: 2019-03-02 11:24:00
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/best-practice/2019/shell-livewire-best-youth-entrepreneurship-engagement-programme-global-2019/"
+categories: ["Best Practice", "Community Engagement", "Oil &amp; Gas"]
+content_sha256: 5e22f42040a24f259715baefd6ff099d18278d11101cbed24465bb38083d412c
+canonical: 7938-shell-livewire-best-youth-entrepreneurship-engagement-programme-global-2019.json
+---
+
+# Shell LiveWIRE: Best Youth Entrepreneurship Engagement Programme Global 2019
+
+> Verbatim archived copy. Canonical machine record: `7938-shell-livewire-best-youth-entrepreneurship-engagement-programme-global-2019.json`.
+
+<img class="aligncenter size-full wp-image-7939" src="https://cfi.co/awards/wp-content/uploads/2020/07/Shell-LiveWire.jpg" alt="Shell-LiveWire" width="400" height="165" />
+<p style="text-align: justify;">It’s common knowledge that when a country’s startups thrive, so too does its economy. In light of this widely accepted axiom, the British-Dutch oil and gas company Royal Dutch Shell (Shell) launched an expansive programme to develop enterprise around the world – especially in the communities in which it operates. Founded in 1982, the LiveWIRE programme empowers young people to switch from employee to employer, from seeking employment to providing it. Shell LiveWIRE programmes, which operate in 15 countries around the world, have benefited over 9.2 million young entrepreneurs since its inception. As the sixth largest oil and gas company in the world, Shell has a long history of successful business management, and the expertise it’s accrued over the years makes it an excellent partner to help launch young entrepreneurs’ careers. Shell LiveWIRE programmes provide promising youth with the necessary knowledge and support to “transform their enterprising ideas into a viable and sustainable business”. The LiveWIRE programme is divided into five modules: Bright Ideas, Business Planning and Management Training, Business Startup, Post Startup Support, and Performance Measurement and Refinement. The Bright Idea module centres young entrepreneurs with a 20-question checklist intended to help spark a great idea and develop it into a viable business plan through guided critical thinking. The remaining modules help to finetune the plan, identify possible financing sources, provide mentorship, and maximise impact through global Key Performance Indicators (KPIs). The CFI.co judging panel applauds Shell’s commitment to – and investment in – global enterprise and presents Shell LiveWIRE with the 2019 Best Youth Entrepreneurship Engagement Programme (Global) award.</p>
