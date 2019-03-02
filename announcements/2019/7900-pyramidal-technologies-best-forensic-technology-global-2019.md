@@ -1,0 +1,19 @@
+---
+id: 7900
+title: "Pyramidal Technologies: Best Forensic Technology Global 2019"
+award_year: 2019
+published: 2019-03-02 10:51:48
+published_gmt: 2019-03-02 10:51:48
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2019/pyramidal-technologies-best-forensic-technology-global-2019/"
+categories: ["Industries", "North America", "Technology"]
+content_sha256: eb63bd6c6de51c75469dd69a8bac0abbb3299e2283bbf5e7a79f2145fc087a67
+canonical: 7900-pyramidal-technologies-best-forensic-technology-global-2019.json
+---
+
+# Pyramidal Technologies: Best Forensic Technology Global 2019
+
+> Verbatim archived copy. Canonical machine record: `7900-pyramidal-technologies-best-forensic-technology-global-2019.json`.
+
+<img class="aligncenter size-full wp-image-7901" src="https://cfi.co/awards/wp-content/uploads/2020/07/Pyramidal.jpg" alt="Pyramidal" width="400" height="269" />
+<p style="text-align: justify;">To properly address the escalating nature of crime, Pyramidal Technologies is proactive when it comes to innovative solutions that can be used to help create more civil societies and provides law enforcement and judicial systems with vital tools to ensure offenders are held accountable under the law. The company has leveraged the power of technology to elevate forensic ballistics from subjective opinion to data-backed science. Pyramidal Technologies has driven the technological evolution of forensic ballistics and firearms registration by offering its flagship product, ALIAS, to support justice departments, police and military forces and government agencies worldwide. ALIAS combines a next generation scanning system, using interferometry, with a sophisticated software front-end, including advanced intellectual property for “Correlation”, to capture and compare firearms evidence in the form of bullets and cartridge cases. The majority of profits are reinvested into the evolution of ALIAS through ongoing R&amp;D in order to ensure that law enforcement officials are equipped with the best methods available to identify violent offenders. Pyramidal Technologies is carrying out its efforts through ongoing strategic discussions with government leaders worldwide with regard to issues of national security and public safety as it relates to firearms. The CFI judging panel is familiar with the company’s contribution to civil societies, having recognised Pyramidal Technologies for its forensic fortitude in previous awards. The judges are pleased to see the company and its partnerships continue to flourish and contribute to public safety, such as to reduce violent crime, including gang and drug related murders. For example, firearm homicides in the Dominican Republic have been cut in half over the past five years through a National Security initiative using ALIAS as a principle solution. Without hesitation, the judges declare Pyramidal Technologies as winner, for the third year, of the 2019 award for Best Forensic Technology (Global).</p>
