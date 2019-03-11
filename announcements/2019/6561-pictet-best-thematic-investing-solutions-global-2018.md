@@ -1,0 +1,19 @@
+---
+id: 6561
+title: "Pictet: Best Thematic Investing Solutions Global"
+award_year: 2019
+published: 2019-03-11 15:40:41
+published_gmt: 2019-03-11 15:40:41
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2019/pictet-best-thematic-investing-solutions-global-2018/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: cd150ee990e07ebec8a2f7bd2ecda4385c0dd6469cc4bc9516ff701f95f78867
+canonical: 6561-pictet-best-thematic-investing-solutions-global-2018.json
+---
+
+# Pictet: Best Thematic Investing Solutions Global
+
+> Verbatim archived copy. Canonical machine record: `6561-pictet-best-thematic-investing-solutions-global-2018.json`.
+
+[caption id="attachment_6578" align="aligncenter" width="1000"]<img class="size-full wp-image-6578" src="https://cfi.co/awards/wp-content/uploads/2019/03/Pictet-Dedrick-Bader.jpg" alt="" width="1000" height="667" /> <strong>Equity Partner, Head of Marketing &amp; Products:</strong> Derick Bader[/caption]
+<p style="text-align: justify;"><strong>Pictet is one of the most respected names in the world of asset and wealth management with CHF 512 billion AUM (as at September 2018).</strong> Founded in Geneva in 1805, Pictet has maintained its principles of succession and in 213 years there have been only 42 partners, with an average tenure of 21 years. This has allowed the company to establish strong traditions and values which translate into long and trusted relationships with its clients. Always the pioneer, Pictet was one of the first asset managers to develop a thematic fund strategy, launching its water fund almost 20 years ago, followed by more thematic funds including the innovative Digital Fund in the summer of 2008 when there were only five million iPhones in the world, compared to over the billion in use today. Pictet has built on its early success by creating highly specialist investment teams from diverse backgrounds with a deep understanding of the themes. Understanding how to create such teams has helped set Pictet apart from its competition and enabled them to develop new thematic investment products. The Group´s adherence to the UN Principles for Responsible Investment and the integration of high ESG standards has helped enhance returns and mitigate risk . These factors have resulted in the funds not only delivering financial results but have also contributed to the delivery of SDGs and sustainable solutions.  Given the increasing demand for responsible investment solutions, the CFI.co judging panel felt Pictet Group, with its ability to identify strong thematic investment solutions that deliver strong rewards for its clients whilst funding positive change, deserved the recognition of the award for The Best Thematic Investing Solutions - Global 2018.</p>
