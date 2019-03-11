@@ -1,0 +1,20 @@
+---
+id: 6218
+title: "MAROCLEAR: Best Financial Services Corporate Governance Team North Africa 2018"
+award_year: 2019
+published: 2019-03-11 12:08:05
+published_gmt: 2019-03-11 12:08:05
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2019/maroclear-best-financial-services-corporate-governance-team-north-africa-2018/"
+categories: ["Africa", "Best Practice", "Corporate Governance", "Finance"]
+content_sha256: a6ca21e0f5a8c9ccf320a105bee99395808d4175c48190de00a02b6900f863c2
+canonical: 6218-maroclear-best-financial-services-corporate-governance-team-north-africa-2018.json
+---
+
+# MAROCLEAR: Best Financial Services Corporate Governance Team North Africa 2018
+
+> Verbatim archived copy. Canonical machine record: `6218-maroclear-best-financial-services-corporate-governance-team-north-africa-2018.json`.
+
+<img class="aligncenter size-full wp-image-6582" src="https://cfi.co/awards/wp-content/uploads/2018/10/Maroclear-1.jpg" alt="" width="1000" height="513" />
+<p style="text-align: justify;">According to the CFI.co judging panel, MAROCLEAR, the central depository of securities of Morocco, takes its corporate governance responsibilities very seriously and is an extraordinarily well run organisation headed by the exceptionally talented Fathïa Bennis. MAROCLEAR ensures that its business practices align with international best practice to ensure the smooth functioning of the market, providing partners and affiliates with a secure and reliable framework for security retention and transaction completion. Without doubt MAROCLEAR has, since its inception, contributed significantly to the development of the Moroccan financial sector. Bennis, at the head, is passionate about reducing the gap between men and women – particularly at the decision-making level. She has been quoted as saying that she values women that are able to occupy strategic positions and has always been sensitive to the cause of female empowerment. Bennis takes the view that the secret of the promotion of women is solidarity. CFI.co agrees, and the panel insists on a personal award to Fathïa Bennis to applaud her commitment to gender equality. This individual recognition will go alongside the corporate award Best Financial Services Corporate Governance Team North Africa 2018 in the name of MAROCLEAR.</p>
+<img class="aligncenter size-full wp-image-6220" src="https://cfi.co/awards/wp-content/uploads/2018/10/Maroclear.jpg" alt="" width="349" height="80" />
