@@ -1,0 +1,19 @@
+---
+id: 6666
+title: "Dubai Multi Commodities Centre (DMCC): Best Commodities Trading Free Zone Global 2019"
+award_year: 2019
+published: 2019-04-29 13:49:02
+published_gmt: 2019-04-29 12:49:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2019/dubai-multi-commodities-centre-dmcc-best-commodities-trading-free-zone-global-2019/"
+categories: ["Industries", "Middle East", "Professional Services"]
+content_sha256: 940a4da20c24067348436cc3af894be694df7d10b7e739f038cf09a0d645fabb
+canonical: 6666-dubai-multi-commodities-centre-dmcc-best-commodities-trading-free-zone-global-20.json
+---
+
+# Dubai Multi Commodities Centre (DMCC): Best Commodities Trading Free Zone Global 2019
+
+> Verbatim archived copy. Canonical machine record: `6666-dubai-multi-commodities-centre-dmcc-best-commodities-trading-free-zone-global-20.json`.
+
+[caption id="attachment_6667" align="aligncenter" width="1500"]<img class="size-full wp-image-6667" src="https://cfi.co/awards/wp-content/uploads/2019/04/DMCC.jpg" alt="" width="1500" height="955" /> <strong>Gautam Sashittal</strong>, CEO and <strong>Feryal Ahmadi</strong>, COO[/caption]
+<p style="text-align: justify;">The United Arab Emirates is crisscrossed by ancient trade routes, bolstered by futuristic infrastructure, and backed by a business-friendly government. The UAE entices emerging entrepreneurs and major multinationals to establish operations in Free Zone communities, where they enjoy fiscal conditions that afford them a competitive edge. The Dubai Multi Commodities Centre (DMCC), the world’s flagship Free Zone, was made for trade. It’s one of the fastest growing and most interconnected Free Zones in the world, with about 15,000 companies and 60,000 employees representing 170 countries worldwide. The DMCC — home to brokers, banks, and bourses — serves as a gateway to global trading and connects investment opportunities across emerging and established markets. As a leading global commodities hub, the DMCC handles heavy trade-flow, moving everything from gold, diamonds and base metals to coffee, tea, and spices. Innovation drives progress in the DMCC, and the investments made over the past two decades have helped solidify the DMCC’s status as a powerful hub of finance and trade. According to DMCC research, the future of trade will be shaped by tech advances — blockchain, fintech, robotics, and the Internet of Things — that will streamline business operations and increase efficiency. The report claims that the global cost of trade totals $1.8tn, 20% of which is related to paperwork, and heralds blockchain as a powerful gamechanger for the industry. The tech initiatives already implemented throughout the UAE’s Free Zones have convinced the CFI.co judging panel of the DMCC’s capacity to leverage technology to fuel world trade. The judges name the Dubai Multi Commodities Centre (DMCC) as the 2019 winner of the Best Commodities Trading Free Zone (Global) award.</p>
