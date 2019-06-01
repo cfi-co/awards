@@ -1,0 +1,19 @@
+---
+id: 6735
+title: "MetLife Investments Limited: Best Private Placement Team EMEA 2019"
+award_year: 2019
+published: 2019-06-01 19:27:42
+published_gmt: 2019-06-01 18:27:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2019/metlife-investments-limited-best-private-placement-team-emea-2019/"
+categories: ["Finance"]
+content_sha256: 0d19cdbe1fc9adc54f3e2477b85663b6af28dc90fc7ea315da80fa497af024cc
+canonical: 6735-metlife-investments-limited-best-private-placement-team-emea-2019.json
+---
+
+# MetLife Investments Limited: Best Private Placement Team EMEA 2019
+
+> Verbatim archived copy. Canonical machine record: `6735-metlife-investments-limited-best-private-placement-team-emea-2019.json`.
+
+<img class="aligncenter size-full wp-image-6736" src="https://cfi.co/awards/wp-content/uploads/2019/06/Metlife.jpg" alt="" width="400" height="92" />
+<p style="text-align: justify;">MetLife Investments understands the importance of preparation. Investment managers at the London-based firm put in the necessary work to remain at the top of the class, building a reputation for thorough and reliable research. MetLife Investments Limited offers a range of financial services, but its specialities are leveraged loans and private equity investments. The company offers bespoke investment solutions, matching specific markets with dedicated specialists. The team’s personalised service and focused expertise has led to long-lasting relationships based upon mutual trust and growth. The company’s Corporate Private Placement strategy aims to cultivate high quality private debt, characterised by enhanced yield and strong diversification. The team structures investments as fixed- or floating-rate debt, and tailors them to meet the maturity and diversification specifications of their clients. Asset-liability management is in the company’s DNA, and its disciplined approach to risk-management has allowed MetLife to underwrite its own business, and deliver on its promises to clients. The company was incorporated in 1992 as a subsidiary of the MetLife Investment Management (MIM) platform. As part of the MIM platform, the team joins a collaborative network of 900 investment professionals, contributing to and benefiting from MetLife’s insightful research into macroeconomic investment strategies. Parent company MetLife is a global leader with a 150-year history in financial services, operations in more than 40 countries, and leading market positions in the United States, Japan, Latin America, Asia, Europe, and the Middle East. The CFI.co judging panel was impressed by way the Metlife Investments Ltd team has taken full advantage of its network and affiliations, and names the company winner of the 2019 award for Best Private Placement Team (EMEA).</p>
