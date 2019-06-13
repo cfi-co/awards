@@ -1,0 +1,19 @@
+---
+id: 6780
+title: "Liechtenstein Bankers Association: Outstanding Contribution to Good Bank Governance Liechtenstein 2019"
+award_year: 2019
+published: 2019-06-13 13:42:50
+published_gmt: 2019-06-13 12:42:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2019/liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governance-liechtenstein-2019/"
+categories: ["Banking"]
+content_sha256: 9ce8cff76b11077ec8b317a04b0bddabf40dbbd9a98fc9dde499fd6a3cfd0da2
+canonical: 6780-liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governan.json
+---
+
+# Liechtenstein Bankers Association: Outstanding Contribution to Good Bank Governance Liechtenstein 2019
+
+> Verbatim archived copy. Canonical machine record: `6780-liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governan.json`.
+
+<p style="text-align: justify;"><img class="size-full wp-image-6781 aligncenter" src="https://cfi.co/awards/wp-content/uploads/2019/06/LBV.jpg" alt="" width="500" height="197" /></p>
+<p style="text-align: justify;">Since the Liechtenstein Bankers Association (LBA) developed a new strategy in 2010 — Roadmap 2015 — it has repositioned itself to be more closely aligned to the day-to-day needs of its members and their customers. The LBA is characterised by strong leadership and co-operation, combined with a future-oriented and innovative approach. It was instrumental in shaping the tax conformity strategy of the country and in implementing so-called Government Declaration on tax compliance. The LBA shows a clear commitment to the automatic exchange of information, and in 2016 the LBA formulated the next stage of this pioneering strategy: Roadmap 2020. This strategy defined the key pillars for the principality to function as a major financial hub: sustainability, stability, and quality of services and products. Through constant analysis of the environment, market situation, and international developments, the LBA has been able to chart the steps that needed to be taken. It identified sustainability and digitalisation as the primary issues in moving forward. As a result, the organisation has become the financial centre's main voice, and Liechtenstein's most significant trade association. The LBA takes a pro-active role in the development of the financial centre and in this spirit is currently assessing its banks in terms of where they stand on sustainable finance and sustainable products. It has built a day-care centre for employees' children, just one example of the association’s forward-looking approach. Its instinctive understanding of shaping the future of a financial centre has impressed the CFI.co judging panel, which confers on Liechtenstein Bankers Association the 2019 award for Outstanding Contribution to Good Bank Governance Liechtenstein.</p>
