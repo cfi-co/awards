@@ -1,0 +1,19 @@
+---
+id: 6810
+title: "Invest Durban (DIPA): Best City Investment Promotion Team Africa 2019"
+award_year: 2019
+published: 2019-07-11 14:07:49
+published_gmt: 2019-07-11 13:07:49
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2019/invest-durban-dipa-best-city-investment-promotion-team-africa-2019/"
+categories: ["Africa", "Development", "FDI Agencies", "Government"]
+content_sha256: b0da4a9a25fb02c6d88b508bd84b7e8aa31c18305b917d4895750d3eb4d6bf3e
+canonical: 6810-invest-durban-dipa-best-city-investment-promotion-team-africa-2019.json
+---
+
+# Invest Durban (DIPA): Best City Investment Promotion Team Africa 2019
+
+> Verbatim archived copy. Canonical machine record: `6810-invest-durban-dipa-best-city-investment-promotion-team-africa-2019.json`.
+
+[caption id="attachment_6811" align="aligncenter" width="1000"]<img class="wp-image-6811 size-full" src="https://cfi.co/awards/wp-content/uploads/2019/07/InvestDurban.jpg" alt="" width="1000" height="674" /> Russell Curtis, left, accepting an award from CFI.co[/caption]
+<p style="text-align: justify;">The South African coastal city of Durban has that “wow” factor. It has received accolades for its infrastructure, low cost of living, and high quality of life — and Invest Durban has played a crucial role in that success. The company, previously known as the Durban Investment Promotion Authority (DIPA), was founded in 2002 to stimulate economic growth and attract investment. Invest Durban is the perfect first step for those considering the city as an investment destination. The company provides free advisory services, as well as investment marketing and project management, in-line with its goal of attracting new — and retaining existing — foreign investors. The free services range from local market analysis and sector-specific research to networking introductions and assistance in establishing businesses. Invest Durban liaises with consulting firms to outsource certain services, such as accommodation assistance, immigration visas, third-party billing and expatriate taxation. Clients receive up to 20 work-hours, free-of-charge, to get them started. The company is geared for growth, and serves the private and public sectors with passion, pride, and speed. Invest Durban builds relationships with all investment stakeholders, and forges alliances with a long-term view and a value-added edge. Challenges are willingly met at Invest Durban, because the company has full confidence in its adaptable and dedicated team, which has a proven record of turning problems into progress. The CFI.co judging panel is delighted to present Invest Durban (DIPA) with the 2019 award for Best City Investment Promotion Team (Africa).</p>
