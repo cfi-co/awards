@@ -1,0 +1,19 @@
+---
+id: 6830
+title: "Vodacom RDC: Best Mobile Network Operator DR Congo 2019"
+award_year: 2019
+published: 2019-08-02 09:19:59
+published_gmt: 2019-08-02 08:19:59
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2019/vodacom-rdc-best-mobile-network-operator-dr-congo-2019/"
+categories: ["Africa", "Industries", "Telecom"]
+content_sha256: b05923ea3efc47822a618c4803e20b2858b59c35a76738ce270b75b6da19fecd
+canonical: 6830-vodacom-rdc-best-mobile-network-operator-dr-congo-2019.json
+---
+
+# Vodacom RDC: Best Mobile Network Operator DR Congo 2019
+
+> Verbatim archived copy. Canonical machine record: `6830-vodacom-rdc-best-mobile-network-operator-dr-congo-2019.json`.
+
+<img class="aligncenter size-full wp-image-6831" src="https://cfi.co/awards/wp-content/uploads/2019/08/Vodacom.jpg" alt="" width="500" height="126" />
+<p style="text-align: justify;">In the Democratic Republic of the Congo (RDC), there are few companies with guiding principles to match those of Vodacom RDC. The telecom provider is driven by a mission to help communities by improving life today, and building a brighter tomorrow. To achieve this, Vodacom RDC seeks the highest calibre of professionals to recruit – and invites only those who embody the company ethos to join the team. Vodacom RDC boasts a staff retention rate of 98%, and is considered one of the country’s best employers. It offers month-long internship opportunities, introducing university students to the diverse sectors and skills of the telecom world – from engineering and computer sciences to marketing and finance. As a subsidiary of Vodacom in South Africa, the company enjoys strong brand recognition, and has claimed a healthy portion of the market share. Vodacom RDC has invested more than $1bn in infrastructure to connect communities countrywide with a high-quality, reliable network at competitive pricing. It takes pride in being the most innovative telecom in the Congo, and was first operator to launch 4G services, with connection speeds upwards of 20Mb/s. The company aims to enhance the lives of its clients by committing to international best-practice, giving outstanding customer service, and maintaining a proactive corporate social responsibility (CSR) programme. Vodacom RDC excels in its corporate civic duty, supporting Congolese communities with educational programmes and healthcare initiatives. It encourages sustainable environmental solutions by providing solar panels to disadvantaged societies in rural areas. The CFI.co judging panel cites the company’s spirit of innovation and inclusion as the deciding factors in naming Vodacom RDC winner of the 2019 award for Best Mobile Network Operator (DR Congo).</p>
