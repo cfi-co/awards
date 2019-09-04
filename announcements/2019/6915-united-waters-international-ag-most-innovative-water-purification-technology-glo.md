@@ -1,0 +1,19 @@
+---
+id: 6915
+title: "United Waters International AG: Most Innovative Water Purification Technology Global 2019"
+award_year: 2019
+published: 2019-09-04 11:50:26
+published_gmt: 2019-09-04 10:50:26
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/industries/technology/2019/united-waters-international-ag-most-innovative-water-purification-technology-global-2019/"
+categories: ["Technology"]
+content_sha256: fbbd568893e70640db6182cd7635e52f1150bec9e511e24088f46e27e79b1844
+canonical: 6915-united-waters-international-ag-most-innovative-water-purification-technology-glo.json
+---
+
+# United Waters International AG: Most Innovative Water Purification Technology Global 2019
+
+> Verbatim archived copy. Canonical machine record: `6915-united-waters-international-ag-most-innovative-water-purification-technology-glo.json`.
+
+<img class="aligncenter size-full wp-image-4251" src="https://cfi.co/awards/wp-content/uploads/2017/05/UnitedWaters.jpg" alt="" width="240" height="78" />
+<p style="text-align: justify;">Water, water everywhere, and not that many drops to drink… but Swiss-based United Waters International AG is striding towards a solution. The company was founded in 2005 to address the growing global water crisis, with the backing of scientists from the Royal Institute of Technology in Stockholm. Less than one percent of the Earth’s water is potable, making it a luxury item in underdeveloped or water-scarce regions. With headquarters in Switzerland and subsidiaries in China, India and Sweden, United Waters is well positioned to launch its innovative BioGreen water purification system. The system is the result of 40 years of research and development by some of the brightest minds in the business, from academics and scientists to technical experts and water specialists. The BioGreen system is a sustainable water purification solution that uses no chemicals and creates no harmful by-products. It consumes just one percent of the energy that conventional systems require, and features a biological process that removes all metals, bacteria, viruses and microbes. It fits in a single shipping container, yet is capable of purifying 2,500 m³ water per day. And, typical of a Swiss-made product, it comes with rapid delivery and a 30-year guarantee. United Waters has registered on the CFI.co radar for some time for its life-saving efforts. The judging panel is happy to reaffirm its admiration for the company. United Waters International AG, a CFI.co winner in 2017 and 2018, is now presented with the 2019 award for Most Innovative Water Purification Technology (Global).</p>
