@@ -1,0 +1,19 @@
+---
+id: 6923
+title: "Fideicomiso Hipotecario (FHipo): Best Social Impact Mortgage Provider Mexico 2019"
+award_year: 2019
+published: 2019-09-16 09:47:34
+published_gmt: 2019-09-16 08:47:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2019/fideicomiso-hipotecario-fhipo-best-social-impact-mortgage-provider-mexico-2019/"
+categories: ["Latin America"]
+content_sha256: 3b7c4a10473a3b5e190dfc6ad2b99c45c4f48e536b1cd3c3a35a9f9f5fda7fd5
+canonical: 6923-fideicomiso-hipotecario-fhipo-best-social-impact-mortgage-provider-mexico-2019.json
+---
+
+# Fideicomiso Hipotecario (FHipo): Best Social Impact Mortgage Provider Mexico 2019
+
+> Verbatim archived copy. Canonical machine record: `6923-fideicomiso-hipotecario-fhipo-best-social-impact-mortgage-provider-mexico-2019.json`.
+
+<a href="https://cfi.co/awards/wp-content/uploads/2017/10/Fhipo.jpg"><img class="aligncenter size-full wp-image-5012" src="https://cfi.co/awards/wp-content/uploads/2017/10/Fhipo.jpg" alt="" width="270" height="142" /></a>
+<p style="text-align: justify;">Fideicomiso Hipotecario — FHipo for short — is Mexico’s first investment vehicle offering institutional and individual investors access to the country’s attractive real estate market. Founded in 2014, FHipo is a mortgage REIT (real estate investment trust) that acquires, originates, co-participates, services, and manages mortgage loan portfolios. The firm follows a business strategy that prioritises partnerships and synergy among stakeholders. FHipo partners with Mexico’s two largest mortgage originators, Infonavit and Fovissste, to provide home loans and mortgage financing, particularly for borrowers without access to traditional banks. Alliances with fintech companies have opened digital channels to attract new clients and help the firm hone its innovative edge. New government policies targeting social impact dovetail with FHipo’s own corporate awareness, which aims to improve customers’ quality of life and contribute to national development. Since its inception, FHipo has amassed a diversified portfolio which amounted to more than $1.5 billion USD as of the second quarter of 2019 and contributed to the creation of 100,000 homes. FHipo is listed on the Mexican Stock Exchange and offers investors — whether institutional or individual, in Mexico or abroad —attractive returns fuelled by steady cashflows from mortgage interest and amortisation. Workers registered with Mexico’s Retirement Funds Administrators (AFORES) form part of FHipo’s stakeholder network — as investors and as borrowers. Mortgage repayments can be made through direct payroll deductions, cementing FHipo’s status as a low-risk, high social impact investment opportunity. The firm first attracted the attention of the CFI.co judging panel in 2017 for its contribution to creating a more competitive and accessible mortgage industry. The judges congratulate Fideicomiso Hipotecario on its continued growth, and name FHipo winner of the 2019 award for Best Social Impact Mortgage Provider (Mexico).</p>
