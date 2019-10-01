@@ -1,0 +1,19 @@
+---
+id: 7137
+title: "My Clinic: Best Clinical Patient Outcome KSA 2019"
+award_year: 2019
+published: 2019-10-01 09:21:23
+published_gmt: 2019-10-01 08:21:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2019/my-clinic-best-clinical-patient-outcome-ksa-2019/"
+categories: ["Middle East"]
+content_sha256: 81b46bbeac3774e3fd0594a3bead761aa3866e46b6c637e23b622c5c8fe7cc48
+canonical: 7137-my-clinic-best-clinical-patient-outcome-ksa-2019.json
+---
+
+# My Clinic: Best Clinical Patient Outcome KSA 2019
+
+> Verbatim archived copy. Canonical machine record: `7137-my-clinic-best-clinical-patient-outcome-ksa-2019.json`.
+
+<img class="aligncenter size-full wp-image-7138" src="https://cfi.co/awards/wp-content/uploads/2020/01/My-Clinic.jpg" alt="My Clinic" width="385" height="89" />
+<p style="text-align: justify;">Before launching in 2017, Saudi Arabian healthcare provider My Clinic canvassed hospitals at home and abroad to learn the most common patient complaints about their care. It was determined to learn from others’ errors to improve patient outcomes and experiences. My Clinic offers a full range of clinical care, minus the operating theatre, and specialities in women’s and children’s health, family medicine and chronic disease management. It started out with just 30 patients and now has more than 1,000 — a figure expected to double by the end of the year. The centre recognises stress as a barrier to healing and focuses on putting patients at their ease. Its fertility clinic features sofas and soft lighting, and appointments allow adequate time for patients to voice concerns and for doctors to give advice. The children’s department uses decoration to brighten the day for young patients, with lively colours, games and toys. My Clinic’s home services include morning visits to collect samples for blood work, because who wants to face a hospital visit before coffee? The team of internationally certified doctors and consultants is united behind the mission to provide top-level clinical care and the best possible experience. Digital advancements enable greater patient engagement, with automated appointment reminders and test results available by app or email. Patients can book appointments online or via the app with a guaranteed rendezvous within five days. Customer satisfaction is a priority and guiding force for My Clinic, and it solicits and analyses patient feedback after each visit to identify strengths, weaknesses, and areas for improvement. The CFI.co judges present My Clinic with the 2019 award for Best Clinical Patient Outcome (Kingdom of Saudi Arabia).</p>
