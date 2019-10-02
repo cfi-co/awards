@@ -1,0 +1,19 @@
+---
+id: 7154
+title: "McKinsey & Company: Best Management Consultancy Spain 2019"
+award_year: 2019
+published: 2019-10-02 10:09:20
+published_gmt: 2019-10-02 09:09:20
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2019/mckinsey-company-best-management-consultancy-spain-2019/"
+categories: ["Consultancies", "Europe", "Professional Services"]
+content_sha256: 9a724b6d844da50ab1a1ac3c698ab91add09779f898bb0e7f32878552330e4f8
+canonical: 7154-mckinsey-company-best-management-consultancy-spain-2019.json
+---
+
+# McKinsey & Company: Best Management Consultancy Spain 2019
+
+> Verbatim archived copy. Canonical machine record: `7154-mckinsey-company-best-management-consultancy-spain-2019.json`.
+
+<img class="aligncenter size-full wp-image-7155" src="https://cfi.co/awards/wp-content/uploads/2020/01/McKinsey-and-Company.jpg" alt="McKinsey-and-Company" width="240" height="98" />
+<p style="text-align: justify;">Professionals — globally, and across industries — trust McKinsey &amp; Company to provide thought-provoking and change-inspiring research. The firm has established regional offices to help private and public organisations tackle local challenges with a precise focus. McKinsey Spain was founded to extend the reach of the global firm, fuel the country’s reform and boost the economy. McKinsey has established a strong presence in Spain over the past four decades, undertaking upwards of 2,000 projects and serving more than half of the nation’s largest companies. McKinsey Spain clients come from a range of sectors, including finance, telecommunications, energy and consumer goods. McKinsey’s Madrid and Barcelona offices employ 160 consultants and 220 staff, conducting management research to develop long-term perspectives and influence public debate on the most critical economic challenges facing today’s businesses and economies. McKinsey Spain puts itself in the co-pilot’s seat for clients’ transformational journeys, turning ideas into reality and creating change that has a lasting impact. The CFI.co judging panel has seen McKinsey &amp; Company intelligently steer public debate with its insightful research publications, and finds that its locally tailored client services are of equally high calibre. The judges declare McKinsey as the winner of the 2019 award for Best Management Consultancy (Spain).</p>
