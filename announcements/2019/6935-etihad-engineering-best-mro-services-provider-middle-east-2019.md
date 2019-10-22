@@ -1,0 +1,21 @@
+---
+id: 6935
+title: "Etihad Engineering: Best MRO Services Provider Middle East 2019"
+award_year: 2019
+published: 2019-10-22 12:11:49
+published_gmt: 2019-10-22 11:11:49
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/industries/2019/etihad-engineering-best-mro-services-provider-middle-east-2019/"
+categories: ["Industries", "Manufacturing", "Transport"]
+content_sha256: f0c5cf716f8239d7ed284d152191bca8de42f799c504900961b94a8f2fdc3d08
+canonical: 6935-etihad-engineering-best-mro-services-provider-middle-east-2019.json
+---
+
+# Etihad Engineering: Best MRO Services Provider Middle East 2019
+
+> Verbatim archived copy. Canonical machine record: `6935-etihad-engineering-best-mro-services-provider-middle-east-2019.json`.
+
+&nbsp;
+
+<img class="aligncenter wp-image-11113 size-full" title="Etihad Engineering" src="https://cfi.co/awards/wp-content/uploads/2023/01/EtihadEngineering-jpg.webp" alt="Etihad Engineering" width="400" height="221" />
+<p style="text-align: justify;">Etihad Engineering is a nexus of aviation activity and expertise, located at the centre of the world's key aviation markets. As the largest commercial provider of maintenance, repair and operations (MRO) services in the Middle East, Etihad Engineering spearheads the UAE's burgeoning role as a global aerospace hub and its efforts are delivering results. Etihad Engineering has demonstrated a surge of growth with reports of its MRO operations exceeding financial targets in 2018. The company strengthened its market presence globally with its customer portfolio growing steadily across continents in Asia, Africa, Europe and Latin America, maintaining a consistently high rate of customer satisfaction throughout the year. The team logged more than 1.6 million man-hours, servicing around 300 aircraft and 32,000 aircraft components with third-party customers contributing a major part of the revenue. Etihad Engineering maintains its strong market position by consistently expanding its capabilities and geographical reach, increasing third-party business, building strategic partnerships, and streamlining its systems and processes. The company has been setting new benchmarks in the industry with many firsts to its credit. Etihad Engineering is the first organisation in the Middle East to be granted an EASA Part 21J Major Approval and Part21G Production Organisation Approval (POA). It is the first MRO in the world outside the Boeing network to fully strip and paint a Boeing 787 and the first MRO in the Middle East to carry out a heavy maintenance check on a Boeing 787. Etihad Engineering is also at the forefront in terms of innovation and adoption of new technologies, being the first airline MRO with EASA approval to design, certify and fly 3D printed parts. The CFI.co judging panel applauds the company for its high quality standards, reliable performance, high levels of customer satisfaction and relentless commitment to excellence. Etihad Engineering wins the 2019 award for Best MRO Services Provider (Middle East).</p>
