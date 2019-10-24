@@ -1,0 +1,19 @@
+---
+id: 7674
+title: "Grupo Interbrok: Best Independent Insurance Broker Brazil 2019"
+award_year: 2019
+published: 2019-10-24 13:05:36
+published_gmt: 2019-10-24 12:05:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2019/grupo-interbrok-best-independent-insurance-broker-brazil-2019/"
+categories: ["Exchanges &amp; Brokers", "Finance", "Professional Services"]
+content_sha256: 413cd90ed94e074df1338ea6a4aa6519192dd37a46b1831cf7920611f0d86bb1
+canonical: 7674-grupo-interbrok-best-independent-insurance-broker-brazil-2019.json
+---
+
+# Grupo Interbrok: Best Independent Insurance Broker Brazil 2019
+
+> Verbatim archived copy. Canonical machine record: `7674-grupo-interbrok-best-independent-insurance-broker-brazil-2019.json`.
+
+<img class="aligncenter size-full wp-image-6143" src="https://cfi.co/awards/wp-content/uploads/2018/10/Interbrok.gif" alt="Interbrok" width="349" height="119" />
+<p style="text-align: justify;">Brazilian insurance broker Grupo Interbrok is a company with a long history of prioritising quality. The group has been in operation for over a century, proving that committed and individualised customer service wins through. Grupo Interbrok serves companies throughout the country via a nationwide network of offices in São Paulo, Rio de Janeiro and São Bernardo do Campo. A team of 130 professionals of unrivalled experience in domestic and international insurance dedicate the necessary time to fully understand — and tailor solutions to — each client’s unique insurance needs. Interbrok insurance offerings include corporate coverage, reinsurance, and personal products. Corporate coverage exemplifies Interbrok’s tailor-made concept, providing companies with differentiated and exclusive services to create the best insurance plan possible. The focus on quality, dedication and individual treatment are factors that guide all our efforts. Besides P&amp;C lines Interbrok also offers benefit products such as life, health, and dental insurance, and affords clients access to international reinsurance markets. As part of its long-term growth strategy, the group also specialises in mergers and acquisitions. Grupo Interbrok came to the attention of the CFI.co judging panel last year as a story of long-enduring success, built upon ethical and transparent practices and driven by a well-integrated and high-tech back office. For a company that has shown great consistency and commitment over the years, the judges are delighted to present the repeat winner, Grupo Interbrok, with the 2019 award for Best Independent Insurance Broker (Brazil).</p>
