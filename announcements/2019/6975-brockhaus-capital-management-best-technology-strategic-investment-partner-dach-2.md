@@ -1,0 +1,19 @@
+---
+id: 6975
+title: "Brockhaus Capital Management: Best Technology Strategic Investment Partner DACH 2019"
+award_year: 2019
+published: 2019-11-01 11:58:47
+published_gmt: 2019-11-01 11:58:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2019/brockhaus-capital-management-best-technology-strategic-investment-partner-dach-2019/"
+categories: ["Asset Management", "Finance"]
+content_sha256: 9289e18980cab09ee3b3f9d6adeccf48e9f28e94f7c2445d045ec6ba015cbbff
+canonical: 6975-brockhaus-capital-management-best-technology-strategic-investment-partner-dach-2.json
+---
+
+# Brockhaus Capital Management: Best Technology Strategic Investment Partner DACH 2019
+
+> Verbatim archived copy. Canonical machine record: `6975-brockhaus-capital-management-best-technology-strategic-investment-partner-dach-2.json`.
+
+<img class="aligncenter size-full wp-image-6976" src="https://cfi.co/awards/wp-content/uploads/2019/11/Brockhaus-Capital-Management.jpg" alt="" width="600" height="49" />
+<p style="text-align: justify;">Marco Brockhaus has devoted the past two decades to fast-tracking the growth potential of technology companies. He founded Brockhaus Private Equity in 2000, achieving impressive portfolio growth and healthy investor returns over the course of three private equity fund generations. Brockhaus Capital Management (BCM) was launched to deploy the same successful strategy, but over a longer timeframe — and with a focus on majority acquisitions. BCM is an acquisitions and holdings company targeting innovation- and technology-driven companies in German markets which differentiate themselves from their competitors. BCM acts as a strategic partner to assist the companies in business-scaling operations to speed expansion and boost profits. It helps entrepreneurs structure growth-capable organisations and optimises their management. BCM invests in innovation and technology leaders, and champions them to achieve their full potential. It has carved a niche in German-speaking markets for investments focussing on companies valued at €20m - €100m — with better results than small or medium-sized private equity firms. BCM invites investors to share in the spirit of innovation, as well as the profits. It plans to launch an IPO, bringing fungibility to a traditionally illiquid asset class. The CFI.co judging panel applauds the company’s active strategy and names Brockhaus Capital Management as the 2019 winner of the award for Best Technology Strategic Investment Partner (DACH).</p>
