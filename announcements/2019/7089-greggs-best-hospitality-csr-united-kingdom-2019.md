@@ -1,0 +1,31 @@
+---
+id: 7089
+title: "Greggs: Best Hospitality CSR United Kingdom 2019"
+award_year: 2019
+published: 2019-11-09 09:45:09
+published_gmt: 2019-11-09 09:45:09
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2019/greggs-best-hospitality-csr-united-kingdom-2019/"
+categories: ["CSR", "Europe"]
+content_sha256: 0f231d6433d73d86ac49b7f1a6ceb5363817a73dbe2cda6954f86ed1156b20b6
+canonical: 7089-greggs-best-hospitality-csr-united-kingdom-2019.json
+---
+
+# Greggs: Best Hospitality CSR United Kingdom 2019
+
+> Verbatim archived copy. Canonical machine record: `7089-greggs-best-hospitality-csr-united-kingdom-2019.json`.
+
+<img class="aligncenter size-full wp-image-7090" src="https://cfi.co/awards/wp-content/uploads/2020/01/Greggs.jpg" alt="Greggs CFI.co" width="400" height="93" />
+<p style="text-align: justify;"><strong>With almost 2000 shops, ownership of their supply chain and 23,000 colleagues serving 6 million customers each week Greggs is one of the UK’s leading food on the go retailers. Behind the golden puff pastry and freshly made sandwiches Greggs have always been committed to having a positive impact on people’s lives (HAPI).</strong></p>
+<p style="text-align: justify;">Greggs leads by example in Sustainable Development Goals 17 (SDGs) through global partnerships and is taking part in a related scheme with the British Retail Consortium (Better Retail, Better World).</p>
+<p style="text-align: justify;">Greggs social responsibility programme has five areas of focus which are currently being developed to fully integrate the UN’s SDG’s. The five areas of focus are;</p>
+
+<ul style="text-align: justify;">
+ 	<li>Customer Health – encouraging healthier food-on-the choices.</li>
+ 	<li>Responsible sourcing – Caring about where their ingredients come from.</li>
+ 	<li>Community – Sharing success with the people around them.</li>
+ 	<li>Environment – Using energy efficiently and minimising waste.</li>
+ 	<li>People – Creating a great place to work.</li>
+</ul>
+<p style="text-align: justify;">Key highlights include reformulating the sweet product range to meet Public Health England’s sugar reduction target – in 2018 they achieved 17.4% and are therefore on track to meet the overall target of 20% by 2020. Greggs partnership with Fairtrade now in its 14<sup>th</sup> year has enabled farmers to invest over £3m into their farms and communities. Greggs donates one percent of all pre-tax profits to the Greggs Foundation since the charity was founded over 30 years ago it has given in excess of £30m to make a difference to the communities that we serve. Greggs are proud holders of the Carbon Trust Standard achieving a 14% reduction in intensity in 2018. Greggs share 10% of their profits with employees and shared a record £10m with our people in 2019 as a result of our performance in 2018.</p>
+<p style="text-align: justify;">For keeping its corporate compass pointed towards true sustainability, the CFI.co judging panel presents Greggs with the 2019 award for Best Hospitality CSR (United Kingdom).</p>
