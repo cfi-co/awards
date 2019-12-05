@@ -1,0 +1,19 @@
+---
+id: 7021
+title: "Tencent: Most Innovative Social Media Company - Asia 2019"
+award_year: 2019
+published: 2019-12-05 17:12:38
+published_gmt: 2019-12-05 17:12:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2019/tencent-most-innovative-social-media-company-asia-2019/"
+categories: ["Asia Pacific"]
+content_sha256: 30f535ef76887b4d2b0688005bbaadabd84fd12383329231f365f5000d23bb62
+canonical: 7021-tencent-most-innovative-social-media-company-asia-2019.json
+---
+
+# Tencent: Most Innovative Social Media Company - Asia 2019
+
+> Verbatim archived copy. Canonical machine record: `7021-tencent-most-innovative-social-media-company-asia-2019.json`.
+
+<img class="aligncenter size-full wp-image-7032" src="https://cfi.co/awards/wp-content/uploads/2019/12/Tencent.jpg" alt="Tencent" width="500" height="75" />
+<p style="text-align: justify;">Since launching its first social media product, Tencent QQ, in February 1999, the company has enjoyed the kind of exponential growth that most companies can only dream of. By the end of 2010, the company had almost 650 million instant messaging user accounts, which made it the largest online community in the world at the time. In 2009 Tencent launched QQ International, an English-language service and on July 3, 2014, QQ entered the Guinness Book of World Records for the highest number of simultaneous online users on an instant messaging program: a staggering 210 million. Not content to rest on its laurels, Tencent introduced WeChat in 2011, a multi-purpose messaging, social media and mobile payment app which by 2018 had attained over one billion monthly active users. As of June 2019, the number of monthly active accounts of WeChat reached 1.13 billion. It has become an open platform for connecting various industries, connecting people, content, services and smart devices. Since introducing WeChat Pay, a digital wallet service incorporated into WeChat, the service has proved so popular that by 2019 it had become China’s number one online payment medium. This year saw it expand into Hong Kong and it can now be used in 25 countries outside China including the UK. Tencent has established an innovation-based R&amp;D matrix to create a future-oriented technology engine that enables technology innovation to benefit consumers and is at the cutting edge of artificial intelligence, always striving to enhance the user experience. Given this unrivalled level of innovation, the CFI.co judging panel had no hesitation in presenting Tencent with the award for Most Innovative Social Media Company - Asia 2019.</p>
