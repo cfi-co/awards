@@ -1,0 +1,19 @@
+---
+id: 7158
+title: "Enfuce: Best Payment & Compliance Solutions Europe 2019"
+award_year: 2020
+published: 2020-01-20 09:00:43
+published_gmt: 2020-01-20 09:00:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/enfuce-best-payment-compliance-solutions-europe-2019/"
+categories: ["Europe", "Industries", "Professional Services", "Technology"]
+content_sha256: c57461252d99f9f08e7f12dfe48b863ec0174d01c1052976ce6abc94674837a0
+canonical: 7158-enfuce-best-payment-compliance-solutions-europe-2019.json
+---
+
+# Enfuce: Best Payment & Compliance Solutions Europe 2019
+
+> Verbatim archived copy. Canonical machine record: `7158-enfuce-best-payment-compliance-solutions-europe-2019.json`.
+
+<img class="aligncenter size-full wp-image-7159" src="https://cfi.co/awards/wp-content/uploads/2020/01/Enfuce.jpg" alt="Enfuce" width="262" height="99" />
+<p style="text-align: justify;">The payments sector is subject to changing regulations, evolving consumer demands, and advancing tech capabilities. A new kind of payment service provider, Enfuce, is capable of not only rolling with industry change but of influencing its trajectory. Based in the Nordics with offices in Finland and Sweden, Enfuce is one of the fastest growing fintech companies in the region. The company attributes its success to a workforce of over 50 experts with fintech and banking backgrounds and can-do attitudes. Enfuce works to custom-craft solutions for compliance and collaborative partnerships. The Finnish start-up has achieved a ground-breaking year: launching new product categories — and securing a €5M round of funding in November 2019. Part of this funding is earmarked to develop its new open banking platform and sustainability services. Sustainability and collaboration are two of the company’s founding values, and its latest digital tool — My Carbon Action — enables consumers to measure the climate impact of their purchases. My Carbon Action is a sustainability service for banks, other financial service providers, and merchants to help their customers track their actual carbon footprint per purchase. The fully automated, payment-based model calculates the CO2 emissions of every purchase, providing environmental insights that enable consumers to seek carbon-neutral shopping while providing businesses with a tool to prove their sustainability claims. Founded in 2016, Enfuce delivers a secure, cloud-based platform and an easily integrated API. It plans to leverage its innovative suite of services, which has already attracted over 8 million end-users, to capture more of the European market in 2020. Secure and fast, scalable and feature-rich, the CFI.co judging panel declares Enfuce the 2019 winner of the Best Payment &amp; Compliance Solutions (Europe) award.</p>
