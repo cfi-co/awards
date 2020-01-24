@@ -1,0 +1,19 @@
+---
+id: 7765
+title: "FAMA Investimentos: Best ESG Integrated Investment Strategy Latin America 2019"
+award_year: 2020
+published: 2020-01-24 15:34:10
+published_gmt: 2020-01-24 15:34:10
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2020/fama-investimentos-best-esg-integrated-investment-strategy-latin-america-2019/"
+categories: ["Best Practice", "CSR", "Corporate Governance", "Finance", "Latin America", "Sustainability"]
+content_sha256: 7643c5cc5ce0bf03ef4007336212018e915201137464a56bba5c1c21612d7ae3
+canonical: 7765-fama-investimentos-best-esg-integrated-investment-strategy-latin-america-2019.json
+---
+
+# FAMA Investimentos: Best ESG Integrated Investment Strategy Latin America 2019
+
+> Verbatim archived copy. Canonical machine record: `7765-fama-investimentos-best-esg-integrated-investment-strategy-latin-america-2019.json`.
+
+<img class="aligncenter size-full wp-image-7766" src="https://cfi.co/awards/wp-content/uploads/2020/06/FAMA.jpg" alt="FAMA" width="400" height="60" />
+<p style="text-align: justify;">Co-founders Fabio Alperowitch and Mauricio Levi started FAMA Investimentos in 1993 with loads of idealism and pragmatism along with minimal capital raised from family and friends — just $10,000. Since its inception, the Brazilian company has weathered national and global economic crises with steadfast resolve and vision. FAMA Investimentos assesses the investment landscape to stay on top of evolving threats and risks. It has outperformed market indices, both in times of highs and lows. The founders credit their success to an investment strategy that prioritises community, employee, and environmental well-being as much as financial gain. Long before it became common business vernacular, FAMA was well-versed in environmental, social, and governance (ESG) values. The firm shuns industries and companies that don’t measure up to its sustainability standards. FAMA’s long-term approach allows it to proactively engage with each business in its portfolio, offering advice on management, transparency, or ESG issues. By focusing on the qualitative aspects, FAMA can forgive companies suffering a period of poor performance — but it won’t tolerate bad ethics. FAMA’s low-turnover portfolio features about 15 businesses and boasts an annualised return of 21 percent throughout its 25 years of history. Alperowitch and Levi serve as the fund managers, responsible for around $505m in assets under management, and are supported by a team of dedicated equity analysts, compliance officers, traders, and administrative staff. The CFI.co judging panel confirm <a href="https://cfi.co/menu/corporate/2020/01/fama-investimentos-investments-that-meet-the-highest-esg-standards/">FAMA Investimentos</a> for the 2019 award Best ESG Integrated Investment Strategy (Latin America).</p>
