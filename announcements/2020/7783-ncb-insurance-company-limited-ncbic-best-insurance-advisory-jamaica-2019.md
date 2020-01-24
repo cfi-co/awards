@@ -1,0 +1,19 @@
+---
+id: 7783
+title: "NCB Insurance Company Limited (NCBIC): Best Insurance Advisory Jamaica 2019"
+award_year: 2020
+published: 2020-01-24 15:46:59
+published_gmt: 2020-01-24 15:46:59
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/professional-services/2020/ncb-insurance-company-limited-ncbic-best-insurance-advisory-jamaica-2019/"
+categories: ["Professional Services"]
+content_sha256: bef2d501508653548676a9f16aee11fe0a915ddac6e2b7d7ab31c3c83119ffb9
+canonical: 7783-ncb-insurance-company-limited-ncbic-best-insurance-advisory-jamaica-2019.json
+---
+
+# NCB Insurance Company Limited (NCBIC): Best Insurance Advisory Jamaica 2019
+
+> Verbatim archived copy. Canonical machine record: `7783-ncb-insurance-company-limited-ncbic-best-insurance-advisory-jamaica-2019.json`.
+
+<img class="aligncenter size-full wp-image-7784" src="https://cfi.co/awards/wp-content/uploads/2020/06/NCB.jpg" alt="NCB" width="400" height="70" />
+<p style="text-align: justify;">NCB Insurance Company Limited (NCBIC) helps ease the stress of unforeseen and unexpected eventualities with insurance and investment plans for individuals and groups. As a member of the NCB Financial Group — the largest and most profitable financial group in Jamaica with a strong and growing presence across the Caribbean — NCBIC benefits from the bank’s distribution channels and customer base. NCBIC has found that social responsibility and profitability are not mutually exclusive and has developed a suite of financial products that are win-win for clients and company. NCBIC forges long-term relationships with clients, to safeguard them against risks and lay the foundations for a financially sound future. Individual clients gain peace of mind with NCBIC’s OMNI combination investment-insurance plan, OMNI Educator savings plan, and SMART Retirement plan. The ProCARE plan provides critical illness protection, while ProVision covers accidental death or dismemberment. NCBIC offers group plans for employee pensions, life insurance, and annuities. It also offers group and individual Creditor Life insurance, which unburdens a deceased’s loved ones from the repayment of outstanding debts. The company envisions a near future where everyone is properly insured and invested, and is pioneering the use of alternative channels to boost financial inclusion. Through strategic stewardship of customer capital and forward-thinking management, NCBIC has become the second largest pension fund manager on the island. The company has proven itself a steadfast financial partner, leading the CFI.co judging panel to declare NCB Insurance Company Limited (NCBIC) as the 2019 winner of the Best Insurance Advisory (Jamaica) award.</p>
