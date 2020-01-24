@@ -1,0 +1,19 @@
+---
+id: 7717
+title: "Fondex: Best Technology Corporate Leadership Southern Europe 2019"
+award_year: 2020
+published: 2020-01-24 13:51:54
+published_gmt: 2020-01-24 13:51:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/fondex-best-technology-corporate-leadership-southern-europe-2019/"
+categories: ["Corporate Leadership", "Europe", "Industries", "Technology"]
+content_sha256: ba7f3cfea45a5c8e9eaa9a1d8900bf5ed09e7e0bb639a1537a4ff9e7655fd80b
+canonical: 7717-fondex-best-technology-corporate-leadership-southern-europe-2019.json
+---
+
+# Fondex: Best Technology Corporate Leadership Southern Europe 2019
+
+> Verbatim archived copy. Canonical machine record: `7717-fondex-best-technology-corporate-leadership-southern-europe-2019.json`.
+
+<img class="aligncenter size-full wp-image-7718" src="https://cfi.co/awards/wp-content/uploads/2020/06/Fondex.jpg" alt="Fondex" width="400" height="125" />
+<p style="text-align: justify;">Brokers are defined by their trading platform, and Cyprus-based Fondex boasts a powerhouse in cTrader. Fast execution and transparent reporting have won the brokerage a loyal following around the globe. Fondex provides reams of reports detailing information on trading execution times and life cycles, and those reports prove that it’s one of the most cost-effective trading platforms in the world. The pioneering platform offers clients the opportunity to trade over 1,000 instruments across forex, shares, indices, cryptocurrencies, energies, metals, and exchange-traded funds (ETFs). Clients can trade manually, use copy-tested strategies, or deploy bots to trade on their behalf. Manual trading is recommended for traders who already have a good grip on the basics, while novice traders are encouraged to copy strategies for the desired performance, risk profile, and drawdown. Copied strategies can also be combined to limit risk even further. Trading bots can execute automated operations according to carefully scripted algorithms that act on hard data rather than human emotion. Regardless of the trading method preferred, Fondex encourages informed decisions. Fondex offers some of the lowest commission rates and tightest spreads of the market, enabling customers to reduce costs and maximise account performance. The company registered on the CFI.co radar as Fondex CEO Alex Katsaros touted its benefits via seminars and conferences around the world. The judges are delighted to declare Fondex winner of the 2019 award for Best Technology Corporate Leadership (Southern Europe).</p>
