@@ -1,0 +1,19 @@
+---
+id: 7350
+title: "Total Eren: Most lnnovative Renewable Energy Solutions Global 2020"
+award_year: 2020
+published: 2020-05-14 10:19:47
+published_gmt: 2020-05-14 09:19:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/total-eren-most-lnnovative-renewable-energy-solutions-global-2020/"
+categories: ["Best Practice", "Europe", "Industries", "Oil &amp; Gas", "Sustainability"]
+content_sha256: 9acfda08bb61357bf2a3681b11cb908669101af825f41280187c3c1138b02108
+canonical: 7350-total-eren-most-lnnovative-renewable-energy-solutions-global-2020.json
+---
+
+# Total Eren: Most lnnovative Renewable Energy Solutions Global 2020
+
+> Verbatim archived copy. Canonical machine record: `7350-total-eren-most-lnnovative-renewable-energy-solutions-global-2020.json`.
+
+<img class="aligncenter size-full wp-image-7351" src="https://cfi.co/awards/wp-content/uploads/2020/05/Total-Eren.jpg" alt="Total Eren" width="500" height="80" />
+<p style="text-align: justify;">Energy production from renewable sources such as solar, wind and hydro addresses urgent global challenges and advances sustainable development goals. Over a billion people are estimated to live in "energy poverty" - having limited or no access to electricity - and more than 80 percent of them live in rural areas. French Independent Power Producer (“IPP”) Total Eren forges long-term partnerships with local teams around the world to develop renewable energy projects that meet growing demands with a sustainable and economically viable supply. Founded in 2012, Total Eren serves as the dedicated renewables arm of the EREN Groupe, an innovator of natural resource efficiency. Since its launch, the company has established a global network of renewable energy powerplants with a gross production capacity upwards of 2.8 GW - and it plans to push that to 5 GW by 2022 with projects under development. Total, the major energy company, invested in Total Eren in 2017 and, since then, has increased in direct and indirect stake to 30% in aggregate. The company is also supported by top ranked financial investors: Bpifrance, Next World Group, Tikehau and FFP. Everyday, Total Eren demonstrates the agility of a project developer, the vision of an investor, and the expertise of an operator. lt selects partners whose interests align with the company's ethos and objectives. lt specialises in greenfield investments and maintains control over assets through majority holdings or co-management agreements. The team at Total Eren boasts a cross-industry collection of skills and experience that leads to quick and competent project management, in-depth risk assessments and step-by-step development. Total Eren's project portfolio spans five continents, with a presence in Eastern Europe, Central Asia, Asia Pacific, Latin America and Africa. The CFl.co judging panel presents Total Eren with the 2020 award for Most lnnovative Renewable Energy Solutions (Global).</p>
