@@ -1,0 +1,19 @@
+---
+id: 7432
+title: "Worldfavor: Best Digital Sustainability Management Solutions Global 2020"
+award_year: 2020
+published: 2020-06-09 13:04:34
+published_gmt: 2020-06-09 12:04:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/best-practice/sustainability/2020/worldfavor-best-digital-sustainability-management-solutions-global-2020/"
+categories: ["Sustainability"]
+content_sha256: 1aad0bf914194dfee4956fd3e84d15a22e0e87617caeaebc38c64768c0910980
+canonical: 7432-worldfavor-best-digital-sustainability-management-solutions-global-2020.json
+---
+
+# Worldfavor: Best Digital Sustainability Management Solutions Global 2020
+
+> Verbatim archived copy. Canonical machine record: `7432-worldfavor-best-digital-sustainability-management-solutions-global-2020.json`.
+
+<img class="aligncenter size-full wp-image-7433" src="https://cfi.co/awards/wp-content/uploads/2020/06/worldfavor.jpg" alt="worldfavor" width="500" height="87" />
+<p style="text-align: justify;">The internet has made modern consumers more informed — and more vocal — than ever. Companies that abuse the trust placed in them can expect a bad rap on social media, while those making positive strides can expect word-of-mouth referrals and praise. Investors are increasingly concerned with sustainability, and Swedish start-up Worldfavor gives them a way to support like-minded companies. In 2011, the Stockholm-based firm launched a digital platform to serve as a central hub for corporate knowledge-sharing. More than 30,000 companies in 60 countries now use its SaaS (software as a service) platform to collect, share and measure sustainability performance. Worldfavor’s collaborative ecosystem allows businesses to make data-backed decisions. It offers sustainability management and reporting, as well as advice on investments and sourcing. Companies can collaborate across internal business units, while the sourcing solution extends to cover the supply chain. Companies can benchmark their progress against 16 international standards, including the Global Reporting Initiative and the UN’s Sustainable Development Goals. Guidelines and standards are linked for cross-referencing and data entry, and companies can customise their benchmark sets. The centralised digital format permits them to grant full or partial access to colleagues, and allows auditors to review and respond to reports. Worldfavor encourages corporate entities around the globe to proactively share ESG information through its compliance reporting function. The CFI.co judging panel recognises the company as a champion of SDG co-operation and accountability, and announces Worldfavor as the 2020 winner of the award for Best Digital Sustainability Management Solutions (Global).</p>
