@@ -1,0 +1,22 @@
+---
+id: 7795
+title: "Toledo Capital AG: Best Wealth Management Services Switzerland 2020"
+award_year: 2020
+published: 2020-06-24 15:59:08
+published_gmt: 2020-06-24 14:59:08
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/toledo-capital-ag-best-wealth-management-services-switzerland-2020/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: 09ee421ccc6e8c61aa68b7c43c81a4c11aca56343daf5dccc0ad942b065e6731
+canonical: 7795-toledo-capital-ag-best-wealth-management-services-switzerland-2020.json
+---
+
+# Toledo Capital AG: Best Wealth Management Services Switzerland 2020
+
+> Verbatim archived copy. Canonical machine record: `7795-toledo-capital-ag-best-wealth-management-services-switzerland-2020.json`.
+
+<img class="aligncenter size-full wp-image-7796" src="https://cfi.co/awards/wp-content/uploads/2020/06/Toledo.jpg" alt="Toledo" width="400" height="200" />
+<p style="text-align: justify;">At Toledo Capital, investment advisors are not seduced by short-term speculation. They play the long game, with stable diversification strategies for the preservation and transmission of multi-generational wealth. The firm strategically leverages sectoral trends and helps clients to navigate through short-term market volatility. The boutique multi-family office was founded in the international finance hub of Zurich to serve high-net-worth individuals and families around the globe. Clients’ preferences and objectives set the course for the firm’s investment strategies. Toledo Capital creates tailored investment profiles with carefully calculated risk-return ratios and ad-hoc reporting on portfolio performance. The firm allocates financial and human resources to the personalised creation of each client’s monthly portfolio performance report. Its independent status ensures that Toledo Capital is neither biased nor limited by bank policies, ensuring its ability to provide clients with proper focus and attention. Toledo Capital’s advisors use their financial expertise to ascertain and meet clients’ individual needs, resulting in investment solutions that aim to provide optimal returns adjusted to a client’s risk parameters. Toledo Capital promotes diversification across various asset classes, jurisdictions and currencies to create a balanced portfolio that combines higher risk opportunities with moderate investments that offer a lower risk profile and stable, predictable returns. The CFI.co jury praises the firm’s client-focused approach and breadth of scope, and names Toledo Capital AG as the winner of the 2020 award for Best Wealth Management Services (Switzerland).</p>
+
+
+[caption id="attachment_7797" align="aligncenter" width="900"]<img class="size-large wp-image-7797" src="https://cfi.co/awards/wp-content/uploads/2020/06/Toledo-Team-December-17-1024x683.jpg" alt="Toledo Team" width="900" height="600" /> Toledo Team[/caption]
