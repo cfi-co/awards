@@ -1,0 +1,19 @@
+---
+id: 7595
+title: "HotForex: Best Client Services Global 2020"
+award_year: 2020
+published: 2020-06-24 11:29:32
+published_gmt: 2020-06-24 10:29:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/exchanges-brokers/2020/hotforex-best-client-services-global-2020/"
+categories: ["Exchanges &amp; Brokers"]
+content_sha256: 675fe222b2aab92d798baa34d8fbab9e2c64fd160b8198842e57b02638b8012e
+canonical: 7595-hotforex-best-client-services-global-2020.json
+---
+
+# HotForex: Best Client Services Global 2020
+
+> Verbatim archived copy. Canonical machine record: `7595-hotforex-best-client-services-global-2020.json`.
+
+<img class="aligncenter size-full wp-image-7596" src="https://cfi.co/awards/wp-content/uploads/2020/06/HotForex.jpg" alt="HotForex" width="400" height="300" />
+<p style="text-align: justify;">HotForex is a unified brand name of the HF Markets Group and understands that business success comes from superior customer service and stellar teamwork. Over the past decade, HotForex has embodied the mandate spelled out in its moniker — HOT stands for honesty, openness and transparency. HF Markets Group employs more than 200 people globally, including a 45-strong in-house programming team dedicated to developing proprietary trading technology. The firm has been recognised with numerous industry awards, but it’s customer praise that delivers the most satisfaction and pride. Some two million live accounts have been opened by retail and institutional clients from 180 countries on the HotForex’s desktop, mobile and web trading platforms. The broker puts clients at the centre of operations and offers high-touch customer service, including phone and live chat support in 27 languages. Clients benefit from educational resources to sharpen their trading skills with an online programme covering the basics, an e-course in strategy, and free weekly webinars led by seasoned market analysts. HotForex provides smart tools and secure measures to empower clients and protect their funds. The HF Markets Group has made headway on a five-year expansion plan with recent authorisations from the UK FCA and Dubai DFSA, rounding-out its market penetration, which includes licences from the regulatory authorities of Cyprus, Mauritius, Seychelles and South Africa. The CFI.co judging panel presents HotForex with the 2020 award for Best Client Services (Global).</p>
