@@ -1,0 +1,19 @@
+---
+id: 7802
+title: "Octa Investama Berjangka: Best Client Fund Security Indonesia 2020"
+award_year: 2020
+published: 2020-06-25 15:47:53
+published_gmt: 2020-06-25 14:47:53
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2020/octa-investama-berjangka-best-client-fund-security-indonesia-2020/"
+categories: ["Asia Pacific", "Exchanges &amp; Brokers"]
+content_sha256: 992ee9805556b2b7dcf2b2042395e8268614ebf0b3b189a649ededdfc853c73f
+canonical: 7802-octa-investama-berjangka-best-client-fund-security-indonesia-2020.json
+---
+
+# Octa Investama Berjangka: Best Client Fund Security Indonesia 2020
+
+> Verbatim archived copy. Canonical machine record: `7802-octa-investama-berjangka-best-client-fund-security-indonesia-2020.json`.
+
+<img class="aligncenter size-full wp-image-7804" src="https://cfi.co/awards/wp-content/uploads/2020/06/OCTA.jpg" alt="OCTA" width="400" height="181" />
+<p style="text-align: justify;">Octa Investama Berjangka operates according to the rule that while customer needs may vary, its passion for quality never does. Traders are quick to join and reluctant to part with Octa Investama Berjangka, the leading local provider of online trading services in Indonesia. Octa installed a local server in Indonesia to ensure clients enjoy the fastest trade executions possible. Octa’s MetaTrader4 platform can be reached via its web portal and mobile app, giving clients access to a range of investment instruments, including currency pairs, precious metals, energy and indices. Clients are wowed by the broker’s mix of competitive conditions, including floating spreads starting at one pip and lucrative rebates of $5 per lot. Account funds are in US dollars, and low minimum requirements for deposits and withdrawals facilitate the easy movement of money. Octa Investama Berjangka gives the option of a fixed rupiah-dollar exchange — and guarantees it will undercut the bank rate. Clients appreciate Octa’s streamlined verification process and commitment to transparency. Investments are overseen by state authorities and regulatory bodies, such as the Commodity Futures Trading Authority, the Indonesia Commodity and Derivatives Exchange, and the Indonesia Clearing House. The broker offers a negative-balance protection guarantee that gives peace-of-mind in times of turmoil. The CFI.co judging panel recognises a solid protection strategy for investments through superior technologies and government safeguards. The judges present Octa Investama Berjangka with the 2020 award for Best Client Fund Security (Indonesia).</p>
