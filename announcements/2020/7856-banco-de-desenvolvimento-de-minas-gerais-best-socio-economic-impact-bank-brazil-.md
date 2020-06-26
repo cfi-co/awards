@@ -1,0 +1,19 @@
+---
+id: 7856
+title: "Banco de Desenvolvimento de Minas Gerais: Best Socio-Economic Impact Bank Brazil 2020"
+award_year: 2020
+published: 2020-06-26 11:56:22
+published_gmt: 2020-06-26 10:56:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2020/banco-de-desenvolvimento-de-minas-gerais-best-socio-economic-impact-bank-brazil-2020/"
+categories: ["Banking", "Best Practice", "CSR", "Community Engagement", "Latin America"]
+content_sha256: 6eb9c309a3b14be2a6a4e5988b95da6ecd8a3ee3ac2e442b8b4f105a942ebb29
+canonical: 7856-banco-de-desenvolvimento-de-minas-gerais-best-socio-economic-impact-bank-brazil-.json
+---
+
+# Banco de Desenvolvimento de Minas Gerais: Best Socio-Economic Impact Bank Brazil 2020
+
+> Verbatim archived copy. Canonical machine record: `7856-banco-de-desenvolvimento-de-minas-gerais-best-socio-economic-impact-bank-brazil-.json`.
+
+<img class="aligncenter size-full wp-image-7857" src="https://cfi.co/awards/wp-content/uploads/2020/06/BDMG.jpg" alt="BDMG" width="400" height="169" />
+<p style="text-align: justify;">Minas Gerais, one of the largest states of Brazil, also boasts the country’s third-highest GDP. Banco de Desenvolvimento de Minas Gerais (BDMG) is the trade development bank that facilitates the region’s economic, social and environmental progress. Over the past 58 years, BDMG has established a tradition of economic stimulation and socio-environmental responsibility, supporting SMEs with preferential credit offers and promoting cultural and citizenship initiatives across the state. It identifies projects that have the power to improve quality of life for the people of Minas Gerais, and transforms those initiatives into reality. In 1988, the bank launched the non-profit entity, BDMG Cultural, to promote the region’s artistic and historical heritage. Another non-profit entity, INDEC (the BDMG Employee Citizenship Institute), supports disadvantaged communities in the areas of education, health, nutrition and the environment. In 2013, BDMG introduced its socio-environmental responsibility policy, providing a clear framework for aligning corporate conduct with the UN’s Sustainable Development Goals. BDMG supports platforms for partnerships and collaborates with development bodies around the world. It is preparing to issue green bonds in partnership with the Inter-American Development Bank, and serves as official structurer in regional public-private partnership models. A tech-driven evolution has been underway at BDMG, as evidenced by the streamlining of internal processes and the strengthening of digital channels. Tailored credit offers are available via a rapid-response digital application. Sufficient reasons for the CFI.co judging panel to present BDMG with the 2020 award for Best Socio-Economic Impact Bank (Brazil).</p>
