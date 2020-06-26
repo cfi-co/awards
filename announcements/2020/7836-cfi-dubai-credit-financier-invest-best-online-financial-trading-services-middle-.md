@@ -1,0 +1,19 @@
+---
+id: 7836
+title: "CFI Dubai (Credit Financier Invest): Best Online Financial Trading Services Middle East 2020"
+award_year: 2020
+published: 2020-06-26 11:38:51
+published_gmt: 2020-06-26 10:38:51
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2020/cfi-dubai-credit-financier-invest-best-online-financial-trading-services-middle-east-2020/"
+categories: ["Exchanges &amp; Brokers", "Middle East"]
+content_sha256: e5cdbec7ae6f2d9bc7b5608d5555fdb12e1e5cf69f1a85fd4c4e36035184ccde
+canonical: 7836-cfi-dubai-credit-financier-invest-best-online-financial-trading-services-middle-.json
+---
+
+# CFI Dubai (Credit Financier Invest): Best Online Financial Trading Services Middle East 2020
+
+> Verbatim archived copy. Canonical machine record: `7836-cfi-dubai-credit-financier-invest-best-online-financial-trading-services-middle-.json`.
+
+<img class="aligncenter size-full wp-image-7837" src="https://cfi.co/awards/wp-content/uploads/2020/06/Credit-Financier-Invest.jpg" alt="Credit-Financier-Invest" width="400" height="229" />
+<p style="text-align: justify;">CFI (Credit Financier Invest) is a brokerage with a 20-year legacy in the Middle East and a growing global presence. The firm established its first office in Lebanon, and the network now includes entities in London, Mauritius, Amman, Larnaca and Dubai. CFI Dubai serves the needs of private and institutional clients from offices in the Emirates Financial Towers in the heart of the Dubai International Financial Centre (DIFC). CFI launched the Dubai operation in 2017 and entrusted the firm to a leadership team with a 30-year track record of trading expertise. CFI Dubai has become one of the largest and most preferred brokers of the region by earning clients’ trust through the consistent delivery of superior service. Each client is assigned an experienced manager to provide dedicated one-on-one customer care. CFI Dubai aims to elevate traders’ skills: it offers customised advisory service, publishes market insights and hosts webinars and seminars. Regulated by the Dubai Financial Services Authority (DFSA), the firm offers professional and personalised services that cater to client needs — and prides itself on exceeding clients’ expectations. CFI Dubai empowers clients with an impressive range of trading instruments and a well-connected and hi-tech infrastructure to speculate on CFDs (contracts for difference) across asset classes, including forex, commodities and indices. The CFI.co judging panel notes the firm’s competitive spreads and analytical capabilities, and declares CFI Dubai as the winner of the 2020 award for Best Online Financial Trading Services (Middle East) award.</p>
