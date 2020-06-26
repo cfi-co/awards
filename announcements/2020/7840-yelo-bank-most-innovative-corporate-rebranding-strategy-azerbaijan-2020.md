@@ -1,0 +1,19 @@
+---
+id: 7840
+title: "Yelo Bank: Most Innovative Corporate Rebranding Strategy Azerbaijan 2020"
+award_year: 2020
+published: 2020-06-26 11:41:10
+published_gmt: 2020-06-26 10:41:10
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2020/yelo-bank-most-innovative-corporate-rebranding-strategy-azerbaijan-2020/"
+categories: ["Asia Pacific"]
+content_sha256: 7e8592ce5a7e4c97a0761a66cb96ee6d7dd55f333ed3022dd8c3568b65e22c77
+canonical: 7840-yelo-bank-most-innovative-corporate-rebranding-strategy-azerbaijan-2020.json
+---
+
+# Yelo Bank: Most Innovative Corporate Rebranding Strategy Azerbaijan 2020
+
+> Verbatim archived copy. Canonical machine record: `7840-yelo-bank-most-innovative-corporate-rebranding-strategy-azerbaijan-2020.json`.
+
+<img class="aligncenter size-full wp-image-7841" src="https://cfi.co/awards/wp-content/uploads/2020/06/yelo-bank.jpg" alt="yelo-bank" width="400" height="275" />
+<p style="text-align: justify;">Yelo Bank is a new brand, which presents a ‘breath of fresh air’ for the people and business community of Azerbaijan. At the end of 2019, Nikoil Bank started an initiative to rebrand and restructure operations under this new brand name and its motto – brighter banking. Everything about the rebranding feels cheery, from the sunny simplicity of the logo to the stylised form of the English greeting, hello. The tone of voice of the new brand mirrors the bank’s core corporate values: put the customer first, find solutions, keep it simple, serve with heart and work with smile. The rebranding is more than an aesthetic once-over; it sets the course for a fresh approach to finance and corporate culture, Yelo Bank shook up staffing, tightened operational costs and boosted technology capacity. It aims to position itself as the preferred financial partner of Azerbaijanis, whether entrepreneur or individual. The bank offers business, cash, mortgage and home repair loans as well as credit cards featuring a mix of savings and cash-back schemes. Clients can open fixed-term deposit accounts (6 to 36 months) and receive the monthly accrued interest on a convenient card. Clients can send or receive money while at home or abroad through the bank system and affiliated money transfer companies. Yelo collaborates with merchants to present clients with pages of cash-back shopping options. Yelo Bank believes that fintech will act as an economic equaliser and enabler, helping people to achieve more while improving the banking experience. It pays special attention to the needs of the business community as it continues to develop its digital capacity. Many businesses have already set up payment clearing accounts for the easy settlement of monthly bills, such as phone, internet, utilities, tuition, and insurance. The CFI.co judging panel applauds the business-friendly and customer-oriented approach, and declares Yelo Bank as the 2020 winner of the award for Most Innovative Corporate Rebranding Strategy (Azerbaijan).</p>
