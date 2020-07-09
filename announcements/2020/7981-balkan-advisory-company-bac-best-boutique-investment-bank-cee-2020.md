@@ -1,0 +1,19 @@
+---
+id: 7981
+title: "Balkan Advisory Company (BAC): Best Boutique Investment Bank CEE 2020"
+award_year: 2020
+published: 2020-07-09 09:01:42
+published_gmt: 2020-07-09 08:01:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/balkan-advisory-company-bac-best-boutique-investment-bank-cee-2020/"
+categories: ["Banking", "Europe"]
+content_sha256: 85fe71fb3f984670d90fbadd5b0e7a15081d96a0799e787cbb13add23b539342
+canonical: 7981-balkan-advisory-company-bac-best-boutique-investment-bank-cee-2020.json
+---
+
+# Balkan Advisory Company (BAC): Best Boutique Investment Bank CEE 2020
+
+> Verbatim archived copy. Canonical machine record: `7981-balkan-advisory-company-bac-best-boutique-investment-bank-cee-2020.json`.
+
+<img class="aligncenter size-full wp-image-7982" src="https://cfi.co/awards/wp-content/uploads/2020/07/BAC.jpg" alt="BAC" width="400" height="158" />
+<p style="text-align: justify;">Balkan Advisory Company (BAC) is a boutique investment bank that packs a punch. BAC’s core market extends from its home base in Bulgaria to Serbia, Slovenia, Romania and Poland. It has established a reputation for superior service over the past 20 years, offering clients personalised assistance across six lines of business: M&amp;A, principal investment and asset management, utilities and project finance, real estate, brokerage and new debt, financial institutions and capital markets. BAC is led by a seasoned team of regional experts with international experience from some of the world’s top financial centres and universities. BAC team members have proven skills on the buy-side or sell side of private equity, strategics, investment banking and advisory, with notable experience in restructuring, cost-cutting and efficiency optimisation projects. BAC is confident of its ability to outshine the competition — and backs that confidence up with case studies demonstrating competitive pricing and liquidity. BAC is a regional pioneer, the first investment bank to lead manage EMTN (Euro Medium Term Note) of joint Romania/Bulgaria issuer as well as having led-managed many corporate bonds and equity deals in the region, including led-managed eurozloty deal. It guides investors towards responsible targets, such as long-term renewable energy projects, and educates business leaders about the importance of transparent and proactive ESG reporting. BAC maintains a strong market hold in Central Eastern Europe (CEE) ­— and it has expansion plans in place. Green energy is on the top of its priorities and actual work these days. The CFI.co judging panel presents Balkan Advisory Company with the 2020 award for Best Boutique Investment Bank (CEE).</p>
