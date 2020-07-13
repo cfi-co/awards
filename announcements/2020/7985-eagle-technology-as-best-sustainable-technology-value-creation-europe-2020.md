@@ -1,0 +1,26 @@
+---
+id: 7985
+title: "Eagle Technology AS: Best Sustainable Technology Value Creation Europe 2020"
+award_year: 2020
+published: 2020-07-13 08:55:28
+published_gmt: 2020-07-13 07:55:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/eagle-technology-as-best-sustainable-technology-value-creation-europe-2020/"
+categories: ["Best Practice", "Europe", "Industries", "Sustainability", "Technology"]
+content_sha256: 3bdc93f20ddf0348b255140cb9f8d975fff11e14b88306e70bfce582702b6389
+canonical: 7985-eagle-technology-as-best-sustainable-technology-value-creation-europe-2020.json
+---
+
+# Eagle Technology AS: Best Sustainable Technology Value Creation Europe 2020
+
+> Verbatim archived copy. Canonical machine record: `7985-eagle-technology-as-best-sustainable-technology-value-creation-europe-2020.json`.
+
+<img class="aligncenter size-full wp-image-7986" src="https://cfi.co/awards/wp-content/uploads/2020/07/Eagle-Technology-AS.jpg" alt="Eagle Technology AS" width="400" height="146" />
+<p style="text-align: justify;">Eagle Technology forms part of a group legacy stretching back 94 years. The Eagle group fosters a corporate culture that urges employees to be curious and courageous enough to challenge established patterns. It calls for innovation, customer-centricity and responsibility. Eagle Technology joined the group in 2015, establishing headquarters, sales and project management in Norway and engineering and manufacturing facilities in Bosnia, where they stepped up the business with a brand new high-end factory in 2019. Eagle Technology sources the brightest and most inspired engineers to develop next-generation solutions promoting the circular economy and client satisfaction. Water treatment, vacuum pumps, biotechnology and liquid separation systems for the process and food industry and refrigeration systems are some of its specialties, along with manufacturing of induction thermal desorption units, designed for the processing of oil-contaminated drilling waste. Engineering and production are of the highest quality. Pricing is globally competitive, with ownership or licensing schemes for intercompany or external partners. Eagle Technology seeks to create long-term value and cultivates mutually beneficial relationships with employees, corporate partners, customers, communities, suppliers and shareholders. It prioritises environmental conservation and develops products that convert waste into a resource. Clients trust Eagle Technology with the design, documentation and production of solutions for offshore, marine and land-based industries. Eagle AS and its seven subsidiaries uphold and advance the principles of the UN Global Compact. The group invests in companies with clean energy and environmentally friendly solutions and has an annual turnover in 2018 of about €50m. The CFI.co judging panel presents Eagle Technology AS with the 2020 award for Best Sustainable Technology Value Creation (Europe).</p>
+
+
+[caption id="attachment_7990" align="aligncenter" width="933"]<img class="size-full wp-image-7990" src="https://cfi.co/awards/wp-content/uploads/2020/07/Eagle-Technology-Opening-Ceremony.jpg" alt="The ownership and top management in Eagle. From left: General Manager, Eagle Technology Bosnia, Ivo Klaric, founder of Eagle, Einar Myklebust, CEO of Eagle Technology, Roy Moberg and CEO of Eagle Group Pål Myklebust." width="933" height="575" /> <strong>The ownership and top management in Eagle.</strong> <em>From left:</em> General Manager, Eagle Technology Bosnia, <strong>Ivo Klaric, </strong>founder of Eagle, <strong>Einar Myklebust</strong>, CEO of Eagle Technology, <strong>Roy Moberg</strong> and CEO of Eagle Group <strong>Pål Myklebust</strong>.[/caption]
+
+[caption id="attachment_7991" align="aligncenter" width="900"]<img class="size-full wp-image-7991" src="https://cfi.co/awards/wp-content/uploads/2020/07/ET-johnnyslattland-roymoberg.jpg" alt="From left: Sales director, Johnny Slåttland and CEO Roy Moberg in a Team chat with the General Manager in the factory in Bosnia, Ivo Klaric." width="900" height="547" /> <em>From left:</em> Sales director, <strong>Johnny Slåttland</strong> and CEO <strong>Roy Moberg</strong> in a Team chat with the General Manager in the factory in Bosnia, <strong>Ivo Klaric</strong>.[/caption]
+
+[caption id="attachment_7992" align="aligncenter" width="900"]<img class="size-full wp-image-7992" src="https://cfi.co/awards/wp-content/uploads/2020/07/Eagle-Technology-Factory-in-Bosnia.jpg" alt="Factory in Bosnia" width="900" height="484" /> Factory in Bosnia[/caption]
