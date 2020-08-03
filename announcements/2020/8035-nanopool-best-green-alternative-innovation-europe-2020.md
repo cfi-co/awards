@@ -1,0 +1,19 @@
+---
+id: 8035
+title: "Nanopool: Best Green Alternative Innovation Europe 2020"
+award_year: 2020
+published: 2020-08-03 11:46:30
+published_gmt: 2020-08-03 10:46:30
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/nanopool-best-green-alternative-innovation-europe-2020/"
+categories: ["Europe"]
+content_sha256: 7609cebe96ecb502774f0c60bf041fc12ed5a02649b32c600ca76b4c707ec11c
+canonical: 8035-nanopool-best-green-alternative-innovation-europe-2020.json
+---
+
+# Nanopool: Best Green Alternative Innovation Europe 2020
+
+> Verbatim archived copy. Canonical machine record: `8035-nanopool-best-green-alternative-innovation-europe-2020.json`.
+
+<img class="aligncenter size-full wp-image-8036" src="https://cfi.co/awards/wp-content/uploads/2020/08/Nanopool.jpg" alt="Nanopool" width="400" height="464" />
+<p style="text-align: justify;">Nanopool GmbH, established in 2002, is an innovative nano-technology company working in the field of ultra-thin layers and specialised surface coatings. Consider the possibilities of spraying almost anything with a coating so fine that it is impermeable, and nothing can stick to it. NP Liquid Glass coatings are suitable for hard and soft surfaces without any alteration of their look or feel. Applications include protective barriers against germs, dirt and viruses. Solutions can be delivered on-site and Nanopool’s low-cost technology means that it can operate in almost all economic regions. NP Liquid Glass represents a revolutionary breakthrough for the packaging industry as governments worldwide begin to adopt more stringent plastic bans. And it doesn’t get much greener than a plan for treating plants with protective layers that add to their wellbeing and allow growers to dispense with harmful pesticides. These silicon dioxide-based coatings represent an invisible protective coating that is 500 times thinner than a human hair. Nanopool has been cooperating with academia and institutions – including the NHS – since its inception and is bringing to market interesting, cost-effective and efficient solutions. Nanopool is resolutely a family business that shows commendable responsibility to its customers, employees and partners. The company joined the UN Global Compact Network last year and champions the SDGs. In 2009, Nanopool created the NP Academy to teach ways of working with nano-technology products. The company currently operates in the Americas, Asia, Australia and Europe and expects to be visible in Africa soon. The CFI.co judging panel commends Nanopool and expects further promising developments to unfold. Without hesitation, the company is named 2020 winner of the award Best Green Alternative Innovation (Europe).</p>
