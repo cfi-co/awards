@@ -1,0 +1,19 @@
+---
+id: 8053
+title: "Kommuninvest: Best Sustainable ALM Strategy Europe 2020"
+award_year: 2020
+published: 2020-08-10 13:02:13
+published_gmt: 2020-08-10 12:02:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/kommuninvest-best-sustainable-alm-strategy-europe-2020/"
+categories: ["Best Practice", "Europe", "Sustainability"]
+content_sha256: 5f2167d15a6e4bc0403549d87cb53ecf01c93ab9e802d536c102f99d808237c5
+canonical: 8053-kommuninvest-best-sustainable-alm-strategy-europe-2020.json
+---
+
+# Kommuninvest: Best Sustainable ALM Strategy Europe 2020
+
+> Verbatim archived copy. Canonical machine record: `8053-kommuninvest-best-sustainable-alm-strategy-europe-2020.json`.
+
+<img class="aligncenter size-full wp-image-3545" src="https://cfi.co/awards/wp-content/uploads/2016/10/Kommuninvest.jpg" alt="Kommuninvest" width="273" height="220" />
+<p style="text-align: justify;">Kommuninvest, a co-operative venture among Swedish municipalities seeking a competitive edge in capital markets, encapsulates the adage “together is better”. It began over 30 years ago with just a few participants, but now 90 percent of the country’s municipalities and regions are Kommuninvest members. Collective experiences in local government financial administration is pooled to offer sustainable financing solutions that facilitate societal benefits and secure investments opportunities that can generate high returns. Kommuninvest achieves this through strict asset and liability management (ALM), mitigating or eliminating financial risks from mismatches. The company has raised capital through the issuance of ten green bonds since 2015; the most recent, in May, was for SEK 5 bn. Kommuninvest tracks the bonds’ impacts in an annual report, which details the ESG progress of financed projects. Green bonds support the financing of climate-resilient projects undertaken by regional governments across Sweden — and they come with the highest international credit ratings. Kommuninvest’s triple-A status reflects the strong asset quality of its lending portfolio, backed by several liability commitments. A cautious risk profile and accessible liquidity strengthen its market position. The Kommuninvest approach has successfully weathered the global pandemic — just as it did the financial crisis of 2008. Other nations have begun to implement similar models, and Kommuninvest is happy to share the knowledge it has acquired. The CFI.co judging panel congratulates Kommuninvest, winner of the 2020 award for Best Sustainable ALM Strategy (Europe).</p>
