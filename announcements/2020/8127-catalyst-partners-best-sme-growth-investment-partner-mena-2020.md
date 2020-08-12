@@ -1,0 +1,19 @@
+---
+id: 8127
+title: "Catalyst Partners: Best SME Growth Investment Partner MENA 2020"
+award_year: 2020
+published: 2020-08-12 13:33:21
+published_gmt: 2020-08-12 12:33:21
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2020/catalyst-partners-best-sme-growth-investment-partner-mena-2020/"
+categories: ["Africa", "Finance"]
+content_sha256: 04eacef2fce1710ce0adcdfdb7c0de70199fdb98012894f151814e3068ab80b1
+canonical: 8127-catalyst-partners-best-sme-growth-investment-partner-mena-2020.json
+---
+
+# Catalyst Partners: Best SME Growth Investment Partner MENA 2020
+
+> Verbatim archived copy. Canonical machine record: `8127-catalyst-partners-best-sme-growth-investment-partner-mena-2020.json`.
+
+<img class="aligncenter size-full wp-image-4170" src="https://cfi.co/awards/wp-content/uploads/2017/04/Catalyst.jpg" alt="Catalyst" width="500" height="120" />
+<p style="text-align: justify;">Founded in 2012, Catalyst Partners has forged a reputation as a truly innovative investment house. It partners with companies to help set strategic goals and channel capital for targeted growth. The aim is to be a one-stop-shop for SMEs and family business across the MENA region. The firm co-creates a vision and sets targets for transformation. Catalyst Partners monitors companies’ progress and fosters their development through capacity-building workshops in governance, accounting and strategic planning — crucial elements for SMEs seeking growth. An in-house investment banking team tailor capital-raising and financial advisory services to fuel the growth of its incubated partners and clients from a spectrum of industries. Catalyst Partners created an investment vehicle to support the agricultural industry, and a leasing programme to provide debt instruments to SMEs. The firm is driven by a dedicated team with decades of expertise in corporate finance, management consultancy and auditing. The team takes a holistic approach to helping partners to identify opportunities and develop their potential. Despite the slowing of global markets during the pandemic, Catalyst Partners has maintained positive momentum, and remote working has unlocked unexpected reserves of energy and efficiency. Catalyst anticipates an IPO launch within the next three years. The CFI.co judging panel commends Catalyst Partners, a repeat winner in the awards programme, for its steadfast mission to nurture entrepreneurial growth throughout the MENA region. The judges declare Catalyst Partners the winner of the 2020 award for Best SME Growth Investment Partner (MENA).</p>
