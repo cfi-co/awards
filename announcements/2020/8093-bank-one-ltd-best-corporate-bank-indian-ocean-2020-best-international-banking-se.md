@@ -1,0 +1,19 @@
+---
+id: 8093
+title: "Bank One Ltd: Best Corporate Bank Indian Ocean 2020 & Best International Banking Services Indian Ocean 2020"
+award_year: 2020
+published: 2020-08-12 13:09:05
+published_gmt: 2020-08-12 12:09:05
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2020/bank-one-ltd-best-corporate-bank-indian-ocean-2020-best-international-banking-services-indian-ocean-2020/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: d5e158249428f849b68a04c13f2911f2de6495073a196752d36f0b75031c88cd
+canonical: 8093-bank-one-ltd-best-corporate-bank-indian-ocean-2020-best-international-banking-se.json
+---
+
+# Bank One Ltd: Best Corporate Bank Indian Ocean 2020 & Best International Banking Services Indian Ocean 2020
+
+> Verbatim archived copy. Canonical machine record: `8093-bank-one-ltd-best-corporate-bank-indian-ocean-2020-best-international-banking-se.json`.
+
+<img class="aligncenter size-full wp-image-6023" src="https://cfi.co/awards/wp-content/uploads/2018/09/BankOne.png" alt="Bank One" width="349" height="66" />
+<p style="text-align: justify;">Mauritius-based Bank One aims for excellence in customer experience, creates value in every relationship, contributes to community development and rewards employees for outstanding performance. Bank One's stakeholder network includes regulators, who praise the bank for its compliance and oversight, shareholders who celebrate objectives met and dreams achieved and valued partners who choose Bank One as a reliable institution both locally and internationally. Bank One has a team of 411 professionals, who are at the cornerstone of the bank’s strategy and who work across 10 branches and six business lines — corporate, international, private, retail, treasury, and e-commerce — to serve around 50,000 customers. The bank follows a customer-centric business model, taking the role of partner and guide. Bank One has developed a spectrum of corporate and international banking solutions to facilitate the flow of commerce and stimulate growth. International Banking remains the mainstay of Bank One. In pursuance of its diversification strategy, it has been able to acquire new geographies under its portfolio. Through its International Banking segment, Bank One has also introduced several new value-added products into its suite, in response to customers’ demands and the requirements of a dynamic market environment. The business line is actively pursuing other mandates with several business partners; the setting up of a desk to deal with financial institutions forms part of its strategy and is now a reality. On the other hand, corporate banking has been growing year on year at Bank One despite challenges and uncertainties prevailing in the local and international contexts and has been able to further diversify its deposit sources, with several new names added to its customer base during the last financial year. The CFI.co judging panel, impressed by the bank's performance in challenging times, presents Bank One — a repeat CFI.co winner — with a 2020 dual award for Best Corporate Bank &amp; Best International Banking Services (Indian Ocean).</p>
