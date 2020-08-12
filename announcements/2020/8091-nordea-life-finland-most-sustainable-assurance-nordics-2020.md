@@ -1,0 +1,19 @@
+---
+id: 8091
+title: "Nordea Life Finland: Most Sustainable Assurance Nordics 2020"
+award_year: 2020
+published: 2020-08-12 13:06:44
+published_gmt: 2020-08-12 12:06:44
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/nordea-life-finland-most-sustainable-assurance-nordics-2020/"
+categories: ["Europe", "Professional Services"]
+content_sha256: fc72fa37ddcfa0b97817c16a832f0a0b610b2c9882d4a466ba8b0101272116b4
+canonical: 8091-nordea-life-finland-most-sustainable-assurance-nordics-2020.json
+---
+
+# Nordea Life Finland: Most Sustainable Assurance Nordics 2020
+
+> Verbatim archived copy. Canonical machine record: `8091-nordea-life-finland-most-sustainable-assurance-nordics-2020.json`.
+
+<img class="aligncenter size-full wp-image-6882" src="https://cfi.co/awards/wp-content/uploads/2019/08/Nordea.jpg" alt="Nordea" width="250" height="58" />
+<p style="text-align: justify;">The Nordea family tree has roots stretching back to the 1800s, and has grown into one of the most respected financial services brands of the Nordics. Nordea Life Finland is one of the group’s subsidiaries, specialising in financial services and insurance solutions over the past 28 years. Nordea Life Finland upholds the group’s reputation for exemplary ESG leadership and weighs sustainability concerns in all its decision-making processes. The company considers all the people its operations touch — employees, customers and communities — and articulates its commitment to uplifting stakeholders in comprehensive governance policies targeting long-term sustainability performance, responsible investment, supplier expectations, tax compliance and financial crime prevention. Nordea Life Finland is a repeat winner in CFI.co awards programmes, and the judging panel is pleased to witness the company’s continued improvements. Its recent annual report detailed another successful year, with an increase in premium income and a strong solvency position that exceeds almost twice the solvency requirement. Last year proved profitable for its Globe Basket investments, which seek positive socio-environmental impacts and attractive returns. Investment baskets, which can be linked with individual pension, endowment or capital redemption plans, showed good returns for equity and fixed income investments across markets throughout 2019. After assessment in the first quarter of 2020, Nordea Life Finland was awarded six-star recognition by the EFQM (European Foundation for Quality Management), a recognition of excellence. The CFI.co judges have no hesitation in presenting Nordea Life Finland with the 2020 award for the Most Sustainable Assurance (Nordics).</p>
