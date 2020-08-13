@@ -1,0 +1,19 @@
+---
+id: 9257
+title: "H&MV Engineering: Most Innovative Energy Services Provider Europe 2020"
+award_year: 2020
+published: 2020-08-13 10:55:16
+published_gmt: 2020-08-13 09:55:16
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/hmv-engineering-most-innovative-energy-services-provider-europe-2020/"
+categories: ["Europe", "Industries", "Technology"]
+content_sha256: 33b4ea8dfd952af434fe4360e040ecb6471b4ab522dc40ca6d3b996e6965f1bb
+canonical: 9257-hmv-engineering-most-innovative-energy-services-provider-europe-2020.json
+---
+
+# H&MV Engineering: Most Innovative Energy Services Provider Europe 2020
+
+> Verbatim archived copy. Canonical machine record: `9257-hmv-engineering-most-innovative-energy-services-provider-europe-2020.json`.
+
+<img class="aligncenter size-medium wp-image-9258" src="https://cfi.co/awards/wp-content/uploads/2021/06/H-and-MV-Engineering-300x78.jpg" alt="H-and-MV-Engineering" width="300" height="78" />
+<p style="text-align: justify;">Founded in 1997, H&amp;MV Engineering is a brand that powers businesses worldwide. The company deploys dedicated teams in Ireland, the UK, Europe, Asia and South Africa to provide a suite of energy services, including data centres, renewables, utilities and EV chargers. H&amp;MV Engineering is a specialist of substation design and construction, boasting an inhouse team with a track record of successful project executions across sectors, from transmission and distribution to manufacturing and pharmaceuticals. H&amp;MV Engineering is a young company with strong growth. It demonstrates early client engagement and a flexible, open-minded approach to project demands — and strives to always deliver. The company offers clients 24-hour support and accessibility. It is an early adopter of technology and invests in upgrades to stay ahead of the curve. H&amp;MV Engineering has distinguished itself for the quality of its training programmes, which are accredited by City &amp; Guilds and Engineers Ireland. H&amp;MV runs training programmes in two live high-voltage substations in Limerick and Dublin, Ireland, where participants gain practical hands-on knowledge in a safe and supervised learning environment. The top-rated training academies are led by seasoned industry professionals with a wealth of expertise to share with substation engineers and operators. H&amp;MV Engineering CEO PJ Flanagan began as the company’s first electrical apprentice just a year after its launch. Flanagan — who ranked among the 24 finalists of EY’s Entrepreneur of the Year in 2018 — has been instrumental in establishing H&amp;MV as a global brand leader. For a company that exceeds expectations, the CFI.co judging panel declares H&amp;MV Engineering as the 2020 Most Innovative Energy Services Provider (Europe) award winner.</p>
