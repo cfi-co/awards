@@ -1,0 +1,19 @@
+---
+id: 8155
+title: "Cloetta: Best Confectionery Brand Strategy Nordics 2020"
+award_year: 2020
+published: 2020-08-24 10:06:46
+published_gmt: 2020-08-24 09:06:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/cloetta-best-confectionery-brand-strategy-nordics-2020/"
+categories: ["Europe", "Industries"]
+content_sha256: 6a2028339a30795ba9a280a9fe3199ca078bf97a0309a5e83566af2643cefa1c
+canonical: 8155-cloetta-best-confectionery-brand-strategy-nordics-2020.json
+---
+
+# Cloetta: Best Confectionery Brand Strategy Nordics 2020
+
+> Verbatim archived copy. Canonical machine record: `8155-cloetta-best-confectionery-brand-strategy-nordics-2020.json`.
+
+<img class="aligncenter size-full wp-image-8159" src="https://cfi.co/awards/wp-content/uploads/2020/08/Cloetta.png" alt="Cloetta" width="400" height="99" />
+<p style="text-align: justify;">Cloetta crafts sweet treats to brighten a peckish consumer’s day with moments of true joy. The Nordic confectioner was established over 100 years ago by three brothers with a passion for making chocolate. Cloetta takes pride in the long tradition of its brands, which are some of the strongest performers in core markets which include the Nordics, the Netherlands, Germany and the UK. In total, Cloetta is present in more than 50 markets worldwide. Listed on Nasdaq Stockholm, it has eight production facilities in five countries, and has forged a close bond with Nordic consumers. An experienced senior management team leads the company, but the customer is the ultimate boss. The company creates new concoctions to continually delight consumer palates, building on a portfolio of heritage brands that have been market favourites for decades. Cloetta fuels its plans for organic growth through strategic investment in marketing and manufacturing technology. The acquisition of a “pick’n’mix” business has allowed Cloetta to increase factory volumes and support important consumer trends such as less plastic, e-commerce and individualism. Cloetta sets long-term goals that require a proactive, forward-thinking attitude. Some targets include an EBIT margin, adjusted for items affecting comparability, of at least 14 per cent; a sales increase at least in-line with market growth; a dividend pay-out ratio of 40 to 60 percent of yearly profits; and numerous sustainability commitments. The CFI.co judging panel is pleased to present Cloetta with the 2020 award for Best Confectionery Brand Strategy (Nordics).</p>
