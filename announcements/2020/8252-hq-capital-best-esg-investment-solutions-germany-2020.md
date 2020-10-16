@@ -1,0 +1,20 @@
+---
+id: 8252
+title: "HQ Capital: Best ESG Investment Solutions - Germany 2020"
+award_year: 2020
+published: 2020-10-16 14:10:21
+published_gmt: 2020-10-16 13:10:21
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/hq-capital-best-esg-investment-solutions-germany-2020/"
+categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_sha256: 7d13d0b5a2567a40e776cea4b718c3f2a2d9fb4cbc8a9de39362dcf11a314283
+canonical: 8252-hq-capital-best-esg-investment-solutions-germany-2020.json
+---
+
+# HQ Capital: Best ESG Investment Solutions - Germany 2020
+
+> Verbatim archived copy. Canonical machine record: `8252-hq-capital-best-esg-investment-solutions-germany-2020.json`.
+
+<img class="aligncenter size-full wp-image-8253" src="https://cfi.co/awards/wp-content/uploads/2020/10/HQ-Capital.jpg" alt="HQ-Capital" width="400" height="113" />
+<p style="text-align: justify;">As an early adopter of ESG integration, HQ Capital spent time carefully defining tailored policies, implementing strategies, and developing a private equity ranking system that has made ESG criteria an intrinsic step in its investment process. Supported by a global ESG team, led by Managing Director Britta Lindhorst, HQ Capital has made ESG an integral element of its corporate and investment strategy.</p>
+<p style="text-align: justify;">HQ Capital is a leading independent private equity manager, investing in global and regionally-focused private equity on behalf of its international client base since 1989. Originally founded as part of a family office, HQ Capital has evolved over the past three decades into a full-service, global institutional private equity firm with $8.0 billion AUM as of June 30, 2020,  a robust global network, and teams based across Europe, the U.S., and Asia. HQ Capital takes a partnership-oriented approach, leveraging its 30-year history and industry expertise for the benefit of its clients, the company, and their global communities. In addition to being ESG oriented in their investment practices, HQ Capital has proven itself to be a responsible global citizen, continuously assessing areas for improvement that pre-emptively address regulatory changes and incorporate stakeholder feedback. HQ Capital actively nurtures strong and trustworthy relationships with its partners and investors, with the goal of living its pledge to always be receptive, reliable, and transparent. The CFI.co judging panel presents HQ Capital with the 2020 award for Best ESG Investment Solutions (Germany).</p>
