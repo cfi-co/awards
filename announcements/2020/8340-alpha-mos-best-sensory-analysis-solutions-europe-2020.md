@@ -1,0 +1,19 @@
+---
+id: 8340
+title: "Alpha MOS: Best Sensory Analysis Solutions Europe 2020"
+award_year: 2020
+published: 2020-10-21 15:26:34
+published_gmt: 2020-10-21 14:26:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/alpha-mos-best-sensory-analysis-solutions-europe-2020/"
+categories: ["Europe", "Industries", "Technology"]
+content_sha256: a6b7564be846c97cf9a409ac7d7641f2efed126e2c4bdac105c43e97f4094b3c
+canonical: 8340-alpha-mos-best-sensory-analysis-solutions-europe-2020.json
+---
+
+# Alpha MOS: Best Sensory Analysis Solutions Europe 2020
+
+> Verbatim archived copy. Canonical machine record: `8340-alpha-mos-best-sensory-analysis-solutions-europe-2020.json`.
+
+<img class="aligncenter size-full wp-image-8341" src="https://cfi.co/awards/wp-content/uploads/2020/10/Alpha-MOS.jpg" alt="Alpha-MOS" width="400" height="81" />
+<p style="text-align: justify;">Alpha MOS claims the distinction of being the first company to bring “electronic noses” to the market. The French firm develops sensory analysis tools for industrial and consumer clients worldwide, providing smell-, taste- and visual-assessment technology to control the sensory qualities of products. More than 1,000 Alpha MOS instruments have been installed in food, beverage and packaging industries around the world. The French company has established a global network, with offices in the US and China and distributors worldwide. Over the past 27 years, Alpha MOS has solidified its status as an innovator in this niche area, with a number of patents under its belt. The science-driven operation fuels future developments with strong investment to create products that will fulfil unmet market needs. Alpha MOS put €3m into R&amp;D in 2019, and has set aside that same financial commitment in its 2020 budget. The specialist outfit is now turning its attention to the integration of a new generation of gas micro-sensors, which would expand its market scope to include more general-use applications. The Alpha MOS team has 50 members around the world, with a quarter of the staff in the science department. All new employees undergo a comprehensive onboarding process, including a six-month training programme, to ensure a perfect fit within the organisation. The CFI.co judging panel salutes the bright minds behind this unusual business model, and declares Alpha MOS winner of the 2020 award for Best Sensory Analysis Solutions (Europe).</p>
