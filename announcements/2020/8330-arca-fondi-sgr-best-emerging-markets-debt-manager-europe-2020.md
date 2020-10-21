@@ -1,0 +1,19 @@
+---
+id: 8330
+title: "Arca Fondi SGR: Best Emerging Markets Debt Manager Europe 2020"
+award_year: 2020
+published: 2020-10-21 15:09:55
+published_gmt: 2020-10-21 14:09:55
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2020/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: a6cb3664b1f4378e688db088621629274430c0cc5e2caf4e9be466cf6bec9617
+canonical: 8330-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2020.json
+---
+
+# Arca Fondi SGR: Best Emerging Markets Debt Manager Europe 2020
+
+> Verbatim archived copy. Canonical machine record: `8330-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2020.json`.
+
+<img class="aligncenter size-full wp-image-5464" src="https://cfi.co/awards/wp-content/uploads/2018/04/Arca.jpg" alt="Arca" width="400" height="135" />
+<p style="text-align: justify;">Arca Fondi SGR weathers choppy market conditions with the confidence borne of 37 years’ investment experience. The Italian firm manages portfolios with agility, adjusting risk profiles to seize opportunities thrown up by market volatility. The current global crisis has affected businesses in unprecedented ways, but the solid risk-management processes implemented by Arca’s multi-manager teams have paid off. Early indicators suggest Arca portfolios, invested in liquid instruments, are among the top performers of their groups. Arca’s investments in digitalisation and organisational simplification have allowed it to shutter most of its offices during the crisis and operate through just one branch using less than five percent of its staff — with no interruption to operations. Arca reports that thousands of transactions, subscriptions and redemptions are processed weekly. Teleconferencing keeps internal committees connected and on-target, and there are regular meetings — up to 100 each week — with external brokers and analysts. Regular reports keep clients informed of investment performance, while weekly webinars strengthen their understanding of market trends. Arca Fondi SGR serves individual and institutional investors, including pension funds and commercial banks. It subscribes to the ethically based Global Investment Performance Standards developed by the CFA Institute, and independent audits over two decades show its consistent compliance. The CFI.co judging panel has recognised the firm’s performance in several awards programmes, and its triumph over recent challenges elevates its reputation. The judges present Arca Fondi SGR with the 2020 award for Best Emerging Markets Debt Manager (Europe).</p>
