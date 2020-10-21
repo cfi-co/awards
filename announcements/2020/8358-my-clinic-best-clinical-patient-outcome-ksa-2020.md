@@ -1,0 +1,19 @@
+---
+id: 8358
+title: "My Clinic: Best Clinical Patient Outcome KSA 2020"
+award_year: 2020
+published: 2020-10-21 15:34:47
+published_gmt: 2020-10-21 14:34:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2020/my-clinic-best-clinical-patient-outcome-ksa-2020/"
+categories: ["Middle East"]
+content_sha256: 65a0bc97b6940a05eb3ad9898a1e24f8623363d10a5f25e66a1f3fa569b96298
+canonical: 8358-my-clinic-best-clinical-patient-outcome-ksa-2020.json
+---
+
+# My Clinic: Best Clinical Patient Outcome KSA 2020
+
+> Verbatim archived copy. Canonical machine record: `8358-my-clinic-best-clinical-patient-outcome-ksa-2020.json`.
+
+<img class="aligncenter size-full wp-image-7138" src="https://cfi.co/awards/wp-content/uploads/2020/01/My-Clinic.jpg" alt="My Clinic" width="385" height="89" />
+<p style="text-align: justify;">My Clinic began operations just three years ago, inviting individuals, families and businesses across the Kingdom of Saudi Arabia to experience how much superior healthcare contributes to positive patient outcomes. My Clinic’s Jeddah facilities are spread wide and stretched several storeys high, housing the full gamut of medical specialities and clinical care under one roof. My Clinic recruits highly qualified medical professionals to provide world-class care that sets patients at ease, and its holistic approach to healthcare supports positive treatment outcomes. It offers a suite of convenient at-home services, including consultations, collection of lab samples, vaccinations, physiotherapy, post-surgery care and elderly homecare. My Clinic has also developed a comprehensive and customisable Corporate Wellness programme to improve quality of life for workers across the Kingdom. Workplace wellness initiatives have been proven to reduce healthcare costs and employee absenteeism — and boost workplace productivity. My Clinic solutions focus on delivering optimum clinical outcomes through a patient-centric approach that encompasses prevention, lifestyle counselling, early screening and diagnosis, clinical services as well as chronic illness care. My Clinic supports its proactive stance by investing in the best people and the latest medical technology across integrated points-of-care. It recently launched an audio-vestibular centre to provide care for patients with hearing and balance problems. The CFI.co judging panel announces My Clinic as the 2020 winner of the award for Best Clinical Patient Outcome (KSA).</p>
