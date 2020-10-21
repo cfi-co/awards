@@ -1,0 +1,19 @@
+---
+id: 8388
+title: "Svenska Cellulosa Aktiebolaget: Best Sustainable Value Creation Strategy Sweden 2020"
+award_year: 2020
+published: 2020-10-21 15:55:35
+published_gmt: 2020-10-21 14:55:35
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2020/svenska-cellulosa-aktiebolaget-best-sustainable-value-creation-strategy-sweden-2020/"
+categories: ["Best Practice", "Europe", "Industries", "Sustainability"]
+content_sha256: 193d6ab1c4d98689b2c505d30dc67270a5da9646241e56eaf2be74bdc0a14d09
+canonical: 8388-svenska-cellulosa-aktiebolaget-best-sustainable-value-creation-strategy-sweden-2.json
+---
+
+# Svenska Cellulosa Aktiebolaget: Best Sustainable Value Creation Strategy Sweden 2020
+
+> Verbatim archived copy. Canonical machine record: `8388-svenska-cellulosa-aktiebolaget-best-sustainable-value-creation-strategy-sweden-2.json`.
+
+<img class="aligncenter size-full wp-image-8389" src="https://cfi.co/awards/wp-content/uploads/2020/10/SCA.jpg" alt="SCA" width="400" height="131" />
+<p style="text-align: justify;">Svenska Cellulosa Aktiebolaget (SCA) owns the largest private forest in Europe, a tract of woodland in northern Sweden that covers 2.6m hectares and 45,000 hectares in Estonia and Latvia. The company practices sustainable forestry management and only harvests around 60 percent of growth. As part of its ecological landscape plan, SCA marks portions of forest for preservation and allows one in every five trees scheduled for harvest to follow a natural lifecycle. SCA calculated its 2019 climate benefits to equal 10.5m tonnes of CO2 — more than the entire country’s heavy goods traffic and domestic air emissions. Fossil-based fuels are replaced by renewable alternatives, and SCA invests to reduce its own emissions. The company has used wind power, bio energy and biorefinery to become self-sufficient for its power needs, and a net supplier for surrounding communities. SCA produces 11.9 terrawatt-hours of bio energy last year, most of which went to power its operations; the remainder was sold to other users. SCA sees biorefinery as part of an evolutionary process that’s been under way for ages. Renewables accounted for just 20 percent of Sweden’s transport needs in 2017, but the target for 2030 is 70 percent. Within the next 15 years, five percent of the country’s total fuel requirements could be covered by SCA’s products. The company translates core values of responsibility, excellence and respect into committed action. The CFI.co judging panel presents SCA with the 2020 award for Best Sustainable Value Creation Strategy (Sweden).</p>
