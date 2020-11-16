@@ -1,0 +1,19 @@
+---
+id: 8480
+title: "Active Capital Reinsurance Ltd: Best Specialised Reinsurance Solutions Global 2020 & Best Reinsurer Emerging Markets 2020"
+award_year: 2020
+published: 2020-11-16 17:54:28
+published_gmt: 2020-11-16 17:54:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2020/active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-2020-best-reinsurer-emerging-markets-2020/"
+categories: ["Latin America", "Professional Services"]
+content_sha256: 11617f9edbf2128e2855dbb46f76e0cb56a5d2fa3bb3dd1e4d4107617c1f252b
+canonical: 8480-active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-202.json
+---
+
+# Active Capital Reinsurance Ltd: Best Specialised Reinsurance Solutions Global 2020 & Best Reinsurer Emerging Markets 2020
+
+> Verbatim archived copy. Canonical machine record: `8480-active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-202.json`.
+
+<img class="aligncenter size-full wp-image-6410" src="https://cfi.co/awards/wp-content/uploads/2019/01/ActiveRE.jpg" alt="ActiveRE" width="500" height="106" />
+<p style="text-align: justify;">Active Capital Reinsurance Ltd (Active Re) boasts a 13-year history of significant business growth — and this year has proved a pinnacle in that trajectory thanks to a continued focus on diversification and risk-controlled expansion. The firm has a growing global portfolio, operating in 104 countries in Latin America, Europe, Asia Pacific and the MENA region. It has headquarters in Barbados, offices in Miami and Madrid, and representatives in nine countries. Innovation fuels the company’s development and diversification. Active Re specialises in bancassurance and affinity products, but the offering has been incrementally augmented to tap into new markets and lines of business. The firm defines talent, technology, innovation and diversification as its key strengths. It has invested in its staff and revamped its technological platform to add levels of automation that bring cost and efficiency savings. A suite of in-house reinsurance applications provides an adaptable system that reduces administrative tasks and allows the team to focus on clients. The Active Re portfolio has evolved and diversified to include more focus on the property and surety classes. It has moved beyond pure facultative reinsurance with versatile treaty reinsurance, and has forged partnerships to increase distribution channels. Active Re has been given an excellent investment grade rating by AM Best — and some well-deserved recognition from the CFI.co judging panel. The judges declare Active Re as the 2020 winner of two awards: Best Specialised Reinsurance Solutions (Global) and Best Reinsurer (Emerging Markets).</p>
