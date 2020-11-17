@@ -1,0 +1,25 @@
+---
+id: 8466
+title: "Umpqua Bank: Best Community Bank USA 2020"
+award_year: 2020
+published: 2020-11-17 07:00:28
+published_gmt: 2020-11-17 07:00:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2020/umpqua-bank-best-community-bank-usa-2020/"
+categories: ["Banking", "Community Engagement", "North America"]
+content_sha256: 8b2f7a7749cc3b255c042c790530d07b8d18d7002965492c940ca4c9e5c48b69
+canonical: 8466-umpqua-bank-best-community-bank-usa-2020.json
+---
+
+# Umpqua Bank: Best Community Bank USA 2020
+
+> Verbatim archived copy. Canonical machine record: `8466-umpqua-bank-best-community-bank-usa-2020.json`.
+
+<img class="aligncenter size-full wp-image-8467" src="https://cfi.co/awards/wp-content/uploads/2020/11/Umpqua-Bank.jpg" alt="Umpqua Bank" width="400" height="67" />
+<p style="text-align: justify;"><strong>It’s the go-to bank with an app to fit – aptly and fittingly called ‘Go-To Banking.’ Oregon’s Umpqua Bank provides a highly personal banking experience for both consumers and businesses. The bank makes headlines, and differentiates itself, with a uniquely human digital customer experience that includes an intuitive cross-platform app which puts a real banker onto its customers’ mobile device – and at the ready to serve.</strong></p>
+<p style="text-align: justify;">This is not a financial reincarnation of either Alexa or Siri, but an actual banking professional with a face, voice, and – crucially – the powers of reason and empathy. Umpqua Go-To Banking is a hybrid app that doesn’t emphasise algorithms, chatbots, or artificial intelligence. There is no need for tech wizardry when a real pro is on the job.</p>
+<p style="text-align: justify;">With a history spanning over six decades and as a pioneer of community banking – a former CEO actually wrote the book about it – Umpqua Bank is justifiably proud of its dedication to excellence and innovation in customer experience. This is an institution that has located, and tapped into, the holy grail of banking: That elusive, yet happy, medium between the comfort of tradition and the excitement of progress. In Go-To Banking, both meet and mingle.</p>
+<p style="text-align: justify;">Umpqua’s ‘human digital banking’ approach also includes a suite of highly customised middle market offerings and deploys technology to provide customers the convenience of digital with the assurance of a personal touch delivered by somebody who knows and cares – and is not a machine.</p>
+<p style="text-align: justify;">In these troubled times, when a visit to the local branch is no longer a breeze or indeed risk-free, Umpqua Go-To Banking – launched for consumers in September 2018 – has proven to be an immensely powerful tool. So has the company’s investment in business and corporate bankers who – powered by smart digital solutions and Umpqua’s culture of service – helped roughly 17,000 West Coast businesses save more than 250,000 jobs as the pandemic raged.</p>
+<p style="text-align: justify;">The unprecedented disruption has revealed how businesses, like consumers, need a banker with empathy and expertise who will be there when it matters most. Meeting that need fuels Umpqua’s human digital banking solution.</p>
+<p style="text-align: justify;">The CFI.co judging panel noted that Umpqua Bank’s human digital approach has caused quite a stir and raised the bar of community banking. Its Go-To Banking app was picked up by other institutions as their preferred mobile platform. The judges wish to congratulate Umpqua Bank on its win of the 2020 Best Community Bank USA Award.</p>
