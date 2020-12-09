@@ -1,0 +1,19 @@
+---
+id: 8557
+title: "York University: Best Community Impact Research University Canada 2020"
+award_year: 2020
+published: 2020-12-09 15:31:07
+published_gmt: 2020-12-09 15:31:07
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2020/york-university-best-community-impact-research-university-canada-2020/"
+categories: ["Community Engagement", "North America"]
+content_sha256: 433a50374e6073cd7f7ae296cb5b50047571105b8d579bb4bb9809e774d36982
+canonical: 8557-york-university-best-community-impact-research-university-canada-2020.json
+---
+
+# York University: Best Community Impact Research University Canada 2020
+
+> Verbatim archived copy. Canonical machine record: `8557-york-university-best-community-impact-research-university-canada-2020.json`.
+
+<img class="aligncenter size-full wp-image-8558" src="https://cfi.co/awards/wp-content/uploads/2020/12/York-University.jpg" alt="York University Canada" width="400" height="88" />
+<p style="text-align: justify;">Founded in Toronto in 1959, York University maintains high standards as a purpose-driven educational institution with a transparent governance structure committed to social justice committed to the public good. Academic and business dealings are divided between the university’s senate and board of governors. Graduate programmes are reviewed every six years in a cyclical accreditation process, while all professional programmes — such as computer science, engineering, business, law and health — are accredited by corresponding industry organisations. York strives to  decolonise research and curricula by developing academic programmes with real-world relevance. It partners with industry leaders, government offices and community agencies to support experiential learning, community building and academic innovation. York University is recognised as a national leader with an international reputation for thought leadership in knowledge mobilisation and research impact. It receives over $100m in annual external research funding, and is a leader in scholarly publications with international co-authors international co-authorship. York University has claimed Ontario’s peak ranking in terms of publication volume in social sciences and humanities, economics, econometrics and finance, and business economics. York was the first university in Canada to open a Knowledge Mobilisation Unit as a service to researchers and in 2006 launched Research Impact Canada in 2006 which is now a network of 21 universities committed to building institutional capacity to support the broader socioeconomic impacts of research. Other investments in connecting campus to community include the TD Community Engagement Centre and Y Space supporting community engagement and entrepreneurship. Examples of York research with real world impact include the Canadian Observatory on Homelessness (a social innovation lab focused on youth homelessness), Youth REx (supporting community organizations serving Black youth) and Reimagining Long Term Care (working with unions, administrators and policy makers to strengthen elder care).  The CFI.co judging panel recognises York University with the 2020 award for Best Community Impact Research University (Canada).</p>
