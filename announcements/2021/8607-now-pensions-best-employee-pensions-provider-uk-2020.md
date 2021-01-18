@@ -1,0 +1,19 @@
+---
+id: 8607
+title: "NOW: Pensions: Best Employee Pensions Provider UK 2020"
+award_year: 2021
+published: 2021-01-18 17:52:46
+published_gmt: 2021-01-18 17:52:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/now-pensions-best-employee-pensions-provider-uk-2020/"
+categories: ["Europe", "Industries", "Professional Services"]
+content_sha256: b87e241c21d040b7083e02896599951744a309ebf4d5e779029a8266112a591a
+canonical: 8607-now-pensions-best-employee-pensions-provider-uk-2020.json
+---
+
+# NOW: Pensions: Best Employee Pensions Provider UK 2020
+
+> Verbatim archived copy. Canonical machine record: `8607-now-pensions-best-employee-pensions-provider-uk-2020.json`.
+
+<img class="aligncenter size-full wp-image-8608" src="https://cfi.co/awards/wp-content/uploads/2021/01/NOW.jpg" alt="NOW Pensions" width="207" height="91" />
+<p style="text-align: justify;">One UK multi-employer Master Trust underscores the urgency of saving for the future with its punchy moniker — NOW: Pensions established in 2012 and forms part of the Cardano Group, a privately-owned, purpose-built risk and investment specialist serving UK and Dutch markets. The upper-case title practically shouts the message, and the firm takes seriously its mission to spread word: planning for the future is vital. It partnered with Condé Nast in a six-week programme to field questions on money matters in <em>Glamour</em> magazine. It had to scrap the annual face-to-face action of the annual Pension Awareness Week, when it would normally engage with the public on British high streets. It hosted virtual events instead, including a bespoke employer forum, which have resonated well. A collaboration with Charity Debate Mate and 5,000 UK schools will focus on encouraging youngsters to establish formative savings behaviours. NOW: Pensions is the UK’s third-largest workplace pension provider, serving tens of thousands of employers and millions of members from a wide range of industry sectors. Employers appreciate the hands-on approach NOW: Pensions takes to ensure strong client relationships, stress-free enrolment and seamless integration. It offers employers assistance and advice — particularly during the pandemic — and provides targeted sessions to address the gender pensions gap and will introduce on-site training soon. Service charges are open, transparent and fair, with no hidden extras. The CFI.co judging panel declares NOW: Pensions winner of the 2020 award for Best Employee Pensions Provider (UK).</p>
