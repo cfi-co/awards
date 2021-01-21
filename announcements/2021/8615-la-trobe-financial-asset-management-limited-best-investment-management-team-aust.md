@@ -1,0 +1,19 @@
+---
+id: 8615
+title: "La Trobe Financial Asset Management Limited: Best Investment Management Team Australia 2020"
+award_year: 2021
+published: 2021-01-21 13:37:33
+published_gmt: 2021-01-21 13:37:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2021/la-trobe-financial-asset-management-limited-best-investment-management-team-australia-2020/"
+categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_sha256: 68d49f0a055b55b58cab96ab737bf5faa3029159e09821878dd8b3864722a6e9
+canonical: 8615-la-trobe-financial-asset-management-limited-best-investment-management-team-aust.json
+---
+
+# La Trobe Financial Asset Management Limited: Best Investment Management Team Australia 2020
+
+> Verbatim archived copy. Canonical machine record: `8615-la-trobe-financial-asset-management-limited-best-investment-management-team-aust.json`.
+
+<img class="aligncenter size-full wp-image-8616" src="https://cfi.co/awards/wp-content/uploads/2021/01/La-Trobe-CFI.co-Award-Win-2020.jpg" alt="La Trobe CFI.co Award Win 2020" width="873" height="582" />
+<p style="text-align: justify;">La Trobe Financial Asset Management is a premium non-bank wealth manager and credit specialist. It views the prudent stewardship of client assets as a sacrosanct fiduciary duty, and counts its people and reputation as its greatest assets. The Australian firm’s account managers forge lasting relationships with clients and tailor strategies to fit their needs. Over the past 68 years, La Trobe Financial has served over 180,000 clients and covered $18.4bn ($26bn AUD) of institutional and retail investment mandates. Clients place their trust and investments with La Trobe Financial — it has AUM of $7.8bn ($11bn AUD). While interest rates may fluctuate, clients’ original capital investments are mortgage-secured. In addition to wealth management, La Trobe Financial offers insurance services, as well as property loans and fixed-interest and investment-grade credit. It has also opened new areas in retail and industrial investing. This diverse range of services and funding solutions is put together by a workforce of more than 400 employees. The La Trobe Financial team serves the needs of global clients from its headquarters in Melbourne, with offices in Sydney, Shanghai and Hong Kong. Blackstone, the world’s leading investment firm with $584bn in AUM, holds an 80 percent stake in the company. La Trobe Financial president and CEO Greg O'Neill, who was awarded the Medal of the Order of Australia in 2019, holds the remaining 20 percent share. The CFI.co judging panel declares La Trobe Financial Asset Management winner of the 2020 award for Best Investment Management Team (Australia).</p>
