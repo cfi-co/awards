@@ -1,0 +1,19 @@
+---
+id: 8641
+title: "Manulife Investment Management: Best ESG Team, Investment Management North America 2020"
+award_year: 2021
+published: 2021-01-25 13:24:50
+published_gmt: 2021-01-25 13:24:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2021/manulife-investment-management-best-esg-team-investment-management-north-america-2020/"
+categories: ["Asset Management", "Best Practice", "CSR", "Corporate Governance", "Finance", "North America", "Sustainability"]
+content_sha256: a66592534a4ca27bced18f729b9600ae7c4159012087e6625df782dd8ad567c0
+canonical: 8641-manulife-investment-management-best-esg-team-investment-management-north-america.json
+---
+
+# Manulife Investment Management: Best ESG Team, Investment Management North America 2020
+
+> Verbatim archived copy. Canonical machine record: `8641-manulife-investment-management-best-esg-team-investment-management-north-america.json`.
+
+<img class="aligncenter size-full wp-image-8642" src="https://cfi.co/awards/wp-content/uploads/2021/01/Manulife_Investment_Management.jpg" alt="Manulife Investment Management" width="600" height="114" />
+<p style="text-align: justify;">Headquartered in Toronto, Manulife Investment Management deploys 525 investment professionals across 17 locations in support of clients’ financial and ESG goals. It is the global wealth and asset management arm of Manulife Financial Corporation, drawing on a 130-year heritage of research, risk-management and outcome-focused investing. Manulife Investment Management tailors solutions for individuals, institutions and retirement plan members worldwide, with more than $421 billion in assets under management and administration. In September, it received an A+ rating for ESG strategy and governance — for the second consecutive year — from the UN-supported Principles for Responsible Investment report. It also received top marks in the screening, integration and engagements modules for listed equities and direct fixed-income SSA (sovereign, supranational and agency). Manulife Investment Management sees responsible investing as an opportunity for more efficient allocation of capital and better risk-adjusted returns. The firm tracks its performance using guidelines published by the Sustainability Accounting Standards Board and the Task Force on Climate-related Financial Disclosures. It publishes annual progress reports with full transparency and a widening range of data inclusion. Manulife Investment Management engages with the companies in which it invests to support their sustainability goals. Global engagement interactions in 2019 rose to 940 from 276 the previous year, and its Sustainable Investing Committee meets monthly to monitor the evolution of ESG strategies. The CFI.co judging panel announces Manulife Investment Management — a repeat programme winner — as 2020’s Best ESG Team, Investment Management (North America).</p>
