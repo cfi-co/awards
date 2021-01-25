@@ -1,0 +1,19 @@
+---
+id: 8627
+title: "East Africa Metals Inc: Most Responsible Miner Africa 2020"
+award_year: 2021
+published: 2021-01-25 10:58:22
+published_gmt: 2021-01-25 10:58:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2021/east-africa-metals-inc-most-responsible-miner-africa-2020/"
+categories: ["Africa", "Best Practice", "CSR", "Industries", "Mining"]
+content_sha256: 6e58d2bd319717abf5a43d20e9eea64d19afd3d3375bae85fa22ec2f823efb5a
+canonical: 8627-east-africa-metals-inc-most-responsible-miner-africa-2020.json
+---
+
+# East Africa Metals Inc: Most Responsible Miner Africa 2020
+
+> Verbatim archived copy. Canonical machine record: `8627-east-africa-metals-inc-most-responsible-miner-africa-2020.json`.
+
+<img class="aligncenter size-full wp-image-8632" src="https://cfi.co/awards/wp-content/uploads/2021/01/EAM.jpg" alt="EAM" width="400" height="185" />
+<p style="text-align: justify;">Legend has it that EAM’s Adyabo gold project sits on the site of the legendary mines of King Solomon, and EAM management looks to the Arabian-Nubian Shield as a highly prospective region for exploration. Over the past 15 years, Vancouver-based East Africa Metals (EAM) has made significant prospecting discoveries in Tanzania and Ethiopia. EAM founder and CEO Andrew Smith refers to that moment of discovery as a feeling of spine-tingling excitement. News of a discovery is likely to cause a similar reaction in community stakeholders, considering the profit-sharing scheme established with villages in Tanzania. EAM connects with community leaders at the start of exploration projects to co-create initiatives that address local needs. The company knows the value of corporate social responsibility, and focuses the brunt of its efforts towards reforestation and encouraging women’s education and entrepreneurship. It has built schools and established a co-op for female entrepreneurs, and engages with shareholders to spread the word on the importance of CSR. EAM understands that it is a guest in the countries where it operates, and its committed CSR plan seeks to preserve natural spaces while advancing socio-economic progress. The company has been honoured with a Tanzanian Presidential Citation for contributions made to local communities. The CFI.co judging panel presents East Africa Metals with another honour — the 2020 award for Most Responsible Miner (Africa).</p>
