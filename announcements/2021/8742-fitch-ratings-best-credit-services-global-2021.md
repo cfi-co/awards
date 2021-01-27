@@ -1,0 +1,22 @@
+---
+id: 8742
+title: "Fitch Ratings: Best Credit Services Global 2021"
+award_year: 2021
+published: 2021-01-27 16:24:57
+published_gmt: 2021-01-27 16:24:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2021/fitch-ratings-best-credit-services-global-2021/"
+categories: ["Finance", "North America", "Professional Services"]
+content_sha256: afa0de953a94da366fe408b58ba801a758ba70fffc07647ddbc6d1df9b1323f1
+canonical: 8742-fitch-ratings-best-credit-services-global-2021.json
+---
+
+# Fitch Ratings: Best Credit Services Global 2021
+
+> Verbatim archived copy. Canonical machine record: `8742-fitch-ratings-best-credit-services-global-2021.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-7124" src="https://cfi.co/awards/wp-content/uploads/2020/01/Fitch-Ratings.jpg" alt="Fitch Ratings" width="285" height="72" /></p>
+<p style="text-align: justify;"><strong>A leading global provider of credit ratings, commentary and research for global capital markets, Fitch Ratings is considered by many the tiebreaker amongst the major credit agencies.</strong> Often the first to spot the potential for trouble or, indeed, early signs of improvement, Fitch Ratings deploys 106 years of institutional experience – and its deep knowledge of markets and their protagonists – to consistently hit the right note when documenting the fundamentals of credit. Fitch is renowned for providing thorough analysis, independent perspective, transparent methodology and ongoing surveillance.</p>
+<p style="text-align: justify;">One of the top statistical ratings organisations recognised by the US Securities and Exchange Commission, and with dual headquarters in New York and London, Fitch Ratings canvasses global markets with a vast network that ensures an on-the-ground presence in thirty countries and teams roaming every region of the world. The company and its more than 1,500 expert analysts, which bring diverse viewpoints together to render objective and forward-looking assessments, regularly rate over 20,000 entities, ranging from sovereigns to businesses and investment products, amongst others.</p>
+<p style="text-align: justify;">Fitch has extensive emerging market coverage spanning entities across all the major asset classes. It rates local currency bonds in more countries than any other credit rating agency. Fitch Ratings acknowledges that both its longevity and success are owed to a consistent investment in people and the prioritising of ongoing skill development, as well as a transparent and inclusive human resources policy that sets out clear career paths.</p>
+<p style="text-align: justify;">The CFI.co judging panel is, of course, aware that the ratings industry has perhaps received more than its fair share of criticism in years past. Yet, without credit rating agencies money would simply stop flowing and economic life would come to a standstill. Moreover, Fitch Ratings possesses a number of key differentiators – people, processes, and presence – that, together, push the iconic company up a few crucial notches. The judges unanimously agree to declare Fitch Ratings winner of the 2021 Best Credit Services Global Award.</p>
