@@ -1,0 +1,19 @@
+---
+id: 8754
+title: "Union Iron & Steel: Best Sustainable Steel Manufacturer GCC 2020"
+award_year: 2021
+published: 2021-01-27 16:32:44
+published_gmt: 2021-01-27 16:32:44
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/union-iron-steel-best-sustainable-steel-manufacturer-gcc-2020/"
+categories: ["Best Practice", "Industries", "Manufacturing", "Middle East", "Sustainability"]
+content_sha256: a73e307c008bdf8f034d4d60db4d339ad182dcdba2160d9ec284671934286cbd
+canonical: 8754-union-iron-steel-best-sustainable-steel-manufacturer-gcc-2020.json
+---
+
+# Union Iron & Steel: Best Sustainable Steel Manufacturer GCC 2020
+
+> Verbatim archived copy. Canonical machine record: `8754-union-iron-steel-best-sustainable-steel-manufacturer-gcc-2020.json`.
+
+<img class="aligncenter size-full wp-image-8755" src="https://cfi.co/awards/wp-content/uploads/2021/01/Union-Iron-Steel-co.jpg" alt="Union Iron &amp; steel co" width="452" height="400" />
+<p style="text-align: justify;">Steel gives form and stability to roads, bridges and skyrises. Union Iron &amp; Steel (UIS) was established in 2006 to fulfil the growing need for steel in the Gulf Cooperation Council (GCC) region. The UIS plant boasts a strategic location in the Abu Dhabi Industrial Zone with cutting-edge facilities capable of producing 350,000 tonnes per year of locally made, high-quality steel reinforcement bar, or rebar. UIS products are certified by the UK’s Certification Authority for Reinforcing Steels as well as Dubai Central Laboratory. UIS differentiates itself from the competition with agile adaptation to client needs, proactive internal management and a focus on sustainable governance. UIS optimises resources across its operations, from raw material usage to manufacturing processes. The company aims for maximum efficiency and full capacity, with machines running around the clock and an impressive economy of scale. It recruits motivated candidates and invests in comprehensive personnel training. Employee safety is of paramount importance at all times, and workplace wellbeing has been paid extra attention throughout the pandemic. UIS promotes knowledge sharing among its people as well as its peers, encouraging an open exchange of experience and expertise for the betterment of the region. The company’s collaborative mindset and market adaptability have seen it through a tough year and left it well-positioned to respond to an evolving customer portfolio. Its next move will be to search for capital investments to fuel diversification plans. The CFI.co judging panel presents Union Iron &amp; Steel with the 2020 award for Best Sustainable Steel Manufacturer (GCC).</p>
