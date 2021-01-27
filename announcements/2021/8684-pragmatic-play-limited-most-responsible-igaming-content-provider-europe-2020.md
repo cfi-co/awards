@@ -1,0 +1,19 @@
+---
+id: 8684
+title: "Pragmatic Play Limited: Most Responsible iGaming Content Provider Europe 2020"
+award_year: 2021
+published: 2021-01-27 15:16:30
+published_gmt: 2021-01-27 15:16:30
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/pragmatic-play-limited-most-responsible-igaming-content-provider-europe-2020/"
+categories: ["Best Practice", "Europe"]
+content_sha256: a47d9697ed0ae8c1ae9d96a3ca700883f6862ba0e42ddb14a4689da50d1470c0
+canonical: 8684-pragmatic-play-limited-most-responsible-igaming-content-provider-europe-2020.json
+---
+
+# Pragmatic Play Limited: Most Responsible iGaming Content Provider Europe 2020
+
+> Verbatim archived copy. Canonical machine record: `8684-pragmatic-play-limited-most-responsible-igaming-content-provider-europe-2020.json`.
+
+<img class="aligncenter size-full wp-image-8685" src="https://cfi.co/awards/wp-content/uploads/2021/01/Pragmatic-Play-Logo.jpg" alt="Pragmatic-Play-Logo" width="500" height="415" />
+<p style="text-align: justify;">Pragmatic Play believes the online gaming sector must strive for higher standards. The company is a B2B provider with a product portfolio of digital games including slots, live casino, bingo and more. It works with online gaming operators, resellers and platform providers across major regulated markets worldwide. Pragmatic Play can customise games according to client needs, and integration is a breeze with its easy-to-use API (application programming interface). Although Pragmatic Play has limited contact with the end user, it is committed to promoting responsible gaming habits. The company is certified and licensed in 20 jurisdictions and fully compliant with all regulatory requirements. All Pragmatic Play games come with player protection software and are reviewed by independent auditors to certify their randomness and fairness. Pragmatic Play forges partnerships to help online gaming companies grow within a burgeoning industry, focusing on sustainability and data protection. The digital stewardship of users’ personal data is of paramount importance, and privacy protection is integrated in the system’s design. Pragmatic Play supports the GambleAware programme which promotes responsible gaming, and was part of a cross-industry initiative to encourage safer gambling in the UK and Ireland. Pragmatic Play has a proactive CSR strategy that is driven by teams in eight countries. The CFI.co judging panel recognises Pragmatic Play with the 2020 award for Most Responsible iGaming Content Provider (Europe).</p>
