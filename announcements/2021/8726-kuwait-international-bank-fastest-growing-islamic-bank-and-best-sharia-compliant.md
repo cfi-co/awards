@@ -1,0 +1,19 @@
+---
+id: 8726
+title: "Kuwait International Bank: Fastest Growing Islamic Bank and Best Sharia-Compliant Bank MENA 2020"
+award_year: 2021
+published: 2021-01-27 16:11:43
+published_gmt: 2021-01-27 16:11:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/kuwait-international-bank-fastest-growing-islamic-bank-and-best-sharia-compliant-bank-mena-2020/"
+categories: ["Banking", "Middle East"]
+content_sha256: dc7a7eb291a97a714020ca641118e136fb2e01a8ed02f08f9b01c7e9eeee891f
+canonical: 8726-kuwait-international-bank-fastest-growing-islamic-bank-and-best-sharia-compliant.json
+---
+
+# Kuwait International Bank: Fastest Growing Islamic Bank and Best Sharia-Compliant Bank MENA 2020
+
+> Verbatim archived copy. Canonical machine record: `8726-kuwait-international-bank-fastest-growing-islamic-bank-and-best-sharia-compliant.json`.
+
+<img class="aligncenter size-full wp-image-7182" src="https://cfi.co/awards/wp-content/uploads/2020/01/KIB.jpg" alt="KIB" width="600" height="239" />
+<p style="text-align: justify;">The publicly quoted Kuwait International Bank (KIB) was incorporated in 1973 and has been operating according to Islamic principles for the past 13 years. KIB offers a comprehensive suite of Sharia-compliant services and products coupled with digital advances. KIB has introduced services that free clients from making in-person visits, and updated its queue booking app, in part for customer convenience but also as a safety measure during the pandemic. Over the past eight months, KIB has launched a live chat function on its website and seven new services via its contact centre. Another major milestone was the launch of the 89 Mall branch, which was designed to traverse the boundaries between the digital and physical to provide full self-service solutions across most operational levels. This addition complements the first digitally focused branch at the E-mall. The ATMs in these branches are reminiscent of smartphones, allowing customers to navigate by swiping and tapping instead of inserting a card. Staff roam the open-plan branches with iPads to answer client questions. The bank has also launched a mobile app feature allowing digital registration with the Kuwait clearing company to receive direct-deposit dividends in their accounts instead of having to come in and pick up a cheque. The CFI.co judging panel presents Kuwait International Bank — a repeat programme winner — with the 2020 awards for Fastest Growing Islamic Bank and Best Sharia-Compliant Bank (MENA).</p>
