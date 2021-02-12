@@ -1,0 +1,19 @@
+---
+id: 8824
+title: "FIA Asset Management SA: Best Portfolio Management Team Luxembourg 2020"
+award_year: 2021
+published: 2021-02-12 10:46:48
+published_gmt: 2021-02-12 10:46:48
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/fia-asset-management-sa-best-portfolio-management-team-luxembourg-2020/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: bbf520b29acde1583d235a62a8357ba5d692c45237d0f3f84d9b4ff2d2e5d0d8
+canonical: 8824-fia-asset-management-sa-best-portfolio-management-team-luxembourg-2020.json
+---
+
+# FIA Asset Management SA: Best Portfolio Management Team Luxembourg 2020
+
+> Verbatim archived copy. Canonical machine record: `8824-fia-asset-management-sa-best-portfolio-management-team-luxembourg-2020.json`.
+
+<img class="aligncenter size-full wp-image-8825" src="https://cfi.co/awards/wp-content/uploads/2021/02/FIA-AM.jpg" alt="FIA AM" width="500" height="267" />
+<p style="text-align: justify;">FIA Asset Management SA is driven by a seasoned team with more than a decade of experience in financial markets. FIA AM forms part of the FARAD Group, a prominent financial services platform based in Luxembourg. The cornerstone of the FIA mission statement is to generate positive impacts for society and the environment. Respect, delivery and diversity are embedded in the company’s DNA, and the FIA team has been encouraging sustainable and responsible investing since long before its current buzzword status. FIA launched one of the first funds to be marketed on the Luxembourg Green Exchange, the Best of SRI Balanced fund. FARAD Group is one of only three companies in Luxembourg to have been awarded B-Corporation certification. The independent, non-profit Luxembourg Finance Labelling Agency (LuxFLAG) designated FIA among its premier ESG-label recipients. FIA champions the UN’s 17 Sustainable Development Goals (SDGs) and has developed an internal set of “GreenEthica” guidelines that opens a vast array of solutions for sustainable investing, wealth planning and insurance brokerage. FIA’s inhouse governance reflects its strong SDG ambitions: it has gone paperless, banned plastics and supported public transport. FIA celebrates diversity and has created an inclusive work environment where employees are respected, their contributions rewarded, and their ideas welcomed. It plans to double ranks over the next 24 months. The CFI.co judging panel appreciates FIA’s approach to sustainability and presents FIA Asset Management with the 2020 award Best Portfolio Management Team (Luxembourg).</p>
