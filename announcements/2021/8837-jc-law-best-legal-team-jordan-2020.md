@@ -1,0 +1,19 @@
+---
+id: 8837
+title: "JC Law: Best Legal Team Jordan 2020"
+award_year: 2021
+published: 2021-02-18 09:32:39
+published_gmt: 2021-02-18 09:32:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/jc-law-best-legal-team-jordan-2020/"
+categories: ["Legal", "Middle East", "Professional Services"]
+content_sha256: 1c3438ab026833a968d4a478192242776ae06b0657144ddd6a390ee47cc494c7
+canonical: 8837-jc-law-best-legal-team-jordan-2020.json
+---
+
+# JC Law: Best Legal Team Jordan 2020
+
+> Verbatim archived copy. Canonical machine record: `8837-jc-law-best-legal-team-jordan-2020.json`.
+
+<img class="aligncenter size-full wp-image-8838" src="https://cfi.co/awards/wp-content/uploads/2021/02/JC-Law.jpg" alt="JC Law Jordan" width="400" height="140" />
+<p style="text-align: justify;">JC Law is a boutique firm of Jordanian lawyers and legal counsellors that leverages the synergies of partners for the benefit of clients. Founded in 2007, the practice has been fortified by the partners’ in-depth knowledge and years of experience in the field. JC Law offers legal aid to Jordanian and international clients with the promise of top-shelf representation, committed care, and a guarantee of objective and on-point advice. The firm covers a broad range of legal sectors: banking and finance, securities and capital markets, corporate and commercial, litigation, foreclosures and arbitration. The list doesn’t stop there; JC Law casts a wide net. It also tackles privatisation, public and private partnerships, public policy, ICT, intellectual property, project finance and construction. With such a broad focus, the firm continuously monitors the legal sphere to ensure its services remain current and relevant in a globally evolving environment. JC Law operates according to a strict code of conduct with an emphasis on ethics, integrity, and excellence. The firm received strong nominations from within Jordan and internationally. The CFI.co Judging Panel was impressed by the firm’s focus on detail and the personal attention given to clients – noting that this has not wavered during the current crisis. The panel is delighted to declare JC Law as winner of the 2020 award for Best Legal Team (Jordan).</p>
