@@ -1,0 +1,19 @@
+---
+id: 8845
+title: "Huddlestock: Best FinTech IPO Nordics 2020"
+award_year: 2021
+published: 2021-02-19 17:16:02
+published_gmt: 2021-02-19 17:16:02
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/huddlestock-best-fintech-ipo-nordics-2020/"
+categories: ["Europe", "Finance", "Technology"]
+content_sha256: 92697e4d61a12e0add5415729a93959530c7250bd6048fe99849f210707706ad
+canonical: 8845-huddlestock-best-fintech-ipo-nordics-2020.json
+---
+
+# Huddlestock: Best FinTech IPO Nordics 2020
+
+> Verbatim archived copy. Canonical machine record: `8845-huddlestock-best-fintech-ipo-nordics-2020.json`.
+
+<img class="aligncenter size-full wp-image-8846" src="https://cfi.co/awards/wp-content/uploads/2021/02/Huddlestock.jpg" alt="Huddlestock" width="400" height="62" />
+<p style="text-align: justify;">Huddlestock began as a university incubator project in 2014 and operates in Norway, Germany, Lithuania and Malaysia. It counts some of the world’s most prominent financial brands as customers and has a pipeline of projects for continued global growth. Huddlestock has developed an integrated white label solution for financial markets and proprietary Software as a Service (SaaS) for custody banks, asset managers, retail trading venues and regulatory companies. It partners with clients to digitalise operations and launch innovative products. Huddlestock is well positioned to capitalise on the shift in custody banking from commodity proposition to knowledge provider. It offers a suite of services that includes data management, analytics, compliance, liquidity, risk management and other fund-related services. Huddlestock systems are part of a scalable business model that enables users to move away from process-orientated client relationships and towards service-orientated partnerships. Huddlestock’s end-to-end tech solutions free financial professionals from tedious procedural tasks so that they can concentrate on returns. It has two flagship products: Apex and Bedrock. Apex is a single-platform B2B solution for custody banks that facilitates onboarding, communication, reporting, order execution and portfolio management. Bedrock is a connectivity platform providing access to international equities and fund products. The wealth tech company has raised $5.5m in funding since its launch, including a $1m round last November. Huddlestock is listed on the Oslo Stock Exchange and regulated by BaFIN in Germany. The CFI.co judging panel congratulates Huddlestock, winner of the 2020 award for Best FinTech IPO (Nordics).</p>
