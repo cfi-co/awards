@@ -1,0 +1,20 @@
+---
+id: 8879
+title: "Kirchhoff Consult AG: Best ESG Communications Team Germany 2021"
+award_year: 2021
+published: 2021-03-01 13:28:11
+published_gmt: 2021-03-01 13:28:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/kirchhoff-consult-ag-best-esg-communications-team-germany-2021/"
+categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Professional Services", "Sustainability"]
+content_sha256: 7f3c4757e5afe6b3975444cfbd3e830d156371b8c78359454e1f9359d84e148a
+canonical: 8879-kirchhoff-consult-ag-best-esg-communications-team-germany-2021.json
+---
+
+# Kirchhoff Consult AG: Best ESG Communications Team Germany 2021
+
+> Verbatim archived copy. Canonical machine record: `8879-kirchhoff-consult-ag-best-esg-communications-team-germany-2021.json`.
+
+<img class="aligncenter size-full wp-image-8880" src="https://cfi.co/awards/wp-content/uploads/2021/03/Kirchhhoff.jpg" alt="Kirchhhoff" width="400" height="118" />
+<p style="text-align: justify;">Kirchhoff Consult has an impressive history of bringing ESG topics into the limelight. Since the publication of its first articles on the subject in 1994, it has established awards to recognise pioneers of sustainability and published a large number of studies. Kirchhoff’s specialist teams in capital markets, corporate communications and sustainability advise clients of all industries and sizes throughout their business development. The company pulls together the best combination of talent, and its 60 employees include consultants, CFA analysts, creative directors, web developers and sustainability experts. Kirchhoff provides materiality studies and helps clients to develop a holistic sustainability strategy with clear goals and measured progress, using key performance indicators. Kirchhoff trusts its professionals to work autonomously, using initiative and collaborative teamwork. The team arranges sustainability workshops and training courses for board members and executives. It assists clients with ongoing ESG management, setting up ESG Councils, analysing sustainability risks in supply chains, developing code of conducts and policies, and advising on due diligence in human rights. Kirchhoff considers all the stakeholders in its clients’ orbit — retaining that focus on ESG. It provides advice on the international reporting standards increasingly demanded by investors, such as the GRI, SDGs and UN Global Compact, and expands those benchmarks with &lt;Integrated Reporting&gt;, stakeholder-targeted communication campaigns and dialogue moderation. Kirchhoff advises on sustainable finance and green bond issues and helps companies to improve their ESG performance and ESG ratings respectively.
+The CFI.co judging panel recognises a company that is exceeding expectations, and names Kirchhoff Consult as winner of the 2021 award for Best ESG Communications Team (Germany).</p>
