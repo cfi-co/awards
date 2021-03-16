@@ -1,0 +1,19 @@
+---
+id: 8943
+title: "National Hotels Company: Best Hospitality Corporate Governance Bahrain 2021"
+award_year: 2021
+published: 2021-03-16 08:04:43
+published_gmt: 2021-03-16 08:04:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/national-hotels-company-best-hospitality-corporate-governance-bahrain-2021/"
+categories: ["Best Practice", "Corporate Governance", "Middle East"]
+content_sha256: 1959a8b227361f5347ba196742ca734243b4603ce00e32553c1bef60376a202b
+canonical: 8943-national-hotels-company-best-hospitality-corporate-governance-bahrain-2021.json
+---
+
+# National Hotels Company: Best Hospitality Corporate Governance Bahrain 2021
+
+> Verbatim archived copy. Canonical machine record: `8943-national-hotels-company-best-hospitality-corporate-governance-bahrain-2021.json`.
+
+<img class="aligncenter size-full wp-image-8944" src="https://cfi.co/awards/wp-content/uploads/2021/03/National-Hotels-Company.jpg" alt="National-Hotels-Company" width="500" height="125" />
+<p style="text-align: justify;">Bahrain can trace its history back to one of the world’s most ancient civilisations, and boasts an alluring mix of Arabic architecture and modern amenities. National Hotels Company rolls out a welcome for business travellers, long-term residents, tourists and short-stay guests to the kingdom. It ensures that its business objectives are reached and obligations to shareholders and stakeholders are fulfilled by following sound governance practices. National Hotels has been a pioneer in the national hospitality sector since the 1970s. There are two flagship properties in its portfolio: the Diplomat Radisson Blu Hotel, Residence &amp; Spa, and the Diplomat Commercial Offices (DCO). The 245-room hotel has 16 meeting rooms and two spacious ballrooms — as well as Bahrain's only rooftop venue — with space for up to 1,800 guests. The DCO, which offers discounts for Diplomat hotel guests, is in the heart of the business district. It provides entrepreneurs with workspaces that have panoramic views of the sea and city as well as easy airport access. National Hotels aligns its corporate governance policy with international standards, best-practice and regional regulations. Honesty and transparency are cornerstones, and the governance structure outlines the responsibilities and duties of the board and executive management team. It sets rigorous standards for safeguarding the interests of company and stakeholders. The CFI.co judging panel presents National Hotels Company with the 2021 award for Best Hospitality Corporate Governance (Bahrain).</p>
