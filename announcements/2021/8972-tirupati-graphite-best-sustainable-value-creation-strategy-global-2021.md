@@ -1,0 +1,19 @@
+---
+id: 8972
+title: "Tirupati Graphite: Best Sustainable Value Creation Strategy Global 2021"
+award_year: 2021
+published: 2021-03-24 11:30:32
+published_gmt: 2021-03-24 11:30:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/tirupati-graphite-best-sustainable-value-creation-strategy-global-2021/"
+categories: ["Best Practice", "Development", "Europe", "Industries", "Mining", "Projects", "Sustainability"]
+content_sha256: c8afb16b072b31e6b0e09ebc9c12afbb193be57e24d969ee66265aeed5a409cf
+canonical: 8972-tirupati-graphite-best-sustainable-value-creation-strategy-global-2021.json
+---
+
+# Tirupati Graphite: Best Sustainable Value Creation Strategy Global 2021
+
+> Verbatim archived copy. Canonical machine record: `8972-tirupati-graphite-best-sustainable-value-creation-strategy-global-2021.json`.
+
+<img class="aligncenter size-full wp-image-8973" src="https://cfi.co/awards/wp-content/uploads/2021/03/Tirupati-Graphite.jpg" alt="Tirupati Graphite" width="266" height="379" />
+<p style="text-align: justify;">Graphite has many uses, from the “lead” in your pencil to dry lubricants, high temperature refractories, flame retardants, composites and lithium-ion batteries (LiBs). Tirupati Graphite aims to set the global benchmark for flake graphite and graphene production. The public company has operations in Madagascar and India and was incorporated in London in 2017. Tirupati Graphite employs green technologies to lower its carbon footprint and is committed to increasing sustainability throughout the supply chain. It has achieved outstanding results using its proprietary zero-hydrofluoric acid, zero-waste purification technology in manufacturing trials. Spherical graphite (SPG) is the anode material used in LiBs, and Tirupati Graphite has completed tests for establishing LiB-grade SPG manufacturing plants with a German equipment specialist. Plant development was fast-tracked to beat the original completion target of July 2022, and the firm is already in talks with manufacturers of electric vehicles (EVs), batteries and anodes. The company points to growing EV adoption and stresses on the importance of aligning production capacity with sustainability in value creation and markets. Tirupati has a network of green-tech facilities for graphite processing and graphene manufacturing being fully integrated in its space. It has achieved impressive growth over a short time, ranking in the top five flake graphite companies worldwide. China, the world’s foremost commercial producer, should prepare for some healthy – and green – competition. The CFI.co judging panel presents Tirupati Graphite with the 2021 global award for Best Sustainable Value Creation Strategy.</p>
