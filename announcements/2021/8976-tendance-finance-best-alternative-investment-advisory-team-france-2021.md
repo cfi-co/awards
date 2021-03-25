@@ -1,0 +1,19 @@
+---
+id: 8976
+title: "Tendance Finance: Best Alternative Investment Advisory Team France 2021"
+award_year: 2021
+published: 2021-03-25 16:29:32
+published_gmt: 2021-03-25 16:29:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/tendance-finance-best-alternative-investment-advisory-team-france-2021/"
+categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_sha256: 42df78468b0934143243c91924fe5cbb0aecccd2ec6397f6139f8470afa34b97
+canonical: 8976-tendance-finance-best-alternative-investment-advisory-team-france-2021.json
+---
+
+# Tendance Finance: Best Alternative Investment Advisory Team France 2021
+
+> Verbatim archived copy. Canonical machine record: `8976-tendance-finance-best-alternative-investment-advisory-team-france-2021.json`.
+
+<img class="aligncenter size-full wp-image-8977" src="https://cfi.co/awards/wp-content/uploads/2021/03/Tendance-Finance.jpg" alt="Tendance Finance" width="500" height="98" />
+<p style="text-align: justify;">Tendance Finance has differentiated itself from the masses with its investment approach. The Parisian firm, founded in 2011, has developed a market strategy that targets one asset, and one trend. It seeks investment opportunities in the global investment universe, and consolidates equity and bond markets as a single asset with equal risks and matching direction. Then it applies a long-bias with reactive risk management to protect clients’ capital. Tendance Finance has created a proprietary grading system — the Global Pooling Index — to identify products with the best relative momentum, which feeds into its ever-growing index of market data. The firm aims to deliver healthy long-term results — regardless of economic conditions — and deploys systematic strategies to ensure dynamically managed core exposure to equity and sovereign bond markets. Tendance Finance trades only in liquid, listed futures and caters services to suit the needs of institutional and accredited professional investors. Tendance Finance was formed with the support of New Alpha AM, a subsidiary of La Française AM Group. The firm is guided by a leadership team that has deep expertise in the fields of alternative and traditional investing. The CFI.co judging panel was impressed with the firm’s novel approach to consolidated asset-management and confirms Tendance Finance as the 2021 winner of the award for Best Alternative Investment Advisory Team (France).</p>
