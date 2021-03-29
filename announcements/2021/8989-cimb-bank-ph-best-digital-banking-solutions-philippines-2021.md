@@ -1,0 +1,19 @@
+---
+id: 8989
+title: "CIMB Bank PH: Best Digital Banking Solutions Philippines 2021"
+award_year: 2021
+published: 2021-03-29 12:57:30
+published_gmt: 2021-03-29 11:57:30
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2021/cimb-bank-ph-best-digital-banking-solutions-philippines-2021/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: efaf96c06b079a91ecafb64779ecb8b140ab4de2cad0b5655d444c9078084e6e
+canonical: 8989-cimb-bank-ph-best-digital-banking-solutions-philippines-2021.json
+---
+
+# CIMB Bank PH: Best Digital Banking Solutions Philippines 2021
+
+> Verbatim archived copy. Canonical machine record: `8989-cimb-bank-ph-best-digital-banking-solutions-philippines-2021.json`.
+
+<img class="aligncenter size-full wp-image-7479" src="https://cfi.co/awards/wp-content/uploads/2020/06/CIMB.jpg" alt="CIMB" width="500" height="80" />
+<p style="text-align: justify;">Established in the Philippines in 2018, CIMB Bank has achieved remarkable growth at lightning pace. Customer acquisition has increased by 103 percent, now sitting at three million. There has been an 800 percent increase in deposits and a 500 percent jump in loan disbursements. CIMB Bank offers savings interest rates of up to four percent, higher than any of the country’s major institutions. CIMB’s end-to-end digital app has streamlined onboarding, and clients can open a savings account or apply for a loan within 10 minutes. The loan portfolio is strengthened by a credit-scoring model that allows for the inclusion of previously unbanked, but credit-worthy, citizens. About a third of CIMB savings account holders — and 60 percent of its loan applicants — are first-time bank users. CIMB is a digital pioneer offering AI-enhanced features for facial recognition, ID authentication, and loan risk-scoring. It uses algorithms to analyse smartphone metadata, predict behavioural patterns and assign credit scores — within seconds. CIMB Bank promotes financial literacy through social media campaigns — #MoneyMattersMonday, #WealthWisdomWednesday, and #FinancialFreedomFriday — and teaches basic financial skills on its YouTube channel. Satisfied customers serve as the bank’s unofficial brand ambassadors in online communities, where they praise its strong services and social commitments. The CFI.co judging panel presents CIMB Bank PH, a repeat programme winner, with the 2021 award for Best Digital Banking Solutions (Philippines).</p>
