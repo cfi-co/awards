@@ -1,0 +1,19 @@
+---
+id: 8999
+title: "Verdant Capital: Best FinTech Capital Raising Team Africa 2021"
+award_year: 2021
+published: 2021-03-31 09:05:49
+published_gmt: 2021-03-31 08:05:49
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2021/verdant-capital-best-fintech-capital-raising-team-africa-2021/"
+categories: ["Africa", "Finance"]
+content_sha256: 620a254d07df01f605258bc49c220f4f3a035053ceecb7189c800d650ad932bf
+canonical: 8999-verdant-capital-best-fintech-capital-raising-team-africa-2021.json
+---
+
+# Verdant Capital: Best FinTech Capital Raising Team Africa 2021
+
+> Verbatim archived copy. Canonical machine record: `8999-verdant-capital-best-fintech-capital-raising-team-africa-2021.json`.
+
+<img class="aligncenter size-full wp-image-9000" src="https://cfi.co/awards/wp-content/uploads/2021/03/Verdant-Capital.jpg" alt="Verdant Capital" width="600" height="203" />
+<p style="text-align: justify;">Founded in 2013, Verdant Capital is a leading corporate finance advisor and fintech specialist in Africa. Using its extensive investment experience and contacts, it is playing an increasingly important role in the pan-African fintech space. Its track record is garnering international attention and has caught the eyes of the CFI.co judging panel. In 2020, it closed three fintech deals with a total value of $40m. These three involved a subscription car company in South Africa, an innovative lease--financing company in East Africa, and a fintech SME-lender to SMEs in South Africa. It is expecting an even stronger 2021 with perhaps double the number of deals. As it continues to build its pipeline, Verdant Capital is also expanding its global reach. It currently has five offices across the continent. The team also has strong investment banking experience and contacts in North America, Europe, and the Middle East. Verdant Capital is the partner firm for its region for leading global M&amp;A partnership, IMAP. The CFI.co judges are also impressed with the breadth of its services. Verdant goes beyond private debt and equity raising. It also has extensive experience in M&amp;A and debt restructuring advisory services. This includes debt renegotiations, distressed refinancing and distressed M&amp;A. CFI.co judges are pleased to present Verdant Capital the 2021 award Best FinTech Capital Raising Team (Africa).</p>
