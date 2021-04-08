@@ -1,0 +1,19 @@
+---
+id: 9018
+title: "Tirelli & Partners: Best Exclusive Residential Property Consultancy Italy 2021"
+award_year: 2021
+published: 2021-04-08 11:37:50
+published_gmt: 2021-04-08 10:37:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/tirelli-partners-best-exclusive-residential-property-consultancy-italy-2021/"
+categories: ["Consultancies", "Europe", "Professional Services"]
+content_sha256: 2e5a230824a3f1ab3d66bae0fb7d970b6fdbc553a017d02fab2c03527bdc117c
+canonical: 9018-tirelli-partners-best-exclusive-residential-property-consultancy-italy-2021.json
+---
+
+# Tirelli & Partners: Best Exclusive Residential Property Consultancy Italy 2021
+
+> Verbatim archived copy. Canonical machine record: `9018-tirelli-partners-best-exclusive-residential-property-consultancy-italy-2021.json`.
+
+<img class="aligncenter size-full wp-image-7365" src="https://cfi.co/awards/wp-content/uploads/2020/05/Tirelli.jpg" alt="Tirelli" width="500" height="164" />
+<p style="text-align: justify;">The motto of Milan-based Tirelli &amp; Partners, a leading European name in luxury real estate, is: “Every day we unlearn to better learn”. The maxim illustrates the company’s absolute commitment to innovation – but that ambition was tested when the Covid-19 pandemic hit Italy in early 2020. Company founder, Marco Tirelli remained sanguine. While viewings were closed down, Tirelli &amp; Partners concentrated on staying connected to clients, using cutting-edge video and web technology to keep the wheels turning. Marco Tirelli, in a US radio interview in March 2020, said: “We are not in the real estate business, we’re in the human relationship business.” The company has a progressive approach to business – putting honesty, transparency and integrity at the core of its operations. Tirelli &amp; Partners, in business for almost 35 years, was the first estate agency in Italy to obtain Benefit Corporation (B Corp) certification, joining a global list of more than 3,000 businesses, across 150 industries in 70 countries, who have chosen to commit to being a positive force for change. Tirelli achieved this accolade for its pledge to aspire to more than profit margins, following instead a “non-extractive” business model that safeguards the environment and provides shared benefits for all. Business priorities have been redefined – it’s not just about profit, but choosing to focus on the well-being of people, social cohesion and the regeneration of natural environments. For the second year in succession, the Cfi.co judges are pleased to declare Tirelli &amp; Partners the 2021 winner of the Best Exclusive Residential Property Consultancy Italy award.</p>
