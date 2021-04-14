@@ -1,0 +1,23 @@
+---
+id: 9027
+title: "Hemisfério Sul Investimentos (HSI): Best Real Estate Private Equity Investor Brazil 2021"
+award_year: 2021
+published: 2021-04-14 14:00:51
+published_gmt: 2021-04-14 13:00:51
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2021/hemisferio-sul-investimentos-hsi-best-real-estate-private-equity-investor-brazil-2021/"
+categories: ["Finance", "Latin America", "Real Estate"]
+content_sha256: c4985f63ac4fdb14d996b5db1a34b5ebf0dfbf0e033b0c6d8a30f5e71f3e7072
+canonical: 9027-hemisferio-sul-investimentos-hsi-best-real-estate-private-equity-investor-brazil.json
+---
+
+# Hemisfério Sul Investimentos (HSI): Best Real Estate Private Equity Investor Brazil 2021
+
+> Verbatim archived copy. Canonical machine record: `9027-hemisferio-sul-investimentos-hsi-best-real-estate-private-equity-investor-brazil.json`.
+
+<img class="aligncenter size-full wp-image-9028" src="https://cfi.co/awards/wp-content/uploads/2021/04/Hemisferio-Sul-Investimentos.jpg" alt="Hemisfério Sul Investimentos" width="500" height="210" />
+<p style="text-align: justify;"><strong>Good enough is not enough. These words greet any new employee arriving at Hemisfério Sul Investimentos’ São Paulo headquarters. HSI is Latin America’s largest private equity real estate management business and has a well-defined business strategy constructed under this adage. And though the work is exacting, the majority of senior employees have been with HSI for most of its existence.</strong></p>
+<p style="text-align: justify;">The company believes that proactivity is the key to achieving quality investment returns. The leadership consists of a core of experienced professionals with a combined 298 years of knowledge and experience in the sector. The management team prides itself on rising to new challenges and always seeking to improve.</p>
+<p style="text-align: justify;">The team puts great weight on its core values: integrity, agility, diligence, and restless curiosity while aiming to resolve challenges with speed and simplicity. Invariably, this involves innovative solutions, and the strategy is working. HSI has raised $5bn in commitments and has returned $2.6bn to investors since its inception. According to CEO Maximo Lima, the team strives to “go the extra mile” in order to create value and exceed the expectations of both investors and partners.</p>
+<p style="text-align: justify;">HSI attracts long-term investors to Brazil from across the globe, including the USA, Germany, Switzerland, Singapore, and the UAE. HSI aims to provide top tier returns, achieved through the coordinated action of the entire organisation. By developing optimal strategies for investors, HSI’s experienced management team unlocks growth while mitigating risk.</p>
+<p style="text-align: justify;">The Cfi.co judging panel is pleased to present Hemisfério Sul Investimentos with the 2021 award for Best Real Estate Private Equity Investor Brazil.</p>
