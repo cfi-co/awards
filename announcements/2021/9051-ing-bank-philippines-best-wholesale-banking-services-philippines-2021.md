@@ -1,0 +1,19 @@
+---
+id: 9051
+title: "ING Bank (Philippines): Best Wholesale Banking Services Philippines 2021"
+award_year: 2021
+published: 2021-04-19 11:43:01
+published_gmt: 2021-04-19 10:43:01
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2021/ing-bank-philippines-best-wholesale-banking-services-philippines-2021/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: 6efb2e13ea70078e365b9082dfc8aa3895f8e9251e6ed1e03a369d89de97e290
+canonical: 9051-ing-bank-philippines-best-wholesale-banking-services-philippines-2021.json
+---
+
+# ING Bank (Philippines): Best Wholesale Banking Services Philippines 2021
+
+> Verbatim archived copy. Canonical machine record: `9051-ing-bank-philippines-best-wholesale-banking-services-philippines-2021.json`.
+
+<img class="aligncenter wp-image-9052 size-full" title="ING Bank Philippines " src="https://cfi.co/awards/wp-content/uploads/2021/04/ING.jpg" alt="ING Bank Philippines " width="500" height="131" />
+<p style="text-align: justify;">ING Bank (Philippines) has been providing wholesale banking services in the Philippines since 1990. Since that time, it has built up an outstanding track record in helping local and foreign companies. For example, it has participated in a diverse range of capital raising from plain vanilla bonds and note programs to landmark <a href="https://cfi.co/tag/esg/">ESG</a> financing for corporations and financial institutions. Its extensive range of services also includes advisory on prominent local M&amp;As, structured finance, corporate lending, foreign exchange and derivatives. These are provided by a dedicated team of local and international experts and product specialists who tailor every solution to the exact needs of their clients. Clients also benefit from ING’s presence in over 40 countries around the world. <a href="https://ing.com.ph/home" target="_blank" rel="noopener">ING</a> has also shown a strong commitment to product and market development in the Philippines. In 1996, it was the first foreign bank in the Philippines to receive a universal banking license. In November 2018, it launched an all-digital retail banking platform. The platform is available as a mobile app and makes banking clear and easy. Features include facial recognition technology and instant money transfers. The CFI.co judges also note ING’s leading example on the CSR front. This includes the current partnership with UNICEF in the “<a href="https://www.fintechforimpact.com/" target="_blank" rel="noopener">Fintech for Impact</a>” program. ING has been lauded by the local trade press and industry bodies many times over the years and now the CFI.co judging panel is delighted to bestow another accolade: ING Bank (Philippines) the 2021 award Best Wholesale Banking Services (Philippines).</p>
