@@ -1,0 +1,19 @@
+---
+id: 9064
+title: "PCP (P Capital Partners): Best Private Credit Partner Northern Europe 2021"
+award_year: 2021
+published: 2021-04-21 16:08:41
+published_gmt: 2021-04-21 15:08:41
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/pcp-p-capital-partners-best-private-credit-partner-northern-europe-2021/"
+categories: ["Europe", "Finance"]
+content_sha256: f97451955631510b626ebb9dbef751c8fb1c5832232dcd7bfac1893830d8933d
+canonical: 9064-pcp-p-capital-partners-best-private-credit-partner-northern-europe-2021.json
+---
+
+# PCP (P Capital Partners): Best Private Credit Partner Northern Europe 2021
+
+> Verbatim archived copy. Canonical machine record: `9064-pcp-p-capital-partners-best-private-credit-partner-northern-europe-2021.json`.
+
+<img class="aligncenter size-full wp-image-9065" src="https://cfi.co/awards/wp-content/uploads/2021/04/PCP.jpg" alt="PCP" width="500" height="187" />
+<p style="text-align: justify;">PCP is a leading example of how a credit partner can be a key strategic partner for its clients while generating higher returns for investors. Founded in 2002 by its management team and Proventus AB, PCP is an active credit investor and loan provider to mid-sized companies in Northern Europe, the Nordics and Iceland. It builds on Proventus’ 60 years of experience in working with family companies, entrepreneurs, and privately owned businesses. PCP takes pride in building strategic relationships with these companies and providing them with creative funding solutions. It provides funding for capital expansion, acquisitions, restructuring and refinancing. It excels in creating low-risk structures in complex situations and in helping worthy companies too often ignored by traditional finance providers. PCP raises capital for its funds by issuing debenture notes to external investors. As an active strategic partner, it helps clients develop coherent strategic plans and provides incentives for their fulfillment in addition to traditional loan conditions. Since 2002, PCP has invested in over 130 companies and has raised over €4.3bn for its clients. The CFI.co judging panel also notes its high ESG standards in its company analysis and its long track record with companies in the wind power, solar power, biogas, waste and sustainable foods industries. Given its outstanding excellence and service to its unique client base, the panel is pleased to award PCP winner of the 2021 Best Private Credit Partner (Northern Europe).</p>
