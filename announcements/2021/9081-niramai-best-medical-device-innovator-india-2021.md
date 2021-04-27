@@ -1,0 +1,19 @@
+---
+id: 9081
+title: "NIRAMAI: Best Medical Device Innovator India 2021"
+award_year: 2021
+published: 2021-04-27 09:27:50
+published_gmt: 2021-04-27 08:27:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2021/niramai-best-medical-device-innovator-india-2021/"
+categories: ["Asia Pacific", "Industries", "Technology"]
+content_sha256: dee4cb4a15119015e050efd02dd7139938f53f70c0035c72ed61633c08eb40f5
+canonical: 9081-niramai-best-medical-device-innovator-india-2021.json
+---
+
+# NIRAMAI: Best Medical Device Innovator India 2021
+
+> Verbatim archived copy. Canonical machine record: `9081-niramai-best-medical-device-innovator-india-2021.json`.
+
+<img class="aligncenter size-full wp-image-9082" src="https://cfi.co/awards/wp-content/uploads/2021/04/Niramai.jpg" alt="Niramai" width="500" height="166" />
+<p style="text-align: justify;">Technological innovation has chipped away at the limitations of the medical profession for centuries, but NIRAMAI believes that AI advancements will be the industry gamechanger. The Bangalore-based deep-tech start-up’s acronymic title stands for Non-Invasive Risk Assessment with Machine Intelligence. It is dedicated to fighting breast cancer, which is the leading cause of cancer deaths in women. The World Health Organisation warns that one in every 12 women is at risk of breast abnormalities at some stage of life, and early diagnosis is crucial. NIRAMAI focuses on the key limitations of traditional detection methods. MRI machinery is cumbersome and expensive, X-ray scans cause incremental, cumulative health damage, and the entire process is at-best uncomfortable and embarrassing for the patient. The company addresses these shortfalls with an AI-powered solution. It has developed portable diagnostic cubicles that promise privacy and accuracy. NIRAMAI stands behind its product and procedures, which have delivered excellent results in reducing screening costs while amplifying detection parameters. It uses patented AI and machine-learning algorithms to create thermal-analytics-based diagnostic tools. The multi-use system enables early-stage detection of health conditions, as well as large-scale screenings. The company is proud to see that the investments it has made in research, data and technology are paying dividends in terms of revenue as well as health outcomes. The CFI.co judging panel presents NIRAMAI, a patent holder in 10 global territories, with the 2021 award for Best Medical Device Innovator (India).</p>
