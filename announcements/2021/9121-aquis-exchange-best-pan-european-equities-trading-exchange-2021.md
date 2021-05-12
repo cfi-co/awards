@@ -1,0 +1,19 @@
+---
+id: 9121
+title: "Aquis Exchange: Best Pan-European Equities Trading Exchange 2021"
+award_year: 2021
+published: 2021-05-12 07:34:34
+published_gmt: 2021-05-12 06:34:34
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/aquis-exchange-best-pan-european-equities-trading-exchange-2021/"
+categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_sha256: 8613777ab1a128888f2afa6f55ae051ecc7fec7187bd3197372b05ef2d047422
+canonical: 9121-aquis-exchange-best-pan-european-equities-trading-exchange-2021.json
+---
+
+# Aquis Exchange: Best Pan-European Equities Trading Exchange 2021
+
+> Verbatim archived copy. Canonical machine record: `9121-aquis-exchange-best-pan-european-equities-trading-exchange-2021.json`.
+
+<img class="aligncenter size-full wp-image-7612" src="https://cfi.co/awards/wp-content/uploads/2020/06/Aquis.jpg" alt="Aquis" width="400" height="129" />
+<p style="text-align: justify;">European investors and businesses will doubtless have heard of Aquis Exchange. It was the first European trading venue to introduce a subscription pricing model, and is the sixth-largest exchange in Europe for intra-day trading operations. But even institutional investors may have yet to learn of its latest tech advances. The company’s dedicated division, Aquis Technologies, develops and markets cloud-powered solutions, including <a href="https://cfi.co/finance/2023/06/aquis-exchange-ultra-low-latency-cloud-24-7-matching-engine/">high-capacity matching engines</a> and trade surveillance systems. Aquis Exchange is authorised and regulated by the financial authorities of the UK and France to operate as a multilateral trading facility in 15 European markets. It has changed the investment rules to prevent aggressive, non-client proprietary trading. It operates lit order books and clients are charged according to a subscription plan based on messaging traffic, rather than securities value. These pioneering tactics result in cost-effective trading and high-touch liquidity. Independent analysis has determined that the firm offers low toxicity and signalling risk. The company’s newly acquired primary listing business, Aquis Stock Exchange, allows growth companies to raise capital and both retail and institutional investors to trade shares. The CFI.co judging panel presents <a href="https://cfi.co/2023/04/aquis-exchange-adrian-ip-equinox">Aquis Exchange</a>, a tech-driven disruptor, with the 2021 award for Best Pan-European Equities Trading Exchange.</p>
