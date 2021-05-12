@@ -1,0 +1,19 @@
+---
+id: 9129
+title: "QNB ALAHLI: Best SME Bank and Best Retail Bank Egypt 2021"
+award_year: 2021
+published: 2021-05-12 08:40:30
+published_gmt: 2021-05-12 07:40:30
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2021/qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2021/"
+categories: ["Africa", "Banking", "Middle East", "Retail"]
+content_sha256: af03d448fd01148c6163115e0536919257e4c13cecad7832b9f52331862491b8
+canonical: 9129-qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2021.json
+---
+
+# QNB ALAHLI: Best SME Bank and Best Retail Bank Egypt 2021
+
+> Verbatim archived copy. Canonical machine record: `9129-qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2021.json`.
+
+<img class="aligncenter size-full wp-image-5448" src="https://cfi.co/awards/wp-content/uploads/2018/04/QNB.jpg" alt="QNB" width="400" height="154" />
+<p style="text-align: justify;">Over the past four decades, QNB ALAHLI has solidified a leading market position as a specialised financial partner for retail and business clients —and the second-largest private bank in Egypt. It has attracted more than 1.2 million clients, offering a digital banking platform paired with high standards of governance, transparency and disclosure. Clients can have secure, on-demand account access, or personal assistance from one of the 6,686 QNB Alahi representatives. The network includes 231 branches, 611 ATMs and more than 54,000 point-of-sale (POS) devices. It also runs a 24/7 call centre to ensure customer concerns are swiftly resolved. QNB ALAHLI offers retail and business banking solutions, including savings and current accounts, loans and credit lines, payroll services and specialised SME packages. It supports micro-enterprises with preferential financing solutions designed for pharmacies, manufacturers, contractors and POS merchants. QNB ALAHLI sees SMEs as crucial to economic growth, and launched a “fast injection” lending programme to provide them with working capital and medium-term facilities with reduced processing time. QNB ALAHLI is proud to report good results for 2020 including a seven percent growth in retail. SME business grew by almost a quarter (confirming the bank’s position as market leader). The CFI.co judging panel has once again found cause for recognition, and presents QNB ALAHLI, a repeat programme winner, with the 2021 awards for Best SME Bank and Best Retail Bank (Egypt).</p>
