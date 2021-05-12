@@ -1,0 +1,19 @@
+---
+id: 9119
+title: "IBM: Best Investor Relations United States 2020"
+award_year: 2021
+published: 2021-05-12 07:32:50
+published_gmt: 2021-05-12 06:32:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2021/ibm-best-investor-relations-united-states-2020/"
+categories: ["North America", "Technology"]
+content_sha256: eba0110f1fc8cdc1bb27e4b18c22a58b6972abcf25bbe6ee912c3d2a1831c169
+canonical: 9119-ibm-best-investor-relations-united-states-2020.json
+---
+
+# IBM: Best Investor Relations United States 2020
+
+> Verbatim archived copy. Canonical machine record: `9119-ibm-best-investor-relations-united-states-2020.json`.
+
+<img class="aligncenter size-full wp-image-7143" src="https://cfi.co/awards/wp-content/uploads/2020/01/IBM.jpg" alt="IBM" width="318" height="131" />
+<p style="text-align: justify;">IBM was aware of the importance of shareholder engagement long before it became an accepted business convention. While many listed companies confine their encounters with investors to the proxy season, for IBM it’s a year-round activity. The company, founded in 1911, is now a multinational tech business with headquarters in New York and operations in 170 countries. And at the core of its business is a commitment to keep investors informed of its ambitions, and dealing with their questions in an open and transparent manner. In 2017 the company embarked on a rigorous off-season campaign of engagement with its shareholders, ensuring the company’s direction was evident. In 2020 it began this process just two weeks after the proxy meeting. IBM’s investor relations team believes that by doing so, it improved communications significantly, identifying issues of most concern to investors. The team has been able, for instance, to recognise a growing interest in environmental and social issues. IBM is steering away from computers and operation system software into higher growth areas - hybrid cloud and AI – and believes it has laid the foundations for a new era of technology and business. Since 2012 it has invested $120bn into a transformation strategy and has acquired businesses which reflect this direction. At the same time, the company has returned $97bn to shareholders. But it’s for the company’s far-sighted awareness of the importance of investor relations that the judging panel is pleased to present IBM with the 2020 award: Best Investor Relations United States.</p>
