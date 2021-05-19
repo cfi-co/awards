@@ -1,0 +1,26 @@
+---
+id: 9222
+title: "Co-op Legal Services: Best Estate Administration & Probate Services Provider UK 2021"
+award_year: 2021
+published: 2021-05-19 09:54:31
+published_gmt: 2021-05-19 08:54:31
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/co-op-legal-services-best-estate-administration-probate-services-provider-uk-2021/"
+categories: ["Europe", "Legal", "Professional Services"]
+content_sha256: 7d5c73ab006d5706028996fed2f90589db1b14fd079b12ff49da02f92ef37209
+canonical: 9222-co-op-legal-services-best-estate-administration-probate-services-provider-uk-202.json
+---
+
+# Co-op Legal Services: Best Estate Administration & Probate Services Provider UK 2021
+
+> Verbatim archived copy. Canonical machine record: `9222-co-op-legal-services-best-estate-administration-probate-services-provider-uk-202.json`.
+
+<img class="aligncenter size-full wp-image-9455" src="https://cfi.co/awards/wp-content/uploads/2021/05/Co-op-Legal-Services.jpg" alt="Co-op Legal Services" width="500" height="179" />
+<p style="text-align: justify;"><strong>Co-op Legal Services became the first alternative business structure (ABS) in the UK in 2012 and has long been established as a market leader in probate.</strong></p>
+<p style="text-align: justify;">Part of Co-op Group, it invests in leading-edge tech and digital services to optimise financial outcomes in estate planning and administration. Most people don’t understand the law surrounding probate and estate cases and therefore miss out on improving financial outcomes— something the firm aims to rectify through interactive digital services.</p>
+<p style="text-align: justify;">Prospective clients complete an online questionnaire to receive free legal advice on standard and trust wills. Co-op Legal Services has created digital diagnostics for legal advice, including a calculator for those considering a trust will. It complements this with supporting info-graphics to explain the lay of the legal land.</p>
+<p style="text-align: justify;">It offers free advice through an innovative, market leading digital interactive, about the necessary steps to take in the case of the death of a loved one, including dates and deadlines, and ways the firm can help clients achieve quick settlement.</p>
+<p style="text-align: justify;">Co-op Legal Services has 600 employees at offices in Manchester, Bristol, Stratford-upon-Avon, Sheffield and London. Solicitors offer assistance on the more challenging moments in their clients’ lives. They help with probate and estate administration, family law and divorce, will-creation, conveyancing and employment law.</p>
+<p style="text-align: justify;">Clients can choose between fixed or flexible-pricing schemes, while the majority of personal injury claims follow a “no win, no fee, no risk” format.</p>
+<p style="text-align: justify;">The company consistently receives high rankings from clients on Trustpilot. Co-op Legal Services is entrusted with over £1.5bn in estates annually.</p>
+<p style="text-align: justify;">The CFI.co judging panel presents Co-op Legal Services — a repeat programme winner — with the 2021 award for Best Estate Administration &amp; Probate Services Provider (UK).</p>
