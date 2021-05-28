@@ -1,0 +1,19 @@
+---
+id: 9244
+title: "BancSabadell d’Andorra: Best Asset Management Solutions Andorra 2021"
+award_year: 2021
+published: 2021-05-28 12:25:13
+published_gmt: 2021-05-28 11:25:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/bancsabadell-dandorra-best-asset-management-solutions-andorra-2021/"
+categories: ["Asset Management", "Banking", "Europe", "Finance"]
+content_sha256: ecbad0d0b5bacdbb79f2693e723e6f4013f5322a5df744e755ccfbefe325c8a5
+canonical: 9244-bancsabadell-dandorra-best-asset-management-solutions-andorra-2021.json
+---
+
+# BancSabadell d’Andorra: Best Asset Management Solutions Andorra 2021
+
+> Verbatim archived copy. Canonical machine record: `9244-bancsabadell-dandorra-best-asset-management-solutions-andorra-2021.json`.
+
+<img class="aligncenter size-large wp-image-9245" src="https://cfi.co/awards/wp-content/uploads/2021/05/BancSabadell-dAndorra-1024x680.jpg" alt="BancSabadell-dAndorra" width="900" height="598" />
+<p style="text-align: justify;">BancSabadell d’Andorra (BSA) is a full-service bank that continues to impress with its innovation in asset management and gravitas in governance. It was founded in 2000 by an alliance between Spanish bank Banco Sabadell and a group of local business owners. This mix of owners is a genuine strength. It provides BSA with the highest of prudential and operational standards mixed with local Andorran acumen. The investment team works closely with the investment committee of Banco Sabadell group and clients. Through these relationships and its understanding of the local, European and global markets, the team continues to innovate with its funds. Last year it developed a sustainability fund and opened a technological fund for retail investors both with significant success. Now it is working on a fund focused on emerging markets in Asia and beyond. These are on top of its existing funds that are already extensive in their offerings. Asset classes include short-term cash investments, fixed-income, and equities. The equity funds focus on Europe, America, and new technologies. BSA also prides itself on its commitment to customer service, and there have been regular and helpful improvements. It is also committed to high ethical standards and is proud to have not incurred any sanctions during its existence, which are often the bane of small financial jurisdictions. The CFI.co judging panel is pleased to award <a href="https://cfi.co/menu/corporate/2021/06/bancsabadell-dandorra-top-performing-funds-for-a-sustainable-and-innovative-future/">BancSabadell d’Andorra</a> winner of the 2021 Best Asset Management Solutions (Andorra).</p>
