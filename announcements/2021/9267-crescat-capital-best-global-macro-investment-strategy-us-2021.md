@@ -1,0 +1,20 @@
+---
+id: 9267
+title: "Crescat Capital: Best Global Macro Investment Strategy US 2021"
+award_year: 2021
+published: 2021-06-15 10:12:43
+published_gmt: 2021-06-15 09:12:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2021/crescat-capital-best-global-macro-investment-strategy-us-2021/"
+categories: ["Finance", "North America"]
+content_sha256: 40dfee86afd525c6e101daf47b9977f0e0878ab44d5cdb5a18b5f5d6f5129150
+canonical: 9267-crescat-capital-best-global-macro-investment-strategy-us-2021.json
+---
+
+# Crescat Capital: Best Global Macro Investment Strategy US 2021
+
+> Verbatim archived copy. Canonical machine record: `9267-crescat-capital-best-global-macro-investment-strategy-us-2021.json`.
+
+<img class="aligncenter size-large wp-image-9574" src="https://cfi.co/awards/wp-content/uploads/2021/06/Crescat-Capital-1-1024x610.jpg" alt="Crescat Capital" width="900" height="536" />
+<p style="text-align: justify;">Global financial markets often focus on exploitable inefficiencies, and Crescat Capital develops macro-economic models to turn those inefficiencies into profits. The Colorado-based firm traces roots back to 1999, when its founder and chief investment officer, Kevin Smith, launched his first discretionary managed account strategy. This formed the bedrock of Crescat Capital’s modus operandum. The firm’s core strengths are macro-economic research and modelling, and pursuing these themes has proven successful. Equity and macro models identify overlooked opportunities and yield data insights on market trends. Crescat Capital has assembled a niche team of industry professionals to assess the markets, build and refine the models, and present a transparent narrative to clients. The company believes its robust and repeatable investment process can deliver strong absolute and risk-adjusted returns over the long-term. Crescat’s value-driven models and prudent risk management allow it to anticipate and capitalise on global events. It embraces volatility as an opportunity to initiate long positions at the lowest price points. The company has an active social media presence and publishes regular research briefings. Crescat Capital funds were ranked in the top 10 of 2020 by Bloomberg — validation of the efficacy of its Covid response strategies, which included weighted investments in precious metals for capital preservation. Crescat points to an increasing wealth in the bottom half of the economic bracket, fuelled by a ramp-up in consumer spending. The CFI.co judging panel presents Crescat Capital with the 2021 Best Global Macro Investment Strategy (US) award.</p>
+<img class="aligncenter size-medium wp-image-9268" src="https://cfi.co/awards/wp-content/uploads/2021/06/Crescat-Capital-300x111.jpg" alt="Crescat-Capital" width="300" height="111" />
