@@ -1,0 +1,19 @@
+---
+id: 9287
+title: "Maybank Kim Eng: Best Capital Markets Brokerage South East Asia 2021"
+award_year: 2021
+published: 2021-06-28 09:30:47
+published_gmt: 2021-06-28 08:30:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2021/maybank-kim-eng-best-capital-markets-brokerage-south-east-asia-2021/"
+categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_sha256: 97795bc48f5d5e7cbbbfdbcc8e52528cdbb4d392eb30eb4ccb3bf350da4ec5bb
+canonical: 9287-maybank-kim-eng-best-capital-markets-brokerage-south-east-asia-2021.json
+---
+
+# Maybank Kim Eng: Best Capital Markets Brokerage South East Asia 2021
+
+> Verbatim archived copy. Canonical machine record: `9287-maybank-kim-eng-best-capital-markets-brokerage-south-east-asia-2021.json`.
+
+<img class="aligncenter wp-image-9288 size-full" src="https://cfi.co/awards/wp-content/uploads/2021/06/Maybank-Kim-Eng.jpg" alt="Maybank Kim Eng" width="500" height="193" />
+<p style="text-align: justify;">The brokerage market in Thailand is fragmented, with small market shares divided between about 40 brokers. It’s an industry plagued by high personnel turnover, but over half the staff at Thai broker Maybank Kim Eng have been part of the team for at least 15 years — some of them for more than 20. The firm is a subsidiary of Maybank, a Malaysian state-owned banking giant. Maybank Kim Eng has turned a corner after a difficult four-year period that included a drop in revenue. The broker kept morale high throughout by prioritising people over profit and cultivating long-term relationships. It continued paying out staff bonuses throughout the hard times. It has built a sizable customer base — 150,000 traders strong — including many high-net-worth clients. Maybank Kim Eng focuses on anticipating customer needs rather than pushing products, and claims to have the top research team in Thailand. It values diversity, with women representing 57 percent of staff, and aims to extend gender balance to the executive level. Maybank Kim Eng has flown under the CFI radar in the past, but its ambitious digital transformation, willingness to embrace change and ability to evolve with customer needs have brought it to the judges’ attention. It leads by example, with strict codes of conduct and a focus on promoting ESG investing in the region. The CFI.co judging panel congratulates Maybank Kim Eng on winning the 2021 award for Best Capital Markets Brokerage (South East Asia).</p>
