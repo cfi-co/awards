@@ -1,0 +1,19 @@
+---
+id: 9295
+title: "WEC Energy Group: Best ESG Growth Strategy United States 2021"
+award_year: 2021
+published: 2021-06-29 08:36:56
+published_gmt: 2021-06-29 07:36:56
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2021/wec-energy-group-best-esg-growth-strategy-united-states-2021/"
+categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "North America", "Sustainability"]
+content_sha256: fd04e2979f20483a605e2b48465d0124cd137945a96f4ff0d0a5483e8c82f8b6
+canonical: 9295-wec-energy-group-best-esg-growth-strategy-united-states-2021.json
+---
+
+# WEC Energy Group: Best ESG Growth Strategy United States 2021
+
+> Verbatim archived copy. Canonical machine record: `9295-wec-energy-group-best-esg-growth-strategy-united-states-2021.json`.
+
+<img class="aligncenter size-full wp-image-9298" src="https://cfi.co/awards/wp-content/uploads/2021/06/WEC.jpg" alt="WEC" width="500" height="150" />
+<p style="text-align: justify;">From its base on the shores of Lake Michigan,  WEC Energy Group is rapidly moving towards a bright, sustainable future. WEC Energy Group didn’t simply adopt ESG goals, it fixed them firmly at the core of its operations in America’s heartland. The company, founded in 1896 as the Milwaukee Electric Railway and Light Company, is now one of the  largest electricity generation and natural gas companies in the United States, providing energy to some 4.6 million customers across the Midwest. The company is committed to cleaner energy and recognises the reduction of emissions as an essential part of its strategy. WEC Energy Group plans to reduce carbon dioxide emissions by 60 percent by 2025, 80 percent by the end of 2030 — and to make its electric generation fleet carbon-neutral by 2050. The group also plans to achieve net-zero methane emissions from its natural gas distribution system by the end of 2030. In 2019, WEC announced a new ESG strategy. The $16bn plan, the largest five-year capital plan in the company’s history, includes new investment in solar, wind, battery storage and efficient natural gas generation. It is expected to cut emissions while maintaining reliability and delivering savings to customers. In 2020, it was named one of America’s most responsible companies. WEC Energy Group’s focus is on investing in cost-effective renewables, while retiring less efficient fossil fuel units and improving its natural gas distribution system. The judging panel recognises WEC’s commitment to ESG goals, and is pleased to present the 2021 award: Best ESG Growth Strategy (United States).</p>
