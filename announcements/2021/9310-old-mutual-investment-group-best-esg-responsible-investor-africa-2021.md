@@ -1,0 +1,19 @@
+---
+id: 9310
+title: "Old Mutual Investment Group: Best ESG Responsible Investor Africa 2021"
+award_year: 2021
+published: 2021-07-05 11:33:27
+published_gmt: 2021-07-05 10:33:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2021/old-mutual-investment-group-best-esg-responsible-investor-africa-2021/"
+categories: ["Africa", "Best Practice", "CSR", "Corporate Governance", "Finance", "Sustainability"]
+content_sha256: a9b1fa83f7de61435281b1ace03eab913335af783508573e107b2d01a39c2f1f
+canonical: 9310-old-mutual-investment-group-best-esg-responsible-investor-africa-2021.json
+---
+
+# Old Mutual Investment Group: Best ESG Responsible Investor Africa 2021
+
+> Verbatim archived copy. Canonical machine record: `9310-old-mutual-investment-group-best-esg-responsible-investor-africa-2021.json`.
+
+[caption id="attachment_9311" align="aligncenter" width="472"]<img class="wp-image-9311 size-full" title="Old Mutual Investment Group Managing Director: Tebogo Naledi" src="https://cfi.co/awards/wp-content/uploads/2021/07/Tebogo-Naledi-MD-Old-Mutual-Investment-Group.jpg" alt="Old Mutual Investment Group Managing Director: Tebogo Naledi" width="472" height="657" /> <strong>Managing Director of Old Mutual Investment Group:</strong> Tebogo Naledi[/caption]
+<p style="text-align: justify;">Old Mutual Investment Group forms part of an organisation with a 175-year history in South Africa. The multi-boutique investment house oversees listed equity AUM for parent company <a href="https://www.oldmutual.com/" target="_blank" rel="noopener">Old Mutual Ltd</a> and offers solutions for institutional and individual investors. Old Mutual Investment Group believes responsible investing to be a moral imperative as well as an opportunity to gain a competitive business edge. This allows for the pursuit of delivering sustainable long-term returns for our clients, while being responsible stewards of the assets we manage. It integrates <a href="https://cfi.co/tag/esg/">ESG</a> factors throughout the decision-making process. Old Mutual Investment Group takes proactive stewardship of investments by exercising proxy voting rights to push for better ESG performance . Its investment products support economic growth aligned with socially inclusive, low-carbon and resource-efficient outcomes. In addition, clients gain exposure to renewable energy, land reform, affordable education, and gap housing through the group's private market affiliates. Old Mutual Investment Group develops investment solutions using hard exclusions based on ESG leadership indices and Shariah investment principles. It offers equity guidance through its proprietary ESG profile-scoring system - and targets a 20 percent improvement in those scores and a 40 percent reduction in carbon intensity. Old Mutual Investment Group has a partnership mindset and strives to increase the size the entire pie, not just its own slice. The CFl.co judging panel presents Old Mutual Investment Group with the 2021 award for Best ESG Responsible Investor (Africa).</p>
