@@ -1,0 +1,19 @@
+---
+id: 9361
+title: "Nepal SBI Bank Ltd.: Best Corporate Banking Solutions Nepal 2021"
+award_year: 2021
+published: 2021-07-07 16:40:03
+published_gmt: 2021-07-07 15:40:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2021/nepal-sbi-bank-ltd-best-corporate-banking-solutions-nepal-2021/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: 8aa1b148b65bcb68fcbcd3d2e2d90da2ae6c4637500f598cf59a36a75b655d33
+canonical: 9361-nepal-sbi-bank-ltd-best-corporate-banking-solutions-nepal-2021.json
+---
+
+# Nepal SBI Bank Ltd.: Best Corporate Banking Solutions Nepal 2021
+
+> Verbatim archived copy. Canonical machine record: `9361-nepal-sbi-bank-ltd-best-corporate-banking-solutions-nepal-2021.json`.
+
+[caption id="attachment_9509" align="aligncenter" width="900"]<img class="size-large wp-image-9509" src="https://cfi.co/awards/wp-content/uploads/2021/07/Senior-Management-Team-Nepal-SBI-Bank-Ltd-1024x775.jpg" alt="Nepal-SBI-Bank-Senior-Management-Team" width="900" height="681" /> <strong>Nepal SBI Bank:</strong> Senior Management Team[/caption]
+<p style="text-align: justify;">Nepal SBI Bank Ltd. (NSBL), established in 1993, offers all the amenities of a regular financial institution – plus e-banking, mobile banking, SMS banking and online ticket bookings. It provides private and public sector clients with funding solutions for operational requirements and expansion. It offers business loans to Corporates &amp; SMEs and tailored deposit accounts to suit customer needs. NSBL has 118 outlets covering 51 districts of Nepal and credits its impressive growth over a million deposit customers and 650,000 debit card holders. The bank’s digital platform clearly displays account information, merchant payment facilities, fund transfer transactions, notifications and QR payments. NSBL holds one of the lowest NPA with healthy investment portfolio performance and deposit balances. Corporate and institutional clients enjoy preferential interest rates on fixed deposit accounts, easy disbursement of salaries with various other significant facilities. NSBL provides digital platform to its corporate customer for various banking services for payments to its creditor/multiple creditors/import payments. NSBL intends to incorporate more Hydropower and Commercial Agriculture projects into its portfolio to become a major player in the green energy sector. It also works closely with the Local government to spur socio economic development as desired by Central Bank of Nepal. NSBL is a subsidiary of the State Bank of India (SBI), having a 55% stake. SBI has more than 214 years history, a global network with 22,000 branches in India and 233 offices in 32 countries. The remaining NSBL shares are split between local partners Employee Provident Fund and General Public. The CFI.co Judging panel presents Nepal SBI Bank Ltd with the 2021 award for Best Corporate Banking Solutions (Nepal).</p>
