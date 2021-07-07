@@ -1,0 +1,19 @@
+---
+id: 9343
+title: "FiduSMART: Best Audit & Tax Services Team Switzerland 2021"
+award_year: 2021
+published: 2021-07-07 16:29:35
+published_gmt: 2021-07-07 15:29:35
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/fidusmart-best-audit-tax-services-team-switzerland-2021/"
+categories: ["Consultancies", "Europe", "Professional Services"]
+content_sha256: 6a46cca9c9dcd8a27cab0ee749904a57a252c3922f8e7af525f8da3d02d80b2a
+canonical: 9343-fidusmart-best-audit-tax-services-team-switzerland-2021.json
+---
+
+# FiduSMART: Best Audit & Tax Services Team Switzerland 2021
+
+> Verbatim archived copy. Canonical machine record: `9343-fidusmart-best-audit-tax-services-team-switzerland-2021.json`.
+
+<img class="aligncenter size-full wp-image-9344" src="https://cfi.co/awards/wp-content/uploads/2021/07/FiduSMART.jpg" alt="FiduSMART" width="400" height="105" />
+<p style="text-align: justify;">FiduSMART has 10 years’ experience in global financial consultancy, and aims to provide entrepreneurs with services that create value and boost growth. The company is based in Switzerland and has a structured suite of offerings for tax optimisation, management consulting, controlling, accounting and fiduciary responsibilities. FiduSMART is capable of handling any tax situation: withholdings, VAT, international regulatory compliance, inheritance, donations, assets, family office services or business mergers, acquisitions, and sales of companies. The first steps in the management consulting process are to set objectives and sub-targets, then identify strengths, weaknesses, potential threats, and opportunities. Goals and initiatives are plotted onto a strategic map to provide a dashboard to track progress. These management tweaks have helped clients to increase revenues and profitability, innovate products, improve facilities, forge strategic partnerships, make operational efficiencies and embrace enhanced corporate culture. FiduSMART looks after the books so that businesses can look after the clients. Its accounting services include balance sheet analysis and liquidity plans on monthly, quarterly, half-yearly and annual bases. It assists with corporate domiciliation at home or abroad, and sets up holding and investee structures, mergers and demergers — as well as liquidations in bankruptcy cases. Fintech consulting is a rapidly growing segment of the FiduSMART business. Controlling consultancy services are geared towards best-cost analyses, flexible budgeting and lean management. The CFI.co judges present FiduSMART with the 2021 award for Best Audit &amp; Tax Services Team (Switzerland).</p>
