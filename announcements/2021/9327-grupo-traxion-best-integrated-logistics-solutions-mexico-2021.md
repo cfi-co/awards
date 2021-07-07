@@ -1,0 +1,19 @@
+---
+id: 9327
+title: "Grupo Traxion: Best Integrated Logistics Solutions Mexico 2021"
+award_year: 2021
+published: 2021-07-07 12:03:01
+published_gmt: 2021-07-07 11:03:01
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2021/grupo-traxion-best-integrated-logistics-solutions-mexico-2021/"
+categories: ["Industries", "Latin America", "Transport"]
+content_sha256: d81f773ef0c603553d739e9c8d20149f1c671a4e2339cc50674cd0fbf92a9473
+canonical: 9327-grupo-traxion-best-integrated-logistics-solutions-mexico-2021.json
+---
+
+# Grupo Traxion: Best Integrated Logistics Solutions Mexico 2021
+
+> Verbatim archived copy. Canonical machine record: `9327-grupo-traxion-best-integrated-logistics-solutions-mexico-2021.json`.
+
+<img class="aligncenter size-full wp-image-9328" src="https://cfi.co/awards/wp-content/uploads/2021/07/Traxion.jpg" alt="Traxion" width="400" height="103" />
+<p style="text-align: justify;">Over the past 65 years, Mexico’s Grupo Traxion has developed the infrastructure and partnerships to make it a leader in transportation and logistics services. In 2018, it acquired a packaging and courier company that transformed the scope of its services. The acquisition was stripped down and converted into an e-commerce operation — perfectly positioned to grow with the surge of online shopping during the pandemic. E-commerce accounted for a mere 2 percent of Grupo Traxion’s revenue pre-Covid; it now makes up 70 percent. The group took a conservative stance in 2020 and focused on running defence. It launched a logistics and tech innovation division that has allowed it to develop business lines and gain market share. Group revenue rose 172 percent in 2020, and logistics services were up 25 percent. The growth spurt was triggered and supported by natural market forces, and Grupo Traxion was quick to seize the opportunity. It launched a digital broker initiative to connect clients and third-party cargo service providers, with Traxion managing the connection, routing the trip, processing the payments and providing further logistics support. Grupo Traxion claims to be only company in Mexico capable of managing the country’s complete supply chain while making efficient use of the main infrastructure. The group anticipates future growth thanks to the ongoing global shift to e-commerce. The CFI.co judging panel presents Grupo Traxion, a repeat programme winner, with the 2021 award for Best Integrated Logistics Solutions (Mexico).</p>
