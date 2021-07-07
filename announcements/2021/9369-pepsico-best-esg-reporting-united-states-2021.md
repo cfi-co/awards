@@ -1,0 +1,19 @@
+---
+id: 9369
+title: "PepsiCo: Best ESG Reporting United States 2021"
+award_year: 2021
+published: 2021-07-07 16:44:58
+published_gmt: 2021-07-07 15:44:58
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2021/pepsico-best-esg-reporting-united-states-2021/"
+categories: ["Industries", "North America"]
+content_sha256: 50a163c12b52e4eb51925b76b8459a36b53077c88d5de00b0a0ed80504dc0834
+canonical: 9369-pepsico-best-esg-reporting-united-states-2021.json
+---
+
+# PepsiCo: Best ESG Reporting United States 2021
+
+> Verbatim archived copy. Canonical machine record: `9369-pepsico-best-esg-reporting-united-states-2021.json`.
+
+<img class="aligncenter size-full wp-image-9370" src="https://cfi.co/awards/wp-content/uploads/2021/07/PepsiCo.jpg" alt="PepsiCo" width="400" height="93" />
+<p style="text-align: justify;">In 2006 PepsiCo began a journey to transform the way it did business. While still committed to delivering strong financial returns, it recognised that the world’s needs were changing – and that the future of the company was inextricably linked to sustainability. Over the intervening years it has instilled Environmental, Social and Governance (ESG) values into every area of its business. And crucially, has worked to ensure that these aims and actions are open to scrutiny. A visitor to the company’s extensive website opens a door on to a vast array of ESG activity. It provides an interactive interface, dedicated to the disclosure of information, which outlines PepsiCo’s extensive sustainability goals, and its progress towards them across a range of areas. PepsiCo is one of the globe’s leading food and beverage companies, active in more than 200 countries. It has come a long way from its roots in North Carolina from where, in 1898, it sold its first bottles of Pepsi Cola in a drug store. Today its ESG values cover everything from agriculture and animal welfare to water, packaging and climate. While remaining true to its original motto of creating “more smiles with every sip”, the company is keen to let the world see that it is committed to “conserving nature’s precious resources and fostering a more sustainable planet for our children and grandchildren”. The CFI.co judges were impressed with the way PepsiCo has created an accessible gateway to its ESG strategy, and is pleased to present the company with the award Best ESG Reporting United States.</p>
