@@ -1,0 +1,19 @@
+---
+id: 9341
+title: "BlueRock Group: Best Boutique Real Estate Investment Solutions DACH 2021"
+award_year: 2021
+published: 2021-07-07 16:27:41
+published_gmt: 2021-07-07 15:27:41
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/bluerock-group-best-boutique-real-estate-investment-solutions-dach-2021/"
+categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_sha256: db59ca74d8918331ed2cf8119bf3f7673ecff88cef72433da370faf6a8bca705
+canonical: 9341-bluerock-group-best-boutique-real-estate-investment-solutions-dach-2021.json
+---
+
+# BlueRock Group: Best Boutique Real Estate Investment Solutions DACH 2021
+
+> Verbatim archived copy. Canonical machine record: `9341-bluerock-group-best-boutique-real-estate-investment-solutions-dach-2021.json`.
+
+<img class="aligncenter size-full wp-image-7849" src="https://cfi.co/awards/wp-content/uploads/2020/06/Blue-Rock-Group.jpg" alt="Blue-Rock-Group" width="378" height="181" />
+<p style="text-align: justify;">Since its 2011 launch, BlueRock Group has prioritised sustainability and applied due diligence to limit financial, technical, legal, and tax risks. The group has raised more than €300m in equity and invested €1.2bn in Germany. It is finalising two major projects: a large residential portfolio in Berlin and an office complex in Eschborn, just outside Frankfurt. Both present opportunities for institutional investors, wealth managers, family offices and high-net-worth individuals. BlueRock Group analyses real estate trends at the macro- and micro-economic level, then identifies promising opportunities. Berlin is an under-valued real estate market, with steady growth anticipated over coming decades. The firm negotiated a great deal in Berlin, securing an average price of €2,500/m2 — when the median runs more than double that. The competitive purchase prices and desirable locations make a strong case for capital protection. Asset sizes range from €3m to €10m. BlueRock Group plans to exit the portfolio in the third or fourth quarter of 2025. In the downside protection scenario, it would pursue unit-by-unit-sales over an eight-year term. BlueRock’s Eschborn portfolio features two recently renovated office buildings, with an occupancy rate of 85 percent and rental income upwards of €2m. Eschborn is a business-friendly city with lower tax rates than Frankfurt — which can be reached by rail in 15 minutes. The CFI.co judging panel presents BlueRock Group with the 2021 award for Best Boutique Real Estate Investment Solutions (DACH).</p>
