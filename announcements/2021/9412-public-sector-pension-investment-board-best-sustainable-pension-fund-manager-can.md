@@ -1,0 +1,19 @@
+---
+id: 9412
+title: "Public Sector Pension Investment Board: Best Sustainable Pension Fund Manager Canada 2021"
+award_year: 2021
+published: 2021-08-05 15:05:57
+published_gmt: 2021-08-05 14:05:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2021/public-sector-pension-investment-board-best-sustainable-pension-fund-manager-canada-2021/"
+categories: ["Asset Management", "Finance", "North America", "Sustainability"]
+content_sha256: c2e597cb394559f3c3ce4ac88aa5616df785abd25794984e468fdada5898a31e
+canonical: 9412-public-sector-pension-investment-board-best-sustainable-pension-fund-manager-can.json
+---
+
+# Public Sector Pension Investment Board: Best Sustainable Pension Fund Manager Canada 2021
+
+> Verbatim archived copy. Canonical machine record: `9412-public-sector-pension-investment-board-best-sustainable-pension-fund-manager-can.json`.
+
+<img class="aligncenter size-full wp-image-9413" src="https://cfi.co/awards/wp-content/uploads/2021/08/PSP-Investments.jpg" alt="PSP Investments" width="500" height="210" />
+<p style="text-align: justify;">The Public Sector Pension Investment Board (PSP Investments) is one of Canada’s largest pension investment managers. It manages a diversified global portfolio composed of investments in capital markets, private equity, real estate, infrastructure, natural resources, and credit investments. Established in 1999, PSP Investments manages and invests amounts transferred to it by the Government of Canada for the pension plans of the federal Public Service, the Canadian Forces, the Royal Canadian Mounted Police, and the Reserve Force. PSP Investments understands that the pursuit of generating returns must be balanced with ESG considerations – and sees this as an opportunity for collaboration. As of March 31, 2021, reports include C$204.5 billion of net assets under management, a one-year net portfolio return of 18.4%, and a five-year net annualized return of 9.3%. PSP engages with company boards and managers to promote good corporate governance practices and to encourage positive change. Along with seven leading pension fund managers, PSP Investments has issued a statement calling for the transparent and standardized disclosure of financially material sustainability data for informed decision-making. It has clearly defined ESG performance indicators and has developed an asset-level data-gathering tool to facilitate benchmarking and investment analysis. It launched a corporate governance dashboard to monitor activity and share insights. PSP Investments aims to scale success through knowledge-sharing and the adoption and achievement of science-based environmental objectives. It has developed a climate-change toolkit to help the evaluation of material ESG risks – and opportunities – at every stage of the investment process. The CFI.co judging panel recognizes Public Sector Pension Investment Board as an organization striving to create a more equitable, inclusive, and sustainable future. The panel presents the company with the 2021 award for Best Sustainable Pension Fund Manager (Canada).</p>
