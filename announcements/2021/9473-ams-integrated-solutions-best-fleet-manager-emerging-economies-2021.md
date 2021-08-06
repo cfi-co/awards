@@ -1,0 +1,19 @@
+---
+id: 9473
+title: "AMS Integrated Solutions: Best Fleet Manager Emerging Economies 2021"
+award_year: 2021
+published: 2021-08-06 14:53:24
+published_gmt: 2021-08-06 13:53:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/ams-integrated-solutions-best-fleet-manager-emerging-economies-2021/"
+categories: ["Development", "Industries", "Middle East", "Projects", "Transport"]
+content_sha256: cce10b62db6ffda682e8f15ea79d9a4aa06782e5d897d0ad1df0f5c4523fab2a
+canonical: 9473-ams-integrated-solutions-best-fleet-manager-emerging-economies-2021.json
+---
+
+# AMS Integrated Solutions: Best Fleet Manager Emerging Economies 2021
+
+> Verbatim archived copy. Canonical machine record: `9473-ams-integrated-solutions-best-fleet-manager-emerging-economies-2021.json`.
+
+<img class="aligncenter size-full wp-image-9474" src="https://cfi.co/awards/wp-content/uploads/2021/08/AMS-Integrated-Solutions.jpg" alt="AMS-Integrated-Solutions" width="400" height="211" />
+<p style="text-align: justify;">AMS Integrated Solutions started out in Kosovo in 2002. The firm has steadily established a presence across multiple continents by bringing international best practice to workforces in the communities where it operates. In most of the developed world, automotive parts are imported rather than made in-country. But in AMS markets, those parts are locally made by workers who have proved themselves to be true craftspeople. AMS keeps its focus on best practice and cultural integration, and its workers are carefully selected for their professional expertise and craftsmanship. AMS collaborates with clients to transform operations in a culturally sensitive manner. It standardises maintenance processes across locations and brings in skilled engineers to train regional workforces. It aims to reduce costs for end-users while building up the skillsets of locals who show passion, purpose and a thorough understanding of regional challenges. Governments, aid agencies and commercial clients trust AMS to provide reliable advice on job creation and the certification of skilled employees. The company delivers integrated solutions in project operations and support, software and data solutions, supply chain &amp; procurement and life support services across Asia, Africa, and the Middle East. It has proven its worth as a capable and trustworthy partner, combining local knowledge and cultural sensitivity to drive sustainable growth for its clients and communities. The CFI.co judging panel presents AMS Integrated Solutions with the 2021 award for Best Fleet Manager (Emerging Economies).</p>
