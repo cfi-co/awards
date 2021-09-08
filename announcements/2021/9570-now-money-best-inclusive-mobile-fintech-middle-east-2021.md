@@ -1,0 +1,19 @@
+---
+id: 9570
+title: "NOW Money: Best Inclusive Mobile FinTech Middle East 2021"
+award_year: 2021
+published: 2021-09-08 15:31:13
+published_gmt: 2021-09-08 14:31:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/now-money-best-inclusive-mobile-fintech-middle-east-2021/"
+categories: ["Finance", "Middle East", "Technology"]
+content_sha256: b88004a4d1c5453386d790e24f6655f930341e139a850f78a20f641efd9d1c21
+canonical: 9570-now-money-best-inclusive-mobile-fintech-middle-east-2021.json
+---
+
+# NOW Money: Best Inclusive Mobile FinTech Middle East 2021
+
+> Verbatim archived copy. Canonical machine record: `9570-now-money-best-inclusive-mobile-fintech-middle-east-2021.json`.
+
+<img class="aligncenter size-full wp-image-9571" src="https://cfi.co/awards/wp-content/uploads/2021/09/NOW-money.jpg" alt="NOW money" width="500" height="256" />
+<p style="text-align: justify;">Dubai-based fintech NOW Money is on a mission to empower the massive population of unbanked migrants workers in the Middle East. Migrant workers contribute to the development of their adopted countries and support their families by sending regular remittances back home. According to the data from the United Nations, there are millions of international migrant workers in the Gulf Cooperation Council (GCC) countries, accounting for an average of 70 percent of the region’s workforce. Low-income migrants typically have smartphones — but don’t earn enough money to meet the monthly minimum requirements for opening a bank account in the Middle East. NOW Money was founded in 2016 to ease these difficulties with a high-quality, low-cost digital solution. NOW Money works with companies to provide digital payroll and accounts solutions for their employees. Account holders receive their wages in a digital account and can use the associated debit card to make purchases, pay bills, top-up mobile phones and withdraw money at ATMs. The free account has no monthly minimums and can be accessed through the NOW Money app, which features an in-house exchange marketplace for sending remittances. The offering covers the value chain of corporate needs, which will soon expand to include corporate expense and commission accounts. This peer-to-peer service is addressing a pressing need and creating positive social impacts. NOW Money presents a strong case for a profitable business and has raised $7m in its latest funding round. The CFI.co judging panel announces NOW Money as the 2021 award winner for Best Inclusive Mobile FinTech (Middle East).</p>
