@@ -1,0 +1,23 @@
+---
+id: 9577
+title: "PAC Capital: Best Investment Banking Team Nigeria 2021"
+award_year: 2021
+published: 2021-09-13 12:27:03
+published_gmt: 2021-09-13 11:27:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2021/pac-capital-best-investment-banking-team-nigeria-2021/"
+categories: ["Africa", "Banking"]
+content_sha256: 30e7b36f9b24f4067550a6deb9d5e5402a84b2cf0c999d7c33aed01ed7aab234
+canonical: 9577-pac-capital-best-investment-banking-team-nigeria-2021.json
+---
+
+# PAC Capital: Best Investment Banking Team Nigeria 2021
+
+> Verbatim archived copy. Canonical machine record: `9577-pac-capital-best-investment-banking-team-nigeria-2021.json`.
+
+<img class="aligncenter size-full wp-image-9583" src="https://cfi.co/awards/wp-content/uploads/2021/09/PAC-Capital.jpg" alt="PAC Capital" width="500" height="184" />
+<p style="text-align: justify;"><strong>With headquarters in Nigeria and branch in Ghana, PAC Capital Limited “PAC Capital” aims to become the preferred investment bank for the African continent. The firm has positioned itself as a pan-African institution, working with private enterprises, government agencies, financial institutions and HNIs via collaborative partnerships.</strong></p>
+<p style="text-align: justify;">PAC Capital goes beyond advisory services to assist with the implementation of long-term financial support for local businesses. It values its people and invests in their continuous professional development. The inclusive work environment prioritises cultural diversity and multi-language proficiency.</p>
+<p style="text-align: justify;">PAC Capital provides opportunities for advancement with a management plan that includes clear metrics for accountability and performance.   The company’s investment banking team provides specialised finance advisory on fundraising as well as equity and debt capital markets. With a research department that supports operations through the ongoing and regular provision of market intelligence and insights, the company’s team is dedicated to bridge the funding gap by developing a comprehensive financing network that connects investors with worthy projects, particularly in the key sectors of the economy.</p>
+<p style="text-align: justify;">PAC Capital was ahead of the game when the spread of coronavirus forced a shift to remote working. Its staff regularly conduct business while on the road and in the air, and business has continued normally throughout the pandemic. The investment banking firm welcomes enquiries from experienced finance professionals, and offers new graduates the opportunity to apply their theoretical learning in a supportive environment.</p>
+<p style="text-align: justify;">The CFI.co judging panel presents PAC Capital, which has active transactions in 30 countries, with the 2021 award for Best Investment Banking Team (Nigeria).</p>
