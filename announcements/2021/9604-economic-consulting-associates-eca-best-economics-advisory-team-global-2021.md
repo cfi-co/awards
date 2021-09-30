@@ -1,0 +1,19 @@
+---
+id: 9604
+title: "Economic Consulting Associates (ECA): Best Economics Advisory Team Global 2021"
+award_year: 2021
+published: 2021-09-30 16:30:44
+published_gmt: 2021-09-30 15:30:44
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/economic-consulting-associates-eca-best-economics-advisory-team-global-2021/"
+categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_sha256: 2410beaea93f32e9b349ee8d913b41c05418ddb65f374201b35b5ba40499b56e
+canonical: 9604-economic-consulting-associates-eca-best-economics-advisory-team-global-2021.json
+---
+
+# Economic Consulting Associates (ECA): Best Economics Advisory Team Global 2021
+
+> Verbatim archived copy. Canonical machine record: `9604-economic-consulting-associates-eca-best-economics-advisory-team-global-2021.json`.
+
+[caption id="attachment_9605" align="aligncenter" width="900"]<img class="size-large wp-image-9605" src="https://cfi.co/awards/wp-content/uploads/2021/09/ECA-1024x644.jpg" alt="MD: Frederik Beelitz" width="900" height="566" /> <strong>ECA Managing Director:</strong> Frederik Beelitz[/caption]
+<p style="text-align: justify;">For over two decades, <span style="text-decoration: underline;"><a href="https://www.eca-uk.com/">Economic Consulting Associates (ECA)</a></span> has assisted clients worldwide — utility regulators, government agencies, , private investors, and international finance institutions — across regulatory and policy issues in the energy and water sectors. The firm is driven by a team of 27 professionals with academic and professional experience in the fields of economics and engineering. ECA has offices in London, Athens and Berlin to assist clients in 65 countries to navigate the economic, policy and regulatory issues across the electricity, natural gas and water sectors. It works with 40 regulatory authorities and 20 national utilities, developing economic analyses, reports, workshop materials and insights. It develops structured analytical solutions for infrastructure challenges and helps governments to establish regulatory frameworks and market designs  that encourage innovation, protect consumers, and bring transparency to decision-making. ECA is currently providing advisory support to the World Bank on the retirement and the repurposing of four coal-fired power plants in South Africa. It is exploring the potential of hydrogen energy in the Energy Community Secretariat. It is also currently supporting regulators in the Middle East and South-East Asia in their price controls for electricity networks. ECA leads a consortium for the implementation and design of energy efficiency regulations in the West Balkans as part of a multi-year framework contracts for the EBRD. It also offers clients modelling and advisory services on investment valuations for RE and battery energy storage assets and supports governments in incentivising investments for a low carbon energy  future. It helps to design and assess decarbonisation initiatives across the supply and-demand chain, to prioritise investment projects. The CFI.co judging panel announces Economic Consulting Associates as the 2021 global winner for the Best Economics Advisory Team award.</p>
