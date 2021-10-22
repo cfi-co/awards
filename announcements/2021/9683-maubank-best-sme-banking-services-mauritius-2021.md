@@ -1,0 +1,19 @@
+---
+id: 9683
+title: "MauBank: Best SME Banking Services Mauritius 2021"
+award_year: 2021
+published: 2021-10-22 12:35:32
+published_gmt: 2021-10-22 11:35:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2021/maubank-best-sme-banking-services-mauritius-2021/"
+categories: ["Africa", "Banking"]
+content_sha256: ae5e397734f3abb959e5ce1a6d19814fc7ea610c7af5f96fd988111d62b1f0fd
+canonical: 9683-maubank-best-sme-banking-services-mauritius-2021.json
+---
+
+# MauBank: Best SME Banking Services Mauritius 2021
+
+> Verbatim archived copy. Canonical machine record: `9683-maubank-best-sme-banking-services-mauritius-2021.json`.
+
+<img class="aligncenter size-full wp-image-9684" src="https://cfi.co/awards/wp-content/uploads/2021/10/MauBank.jpg" alt="MauBank" width="400" height="400" />
+<p style="text-align: justify;">MauBank understands the vital role SMEs play in socioeconomic development and has rolled out the red carpet to best serve their needs. According to the World Bank, SMEs represent some 90 percent of businesses and over half of employment worldwide, while generating up to 40 percent of GDP and seven out of 10 jobs in emerging economies. Despite these statistics, SMEs often cite limited access to financing as a significant obstacle to growth. MauBank has introduced a special scheme, SME LokalBoost, to provide financing for clients looking to start a new business or expand existing operations. SMEs can secure low interest rates and pay no processing, management, ledger or Internet banking fees for a year. The Mauritian bank has restructured its retail outlets into business centres and organised open banking promotions. MauBank unveiled a promotional campaign and its restructured branch network — which is one of the largest in the nation — through a series of traditional and digital advertisements which the panel considers to be well thought-out and nicely executed. SME success stories are shared in the campaign “Supporting Mauritian Enterprises”. Always happy to hear from a candidate’s satisfied customers, the panel points to praise from entrepreneurs regarding the bank’s proximity, service suites and growth-bolstering advisory. MauBank took proactive steps to ease financial burdens on SMEs throughout the Covid pandemic, offering moratoriums on capital, interest and equated monthly instalment loans. The CFI.co judging panel recognises <a href="https://cfi.co/awards/africa/2023/maubank-best-growth-strategy-banking-mauritius-2022/">MauBank</a>, a repeat programme winner, as an instrumental partner of business clients — and the recipient of the 2021 Best SME Banking Services (Mauritius) award.</p>
