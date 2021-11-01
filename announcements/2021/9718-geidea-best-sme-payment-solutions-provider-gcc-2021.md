@@ -1,0 +1,19 @@
+---
+id: 9718
+title: "Geidea: Best SME Payment Solutions Provider GCC 2021"
+award_year: 2021
+published: 2021-11-01 13:15:30
+published_gmt: 2021-11-01 13:15:30
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/geidea-best-sme-payment-solutions-provider-gcc-2021/"
+categories: ["Middle East", "Professional Services", "Technology"]
+content_sha256: 08fc3b84fb3d71f0b1170a122af6174a1ec1b749c500d5abf966b1769ca34262
+canonical: 9718-geidea-best-sme-payment-solutions-provider-gcc-2021.json
+---
+
+# Geidea: Best SME Payment Solutions Provider GCC 2021
+
+> Verbatim archived copy. Canonical machine record: `9718-geidea-best-sme-payment-solutions-provider-gcc-2021.json`.
+
+<img class="aligncenter size-full wp-image-9719" src="https://cfi.co/awards/wp-content/uploads/2021/11/Geidea-logo.jpg" alt="Geidea" width="400" height="135" />
+<p style="text-align: justify;">Geidea is a market pioneer that believes problem-solving requires genius ideas (hence the name — Geidea). The Saudi start-up was the first fintech in the kingdom to be licensed as a payment institution — and the only non-bank to be granted a license by the Saudi Central Bank to process end-to-end payment solutions. Within four years of its first product launch, Geidea had secured half of Saudi Arabia’s POS market. There are now more than 500,000 Geidea terminals in Saudi Arabia, representing 75 percent of the market share. Business clients are offered a selection of POS devices to streamline sales, and an app to manage inventory, orders, and invoicing. Geidea processes more than four million transactions daily, and 100,000 merchants have signed up for the service, including local and international brands, SMEs, and e-commerce firms. For companies without a web presence, Geidea helps to showcase products to drive online sales. It has taken the first steps towards GCC expansion this year, in a partnership with Egypt’s Bank Misr. The fintech company is funded by some of the region’s most prominent investors — Gulf Capital, AO and RAI — and has partnered with multinational financial service companies to bring innovative solutions to market. Geidea is supported by a growing multicultural team representing some 50 nationalities. The CFI.co judging panel salutes a company bringing best-in-class technologies to market to help small businesses. Geidea wins the 2021 award for Best SME Payment Solutions Provider (GCC).</p>
