@@ -1,0 +1,19 @@
+---
+id: 9803
+title: "Banque Neuflize OBC: Best ESG Private Banking Strategy France 2021"
+award_year: 2021
+published: 2021-11-04 14:32:23
+published_gmt: 2021-11-04 14:32:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/banque-neuflize-obc-best-esg-private-banking-strategy-france-2021/"
+categories: ["Banking", "Best Practice", "Corporate Governance", "Europe", "Sustainability"]
+content_sha256: 212b1ea90a0a7758373c4f32b83fcb1ac6893c4d1e709ef3f475e60f4bb57ac4
+canonical: 9803-banque-neuflize-obc-best-esg-private-banking-strategy-france-2021.json
+---
+
+# Banque Neuflize OBC: Best ESG Private Banking Strategy France 2021
+
+> Verbatim archived copy. Canonical machine record: `9803-banque-neuflize-obc-best-esg-private-banking-strategy-france-2021.json`.
+
+<img class="aligncenter size-full wp-image-9804" src="https://cfi.co/awards/wp-content/uploads/2021/11/Neuflize.jpg" alt="Neuflize" width="400" height="93" />
+<p style="text-align: justify;">France's private Banque Neuflize OBC was founded by entrepreneurs and philanthropists over 350 years ago. lt believes in balancing investment with positive outcomes for society and the environment, and statistics show that 63 percent of the French population is in agreement. For more than a decade, carbon emissions in the bank's operations have been offset via reforestation programmes. Banque Neuflize OBC sees finance as an opportunity to drive positive transformation. lt takes a holistic approach which guides investment towards "virtuous" sectors, and it is committed to ESG. lt takes into account the extra-financial value of companies — based on CSR, ESG and SRI criteria — to integrate sustainability into all processes. lt focuses on supporting clients' transition towards a sustainable future, and enriches employees' experience by integrating environmental concerns and with community support. One fund aims to accelerate sustainable development by investing in renewable energy and agriculture in emerging countries. Others seek to promote financial inclusion via microfinance and impact-aligned emerging-market debt. The bank has launched two non-profit foundations. The Neuflize OBC Foundation has supported cultural and arts patronage for about 25 years, while the Philgood Foundation gives clients access to a carefully curated and fully transparent collection of philanthropy projects. The CFl.co judging panel presents Banque Neuflize OBC with the 2021 award for Best ESG Private Banking Strategy (France).</p>
