@@ -1,0 +1,19 @@
+---
+id: 9743
+title: "Belvoir Group: Best Property Network Growth Strategy UK 2021"
+award_year: 2021
+published: 2021-11-04 07:17:03
+published_gmt: 2021-11-04 07:17:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/belvoir-group-best-property-network-growth-strategy-uk-2021/"
+categories: ["Europe", "Professional Services"]
+content_sha256: 71ea274ffcbf042b29cf4cd7bd7775a4b6a30f72d6981d662efc44c041dc452e
+canonical: 9743-belvoir-group-best-property-network-growth-strategy-uk-2021.json
+---
+
+# Belvoir Group: Best Property Network Growth Strategy UK 2021
+
+> Verbatim archived copy. Canonical machine record: `9743-belvoir-group-best-property-network-growth-strategy-uk-2021.json`.
+
+<img class="aligncenter size-full wp-image-8345" src="https://cfi.co/awards/wp-content/uploads/2020/10/Belvoir.jpg" alt="Belvoir" width="400" height="73" />
+<p style="text-align: justify;">Over the past 25 years, property franchise Belvoir Group has built a network of 467 offices offering residential lettings, property sales and property-related financial services. The group added 20 lettings and estate offices to the network, including the acquisition of independent real estate company Nicholas Humphreys in March. Belvoir Group strengthened its alliance with the Nottingham Building Society through the acquisition of its financial services subsidiary, Nottingham Mortgage Services. These deals cost Belvoir over £5m and were funded from cash reserves. Belvoir Group was pleased to report another half-year of strategic and trading growth, achieving revenue growth across its three business lines. First-half results have outperformed expectations, with a 41 percent increase in revenue over the same period for 2020, from £9.8m to £13.8m. Basic earnings per share are up 36 percent, and interim dividends rose by 17.6% to 4p per share for the half year. The group’s resilient business model has allowed Belvoir to capitalise on opportunities in this year’s buoyant housing market — and ensured its growth strategy was unaffected by the pandemic. Investments in earnings-enhancing businesses have expanded its property and financial services divisions, leading to high activity across all business areas — and confidence that the group will achieve a strong trading performance for the full year. The CFI.co judging panel recognises Belvoir Group, a repeat programme winner, with the 2021 award for Best Property Network Growth Strategy (UK).</p>
