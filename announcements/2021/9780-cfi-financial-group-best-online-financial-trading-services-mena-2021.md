@@ -1,0 +1,19 @@
+---
+id: 9780
+title: "CFI Financial Group: Best Online Financial Trading Services MENA 2021"
+award_year: 2021
+published: 2021-11-04 14:10:22
+published_gmt: 2021-11-04 14:10:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/cfi-financial-group-best-online-financial-trading-services-mena-2021/"
+categories: ["Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_sha256: bcb8374de3b27c5ff23547317131320ee7b1d949c9889b3a7404545fece71af7
+canonical: 9780-cfi-financial-group-best-online-financial-trading-services-mena-2021.json
+---
+
+# CFI Financial Group: Best Online Financial Trading Services MENA 2021
+
+> Verbatim archived copy. Canonical machine record: `9780-cfi-financial-group-best-online-financial-trading-services-mena-2021.json`.
+
+<img class="aligncenter size-full wp-image-7837" src="https://cfi.co/awards/wp-content/uploads/2020/06/Credit-Financier-Invest.jpg" alt="Credit-Financier-Invest" width="400" height="229" />
+<p style="text-align: justify;">The CFI Financial Group and through its multiple regulated entities around the world is the preferred broker and trading provider of the Middle East, with over two decades of experience and an online trading platform offering thousands of stocks, Forex pairs, commodities, indices and ETFs. The company has invested in top-tier technology to provide traders with advanced order execution, strategy automation, powerful charting capabilities and a next-generation interface. Clients can choose between MetaTrader 5, MetaTrader 4, and cTrader platforms, three of the industry's cutting-edge solutions. The globally regulated company operates out of multiple regulated jurisdictions including London, Dubai, Larnaca, Beirut, Amman, Port Louis, and others. CFI offers low-latency, fast execution, spreads from zero pips and zero commissions. The company has clients from over 100 countries, providing personalised services through dedicated, and one-on-one account managers. Clients can open a trading account with no minimum deposit or hone their skills in a demo account that simulates the real environment with virtual cash. CFI publishes daily technical reports and hosts free webinars to educate traders of all levels, helping them to avoid mistakes and gain confidence. Information on the company’s products and services are easily located on its intuitive website. The company enjoys many word-of-mouth referrals given its ever-improving reputation, based on its superior support services and a track record of going above and beyond client expectations. The CFI.co judging panel presents CFI Financial Group, a repeat program winner, with the 2021 award for Best Online Financial Trading Services (MENA).</p>
