@@ -1,0 +1,19 @@
+---
+id: 9790
+title: "Victoria Mutual: Best Financial Advisory Team Caribbean 2021"
+award_year: 2021
+published: 2021-11-04 14:20:18
+published_gmt: 2021-11-04 14:20:18
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2021/victoria-mutual-best-financial-advisory-team-caribbean-2021/"
+categories: ["Consultancies", "Latin America", "Professional Services"]
+content_sha256: c665f189a7b6cb843a30fb5583eea21389d80e42b47facd9ebbd667e56e3e6bc
+canonical: 9790-victoria-mutual-best-financial-advisory-team-caribbean-2021.json
+---
+
+# Victoria Mutual: Best Financial Advisory Team Caribbean 2021
+
+> Verbatim archived copy. Canonical machine record: `9790-victoria-mutual-best-financial-advisory-team-caribbean-2021.json`.
+
+<img class="aligncenter size-full wp-image-6728" src="https://cfi.co/awards/wp-content/uploads/2019/06/Victoria-Mutual.jpg" alt="Victoria-Mutual" width="400" height="240" />
+<p style="text-align: justify;">Victoria Mutual was founded in 1878 to “meet the needs of the deserving thrifty” and empower Jamaicans to pool resources and become homeowners. The mission remains the same, but the product range has expanded. Through its subsidiaries and partners, Victoria Mutual offers savings, deposits, loans, forex trading, money transfers, insurance, residential and commercial mortgages, and real estate services. Its members can control their wealth via Victoria’s pension fund management, administration and consultancy. The firm serves island residents and the diaspora community with 16 branches across Jamaica and representative offices in the UK and US. Victoria Mutual weathered the pandemic by digitalising operations; face-to-face meetings gave way to virtual events, online communication, and social media webinars. A trustee training workshop registered thousands of attendees, and a June expo to highlight innovation attracted more than 16,000 viewers on Facebook, YouTube and Instagram. There were virtual property tours and members were encouraged to submit queries electronically; Victoria Mutual was quick to make detailed responses. The team adapted well to remote working conditions, with no loss in productivity or accountability. Victoria Mutual is driven by a qualified workforce and an executive board that is 40 percent female. The CFI.co judging panel has followed the firm’s progress for several years and is impressed with its cool competence throughout the pandemic challenges. Repeat winner Victoria Mutual takes the 2021 award for Best Financial Advisory Team (Caribbean).</p>
