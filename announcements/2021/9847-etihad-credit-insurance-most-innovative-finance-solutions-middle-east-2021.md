@@ -1,0 +1,27 @@
+---
+id: 9847
+title: "Etihad Credit Insurance: Most Innovative Finance Solutions Middle East 2021"
+award_year: 2021
+published: 2021-11-22 09:05:22
+published_gmt: 2021-11-22 09:05:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2021/etihad-credit-insurance-most-innovative-finance-solutions-middle-east-2021/"
+categories: ["Finance", "Middle East"]
+content_sha256: e7c0a256862122fb25043a6fd02b7bdeeb674760827bfab5cbfbda3bdd5a168c
+canonical: 9847-etihad-credit-insurance-most-innovative-finance-solutions-middle-east-2021.json
+---
+
+# Etihad Credit Insurance: Most Innovative Finance Solutions Middle East 2021
+
+> Verbatim archived copy. Canonical machine record: `9847-etihad-credit-insurance-most-innovative-finance-solutions-middle-east-2021.json`.
+
+<img class="aligncenter size-large wp-image-9848" src="https://cfi.co/awards/wp-content/uploads/2021/11/ECI-CFI.co-Award-2021-1024x682.jpg" alt="ECI - Etihad Credit Insurance - CFI.co-Award-2021" width="900" height="599" />
+<p style="text-align: justify;">Etihad Credit Insurance (ECI), the UAE Federal export credit company, was established in 2017 through a government initiative to foster economic diversification in the UAE — and help reduce its reliance on oil resources, which accounts for about a third of GDP. ECI can be considered the fastest growing and the most innovative export credit agency in the Middle Est and Africa, securing a record non-oil trade value of USD 2.7 Billion in a few years since its start of operations in February 2018.</p>
+<p style="text-align: justify;">ECI has achieved lots of firsts:</p>
+
+<ul style="text-align: justify;">
+ 	<li>first ECA in ME to launch an online Trade Credit Insurance solution for SMEs (named SME Protect, awarded by Cfi.co in 2019).</li>
+ 	<li>first ECA to develop a credit scoring model based on Artificial Intelligence, to underwrite risks on SMEs (Awarded by Abu Dhabi Global Market and the UAE Central Bank in 2020)</li>
+ 	<li>first ECA to develop a Sharia Compliant solution for short term credit insurance (awarded by CFI.co in 2020)</li>
+</ul>
+<p style="text-align: justify;">ECI supports the growth prospects of local businesses looking to expand internationally, particularly in high-growth emerging markets. It offers exporters and re-exporters peace of mind with credit insurance solutions that protect against the potential insolvency or delinquency of buyers. Local investors can insure their foreign investments and projects against non-commercial and political risks. It works with local and international banks and financial institutions to provide factoring insurance, loss payee guarantees, letter-of-credit confirmations and surety bonds — which can help unlock funding opportunities, supported by its rating AA- from Fitch, reconfirmed for the third consecutive year in October 2021. It collaborates with private credit insurers to offer “top-up” plans for businesses with existing policies looking to increase a buyer’s credit limit. It levers a global network of more than 320 million businesses to bolster international relations, enhance trading opportunities and deliver market insights. Businesses can book an. Over the past four years, ECI has facilitated over $572m (2.1 billion Emirati dirhams) to support SME trade finance. The listed company is owned by the UAE federal government and the emirate governments of Abu Dhabi, Dubai, Ajman, Ras Al Khaimah and Fujairah. The CFI.co jury announces Etihad Credit Insurance, a repeat programme winner, as the recipient of the 2021 Most Innovative Finance Solutions (Middle East) award.</p>
