@@ -1,0 +1,21 @@
+---
+id: 9869
+title: "Akastor ASA: Best Oilfield Services Investor Global 2021"
+award_year: 2021
+published: 2021-12-09 07:00:57
+published_gmt: 2021-12-09 07:00:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2021/akastor-asa-best-oilfield-services-investor-global-2021/"
+categories: ["Europe", "Industries", "Oil &amp; Gas"]
+content_sha256: 018fb798e793c5245e25d7e3b6a4e171e4956d9584af68c9b17983b313d8c57b
+canonical: 9869-akastor-asa-best-oilfield-services-investor-global-2021.json
+---
+
+# Akastor ASA: Best Oilfield Services Investor Global 2021
+
+> Verbatim archived copy. Canonical machine record: `9869-akastor-asa-best-oilfield-services-investor-global-2021.json`.
+
+<img class="aligncenter size-full wp-image-9870" src="https://cfi.co/awards/wp-content/uploads/2021/12/Akastor.jpg" alt="Akastor" width="383" height="300" />
+<p style="text-align: justify;"><strong>The Norwegian based global oil-services investment company Akastor practices active ownership of assets to create added value for stakeholders: existing and potential shareholders, clients of portfolio companies and Akastor group employees. The company was established in 2014 following the demerger of Aker Solutions, part of a group with 170 years of industrial manufacturing experience. Aker Holding AS, a subsidiary of Aker ASA, is Akastor’s largest shareholder at 36.7 percent. Akastor is listed on the Oslo Stock Exchange. In 2020, its portfolio companies generated approximately $500m in revenues and employed over 2,000 people worldwide.</strong></p>
+<p style="text-align: justify;">Akastor is an investor with a solid track record within the energy sector, making value-generating transactions and contributing industrial knowhow to spur growth and profitability. It looks for exits based on good timing and attractive terms. Akastor has made eight divestments since 2015, realizing more than $650m in net proceeds in total. Most recently, Akastor has demonstrated ability to carry through transactions also in a complex market environment through the combination between MHWirth, an Akastor portfolio company, and Baker Hughes’ subsea drilling division to create HMH, a global full-service offshore and onshore drilling equipment provider.</p>
+<p style="text-align: justify;">Akastor promises to integrate sustainability into its investment decisions and report on progress with timely transparency. The company is committed to move towards a carbon-neutral future and has for its office-based portfolio companies set a target of net-zero CO2 emissions by 2030, while the target for its industrial companies is to get to net zero within 2050. Akastor urges its portfolio companies, all primarily operating within the oil service industry, to align operations with the Paris Agreement as well as the Sustainable Development Goals of the United Nations. Also, Akastor has strong focus on developing energy-efficient technologies within its portfolio companies to reduce adverse impact on the environment caused by their own and its customers’ operations. Akastor expects to see increased diversification and non-oil operations among portfolio companies as much of their knowledge, skillsets and equipment would adapt to renewable energy markets.</p>
