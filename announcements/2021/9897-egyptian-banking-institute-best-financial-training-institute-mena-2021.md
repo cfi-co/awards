@@ -1,0 +1,21 @@
+---
+id: 9897
+title: "Egyptian Banking Institute: Best Financial Training Institute MENA 2021"
+award_year: 2021
+published: 2021-12-16 11:07:11
+published_gmt: 2021-12-16 11:07:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2021/egyptian-banking-institute-best-financial-training-institute-mena-2021/"
+categories: ["Africa", "Banking", "Development", "Finance", "Government", "Middle East", "Professional Services"]
+content_sha256: 14b032b10edb9cccf75b85218d4ffbe3dcfc230b0b43bf66770688b0d1d4e48a
+canonical: 9897-egyptian-banking-institute-best-financial-training-institute-mena-2021.json
+---
+
+# Egyptian Banking Institute: Best Financial Training Institute MENA 2021
+
+> Verbatim archived copy. Canonical machine record: `9897-egyptian-banking-institute-best-financial-training-institute-mena-2021.json`.
+
+[caption id="attachment_9898" align="aligncenter" width="900"]<img class="size-large wp-image-9898" src="https://cfi.co/awards/wp-content/uploads/2021/12/EBI-CFI.co-Award-1024x682.jpg" alt="Mr Abdel Aziz Nossier (center) Executive Director Ms Zeinab Abdel Razek Chief of Business Development and Training Execution Mr Hesham Refaat Chief of Training and Assessment" width="900" height="599" /> <strong>Mr Abdel Aziz Nossier</strong> (center) <em>Executive Director</em> <strong>Ms Zeinab Abdel Razek</strong> (right) <em>Chief of Business Development and International Cooperation </em><strong>Mr Hesham Refaat</strong> (left) <em>Chief of Training and Assessment</em>[/caption]
+<p style="text-align: justify;">The Egyptian Banking Institute (EBI) was established in 1991 to be the official training arm of the Central Bank of Egypt with the vision of being the preferred partner for developing the human capital of the Egyptian banking ecosystem and strategic African and Arab countries through providing best-in-class human capital development services by mirroring the latest international banking trends. The not-for-profit organization excels in providing state of the art training solutions in line with the latest industry international best practices in areas of banking, management, leadership, IT and SMEs, besides a diversified portfolio of Assessment services. It can tailor programmes according to partner requirements. In 2009, EBI was the first accredited financial training institute in Egypt and the region by the US non-profit Accrediting Council for Continuing Education and Training (ACCET), EBI succeeded in obtaining the reaccreditation for 2 more terms ending in 2024</p>
+<p style="text-align: justify;">The courses are taught by banking professionals, and the feedback from students and sponsoring institutions is consistently positive. EBI cooperates with more than 50 top notch international providers to deliver international programs in Egypt and in the region. EBI board is headed by H.E the Governor of the Central Bank of Egypt with membership of industry leaders. EBI charts a strategic growth plan every five years, which coincides with its ACCET accreditation renewal. The plan acts as a roadmap for development, collaboration, and expansion. EBI provided its training services in more than 40 African countries with more than 3500 African trainees.</p>
+<p style="text-align: justify;">The CFI.co judging panel announces the Egyptian Banking Institute as winner of the 2021 award for Best Financial Training Institute (MENA).</p>
