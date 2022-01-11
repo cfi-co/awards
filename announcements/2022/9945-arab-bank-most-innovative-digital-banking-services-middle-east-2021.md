@@ -1,0 +1,19 @@
+---
+id: 9945
+title: "Arab Bank: Most Innovative Digital Banking Services Middle East 2021"
+award_year: 2022
+published: 2022-01-11 10:53:09
+published_gmt: 2022-01-11 10:53:09
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2022/arab-bank-most-innovative-digital-banking-services-middle-east-2021/"
+categories: ["Banking", "Islamic Banking", "Middle East"]
+content_sha256: 0623d5a6a0a24bded55861a4c1e13335212fbe068c996f1d8305d7aa8343ebd3
+canonical: 9945-arab-bank-most-innovative-digital-banking-services-middle-east-2021.json
+---
+
+# Arab Bank: Most Innovative Digital Banking Services Middle East 2021
+
+> Verbatim archived copy. Canonical machine record: `9945-arab-bank-most-innovative-digital-banking-services-middle-east-2021.json`.
+
+<img class="aligncenter wp-image-9942 size-full" src="https://cfi.co/awards/wp-content/uploads/2022/01/ArabBank2022.jpg" alt="Arab Bank" width="500" height="186" />
+<p style="text-align: justify;">Arab Bank has a 92 year history of supporting the socio-economic development of Middle Eastern economies. The bank is headquartered in Jordan with an expansive global network spanning 600 branches and five continents. Arab Bank has established a presence in the world’s largest financial hubs: London, Dubai, Singapore, Shanghai, Geneva, Paris, Frankfurt, Sydney and Bahrain. The bank differentiates itself from the competition by constantly seeking to improve financial services for consumers, SMEs and corporations. More than 80 percent of consumer clients actively use the Arabi Mobile banking app, which promises easy onboarding, anytime account access and convenient payment and withdrawal solutions. Arabi Mobile is integrated with a growing API ecosystem — including the fitness-inspired rewards app FittiCoin and voucher purchase promotions from beIN Sports. Consumers across the MENA region can manage multi-country accounts through one app. Consumer loans up to $10k can be approved and dispersed in 10 minutes. Merchants sell products online with special offers and seamless checkout via the Arabi eMart Marketplace. SMEs use the bank’s supply chain finance app to factor invoices and its lending portal to seek cash flow advances. Corporate clients appreciate the bank’s trade portal and cash management app. The CFI.co judging panel presents repeat winner Arab Bank with the 2021 Most Innovative Digital Banking Services (Middle East) award.</p>
