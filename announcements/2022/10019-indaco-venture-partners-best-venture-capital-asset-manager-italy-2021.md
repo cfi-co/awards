@@ -1,0 +1,19 @@
+---
+id: 10019
+title: "Indaco Venture Partners: Best Venture Capital Asset Manager Italy 2021"
+award_year: 2022
+published: 2022-01-28 11:32:13
+published_gmt: 2022-01-28 11:32:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/indaco-venture-partners-best-venture-capital-asset-manager-italy-2021/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: e487b190356169b4c720b34e04710c17d25009138f01574270743fafe543fb6b
+canonical: 10019-indaco-venture-partners-best-venture-capital-asset-manager-italy-2021.json
+---
+
+# Indaco Venture Partners: Best Venture Capital Asset Manager Italy 2021
+
+> Verbatim archived copy. Canonical machine record: `10019-indaco-venture-partners-best-venture-capital-asset-manager-italy-2021.json`.
+
+<img class="aligncenter size-full wp-image-10020" src="https://cfi.co/awards/wp-content/uploads/2022/01/Indaco.jpg" alt="Indaco" width="353" height="242" />
+<p style="text-align: justify;">Indaco Venture Partners entered the Italian venture capital scene in 2018, while its team has developed an extensive experience in venture capital since 2008, building a portfolio of investments in innovative companies with proprietary technologies. The asset management company is led by four partners — two men, two women — with backgrounds in private equity, science and technology research. Indaco cites the team’s diverse specialisations as one of the company’s greatest strengths. Their understanding of the underlying science and technology allows them to see beyond flashy marketing and sift the wheat from the chaff. They work with companies in areas of biotech, medtech, electronics and robotics, digital, artificial intelligence, quantum computing and new materials. This crossed technology approach is paramount for the company’s vision for the future and its platform for innovation investing. Indaco is bringing onboard some new teammates with strategic complementing experiences to support in the endeavour of a new fund in the pharma and biotech sector. The company promotes diversity and gives team members autonomy. The investment managers lever extensive experience in venture investing at home and abroad. Indaco Venture Partners manages five funds totalling more than €250m, including dozens of companies in the seed, start-up and growth stage. The firm has a proven track record of successful exits and has executed more than 10 thus far, including IPOs and transactions with corporate partners. It mainly targets Italian enterprises but has also made investments in Europe, USA and Israel. The CFI.co judging panel announces Indaco Venture Partners as the 2021 award winner for Best Venture Capital Asset Manager (Italy).</p>
