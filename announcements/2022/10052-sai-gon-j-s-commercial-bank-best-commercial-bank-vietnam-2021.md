@@ -1,0 +1,19 @@
+---
+id: 10052
+title: "Sai Gon J.S. Commercial Bank: Best Commercial Bank Vietnam 2021"
+award_year: 2022
+published: 2022-02-02 14:51:38
+published_gmt: 2022-02-02 14:51:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2022/sai-gon-j-s-commercial-bank-best-commercial-bank-vietnam-2021/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: cac3236820892a5e13f1d6f252577c97d13b8f3bbb2143cbde6ecd484f737df1
+canonical: 10052-sai-gon-j-s-commercial-bank-best-commercial-bank-vietnam-2021.json
+---
+
+# Sai Gon J.S. Commercial Bank: Best Commercial Bank Vietnam 2021
+
+> Verbatim archived copy. Canonical machine record: `10052-sai-gon-j-s-commercial-bank-best-commercial-bank-vietnam-2021.json`.
+
+<img class="aligncenter size-full wp-image-10053" src="https://cfi.co/awards/wp-content/uploads/2022/02/Sai-Gon-Bank.jpg" alt="Sai Gon Bank" width="400" height="355" />
+<p style="text-align: justify;">SCB will soon celebrate its tenth anniversary since it was founded through the consolidation of three smaller but proud local commercial banks. Today with its combined strength, it is among the top five of Vietnam’s commercial banks by capital and was among the 500 fastest growing Vietnamese companies in 2021. Headquartered in Ho Chi Minh City, it has over 239 branches and 6,700 employees from north to south. It is also one of the most modern banks in Vietnam having embraced advanced technology and new diverse product offerings, which covers the needs of both commercial and individual clients. The CFI judging panel also commends SCB for its extraordinary understanding during the current crisis. SCB has reduced a range of fees for its corporate clients and has provided new short and medium-term loan products with preferential interest rates. It has also been working closely with companies to provide them with online payment technology to facilitate e-commerce. SCB has also promised to raise the bar further with its decision to partner with McKinsey &amp; Co. for its “Transformation and sustainable development strategy 2020-2030”. SCB is looking to strengthen its competitive advantage through further innovation and increased operational efficiency. The CFI.co judging panel congratulates SCB on its first ten years as a consolidated entity and looks forward to an even brighter future for the bank. The panel is pleased to present Sai Gon J.S. Commercial Bank with the 2021 award for Best Commercial Bank (Vietnam).</p>
