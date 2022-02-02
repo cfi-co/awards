@@ -1,0 +1,19 @@
+---
+id: 10150
+title: "PGM Global Inc: Best Global Portfolio Strategy Team North America 2021"
+award_year: 2022
+published: 2022-02-02 16:38:46
+published_gmt: 2022-02-02 16:38:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2022/pgm-global-inc-best-global-portfolio-strategy-team-north-america-2021/"
+categories: ["Finance", "North America"]
+content_sha256: 5fa2c63b03c5041e390440091edf0c6bdf5f2280a645e23fae9ceda184904602
+canonical: 10150-pgm-global-inc-best-global-portfolio-strategy-team-north-america-2021.json
+---
+
+# PGM Global Inc: Best Global Portfolio Strategy Team North America 2021
+
+> Verbatim archived copy. Canonical machine record: `10150-pgm-global-inc-best-global-portfolio-strategy-team-north-america-2021.json`.
+
+<img class="aligncenter size-full wp-image-10891" src="https://cfi.co/awards/wp-content/uploads/2022/02/PGM-Global.jpg" alt="PGM Global" width="159" height="95" />
+<p style="text-align: justify;">PGM Global, formerly Pavilion Global Markets, has an annual trading volume of some $70bn and a trading desk that operates around the clock throughout the work week. The company pulls from a 50-year history to provide institutional investors with industry-leading services in securities trading, transition management and global macro research. It conducts unbiased analysis of 35 countries and makes investment calls on a short-term horizon of nine to 12 months. It offers forward-looking, topic-focused research reports, which include four pages of detailed notes and eight informative graphs. On Fridays, it publishes a report called Out of Focus, compiling the research materials that didn’t go into the weekly topical reports. It’s solid timely research, and PGM Global thinks it would be a shame to waste it. PGM Global has some 10,000 charts that it references and updates in real time to conduct global macro research across all asset classes. It focuses on the impacts of macro events on equities, fixed income, commodities and currencies. It also offers bespoke research services that have proven equally successful for investment managers and pension funds. PGM’s global macro research team generates market insights that identify risks and opportunities. It combines a top-down, bottom-up and quantitative approach to analysis, starting with a global economic overview and then digging deeper to uncover anomalies. CFI.co announces PGM Global Inc, a repeat programme winner, as champion in the 2021 award category Best Global Portfolio Strategy Team (North America).</p>
