@@ -1,0 +1,19 @@
+---
+id: 10056
+title: "Bank of Montreal: Best Commercial Bank Canada 2021"
+award_year: 2022
+published: 2022-02-02 14:57:06
+published_gmt: 2022-02-02 14:57:06
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2022/bank-of-montreal-best-commercial-bank-canada-2021/"
+categories: ["Banking", "North America"]
+content_sha256: f156af21152fa4469b0a7beeb8851b73b5add2615c6ed0d366911295e7d46bf4
+canonical: 10056-bank-of-montreal-best-commercial-bank-canada-2021.json
+---
+
+# Bank of Montreal: Best Commercial Bank Canada 2021
+
+> Verbatim archived copy. Canonical machine record: `10056-bank-of-montreal-best-commercial-bank-canada-2021.json`.
+
+<img class="aligncenter size-full wp-image-10057" src="https://cfi.co/awards/wp-content/uploads/2022/02/BMO-Montreal.jpg" alt="Bank of Montreal" width="500" height="74" />
+<p style="text-align: justify;">There’s a maxim at the Bank of Montreal which says the company must be great in good times – but even better when the going gets tough. When the Covid-19 crisis struck, the bank made it a priority to reaffirm its commitment to customers – holding virtual advice sessions, providing guidance on how to manage the pandemic’s challenges, and offering access to experts to help clients navigate the difficulties. One of Canada’s “big five”, the Bank of Montreal is a multinational investment bank and financial services company in continuous operation for more than 200 years. The company runs 900 branches across North America and provides a range of personal and commercial banking, wealth management and investment products and services to more than 12 million customers. The bank has famously not missed a dividend payment since 1829, even during major global catastrophes, including the financial crisis of 2008. It recently launched a “climate institute” which gathers the relevant data and insights needed to be a leading advisor to clients and partners on climate-related risks and opportunities. In 2021 the bank gave its support to the International Day of the Girl through a series of initiatives aimed at encouraging young women to aspire to leadership roles. The company believes in the importance of amplifying women’s voices, advocating for their rights, evaluating their position in society and reinforcing their capacity as decision-makers. In recognising its commercial performance, the judging panel is pleased to present the Bank of Montreal the 2021 award, Best Commercial Bank Canada.</p>
