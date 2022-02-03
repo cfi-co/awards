@@ -1,0 +1,19 @@
+---
+id: 10162
+title: "Avantium: Best Disruptive Technologies Innovator Europe 2021"
+award_year: 2022
+published: 2022-02-03 10:40:50
+published_gmt: 2022-02-03 10:40:50
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/avantium-best-disruptive-technologies-innovator-europe-2021/"
+categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_sha256: 28eabd9eae387ef607683f3ecc6e253185a1adee4fa8e6da64c52e36f512a316
+canonical: 10162-avantium-best-disruptive-technologies-innovator-europe-2021.json
+---
+
+# Avantium: Best Disruptive Technologies Innovator Europe 2021
+
+> Verbatim archived copy. Canonical machine record: `10162-avantium-best-disruptive-technologies-innovator-europe-2021.json`.
+
+<img class="aligncenter size-full wp-image-10163" src="https://cfi.co/awards/wp-content/uploads/2022/02/Avantium.jpg" alt="Avantium" width="400" height="284" />
+<p style="text-align: justify;">Avantium is ushering in a new generation of plastic materials, made from biomass rather than fossil fuel sources. Avantium has 200 people working across its Amsterdam-based headquarters, laboratories and three pilot plants in the Netherlands. The company uses proprietary technology to catalytically convert plant-based sugars into the 100% plant-based, fully recyclable plastic material PEF (polyethylene furanoate) and into MEG (mono-ethylene glycol) for which the company runs two separate pilot plants. It also opened a third pilot plant in 2018 to support the transition of the chemicals and materials industries to non-fossil resources. The development of FDCA (furandi­carboxylic acid), the main building block for PEF, has been pursued for over a century. Avantium is moving forward on plans to construct the world’s first commercial-scale FDCA factory. It had already finalised engineering, supply chain and offtake details before securing €90m in financing in December 2021. By industrialising the production of FDCA, considered a “sleeping giant” by industry standards, Avantium expects to unlock a market with a potential value over $200bn. PEF plastics are compatible with existing recycling facilities and the production of PEF has a 50 to 70 percent lower carbon footprint than fossil-based plastics. PEF’s improved barrier functionality extends the shelf life of packaged products. It also has superior mechanical strength, allowing for lighter packaging that requires fewer resources to produce and transport. Avantium is unravelling the possibilities of plant-based building blocks and will turn its sights next to explore CO2 as a feedstock. The CFI.co jury presents Avantium with the 2021 Best Disruptive Technologies Innovator (Europe) award.</p>
