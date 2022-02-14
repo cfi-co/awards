@@ -1,0 +1,28 @@
+---
+id: 10189
+title: "Renaissance Investment Management: Best Small Cap Investment Solutions USA 2021"
+award_year: 2022
+published: 2022-02-14 12:46:15
+published_gmt: 2022-02-14 12:46:15
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2022/renaissance-investment-management-best-small-cap-investment-solutions-usa-2021/"
+categories: ["Asset Management", "North America"]
+content_sha256: fd4b754e8f10d85501ce7a950ed56db42213f6d0440f3200462cf1a9b8c8368c
+canonical: 10189-renaissance-investment-management-best-small-cap-investment-solutions-usa-2021.json
+---
+
+# Renaissance Investment Management: Best Small Cap Investment Solutions USA 2021
+
+> Verbatim archived copy. Canonical machine record: `10189-renaissance-investment-management-best-small-cap-investment-solutions-usa-2021.json`.
+
+<img class="aligncenter wp-image-10187 size-full" title="Renaissance Investment Management logo" src="https://cfi.co/awards/wp-content/uploads/2022/02/RenaissanceIM-logo.jpg" alt="Renaissance Investment Management logo" width="500" height="127" />
+
+Renaissance Investment Management, based in the Cincinnati, Ohio area, today manages approximately $3 billion in assets under management and has been serving both institutional and individual clients since 1978.  Their Small Cap Growth strategy focuses on fundamentals in managing portfolios, utilizing proprietary quantitative models to help guide their decision making and to ensure discipline in staying true to their high-quality, growth-at-a-reasonable price philosophy.
+
+Paul Radomski, lead portfolio manager for the strategy since its inception in 1996, and his team generated a 33.7% return (net of fees) for their clients in 2021, handily beating the Russell 2000 Growth index for the year, which was up 2.8%.  For the last ten years, the strategy has generated a net return of 18.8% annualized versus 14.1% for the Russell 2000 Growth index.
+
+The Small Cap Growth team at Renaissance focuses their daily efforts on finding companies with strong management teams that have demonstrated consistent above average growth, with a well-articulated strategy for future growth.  Their quantitative models include measures of growth, quality, momentum and valuation.  This quant framework aids the team not only in “discovering” new investment opportunities but also helps ensure discipline in the overall portfolio construction process.
+
+The team believes that successfully managing risk is a critical part of the results they’ve generated.  The Small Cap Growth strategy’s emphasis on various measures of margins, profitability and balance sheet strength help to control overall portfolio risk.  Since inception, the strategy has achieved a returns-based beta of 0.88 and a downside capture ratio of 85%.
+
+The CFI.co judging panel announces Renaissance Investment Management as the 2021 award winner for Best Small Cap Investment Solutions (USA).
