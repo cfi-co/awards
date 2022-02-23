@@ -1,0 +1,19 @@
+---
+id: 10197
+title: "Ariya Capital: Best ESG Clean Energy Investment Partner Sub-Saharan Africa 2021"
+award_year: 2022
+published: 2022-02-23 14:56:24
+published_gmt: 2022-02-23 14:56:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2022/ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2021/"
+categories: ["Africa", "Best Practice", "Corporate Governance", "Finance", "Industries", "Sustainability"]
+content_sha256: 17c5643bdb9af82ce52ecf2527ad752c8b6f30c2225a7c81b4858e784fb7d548
+canonical: 10197-ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2021.json
+---
+
+# Ariya Capital: Best ESG Clean Energy Investment Partner Sub-Saharan Africa 2021
+
+> Verbatim archived copy. Canonical machine record: `10197-ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2021.json`.
+
+<img class="aligncenter size-full wp-image-10198" src="https://cfi.co/awards/wp-content/uploads/2022/02/Ariya-Capital.jpg" alt="Ariya Capital" width="500" height="350" />
+<p style="text-align: justify;">Ariya Capital invests in clean energy projects to fuel growth and alleviate poverty across sub-Saharan Africa. The holding company is led by an executive team with more than 80 years of experience in international finance, energy and emerging markets. They drive Ariya’s impact investing mission to deliver superior financial returns, quantifiable environmental benefits and positive social impacts. The company was founded in 2008 and incorporated in the Channel Island of Jersey. Ariya has offices in London, Namibia, South Africa, Mauritius and Kenya — enabling the team to build collaborative stakeholder relationships to accelerate the green revolution in Africa. It acts as a catalyst for growth via proprietary projects and equity investments across three main business lines: energy finance, independent power production and fund management. Ariya has found clean energy projects to pay out attractive financial, social and environmental dividends, whether small-scale embedded power systems or large independent power producers. It concentrates on the industrial and commercial sector using an investment approach that variates between leasing models and the provision of development capital. It focuses on natural gas as a transitional fuel to replace coal-fired power and community micro-grids to address the infrastructural gaps leaving nearly 600 million Africans without access to electricity. Ariya’s portfolio is diversified across geographies and products, from energy storage and stabilisation systems to desalination and hydrogen energy projects. The CFI.co judging panel announces Ariya Capital as the 2021 award winner for Best ESG Clean Energy Investment Partner (Sub-Saharan Africa).</p>
