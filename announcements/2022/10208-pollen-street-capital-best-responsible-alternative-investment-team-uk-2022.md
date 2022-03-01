@@ -1,0 +1,19 @@
+---
+id: 10208
+title: "Pollen Street Capital: Best Responsible Alternative Investment Team UK 2022"
+award_year: 2022
+published: 2022-03-01 17:55:51
+published_gmt: 2022-03-01 17:55:51
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/pollen-street-capital-best-responsible-alternative-investment-team-uk-2022/"
+categories: ["Europe", "Finance"]
+content_sha256: 06077b8963dd9f114cbcbff839ddd077d968ae80bc17b7efc7f3fadbf1fd15f8
+canonical: 10208-pollen-street-capital-best-responsible-alternative-investment-team-uk-2022.json
+---
+
+# Pollen Street Capital: Best Responsible Alternative Investment Team UK 2022
+
+> Verbatim archived copy. Canonical machine record: `10208-pollen-street-capital-best-responsible-alternative-investment-team-uk-2022.json`.
+
+<img class="aligncenter size-full wp-image-8885" src="https://cfi.co/awards/wp-content/uploads/2021/03/Pollen-Street-Capital.jpg" alt="Pollen-Street-Capital" width="400" height="164" />
+<p style="text-align: justify;">Compassionate, committed and caring — that’s how the Pollen Street team operates. Pollen Street Capital is a purpose-led asset manager with ambitious ESG targets to manage its carbon footprint. The firm expects to achieve carbon neutrality by the end of the year and takes steps to help portfolio companies become carbon neutral within five years of investment. The firm aims to generate positive impacts for its investors, people, portfolio companies and society at large by embedding ESG diligence throughout its operations and investments. Pollen Street employs more than 70 professionals through its London and New York offices. It operates dedicated private equity and credit strategies. The firm markets itself as a partner for growth rather than simply an investor. It recruits top talent and harnesses their insight and expertise to drive financial results and accelerate positive change. Digital transformation, analytical rigour and technology deployment are key elements of the investment approach. Pollen Street backs portfolio companies and credit partners that help consumers make greener choices, increase their access to finance and SMEs to promote job creation and socioeconomic growth. It’s a diversity champion working to close the gender funding gap and pushing for a target of 25 percent women at the board and executive level of portfolio companies by 2025. The CFI.co judging panel presents repeat winner Pollen Street Capital with the 2022 award for Best Responsible Alternative Investment Team (UK).</p>
