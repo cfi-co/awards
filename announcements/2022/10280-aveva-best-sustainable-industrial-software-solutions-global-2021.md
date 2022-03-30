@@ -1,0 +1,20 @@
+---
+id: 10280
+title: "AVEVA: Best Sustainable Industrial Software Solutions Global 2021"
+award_year: 2022
+published: 2022-03-30 09:58:33
+published_gmt: 2022-03-30 08:58:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/aveva-best-sustainable-industrial-software-solutions-global-2021/"
+categories: ["Europe", "Industries", "Manufacturing", "Oil &amp; Gas", "Sustainability", "Technology"]
+content_sha256: 11af77a66960a000ffe0e2910095a6cb2e7c82635b77297131c1caafb7dc4e3a
+canonical: 10280-aveva-best-sustainable-industrial-software-solutions-global-2021.json
+---
+
+# AVEVA: Best Sustainable Industrial Software Solutions Global 2021
+
+> Verbatim archived copy. Canonical machine record: `10280-aveva-best-sustainable-industrial-software-solutions-global-2021.json`.
+
+<img class="aligncenter size-full wp-image-10283" src="https://cfi.co/awards/wp-content/uploads/2022/03/AVEVA-team.jpg" alt="AVEVA" width="1000" height="594" />
+<p style="text-align: justify;">AVEVA connects teams with trusted information and insights to spark industrial ingenuity that enables responsible use of the world’s resources. Sustainability is key to the company’s mission and everyone in the team is committed to driving digital transformation that can accelerate decarbonization, efficiency and growth for customers across twelve industry verticals from energy and manufacturing to infrastructure, pharmaceuticals and marine. The portfolio spans the industrial lifecycle, combining data analytics, cloud computing and visualization with human insight to drive informed decision making, boost operational agility and optimize performance. Solutions span the spectrum from design and engineering to asset performance, monitoring and control and operations optimization. AVEVA puts customer needs at the centre of the industry lifecycle, using AI to predict challenges before they occur, and staying ahead of trends.</p>
+<p style="text-align: justify;">The company has set ambitious carbon reduction goals, aiming to achieve net-zero emissions by 2030. AVEVA further benefits from the world’s largest industrial software ecosystem, with 5,500 partners and 5,700 certified developers, who unlock operational efficiencies for more than 20,000 customers. AVEVA believes that a diverse and inclusive work culture fosters innovation, performance, and profitability. It has more than 6,500 employees working at 90 sites in 40 countries — and has implemented a number of policies and programmes to ensure each individual feels valued and included. As an organisation AVEVA is committed to ensuring all policies, processes and behaviours promote diversity, equity, and inclusion. Employees are kept connected through open lines of communication, using multiple channels. The company recently launched a five-year Diversity, Equity and Inclusion Plan and an Impact Fund to support its regional and global diversity, equity and inclusion networks and employee groups. The CFI.co judging panel presents <a href="https://cfi.co/sustainability/2022/03/aveva-software-is-the-key-to-sustainable-industries/">AVEVA</a> with the 2021 award for Best Sustainable Industrial Software Solutions.</p>
