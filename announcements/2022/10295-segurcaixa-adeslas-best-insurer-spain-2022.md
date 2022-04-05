@@ -1,0 +1,19 @@
+---
+id: 10295
+title: "SegurCaixa Adeslas: Best Insurer Spain 2022"
+award_year: 2022
+published: 2022-04-05 14:48:10
+published_gmt: 2022-04-05 13:48:10
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/segurcaixa-adeslas-best-insurer-spain-2022/"
+categories: ["Europe", "Professional Services"]
+content_sha256: b59d78a99e433b9854e430f59f5de486976d907c4f8c05ea7e40e2b842c18793
+canonical: 10295-segurcaixa-adeslas-best-insurer-spain-2022.json
+---
+
+# SegurCaixa Adeslas: Best Insurer Spain 2022
+
+> Verbatim archived copy. Canonical machine record: `10295-segurcaixa-adeslas-best-insurer-spain-2022.json`.
+
+<img class="aligncenter size-full wp-image-7346" src="https://cfi.co/awards/wp-content/uploads/2020/05/SegurCaixa-Adeslas.jpg" alt="SegurCaixa Adeslas" width="600" height="69" />
+<p style="text-align: justify;">SegurCaixa Adeslas, the leading health company in Spain, continues to power ahead of the competition. It now controls almost one third of the health insurance market in the country. The company is continuously monitoring customer satisfaction levels and is doing all possible to ensure that experiences are uniformly good. New products and digital services have been well thought out and skilfully executed. Adeslas Salud y Bienestar is the number one health insurance app in Spain and boasts 450,000 users. The platform helps policy holders manage their health and offers personalised planning in anticipation of optimal results. The digital health initiative has been very well received, with patients showing full confidence in the company’s online support. According to the CFI.co judging panel, this winner is to be congratulated on the steps it has taken to ensure that policy holders benefit from the best possible services. It is also quite adept at avoiding premium increases. Furthermore, there is a closeness to patients that really must be described as exemplary. This insurer bettered the market in 2021 and has continued to grow despite the problems caused by the pandemic. SegurCaixa Adeslas has helped many thousands of Covid sufferers even though not contractually obliged to do so. It has given generously to a solidarity fund protecting Spanish healthcare workers and likewise supported the medical suppliers and hospital providers in its network. The panel agrees unanimously that repeat winner SegurCaixa Adeslas is deserving of the CFI.co 2022 award: Best Insurer (Spain).</p>
