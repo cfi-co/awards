@@ -1,0 +1,19 @@
+---
+id: 10353
+title: "Moody's Investors Service: Best Credit Risk Analysis LATAM 2022"
+award_year: 2022
+published: 2022-04-27 18:41:36
+published_gmt: 2022-04-27 17:41:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2022/moodys-investors-service-best-credit-risk-analysis-latam-2022/"
+categories: ["Consultancies", "Finance", "Latin America", "Professional Services"]
+content_sha256: 8d5a074050bc22c22771fb05d8045d0380527149564232268d0dc744037dff61
+canonical: 10353-moodys-investors-service-best-credit-risk-analysis-latam-2022.json
+---
+
+# Moody's Investors Service: Best Credit Risk Analysis LATAM 2022
+
+> Verbatim archived copy. Canonical machine record: `10353-moodys-investors-service-best-credit-risk-analysis-latam-2022.json`.
+
+<img class="aligncenter size-full wp-image-6839" src="https://cfi.co/awards/wp-content/uploads/2019/08/Moodys.jpg" alt="Moodys" width="500" height="141" />
+<p style="text-align: justify;"><a href="https://cfi.co/finance/2022/08/know-the-risks-and-see-the-future-with-the-integrity-and-transparency-of-moodys-local/">Moody's</a> has a 100-year history of facilitating better business decisions and protecting the integrity and transparency of capital markets. The group continues to strengthen its presence in Latin America through product innovation and regional partnerships. Moody’s follows country-specific methodologies to calculate domestic credit ratings in Argentina, Bolivia, Brazil, Panama, Peru and Uruguay. It has introduced a cross-border investor service and established a strong domestic platform with regional ratings and local languages. Moody’s Investors Service helps clients navigate global debt markets, tracking debt across 130 countries and thousands of corporate and public finance issuers and structured finance obligations. Moody’s Investors Service has been in Latin America since 1997, supporting capital market and risk management professionals in more than 400 organisations. Expansion plans have been especially successful with the launch of Moody's Local Brazil and the upcoming launch of Moody's Local Mexico. Moody’s has achieved another milestone in its ongoing ESG journey with the addition of products related to green bonds. Moody's Investors Service is a leading provider of credit ratings, research and risk analysis. Moody's commitment and expertise contributes to transparent and integrated financial markets. Moody's Investors Service is a subsidiary of Moody's Corporation (NYSE: MCO), which reported revenue of $6.2 billion in 2021, employing approximately 12,000 people worldwide and maintaining a presence in 40 countries. The CFI.co judging panel has recognised Moody’s in previous award programmes and continues to find cause for celebration. Moody's Investors Service claims the 2022 award for Best Credit Risk Analysis (LATAM).</p>
