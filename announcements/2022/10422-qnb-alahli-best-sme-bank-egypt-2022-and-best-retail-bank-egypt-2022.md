@@ -1,0 +1,19 @@
+---
+id: 10422
+title: "QNB ALAHLI: Best SME Bank Egypt 2022 and Best Retail Bank Egypt 2022"
+award_year: 2022
+published: 2022-05-13 08:18:43
+published_gmt: 2022-05-13 07:18:43
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2022/qnb-alahli-best-sme-bank-egypt-2022-and-best-retail-bank-egypt-2022/"
+categories: ["Banking", "Middle East"]
+content_sha256: 0874ce2215900c60c302a40891de96d6f691c2536bc79bfc41b62c3d1bcb2f9a
+canonical: 10422-qnb-alahli-best-sme-bank-egypt-2022-and-best-retail-bank-egypt-2022.json
+---
+
+# QNB ALAHLI: Best SME Bank Egypt 2022 and Best Retail Bank Egypt 2022
+
+> Verbatim archived copy. Canonical machine record: `10422-qnb-alahli-best-sme-bank-egypt-2022-and-best-retail-bank-egypt-2022.json`.
+
+<p data-wp-editing="1"><img class="aligncenter wp-image-5448 size-full" title="QNB ALAHLI" src="https://cfi.co/awards/wp-content/uploads/2018/04/QNB.jpg" alt="QNB ALAHLI" width="400" height="154" /></p>
+<p style="text-align: justify;">Egypt is the most populous country in the Arab world, with a head count estimated at 105 million — and QNB ALAHLI counts 1.3 million of them as clients. The <a href="https://www.qnb.com/sites/qnb/qnbglobal/page/en/enqnbglobalnetwork.html" target="_blank" rel="noopener">QNB Group</a> acquired a majority stake in NSGB bank in 2013 and rebranded the strengthened entity as QNB ALAHLI. The bank ensures absolute client centricity through a nationwide network of 231 branches, 872 ATMs, 62,234 point-of-sale merchants, robust digital channels and a 24/7 call centre. It wows retail clients with a comprehensive range of services and products: savings accounts and CDs; loans, credit and financing facilities; credit cards, prepaid cards and wristbands; self-employed professionals packages; payroll services; and luxury plans. It rolls out the red carpet for business clients — from multinational corporations to local SMEs — pulling from 44 years of market experience to develop products and services for key industries and sectors. It can assist entrepreneurs and business leaders with corporate banking, financial advisory, project financing, structured financing, trade financing, cash management and foreign exchange services. QNB ALAHLI believes SMEs have the power to push growth and deliver sustained development, and the bank is committed to supporting them throughout the peaks and troughs of market cycles. It has become a preferred partner of multilateral financiers for the distribution of credit to small businesses. The CFI.co judging panel presents QNB ALAHLI, a repeat programme winner, with the 2022 awards for <a href="https://cfi.co/menu/corporate/2021/07/qnb-alahli-rising-to-the-top-of-egypts-banking-world-by-paying-attention-to-quality-service/">Best SME Bank and Best Retail Bank (Egypt)</a>.</p>
