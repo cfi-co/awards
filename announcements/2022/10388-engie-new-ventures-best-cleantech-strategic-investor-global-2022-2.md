@@ -1,0 +1,19 @@
+---
+id: 10388
+title: "ENGIE New Ventures: Best CleanTech Strategic Investor Global 2022"
+award_year: 2022
+published: 2022-05-13 07:49:45
+published_gmt: 2022-05-13 06:49:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/engie-new-ventures-best-cleantech-strategic-investor-global-2022/"
+categories: ["Europe", "Finance", "Industries", "Technology"]
+content_sha256: 945ab1d519009e0d75515f80c67aef5d74b119925b2026629848d82c8e06b569
+canonical: 10388-engie-new-ventures-best-cleantech-strategic-investor-global-2022-2.json
+---
+
+# ENGIE New Ventures: Best CleanTech Strategic Investor Global 2022
+
+> Verbatim archived copy. Canonical machine record: `10388-engie-new-ventures-best-cleantech-strategic-investor-global-2022-2.json`.
+
+<img class="aligncenter wp-image-10389 size-full" title="ENGIE New Ventures" src="https://cfi.co/awards/wp-content/uploads/2022/05/engie.jpg" alt="ENGIE New Ventures" width="400" height="142" />
+<p style="text-align: justify;">ENGIE New Ventures (ENV) levers a €180m fund to back cleantech energy companies striving to digitise, decarbonise and decentralise the power industry. It makes direct investment to scale operations of cleantech companies with proven track records, working closely with leadership teams to form long-term partnerships and guide strategic growth. The VC firm looks for innovators with solutions for decentralised clean energy generation, smart cities and mobility, green gases such as green hydrogen and biomethane, carbon capture and usage, etc. The <a href="https://www.engieventures.com/portfolios/" target="_blank" rel="noopener">ENV portfolio</a> features dozens of start-ups pushing the boundaries of possibility. AI-powered microgrids, decarbonising tech for natural gas, off-grid biogas appliances, solar films for buildings and energy efficiency upgrades with no upfront cost for customers — this only touches the tip of the iceberg. All ENV investees present a technology, customer solution or business model with the potential to unlock new market opportunities and spur innovation across ENGIE Group’s business units. ENV typically makes minority-stake investments, ranging between €1m and €5m and focusing on B2C, B2B and B2T (territory) companies entering growth and expansion phases. The firm points to 3 differentiators that have proven key to its success: support from sector experts, access to markets, and quality of the teams. Headquartered in Paris with offices in San Francisco and Santiago, and representations in Tel Aviv and Singapore, ENV is driven by a diverse and knowledgable workforce. The CFI.co judging panel announces ENGIE New Ventures as the 2022 winner of the global award for Best CleanTech Strategic Investor.</p>
