@@ -1,0 +1,19 @@
+---
+id: 10472
+title: "Orbian: Most Innovative Trade Finance Solutions Global 2022"
+award_year: 2022
+published: 2022-05-17 07:09:28
+published_gmt: 2022-05-17 06:09:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2022/orbian-most-innovative-trade-finance-solutions-global-2022/"
+categories: ["Finance", "Industries", "North America", "Technology"]
+content_sha256: cb8b9897e77689b43dc76c8faa3e7fbf427a93cb009abfe468aef0a3f12363f5
+canonical: 10472-orbian-most-innovative-trade-finance-solutions-global-2022.json
+---
+
+# Orbian: Most Innovative Trade Finance Solutions Global 2022
+
+> Verbatim archived copy. Canonical machine record: `10472-orbian-most-innovative-trade-finance-solutions-global-2022.json`.
+
+<img class="aligncenter size-full wp-image-9009" src="https://cfi.co/awards/wp-content/uploads/2021/04/Orbian.jpg" alt="Orbian" width="400" height="102" />
+<p style="text-align: justify;">Orbian is a pioneer of supply chain finance, creating expansion opportunities for businesses small and large and delivering steady returns for investors over the past 20 years. Orbian understands that supply chain finance greases the wheels of global commerce and has a developed a trade finance platform to streamline connections between suppliers, corporate buyers and funding providers. It works with businesses to custom-create scalable supply chain finance programmes to accommodate working capital and cash flow goals. To date, Orbian has processed five million transactions and $240bn in trade finance — while maintaining an error-free transactional record. It has achieved a 100 percent integration success rate across all major Enterprise Resource Planning systems and proprietary A/P systems. Supplier onboarding is a simple web-based process with documentation specialists on-hand to support thousands of suppliers across the 53 countries where it currently operates. Orbian broadens the potential investor pool by giving suppliers access to multi-bank and source-agnostic funding. Flexible funding structures allow suppliers to use excess cash to fund the finance programme. Orbian invests a portion of annual revenues into the development of staff skills and enhancement of the customer experience. The company fuels growth through a process of continuous innovation, which includes regular upgrades to its state-of-the-art platform. Over the past year, Orbian has introduced new tools allowing for greater regional control over trade finance. The CFI.co judging panel presents Orbian, a repeat programme winner, with the 2022 global award for Most Innovative Trade Finance Solutions.</p>
