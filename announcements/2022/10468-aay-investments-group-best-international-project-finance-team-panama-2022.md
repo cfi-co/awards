@@ -1,0 +1,19 @@
+---
+id: 10468
+title: "AAY Investments Group: Best International Project Finance Team Panama 2022"
+award_year: 2022
+published: 2022-05-17 07:08:20
+published_gmt: 2022-05-17 06:08:20
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2022/aay-investments-group-best-international-project-finance-team-panama-2022/"
+categories: ["Development", "Finance", "Latin America", "Projects"]
+content_sha256: 0a30c420c7b93ad3986b785e60cfa3c7919f9d6a1f28ddf6d979900d94c506dc
+canonical: 10468-aay-investments-group-best-international-project-finance-team-panama-2022.json
+---
+
+# AAY Investments Group: Best International Project Finance Team Panama 2022
+
+> Verbatim archived copy. Canonical machine record: `10468-aay-investments-group-best-international-project-finance-team-panama-2022.json`.
+
+<img class="aligncenter size-full wp-image-10469" src="https://cfi.co/awards/wp-content/uploads/2022/05/AAY-Investments-Group.jpg" alt="AAY-Investments-Group" width="400" height="123" />
+<p style="text-align: justify;">AAY Investments Group provides financial and insurance services to clients across the public and private sector. The group is headquartered in Panama with 45 employees across the network. Credit intermediation is the main focus of the group, which comprises four subsidiaries and six affiliated partners. AAY Investments Group credits its success to the calibre of its team and the long-term relationships it establishes with clients. The group was founded in 1986 and is driven by a senior management team with more than 95 years of combined finance experience. The group has assembled a team with high qualifications and diverse backgrounds in law, risk management, investment banking, commercial project financing and venture capital funding. AAY aims to create a corporate culture where employees feel like valued members of a family. Department heads are focused on understanding their people’s needs — staff and clients. The group considers how its actions could impact stakeholders throughout the decision-making process. This attention to detail has resulted in high rates of customer loyalty and staff retention. AAY Investments Group adheres to strict standards of confidentiality and non-disclosure, never sharing information with third parties. It has become a trusted partner of wholesale insurance brokers as well as governments, public-listed companies, professional service providers and private-project owners. Future expansion plans include construction project insurance and investment solutions. The CFI.co judging panel presents AAY Investments Group with the 2022 Best International Project Finance Team (Panama) award.</p>
