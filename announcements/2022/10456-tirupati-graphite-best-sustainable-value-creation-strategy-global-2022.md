@@ -1,0 +1,19 @@
+---
+id: 10456
+title: "Tirupati Graphite: Best Sustainable Value Creation Strategy Global 2022"
+award_year: 2022
+published: 2022-05-17 06:59:39
+published_gmt: 2022-05-17 05:59:39
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/tirupati-graphite-best-sustainable-value-creation-strategy-global-2022/"
+categories: ["Best Practice", "Development", "Europe", "Industries", "Mining", "Projects", "Sustainability"]
+content_sha256: 7f68e7093dec7bfd580f7dd54cc53785967ce236251375cc182ba5e5c69afd0f
+canonical: 10456-tirupati-graphite-best-sustainable-value-creation-strategy-global-2022.json
+---
+
+# Tirupati Graphite: Best Sustainable Value Creation Strategy Global 2022
+
+> Verbatim archived copy. Canonical machine record: `10456-tirupati-graphite-best-sustainable-value-creation-strategy-global-2022.json`.
+
+<img class="aligncenter size-full wp-image-8973" src="https://cfi.co/awards/wp-content/uploads/2021/03/Tirupati-Graphite.jpg" alt="Tirupati Graphite" width="266" height="379" />
+<p style="text-align: justify;">Tirupati Graphite is a proactive corporate citizen levering the power of scientific knowledge, innovation and sustainability to combat global threats and create value for all stakeholders. The group is headquartered in the UK with natural flake graphite mining and processing operations in Madagascar and downstream graphite and graphene processing projects in India. The company makes a strong case for flake graphite, which has been classified as a critical material by multiple countries, including the EU and US. Flake graphite has over 150 applications and is a central component in energy storage, fire safety and thermal management. It improves energy efficiency and reduces energy and fossil fuel consumption, contributing to a greener footprint across numerous applications. The flake graphite market registers a 32 percent compound annual growth rate from green applications. Tirupati Graphite invests considerable resources into tech innovation and has developed processing technologies that maximise resource usage and reduce carbon emissions. The company capitalises on opportunities for sustainable value creation in the green economy. It seeks to create value for the planet and for future generations by developing materials and technologies with numerous green applications. It supports the personal and professional development of employees and aims to improve quality of life in the communities where it operates. In addition to providing financial support, Tirupati Graphite has established health care, education and recreational facilities for local communities. The CFI.co jury presents repeat programmer winner Tirupati Graphite with the 2022 Best Sustainable Value Creation Strategy award.</p>
