@@ -1,0 +1,19 @@
+---
+id: 10635
+title: "Wells Fargo Best Small Business Banking Services United States 2022"
+award_year: 2022
+published: 2022-08-09 14:58:37
+published_gmt: 2022-08-09 13:58:37
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2022/wells-fargo-best-small-business-banking-services-united-states-2022/"
+categories: ["Banking", "North America"]
+content_sha256: f1646cd9a65e3c70472eecaf3973c38a78e5c0a7132ac3aaa84e33bfc4d6b047
+canonical: 10635-wells-fargo-best-small-business-banking-services-united-states-2022.json
+---
+
+# Wells Fargo Best Small Business Banking Services United States 2022
+
+> Verbatim archived copy. Canonical machine record: `10635-wells-fargo-best-small-business-banking-services-united-states-2022.json`.
+
+<img class="aligncenter wp-image-10636 size-thumbnail" title="Wells Fargo logo" src="https://cfi.co/awards/wp-content/uploads/2022/08/Wells-Fargo-150x150.jpg" alt="Wells Fargo logo" width="150" height="150" />
+<p style="text-align: justify;">Wells Fargo provides small businesses with access to the largest branch network in the US with over 4,900 branches and 12,000 ATMs. They can be found in 37 states including Washington DC. Across this network, small businesses have access to dedicated bankers who develop a deep understanding of their businesses. The bankers can support and tailor products and services to the needs of each small business. This includes a range of checking account options, business credit cards, domestic and international payment services, payroll services, and merchant services. Wells Fargo’s merchant services allow businesses to take payments in-person, online, and on the go. Wells Fargo also provides businesses with a range of flexible funding options including lines of credit, SBA loans, and commercial real estate financing. Businesses can manage and monitor all their services using their online account and mobile banking applications. Wells Fargo’s strong commitment to small businesses is also demonstrated by their $420m “Open for Business Fund” which was set up in 2020 to support small businesses through the COVID-19 crisis. The fund provides microloans, grants, and favourable financial terms to small businesses that were severely hit by the pandemic and who traditionally struggle for funding. In February, the fund announced $20m in funding to help diverse-led small businesses in Los Angeles to acquire property and equipment. Given its deep commitment to its customers, the CFI.co judging panel is proud to award Wells Fargo with the 2022 award for Best Small Business Banking Services (United States).</p>
