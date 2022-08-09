@@ -1,0 +1,19 @@
+---
+id: 10639
+title: "CORDET: Best Alternative Credit Investor UK 2022"
+award_year: 2022
+published: 2022-08-09 14:59:27
+published_gmt: 2022-08-09 13:59:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/cordet-best-alternative-credit-investor-uk-2022/"
+categories: ["Europe", "Finance"]
+content_sha256: ab2198bc20922e9794fbcd843d1dc88361944bbfcc0d6ef298e62530259fd84c
+canonical: 10639-cordet-best-alternative-credit-investor-uk-2022.json
+---
+
+# CORDET: Best Alternative Credit Investor UK 2022
+
+> Verbatim archived copy. Canonical machine record: `10639-cordet-best-alternative-credit-investor-uk-2022.json`.
+
+<img class="aligncenter size-full wp-image-7821" src="https://cfi.co/awards/wp-content/uploads/2020/06/Cordet.jpg" alt="Cordet" width="500" height="79" />
+<p style="text-align: justify;">Since its 2013 launch, CORDET has focused with laser precision on Northern Europe’s alternative credit market. CORDET tailors private debt and direct lending solutions for mid-market companies with a stable record of cash flow. It makes select-few investments per year, taking the time to thoroughly vet prospects and establish longstanding relationships with all stakeholders. CORDET targets companies with annual revenue under €250m and EBITDA between €2m and €15m. It only invests in sectors where it has demonstrated all-weather experience across credit cycles. CORDET’s lending activity fills a gap in the market — and offers attractive risk-adjusted core income-focused returns for institutional investors. CORDET has assembled a team of finance, risk and investment specialists to collaborate with investors and company executives to nurture mutual growth. People-centric policies drive internal development and external engagement. CORDET operates according to Nordic standards and has been cited as a best-in-class employer with indiscriminatory benefits, including generous parental leave. CORDET aligns decision-making with the Principles for Responsible Investment, Task Force on Climate-Related Financial Disclosures and Paris Agreement — and receives top ESG marks from external ratings agencies. It celebrates the sustainability progress made by portfolio companies, like automotive supplier FLABEG transitioning to renewable energies or Trust Payment seeking B-Corp certification and pushing for equality with a 42-percent-female workforce. The CFI.co jury points to CORDET’s reliable past performance, particularly throughout the pandemic, combined with a growing pipeline of partners as justification for claiming the Best Alternative Credit Investor (UK) award — for the third consecutive year in 2022.</p>
