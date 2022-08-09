@@ -1,0 +1,19 @@
+---
+id: 10629
+title: "Arca Fondi SGR: Best Emerging Markets Debt Manager Europe 2022"
+award_year: 2022
+published: 2022-08-09 14:47:03
+published_gmt: 2022-08-09 13:47:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2022/"
+categories: ["Europe", "Finance"]
+content_sha256: 70a068ae0b6f39c4830a52499102db3e0572ef514efaa1642f807b6a265126f5
+canonical: 10629-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2022.json
+---
+
+# Arca Fondi SGR: Best Emerging Markets Debt Manager Europe 2022
+
+> Verbatim archived copy. Canonical machine record: `10629-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2022.json`.
+
+<img class="aligncenter size-full wp-image-5464" src="https://cfi.co/awards/wp-content/uploads/2018/04/Arca.jpg" alt="Arca" width="400" height="135" />
+<p style="text-align: justify;">Arca Fondi SGR is one of Italy’s leading asset management companies. The firm has developed a range of value-added savings and investment solutions since its launch 1983. Arca Fondi SGR adheres to the highest standards of professionalism, good governance and operational excellence. The independent company has an extensive distribution network of 100 placement agencies and more than 8,000 branches. All Arca collaborators, whether internal or external, are united under a set of ethical principles of business conduct. Arca Fondi SGR has pioneered many firsts in the Italian market, always with the aim to add value, seize opportunities and mitigate risks. Arca Fondi SGR has built filter tools into its website, allowing visitors to sort the multitude of available investment products according to their interests and needs. Prospective subscribers can see at a glance information on share values, ratings and term periods — or which funds offer the best tax benefits or ESG performance. Arca Fondi SGR is trusted by 820,000 subscribers and 190,000 pension fund members. It manages portfolios with high levels of transparency and diversification across securities, markets, issuers, currencies and product sectors. The CFI.co judging panel has followed the firm’s progress over the past seven years, first commenting on its high client retention rates, long-term relationships, multi-manager solutions and consistent portfolio performance. The panel is pleased to find Arca Fondi SGR continuing to build on the momentum — and reaffirms its bragging rights with the 2022 award for Best Emerging Markets Debt Manager (Europe).</p>
