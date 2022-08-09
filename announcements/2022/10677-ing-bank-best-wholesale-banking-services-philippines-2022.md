@@ -1,0 +1,19 @@
+---
+id: 10677
+title: "ING Bank: Best Wholesale Banking Services Philippines 2022"
+award_year: 2022
+published: 2022-08-09 15:23:18
+published_gmt: 2022-08-09 14:23:18
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2022/ing-bank-best-wholesale-banking-services-philippines-2022/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: e5dc718ecc9305580060708a2e72f14b3d87432df5714edb3782ff33871346b9
+canonical: 10677-ing-bank-best-wholesale-banking-services-philippines-2022.json
+---
+
+# ING Bank: Best Wholesale Banking Services Philippines 2022
+
+> Verbatim archived copy. Canonical machine record: `10677-ing-bank-best-wholesale-banking-services-philippines-2022.json`.
+
+<img class="aligncenter size-full wp-image-9052" src="https://cfi.co/awards/wp-content/uploads/2021/04/ING.jpg" alt="ING" width="500" height="131" />
+<p style="text-align: justify;">ING Bank in the Philippines has an enviable record in the provision of wholesale banking services. The Amsterdam-based organisation, which opened its first branch in Manila in 1990, was the first foreign-owned bank to be awarded a universal banking licence in the Philippines, and has a proven track record, especially in wholesale banking services. It offers a range of products to both foreign and domestic businesses, including currency financing, corporate lending, mergers and acquisitions, and trade finance transactions. The ING Philippine franchise has won numerous awards for banking excellence since inception. ING prides itself on its client focus approach, and will tailor solutions to an individual business’s needs. This includes provision of a single point of contact at the bank to advise on a range of products, and organise industry specialists to provide further guidance when required. ING Philippines is also leading the way in all-digital banking, providing a retail banking platform app which includes features such as facial recognition, digital cheque deposits, and instant money transfers. ING Philippines is signed up to the parent company’s extensive environmental strategy, and was heavily involved in the development of the country’s Burgos Wind Project – a major initiative in the Philippines’ renewable energy drive. ING is an acknowledged expert in the field of renewable energy project financing, and used its sector expertise to help successfully develop the ambitious scheme. In 2022, for the second consecutive year, the CFI.co judging panel is pleased to present ING with the award, Best Wholesale Banking Services Philippines.</p>
