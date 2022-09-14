@@ -1,0 +1,20 @@
+---
+id: 10762
+title: "Zambia National Building Society: Best Mortgage Provider Zambia 2022"
+award_year: 2022
+published: 2022-09-14 09:03:24
+published_gmt: 2022-09-14 08:03:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2022/zambia-national-building-society-best-mortgage-provider-zambia-2022/"
+categories: ["Africa", "Banking"]
+content_sha256: 489343e677b6f4faff480b5f572ab6af17c58d30274dbf7e3797532c019a836e
+canonical: 10762-zambia-national-building-society-best-mortgage-provider-zambia-2022.json
+---
+
+# Zambia National Building Society: Best Mortgage Provider Zambia 2022
+
+> Verbatim archived copy. Canonical machine record: `10762-zambia-national-building-society-best-mortgage-provider-zambia-2022.json`.
+
+<img class="aligncenter size-full wp-image-10767" src="https://cfi.co/awards/wp-content/uploads/2022/09/Zambia-National-Building-Society.jpg" alt="Zambia National Building Society" width="500" height="112" />
+<p style="text-align: justify;">Zambia National Building Society (ZNBS) was established by the Building Societies Actin 1968. Since its inception, ZNBS has grown into the largest Building Society in Zambia, with a nationwide network of 21 branches and 15 properties. ZNBS is wholly owned by the Zambian Government and regulated by the Central Bank. It promotes financial inclusion and property ownership with a specialised service suite centred around mortgage financing and banking. The Society has also developed a complementary product to support the journey of buying a home. The company prioritises innovation as a catalyst for sustainable growth and has set strategic development plans for the next three years. ZNBS has over the last year assisted over 1800 families with incremental construction and home purchase financing loans, continuing to tackle the challenge of Affordable Housing Finance in Zambia. ZNBS has continued to offer innovative Mortgage solutions on the market which now includes, Equity Release, Bare Land Financing and Diaspora Mortgages.</p>
+<p style="text-align: justify;"> The Society has also made significant progress on its digital transformation strategy introducing mobile, internet banking and agency banking channels to its client base. Over 1.3 million transactions have been processed over the institutions alternative channels in the last one year signalling a shift in client preferences around the mode of access to financial services... The CFI.co judging panel is pleased to present Zambia National Building Society with the 2022 award for the Best Mortgage Provider in Zambia.</p>
