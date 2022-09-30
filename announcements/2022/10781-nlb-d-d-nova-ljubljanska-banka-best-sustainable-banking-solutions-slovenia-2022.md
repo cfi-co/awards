@@ -1,0 +1,19 @@
+---
+id: 10781
+title: "NLB d.d. (Nova Ljubljanska banka): Best Sustainable Banking Solutions Slovenia 2022"
+award_year: 2022
+published: 2022-09-30 09:39:48
+published_gmt: 2022-09-30 08:39:48
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2022/nlb-d-d-nova-ljubljanska-banka-best-sustainable-banking-solutions-slovenia-2022/"
+categories: ["Banking", "Europe", "Sustainability"]
+content_sha256: e27166d2db7d6849850da869c323505645ab68675abf2c0b6390ce05c9e5e181
+canonical: 10781-nlb-d-d-nova-ljubljanska-banka-best-sustainable-banking-solutions-slovenia-2022.json
+---
+
+# NLB d.d. (Nova Ljubljanska banka): Best Sustainable Banking Solutions Slovenia 2022
+
+> Verbatim archived copy. Canonical machine record: `10781-nlb-d-d-nova-ljubljanska-banka-best-sustainable-banking-solutions-slovenia-2022.json`.
+
+<img class="aligncenter size-full wp-image-10783" src="https://cfi.co/awards/wp-content/uploads/2022/09/NLB.jpg" alt="NLB" width="500" height="209" />
+<p style="text-align: justify;">NLB d.d. (Nova Ljubljanska banka) is a public Slovenian company and a main entity of the NLB Group, a leading banking and financial group with headquarters and an exclusive strategic interest in Southeast Europe. In addition to NLB d.d., the group is comprised of seven subsidiary banks, most of which hold systemically important positions in their respective markets. The bank aims to drive the economic development of Southeast Europe, which it calls home. That sentiment is underscored by the bank’s commitment to shape society and improve the quality of life for all its people. The group’s latest advertising campaign — #FrameOfHelp — calls for optimism in the face of uncertainty and pays homage to national heroes who pioneered space exploration and laid the foundations for modern electricity. The campaign aims to inspire regional dreamers to innovate and build a better future together, with emphasis on sustainable solutions. NLB’s sustainability strategy is centred around three pillars: responsible financing, business ethics and social responsibility. NLB was the first bank from Slovenia to commit to the UN Principles for Responsible Banking and has embedded sustainability material concerns throughout its operations. In the spring of 2022, the bank has also joined the United Nations Net Zero Banking Alliance. While other institutions are setting far-off targets for emissions reduction, NLB has committed itself to stop investing in coal after 2020. It offers competitive green credit lines for customers undertaking an energy renovation or passive house certification. In the first half of 2022, the group achieved a 25 percent increase in recurring profit before impairments and provisions, compared to the same period the previous year. The CFI.co judging panel announces NLB as the 2022 award winner for Best Sustainable Banking Solutions (Slovenia).</p>
