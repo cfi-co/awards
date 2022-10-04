@@ -1,0 +1,21 @@
+---
+id: 10786
+title: "STS PayOne: Best Digital Payment Transformation Partner GCC 2022"
+award_year: 2022
+published: 2022-10-04 10:37:36
+published_gmt: 2022-10-04 09:37:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2022/sts-payone-best-digital-payment-transformation-partner-gcc-2022/"
+categories: ["Middle East", "Technology"]
+content_sha256: 7adefd557979ae27eae273b9c4f91c5e85ca6946853d9743625fca55c1930bc3
+canonical: 10786-sts-payone-best-digital-payment-transformation-partner-gcc-2022.json
+---
+
+# STS PayOne: Best Digital Payment Transformation Partner GCC 2022
+
+> Verbatim archived copy. Canonical machine record: `10786-sts-payone-best-digital-payment-transformation-partner-gcc-2022.json`.
+
+<img class="aligncenter size-full wp-image-10787" src="https://cfi.co/awards/wp-content/uploads/2022/10/STS-Pay-One.jpg" alt="STS PayOne" width="500" height="101" />
+<p style="text-align: justify;"><strong>One of the stand-out providers in the payment gateway service field is STS PayOne, a leading fintech company which is helping to revolutionise the sector. The business has proven specialism in digital payment acceptance, and is enterprise-centric. Based in the Jordanian capital Amman, with offices in Istanbul, Riyadh and Dubai, the company follows a unique business model making its operations more agile and cost-effective in a highly competitive sector.</strong></p>
+<p style="text-align: justify;">STS PayOne has built a reseller network and a broad client base across the Middle East and Africa, helping businesses to boost sales, offering a fast and secure online payment experience. It utilised technology which has been developed in-house, to cater for the specific needs of clients and launch products at the right time. The company is providing cutting-edge solutions for merchants who need to accept digital payments across eCommerce websites, mobile applications, POS machines and the pay-by-link mechanism.</p>
+<p style="text-align: justify;">The CFI.co judging panel is pleased to present the company with the 2022 award, Best Digital Payment Transformation Partner GCC.</p>
