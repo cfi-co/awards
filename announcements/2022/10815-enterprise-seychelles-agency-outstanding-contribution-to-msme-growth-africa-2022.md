@@ -1,0 +1,19 @@
+---
+id: 10815
+title: "Enterprise Seychelles Agency: Outstanding Contribution to MSME Growth Africa 2022"
+award_year: 2022
+published: 2022-10-19 13:58:57
+published_gmt: 2022-10-19 12:58:57
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2022/enterprise-seychelles-agency-outstanding-contribution-to-msme-growth-africa-2022/"
+categories: ["Africa", "Development", "Government", "Projects"]
+content_sha256: 34d82489081ae6140014aa48b96438de556741f3cdff9e9f7bf8bc936d7955dd
+canonical: 10815-enterprise-seychelles-agency-outstanding-contribution-to-msme-growth-africa-2022.json
+---
+
+# Enterprise Seychelles Agency: Outstanding Contribution to MSME Growth Africa 2022
+
+> Verbatim archived copy. Canonical machine record: `10815-enterprise-seychelles-agency-outstanding-contribution-to-msme-growth-africa-2022.json`.
+
+<img class="aligncenter size-full wp-image-10816" src="https://cfi.co/awards/wp-content/uploads/2022/10/ESA.jpg" alt="ESA" width="500" height="185" />
+<p style="text-align: justify;">Enterprise Seychelles Agency (ESA) was established to provide entrepreneurs with the services and support needed to grow their business. ESA acts as a liaison between Government bodies and Seychelles start-ups and MSMEs to strengthen partnerships, organise training and promote an ecosystem of gender-balanced entrepreneurship. It facilitates businesses’ access to raw materials, cutting-edge technology and other products, while supporting them through ongoing training and know-how to establish a foothold in international markets. The agency has played a key role in continuing efforts to improve the ease of doing business and is helping to push the economy towards more responsible and sustainable practices. Many of the highlights from the Seychelles’ archipelago centre around the blue economy, such as sustainable fisheries, rock oyster farming and organic seaweed solutions for agriculture and health. The agency ensures entrepreneurs are aware of the funding opportunities available to them. It has consolidated information on eight financing programmes geared towards Seychelles’ businesses, including a green loan programme, a seed capital grant scheme, the blue investment fund and a subsidised loan to invest in energy efficiency and renewable energy technologies. ESA is helping to ensure that MSMEs are able thrive and this in turn creates an attractive environment for international investment. The agency has built a strong and experienced team that understands how to ensure that government and the private sector work together to drive sustainable growth. The CFI.co judging panel announces Enterprise Seychelles Agency as the 2022 award winner for <strong>Outstanding Contribution to MSME Growth (Africa). </strong></p>
