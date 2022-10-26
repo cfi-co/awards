@@ -1,0 +1,19 @@
+---
+id: 10839
+title: "ATLAS Infrastructure: Best Climate Impact Responsible Investor UK 2022"
+award_year: 2022
+published: 2022-10-26 13:25:35
+published_gmt: 2022-10-26 12:25:35
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/development/projects/2022/atlas-infrastructure-best-climate-impact-responsible-investor-uk-2022/"
+categories: ["Best Practice", "CSR", "Development", "Europe", "Industries", "Projects"]
+content_sha256: a1f4547a42212c9a33ac3fc1915c081992f52015ad3403e301288b83b3c15ed9
+canonical: 10839-atlas-infrastructure-best-climate-impact-responsible-investor-uk-2022.json
+---
+
+# ATLAS Infrastructure: Best Climate Impact Responsible Investor UK 2022
+
+> Verbatim archived copy. Canonical machine record: `10839-atlas-infrastructure-best-climate-impact-responsible-investor-uk-2022.json`.
+
+<img class="aligncenter size-full wp-image-9502" src="https://cfi.co/awards/wp-content/uploads/2021/08/Atlas-Infrastructure.jpg" alt="Atlas Infrastructure" width="400" height="119" />
+<p style="text-align: justify;">Since its launch in late 2017, ATLAS Infrastructure has focused exclusively on listed infrastructure companies. ATLAS differentiates itself with its specialised focus, deep industry expertise and global coverage from its offices in London and Sydney. ATLAS integrates detailed climate change policy scenarios and emissions benchmarking at within its investment process. ATLAS’ Climate Advisory Board brings together experts to collaborate on pressing sustainability challenges. The founding director of Oxford’s Sustainable Finance Programme, Ben Caldecott, forms part of the board. So does Amandine Denis-Ryan, who oversees system change and capability at the leading climate change think-tank in Australia. The remaining board members have backgrounds in economic strategy, scenario modelling and energy innovation. The firm recently expanded the investment team — now 15 strong — improving on its already-impressive analytical capabilities. It has begun to work with the Institutional Investors Group on Climate Change (IIGCC) and non-profit Ceres as a thought leader on emissions forecasting and science-based targets. ATLAS is scheduled to present at the IIGCC’s Infrastructure Guidance event and Ceres’ Paris Alignment Investor Working Group. The firm promotes knowledge sharing and has been working with large institutional investors like Blackrock and LGIM to impart some of the lessons learned from its climate-centred approach. Climate commitments don’t come at the expense of investor returns. Over the past year, the firm has outperformed the broader listed equities index by approximately 20 percent. The CFI.co jury presents three-time winner ATLAS Infrastructure with the 2022 award for Best Climate Impact Responsible Investor (UK).</p>
