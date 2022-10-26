@@ -1,0 +1,19 @@
+---
+id: 10833
+title: "Deloitte Cyprus: Best International Financial Advisory Team Cyprus 2022"
+award_year: 2022
+published: 2022-10-26 13:04:44
+published_gmt: 2022-10-26 12:04:44
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/professional-services/consultancies/2022/deloitte-cyprus-best-international-financial-advisory-team-cyprus-2022/"
+categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_sha256: a4f5bd8f7f4eaa63fd459e4c35e9219f6128d5f8bf4b7e5cc5ef84d727fd36f0
+canonical: 10833-deloitte-cyprus-best-international-financial-advisory-team-cyprus-2022.json
+---
+
+# Deloitte Cyprus: Best International Financial Advisory Team Cyprus 2022
+
+> Verbatim archived copy. Canonical machine record: `10833-deloitte-cyprus-best-international-financial-advisory-team-cyprus-2022.json`.
+
+<img class="aligncenter size-full wp-image-6376" src="https://cfi.co/awards/wp-content/uploads/2019/01/Deloitte.jpg" alt="Deloitte" width="500" height="167" />
+<p style="text-align: justify;">Deloitte Cyprus forms part of a global organisation with a 150-year history, 286,000 employees in 150 countries, and four out of five Fortune-500 companies as clients. The company works with public and private sector clients, offering specialised services in risk and financial advisory, audit and assurance, consulting, tax, legal, family enterprise and international markets. The financial advisory team supports local businesses and international players in Cyprus, conducting the necessary feasibility studies and due diligence to help them fuel growth, mitigate risks and maintain regulatory compliance. Deloitte Cyprus has assisted companies with the assessment of project sustainability and the development of ESG strategies. Deloitte is proud to be involved in the green energy transition and creation of a new port in Cyprus. Strong collaboration across Deloitte’s global offices gives the team a competitive edge in research, networking and deal execution. Deloitte Cyprus offers assistance with M&amp;As, divestitures, private placements, privatisations, equity capital and business valuation. It’s a rock of reliability in moments of financial crisis, stepping in to guide reorganisation and restructuring solutions to ensure the turnaround of a struggling business. Despite ongoing Covid complications, Deloitte Cyprus has successfully concluded the majority of projects that were put on hold by the pandemic. The company is walking clients through major changes to the Cypriot tax environment, including a new transfer pricing regime. The CFI.co judging panel presents Deloitte Cyprus — a programme winner for the third consecutive year — with the 2022 award for Best International Financial Advisory Team (Cyprus).</p>
