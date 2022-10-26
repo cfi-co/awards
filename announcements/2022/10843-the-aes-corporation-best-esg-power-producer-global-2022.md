@@ -1,0 +1,19 @@
+---
+id: 10843
+title: "The AES Corporation: Best ESG Power Producer Global 2022"
+award_year: 2022
+published: 2022-10-26 13:33:45
+published_gmt: 2022-10-26 12:33:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2022/the-aes-corporation-best-esg-power-producer-global-2022/"
+categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "North America", "Sustainability"]
+content_sha256: 6bd633d4bc356090d7028020780463b3e65a221c55a9b0441fede2dbfef37af1
+canonical: 10843-the-aes-corporation-best-esg-power-producer-global-2022.json
+---
+
+# The AES Corporation: Best ESG Power Producer Global 2022
+
+> Verbatim archived copy. Canonical machine record: `10843-the-aes-corporation-best-esg-power-producer-global-2022.json`.
+
+<img class="aligncenter size-full wp-image-9696" src="https://cfi.co/awards/wp-content/uploads/2021/10/AES-1.jpg" alt="AES" width="513" height="220" />
+<p style="text-align: justify;">AES is a Fortune 500 energy company, delivering global scale and local impacts on four continents. The US-based company is headquartered in Arlington, Virginia and operates in 14+ markets, including in the United States, Central America, South America, Europe, and Asia. AES pulls from 41 years of history to develop energy solutions that fit the needs of its customers and the communities in which it operates. Some highlights from the company’s early years include the first documented US carbon offset programme, the first utility-scale battery energy storage in the world and the first to provide ancillary grid services for energy storage. Over the past year, AES has marked numerous milestones in its mission to accelerate the clean energy transition. It formed the US Solar Buyer Consortium with three other leading solar companies, investing upwards of $6bn to boost US domestic solar manufacturing. It signed a deal to provide renewable energy to Amazon and expanded on an agreement with Microsoft to supply California data centres with renewable energy. AES pioneered a first-of-its-kind robot to accelerate solar construction and has stated its intent to remove coal assets from its portfolio by 2025. It has invested $10m in over 100 social impact initiatives, which has benefitted more than three million people worldwide. The CFI.co judging panel has previously recognised the crucial role played by AES in driving the green energy transition. The jury continues to be impressed with company’s ability to unite people worldwide in the fight for a more sustainable future — and reaffirms AES’ bragging rights for the 2022 global award for Best ESG Power Producer.</p>
