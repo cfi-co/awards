@@ -1,0 +1,19 @@
+---
+id: 10841
+title: "JP Morgan: Best CSR Banking US 2022"
+award_year: 2022
+published: 2022-10-26 13:31:42
+published_gmt: 2022-10-26 12:31:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2022/jp-morgan-best-csr-banking-us-2022/"
+categories: ["Banking", "Best Practice", "CSR", "North America"]
+content_sha256: 3450f099aa3a84b923356fc5f79b8cf867565ea3b6667f19d125298da191a8c8
+canonical: 10841-jp-morgan-best-csr-banking-us-2022.json
+---
+
+# JP Morgan: Best CSR Banking US 2022
+
+> Verbatim archived copy. Canonical machine record: `10841-jp-morgan-best-csr-banking-us-2022.json`.
+
+<img class="aligncenter size-full wp-image-7000" src="https://cfi.co/awards/wp-content/uploads/2019/12/JPMorgan.jpg" alt="JPMorgan" width="261" height="72" />
+<p style="text-align: justify;">American multinational JP Morgan is pursuing a Corporate Social Responsibility plan designed to uplift communities through ongoing investments, business initiatives and philanthropic commitments. The investment bank and financial services holding company has more than 200 years of history and a presence in over 100 markets worldwide. The company levers its capital, data and expertise to fight climate change and develop long-term solutions that promote sustainability. It organises formation programmes to equip people with the skills and tools to advance in their personal and professional lives. It partners with small businesses and entrepreneurs to fuel job creation. JP Morgan is helping clients to achieve financial stability and meet long-term financial goals by developing innovative fintech tools, expanding financial coaching programs and supporting non-profits that empower people to save, pay down debt and build wealth. It designates investment and philanthropic capital and forges partnerships to help build stronger communities. The company has taken a stance against racial inequality — and pledged to spend $30bn to level the playing field. It is committed to breaking down barriers of systemic racism and driving inclusive economic growth, particularly in black and Latinx communities. JP Morgan’s commercial banking division contributes to the group’s CSR objectives through its day-to-day lending activities. The bank supports companies with a sustainable mindset and invests in affordable housing. The CFI.co judging panel has praised the company’s good deeds in previous programmes — and reaffirms its bragging rights in 2022 with the Best CSR Banking (US) award.</p>
