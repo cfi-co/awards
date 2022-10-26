@@ -1,0 +1,19 @@
+---
+id: 10829
+title: "KBC Group: Best Bank Europe 2022"
+award_year: 2022
+published: 2022-10-26 12:52:00
+published_gmt: 2022-10-26 11:52:00
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2022/kbc-group-best-bank-europe-2022/"
+categories: ["Banking", "Europe"]
+content_sha256: e25efb51cac9162e8a3c275d6ba1e6e2d43afa65083d4b46d9b4be5079c04ce5
+canonical: 10829-kbc-group-best-bank-europe-2022.json
+---
+
+# KBC Group: Best Bank Europe 2022
+
+> Verbatim archived copy. Canonical machine record: `10829-kbc-group-best-bank-europe-2022.json`.
+
+<img class="aligncenter size-full wp-image-5403" src="https://cfi.co/awards/wp-content/uploads/2018/04/KBC.jpg" alt="KBC" width="349" height="272" />
+<p style="text-align: justify;">Since its launch in 1998, KBC has aimed to become one of the best-performing financial institutions in Europe. The Belgium-based group has proven that it has the market position, liquidity and leadership to reach its goal. It focuses on banking and insurance services for retail, SME and mid-cap clients in Belgium, Czech Republic, Slovakia, Hungary and Bulgaria. First quarter results for 2022 were the best in the group’s history, thanks to prudent provisions at the onset of the pandemic that helped it to not only survive, but thrive. This summer, KBC became the first Belgian bank to issue a social bond. It also established a partnership allowing app users to compare energy prices and switch providers. KBC runs the business with a view for long-term stability. It has achieved exemplary growth — which never comes at the cost of profitability or sustainability. KBC Group received a nod from the European Central Bank for its climate review. The group advocates for climate responsibility, starting with the CEO and filtering throughout the ranks of 40,000 employees. KBC boss Johan Thijs has been nominated multiple times by Harvard Business Review as one of the best-performing CEOs in the world. Thijs has a background in data science and brings to banking the type of constant disruption made famous by market-creating tech companies, like Google or Amazon. The CFI.co judging panel is pleased to recognise KBC Group — a repeat programme winner — with the 2022 award for Best Bank (Europe).</p>
