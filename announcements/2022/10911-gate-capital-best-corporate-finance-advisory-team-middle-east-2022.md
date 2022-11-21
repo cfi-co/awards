@@ -1,0 +1,19 @@
+---
+id: 10911
+title: "Gate Capital: Best Corporate Finance Advisory Team Middle East 2022"
+award_year: 2022
+published: 2022-11-21 06:00:00
+published_gmt: 2022-11-21 06:00:00
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2022/gate-capital-best-corporate-finance-advisory-team-middle-east-2022/"
+categories: ["Consultancies", "Finance", "Middle East", "Professional Services"]
+content_sha256: f9f6ab00c949c8167974d996cfccec0a604a3c241903a413a27f4b5380c1c92b
+canonical: 10911-gate-capital-best-corporate-finance-advisory-team-middle-east-2022.json
+---
+
+# Gate Capital: Best Corporate Finance Advisory Team Middle East 2022
+
+> Verbatim archived copy. Canonical machine record: `10911-gate-capital-best-corporate-finance-advisory-team-middle-east-2022.json`.
+
+<img class="aligncenter size-full wp-image-10914" src="https://cfi.co/awards/wp-content/uploads/2022/11/Gate-Capital-jpg.webp" alt="Gate Capital" width="500" height="173" />
+<p style="text-align: justify;">Founded in 2009, Gate Capital is recognised as one of the well-established Corporate Finance and Advisory firms in the Middle East. Gate takes a blended approach to corporate finance advisory supported by multi-disciplinary industry experience and a global network of investment partners. Gate Capital has proven itself capable of structuring complex transactions and innovative funding solutions that have solidified its sterling regional reputation, with an impressive track record  and more than $1.5bn of successfully closed transactions since inception. The firm works with a large variety of clients,  from large corporations and family offices to start-ups and  SMEs. Gate Capital has recently successfully advised on a Goldman Sachs investment in Sunset Hospitality, a milestone achievement for the investment landscape in the Middle East, thus cementing Gate’s capabilities to respond to fleeting market opportunities with an experienced team that delights in customising solutions to client needs. Furthermore, the firm has built a venture investment banking arm that has widened exposure beyond the typical corporate finance sphere. Gate Ventures gathered five leading portfolio companies in additive manufacturing, food &amp; agritech and healthtech over the past 12 months. The Dubai-based firm is tapping into the regional talent pool to give start-ups  the most personalised handholding solutions possible throughout their journey  Gate Capital dedicated team members sit with business leaders to understand their requirements  and chart a path to achieve optimised objectives. Gate Capital strives to deliver longevity and resilience in the face of turbulent market conditions and takes on the role of CIO for many of its clients. The firm aims to become a one-stop shop for businesses, with a wheelhouse of expertise that covers debt and capital structuring advisory, corporate, governance and strategy tailoring  as well as transformation solutions , financial feasibility studies and market in depth study along with business planning. The CFI.co judging panel presents Gate Capital — a repeat programme winner — with the 2022 award for Best Corporate Finance Advisory Team (Middle East).</p>
