@@ -1,0 +1,19 @@
+---
+id: 10956
+title: "PGM Global Inc: Best Global Portfolio Strategy Team North America 2022"
+award_year: 2022
+published: 2022-12-09 14:22:42
+published_gmt: 2022-12-09 14:22:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2022/pgm-global-inc-best-global-portfolio-strategy-team-north-america-2022/"
+categories: ["Asset Management", "Finance", "North America"]
+content_sha256: 24e6d2e91420119f31c1e181400dfb8cd34ecce75eb6181a9f041037f29a66ff
+canonical: 10956-pgm-global-inc-best-global-portfolio-strategy-team-north-america-2022.json
+---
+
+# PGM Global Inc: Best Global Portfolio Strategy Team North America 2022
+
+> Verbatim archived copy. Canonical machine record: `10956-pgm-global-inc-best-global-portfolio-strategy-team-north-america-2022.json`.
+
+<img class="aligncenter size-full wp-image-10959" src="https://cfi.co/awards/wp-content/uploads/2022/12/PGM-Global-jpg.webp" alt="PGM Global" width="500" height="283" />
+<p style="text-align: justify;">PGM Global brings over 50 years of experience in the securities industry to help clients master international markets. It has established a homebase in North America, with headquarters in Montreal and an office in New York, but its reach and expertise extends worldwide. The boutique firm operates a trading desk — 24 hours a day, five days a week, $78bn annual trading volume — that plays a crucial part in the execution of transition management services. It works with institutional investors to execute trading in equities, fixed income and currencies. In addition to trading and transition, the PGM team also specialises in global macro research. The team distils global macro trends into concise trades ideas tailored to client’s needs. Despite the current economic environment, PGM Global has found 2022 to be an active year with an uptick in projects. Clients appreciate the high calibre and extensive scope of PGM’s research capabilities. The team is travelling more since Covid restrictions have loosened, prospecting internationally for new clientele and establishing touchpoints across its operational sphere. PGM Global strives for excellence in all endeavours and has won the loyalty of its clients — as well as a nod from the CFI.co judging panel. PGM Global, a repeat programme winner, claims the 2022 award for Best Global Portfolio Strategy Team (North America).</p>
