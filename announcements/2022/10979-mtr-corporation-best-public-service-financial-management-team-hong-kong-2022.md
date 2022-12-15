@@ -1,0 +1,19 @@
+---
+id: 10979
+title: "MTR Corporation: Best Public Service Financial Management Team Hong Kong 2022"
+award_year: 2022
+published: 2022-12-15 05:16:22
+published_gmt: 2022-12-15 05:16:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2022/mtr-corporation-best-public-service-financial-management-team-hong-kong-2022/"
+categories: ["Asia Pacific", "Finance", "Transport"]
+content_sha256: 1993e6fefeba0c2d076d3ff265f956efae3af796acb1e51758c8085b2ab54073
+canonical: 10979-mtr-corporation-best-public-service-financial-management-team-hong-kong-2022.json
+---
+
+# MTR Corporation: Best Public Service Financial Management Team Hong Kong 2022
+
+> Verbatim archived copy. Canonical machine record: `10979-mtr-corporation-best-public-service-financial-management-team-hong-kong-2022.json`.
+
+<img class="aligncenter size-full wp-image-9909" src="https://cfi.co/awards/wp-content/uploads/2021/12/MTR.jpg" alt="MTR" width="500" height="136" />
+<p style="text-align: justify;">MTR Corporation started out as the Mass Transit Railway provider for Hong Kong, but over the past 47 years, the company has expanded its operational scope and geographic footprint. MTR pursues a “rail-plus-property” business model that has enabled it to create synergies and diversify revenue streams. MTR Corporation leads and coordinates property development, negotiating with governments on greenfield land rights before opening tender packages to partners. MTR oversees the design and construction, while the development partners typically cover the land premium and development costs. The company now has a global footprint stretching from Hong Kong to the UK, Sweden, Australia and mainland China. MTR’s diversification has proven crucial as waves of Covid variants continue to threaten people’s health and companies’ solvency. The corporation has promised to “ride out the tough times together with the public”. It froze fares for the 2022/23 financial year — just as it has over the past two years. It introduced a fare reduction of 1.85 percent last year, and has also extended a special fare rebate of 3.8 percent till the first of January, 2023. It’s offering more than $600m worth of fare promotions this year, in addition to the usual $2.2bn in concessions the corporation bears on an annual basis. MTR keeps cities moving by investing in hi-tech innovations, like robot cleaners and smart sensors. The CFI.co judging panel presents repeat winner MTR Corporation with the 2022 award for Best Public Service Financial Management Team (Hong Kong).</p>
