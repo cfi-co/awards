@@ -1,0 +1,19 @@
+---
+id: 10999
+title: "Elaia Partners: Best Deep Tech Venture Partner Europe 2022"
+award_year: 2022
+published: 2022-12-19 12:22:11
+published_gmt: 2022-12-19 12:22:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2022/elaia-partners-best-deep-tech-venture-partner-europe-2022/"
+categories: ["Europe", "Finance", "Technology"]
+content_sha256: 7aea34c3b4c2778a4db8242d9b80c73c4bdeb3b0630bc06f0aee74d655acdb5b
+canonical: 10999-elaia-partners-best-deep-tech-venture-partner-europe-2022.json
+---
+
+# Elaia Partners: Best Deep Tech Venture Partner Europe 2022
+
+> Verbatim archived copy. Canonical machine record: `10999-elaia-partners-best-deep-tech-venture-partner-europe-2022.json`.
+
+<img class="aligncenter size-full wp-image-11000" src="https://cfi.co/awards/wp-content/uploads/2022/12/Elaia-jpg.webp" alt="Elaia" width="500" height="150" />
+<p style="text-align: justify;">Over the past two decades, Elaia Partners has backed more than 100 tech and deep tech ventures. It has helped to take three companies from seed funding to unicorn status and completed over 50 successful investment exits. The VC partner works closely with universities to maintain a productive pipeline of science and technology innovators.  They look for disruptors in the fields of biotech, climate change, cloud infrastructure, cybersecurity, data digital acceleration, digital health, digital life sciences, digital transformation, fintech, insurtech and remote human organisation – amongst others. Elaia Partners benefits from a diverse and gender-balanced team of 40 scientists, entrepreneurs and business-savvy people working from offices in Paris, Toulouse, Barcelona and Tel Aviv. With €700m under management, they span geographies and tech sectors. Elaia Partners operates according to a financial-first, impact-driven philosophy, seeking to become an enabler of tomorrow's leaders and to create a multiplier effect in their industries. It goes beyond the role of shareholder and board member to serve as an advisor and sparring partner. Elaia Partners is a signatory of the Principles for Responsible Investments and integrates ESG considerations across the investment cycle. It targets entrepreneurs developing  technologies  that transform the future and engages with portfolio companies to accelerate change. The CFI.co judging panel congratulates Elaia Partners, the 2022 winner of the Best Deep Tech Venture Partner (Europe) award.</p>
