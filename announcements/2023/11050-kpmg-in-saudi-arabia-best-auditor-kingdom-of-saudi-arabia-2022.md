@@ -1,0 +1,19 @@
+---
+id: 11050
+title: "KPMG in Saudi Arabia: Best Auditor Kingdom of Saudi Arabia 2022"
+award_year: 2023
+published: 2023-01-10 13:29:07
+published_gmt: 2023-01-10 13:29:07
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2023/kpmg-in-saudi-arabia-best-auditor-kingdom-of-saudi-arabia-2022/"
+categories: ["Consultancies", "Middle East", "Professional Services"]
+content_sha256: 1892a67ba355708853b117f975fea5b18e6c2be1272928565e49e36e0078a6bd
+canonical: 11050-kpmg-in-saudi-arabia-best-auditor-kingdom-of-saudi-arabia-2022.json
+---
+
+# KPMG in Saudi Arabia: Best Auditor Kingdom of Saudi Arabia 2022
+
+> Verbatim archived copy. Canonical machine record: `11050-kpmg-in-saudi-arabia-best-auditor-kingdom-of-saudi-arabia-2022.json`.
+
+<img class="aligncenter size-full wp-image-11051" src="https://cfi.co/awards/wp-content/uploads/2023/01/KPMG-jpg.webp" alt="KPMG" width="500" height="201" />
+<p style="text-align: justify;">KPMG in Saudi Arabia (Legal Name: KPMG Professional Services) is an independent member firm of KPMG International within the Kingdom of Saudi Arabia. The private joint stock company is led by 77 shareholders, which includes both citizens and expatriate residents in its shareholder base. The firm specialises in audit, tax, and advisory services, working from a country rather than regional model, which allows it to place more emphasis on improving its relationship with regulators. KPMG in Saudi Arabia was founded in 1992 and employs 1,634 full-time professionals (as of December 2022) through its local footprint which includes Riyadh, Jeddah, and Al-Khobar. It is an independent member firm of KPMG International. KPMG firms operate in 143 countries and territories with more than 265,000 partners and employees working in member firms around the world. KPMG’s vision is to be the most trusted and trustworthy professional services firm. In the local market, it is one of the largest audit firms of public listed companies as well as an advisor to several companies which it does not audit. These companies place their trust in KPMG for their auditing and business consultancy needs. KPMG is also a reliable partner to government entities and provides auditing services to the sovereign wealth fund of Saudi Arabia and the government-backed smart-city project, NEOM. It works closely with the Saudi Central Bank (“SAMA” and Capital Markets Authority (“CMA”) to ensure compliance with strong governance standards. KPMG collaborates with the Saudi Organization for Chartered and Professional Accountants (“SOCPA”) to promote capacity building and organise continuing professional development training. KPMG invests considerable time and resources in the development of human capital, especially through KPMG’s nationalisation program to help develop and increase the number of Saudi youths in the workplace, and through using online learning platforms and student mentorships to raise standards countrywide. It prioritises good corporate citizenship through pro-bono support of new businesses, charitable sponsorships, female empowerment programmes and SDG (Sustainable Development Goals) alignment. The CFI.co judging panel announces KPMG in Saudi Arabia as the 2022 award winner for Best Auditor (Kingdom of Saudi Arabia).</p>
