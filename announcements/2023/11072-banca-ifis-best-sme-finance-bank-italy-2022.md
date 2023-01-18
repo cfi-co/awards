@@ -1,0 +1,19 @@
+---
+id: 11072
+title: "Banca IFIS: Best SME Finance Bank Italy 2022"
+award_year: 2023
+published: 2023-01-18 13:04:55
+published_gmt: 2023-01-18 13:04:55
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2023/banca-ifis-best-sme-finance-bank-italy-2022/"
+categories: ["Banking", "Europe"]
+content_sha256: a4d9c4f62cd76cd3e605feccdcedd5c90ae4ba8f82c3c753781a1f9664f46968
+canonical: 11072-banca-ifis-best-sme-finance-bank-italy-2022.json
+---
+
+# Banca IFIS: Best SME Finance Bank Italy 2022
+
+> Verbatim archived copy. Canonical machine record: `11072-banca-ifis-best-sme-finance-bank-italy-2022.json`.
+
+<img class="aligncenter size-full wp-image-11070" src="https://cfi.co/awards/wp-content/uploads/2023/01/BancaIfis-jpg.webp" alt="BancaIfis" width="500" height="122" />
+<p style="text-align: justify;">Italy’s Banca IFIS was established in 1983 as a challenger bank specialised in SME financial services. The bank has remained true to its specialist focus and guiding values of innovation, speed and strength. Banca IFIS has a well-established presence in Italy as well as subsidiaries in Poland and Romania. Nearly 2,000 employees cater to the needs of the bank’s 100,000 SME and corporate clients. Banca IFIS has become the fifth Italian player in factoring turnover with a five percent market share. It’s also the fourth operator on the Italian market for non-performing loans (NPL) and a leader in unsecured NPL investments. Banca IFIS offers a range of credit solutions to support SME growth, from factoring and leasing to medium- and long-term loans as well as structured financing. It has facilitated €100m in financing for SMEs to invest in sustainable transition projects. A high-yield online savings account promises returns with an annual gross rate up to 3.50 percent. Banca IFIS works with cross-sector clients in logistics and transport, medical and pharmaceutical, agricultural, manufacturing, construction and food. It takes pride in a proven capacity to customise solutions to fit clients’ needs. The bank has fuelled growth through years of strategic acquisitions and corporate consolidation. It supports the real economy by prioritising the development of its workforce and promoting the achievements of the businesses it serves. The CFI.co judging panel unanimously voted for Banca IFIS in the 2022 award category for Best SME Finance Bank (Italy).</p>
