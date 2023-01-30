@@ -1,0 +1,21 @@
+---
+id: 11117
+title: "Banco do Brasil: Best Sustainable Bank South America 2022"
+award_year: 2023
+published: 2023-01-30 16:12:33
+published_gmt: 2023-01-30 16:12:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2023/banco-do-brasil-best-sustainable-bank-south-america-2022/"
+categories: ["Banking", "Best Practice", "Development", "Government", "Latin America", "Sustainability"]
+content_sha256: 15fb65e0020bba4f8bd30c12cfcedfccbf676488d729ccb8f6d6b3ef4acbf36d
+canonical: 11117-banco-do-brasil-best-sustainable-bank-south-america-2022.json
+---
+
+# Banco do Brasil: Best Sustainable Bank South America 2022
+
+> Verbatim archived copy. Canonical machine record: `11117-banco-do-brasil-best-sustainable-bank-south-america-2022.json`.
+
+<img class="aligncenter size-full wp-image-11130" src="https://cfi.co/awards/wp-content/uploads/2023/01/BdB-jpg.webp" alt="BdB" width="500" height="85" />
+<p style="text-align: justify;">Banco do Brasil (BB) follows through on ESG commitments by consistently directing investments towards the country’s sustainable development. Over the past 40 years, the bank has implemented initiatives to reduce emissions, expand green financing and empower communities. In the last decade, BB was recognised during seven editions of Corporate Knights’ 100 most sustainable corporations in the world, topping the list on four occasions — 2019, 2021, 2022 and 2023 — as the most sustainable financial institution worldwide. The bank has maintained its leadership position by assuming a catalyst role in the country’s social and environmental transformation.</p>
+<p style="text-align: justify;">Its sustainability activities are centred around 10 long-term commitments targeting renewable energies, sustainable agriculture, entrepreneurship, public infrastructure, ESG investments, sustainable bonds, environmental care, diversity, digitalisation and good corporate citizenship. The bank is a pioneer in Brazil’s carbon market and actively involved in the origination and commercialisation of carbon offsetting credits. These efforts have already resulted in the preservation of tens of thousands of hectares of forest and the prevention of hundreds of thousands of tons of CO2 equivalent. In 2022, BB’s individuals renewable energy credit line reached a disbursement milestone of $99.6m, allowing businesses and households to finance 100 percent of energy efficiency improvement projects. The whole renewable energy portfolio reached R$ 9.67 billion balance in Sep/22 (including project finance, loans to SME's, individuals, government and for agribusiness).</p>
+<p style="text-align: justify;">It has partnered with a German development bank to distribute up to €80m to finance environmental conservation and reforestation projects. Its diversity, equity and inclusion programme strives to put more women and minorities in leadership positions. The CFI.co jury congratulates repeat winner Banco do Brasil on claiming the 2022 Best Sustainable Bank (South America) award.</p>
