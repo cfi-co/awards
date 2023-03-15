@@ -1,0 +1,20 @@
+---
+id: 11238
+title: "Western Development Commission: Best Regional Investment Promotion Team Europe 2022"
+award_year: 2023
+published: 2023-03-15 15:01:29
+published_gmt: 2023-03-15 15:01:29
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/development/2023/western-development-commission-best-regional-investment-promotion-team-europe-2022/"
+categories: ["Development", "Europe", "FDI Agencies", "Government"]
+content_sha256: 6d918a7dbbf28eee98b72d01cef1ceaeab40e66c015fafe19de45b47b68f9497
+canonical: 11238-western-development-commission-best-regional-investment-promotion-team-europe-20.json
+---
+
+# Western Development Commission: Best Regional Investment Promotion Team Europe 2022
+
+> Verbatim archived copy. Canonical machine record: `11238-western-development-commission-best-regional-investment-promotion-team-europe-20.json`.
+
+[caption id="attachment_11240" align="aligncenter" width="900"]<img class="size-large wp-image-11240" src="https://cfi.co/awards/wp-content/uploads/2023/03/WDC-1024x695.webp" alt="Geraldine McLoughlin; Investment Executive, Jonathan Kavanagh; Investment Executive, Gillian Buckey, Investment Fund Manager and Olive McLucas; Investment Executive pictured with the CFI award for Best Regional Investment Promotion Team in Europe." width="900" height="611" /> Geraldine McLoughlin; Investment Executive, Jonathan Kavanagh; Investment Executive, Gillian Buckey, Investment Fund Manager and Olive McLucas; Investment Executive pictured with the CFI.co award for Best Regional Investment Promotion Team in Europe.[/caption]
+<p style="text-align: justify;">Western Ireland is famous for its rugged wild natural landscapes — but the region has been battling against population decline since the late 1840s. Western Development Commission (WDC) was established to address the region’s weak infrastructure, dwindling job opportunities and widespread emigration. According to WDC, the seven counties comprising the western region account for 37 percent of the country’s landmass yet only 17.4 percent of the population. The vast majority of the population lives outside of urban centres, with five of the counties reporting disposable per capita income below 90 percent of the national average in 2015. The commission has helped to stem the exodus of talent by developing regional strategies, advising on government policies and providing funding support through the Western Investment Fund (WIF). WDC operates according to the belief that communities are stronger working together. It relies on evidence-based research to co-create positive socio-economic impacts throughout the region. It targets organisations with long-term vision and the capacity to scale on a national and global level. Offshore renewables, gaming, AI and creative industries are all areas of interest. Since its launch in 1997, WDC has invested €75m in regional enterprises and supported more than 6,000 jobs. The WIF provides equity finance, loans and bridging finance to businesses, community enterprises and audio-visual companies based in or moving to the region. The CFI.co jury applauds the revitalisation milestones accomplished by Western Development Commission, the 2022 award winner for Best Regional Investment Promotion Team (Europe).</p>
+<em>See for <a href="https://westerndevelopment.ie/2023/03/15/western-development-commission-receives-prestigious-cfi-award-for-best-regional-investment-promotion-team-in-europe/">press release</a>. </em>
