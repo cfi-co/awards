@@ -1,0 +1,22 @@
+---
+id: 11247
+title: "Boursa Kuwait: Outstanding Contribution to Financial Inclusion GCC 2022"
+award_year: 2023
+published: 2023-03-17 12:49:05
+published_gmt: 2023-03-17 12:49:05
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/community-engagement/2023/boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2022/"
+categories: ["Community Engagement", "Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_sha256: ecaa12a6ccf3288e5eb899d50bca603da18bd1d42d8946ff887cdf4625585cbf
+canonical: 11247-boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2022.json
+---
+
+# Boursa Kuwait: Outstanding Contribution to Financial Inclusion GCC 2022
+
+> Verbatim archived copy. Canonical machine record: `11247-boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2022.json`.
+
+<img class="aligncenter size-full wp-image-10012" src="https://cfi.co/awards/wp-content/uploads/2022/01/Boursa-Kuwait.jpg" alt="Boursa Kuwait" width="400" height="343" />
+<p style="text-align: justify;"><strong>Boursa Kuwait has been a major driving force in promoting engagement, growth, and innovation in Kuwait's capital market since its establishment. The company's efforts have not only supported key stakeholders such as the Capital Markets Authority, issuers, investors, and various other parties, but have also helped elevate the Kuwaiti capital market to "Emerging Market" status in the world's top three indices, reinforcing Kuwait's position as a leading financial centre in the region.</strong></p>
+<p style="text-align: justify;">One of the key factors in Boursa Kuwait's success has been its successful privatization process, which played a pivotal role in the development of Kuwait's capital market and the diversification of the national economy. The company now has a 44% equity stake held by an international exchange and a consortium of Kuwaiti investment companies. In December 2019, Boursa Kuwait became the only stock exchange in the Middle East to be fully owned by the private sector following a public offering of the Capital Markets Authority's 50% stake in the company, which saw an oversubscription rate of 850%. In September 2020, Boursa Kuwait self-listed on the “Premier Market”.</p>
+<p style="text-align: justify;">Boursa Kuwait also facilitates liquidity for Kuwaiti companies by raising capital through listing in the exchange and providing investors with valuable insights into promising opportunities in the Kuwaiti capital market. The company adheres to international best practices with regards to infrastructure, governance, work culture, transparency, and financial literacy. Additionally, Boursa Kuwait is committed to maximizing its social responsibility initiatives through collaboration with industry organizations.</p>
+<p style="text-align: justify;">As a repeat program winner, Boursa Kuwait has been recognized for its commitment to equipping current and future generations of investors with the necessary skills and knowledge to invest in local and international capital markets. The company was honoured with the 2022 award for <em>Outstanding Contribution to Financial Inclusion (GCC)</em> by the CFI.co judging panel.</p>
