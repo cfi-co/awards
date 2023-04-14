@@ -1,0 +1,28 @@
+---
+id: 11301
+title: "King Abdulaziz Center for World Culture (Ithra): Outstanding Contribution to Cultural Development Middle East 2022"
+award_year: 2023
+published: 2023-04-14 13:49:16
+published_gmt: 2023-04-14 12:49:16
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2023/king-abdulaziz-center-for-world-culture-outstanding-contribution-to-cultural-development-middle-east-2022/"
+categories: ["Best Practice", "Community Engagement", "Government", "Middle East"]
+content_sha256: 1bf2b63b9d62127c9b8957dd66dc8e56784392b2c81ef534e68b654ea174ef71
+canonical: 11301-king-abdulaziz-center-for-world-culture-outstanding-contribution-to-cultural-dev.json
+---
+
+# King Abdulaziz Center for World Culture (Ithra): Outstanding Contribution to Cultural Development Middle East 2022
+
+> Verbatim archived copy. Canonical machine record: `11301-king-abdulaziz-center-for-world-culture-outstanding-contribution-to-cultural-dev.json`.
+
+<img class="aligncenter size-full wp-image-11302" src="https://cfi.co/awards/wp-content/uploads/2023/04/Ithra-jpg.webp" alt="Ithra" width="400" height="385" />
+<p style="text-align: justify;">King Abdulaziz Center for World Culture — commonly known as Ithra — is the largest citizenship initiative by Saudi Aramco to promote talent development and cross-cultural engagement in Saudi Arabia. Ithra, which means “enrichment” in Arabic, was designed around the pillars of culture, creativity, community, art and knowledge.</p>
+<p style="text-align: justify;">The centre has hosted over 20 exhibitions and welcomed more than 3 million visitors since its launch. Ithra was built around the country’s first commercial oil well, paying tribute to the wealth generated while also reframing the narrative around the power of human potential. Visitors can roam through the museum galleries to discover the permanent collections as well as regular temporary exhibitions, or immerse themselves in theatre productions designed to spark curiosity and creativity. Life-long learners will find knowledge and opportunity at their fingertips in the first digitally integrated library in Saudi Arabia. Ithra’s Idea Lab supports the development of a creative-based economy by stimulating individual and sector growth across arts, sciences and technology. The Children’s Museum offers a hands-on experience for younger audiences, while the Ithra Tower provides skill-based programming for all age groups and interests. Ithra champions regional content and film production by providing funding and development opportunities to talent and small businesses. In addition to being the venue for the first cinema in Saudi Arabia in 2018, Ithra has nurtured Saudi independent filmmakers, consistently showcasing their work in the most high-profile international film festivals.  Ithra has produced 20 films, supported 14 content series projects, 10 VR/AI projects and more than 500 printed projects related to art and culture in Saudi Arabia. Ithra also conducts studies and research on cultural and creative industries across the MENA region to provide reference to peers and industry players.</p>
+<p style="text-align: justify;">The CFI.co judging panel presents ITHRA with the 2022 award for Outstanding Contribution to Cultural Development (Middle East).</p>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
