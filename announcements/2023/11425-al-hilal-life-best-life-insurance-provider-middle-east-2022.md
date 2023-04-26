@@ -1,0 +1,24 @@
+---
+id: 11425
+title: "Al Hilal Life: Best Life Insurance Provider Middle East 2022"
+award_year: 2023
+published: 2023-04-26 16:26:35
+published_gmt: 2023-04-26 15:26:35
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2023/al-hilal-life-best-life-insurance-provider-middle-east-2022/"
+categories: ["Middle East", "Professional Services"]
+content_sha256: 8442551cfb1808b03644a56d51a4c22e8f229658168fd5dcbf5e05a8bb070ceb
+canonical: 11425-al-hilal-life-best-life-insurance-provider-middle-east-2022.json
+---
+
+# Al Hilal Life: Best Life Insurance Provider Middle East 2022
+
+> Verbatim archived copy. Canonical machine record: `11425-al-hilal-life-best-life-insurance-provider-middle-east-2022.json`.
+
+<a href="https://cfi.co/awards/wp-content/uploads/2019/01/AlHilal.jpg"><img class="size-full wp-image-6395 aligncenter" src="https://cfi.co/awards/wp-content/uploads/2019/01/AlHilal.jpg" alt="AlHilal" width="349" height="407" /></a>Since its launch in 2009, Al Hilal Life has evolved into one of the first-choice providers for protection and savings solutions in the Middle East.
+
+In the past, 90 percent of the insurer’s business came from bank branches. But recent efforts into diversification and digitalisation have allowed Al Hilal Life to increase business from direct sales and brokers to 30 percent of the total volume. It has achieved impressive organic growth over the 2021-22 financial year, in part due to the company’s growing online capabilities. Clients appreciate the convenience of perusing and purchasing insurance products online. Al Hilal Life recently introduced a paperless tablet format to further streamline the process. Al Hilal Life slashed the lengthy processing times typical with traditional insurers when it became the first in Bahrain to allow customers to open and digitally sign an online application. More and more leads are coming through digital channels now, which has doubled the productivity of its financial planning team. The company has developed a robust product suite that caters to the needs of locals and expats alike, consistently launching products that appeal to people from all walks of life. Al Hilal Life offers Shariah-compliant products and is licensed by the Central Bank of Bahrain.
+
+The CFI.co judging panel has followed the company’s progress for years and is pleased to note that it continues on a course of constant innovation. Al Hilal Life claims the 2022 award for Best Life Insurance Provider (Middle East).
+
+&nbsp;
