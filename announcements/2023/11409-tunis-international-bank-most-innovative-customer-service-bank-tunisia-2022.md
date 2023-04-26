@@ -1,0 +1,23 @@
+---
+id: 11409
+title: "Tunis International Bank: Most Innovative Customer Service Bank Tunisia 2022"
+award_year: 2023
+published: 2023-04-26 14:13:32
+published_gmt: 2023-04-26 13:13:32
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2023/tunis-international-bank-most-innovative-customer-service-bank-tunisia-2022/"
+categories: ["Africa", "Banking"]
+content_sha256: a6486791c94966d6c17792b787489b0ea22b8761da3feecf7760f91073b4e9f1
+canonical: 11409-tunis-international-bank-most-innovative-customer-service-bank-tunisia-2022.json
+---
+
+# Tunis International Bank: Most Innovative Customer Service Bank Tunisia 2022
+
+> Verbatim archived copy. Canonical machine record: `11409-tunis-international-bank-most-innovative-customer-service-bank-tunisia-2022.json`.
+
+<p style="text-align: center;"><a href="https://cfi.co/awards/wp-content/uploads/2023/04/TIB-Logosfw-jpg.webp"><img class="alignnone size-full wp-image-11411" src="https://cfi.co/awards/wp-content/uploads/2023/04/TIB-Logosfw-jpg.webp" alt="TIB-Logo " width="500" height="99" /></a></p>
+This year is a special one for Tunis International Bank as it celebrates 40 years of continous growth and sustained success.
+
+Founded in June 1982, TIB was the first private, non-resident commercial bank in Tunisia. TIB’s main shareholder is Burgan Bank Kuwait which is a subsidiary of the Kuwait Projects Company (KIPCO): one of the largest holding companies in the MENA region with consolidated assets of $34bn. The bank’s reputation has been firmly  established as a local provider of the highest quality products and services for corporates, financial institutions, governments and individuals both in Tunisia and abroad. TIB has always been an innovative institution, providing a comprehensive range of products and services tailored to customer business needs including: Foreign Exchange and Money Market operations, International Trade Financing, Private Banking Facilities, Corporate Projects Financing, Loan Syndications, Commercial Banking, and Investments.
+
+&nbsp;
