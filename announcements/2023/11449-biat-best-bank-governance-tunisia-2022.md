@@ -1,0 +1,22 @@
+---
+id: 11449
+title: "BIAT: Best Bank Governance Tunisia 2022"
+award_year: 2023
+published: 2023-05-02 10:38:17
+published_gmt: 2023-05-02 09:38:17
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2023/biat-best-bank-governance-tunisia-2022/"
+categories: ["Africa", "Banking"]
+content_sha256: 651d23517e05b92280ad512d3e03622c17fdb897f2b7ab2edc1dc15b423ed367
+canonical: 11449-biat-best-bank-governance-tunisia-2022.json
+---
+
+# BIAT: Best Bank Governance Tunisia 2022
+
+> Verbatim archived copy. Canonical machine record: `11449-biat-best-bank-governance-tunisia-2022.json`.
+
+<p style="text-align: center;"><a href="https://cfi.co/awards/wp-content/uploads/2020/10/BIAT.jpg"><img class="alignnone wp-image-8267 size-full" src="https://cfi.co/awards/wp-content/uploads/2020/10/BIAT.jpg" alt="BIAT" width="400" height="134" /></a></p>
+<p style="text-align: justify;">BIAT (Banque Internationale Arabe de Tunisie) aspires to be more than a bank by anchoring development through the lens of corporate and social responsibility. Since its establishment in 1976, BIAT has evolved into the leading bank of Tunisia by focusing on superior services for individuals, entrepreneurs and companies at home and abroad.</p>
+<p style="text-align: justify;">It is committed to delivering socio-economic impacts for the local population as well as Tunisia’s diaspora community. BIAT activities lay the foundation for a more united and sustainable society at every level. The bank has proven itself a reliable partner of SMEs, corporate clients and government institutions by offering solutions and assistance to cope with rising inflation and persistent Covid complications. Despite the ongoing global challenges, BIAT has achieved continued growth in general and is expecting positive results moving forward. The bank credits its adaptability and experienced workforce as key factors to its success. A strong governance structure helps the bank deliver on promises to BIAT’s stakeholders. It follows international best practices to ensure transparency and foster innovation. BIAT established a charitable foundation in 2014 that aims to arm Tunisian young people with the entrepreneurial skills to excel. In February 2022, it launched the second edition of a competition in multidisciplinary entrepreneurship between university institutions.</p>
+<p style="text-align: justify;">The CFI.co judging panel has followed the bank’s progress for several years and has been consistently impressed with its progress. The jury presents BIAT — a repeat programme winner — with the 2022 Best Bank Governance (Tunisia) award.</p>
+&nbsp;
