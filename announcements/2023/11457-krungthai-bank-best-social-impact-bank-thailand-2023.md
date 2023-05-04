@@ -1,0 +1,21 @@
+---
+id: 11457
+title: "Krungthai Bank: Best Social Impact Bank Thailand 2023"
+award_year: 2023
+published: 2023-05-04 16:22:07
+published_gmt: 2023-05-04 15:22:07
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2023/krungthai-bank-best-social-impact-bank-thailand-2023/"
+categories: ["Asia Pacific", "Banking", "Community Engagement"]
+content_sha256: 0e9dc454eb1de5173733dadf57f09e142323db23ba82ebdf7649952fdd67afc8
+canonical: 11457-krungthai-bank-best-social-impact-bank-thailand-2023.json
+---
+
+# Krungthai Bank: Best Social Impact Bank Thailand 2023
+
+> Verbatim archived copy. Canonical machine record: `11457-krungthai-bank-best-social-impact-bank-thailand-2023.json`.
+
+<p style="text-align: center;"><a href="https://cfi.co/awards/wp-content/uploads/2021/01/Krungthai.jpg"><img class="alignnone size-full wp-image-8660" src="https://cfi.co/awards/wp-content/uploads/2021/01/Krungthai.jpg" alt="Krungthai" width="500" height="147" /></a></p>
+<p style="text-align: justify;">Krungthai Bank (Krungthai) was established in 1966 and became the first state enterprise to float shares on the Thai stock exchange in 1989. Krungthai offers a range of banking services for personal, SME and corporate clients. It has developed products and partnerships to enrich the lives of its clients and help them achieve their goals.</p>
+<p style="text-align: justify;">Krungthai has made many advancements in digital banking and payments that support the Thai government’s plans for a cashless and financially inclusive society. Khon La Khrueng is a co-payment subsidy scheme by the government to help lower living costs and stimulate spending. Rao Tiew Duay Kan and Tour Tiew Thai tourism stimulus schemes also help encourage domestic consumption throughout the country. Paotang Pay, a new digital wallet added to Paotang mobile application, enables merchants to increase their sales. NEXT INVEST, a new investment feature in Krungthai NEXT mobile banking application, streamlines investments in gold, stocks, and funds in one place and allows clients to make investments starting from only 100 Baht (about $3 USD). New AI capabilities allow Krungthai staff to easily personalise solutions for clients. Krungthai also aims to strengthen Thai society through an extensive CSR agenda. It supports biodiversity, reforestation and water management projects. Krungthai has been recognised for its relentless efforts to reduce social inequalities and improve living conditions for people with disabilities. It runs a composting programme that has diverted seven tons of food waste from landfills. Since 2019, Krungthai’s Go Local, Grow Local initiative has helped build self-reliant communities, preserve cultural heritage, increase financial literacy and spur entrepreneurism.</p>
+<p style="text-align: justify;">The CFI.co judging panel presents Krungthai Bank — a repeat programme winner — with the 2023 award for Best Social Impact Bank (Thailand).</p>
