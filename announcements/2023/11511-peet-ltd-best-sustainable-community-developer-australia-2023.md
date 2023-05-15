@@ -1,0 +1,19 @@
+---
+id: 11511
+title: "Peet Ltd: Best Sustainable Community Developer Australia 2023"
+award_year: 2023
+published: 2023-05-15 10:08:41
+published_gmt: 2023-05-15 09:08:41
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/best-practice/2023/peet-ltd-best-sustainable-community-developer-australia-2023/"
+categories: ["Asia Pacific", "Best Practice", "Community Engagement", "Development", "Projects", "Sustainability"]
+content_sha256: 17e2c459fb8b28444ee4cd93cb090f98ba87659a477c99af29d19b3a9f9335e1
+canonical: 11511-peet-ltd-best-sustainable-community-developer-australia-2023.json
+---
+
+# Peet Ltd: Best Sustainable Community Developer Australia 2023
+
+> Verbatim archived copy. Canonical machine record: `11511-peet-ltd-best-sustainable-community-developer-australia-2023.json`.
+
+<img class="aligncenter size-full wp-image-11513" src="https://cfi.co/awards/wp-content/uploads/2023/05/Peet-jpg.webp" alt="Peet" width="500" height="195" />
+<p style="text-align: justify;">Over the past 130 years, Peet has established a legacy of creating future-proofed communities united by a sense of belonging. The group achieves this aim with an ESG-driven development plan that seeks to create long-term shared value for shareholders and all other stakeholders. Peet pursues environmentally conscious development, with special attention paid to water conservation, energy efficiency, circular economies, biodiversity preservation and land restoration. It creates cohesion among the team by prioritising diverse recruitment, employee wellbeing and staff engagement. Peet collaborates with five corporate partners and more than 30 local organisations to amplify CSR efforts across communities. It fosters sustainable living growth through national community grants and supports local charities through staff fundraising initiatives. Peet also promotes sports participation as a brand sponsor of the Australian cricket team, the Perth Scorchers. The group has proven itself a trusted business partner with strong ethics and a robust risk management framework. Peet’s portfolio of townhouses, apartments and family homes range from opportunities in affordable housing to premium beachside living. The property developer, which is listed on the Australian Securities Exchange under the trading symbol PPC, reported an 84 percent increase in share earnings and after-tax operating and statutory profits in the 2022 financial year. The group also showed a significant increase in the gross value of contracts on hand, up from $546.6m in June 2021 to $930m in June 2022. The CFI.co judging panel announces Peet as the 2023 award winner for Best Sustainable Community Developer (Australia).</p>
