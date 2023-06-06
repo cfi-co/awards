@@ -1,0 +1,24 @@
+---
+id: 11544
+title: "XM: Most Reliable Broker & Most Transparent Broker Global 2023"
+award_year: 2023
+published: 2023-06-06 07:49:27
+published_gmt: 2023-06-06 06:49:27
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2023/xm-most-reliable-broker-most-transparent-broker-global-2023/"
+categories: ["Europe", "Exchanges &amp; Brokers"]
+content_sha256: b503f81a0e262c06b73202df414f9c47ccfa7ab5db111ddb72f37d64f1cce7a7
+canonical: 11544-xm-most-reliable-broker-most-transparent-broker-global-2023.json
+---
+
+# XM: Most Reliable Broker & Most Transparent Broker Global 2023
+
+> Verbatim archived copy. Canonical machine record: `11544-xm-most-reliable-broker-most-transparent-broker-global-2023.json`.
+
+<p style="text-align: center;"><a href="https://cfi.co/awards/wp-content/uploads/2019/05/XM.com_.jpg"><img class="alignnone size-full wp-image-6700" src="https://cfi.co/awards/wp-content/uploads/2019/05/XM.com_.jpg" alt="XM" width="400" height="137" /></a></p>
+<p style="text-align: justify;">XM is one of the most highly decorated online brokers, boasting the experience and liquidity to meet any trader’s needs. Since its launch in 2009, XM has evolved into an industry-leading investment firm serving over 10 million clients in 190 countries.</p>
+<p style="text-align: justify;">The multi-regulated broker employs more than 600 professionals through an international network with headquarters in Cyprus and offices in Australia and Greece. XM markets itself as a big, fair and human broker. It treats clients with egalitarian care regardless of their net worth, account type or investments. Pricing and promotions are laid out in clear terms, and support services are offered in 30 languages. Re-quotes and rejections are not allowed on XM’s lightning-fast trading platform, where 99.35 percent of executions take less than a second. Client funds are held in segregated accounts with investment grade banks, insured up to €20,000 by an investor compensation fund and protected by a policy preventing negative account balances. In addition to distinguishing itself as a transparent and fair broker, XM is a conscientious corporate citizen. Since the start of 2023, it has donated to Médecins Sans Frontières, helped renovate a paediatric clinic in Cyprus, sponsored several children’s programmes and supported vulnerable senior citizens in Singapore and Peru. It also provided disaster relief after a flood in Malaysia and the earthquakes in Turkey, Syria and Indonesia.</p>
+<p style="text-align: justify;">The CFI.co judging panel presents repeat programme winner XM with the 2023 global awards for Most Reliable Broker and Most Transparent Broker.</p>
+&nbsp;
+
+&nbsp;
