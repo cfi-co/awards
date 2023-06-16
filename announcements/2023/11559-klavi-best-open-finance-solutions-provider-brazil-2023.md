@@ -1,0 +1,22 @@
+---
+id: 11559
+title: "Klavi: Best Open Finance Solutions Provider Brazil 2023"
+award_year: 2023
+published: 2023-06-16 10:30:42
+published_gmt: 2023-06-16 09:30:42
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/latin-america/2023/klavi-best-open-finance-solutions-provider-brazil-2023/"
+categories: ["Latin America"]
+content_sha256: 5ae786e19b37ad6310f87c877e15c06287247e760e5710726a41b77080e8da58
+canonical: 11559-klavi-best-open-finance-solutions-provider-brazil-2023.json
+---
+
+# Klavi: Best Open Finance Solutions Provider Brazil 2023
+
+> Verbatim archived copy. Canonical machine record: `11559-klavi-best-open-finance-solutions-provider-brazil-2023.json`.
+
+<p style="text-align: center;"><a href="https://cfi.co/awards/wp-content/uploads/2023/06/logo_klavi_sfw-jpg.webp"><img class="alignnone size-medium wp-image-11560" src="https://cfi.co/awards/wp-content/uploads/2023/06/logo_klavi_sfw-300x140.webp" alt="logo_klavi_sfw" width="300" height="140" /></a></p>
+<p style="text-align: justify;">Founded in 2020, fintech provider Klavi is striving to revolutionise the Brazilian financial system and has proven itself a capable fintech partner in a short span. Klavi’s Software-as-a-Service platform uses machine learning and open financial data to facilitate the connections and insights that drive business growth, product innovation and customer engagement.</p>
+<p style="text-align: justify;">The company is headquartered in Sao Paulo, Brazil, where production, marketing and sales are handled. The tech side is covered by developers in China, where Klavi co-founder and CEO Bruno Chan gained nearly a decade of entrepreneurial experience. The Chinese affiliation gives the company a competitive edge, with a skilled tech team of 30 professionals delivering high-quality work in quick turnaround. Klavi’s developers in China have experience working with large companies and massive amounts of data. The international workforce collaborates to fulfil Klavi’s mission of empowering businesses and democratising financial services. Corporate morale runs high, and employee turnover is minimal. Klavi works with more than 30 institutions and has processed over 1 billion transactions. The company chalks up 2022 as a good year, marked by robust client onboarding and increased revenues. Klavi registered on the CFI.co radar after partnering with a major Brazilian bank that attests to its ability to extract value from open finance data. The bank rates Klavi highly on all relevant criteria and outstanding in terms of customer focus and satisfaction.</p>
+<p style="text-align: justify;">The judging panel is pleased to introduce Klavi as the 2023 award winner for Best Open Finance Solutions Provider (Brazil).</p>
+&nbsp;
