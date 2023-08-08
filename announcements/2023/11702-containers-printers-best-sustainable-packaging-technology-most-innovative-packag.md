@@ -1,0 +1,21 @@
+---
+id: 11702
+title: "Containers Printers: Best Sustainable Packaging Technology & Most Innovative Packaging Team Global 2023"
+award_year: 2023
+published: 2023-08-08 14:04:23
+published_gmt: 2023-08-08 13:04:23
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/best-practice/2023/containers-printers-best-sustainable-packaging-technology-most-innovative-packaging-team-global-2023/"
+categories: ["Asia Pacific", "Best Practice", "Industries", "Manufacturing", "Sustainability", "Technology"]
+content_sha256: 571fe8f5a1f8c13dd7fb0fb07af8296813d8ec31035e38c5a3b45878865af584
+canonical: 11702-containers-printers-best-sustainable-packaging-technology-most-innovative-packag.json
+---
+
+# Containers Printers: Best Sustainable Packaging Technology & Most Innovative Packaging Team Global 2023
+
+> Verbatim archived copy. Canonical machine record: `11702-containers-printers-best-sustainable-packaging-technology-most-innovative-packag.json`.
+
+&nbsp;
+
+<img class="aligncenter wp-image-10680 size-full" title="Containers Printers" src="https://cfi.co/awards/wp-content/uploads/2022/08/Containers-Printers-new-logo.jpg" alt="Containers Printers" width="400" height="70" />
+<p style="text-align: justify;">Over the past four decades, Containers Printers has evolved from a single <a href="https://cfi.co/countries/singapore/">Singaporean</a> factory into an innovative and sustainable packaging partner with clients in 30 countries worldwide. It has established a strong presence across South East Asia and is hoping for similar success as it expands into European markets. Containers Printers offers a wide range of metal and flexible laminate packaging solutions. It prioritises sustainability across all operations and collaborates with industry partners to create positive impacts at the local and global level. Containers Printers works with brands from the nutrition, food and medical industries. As such, it adheres to the highest international standards for product safety, quality and reliability. Containers Printers has been recognised for progress in measuring and monitoring its carbon emissions. It cut emissions by 2.4 percent within six months of the first measurements. It contributes towards national goals for waste reduction and energy efficiency and will assist customers to fulfil <a href="https://www.oecd.org/env/waste/factsheetextendedproducerresponsibility.htm" target="_blank" rel="noopener">Extended Producer Responsibility</a> reporting requirements. Containers Printers seeks to empower team members with ongoing opportunities for upskilling and professional development. It has restructured management roles to delegate more responsibility and accountability throughout the ranks. This move gives employees a sense of ownership in the company, while also freeing up senior leadership to focus on strategic development. The CFI.co judging panel presents Containers Printers — a repeat programme winner — with the 2023 global awards for Best Sustainable Packaging Technology and Most Innovative Packaging Team.</p>
