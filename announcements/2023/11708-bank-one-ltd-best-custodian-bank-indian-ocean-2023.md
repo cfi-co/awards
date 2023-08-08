@@ -1,0 +1,21 @@
+---
+id: 11708
+title: "Bank One Ltd: Best Custodian Bank Indian Ocean 2023"
+award_year: 2023
+published: 2023-08-08 15:00:28
+published_gmt: 2023-08-08 14:00:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2023/bank-one-ltd-best-custodian-bank-indian-ocean-2023/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: df3a1240407fef9098f92cc34dd184c7e81365cf0b87a711496cc873828ede9f
+canonical: 11708-bank-one-ltd-best-custodian-bank-indian-ocean-2023.json
+---
+
+# Bank One Ltd: Best Custodian Bank Indian Ocean 2023
+
+> Verbatim archived copy. Canonical machine record: `11708-bank-one-ltd-best-custodian-bank-indian-ocean-2023.json`.
+
+[video width="1920" height="1080" mp4="https://cfi.co/awards/wp-content/uploads/2023/08/Bank-One-Ltd-1.mp4"][/video]
+
+&nbsp;
+<p style="text-align: justify;">Bank One Ltd, which was incorporated in 2008, aims to solidify the status of <a href="https://cfi.co/countries/mauritius/">Mauritius</a> as a private wealth hub for growing African economies. The bank is the result of a joint venture between <a href="https://www.cielgroup.com/en/businesses/ciel-finance" target="_blank" rel="noopener">CIEL Finance Limited</a> and I&amp;M Group PLC. Bank One levers the support of shareholders in sub-Saharan Africa and affiliated banking operations in Madagascar, Kenya, Tanzania, Rwanda and Uganda to continue diversifying the client base and product portfolio. Bank One’s robust custodian network spans more than 50 countries and provides retail clients, external asset managers and institutional investors with access to regional and international experts. The bank’s main depository, Euroclear, is a top-rated provider of securities settlement with proven resilience. Its custody platform is underpinned by cutting-edge technology, and the bank’s digital innovation has become a differentiating factor among sub-Saharan African competitors. Bank One’s custody portal provides instant reporting with real-time pricing through <em>Bloomberg</em>. The bank’s B2B platform has proven popular among investors, and AUM has swollen to more than $1bn since 2017. Bank One achieved 20 percent growth in clients from cross-border markets in 2022 and expects to build on the momentum of these strong cross-border partnerships over the next 12 months. The bank predicts that more institutional and individual investors will increase USD exposure in response to the economic outlook for further depreciation of local currencies. The CFI.co judging panel presents Bank One — a repeat programme winner — with the 2023 award for Best Custodian Bank (Indian Ocean).</p>
