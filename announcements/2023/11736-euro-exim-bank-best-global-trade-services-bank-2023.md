@@ -1,0 +1,21 @@
+---
+id: 11736
+title: "Euro Exim Bank: Best Global Trade Services Bank 2023"
+award_year: 2023
+published: 2023-08-09 09:36:22
+published_gmt: 2023-08-09 08:36:22
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2023/euro-exim-bank-best-global-trade-services-bank-2023/"
+categories: ["Banking", "Europe"]
+content_sha256: f3159845b63c695cd839652e054eef2af4527ebc3a9cb56f5c5f6e0f4c522ebf
+canonical: 11736-euro-exim-bank-best-global-trade-services-bank-2023.json
+---
+
+# Euro Exim Bank: Best Global Trade Services Bank 2023
+
+> Verbatim archived copy. Canonical machine record: `11736-euro-exim-bank-best-global-trade-services-bank-2023.json`.
+
+[video width="1920" height="1080" mp4="https://cfi.co/awards/wp-content/uploads/2023/08/Euro-Exim-Bank-2.mp4"][/video]
+
+&nbsp;
+<p style="text-align: justify;">There is global need for specialised trade finance institutions, and Euro Exim Bank (EEB) has proven itself a preferred partner with vast international expertise, cost-effective solutions, and a next-generation online platform. EEB has its headquarters in <a href="https://cfi.co/countries/saint-lucia/">Saint Lucia</a>, an office in London and a presence in more than 190 countries through a network of representatives and partnerships. It connects clients across Asia, the Middle East and Africa with the financial instruments to facilitate import and export trade. The bank fills a gap in emerging markets, where major banks' risk appetite has yet to catch up with the region's growing demand for new products and critical raw materials. EEB provides clients with trade-enabling services like letters of credit, standby letters of credit, performance bonds and bank guarantees. Thanks to the bank's continuous investment in tech infrastructure, clients can now acquire trade instruments within 48 hours. Since its launch in 2015, the bank has grown to over $200m in AUM. EEB is also planning on expanding trading platforms for provide payment gateways and merchant accounts. Euro Exim Bank holds a Class A international banking license from <a href="https://fsrastlucia.org/" target="_blank" rel="noopener">Saint Lucia's financial authority</a> and is authorised to conduct business with third parties across industries and geographies worldwide. The CFl.co judging panel congratulates Euro Exim Bank - a repeat programme winner - on claiming the 2023 award for Best Global Trade Services Bank.</p>
