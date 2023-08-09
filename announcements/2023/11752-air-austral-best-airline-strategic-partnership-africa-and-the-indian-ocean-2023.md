@@ -1,0 +1,19 @@
+---
+id: 11752
+title: "Air Austral: Best Airline Strategic Partnership Africa and the Indian Ocean 2023"
+award_year: 2023
+published: 2023-08-09 10:21:48
+published_gmt: 2023-08-09 09:21:48
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2023/air-austral-best-airline-strategic-partnership-africa-and-the-indian-ocean-2023/"
+categories: ["Africa", "Asia Pacific", "Industries", "Transport"]
+content_sha256: 4866a997be10bda456522543c213f2cb758fc0d8f0e3e382de855ee74f603dc0
+canonical: 11752-air-austral-best-airline-strategic-partnership-africa-and-the-indian-ocean-2023.json
+---
+
+# Air Austral: Best Airline Strategic Partnership Africa and the Indian Ocean 2023
+
+> Verbatim archived copy. Canonical machine record: `11752-air-austral-best-airline-strategic-partnership-africa-and-the-indian-ocean-2023.json`.
+
+<img class="aligncenter wp-image-7917 size-full" title="Air Austral" src="https://cfi.co/awards/wp-content/uploads/2020/07/Air-Austral.jpg" alt="Air Austral" width="400" height="185" />
+<p style="text-align: justify;">Air Austral connects passengers to Europe through daily flights between Paris and Reunion, an island and French overseas department located off the coast of Madagascar. The airline is headquartered in Reunion and operates the Paris route as part of a codeshare agreement with Air France. Similar codeshare agreements open the gate to Africa with flights to Kenya from Reunion and Madagascar. The airline has agencies in Reunion, Mauritius and France as well as representatives in the countries where it offers flights, including South Africa, Madagascar, the Comoros, Mayotte, the Seychelles, Thailand, India and China. Numerous aviation alliances and strategic partnerships have enabled Air Austral to turn competition into collaboration. Passengers can also find preferential rates through the airline’s partnerships with car rental companies, hotels, travel insurers, airport parking, trains and other corporates. Air Austral has partnered with Reunionese chef Kelly Rangama to create recipes that elevate airline food to fine dining. Rangama is proud to showcase the best of Reunionese cuisine on Air Austral flights and at her Parisian restaurant Le Faham, which has been Michelin-starred since January 2020. Air Austral recently welcomed a consortium of investors as the new majority shareholder and began implementing a restructuring plan that prioritises passenger experience, sustainable growth, digital transformation and business resilience. The CFI.co judging panel congratulates Air Austral — a repeat programme winner since 2019 — on claiming the 2023 award for Best Airline Strategic Partnership (Africa and the Indian Ocean).</p>
