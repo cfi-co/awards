@@ -1,0 +1,21 @@
+---
+id: 11982
+title: "MITech: Best Trade Finance Software Solutions Global 2023"
+award_year: 2023
+published: 2023-10-11 12:29:09
+published_gmt: 2023-10-11 11:29:09
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2023/mitech-best-trade-finance-software-solutions-global-2023/"
+categories: ["Europe", "Professional Services", "Technology"]
+content_sha256: 6ff5907e6ff15d3f1fb0904b09d36425877d99cae2e2542ec8d10321f16ba6ce
+canonical: 11982-mitech-best-trade-finance-software-solutions-global-2023.json
+---
+
+# MITech: Best Trade Finance Software Solutions Global 2023
+
+> Verbatim archived copy. Canonical machine record: `11982-mitech-best-trade-finance-software-solutions-global-2023.json`.
+
+<img class="aligncenter wp-image-11990 size-full" title="MITech" src="https://cfi.co/awards/wp-content/uploads/2023/10/MITEech-jpg.webp" alt="MITech" width="374" height="70" />
+<p style="text-align: justify;"><strong>MITech (MIT Make Intuitive Tech) is located in the heart of Switzerland's commodity trade finance space.</strong> The global software solutions company has a distinguished track record of innovation and integration. As an international commodity trading company in the early 1970s, the founders of MIT (which became MITech in 2020) were among the first to digitalise their operations. Their success sparked interest among banks, and the three founding brothers began developing Trade Finance software for an industry ripe for disruption. Paper processes still ruled at that time, but now more than 30 major Swiss and International banks rely on MITech software as a vital part of their due diligence procedures. The company's flagship product, CREDOC, has been on the market for more than 30 years - and it only gets more powerful with each iteration. CREDOC 5G has been recently released using a latest generation “Service Oriented” Architecture (SOA).</p>
+<p style="text-align: justify;">ln 2010, MITech introduced the first thin-client web-based application for the commodity finance industry, TRAC (Trade Risk Active Control). The company continues to be guided by the founding principles of quality and service. lt builds on decades of technological expertise to tailor software to client needs. MITech specialises in the development of software for a wide range of banking operations, including documentary business, guarantees, trade finance and Customer remote access through the web. lt offers structured solutions that support informed decision-making for Banks, and now Traders with their Financing processes. The Swiss-made software is used by numerous professionals around the world. The CFl.co judging panel announces MITech as the 2023 global award winner for Best Trade Finance Software Solutions.</p>
+[video width="1920" height="1080" mp4="https://cfi.co/awards/wp-content/uploads/2023/10/MITech-1.mp4"][/video]
