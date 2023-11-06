@@ -1,0 +1,23 @@
+---
+id: 12044
+title: "GoGlobal Trade: Outstanding Support to SMEs globally 2023"
+award_year: 2023
+published: 2023-11-06 11:52:26
+published_gmt: 2023-11-06 11:52:26
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/professional-services/consultancies/2023/goglobal-trade-outstanding-support-to-smes-globally-2023/"
+categories: ["Consultancies"]
+content_sha256: ca9fa64347ecc226304275a0c9f434f43f3703f564dd9ec46ed91df319198e9e
+canonical: 12044-goglobal-trade-outstanding-support-to-smes-globally-2023.json
+---
+
+# GoGlobal Trade: Outstanding Support to SMEs globally 2023
+
+> Verbatim archived copy. Canonical machine record: `12044-goglobal-trade-outstanding-support-to-smes-globally-2023.json`.
+
+<img class="aligncenter wp-image-12045 size-full" title="GoGlobal Trade" src="https://cfi.co/awards/wp-content/uploads/2023/11/GoGlobalTrade-jpg.webp" alt="GoGlobal Trade" width="500" height="171" />
+<p style="text-align: justify;">GoGlobal Trade partners with SMEs worldwide to level the playing field, promoting fair, equitable and transparent practices that lead to increased market access for businesses of all sizes.</p>
+<p style="text-align: justify;">It has extensive experience in emerging markets and a vast network of global resources, which it harnesses to drive clients’ business forward.</p>
+<p style="text-align: justify;">GoGlobal Trade connects SMEs to a high-visibility network of potential partners, including investors, suppliers and staff. It assists SMEs to navigate entry into new markets or expand existing market presence. It co-creates strategies alongside clients to foster sustainable growth, manage relationships and address operational challenges.</p>
+<p style="text-align: justify;">GoGlobal Trade helps SMEs prove their digital prowess and <a href="https://cfi.co/tag/esg/">ESG</a> performance to regulators, shareholders and stakeholders alike. It collaborates with government agencies to develop a unified framework for national standards, working with clients drawn from 225 countries and facilitates 71,834 public sector tenders. It has nearly 90,000 trade collaborators in its network, including <a href="https://www.goglobal.trade/search/resources/chambers" target="_blank" rel="noopener">over 5000 business chambers and associations</a>.</p>
+<p style="text-align: justify;">Over a dozen sectors are represented in GoGlobal’s network, from power and property to technology and transport. GoGlobal Trade encourages SMEs to take advantage of a free promotional offer to increase market visibility and reach their target audience with precision. The premium package enables clients to submit a leadership profile and four articles annually. The CFI.co judging panel announces GoGlobal Trade as the 2023 global award winner for Outstanding Support to SMEs.</p>
