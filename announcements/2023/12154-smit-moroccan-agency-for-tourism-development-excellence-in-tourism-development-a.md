@@ -1,0 +1,21 @@
+---
+id: 12154
+title: "SMIT Moroccan Agency for Tourism Development: Excellence in Tourism Development Africa 2023"
+award_year: 2023
+published: 2023-12-19 09:14:12
+published_gmt: 2023-12-19 09:14:12
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2023/smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-africa-2023/"
+categories: ["Africa", "Development", "Government", "Projects"]
+content_sha256: 16fe40c4b0720b27bc85ab037e961cb1461a7a5adedb7285fa707a931849249f
+canonical: 12154-smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-a.json
+---
+
+# SMIT Moroccan Agency for Tourism Development: Excellence in Tourism Development Africa 2023
+
+> Verbatim archived copy. Canonical machine record: `12154-smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-a.json`.
+
+<img class="aligncenter wp-image-12151 size-full" title="SMIT Moroccan Agency For Tourism Development" src="https://cfi.co/awards/wp-content/uploads/2023/12/SMITMoroccanAgencyForTourismDevelopment-jpg.webp" alt="SMIT Moroccan Agency For Tourism Development" width="450" height="140" />
+
+[caption id="attachment_12159" align="alignleft" width="300"]<img class="size-full wp-image-12159" src="https://cfi.co/awards/wp-content/uploads/2023/12/CEOImadBarrakad-jpg.webp" alt="Moroccan Agency For Tourism Development CEO Imad Barrakad" width="300" height="431" /> CEO Imad Barrakad[/caption]
+<p style="text-align: justify;">Since its launch in 2007, the Moroccan Agency for Tourism Development (SMIT) has promoted the country as an ideal destination for tourism and investments. SMIT takes an engineering approach to tourism development, combining multiple disciplines to solve problems, improve systems and boost productivity throughout the sector. It provides investors and decision-makers with information and assistance to develop tourism projects via public arrangements, private schemes or public-private partnerships. In recent news, the agency signed a partnership agreement with the UN’s World Tourism Organisation (UNWTO) to promote investment and digitalisation in <a href="https://cfi.co/countries/morocco/">Morocco</a>’s tourism sector. At the 117th UNWTO Executive Council, SMIT celebrated the <a href="https://www.unwto.org/un-tourism-news-tourism-leaders-accelerate-the-sectors-growth-united" target="_blank" rel="noopener">Marrakesh Call to Action</a> programme to accelerate the digital transformation of tourism SMEs while supporting the sector’s sustainable and resilient recovery. Morocco was selected as a pilot country for the UNWTO’s Digital Futures programme and a nation-wide start-up competition was introduced. SMIT encourages SMEs and entrepreneurs to develop innovative, inclusive and future-forward ideas. The agency recognises SMEs as the backbone of the national economy and the spearhead of the tourism industry. It estimates SMEs to comprise 95 percent of the Moroccan economy and 80 percent of all tourism businesses. SMIT has established a digital platform enabling SMEs to network and cocreate efficient ecosystems at the local level. It collaborates with foreign investors and state agencies to facilitate funding for tourism development. The CFI.co judging panel announces SMIT as the 2023 award winner for Excellence in Tourism Development (Africa).</p>
