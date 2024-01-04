@@ -1,0 +1,19 @@
+---
+id: 12197
+title: "Wesco International: Best Sustainable Supply Chain Strategy — USA 2023"
+award_year: 2024
+published: 2024-01-04 10:33:03
+published_gmt: 2024-01-04 10:33:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/best-practice/sustainability/2024/wesco-international-best-sustainable-supply-chain-strategy-usa-2023/"
+categories: ["Customer Satisfaction", "North America", "Sustainability"]
+content_sha256: f36dc66e977ba71b1bd22ef9b165aabe2651aecaee3bb0a3b63d7b597bf42e9d
+canonical: 12197-wesco-international-best-sustainable-supply-chain-strategy-usa-2023.json
+---
+
+# Wesco International: Best Sustainable Supply Chain Strategy — USA 2023
+
+> Verbatim archived copy. Canonical machine record: `12197-wesco-international-best-sustainable-supply-chain-strategy-usa-2023.json`.
+
+<img class="aligncenter wp-image-12195 size-medium" src="https://cfi.co/awards/wp-content/uploads/2024/01/WESCO-300x235.webp" alt="Wesco" width="300" height="235" />
+<p style="text-align: justify;">Wesco, set up a century ago as the distribution arm of Westinghouse, split from its parent company in 1993, acquired several companies, and within six years was publicly traded. It acquired Anixter in 2020, benefitting from the latter’s strengths in data communications, security and utility markets. Wesco has a powerful customer-centric approach to business that has resulted in record-setting 2022 sales of $21.4 billion. This <a href="https://fortune.com/ranking/fortune500/" target="_blank" rel="noopener">Fortune 500</a> company provides innovative services in over 50 countries, offering a local presence with the added benefits of a global network. Wesco technologies and solutions reduce costs and improve performance, allowing customers to optimise inventory levels with lower labour, materials, and operational expenses. This exemplary supply chain solutions provider draws on its vast supply chain data to create transformative solutions for better business. These include significantly reducing customer greenhouse gas emissions and improving efficiency via automation and digital methods. Wesco is nicely on track to achieve its own 2030 sustainability goals, is already there in terms of incident rate, close to its landfill waste intensity target, and is working hard to reach safety training targets and further reduction of greenhouse gas emissions. Wesco International is named 2023 winner of the award Best Sustainable Supply Chain Strategy (<a href="https://cfi.co/countries/united-states-of-america/">USA</a>).</p>
