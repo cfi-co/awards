@@ -1,0 +1,19 @@
+---
+id: 12255
+title: "Banco do Brasil: Best Sustainable Bank South America 2023"
+award_year: 2024
+published: 2024-01-30 12:55:20
+published_gmt: 2024-01-30 12:55:20
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2024/banco-do-brasil-best-sustainable-bank-south-america-2023/"
+categories: ["Banking", "Best Practice", "Latin America", "Sustainability"]
+content_sha256: 79039d9eeb8474c735605a8affb88016d4f79a5df6955968a279d0ee39dd52ee
+canonical: 12255-banco-do-brasil-best-sustainable-bank-south-america-2023.json
+---
+
+# Banco do Brasil: Best Sustainable Bank South America 2023
+
+> Verbatim archived copy. Canonical machine record: `12255-banco-do-brasil-best-sustainable-bank-south-america-2023.json`.
+
+<img class="aligncenter size-full wp-image-9859" src="https://cfi.co/awards/wp-content/uploads/2021/12/Banco-do-Brasil.jpg" alt="Banco do Brasil" width="500" height="103" />
+<p style="text-align: justify;">At Banco do Brasil, sustainability guides every action and aspiration. Over the past two centuries, the bank has cultivated a true partnership with clients and Brazilian society at large. It recorded an adjusted net income of $5.3bn in the first nine months of 2023, up 14 percent compared to the same period of the previous year. This represents a 21.3 percent return on equity — and over $13.1bn of value added to society. The bank credits the good results in part to an expanding loan portfolio where sustainable loans are the star performer. The sustainable loan portfolio has increased by 5.5 percent in 12 months and now comprises a third of the loan book. It intends to bring the portfolio up to $102bn in sustainable loans, including ambitious financing to back low-carbon agriculture and renewable energies. In 12 months, Banco do Brasil achieved 14.2 percent growth in SME loans and 18.9 percent growth in agribusiness loans. It prioritises responsible investments that move the needle of climate management and generate positive impacts across the value chain. Banco do Brasil leads by example on ESG issues and consistently makes the cut for all major sustainability indices. The bank recently appointed its first female CEO, Tarciana Medeiros, while 23.7 percent of leadership positions are held by women and 22.8 percent by people of colour. The CFI.co judging panel presents Banco do Brasil — a repeat programme winner — with the 2023 award for Best Sustainable Bank (South America).</p>
