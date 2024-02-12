@@ -1,0 +1,19 @@
+---
+id: 12288
+title: "QIC Group: Best Insurance Leadership GCC 2023"
+award_year: 2024
+published: 2024-02-12 13:59:33
+published_gmt: 2024-02-12 13:59:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/front/2024/qic-group-best-insurance-leadership-gcc-2023/"
+categories: ["Middle East", "Professional Services"]
+content_sha256: d5112735dcdf58c0709bc23a95ad315216b73740cdf31394a3e19edf8af492f8
+canonical: 12288-qic-group-best-insurance-leadership-gcc-2023.json
+---
+
+# QIC Group: Best Insurance Leadership GCC 2023
+
+> Verbatim archived copy. Canonical machine record: `12288-qic-group-best-insurance-leadership-gcc-2023.json`.
+
+<img class="aligncenter size-full wp-image-10045" src="https://cfi.co/awards/wp-content/uploads/2022/02/QIC.jpg" alt="QIC" width="500" height="357" />
+<p style="text-align: justify;">Since its inception in 1964, Qatar Insurance Company has expanded from a domestic operation to an international network encompassing various subsidiaries and branches in Gulf Cooperation Council (GCC) countries. QIC has proven itself a reliable partner to business and retail clients across the region — and the company is increasingly active in global markets. It tailors solutions to client needs, including coverage for personal vehicles or corporate fleets. Travel, home, life and medical insurance provide peace of mind for individuals and families. Businesses breathe easier with QIC’s range of insurance covering property, commercial trading, marine and aviation cargo and energy operations. QIC leadership approaches every decision with the overarching goal of fulfilling client needs, increasing shareholder returns and contributing to the national economy. It continues to deliver across each of these parameters. Since last year, QIC reports, profitability has risen by 181 percent and the share price has climbed 75 percent. QIC ranks among the largest insurance companies in the Middle East and Africa in terms of written premiums. It’s a publicly listed company with a diversified business line and a market cap in the billions. QIC is also a digital pioneer in the GCC, paving the way to a more connected and secure future. It has achieved significant growth in online channels and recently introduced new tech harnessing AI advances. The CFI.co judging panel presents QIC Group — a repeat programme winner — with the 2023 award for Best Insurance Leadership (GCC).</p>
