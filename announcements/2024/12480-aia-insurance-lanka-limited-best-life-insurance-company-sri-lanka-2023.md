@@ -1,0 +1,22 @@
+---
+id: 12480
+title: "AIA Insurance Lanka Limited: Best Life Insurance Company Sri Lanka 2023"
+award_year: 2024
+published: 2024-03-15 14:28:19
+published_gmt: 2024-03-15 14:28:19
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2024/aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023/"
+categories: ["Asia Pacific", "Professional Services"]
+content_sha256: 1b6aade28c280a5ffaa4c3e06b6a0a7ec78361f9450812b619a90a21e36416c4
+canonical: 12480-aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023.json
+---
+
+# AIA Insurance Lanka Limited: Best Life Insurance Company Sri Lanka 2023
+
+> Verbatim archived copy. Canonical machine record: `12480-aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023.json`.
+
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-9997" src="https://cfi.co/awards/wp-content/uploads/2022/01/AIA-Insurance.jpg" alt="AIA Insurance" width="500" height="181" /></p>
+<p style="text-align: justify;"><strong>AIA Sri Lanka is part of AIA Group which has a history of over 100 years of helping people live healthier, longer, better lives. In Sri Lanka the company has been delivering on this promise for over three decades and has established itself as one of the leading life insurers in the industry. </strong></p>
+<p style="text-align: justify;">We have a strong distribution network covering the entire island, employ over 4,300 Wealth Planners and operate over 120 branches. We are also the pioneer in Bancassurance in the country and work with some of the leading banks, further expanding our distribution network. Backed with AIA Group’s strength and expertise, we are committed to staying in and growing in Sri Lanka and helping you live healthier, longer, better lives.</p>
+<p style="text-align: justify;">While providing protection to customers at every stage of their lives, AIA offer a wide range of retirement, health and savings solutions for individuals, large corporates and small &amp; medium enterprises. The product suite is designed and enriched by the understanding and experience acquired in hundred years of experience in Asia. AIA believes that helping to create a healthier Asia is one of the most important and valuable things for the communities, today and in the future.</p>
+<p style="text-align: justify;">The company is credited with numerous pioneering achievements in Sri Lanka. AIA Insurance Lanka is leading the industry’s digital transformation with cloud-based processing, automation, digital signatures and data analytics. AIA Sri Lanka’s strongly capitalised shareholder’s equity — LKR 24.7 billion as at the end 2023 — gave the company the strength and stability to withstand any risks while continuing to honour customer commitments. Its high-quality portfolio and prudent investment strategy helps to maintain a solid fiscal footing. CSR initiatives in 2023 included donations to underprivileged children, donations to the SL Cancer Society and Alzheimer’s Foundation, donations to animal charities educational scholarships, community safety programmes and foster-parenting programmes. AIA Insurance Lanka has been recognised in numerous awards programmes over the years — and the CFI.co judging panel adds to the accolades with the 2023 award for Best Life Insurance Company (Sri Lanka).</p>
