@@ -1,0 +1,19 @@
+---
+id: 12321
+title: "National Bank of Fujairah (NBF): Best Business Banking Solutions UAE 2024"
+award_year: 2024
+published: 2024-04-01 13:51:20
+published_gmt: 2024-04-01 12:51:20
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2024/national-bank-of-fujairah-nbf-best-business-banking-solutions-uae-2024/"
+categories: ["Banking", "Middle East"]
+content_sha256: 913ea2e71f44317141f9f6ab21abbcf05070241787ffb5188798543e6768fa5d
+canonical: 12321-national-bank-of-fujairah-nbf-best-business-banking-solutions-uae-2024.json
+---
+
+# National Bank of Fujairah (NBF): Best Business Banking Solutions UAE 2024
+
+> Verbatim archived copy. Canonical machine record: `12321-national-bank-of-fujairah-nbf-best-business-banking-solutions-uae-2024.json`.
+
+<img class="aligncenter size-full wp-image-12323" src="https://cfi.co/awards/wp-content/uploads/2024/04/NBF-jpg.webp" alt="NBF" width="400" height="301" />
+<p style="text-align: justify;">Fujairah, the fifth largest UAE emirate has a relatively low population. Visitors remark on its beautiful, rugged landscape and sandy 70km coastline. It boasts a business-friendly environment. In business since 1982, the National Bank of Fujairah (NBF) offers impressive full service corporate banking solutions which contribute close to half its profits. In 2003, the Bank was one of the first in the country to offer a dedicated SME business unit. According to the judging panel, “NBF fully understands the critical role of SMEs in supporting the local economy and is their champion, levering all necessary banking expertise to provide a perfect partnership”. The Bank goes to great lengths to understand customer needs and delivers.” Skilled SME relationship managers are available throughout the UAE and expert team members are on hand. The SME lending book has increased significantly over the years. NBF Connect, a digital platform, unlocks a treasure trove of business services to SMEs. An NBF partnership with Etihad Credit Insurance brings clients risk mitigation, credit solutions and cash flow assistance. A co-lending scheme involving Emirates Development Bank helps SME funding. The biggest corporates and other UAE business leaders are no strangers to NBF. Its highly professional business and tech teams are at the disposal of clients. There is a clear focus on innovation and modern technology at NBF which bodes well for the future. National Bank of Fujairah (NBF) takes the 2024 award Best Business Banking Solutions (UAE).</p>
