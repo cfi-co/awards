@@ -1,0 +1,23 @@
+---
+id: 12326
+title: "The Access Bank UK Ltd: Best Africa Trade Finance Bank 2024"
+award_year: 2024
+published: 2024-04-09 10:23:11
+published_gmt: 2024-04-09 09:23:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2024/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2024/"
+categories: ["Africa", "Banking"]
+content_sha256: 7198be3ead8aacf92157ab625f800a90ecf49bc12982e800d965bc32ea5eeae9
+canonical: 12326-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2024.json
+---
+
+# The Access Bank UK Ltd: Best Africa Trade Finance Bank 2024
+
+> Verbatim archived copy. Canonical machine record: `12326-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2024.json`.
+
+[caption id="attachment_12327" align="aligncenter" width="900"]<img class="wp-image-12327 size-large" src="https://cfi.co/awards/wp-content/uploads/2024/04/Access-Bank-UK-1024x683.webp" alt="Wasiu Fatai, Head of Trade Finance (left) and Jamie Simmonds, CEO/MD (right) receiving an award from CFI.co" width="900" height="600" /> <strong>Wasiu Fatai</strong> Head of Trade Finance (left) and <strong>Jamie Simmonds</strong> CEO/MD (right) receiving an award from CFI.co[/caption]
+<p style="text-align: justify;"><strong>The Access Bank UK Ltd has demonstrated an impressive journey of success, marked by a consistent rise in income over the past 13 years. According to the judging panel, "The Access Bank UK Ltd should be proud of its international development, support to Africa, and commitment to conducting sustainable business. The Bank plays a key role in its parent’s (Access Bank Plc) and Group’s vision to be the world's most respected African bank."</strong></p>
+<p style="text-align: justify;">With a focus on relationship banking, it holds a strong position as a Correspondent Bank in Nigeria, facilitating trade volumes. Despite challenges such as currency weakness, the bank remains steadfast in its support of Nigeria, emphasising the importance of maintaining corporate integrity through employee training and development initiatives, as noted by Jamie Simmonds, CEO/MD of The Access Bank UK Ltd.</p>
+<p style="text-align: justify;">In a testament to its commitment to industry collaboration, The Access Bank UK Ltd co-sponsored the GTR Africa 2023 event, providing a platform for stakeholders to address challenges and explore opportunities in African trade finance. Additionally, the bank’s recent approval to establish a branch in Hong Kong signifies potential for cross-continental trade expansion.</p>
+<p style="text-align: justify;">The bank’s branches in strategic locations such as the Dubai International Financial Centre and Paris cater to trade and investment needs in Africa, the MENA region and Francophone Europe, offering tailored services via dedicated Relationship Managers.</p>
+<p style="text-align: justify;">The Bank has been re-confirmed as platinum status by Investors in People, demonstrating commitment to helping its employees reach their full potential along with promoting a strong company culture. Repeat winner The Access Bank UK Ltd takes the 2024 award for Best Africa Trade Finance Bank.</p>
