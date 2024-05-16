@@ -1,0 +1,19 @@
+---
+id: 12652
+title: "QNB ALAHLI: Best SME Bank and Best Retail Bank Egypt 2024"
+award_year: 2024
+published: 2024-05-16 11:44:18
+published_gmt: 2024-05-16 10:44:18
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2024/qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2024/"
+categories: ["Banking", "Middle East"]
+content_sha256: aca0434cad2c178e363df24fb760305c40a798b3763bbd548a02579b604fb68c
+canonical: 12652-qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2024.json
+---
+
+# QNB ALAHLI: Best SME Bank and Best Retail Bank Egypt 2024
+
+> Verbatim archived copy. Canonical machine record: `12652-qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2024.json`.
+
+<img class="aligncenter size-full wp-image-5448" src="https://cfi.co/awards/wp-content/uploads/2018/04/QNB.jpg" alt="QNB" width="400" height="154" />
+<p style="text-align: justify;">Digital innovator QNB ALAHLI is Egypt’s second-largest private sector bank. As an integral part of the QNB group, which ranks among the largest financial institutions in the Middle East and Africa, the bank levers the expertise and reach of its parent company to accelerate financial inclusion and prosperity throughout the country. Retail clients rely on QNB ALAHLI’s comprehensive suite of services and products to make the most of their money. In addition to life insurance, it offers a range of checking and savings accounts as well as loans and credit facilities. The bank partners with Visa to issue debit cards, credit cards as well as prepaid cards and wristbands. It has developed programmes designed to encourage entrepreneurship and support women’s financial independence. QNB ALAHLI’s Hayat programme bundles banking products and non-financial services to help women take control of their finances, build business skills and provide for their families. The programme offers a maternity break for up to three months of postponed loan instalments and free insurance coverage against breast cancer. Professionals appreciate the bank’s strong SME offering, which entails various electronic banking avenues, payments processing, payroll management, leasing and factoring. The bank’s Nilepreneurs programme connects young innovators with the resources needed to transform aspirations into reality, including feasibility studies, financial analyses, licensing assistance and networking opportunities. The CFI.co judging panel congratulates QNB ALAHLI — a repeat programme winner — on claiming the 2024 awards for Best SME Bank and Best Retail Bank (Egypt).</p>
