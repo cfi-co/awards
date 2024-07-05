@@ -1,0 +1,19 @@
+---
+id: 12541
+title: "FLI Global Ltd: Best Environmental Solutions Partner Europe 2024"
+award_year: 2024
+published: 2024-07-05 12:02:01
+published_gmt: 2024-07-05 11:02:01
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2024/fli-global-ltd-best-environmental-solutions-partner-europe-2024/"
+categories: ["Best Practice", "Community Engagement", "Europe", "Industries", "Technology"]
+content_sha256: 49b22fc0c9250e5152bfdb46bc6a2e63ae54fdd6345c22ba5753847d7c537bd0
+canonical: 12541-fli-global-ltd-best-environmental-solutions-partner-europe-2024.json
+---
+
+# FLI Global Ltd: Best Environmental Solutions Partner Europe 2024
+
+> Verbatim archived copy. Canonical machine record: `12541-fli-global-ltd-best-environmental-solutions-partner-europe-2024.json`.
+
+<img class="aligncenter size-full wp-image-12546" src="https://cfi.co/awards/wp-content/uploads/2024/09/FLI-global-jpg.webp" alt="FLI Global" width="350" height="288" />
+<p style="text-align: justify;">FLI Group has been delivering environmental engineering solutions for the private and public sector since 1989. The group comprises a diverse selection of firms pushing the boundaries in land remediation, water and wastewater management and treatment, geosynthetic linings and ecologically-focused engineering and manufacturing. In November 2023 VertaseFLI was the winner of the “Best Sustainable Re-Use of Materials” category in the UK environment analyst Brownfield Awards together with Arup, Vinci and Liverpool City Council for the Liverpool Festival Gardens Landfill remediation project. Circular economy principles are key to the group’s sustainability mandate, which permeates every aspect of its operations. FLI’s contributions to the Liverpool Festival Gardens Landfill remediation will help improve the region’s economic prospects, the community’s social well-being and the resilience of the environment. Another group member, FLI Precast, has been tasked with the design and offsite manufacturing of Europe’s largest underground drinking water reservoir. The new reservoir will boast a capacity of around 43 million litres of water, or about 17 Olympic-sized swimming pools, to future-proof water resources for approximately 250,000 properties. FLI Global is a future-forward company delivering solutions for a rapidly changing world. It shapes product development through continuous innovation to address the most urgent market needs, including rapid-build panelised systems to alleviate housing shortages across Ireland and the UK as well as coastal and river defence systems to cope with rising sea levels and flooding. The CFI.co judging panel presents repeat winner FLI Global with the 2024 Best Environmental Solutions Partner (Europe) award.</p>
