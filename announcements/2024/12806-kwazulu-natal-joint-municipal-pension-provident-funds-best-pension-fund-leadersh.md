@@ -1,0 +1,19 @@
+---
+id: 12806
+title: "KwaZulu-Natal Joint Municipal Pension/Provident Funds: Best Pension Fund Leadership South Africa 2024"
+award_year: 2024
+published: 2024-07-27 09:16:36
+published_gmt: 2024-07-27 08:16:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2024/kwazulu-natal-joint-municipal-pension-provident-funds-best-pension-fund-leadership-south-africa-2024/"
+categories: ["Africa", "Corporate Leadership"]
+content_sha256: 25fc9a2ad5174033ab22916d2f6170fa0d0650ff92b02c657f815b606514efdf
+canonical: 12806-kwazulu-natal-joint-municipal-pension-provident-funds-best-pension-fund-leadersh.json
+---
+
+# KwaZulu-Natal Joint Municipal Pension/Provident Funds: Best Pension Fund Leadership South Africa 2024
+
+> Verbatim archived copy. Canonical machine record: `12806-kwazulu-natal-joint-municipal-pension-provident-funds-best-pension-fund-leadersh.json`.
+
+<img class="aligncenter size-full wp-image-5433" src="https://cfi.co/awards/wp-content/uploads/2018/04/NJMPF.jpg" alt="NJMPF" width="259" height="400" />
+<p style="text-align: justify;">The KwaZulu-Natal Joint Municipal Pension/Provident Funds (NJMPF), established in 1942, is a pivotal institution providing financial security to municipal employees across KwaZulu-Natal. As a self-administered, non-profit entity, NJMPF oversees three funds: the Superannuation and Retirement defined benefit funds, and the Provident defined contribution fund, serving 30,000 members in 55 municipalities. NJMPF’s stellar short and long-term investment performance has consistently enhanced member and pensioner benefits. Under CEO Bongi Mkhize, NJMPF exemplifies strong governance, surpassing national treasury standards and maintaining pristine audits. NJMPF’s proactive stance on legislative changes, such as the 1 September 2024 law enabling pre-retirement emergency fund access, includes a partnership with the Financial Sector Conduct Authority to deliver financial literacy seminars, ensuring members make informed decisions. NJMPF’s commitment to exemplary governance is further demonstrated through its robust member engagement and a dedicated team that works tirelessly to serve its members. Recognised as one of South Africa's awarded pension funds, NJMPF integrates best practices and robust member engagement, embodying the industry’s gold standard. The fund’s innovative approaches include the introduction of a low-cost living annuity product, tailored to provide affordable retirement income. This initiative, among others, underscores NJMPF’s dedication to improving retirement outcomes for members. NJMPF’s leadership in the pension fund sector is characterised by a democratic and participative management style, fostering a cohesive, co-operative work environment. The CFI.co Judging Panel congratulates KwaZulu-Natal Joint Municipal Pension/Provident Funds on winning the 2024 award for Best Pension Fund Leadership (South Africa).</p>
