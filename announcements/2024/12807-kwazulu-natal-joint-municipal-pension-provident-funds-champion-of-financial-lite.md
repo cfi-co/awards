@@ -1,0 +1,19 @@
+---
+id: 12807
+title: "KwaZulu-Natal Joint Municipal Pension/Provident Funds: Champion of Financial Literacy South Africa 2024"
+award_year: 2024
+published: 2024-07-27 09:16:38
+published_gmt: 2024-07-27 08:16:38
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2024/kwazulu-natal-joint-municipal-pension-provident-funds-champion-of-financial-literacy-south-africa-2024/"
+categories: ["Africa"]
+content_sha256: 210e30a012fb5bde8aca343d2a3fa1abaddfe6a7de8db9c3f1f70e05c3b0e4da
+canonical: 12807-kwazulu-natal-joint-municipal-pension-provident-funds-champion-of-financial-lite.json
+---
+
+# KwaZulu-Natal Joint Municipal Pension/Provident Funds: Champion of Financial Literacy South Africa 2024
+
+> Verbatim archived copy. Canonical machine record: `12807-kwazulu-natal-joint-municipal-pension-provident-funds-champion-of-financial-lite.json`.
+
+<img class="aligncenter size-full wp-image-5433" src="https://cfi.co/awards/wp-content/uploads/2018/04/NJMPF.jpg" alt="NJMPF" width="259" height="400" />
+<p style="text-align: justify;">The KwaZulu-Natal Joint Municipal Pension/Provident Funds (NJMPF) stands as a beacon of financial literacy, vital in a region as large and diverse as KwaZulu-Natal. NJMPF’s initiatives are crucial given the new law effective from 1 September 2024, allowing early access to retirement savings for emergencies. The fund has launched an extensive financial literacy campaign in collaboration with the Financial Sector Conduct Authority, delivering workshops across municipalities. These seminars cover the new regulations, tax impacts, and administrative fees, promoting wise financial management. NJMPF’s support includes an information centre offering students a safe environment with access to books, internet, and homework assistance. This centre is essential in areas with limited educational infrastructure. Additionally, NJMPF partners with the National Credit Regulator to educate members on effective credit and debt management. These efforts ensure members are well-equipped to navigate their financial futures. NJMPF’s commitment to member education and innovative approaches underscores its outstanding leadership in financial literacy. NJMPF’s dedication to financial education is evident in its outreach efforts, which include roadshows and interactive digital platforms. The fund’s initiatives empower members with the knowledge to make informed financial decisions, particularly in light of the new legislation. By fostering a culture of financial literacy, NJMPF helps members manage their finances more effectively, reducing dependency on high-interest loans and improving overall financial wellbeing. The CFI.co Judging Panel congratulates KwaZulu-Natal Joint Municipal Pension/Provident Funds on winning the 2024 award for Champion of Financial Literacy (South Africa).</p>
