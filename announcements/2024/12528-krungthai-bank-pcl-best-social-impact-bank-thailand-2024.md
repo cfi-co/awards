@@ -1,0 +1,19 @@
+---
+id: 12528
+title: "Krungthai Bank PCL: Best Social Impact Bank Thailand 2024"
+award_year: 2024
+published: 2024-08-28 14:57:55
+published_gmt: 2024-08-28 13:57:55
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2024/krungthai-bank-pcl-best-social-impact-bank-thailand-2024/"
+categories: ["Asia Pacific", "Banking", "Best Practice", "Community Engagement"]
+content_sha256: 4e9e4645bd84ac0359bdd7669552382fd858d1d056c034ed5442175d93db838a
+canonical: 12528-krungthai-bank-pcl-best-social-impact-bank-thailand-2024.json
+---
+
+# Krungthai Bank PCL: Best Social Impact Bank Thailand 2024
+
+> Verbatim archived copy. Canonical machine record: `12528-krungthai-bank-pcl-best-social-impact-bank-thailand-2024.json`.
+
+<img class="aligncenter size-full wp-image-8660" src="https://cfi.co/awards/wp-content/uploads/2021/01/Krungthai.jpg" alt="Krungthai" width="500" height="147" />
+<p style="text-align: justify;">Established in 1966, Krungthai Bank PCL set out to support the economic development of the country and is dedicated to improving the financial and social wellbeing of the population. The Bank has become part of the daily life of the Thai people. It is eager to improve the competitiveness of the country, help reduce inequality and conduct business in an ethical and sustainable manner. The Bank’s current five-year plan calls for improved accessibility for grassroots customers and encourages staff members to adapt and learn new skills. Innovative modern technology harnessed by Krungthai addresses customer needs and is helping to raise standards of living. The Paotang App serves not only customers but the broader population too. Open architecture allows partners to integrate their offerings into the platform. Significantly, Paotang helps government deliver financial and economic stimulus packages. The Health Wallet in Paotang provides easier access to universal healthcare for citizens. The App is democratising investment opportunities. Krungthai supports government initiatives in public services. Our winner is committed to financial inclusion, with particular concern for the elderly, disabled and those of low income. It promotes financial literacy and best financial practice for customers. The judging panel remarks that, “Krungthai is dedicated to establishing a circular economy, recognising the benefits accruing to people, the planet and profits. Its strategy is well thought out and beautifully expressed.” A repeat winner over many years, the panel has no hesitation in confirming Krungthai Bank PCL as 2024 winner of the award Best Social Impact Bank (Thailand).</p>
