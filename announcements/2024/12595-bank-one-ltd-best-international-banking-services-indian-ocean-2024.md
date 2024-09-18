@@ -1,0 +1,18 @@
+---
+id: 12595
+title: "Bank One Ltd: Best International Banking Services Indian Ocean 2024"
+award_year: 2024
+published: 2024-09-18 16:06:28
+published_gmt: 2024-09-18 15:06:28
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2024/bank-one-ltd-best-international-banking-services-indian-ocean-2024/"
+categories: ["Asia Pacific", "Banking"]
+content_sha256: 1e80621b6a3b5e93c12b59d0f1ed5c3e8297aef26fe1c18fcf94e486fc7824b1
+canonical: 12595-bank-one-ltd-best-international-banking-services-indian-ocean-2024.json
+---
+
+# Bank One Ltd: Best International Banking Services Indian Ocean 2024
+
+> Verbatim archived copy. Canonical machine record: `12595-bank-one-ltd-best-international-banking-services-indian-ocean-2024.json`.
+
+<p style="text-align: justify;"><img class="size-full wp-image-6023 aligncenter" src="https://cfi.co/awards/wp-content/uploads/2018/09/BankOne.png" alt="Bank One" width="349" height="66" />Bank One Ltd, operating from Mauritius, has substantially shaped the financial landscape of the region through innovative and responsible banking. With a deep commitment to sustainable development, it has become instrumental in promoting green financing and integrating Environmental, Social, and Governance (ESG) principles across operations. The bank’s strategic focus on impact financing directly aligns with the Sustainable Development Goals (SDGs), specifically targeting poverty alleviation and education. In 2023, Bank One managed significant financial transactions, facilitating short-term funding between $50m and $100m, primarily focusing on Stanbic Bank in Nigeria and CRDB in Tanzania. These efforts were tightly linked to commodities that meet ESG criteria, fostering the advancement of the SDGs in critical sectors such as food, pharmaceuticals, solar energy, and consumer goods. Bank One has cemented its presence across many countries, including Nigeria, Ivory Coast, and South Africa, through strategic partnerships and extensive regional coverage. The bank's excellent products range from syndicated facilities and trade finance to cash management and treasury hedging products. Bank One has launched various sustainable finance products, such as Green Bonds and Social Impact Loans. According to the judging panel, “This winner’s ethical conduct and transparency are obvious.” All this has strengthened Bank One’s position as a leader in international banking and also as a champion of environmental stewardship and responsible banking. In recognition of its outstanding contribution to the sector Bank One Ltd is named 2024 winner of the award Best International Banking Services (Indian Ocean).</p>
