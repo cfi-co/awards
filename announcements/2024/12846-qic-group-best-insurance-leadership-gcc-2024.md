@@ -1,0 +1,19 @@
+---
+id: 12846
+title: "QIC Group: Best Insurance Leadership GCC 2024"
+award_year: 2024
+published: 2024-09-29 12:48:13
+published_gmt: 2024-09-29 11:48:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/corporate-leadership/2024/qic-group-best-insurance-leadership-gcc-2024/"
+categories: ["Corporate Leadership", "Middle East", "Professional Services"]
+content_sha256: 4c817ca9a28e1cb7a97ce7ba747ae408759f19632131fe19a4fb2b711b88e4e8
+canonical: 12846-qic-group-best-insurance-leadership-gcc-2024.json
+---
+
+# QIC Group: Best Insurance Leadership GCC 2024
+
+> Verbatim archived copy. Canonical machine record: `12846-qic-group-best-insurance-leadership-gcc-2024.json`.
+
+<img class="aligncenter size-full wp-image-10045" src="https://cfi.co/awards/wp-content/uploads/2022/02/QIC.jpg" alt="QIC" width="500" height="357" />
+<p style="text-align: justify;">QIC Group, a leader in the GCC insurance market, has demonstrated remarkable growth and adaptability. Through strategic restructuring, the company has balanced its risk platform, achieving an equal split between reinsurance and direct insurance. Direct insurance operations, particularly in Dubai, have expanded significantly, growing from QAR 500m to over QAR 2bn in recent years. The Group’s digital transformation has been pivotal, with the implementation of advanced AI solutions and dynamic pricing models to improve customer service, boost efficiency, and enhance conversion rates. QIC has also broadened its international footprint with operations spanning the UK, UAE, Oman, Kuwait, Zurich, Singapore, Malta, Bermuda and Gibraltar. Notably, the company has enhanced its solvency ratio, reflecting financial strength, and transitioned its international operations from loss-making to profitability. In response to evolving market demands, QIC has launched innovative products such as cyber insurance and expanded its life insurance offerings, catering to individuals and SMEs. The Group’s commitment to ESG and sustainability aligns with Qatar’s Vision 2030, while its social contributions, including sponsorship of local sports and other initiatives, further strengthen its community presence and engagement. With a focus on maintaining value for shareholders, QIC has optimised its investment portfolio, securing stable returns through fixed income assets, bonds, and strategic investments in various sectors. The company’s market capitalisation has increased by 50 percent, reflecting the market's confidence in its transformative efforts and future growth prospects. The CFI.co Judging Panel congratulates QIC Group on winning the 2024 award for Best Insurance Leadership (GCC).</p>
