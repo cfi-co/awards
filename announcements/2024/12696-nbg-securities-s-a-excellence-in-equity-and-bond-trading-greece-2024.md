@@ -1,0 +1,24 @@
+---
+id: 12696
+title: "NBG Securities S.A.: Excellence in Equity and Bond Trading Greece 2024"
+award_year: 2024
+published: 2024-11-13 10:40:10
+published_gmt: 2024-11-13 10:40:10
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2024/nbg-securities-s-a-excellence-in-equity-and-bond-trading-greece-2024/"
+categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_sha256: fd3b7afe6d4686c8797cf20d53fc51083e5447090b0743baefaeffdd616e2647
+canonical: 12696-nbg-securities-s-a-excellence-in-equity-and-bond-trading-greece-2024.json
+---
+
+# NBG Securities S.A.: Excellence in Equity and Bond Trading Greece 2024
+
+> Verbatim archived copy. Canonical machine record: `12696-nbg-securities-s-a-excellence-in-equity-and-bond-trading-greece-2024.json`.
+
+<img class="aligncenter size-full wp-image-12698" src="https://cfi.co/awards/wp-content/uploads/2024/11/NBG-Securities-jpg.webp" alt="NBG Securities" width="367" height="105" />
+<p style="text-align: justify;">NBG Securities S.A., one of the top brokerage firms in Greece and subsidiary of the National Bank of Greece, has been a key player in the country's capital markets, specialising in equity and bond trading. Established in 1988, the company provides a comprehensive range of services, including institutional and retail brokerage, equity research and market making. Licensed and supervised by the Hellenic Capital Market Commission, NBG Securities is a member of the Athens Exchange S.A., the Cyprus Stock Exchange and acts as a market maker in the Stock and Derivatives Markets of the Athens Exchange.</p>
+<p style="text-align: justify;">NBG Securities has made significant strides in recent years under new management, aiming to develop and enhance three key areas: client relationships, client experience and its personnel. The firm offers tailor-made solutions for retail and institutional clients, ensuring that each segment receives the appropriate level of service.</p>
+<p style="text-align: justify;">NBG Securities has built a strong and dedicated team which drives innovation and delivers on measurable results, positively impacting its profitability. The company has also re-engineered its operations enhancing efficiency and client satisfaction.</p>
+<p style="text-align: justify;">With a deep commitment to sustainability, NBG Securities is actively integrating ESG (Environmental, Social, and Governance) principles into its business and governance model, aligning with the global shift towards responsible investing.</p>
+<p style="text-align: justify;">The firm also leverages advanced technology platforms, ensuring transparency and seamless execution. In addition to its domestic operations, the firm has established a reputation for excellence across international markets, leveraging the strength of its parent company and strategic partnerships.</p>
+<p style="text-align: justify;">The CFI.co Judging Panel congratulates NBG Securities S.A. on winning the 2024 award for Excellence in Equity and Bond Trading (Greece).</p>
