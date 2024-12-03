@@ -1,0 +1,19 @@
+---
+id: 12730
+title: "Berenberg: Best Strategic Asset Allocation & Asset Liability Management Team Germany 2024"
+award_year: 2024
+published: 2024-12-03 09:23:46
+published_gmt: 2024-12-03 09:23:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2024/berenberg-best-strategic-asset-allocation-asset-liability-management-team-germany-2024/"
+categories: ["Asset Management", "Europe", "Finance"]
+content_sha256: 2463ffd5c1e40a6bbfe5d62dcffd027fad85499d738e63c1a1b98e37cb3b94c0
+canonical: 12730-berenberg-best-strategic-asset-allocation-asset-liability-management-team-german.json
+---
+
+# Berenberg: Best Strategic Asset Allocation & Asset Liability Management Team Germany 2024
+
+> Verbatim archived copy. Canonical machine record: `12730-berenberg-best-strategic-asset-allocation-asset-liability-management-team-german.json`.
+
+<img class="aligncenter size-full wp-image-12134" src="https://cfi.co/awards/wp-content/uploads/2023/12/Berenberg-jpg.webp" alt="Berenberg" width="400" height="166" />
+<p style="text-align: justify;">Berenberg, Germany’s oldest privately owned bank, has been at the forefront of strategic investment advice for over two decades. The Berenberg Investment Consulting team has consistently delivered customised strategic asset allocation (SAA) and asset liability management (ALM) studies, leveraging cutting-edge technology and innovative tools to serve a diverse clientele, including institutional investors, corporate pensions, single family offices, endowments, and ultra-high-net-worth individuals (UHNWIs). Its platform, managing approximately 40 billion euros in assets, is renowned for efficiency and rapid delivery, significantly outpacing industry standards. The team’s new SAA &amp; ALM Innovation Hub, featuring an interactive dashboard, enables real-time collaboration with senior consultants, providing detailed analyses of various asset allocation strategies. This state-of-the-art tool integrates macroeconomic stress scenarios, developed in collaboration with the University of Copenhagen, to offer unparalleled insights into potential risks and outcomes. The sophisticated backend system simulates long-term asset and liability trajectories, allowing for precise modelling and optimisation of investment strategies. Furthermore, the platform’s proprietary sustainability database provides comprehensive carbon impact assessments, helping investors align their portfolios with regulatory requirements and environmental goals. Combining academic research with practical expertise, Berenberg delivers exceptional value and thought leadership, consistently enhancing its technological infrastructure to meet evolving needs. The group attributes much of its success to lessons from the traditional bank, especially its emphasis on relationship management and customer relations. The CFI.co Judging Panel congratulates Berenberg on winning the 2024 award Best Strategic Asset Allocation &amp; Asset Liability Management Team (Germany).</p>
