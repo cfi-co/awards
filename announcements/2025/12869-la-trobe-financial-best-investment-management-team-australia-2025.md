@@ -1,0 +1,19 @@
+---
+id: 12869
+title: "La Trobe Financial: Best Investment Management Team Australia 2025"
+award_year: 2025
+published: 2025-02-05 10:56:13
+published_gmt: 2025-02-05 10:56:13
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2025/la-trobe-financial-best-investment-management-team-australia-2025/"
+categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_sha256: 3076a1797c2fb82244d533cd67c0b60da67a8bc108e35c01f6cff4bb03d03cfa
+canonical: 12869-la-trobe-financial-best-investment-management-team-australia-2025.json
+---
+
+# La Trobe Financial: Best Investment Management Team Australia 2025
+
+> Verbatim archived copy. Canonical machine record: `12869-la-trobe-financial-best-investment-management-team-australia-2025.json`.
+
+<img class="aligncenter size-full wp-image-10075" src="https://cfi.co/awards/wp-content/uploads/2022/02/La-Trobe-Financial.jpg" alt="La Trobe Financial" width="400" height="186" />
+<p style="text-align: justify;">La Trobe Financial has cemented its reputation as Australia’s premier alternative asset manager, demonstrating a proven ability to innovate and deliver outstanding results. With over 100,000 investors and assets under management exceeding $20bn, including a flagship Credit Fund surpassing $12bn, the firm continues to set industry benchmarks. Its focus on retirement-focused solutions is bolstered by the launch of the US Private Credit Fund under its Global Asset Management strategy, providing Australian investors access to premium global investment opportunities. The integration of environmental, social, and governance (ESG) principles into its decision-making process, utilising a comprehensive ESG scorecard, underscores La Trobe Financial’s commitment to sustainable investing and responsible business practices. The company has established itself as a trusted partner, leveraging an extensive investor education programme, regular newsletters, and robust communications to ensure transparency and foster trust. Roadshows and direct engagement with a diverse range of investors, including families and retirees, reflect its grounded and inclusive approach. A strong partnership with Morgan Stanley further enhances its capabilities and positions La Trobe Financial for continued success in a competitive landscape. With a history of delivering innovative products, strengthening investor relationships, and fostering trust, the company has proven itself a leader in its field. Its continued efforts to redefine retirement-focused solutions and expand its global presence highlight its forward-thinking ethos, dedication to excellence, and ability to address investor needs effectively. The CFI.co Judging Panel congratulates La Trobe Financial on winning the 2025 award for Best Investment Management Team (Australia).</p>
