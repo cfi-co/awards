@@ -1,0 +1,19 @@
+---
+id: 12917
+title: "Sango Capital: Leader in African Mid-Market Private Equity Africa 2025"
+award_year: 2025
+published: 2025-04-01 11:59:18
+published_gmt: 2025-04-01 10:59:18
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2025/sango-capital-leader-in-african-mid-market-private-equity-africa-2025/"
+categories: ["Africa", "Corporate Leadership", "Finance"]
+content_sha256: f765cbcb4d5c2a79615d97399de56ad2a92a5e37505cb9ae0a3fa633e0df7b78
+canonical: 12917-sango-capital-leader-in-african-mid-market-private-equity-africa-2025.json
+---
+
+# Sango Capital: Leader in African Mid-Market Private Equity Africa 2025
+
+> Verbatim archived copy. Canonical machine record: `12917-sango-capital-leader-in-african-mid-market-private-equity-africa-2025.json`.
+
+<img class="aligncenter size-full wp-image-12918" src="https://cfi.co/awards/wp-content/uploads/2025/04/Sango-Capital.jpg" alt="Sango Capital" width="667" height="121" />
+<p style="text-align: justify;">Sango Capital is a specialist investment firm dedicated to mid-market private equity opportunities across Africa, with a strong emphasis on long-term value creation and commercial excellence. The firm’s initial vision focused on unlocking value in a space where capital supply-demand dynamics favour investors and where domestic growth stories offer more resilient and diversified return streams than globally correlated exposures. Over the past decade, Sango Capital has evolved from a hybrid model—investing in both funds and primary companies—into a comprehensive platform that now includes secondary investments, technology-driven assets, and private credit strategies. It was the first of its kind to introduce high-quality private institutional capital into the African private equity space, and it has since built a reputation for being a preferred partner for globally minded, commercially focused investors. The firm maintains a dual strategy: backing top-tier fund managers while simultaneously co-investing directly, often in collaboration with regional partners. Sango Capital has also launched a permanent capital vehicle targeting upper mid-market opportunities, with an aim to build globally dominant platforms capable of scaling to valuations exceeding $1bn each. In parallel, it remains a pioneer in structuring secondary transactions, providing liquidity solutions to limited partners and general partners alike. This effort ensures a healthier and more dynamic middle market ecosystem. The firm continues to pursue category-defining technology-enabled growth assets that complement and disrupt the mid-market space. CFI.co Judging Panel congratulates Sango Capital on winning the 2025 award for Leader in African Mid-Market Private Equity (Africa).</p>
