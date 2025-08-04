@@ -1,0 +1,19 @@
+---
+id: 13067
+title: "eCapital Corp: Champion of Global SME Funding Access USA 2025"
+award_year: 2025
+published: 2025-08-04 08:34:03
+published_gmt: 2025-08-04 07:34:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2025/ecapital-corp-champion-of-global-sme-funding-access-usa-2025/"
+categories: ["Finance", "North America"]
+content_sha256: bebd98ca3fb48963f55517d0d499ee3f9e67de7851312a873fab18453364ec47
+canonical: 13067-ecapital-corp-champion-of-global-sme-funding-access-usa-2025.json
+---
+
+# eCapital Corp: Champion of Global SME Funding Access USA 2025
+
+> Verbatim archived copy. Canonical machine record: `13067-ecapital-corp-champion-of-global-sme-funding-access-usa-2025.json`.
+
+<img class="aligncenter size-full wp-image-13068" src="https://cfi.co/awards/wp-content/uploads/2025/08/ecapital.jpg" alt="ecapital" width="500" height="77" />
+<p style="text-align: justify;">eCapital Corp has distinguished itself as a transformative force within the global SME financing landscape, addressing critical gaps left by traditional banking institutions. With a two-decade operational history, the company has, over the past five years, concentrated on scaling its impact through technological investment, enabling it to serve a broader spectrum of small and medium-sized enterprises across more than 80 industries. By integrating advanced technologies including artificial intelligence and machine learning, eCapital delivers real-time financial solutions precisely at the moment SMEs generate revenue-generating assets, such as accounts receivable. Its platform evaluates funding requests in seconds, using proprietary algorithms to assess risk and automate funding, thereby reducing delays and operational inefficiencies. This capability has enabled the company to have served over 42,000 clients across dynamic economic sectors. eCapital’s strategic expansion into embedded finance ecosystems across multiple continents reflects its commitment to delivering universally applicable solutions that transcend regional financial frameworks and localised barriers. From transportation and staffing to healthcare and manufacturing, the company provides tailored support in industries heavily dependent on timely working capital. Its digital-first model ensures SMEs have immediate access to critical liquidity, enabling sustained growth, resilience, and competitiveness in challenging markets. The company's operational footprint, spanning the United Kingdom, United States and Canada underscores its role in fostering inclusive economic development and empowering entrepreneurial ecosystems. The CFI.co Judging Panel congratulates eCapital Corp on winning the 2025 award for Champion of Global SME Funding Access (USA).</p>
