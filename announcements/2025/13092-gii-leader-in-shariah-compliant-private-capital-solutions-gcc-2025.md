@@ -1,0 +1,23 @@
+---
+id: 13092
+title: "GII: Leader in Shari'ah-Compliant Private Capital Solutions GCC 2025"
+award_year: 2025
+published: 2025-09-11 12:12:14
+published_gmt: 2025-09-11 11:12:14
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/best-practice/2025/gii-leader-in-shariah-compliant-private-capital-solutions-gcc-2025/"
+categories: ["Best Practice", "Finance", "Islamic Banking", "Middle East"]
+content_sha256: f3fc56eb851ab60e0fef0bfb5a811f9038cbc5c53a3d9c3a09d78835ab1eda78
+canonical: 13092-gii-leader-in-shariah-compliant-private-capital-solutions-gcc-2025.json
+---
+
+# GII: Leader in Shari'ah-Compliant Private Capital Solutions GCC 2025
+
+> Verbatim archived copy. Canonical machine record: `13092-gii-leader-in-shariah-compliant-private-capital-solutions-gcc-2025.json`.
+
+<img class="aligncenter size-medium wp-image-13093" src="https://cfi.co/awards/wp-content/uploads/2025/09/GII-thumb-300x187.jpg" alt="GII-thumb" width="300" height="187" />
+<p style="text-align: justify;"><strong>GII group (Gulf Islamic Investments) has emerged as a leading provider of Shari’ah-compliant private capital solutions across the GCC, distinguished by its ethical investment approach, bespoke investment solutions and sectoral diversity.</strong></p>
+<p style="text-align: justify;">Founded eleven years ago (in 2014) by Pankaj Gupta and Mohammed Alhassan, the firm currently manages assets exceeding US $3.5bn. GII specialises in private equity, private debt and private credit, particularly in the GCC and India, and has developed a strong presence in logistics, healthcare, education, food manufacturing and food processing. It responds to investor directions, offering bespoke access to high-quality opportunities.</p>
+<p style="text-align: justify;">Headquartered in Dubai, GII operates across the GCC, notably including the UAE and the Kingdom of Saudi Arabia. Internationally, GII holds a UK CFA licence through OFFA in the West Midlands, owns care homes in Germany, and maintains commercial property portfolios in the USA, France and the UK. The group is privately held, with a nine-member board that includes Mr Gupta and international figures such as Dr David Teece of Stanford University (one of two Independent Directors), ensuring a global perspective.</p>
+<p style="text-align: justify;">With a self-contained, flat-structured team, GII is known for its deep domain expertise and disciplined execution. Its strong social policy supports community engagement, including an internship programme that seeks to train promising candidates for permanent roles in the financial industry, and lead sponsorship of the Eureka! GCC business start-up competition.</p>
+<p style="text-align: justify;">The leadership of GII group co-Founders and co-CEOs Pankaj Gupta and Mohammed Alhassan remains a driving force in maintaining the firm’s entrepreneurial spirit. The Capital Finance International (CFI.co) Judging Panel congratulates GII (Gulf Islamic Investments) on winning the 2025 award for Leader in Shari’ah-Conformant Private Capital Solutions (GCC).</p>
