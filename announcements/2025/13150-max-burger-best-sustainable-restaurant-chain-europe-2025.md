@@ -1,0 +1,19 @@
+---
+id: 13150
+title: "Max Burger: Best Sustainable Restaurant Chain Europe 2025"
+award_year: 2025
+published: 2025-10-17 09:24:45
+published_gmt: 2025-10-17 08:24:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2025/max-burger-best-sustainable-restaurant-chain-europe-2025/"
+categories: ["Best Practice", "Europe", "Industries", "Retail", "Sustainability"]
+content_sha256: c96697d24a4afbce0cd068af5cd74740b9fb72dc69fd2ce50c2d3c7fa6ddd00c
+canonical: 13150-max-burger-best-sustainable-restaurant-chain-europe-2025.json
+---
+
+# Max Burger: Best Sustainable Restaurant Chain Europe 2025
+
+> Verbatim archived copy. Canonical machine record: `13150-max-burger-best-sustainable-restaurant-chain-europe-2025.json`.
+
+<img class="aligncenter size-full wp-image-6442" src="https://cfi.co/awards/wp-content/uploads/2019/01/MaxBurger.jpg" alt="MaxBurger" width="494" height="310" />
+<p style="text-align: justify;">Max Burger continues to set a pioneering example in the European restaurant industry through its deep-rooted commitment to sustainability and social responsibility. Operating across Sweden, Norway, Denmark and Poland, the company has sustained momentum in reducing its carbon footprint, achieving a further one percent reduction this year. In a significant stride towards a more climate-conscious menu, 50 of its 200 restaurants now ensure that every second meal served is meat-free. Alongside its environmental initiatives, Max Burger has broadened its internal engagement  and strengthened internal governance for sustainability . The company has notably reduced sugar content in its beverages and food offerings, reflecting a comprehensive approach to wellbeing and satisfaction. Leadership evolution has also marked the year, with Martin Oppenheimer assuming the role of Chief Executive Officer while Richard Bergfors, the former CEO, remains Executive Chairman, ensuring continuity of the brand’s founding ethos. Under its parent company Fair Distribution, Max Burger demonstrates a robust social conscience, with nine percent of profits directed to poverty alleviation programmes; the foundation has received a   SEK300m (approximately €30m) since it was founded in 2009. Max Burger first came to the CFI.co Judging Panel’s attention in 2018, and the panel believes it is this deep-rooted ethos—making sustainability and social responsibility part of Max Burger’s DNA—that helps the group continually thrive and achieve even greater impact. The Capital Finance International (CFI.co) Judging Panel congratulates Max Burger on winning the 2025 Best Sustainable Restaurant Chain Award (Europe).</p>
