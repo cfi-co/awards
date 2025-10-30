@@ -1,0 +1,19 @@
+---
+id: 13172
+title: "IBM: Superior Shareholder Engagement United States 2025"
+award_year: 2025
+published: 2025-10-30 14:00:24
+published_gmt: 2025-10-30 14:00:24
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/north-america/2025/ibm-superior-shareholder-engagement-united-states-2025/"
+categories: ["Best Practice", "Corporate Governance", "Industries", "North America", "Technology"]
+content_sha256: c3488f864f1680cf467154a6708f069578b1731d16b7c117426a8c24f09cbcb1
+canonical: 13172-ibm-superior-shareholder-engagement-united-states-2025.json
+---
+
+# IBM: Superior Shareholder Engagement United States 2025
+
+> Verbatim archived copy. Canonical machine record: `13172-ibm-superior-shareholder-engagement-united-states-2025.json`.
+
+<img class="aligncenter size-full wp-image-7143" src="https://cfi.co/awards/wp-content/uploads/2020/01/IBM.jpg" alt="IBM" width="318" height="131" />
+<p style="text-align: justify;">IBM has built a long-standing reputation for its strong governance framework and transparent communication with investors, setting a global benchmark for shareholder engagement. The company’s approach prioritises clarity, accountability, and long-term value creation, ensuring that every stakeholder is informed and involved in shaping its strategic direction. IBM’s investor relations programme integrates comprehensive reporting, open dialogue, and proactive outreach, enabling meaningful engagement with institutional and individual shareholders alike. Through consistent updates on financial performance, sustainability progress, and technological innovation, IBM fosters trust and reinforces confidence in its corporate vision. The company’s leadership maintains an active commitment to environmental, social, and governance (ESG) principles, aligning business objectives with sustainable growth and ethical responsibility. IBM’s annual meetings and continuous digital engagement platforms exemplify its dedication to transparency and inclusivity, allowing shareholders to provide valuable insights into governance and strategic decisions. Its efforts to strengthen communication channels have enhanced investor understanding of IBM’s transformation initiatives, particularly in areas such as artificial intelligence, hybrid cloud solutions, and quantum computing. This open and collaborative approach underscores IBM’s recognition that engaged shareholders are essential to long-term corporate resilience and sustainable success. By cultivating mutual respect, trust, and accountability, the company continues to uphold its reputation as a leader in responsible business practice, sustainable innovation, and enduring stakeholder value creation across global industries and rapidly expanding international technology markets worldwide today. The Capital Finance International (CFI.co) Judging Panel proudly congratulates IBM on winning the 2025 Superior Shareholder Engagement Award (United States).</p>
