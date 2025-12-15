@@ -1,0 +1,19 @@
+---
+id: 13231
+title: "Beyond Capital Partners: Innovator in Succession Solutions and Expansion Capital DACH 2025"
+award_year: 2025
+published: 2025-12-15 09:25:36
+published_gmt: 2025-12-15 09:25:36
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/finance/2025/beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-dach-2025/"
+categories: ["Europe", "Finance"]
+content_sha256: 8a1a4c70e08645aa0225ceff89f13c5d0c5d83386cf04c275571925ec6b736f5
+canonical: 13231-beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-.json
+---
+
+# Beyond Capital Partners: Innovator in Succession Solutions and Expansion Capital DACH 2025
+
+> Verbatim archived copy. Canonical machine record: `13231-beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-.json`.
+
+<img class="aligncenter size-full wp-image-12791" src="https://cfi.co/awards/wp-content/uploads/2025/01/BCP.jpg" alt="BCP" width="300" height="294" />
+<p style="text-align: justify;">Beyond Capital Partners (BCP) earns this distinction for its disciplined ability to guide mid-sized companies through succession and growth inflection points with strategic clarity, operational rigour, thoughtful stewardship, and measurable performance. In 2025, the investment firm advanced several executed buy-and-build strategies, enabling “Dr. Hoffmann Facility Services”, a leading facility services provider in Germany, to strengthen its footprint through the acquisition of ABRAXA Gebäudereinigung. The continued growth of “Ank-Kaiser Sanitätshaus” also stood out in 2025, as the company climbed into a top-five position in the medical supply store segment in Germany through the focused acquisition of Sanitätshaus blu and Sanitätshaus Hagenauer Orthopädietechnik. By BCP´s latest acquisition – “Klmed”, a leading contract staffing provider for medical healthcare facilities – it highlighted the firm’s aptitude for identifying resilient, strong-growth businesses as well in sectors that contribute to the public health service and will foster growth through this active partnership. The release of the BCP Sustainability Report 2024 demonstrated its commitment to transparent, data-led ESG integration, reinforced by membership in the Federal Initiative for Impact Investing and its position as a finalist in the Real Deals Sustainable Investment Award 2025. Beyond Capital Partners expanded its influence across the private equity ecosystem through contributions at leading domestic and international Private Equity conferences such as SuperReturn International 2025, 0100 Conference DACH, IPEM Cannes, and multiple Real Deals events, while amplifying thought leadership via its inaugural ”Beyond Capital Partners Women in M&amp;A” scholarship at Frankfurt School of Finance &amp; Management. Its philanthropic engagement, including an orphanage donation at the International Festhalle Riding Tournament Frankfurt for the third year in a row, underscored its philosophy and commitment to responsible entrepreneurship and a give-back contribution. The Capital Finance International (CFI.co) Judging Panel congratulates Beyond Capital Partners on winning the 2025 Innovator in Succession Solutions and Expansion Capital Award (DACH).</p>
