@@ -1,0 +1,22 @@
+---
+id: 13320
+title: "The Access Bank UK Ltd: Best Africa Trade Finance Bank 2026"
+award_year: 2026
+published: 2026-02-12 11:57:47
+published_gmt: 2026-02-12 11:57:47
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2026/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2026/"
+categories: ["Africa", "Banking", "Europe"]
+content_sha256: 410da014c855f62e231668c63510a51eb626ea62c8ab6a1b446234be9f22dad4
+canonical: 13320-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2026.json
+---
+
+# The Access Bank UK Ltd: Best Africa Trade Finance Bank 2026
+
+> Verbatim archived copy. Canonical machine record: `13320-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2026.json`.
+
+[caption id="attachment_13368" align="aligncenter" width="1119"]<img class="wp-image-13368 size-full" src="https://cfi.co/awards/wp-content/uploads/2026/02/Jamie2026.jpg" alt="Anthony Michael, Publisher at Capital Finance International and Jamie Simmonds, CEO/MD of The Access Bank UK Ltd" width="1119" height="847" /> Anthony Michael, Publisher at Capital Finance International and Jamie Simmonds, CEO/MD of The Access Bank UK Ltd[/caption]
+<p style="text-align: justify;"><strong>The Access Bank UK Ltd is recognised for sustained leadership in Africa-focused trade finance, distinguished by strategic discipline, consistent execution and a clear commitment to customer-led value creation. Throughout the past year, the Bank has maintained strong momentum while preserving its relationship-driven operating model, ensuring expansion strengthens service quality rather than compromising it.</strong></p>
+<p style="text-align: justify;">The AfrAsia Bank acquisition has materially enhanced international reach, balance sheet depth and connectivity across key trade corridors, allowing the Bank to support more complex cross-border flows while remaining agile and responsive. Importantly, the benefits of this broader platform are already evident within its international branches, where early investments are translating into commercial energy. These branches operate as integral contributors rather than satellites, reinforcing the Bank’s ability to structure, distribute and execute trade finance solutions close to the markets it serves.</p>
+<p style="text-align: justify;">The Judging Panel also noted the Bank’s disciplined focus on people, culture and infrastructure, with sustained investment in talent development, training and governance ensuring consistent standards across jurisdictions. Targeted technology enhancements have strengthened operational resilience and enabled seamless collaboration between teams in the UK, Europe and Asia, supporting reliable delivery at scale.</p>
+<p style="text-align: justify;">Collectively, these attributes reflect an institution growing responsibly, extracting strategic value from acquisition, and positioning itself for diversified growth while remaining aligned with Africa’s trade ambitions and development priorities. The Capital Finance International (<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fCFI.co&amp;c=E,1,Qucb1QMyS9jBEy6OdXYoeBS1tuSpoSWhUXbFhyGZeq4C-OLuvblo_Ax_C0E9F-Q5fFTjyEx6VB7AhVZTM7D7JUnaXKWVK3tZR0OQQemZRgMWNA,,&amp;typo=1&amp;ancr_add=1">CFI.co</a>) Judging Panel congratulates The Access Bank UK Ltd on winning the 2026 Best Africa Trade Finance Bank Award.</p>
