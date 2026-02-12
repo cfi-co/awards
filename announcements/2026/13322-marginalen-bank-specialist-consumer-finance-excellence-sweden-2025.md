@@ -1,0 +1,19 @@
+---
+id: 13322
+title: "Marginalen Bank: Specialist Consumer Finance Excellence Sweden 2025"
+award_year: 2026
+published: 2026-02-12 15:32:54
+published_gmt: 2026-02-12 15:32:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2026/marginalen-bank-specialist-consumer-finance-excellence-sweden-2025/"
+categories: ["Banking", "Europe", "Finance"]
+content_sha256: 46a00113adf87a4c8d3f1d66d4c712bbb4e7c7bd2b7b5c30a7eb103e076c754c
+canonical: 13322-marginalen-bank-specialist-consumer-finance-excellence-sweden-2025.json
+---
+
+# Marginalen Bank: Specialist Consumer Finance Excellence Sweden 2025
+
+> Verbatim archived copy. Canonical machine record: `13322-marginalen-bank-specialist-consumer-finance-excellence-sweden-2025.json`.
+
+<img class="aligncenter size-full wp-image-13324" src="https://cfi.co/awards/wp-content/uploads/2026/02/Marginalen-Bank.jpg" alt="Marginalen Bank" width="500" height="199" />
+<p style="text-align: justify;">Marginalen Bank earns this recognition for proving that specialist consumer finance can widen access without compromising prudence. Over almost 15 years, it has built a clear strategy around financial inclusion on fair terms, extending from near-prime consumers to SMEs and, increasingly, enterprise payments, while keeping products simple to understand and straightforward to access. Its underwriting differentiates it: rather than relying solely on out-of-the-box scorecards, the bank assesses a customer’s broader context, supporting responsible approvals and consistently sustaining credit losses of roughly 1–2 percent. Operationally, a major core-banking migration from a legacy monolith to a cloud-based platform was executed without customer disruption, and it now underpins a microservices architecture that accelerates digital servicing and improves customer dialogue. The modernised stack also strengthens resilience: scalable compute has lifted payment-processing capacity, reduced downtime and moved the bank towards the high-availability standards demanded by merchants and partners. Marginalen Bank’s ecosystem mindset is equally compelling. It is a significant enabler of Swedish instant payments, supporting Swish participation for 20–30 businesses and pioneering indirect access for other banks, alongside early launches of local account-to-account instant clearing. Through collaborations, including with a blockchain firm and an EIF-backed SME funding programme, it broadens access to rails and capital for underserved segments. This blend of inclusion, transparency-led culture and platform-led scalability positions it strongly for growth over the next 12–24 months. The Capital Finance International (CFI.co) Judging Panel congratulates Marginalen Bank on winning the 2025 Specialist Consumer Finance Excellence Award (Sweden).</p>
