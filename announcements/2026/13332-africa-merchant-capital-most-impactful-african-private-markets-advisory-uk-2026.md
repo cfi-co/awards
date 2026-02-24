@@ -1,0 +1,19 @@
+---
+id: 13332
+title: "Africa Merchant Capital: Most Impactful African Private Markets Advisory UK 2026"
+award_year: 2026
+published: 2026-02-24 10:41:40
+published_gmt: 2026-02-24 10:41:40
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2026/africa-merchant-capital-most-impactful-african-private-markets-advisory-uk-2026/"
+categories: ["Africa", "Consultancies", "Europe", "Finance", "Professional Services"]
+content_sha256: cf7ad2511112c62882ea56fa09ec9c37f72a0943eca837b994bba01705cd9efc
+canonical: 13332-africa-merchant-capital-most-impactful-african-private-markets-advisory-uk-2026.json
+---
+
+# Africa Merchant Capital: Most Impactful African Private Markets Advisory UK 2026
+
+> Verbatim archived copy. Canonical machine record: `13332-africa-merchant-capital-most-impactful-african-private-markets-advisory-uk-2026.json`.
+
+<img class="aligncenter size-full wp-image-13334" src="https://cfi.co/awards/wp-content/uploads/2026/02/AMC.jpg" alt="AMC" width="600" height="178" />
+<p style="text-align: justify;">Africa Merchant Capital merits recognition for combining UK regulatory discipline with Africa-specific execution, reducing transaction risk for global capital providers while improving outcomes for African businesses. Founded in London in 2012, the firm's FCA-regulated positioning provides a credible governance anchor for cross-border mandates where AML and KYC assurance is decisive, and it applies this rigour without slowing deal momentum. The panel notes a differentiated advisory model shaped by principal investing and financing experience: the build-out of an Africa-focused public equities capability from 2013 and the launch of a specialist trade finance business in 2016 created proprietary market access, sharper credit judgement and more resilient origination than advisory-only peers. The subsequent demerger of the trade finance unit following a $6.5m investment in 2020 evidences strategic clarity and willingness to reshape the platform as conditions change, rather than defend legacy structures. Impact is demonstrated in complex, multi-jurisdictional execution, including a competitive global process that doubled valuation for a multi-generational East African business and delivered a nine-figure exit, while structuring continuity for family shareholders and aligning a strategic minority partner. The inclusion of leveraged elements, with Nedbank participating across the capital stack, shows sophistication in capital structuring within a market where such solutions remain scarce. Membership of CDI Global further strengthens process quality, knowledge transfer and international buyer reach, reinforcing consistent delivery standards. The Capital Finance International (CFI.co) Judging Panel congratulates Africa Merchant Capital on winning the Most Impactful African Private Markets Advisory 2026 Award (United Kingdom).</p>
