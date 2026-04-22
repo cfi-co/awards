@@ -1,0 +1,19 @@
+---
+id: 13390
+title: "Citadele Banka: Baltic Leader in Digital Banking Evolution Latvia 2026"
+award_year: 2026
+published: 2026-04-22 10:13:09
+published_gmt: 2026-04-22 09:13:09
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2026/citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026/"
+categories: ["Banking", "Corporate Leadership", "Europe"]
+content_sha256: 30297a247d9ce8a6e61b39dacbc9fdde2844199cb58d4ccf393914c07be18728
+canonical: 13390-citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026.json
+---
+
+# Citadele Banka: Baltic Leader in Digital Banking Evolution Latvia 2026
+
+> Verbatim archived copy. Canonical machine record: `13390-citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026.json`.
+
+<img class="aligncenter size-full wp-image-13391" src="https://cfi.co/awards/wp-content/uploads/2026/04/Citadele.jpg" alt="Citadele" width="500" height="252" />
+<p style="text-align: justify;">Citadele Banka earns recognition for treating digital evolution as a governance and customer-outcome discipline, not a feature race, and for executing that philosophy with measurable rigour. The bank's 2025 performance evidences strategic clarity: operating income of €221.5m supported net profit from continuing operations of €84.7m and a 14.6 percent return on equity, while operating expenses fell 4 percent, demonstrating that investment in digital capability has been matched by cost control and prioritisation. Balance-sheet momentum reinforces credibility: the loan portfolio grew 15 percent to €3.8bn and new financing reached €1.6bn, up 18 percent year on year, indicating that digital simplification has translated into scalable origination rather than superficial engagement. Importantly, Citadele's approach aligns innovation with trust outcomes. Verification of Payee is embedded within payments to reduce misdirected transfers and strengthen fraud resilience at the point of action, reflecting sound risk thinking in customer journeys. Adoption metrics show disciplined execution in a mature market: 86.9 percent of customers actively use digital channels and active mobile users reached 286,000, up 6 percent year on year, signalling sustained relevance without over-engineering. Service quality is treated as an operational KPI, with the bank receiving the highest rating in Latvia in the DIVE customer service study for the 11th consecutive year. The panel also values the bank's insistence on accountable human decision-making alongside automation, strengthening conduct, transparency, and customer confidence at scale. The Capital Finance International (CFI.co) Judging Panel congratulates Citadele Banka on winning the Baltic Leader in Digital Banking Evolution 2026 Award (Latvia).</p>
