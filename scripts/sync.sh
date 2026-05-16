@@ -1,0 +1,81 @@
+#!/usr/bin/env bash
+# Daily re-export + publish. Re-exports every published announcement; commits
+# each NEW / CHANGED / WITHDRAWN announcement individually with today's date and
+# an honest message (content-changed vs metadata-only), refreshes the manifest,
+# then pushes. This is what proves over time that announcements aren't silently
+# modified: every change becomes a dated, public, diffable commit.
+set -euo pipefail
+
+REPO="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$REPO"
+OWNER=cfi-co
+GHREPO=awards
+LOG=/var/log/awards-archive-sync.log
+WP=/var/customers/webs/marten/cfi.co/awards
+ID="-c user.name=CFI.co Awards Archive -c user.email=awards-archive@cfi.co"
+
+log() { echo "[$(date -u +%FT%TZ)] $*" | tee -a "$LOG" >&2; }
+
+# Single-instance lock.
+exec 9>/var/lock/awards-archive-sync.lock
+flock -n 9 || { log "another sync running, skip"; exit 0; }
+
+log "sync start"
+
+# 1. Re-export live data (overwrites announcements/; identical files = no diff).
+php8.2 /usr/local/bin/wp eval-file scripts/export.php --allow-root --path="$WP" >/dev/null
+
+git add -A announcements
+
+mapfile -t CHANGED < <(git diff --cached --name-only -- announcements \
+                       | sed -E 's/\.(md|json)$//' | sort -u)
+
+if [ "${#CHANGED[@]}" -eq 0 ]; then
+  log "no announcement changes"
+else
+  log "${#CHANGED[@]} announcement(s) changed"
+  for stem in "${CHANGED[@]}"; do
+    md="$stem.md"; js="$stem.json"
+    year="$(basename "$(dirname "$stem")")"
+    id="$(basename "$stem" | grep -oE '^[0-9]+')"
+
+    in_head=0; git cat-file -e "HEAD:$js" 2>/dev/null && in_head=1
+    on_disk=0; [ -f "$js" ] && on_disk=1
+
+    if   [ $on_disk -eq 1 ] && [ $in_head -eq 0 ]; then
+      title="$(php8.2 -r '$j=json_decode(file_get_contents($argv[1]),true);echo $j["title"];' "$js")"
+      msg="Add award announcement #$id: $title ($year)"
+    elif [ $on_disk -eq 0 ] && [ $in_head -eq 1 ]; then
+      title="$(git show "HEAD:$js" | php8.2 -r '$j=json_decode(stream_get_contents(STDIN),true);echo $j["title"];')"
+      msg="Withdraw award announcement #$id: $title ($year) — no longer published"
+    else
+      oldh="$(git show "HEAD:$js" | php8.2 -r '$j=json_decode(stream_get_contents(STDIN),true);echo $j["content_sha256"];')"
+      newh="$(php8.2 -r '$j=json_decode(file_get_contents($argv[1]),true);echo $j["content_sha256"];' "$js")"
+      title="$(php8.2 -r '$j=json_decode(file_get_contents($argv[1]),true);echo $j["title"];' "$js")"
+      if [ "$oldh" != "$newh" ]; then
+        msg="Update award announcement #$id: $title — CONTENT CHANGED"
+      else
+        msg="Update award announcement #$id: $title — metadata only (content unchanged)"
+      fi
+    fi
+    git $ID commit -q --no-verify -m "$msg" -- "$md" "$js"
+    log "  $msg"
+  done
+fi
+
+# 2. Refresh whole-tree manifest if anything moved.
+git ls-files -z | grep -zv '^MANIFEST.sha256$' | xargs -0 sha256sum > MANIFEST.sha256
+if ! git diff --quiet -- MANIFEST.sha256; then
+  git add MANIFEST.sha256
+  git $ID commit -q --no-verify -m "Refresh SHA-256 manifest ($(date -u +%F))"
+fi
+
+# 3. Push. (git push is a no-op if already up to date.)
+if [ ! -r "${AWARDS_APP_ENV:-/root/.config/awards-archive/app.env}" ]; then
+  log "GitHub App not configured yet — local commits ready, push skipped"
+  log "sync done"; exit 0
+fi
+TOKEN="$(php8.2 scripts/gh-app-token.php)" || { log "token mint FAILED"; exit 1; }
+git push -q "https://x-access-token:${TOKEN}@github.com/${OWNER}/${GHREPO}.git" HEAD:main
+log "pushed"
+log "sync done"
