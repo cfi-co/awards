@@ -72,7 +72,10 @@ if ! git diff --quiet -- MANIFEST.sha256; then
 fi
 
 # 3. Push. (git push is a no-op if already up to date.)
-if [ ! -r "${AWARDS_APP_ENV:-/root/.config/awards-archive/app.env}" ]; then
+APP_ENV="${AWARDS_APP_ENV:-/root/.config/awards-archive/app.env}"
+APP_PEM="$(grep -E '^PEM=' "$APP_ENV" 2>/dev/null | cut -d= -f2-)"
+if [ ! -r "$APP_ENV" ] || ! grep -qE '^APP_ID=[0-9]+' "$APP_ENV" \
+   || [ -z "$APP_PEM" ] || [ ! -r "$APP_PEM" ]; then
   log "GitHub App not configured yet — local commits ready, push skipped"
   log "sync done"; exit 0
 fi
