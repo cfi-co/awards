@@ -20,11 +20,19 @@ while IFS= read -r -d '' j; do
   ' "$j" || fail=1
 done < <(find announcements -name '*.json' -print0)
 
-# 2. Whole-tree manifest check.
-if [ -f MANIFEST.sha256 ]; then
-  sha256sum -c --quiet MANIFEST.sha256 || fail=1
-else
+# 2. Whole-tree manifest check: coverage AND content. Coverage first so a
+#    truncated/stale manifest fails loudly instead of silently "passing".
+if [ ! -f MANIFEST.sha256 ]; then
   echo "MANIFEST.sha256 missing" >&2; fail=1
+else
+  expected="$(git ls-files | grep -vxF 'MANIFEST.sha256' | sort)"
+  listed="$(cut -c67- MANIFEST.sha256 | sort)"
+  if [ "$expected" != "$listed" ]; then
+    echo "MANIFEST coverage mismatch — manifest does not list exactly the tracked files (truncated/stale?)" >&2
+    diff <(printf '%s\n' "$expected") <(printf '%s\n' "$listed") | head >&2
+    fail=1
+  fi
+  sha256sum -c --quiet MANIFEST.sha256 || fail=1
 fi
 
 if [ "$fail" -eq 0 ]; then

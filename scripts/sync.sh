@@ -63,8 +63,9 @@ else
   done
 fi
 
-# 2. Refresh whole-tree manifest if anything moved.
-git ls-files -z | grep -zv '^MANIFEST.sha256$' | xargs -0 sha256sum > MANIFEST.sha256
+# 2. Refresh whole-tree manifest if anything moved. (Paths are newline-safe:
+#    slugs are sanitised; -r avoids the empty-input -> hash-stdin trap.)
+git ls-files | grep -vxF 'MANIFEST.sha256' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
 if ! git diff --quiet -- MANIFEST.sha256; then
   git add MANIFEST.sha256
   git $ID commit -q --no-verify -m "Refresh SHA-256 manifest ($(date -u +%F))"
