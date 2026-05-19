@@ -12,9 +12,14 @@ OWNER=cfi-co
 GHREPO=awards
 LOG=/var/log/awards-archive-sync.log
 WP=/var/customers/webs/marten/cfi.co/awards
-ID="-c user.name=CFI.co Awards Archive -c user.email=awards-archive@cfi.co"
+# Array, not a string: the values contain spaces and MUST NOT word-split.
+# (A bare `git $ID` made git read "Awards" as a subcommand and aborted the
+#  whole sync the first time there was anything to commit.)
+ID=(-c user.name="CFI.co Awards Archive" -c user.email="awards-archive@cfi.co")
 
-log() { echo "[$(date -u +%FT%TZ)] $*" | tee -a "$LOG" >&2; }
+# Append once to the log. Do NOT also echo to stderr: cron already redirects
+# stdout+stderr to $LOG, so a tee+>&2 doubled every line.
+log() { printf '[%s] %s\n' "$(date -u +%FT%TZ)" "$*" >>"$LOG"; }
 
 # Single-instance lock.
 exec 9>/var/lock/awards-archive-sync.lock
@@ -39,8 +44,8 @@ else
     year="$(basename "$(dirname "$stem")")"
     id="$(basename "$stem" | grep -oE '^[0-9]+')"
 
-    in_head=0; git cat-file -e "HEAD:$js" 2>/dev/null && in_head=1
-    on_disk=0; [ -f "$js" ] && on_disk=1
+    if git cat-file -e "HEAD:$js" 2>/dev/null; then in_head=1; else in_head=0; fi
+    if [ -f "$js" ]; then on_disk=1; else on_disk=0; fi
 
     if   [ $on_disk -eq 1 ] && [ $in_head -eq 0 ]; then
       title="$(php8.2 -r '$j=json_decode(file_get_contents($argv[1]),true);echo $j["title"];' "$js")"
@@ -58,7 +63,7 @@ else
         msg="Update award announcement #$id: $title — metadata only (content unchanged)"
       fi
     fi
-    git $ID commit -q --no-verify -m "$msg" -- "$md" "$js"
+    git "${ID[@]}" commit -q --no-verify -m "$msg" -- "$md" "$js"
     log "  $msg"
   done
 fi
@@ -68,7 +73,7 @@ fi
 git ls-files | grep -vxF 'MANIFEST.sha256' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
 if ! git diff --quiet -- MANIFEST.sha256; then
   git add MANIFEST.sha256
-  git $ID commit -q --no-verify -m "Refresh SHA-256 manifest ($(date -u +%F))"
+  git "${ID[@]}" commit -q --no-verify -m "Refresh SHA-256 manifest ($(date -u +%F))"
 fi
 
 # 3. Push. (git push is a no-op if already up to date.)
