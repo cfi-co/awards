@@ -1,0 +1,19 @@
+---
+id: 13431
+title: "QIC Group: Best Insurance Leadership GCC 2025"
+award_year: 2025
+published: 2025-10-19 10:57:46
+published_gmt: 2025-10-19 09:57:46
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/middle-east/2025/qic-group-best-insurance-leadership-gcc-2025/"
+categories: ["Corporate Leadership", "Middle East", "Professional Services"]
+content_sha256: bc4ee4ccbce8efa749637cc4312d675598ff8f1db47a09fdb63aa93723a685d0
+canonical: 13431-qic-group-best-insurance-leadership-gcc-2025.json
+---
+
+# QIC Group: Best Insurance Leadership GCC 2025
+
+> Verbatim archived copy. Canonical machine record: `13431-qic-group-best-insurance-leadership-gcc-2025.json`.
+
+<img class="aligncenter size-full wp-image-10045" src="https://cfi.co/awards/wp-content/uploads/2022/02/QIC.jpg" alt="QIC" width="500" height="357" />
+<p style="text-align: justify;">QIC Group continues to set the benchmark for insurance excellence, combining visionary leadership with a steadfast commitment to innovation, sustainability, and community engagement across the GCC and international markets. The Group’s impressive 2025 milestones reflect a holistic approach to growth — from sponsoring major cultural and sporting events such as the Katara International Arabian Horse Festival, S’hail 2025, and the Doha Marathon by Ooredoo, to strengthening Qatar’s reputation as a global centre for culture, sport, and innovation. QIC’s introduction of groundbreaking products such as School Fees Protection Insurance and Personal Cyber Insurance, alongside enhancements to its award-winning QIC App, demonstrates a deep understanding of evolving customer needs. Regionally, QIC has expanded its operational footprint through subsidiaries in Oman and Kuwait, celebrating OQIC’s 20th anniversary and doubling KQIC’s capital, while globally, QIC Asset Management earned distinction as a Top Investment House in Asian G3 Bonds. The Group's strategic investments in insurtech startups, its prominent participation in global events such as the Web Summit, and its role as host of the MENA Fintech and Insurtech Summits reaffirm its vital role as a digital innovator shaping the industry's future. Recognition at the MENA II Awards, the Insurance Asia Awards, and MSCI’s highest AAA ESG rating further underlines its excellence in governance, sustainability, and customer experience. Through continuous advancement in digitalisation, strategic partnerships, and market leadership, QIC Group exemplifies the values of Qatar National Vision 2030. The Capital Finance International (CFI.co) Judging Panel congratulates QIC Group on winning the 2025 Best Insurance Leadership Award (GCC).</p>
