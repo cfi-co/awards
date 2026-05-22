@@ -7,6 +7,15 @@ published_gmt: 2023-12-19 09:14:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-africa-2023/"
 categories: ["Africa", "Development", "Government", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16fe40c4b0720b27bc85ab037e961cb1461a7a5adedb7285fa707a931849249f
 canonical: 12154-smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-a.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 11:53:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2017/xpress-money-services-best-remittance-services-global-2016/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 73b20f5d3899000b2d7d21a92598f7aa4514230b40071af6d13d3550675ed83c
 canonical: 4266-xpress-money-services-best-remittance-services-global-2016.json
 ---

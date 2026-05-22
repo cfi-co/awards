@@ -7,6 +7,15 @@ published_gmt: 2023-05-05 08:45:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/red-med-capital-best-investment-bank-morocco-2023/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ec4fc4434894658ee3e3a20db786c9d9ea0da26936588514a09c5b74a2d5263
 canonical: 11463-red-med-capital-best-investment-bank-morocco-2023.json
 ---

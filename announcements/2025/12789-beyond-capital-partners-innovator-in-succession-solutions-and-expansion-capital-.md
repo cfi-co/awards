@@ -7,6 +7,15 @@ published_gmt: 2025-01-15 08:57:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2025/beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-germany-2024/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4eed99eebe4610e1988777eef1b0585a1957b39351f2b418778450b7513dcbf2
 canonical: 12789-beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-.json
 ---

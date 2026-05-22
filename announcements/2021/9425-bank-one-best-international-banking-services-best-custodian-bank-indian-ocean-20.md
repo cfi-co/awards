@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 11:35:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/bank-one-best-international-banking-services-best-custodian-bank-indian-ocean-2021/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dafc0d5d1a1a45ea2b085d2d2fccd8c9052a2144e694a0d761d135d26993b408
 canonical: 9425-bank-one-best-international-banking-services-best-custodian-bank-indian-ocean-20.json
 ---

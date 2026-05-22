@@ -7,6 +7,15 @@ published_gmt: 2012-11-13 16:23:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2012/gulf-finance-houses-long-term-winning-approach/"
 categories: ["Banking", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b3458a7216afa844e3d077e03e591620c5ca4f0a72a52e265c64101d85a2f6da
 canonical: 297-gulf-finance-houses-long-term-winning-approach.json
 ---

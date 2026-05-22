@@ -13,8 +13,21 @@
         "Middle East",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3989\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Tanqia.jpg\" alt=\"Tanqia\" width=\"500\" height=\"253\" /></p>\r\n<p style=\"text-align: justify;\"><strong>TANQIA is a Regulated utility provide critical-need solution and far-sighted business vision.</strong></p>\r\n<p style=\"text-align: justify;\">The Utility affirms its mission in its name, which means 'purify' in Arabic. As the first privately owned, government-regulated wastewater collection and treatment utility in the UAE, TANQIA deploys state-of-the-art technology and deep industry expertise to strengthen water resiliency in Fujairah, which like much of the Gulf region, relies on desalination and underground aquifers for its water needs.</p>\r\n<p style=\"text-align: justify;\">With declining ground water reserves and rising salinity caused by over-pumping and seawater ingress, the use of treated wastewater is even more crucial. TANQIA serves a concession area in Fujairah via a wastewater collection network running 546 kilometres. The Utility has revised its expansion plans to accommodate the recent boom in population growth - and the corresponding spike in demand for wastewater services.</p>\r\n<p style=\"text-align: justify;\">The first phase of the Revised Expansion Plan is slated for completion by the end of the year and the second Phase by mid-2023. TANQIA will increase installed treatment capacities from 16,000 to 46,000 m3 per day and provide 1.5 billion gallons of high-quality effluent for sale through the distribution network developed by its partner Etihad Water and Electricity, a utility itself (EWE). TANQIA aims to drive down the costs of its operations and sale to partner of highly treated wastewater for reuse in restricted irrigation, while promoting sustainability and accommodating for future demand.</p>\r\n<p style=\"text-align: justify;\">TANQIA's upcoming Green Energy Project is expected to cover 40% percent of the treatment plant's average annual energy requirements from Solar Energy and lower emissions by 6,061 tons of CO2 per year. The CFl.co jury presents repeat winner TANQIA with the 2022 Best Sustainable Growth Strategy (Middle East) award.</p>",
     "content_sha256": "a32f60a3c971ca715ec04ebaea8fe9572b7993fdb4c36f936d07b15bc88b70f1",
-    "record_sha256": "5e5ec8c6956223b1512d3b0d46ddd73d539128f09c06dd0e89506ec8e0c86a2d"
+    "record_sha256": "ffbc830d850857ac00f9a9ab93bce79b928e5014df9c0c824556557fd3df6898"
 }

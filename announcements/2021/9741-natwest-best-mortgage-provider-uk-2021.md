@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 07:08:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/natwest-best-mortgage-provider-uk-2021/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b5723f061c1ef3e894455306cd33e8cd1518fee545b398ada0cf5db3956a1e7
 canonical: 9741-natwest-best-mortgage-provider-uk-2021.json
 ---

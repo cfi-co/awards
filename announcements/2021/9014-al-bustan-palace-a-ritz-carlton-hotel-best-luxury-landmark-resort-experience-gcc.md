@@ -7,6 +7,15 @@ published_gmt: 2021-04-06 11:58:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/al-bustan-palace-a-ritz-carlton-hotel-best-luxury-landmark-resort-experience-gcc-2021/"
 categories: ["Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d465c75bd194f49bb7070098967d295efa0faac49df6727131cf2e0bce20c07
 canonical: 9014-al-bustan-palace-a-ritz-carlton-hotel-best-luxury-landmark-resort-experience-gcc.json
 ---

@@ -12,8 +12,21 @@
         "Best Practice",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2013/11/Schlumberger.jpg\"><img class=\" wp-image-888 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/Schlumberger.jpg\" alt=\"Schlumberger\" width=\"366\" height=\"91\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>In over forty countries, oilfield services company Schlumberger is actively engaged in promoting science, technology, engineering, and math (STEM) education through its SEED (Schlumberger Excellence in Education Development) programme. The company is fully committed to share its corporate culture which prioritises science and learning.</strong></p>\r\n<p style=\"text-align: justify;\">SEED is the embodiment of this passion. The programme counts on the volunteer work of hundreds of educators to reach students and engage them in global challenges such as climate change, energy, and water which may be addressed by science.</p>\r\n<p style=\"text-align: justify;\">In Nigeria, SEED has collaborated with over 34 schools and the Nigerian Academy of Science to promote science education. Participating schools work on research projects aimed at igniting a passion for science in students.</p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel considers SEED an exemplary initiative and applauds Schlumberger for its sustained commitment to STEM education. As production processes become ever more complex, demand for engineers and scientists are expected to increase by leaps and bounds over the next few decades. A technology company par excellence, Schlumberger seems to not just recognise this need, but address it in a hands-on manner as well. The CFI.co Judges unanimously decided to hand Schlumberger Nigeria for the second consecutive year its Best Sustainability Award.</p>",
     "content_sha256": "245c6c9c3e7cd7220001df638be6faab6117d28889df94422f58120eb71e343b",
-    "record_sha256": "d62493f9fd4be9828cd340973368fcffb4ca63bb5eea064a87f5e7a97f9fdce2"
+    "record_sha256": "253e2e9e603ddaefec5b799ee0bab8ace6d90ed3598c63e24c4649a860550798"
 }

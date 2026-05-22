@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:41:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/real-estate/2017/residences-dar-saada-best-real-estate-developer-morocco-2017/"
 categories: ["Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 224d8bb0eba51c3c1c521170bab8931a5c8bf0116a0cf008fe15a79665e777eb
 canonical: 4694-residences-dar-saada-best-real-estate-developer-morocco-2017.json
 ---

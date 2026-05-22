@@ -13,8 +13,21 @@
         "CSR",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2067\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/nb.jpg\" alt=\"nb\" width=\"240\" height=\"104\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Norway’s Central Bank has decided on children’s rights and child labour as a strategic area for corporate concern. </strong></p>\r\n<p style=\"text-align: justify;\">In 2009, Magdalena Kettis, head of Social &amp; Corporate Governance at the Bank produced a paper: ‘Children’s Rights – A Concern For Investors. Each year Norges make an assessment of their holdings for compliance with their stated criteria for proper conduct. The judging panel applauded the systematic and determined approach of Norges in helping to reduce the abuse of children in the workplace.</p>",
     "content_sha256": "6757db95549e890477433dd56219edd0a9ad775fc0f77af53c5409fca90d9f51",
-    "record_sha256": "ff7fc415872934db8ba94fd78206f042841651578216013dd5ca83dc1d7522ff"
+    "record_sha256": "ab8f054a4f34e97cd25641ddf67e312d4f9281792ee7d339be3cc520d488345b"
 }

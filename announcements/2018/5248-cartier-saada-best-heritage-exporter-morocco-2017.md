@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/cartier-saada-best-heritage-exporter-morocco-2017/"
 categories: ["Africa", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be72aa88e32d37fedd403e70dcc752bc67a0442659d20cdf59bb7a17783b2075
 canonical: 5248-cartier-saada-best-heritage-exporter-morocco-2017.json
 ---

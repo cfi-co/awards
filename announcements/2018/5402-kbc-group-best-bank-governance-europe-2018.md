@@ -7,6 +7,15 @@ published_gmt: 2018-05-25 14:56:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/kbc-group-best-bank-governance-europe-2018/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc7687c8824a318c6ff62083b6468e9369ad7fac32a045739d8478ab5bfaa309
 canonical: 5402-kbc-group-best-bank-governance-europe-2018.json
 ---

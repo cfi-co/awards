@@ -7,6 +7,15 @@ published_gmt: 2014-10-01 09:00:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2014/ndb-investment-bank-leaders-in-sri-lanka-and-cfi-co-award-winner/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ebc24635bf0a5e4c0a8ec9b4823394b6418057135b63e1b87eab7bfcefad7aa5
 canonical: 6280-ndb-investment-bank-leaders-in-sri-lanka-and-cfi-co-award-winner.json
 ---

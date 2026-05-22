@@ -7,6 +7,15 @@ published_gmt: 2025-07-29 10:37:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2025/arab-authority-for-agricultural-investment-development-aaaid-outstanding-contribution-to-economic-diversification-mea-2025/"
 categories: ["Africa", "Development", "Finance", "Government", "Industries", "Middle East", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a68a595d1f45126370bda51c8dc5cafa4de13727e668381c1d5f17773367d2f
 canonical: 13048-arab-authority-for-agricultural-investment-development-aaaid-outstanding-contrib.json
 ---

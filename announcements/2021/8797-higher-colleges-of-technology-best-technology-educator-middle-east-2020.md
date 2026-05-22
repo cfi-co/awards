@@ -7,6 +7,15 @@ published_gmt: 2021-02-02 06:00:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/higher-colleges-of-technology-best-technology-educator-middle-east-2020/"
 categories: ["Development", "Middle East", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b33905b149fbe09de1cce035de45579ae75d5496fb31c1fc3ca7b276026e3bab
 canonical: 8797-higher-colleges-of-technology-best-technology-educator-middle-east-2020.json
 ---

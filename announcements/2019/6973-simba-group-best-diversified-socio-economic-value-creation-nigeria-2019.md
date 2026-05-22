@@ -7,6 +7,15 @@ published_gmt: 2019-10-31 11:13:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/simba-group-best-diversified-socio-economic-value-creation-nigeria-2019/"
 categories: ["Africa", "Best Practice", "Community Engagement", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be4bd2f855866650864bf94bc7b7ca12987941756a8488a910abeb9ee7146be8
 canonical: 6973-simba-group-best-diversified-socio-economic-value-creation-nigeria-2019.json
 ---

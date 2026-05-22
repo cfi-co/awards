@@ -7,6 +7,15 @@ published_gmt: 2020-05-24 10:53:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2020/produbanco-banco-de-la-produccion-sa-best-bank-governance-ecuador-2020/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a1248cbdb537a2a4122ead77d96df2d91bf9c0dda7c849754d73827085a5af59
 canonical: 7632-produbanco-banco-de-la-produccion-sa-best-bank-governance-ecuador-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-12-05 17:03:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2019/walmart-most-innovative-retailer-united-states-2019/"
 categories: ["Industries", "North America", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a3b18be38ea937372746db9e7fae19f73ad25972afef5084c10d96bdd666339
 canonical: 7019-walmart-most-innovative-retailer-united-states-2019.json
 ---

@@ -12,8 +12,21 @@
         "Development",
         "FDI Agencies"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3726\" src=\"https://cfi.co/awards/wp-content/uploads/2017/01/InvestSA.jpg\" alt=\"investsa\" width=\"417\" height=\"119\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Upgraded this year to manage South Africa’s investment promotion and facilitation efforts, InvestSA has set about its job with considerable gusto. The new entity works with a superior product: South Africa remains the continent’s powerhouse and one very much open for business. South Africa not only boasts a business-friendly environment but also an ascendant market with a buoyant middle class clamouring for up-to-date products and services.</strong></p>\r\n<p style=\"text-align: justify;\">InvestSA is an initiative of South Africa’s Department of Trade and Industry which has historically played a crucial role in the promotion of investment and now an enhanced facilitation service as a driver of national development. The department has managed to insert South Africa in a global web of trade and investment deals. As a result of that push, South Africa is now part of a growing global value chain that also includes neighbouring countries. In fact, InvestSA aims to promote South Africa as the natural gateway to the buoyant markets of Southern Africa and the East African seaboard. South Africa is currently recognised as a regional manufacturing hub.</p>\r\n<p style=\"text-align: justify;\">InvestSA works in tandem with provincial investment promotion agencies to source opportunities for investors that, in turn, dovetail with both local and national development aims and goals. As the international investment arm of the Department of Trade and Industry, InvestSA has already made great strides in promoting packaged investment projects and promoting direct foreign investment. The CFI.co judging panel considers the entity a worthy winner of the 2016 Best Investment Promotion Agency Africa Award.</p>",
     "content_sha256": "e51a79939676bd6974959cfedb56400776512a5267921ab74a9dd680cd40e276",
-    "record_sha256": "48fe88b2b3816d32e8e11e932fc5d15e0b1e8b53770e430a5906976efdd75861"
+    "record_sha256": "b05eb06112a73c08117e545c76cf65225db84a76e40bfca45e9e69ae05155a0a"
 }

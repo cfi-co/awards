@@ -7,6 +7,15 @@ published_gmt: 2022-11-25 15:04:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/agency-for-the-promotion-of-investment-and-exports-outstanding-contribution-to-trade-africa-2022/"
 categories: ["Africa", "Development", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3be323015e0f7c2d52b1a1a86f3b8f32f6abed26b9a2e5ec4877f07ed3759df5
 canonical: 10935-agency-for-the-promotion-of-investment-and-exports-outstanding-contribution-to-t.json
 ---

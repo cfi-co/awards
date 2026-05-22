@@ -7,6 +7,15 @@ published_gmt: 2025-12-24 09:55:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2025/paratus-energy-leader-in-capital-efficient-offshore-energy-services-global-2025/"
 categories: ["Development", "Industries", "Latin America", "Oil &amp; Gas", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3de15a13bc2833a8c26e0fd0f22436a60a8dcf722027471ba9a7b467cc64a66a
 canonical: 13246-paratus-energy-leader-in-capital-efficient-offshore-energy-services-global-2025.json
 ---

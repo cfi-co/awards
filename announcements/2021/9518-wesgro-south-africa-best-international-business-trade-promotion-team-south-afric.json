@@ -13,8 +13,21 @@
         "FDI Agencies",
         "Government"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9519\" src=\"https://cfi.co/awards/wp-content/uploads/2021/08/wesgro.jpg\" alt=\"wesgro\" width=\"400\" height=\"192\" />\r\n<p style=\"text-align: justify;\">Official tourism, trade and investment promotion agency Wesgro South Africa wants the world to know that Cape Town and the Western Cape are open for business. Wesgro invites visitors to virtually explore the region through editorials and opinions, country factsheets, trend analyses and sector insights. If a client’s query can’t be satisfied through Wesgro’s website and other resources, a research team will be commissioned to sort it out. Wesgro South Africa credits its success to a purpose-driven philosophy, an effective digitalisation strategy and a dedicated team. The company has more than 100 employees who unite to smooth the way for international business, trade and investment. It reacted swiftly to the Covid challenges, setting up a help centre, adjusting operations, and ensuring uninterrupted supply chains. Wesgro teams assist the regional government with its economic growth and job creation agenda through the promotion of tourism, exports, investments and the film industry. It helps companies to secure and expand investments in the region and to become export-ready. It can facilitate entry into foreign markets either through outward FDI across the continent or outward global missions, including physical, virtual and hybrid structures across a range of sectors and countries. Wesgro South Africa serves as an interface between government, regional businesses, and international investors. In the 2019/20 financial year, the agency contributed towards the creation of 4,600 jobs, and generated billions in committed investments and trade agreements. The CFI.co judging panel presents Wesgro South Africa with the 2021 award for Best International Business &amp; Trade Promotion Team (South Africa).</p>",
     "content_sha256": "3556e124305cd115e21f6e57f4faa8b6bec2ed51001c15e208803520e0c4a033",
-    "record_sha256": "88ba97b1591e952dfcf0a2b50cf53623c93d86aa5bae3e2cbb74c36b0016fa4d"
+    "record_sha256": "390059a925e09f05a687334171a6127b94c4d557aebf26bbd979a3b01d7aa87d"
 }

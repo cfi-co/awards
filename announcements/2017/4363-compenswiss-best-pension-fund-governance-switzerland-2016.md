@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 14:37:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/compenswiss-best-pension-fund-governance-switzerland-2016/"
 categories: ["Asset Management", "Best Practice", "Corporate Governance", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f35304e24fbe26bda97bf583458e19f0772f3c39c044b15f3476333dd26b7c8d
 canonical: 4363-compenswiss-best-pension-fund-governance-switzerland-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-11-25 10:52:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/the-inspirational-andy-kwabena-asamoah-and-ac-developments-corporate-leadership-award-ghana-2013/"
 categories: ["Africa", "Best Practice", "Corporate Leadership"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dbfe0e99a8622c83f75ce483c66f0b9ecfbbc3da993e38d7080fb84a2c5d5df3
 canonical: 971-the-inspirational-andy-kwabena-asamoah-and-ac-developments-corporate-leadership-.json
 ---

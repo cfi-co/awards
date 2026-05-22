@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 17:51:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/mpico-best-full-property-services-malawi-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54565beedbbdf25d1c3db202246fb55ddb49a5f93f90edbf0796f2f8629f7068
 canonical: 6497-mpico-best-full-property-services-malawi-2018.json
 ---

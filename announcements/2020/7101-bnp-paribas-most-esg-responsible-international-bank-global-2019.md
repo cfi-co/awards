@@ -7,6 +7,15 @@ published_gmt: 2020-01-10 15:03:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/bnp-paribas-most-esg-responsible-international-bank-global-2019/"
 categories: ["Banking", "Best Practice", "CSR", "Corporate Governance", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a93451c50ddce20854ff3bb113b1509a8d3c510a482d5b372ef66f889df1d80c
 canonical: 7101-bnp-paribas-most-esg-responsible-international-bank-global-2019.json
 ---

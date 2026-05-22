@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:08:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/mrv-engenharia-best-esg-responsible-development-leadership-brazil-2020/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Corporate Leadership", "Development", "Industries", "Latin America", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 15d3b0b1dd2d3bbe239c632c3f19b2ae49f603107d5b0742b9a8d6f120dc316b
 canonical: 8720-mrv-engenharia-best-esg-responsible-development-leadership-brazil-2020.json
 ---

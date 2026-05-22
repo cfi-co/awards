@@ -7,6 +7,15 @@ published_gmt: 2021-05-19 08:02:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/march-asset-management-best-thematic-funds-management-team-spain-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf71d2afef9559a67ca8b20a06318ffbc6e447476e03fb08ee98c6b76ebb0648
 canonical: 9218-march-asset-management-best-thematic-funds-management-team-spain-2021.json
 ---

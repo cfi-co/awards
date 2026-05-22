@@ -16,8 +16,21 @@
         "North America",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8794\" src=\"https://cfi.co/awards/wp-content/uploads/2021/02/Trillium-Asset-Management.jpg\" alt=\"Trillium-Asset-Management\" width=\"400\" height=\"212\" />\r\n<p style=\"text-align: justify;\">Trillium Asset Management was launched in 1982 by the late Joan Bavaria, heralded as the founding mother of ESG investing. After studying the investment system — and finding flaws — Bavaria started Trillium to provide clients with options better aligned with their values. Trillium put socially responsible investing on the map. Today it has $4.0bn in AUM, and ranks among the world’s top 150 Positive Impact companies. Of the 14 investment vehicles on offer, half are designated as FFF, or free of fossil fuels. The firm’s philosophy and primary goals create a guidance structure for decision-making and daily operations at every level. Research is ongoing at Trillium, and companies’ ESG performance is subjected to rigorous, risk-based screening. It seeks verification that companies are actively trying to curb emissions by using renewable energy, managing raw materials responsibly, and limiting the use of harmful substances. Companies must pay fair living wages, operate an ethical supply chain, and follow a human capital management strategy that supports diversity and inclusion. Good governance is in the hands of a diverse board, which believes in reasonable executive wages and full corporate transparency. Trillium has appointed an independent supervisory board to conduct due-diligence to protect the mission, and an engagement committee to collaborate with companies for positive change. The CFI.co judging panel presents Trillium Asset Management with the 2020 award for Best ESG Investment Integration (United States).</p>",
     "content_sha256": "05d265d954820cbbd03a487a611def80e1d6ec1137c1931f8d5b257809036677",
-    "record_sha256": "51330d2a2d3af12302332c45b07935eba765275ec3221d08f16e7f10f4bc9747"
+    "record_sha256": "445a6ebc18371a98733e3436784d0abd713c278d426c367fbbbba014ce4b820e"
 }

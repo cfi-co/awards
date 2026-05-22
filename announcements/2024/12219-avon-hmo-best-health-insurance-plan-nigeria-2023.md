@@ -7,6 +7,15 @@ published_gmt: 2024-01-09 15:19:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/avon-hmo-best-health-insurance-plan-nigeria-2023/"
 categories: ["Africa", "Customer Satisfaction", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e1702b80e4fa6f208536f38632d2a1404f3e680aab7ec9d07f1e20061f37489
 canonical: 12219-avon-hmo-best-health-insurance-plan-nigeria-2023.json
 ---

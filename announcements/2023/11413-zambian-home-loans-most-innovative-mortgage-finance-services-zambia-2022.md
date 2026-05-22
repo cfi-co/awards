@@ -7,6 +7,15 @@ published_gmt: 2023-04-26 14:32:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/zambian-home-loans-most-innovative-mortgage-finance-services-zambia-2022/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 44585c4dc8df683180e80f20b5b8a4dc95ab1f6f119ed153787ca34e1e8ec681
 canonical: 11413-zambian-home-loans-most-innovative-mortgage-finance-services-zambia-2022.json
 ---

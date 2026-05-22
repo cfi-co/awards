@@ -7,6 +7,15 @@ published_gmt: 2023-05-15 09:08:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2023/peet-ltd-best-sustainable-community-developer-australia-2023/"
 categories: ["Asia Pacific", "Best Practice", "Community Engagement", "Development", "Projects", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17e2c459fb8b28444ee4cd93cb090f98ba87659a477c99af29d19b3a9f9335e1
 canonical: 11511-peet-ltd-best-sustainable-community-developer-australia-2023.json
 ---

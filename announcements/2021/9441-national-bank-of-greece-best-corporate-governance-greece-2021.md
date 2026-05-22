@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 12:40:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/national-bank-of-greece-best-corporate-governance-greece-2021/"
 categories: ["Banking", "Europe", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d037f7a8939173aab417b4f0f6145a129989bd8ecc6841475a5a20007acd8f17
 canonical: 9441-national-bank-of-greece-best-corporate-governance-greece-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 12:01:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/khartoum-stock-exchange-kse-best-sustainable-securities-exchange-north-africa-2017/"
 categories: ["Africa", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ce45e3dafcd2b307edba8d6f9e4d68b928b670ae153f3b93c764a2e3e6da698
 canonical: 4276-khartoum-stock-exchange-kse-best-sustainable-securities-exchange-north-africa-20.json
 ---

@@ -12,8 +12,21 @@
         "Legal",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-383\" alt=\"Freshfields_logo\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/Freshfields_logo.png\" width=\"500\" height=\"55\" />Freshfields in Germany is very strong in dispute resolution and, according to the judging panel, executes assignments very efficiently across sectors and jurisdictions. CFI.co named the firm as ‘Best Dispute Resolution Team, Germany’, 2013. Freshfields is headquartered in London and is a member of the magic circle.</p>",
     "content_sha256": "1314ec279d8eed08c218530387db9b18cb75e62d96075acb3e056f661b500cf3",
-    "record_sha256": "fa039dfa3a087ea0326db3ddb6edf1c4a70ef71c5e773aba197e055f04256b96"
+    "record_sha256": "29e2191b7fc5ecd0b7a0c7caad7517afd92a879512c67ecc586217346902532c"
 }

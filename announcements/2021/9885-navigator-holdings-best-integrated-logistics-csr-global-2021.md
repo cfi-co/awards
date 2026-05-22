@@ -7,6 +7,15 @@ published_gmt: 2021-12-14 11:10:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/navigator-holdings-best-integrated-logistics-csr-global-2021/"
 categories: ["Best Practice", "CSR", "Europe", "Industries", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 026fd2402bf215a7563846438120e3c0d1506404eda348088f02e925261bb486
 canonical: 9885-navigator-holdings-best-integrated-logistics-csr-global-2021.json
 ---

@@ -13,8 +13,21 @@
         "Professional Services",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10884\" src=\"https://cfi.co/awards/wp-content/uploads/2022/10/wtw.jpg\" alt=\"wtw\" width=\"500\" height=\"162\" />\r\n<p style=\"text-align: justify;\">Regional insurance broker Unity Willis Towers Watson (Unity WTW) has established an expansive presence throughout Central America. The company’s network of market-leading insurance providers caught the attention of US-based Willis Towers Watson, a global advisory, broking and solutions company with a 195-year history and a presence in 140 countries. Willis Towers Watson acquired Unity Group (formerly Unity Ducruet) in 2020. The parent company strengthened its foothold in Central America while its subsidiary gained access to a broad global network. Unity WTW provides insurance products to more than 300,000 individual clients and 5,000 businesses, including around 700 multinationals. It processes over 200,000 health, motor and liability claims annually and has experience handling larger claims. The broker combines standardised processes and its own methodology to create a Personalised Risk Overview and determine insurance conditions and costs. Unity WTW levers the regional expertise of its people with the global vision of its parent company to develop data-driven analytical solutions that can help organisations to shape strategy, improve resilience, motivate staff and maximise performance. It aims to enhance the customer journey by investing in continuous tech innovation. Unity WTW uses client relationship management programmes, web platforms, microsites, dashboards, digital claims tools and mobile apps to provide customers with the most convenient and secure service possible. The CFI.co judging panel is pleased to present Unity WTW — a repeat programme winner — with the 2022 award for Best Sustainable Insurance Solutions Team (Central America).</p>",
     "content_sha256": "99d222f4bac8bc5078ba9244c2586c40561c827de02388fcae9c3d51b4d9d814",
-    "record_sha256": "6926c49e30bb8105065eae91c29645f856eddf20d26056bdd90c25d6cacb8b2b"
+    "record_sha256": "da75059a4aa71ed77339e1109980b3efc12f0ed4c7a9f011f0598ff86ec6253f"
 }

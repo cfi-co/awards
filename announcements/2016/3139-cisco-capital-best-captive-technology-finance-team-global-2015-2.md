@@ -7,6 +7,15 @@ published_gmt: 2016-04-19 12:41:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2016/cisco-capital-best-captive-technology-finance-team-global-2015-2/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd056abac2213c15e84f70d7fb6bf8f9d08f10afbc258ff20f66845f64c59dae
 canonical: 3139-cisco-capital-best-captive-technology-finance-team-global-2015-2.json
 ---

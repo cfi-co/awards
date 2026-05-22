@@ -7,6 +7,15 @@ published_gmt: 2014-10-23 12:50:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2014/lotus-capital-most-shariah-compliant-asset-management-team-africa-2014/"
 categories: ["Africa", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 64f25f219ca82de3dada4c85228839da06e502e71ecb41324aee4c6ace31313c
 canonical: 5032-lotus-capital-most-shariah-compliant-asset-management-team-africa-2014.json
 ---

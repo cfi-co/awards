@@ -7,6 +7,15 @@ published_gmt: 2024-02-12 13:57:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/kuwait-international-bank-best-banking-vision-best-shariah-compliant-bank-mena-2023/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7be0a786f6df58346e485768866843dd43bffb6fda49dd484398149f725212a3
 canonical: 12282-kuwait-international-bank-best-banking-vision-best-shariah-compliant-bank-mena-2.json
 ---

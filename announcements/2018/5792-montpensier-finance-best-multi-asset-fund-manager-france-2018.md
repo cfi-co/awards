@@ -7,6 +7,15 @@ published_gmt: 2018-07-16 08:47:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/montpensier-finance-best-multi-asset-fund-manager-france-2018/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e03080bd1ec7465f3a4e6bb904421b130a5519d3417f4a8b3843bb0e034128bb
 canonical: 5792-montpensier-finance-best-multi-asset-fund-manager-france-2018.json
 ---

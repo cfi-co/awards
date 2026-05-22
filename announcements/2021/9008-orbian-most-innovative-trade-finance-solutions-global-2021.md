@@ -7,6 +7,15 @@ published_gmt: 2021-04-01 12:02:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/orbian-most-innovative-trade-finance-solutions-global-2021/"
 categories: ["Finance", "Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c2bbac212e54b85346c638940bd5722b9b5186aabe3dd6c573cd17d2d9372bf
 canonical: 9008-orbian-most-innovative-trade-finance-solutions-global-2021.json
 ---

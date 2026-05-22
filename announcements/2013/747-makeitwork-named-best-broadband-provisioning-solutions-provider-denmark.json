@@ -12,8 +12,21 @@
         "Industries",
         "Telecom"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-749\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/MIW.jpg\" alt=\"MIW\" width=\"272\" height=\"60\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Flexibility and best value for money: That’s what landed MakeITWork (MIW) the CFI.co Best Broadband Provisioning Solutions Provider Award. The judging panel was particularly impressed by MIW’s dedication to serving up the most efficient solution to their clients’ needs by adapting the company’s proprietary systems to existing setups and applications. This way, MakeITWork continuously ensures optimal use of its clients’ IT resources.</strong></p>\r\n<p style=\"text-align: justify;\"><img class=\"alignright  wp-image-750\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/WinnerBestBBProvisioningSolutionsDenmark2013-small.jpg\" alt=\"WinnerBestBBProvisioningSolutionsDenmark2013-small\" width=\"82\" height=\"82\" />MIW’s product suite includes payment and administration systems that deliver the best end-to-end software solutions to the broadband and utilities industry in Denmark. Their solution is quite unique and covers both back office customer service functions and the logistics required for the delivery of broadband content while constantly monitoring costs and reporting essential data back to management. MIW systems facilitate and – indeed – enable broadband companies to excel in the service experience offered to their end-customers.</p>\r\n<p style=\"text-align: justify;\">MIW’s highly customised service mediation solutions initiate the customer’s access and user features to the various broad-band network elements. MIW’s provisioning allows for the creation, maintenance and deactivation of user objects and user attributes, as they exist in one or more systems, directories or applications, in response to client’s needs through automated or interactive business processes. Their user provisioning software includes change propagation, self-service workflow, consolidated user administration, delegated user administration, and federated change control.</p>\r\n<p style=\"text-align: justify;\">MIW is exceedingly well positioned for international expansion and has now set its sight on the wider Scandinavian market.</p>",
     "content_sha256": "e8a5734276b6dc581c30d6cb6eff1f642c1ba539051739ebf0c1c0adc9b702c5",
-    "record_sha256": "fb99d2631a51ec03bdeef5be976c7e4935adf22f978f3a26126b929875600aa2"
+    "record_sha256": "0aeab5d47ecd372c9f7ab8ab60bb25db461647cbfc3a3f666ec3fd58af43d91a"
 }

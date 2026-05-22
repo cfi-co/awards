@@ -7,6 +7,15 @@ published_gmt: 2025-07-14 10:20:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/broadspan-capital-champion-of-cross-border-deal-execution-latam-2025/"
 categories: ["Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc51154e07c0bc0a313e4de8950fc3be465efe43923a2b6bb0cf47032a31a54c
 canonical: 13412-broadspan-capital-champion-of-cross-border-deal-execution-latam-2025.json
 ---

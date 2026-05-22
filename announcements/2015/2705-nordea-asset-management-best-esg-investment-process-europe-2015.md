@@ -7,6 +7,15 @@ published_gmt: 2015-11-19 10:00:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/nordea-asset-management-best-esg-investment-process-europe-2015/"
 categories: ["Asset Management", "Best Practice", "CSR", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d57ff0ff85b2eb29be32144179e304c4f100cda27af7624c97880797f4cc1f2a
 canonical: 2705-nordea-asset-management-best-esg-investment-process-europe-2015.json
 ---

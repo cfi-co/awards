@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:13:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/siaci-saint-honore-best-insurance-brokerage-france-2018/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b5bf1c30ca314ec7e966da4d9991b24280e4a485dbf8f59e1eb9be750992477
 canonical: 5564-siaci-saint-honore-best-insurance-brokerage-france-2018.json
 ---

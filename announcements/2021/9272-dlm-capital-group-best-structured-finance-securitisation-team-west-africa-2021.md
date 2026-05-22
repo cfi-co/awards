@@ -7,6 +7,15 @@ published_gmt: 2021-06-15 13:55:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/dlm-capital-group-best-structured-finance-securitisation-team-west-africa-2021/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca1884a573d167cf2e23ce416f43b80505a5c707b6837b84459c378bc4e24699
 canonical: 9272-dlm-capital-group-best-structured-finance-securitisation-team-west-africa-2021.json
 ---

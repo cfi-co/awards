@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:35:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/icici-bank-uk-best-international-digital-banking-uk-2021/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b658b2d4dfd07ad075e103e61a2c9e89bd4b854cb373eb4bdc5e798d0e645bd5
 canonical: 9165-icici-bank-uk-best-international-digital-banking-uk-2021.json
 ---

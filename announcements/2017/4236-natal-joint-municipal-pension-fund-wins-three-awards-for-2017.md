@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 11:03:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/natal-joint-municipal-pension-fund-wins-three-awards-for-2017/"
 categories: ["Africa", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5da82572f96743813006665af56b73e1012f6c5cb382ff8dbc91e6d698c65d0f
 canonical: 4236-natal-joint-municipal-pension-fund-wins-three-awards-for-2017.json
 ---

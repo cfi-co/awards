@@ -7,6 +7,15 @@ published_gmt: 2022-12-15 05:03:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2022/lcn-capital-partners-best-sale-leaseback-investment-strategy-global-2022/"
 categories: ["North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 88103ee731bb8a21bbe496546534404346aa635dc4be429565ac1863354aa27c
 canonical: 10962-lcn-capital-partners-best-sale-leaseback-investment-strategy-global-2022.json
 ---

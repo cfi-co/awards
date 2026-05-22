@@ -12,8 +12,21 @@
         "Banking",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2012/10/gab.gif\"><img class=\" size-full wp-image-233 aligncenter\" title=\"gab\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/gab.gif\" alt=\"\" width=\"235\" height=\"140\" /></a><strong>Gulf African Bank (GAB) wins the 2012 award for Best Islamic Bank in Kenya.</strong></p>\r\n<p style=\"text-align: justify;\">The award reflects the achievements at the bank since 2008 when it was first granted a full commercial banking license as a dedicated Islamic Bank. The rapid growth over the past four years is testament not only to the demand for Shari’ah compliant products but also to the innovative approach of GAB, the continual improvements there and the habit of putting the needs of the client first. We fully expect to see GAB continue to grow rapidly as one of  the leading banks in the region.</p>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-302\" title=\"gabCEO\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/gabCEO.jpg\" alt=\"\" width=\"700\" height=\"627\" /></p>",
     "content_sha256": "e4e85fd2883c7452262f4c52c867307742c43cbd52586f6c46829380ba3244e9",
-    "record_sha256": "927c7934dcb6fe9395171efead9ffa9be526c097663ef3513964b4af9e6c71e6"
+    "record_sha256": "193516e76919af7d75855ef6147b571992aa6c0c993a120a809fe5789d0066ee"
 }

@@ -7,6 +7,15 @@ published_gmt: 2017-01-19 10:16:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/klccp-stapled-group-best-shariah-compliant-reit-malaysia-2016/"
 categories: ["Asia Pacific", "Islamic Banking", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d721793ac802c417fa05717a869fdb5687f0ac28bbfbf48a5d40556d73951ff2
 canonical: 3746-klccp-stapled-group-best-shariah-compliant-reit-malaysia-2016.json
 ---

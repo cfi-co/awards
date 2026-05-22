@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 11:43:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/platinum-groupe-best-investment-banking-team-zimbabwe-2021/"
 categories: ["Africa"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bebd9241ec9e7bc12f1becd2c69f96200b4e1b3287268610ca80f877710fd2d9
 canonical: 9435-platinum-groupe-best-investment-banking-team-zimbabwe-2021.json
 ---

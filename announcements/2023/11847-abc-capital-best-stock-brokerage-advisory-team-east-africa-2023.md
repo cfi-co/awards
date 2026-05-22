@@ -7,6 +7,15 @@ published_gmt: 2023-09-04 08:41:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2023/abc-capital-best-stock-brokerage-advisory-team-east-africa-2023/"
 categories: ["Africa", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4b7537c156731cb260fb63f37c5a3f5cccd57a6f557325b466174fd1539da938
 canonical: 11847-abc-capital-best-stock-brokerage-advisory-team-east-africa-2023.json
 ---

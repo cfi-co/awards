@@ -8,8 +8,21 @@
     "published_gmt": "2018-09-04 10:43:40",
     "modified_gmt": "2020-04-06 10:58:13",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter wp-image-5953\" src=\"https://cfi.co/awards/wp-content/uploads/2018/09/Metito.jpg\" alt=\"\" width=\"240\" height=\"228\" />\r\n<strong>Pursuing close partnership with multilateral financiers, development agencies, and non-governmental organisations (NGOs), Metito helps improve access to clean and affordable water across the world – a key Sustainable Development Goal. With over 60 years’ in the water and wastewater industry, Metito focuses primarily on emerging markets, where demand is greatest. The company leverages expertise gained from its global operations to carefully and sustainably manage local resources. Metito makes considerable efforts to train local engineers and workers through skills development programmes.</strong></p>\r\n<p style=\"text-align: justify;\">Metito is more than just a corporate entity; it is a strong advocate for water security and the sustainable management of scarce resources. In the GCC member states and elsewhere, the company has supported desalination, wastewater recycling and reuse projects and other initiatives as viable, cost-effective and dependable alternative sources of high-quality potable water.</p>\r\n<p style=\"text-align: justify;\">In Saudi Arabia’s King Abdullah Economic City, a brand-new business hub and port, Metito was awarded the contract to build a major desalination plant that uses the reverse-osmosis technology and is partially powered by solar energy. This project marks another milestone in the Kingdom’s path to realising its 2030 Vision.</p>\r\n<p style=\"text-align: justify;\">In Rwanda, Metito was chosen as the preferred partner to develop and operate a $75m project to supply Kigali, the booming capital, with a more reliable supply of drinking water. Metito has now established a wholly-owned subsidiary – Kigali Water – to manage this concession. This is the first of its kind project in Sub-Saharan Africa.</p>\r\n<p style=\"text-align: justify;\">Metito’s water management solutions cover three distinct aspects of the business: engineering, chemicals, and investment, development and management of water assets and utilities. If Sustainable Development Goal 6 – Universal Access to Safe Drinking Water – is to be achieved, the world needs many more projects such as Kigali in developing countries. The CFI.co judging panel notes that Metito has proven its technical competence and vison to help deliver Goal 6 and is happy to declare Metito winner of the 2018 Best Water CleanTech PPP Emerging Markets Award.</p>",
     "content_sha256": "6f7ad99e980f90831e21a15fae934a2a1ac583ea6c9f1b55ec7fe2ca2aa833df",
-    "record_sha256": "c9512362824d10bbb49970363b8fa01e85cd587340426b30be4f3204a74f1d91"
+    "record_sha256": "db3ede790b0f10dda1074892abc74f72bca516d0b30e14d93961dccc6ef0b779"
 }

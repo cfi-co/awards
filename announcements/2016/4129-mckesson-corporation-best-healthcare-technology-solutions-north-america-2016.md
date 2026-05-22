@@ -7,6 +7,15 @@ published_gmt: 2016-11-02 09:41:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/mckesson-corporation-best-healthcare-technology-solutions-north-america-2016/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 167b85b323f5af5d3d494bcd16003a23bb3a9397e4e5c0dcb4c5e0dfcbce7314
 canonical: 4129-mckesson-corporation-best-healthcare-technology-solutions-north-america-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-09-03 17:09:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/aiyo-best-financial-institutions-transformation-partner-france-2020/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9d9546c232a3f77665e688b947be9727e043ca735ccddbcc6701d2e3fa445b4d
 canonical: 8192-aiyo-best-financial-institutions-transformation-partner-france-2020.json
 ---

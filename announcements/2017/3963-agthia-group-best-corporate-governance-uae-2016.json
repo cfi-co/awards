@@ -13,8 +13,21 @@
         "Industries",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3964\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Agthia.jpg\" alt=\"\" width=\"500\" height=\"210\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Excellence in corporate governance is a key to success. Abu Dhabi-based Agthia Group, a leading food and beverage company, has deployed its solid governance record to drive growth and expansion. In order to gain, and maintain, its competitive edge Agthia Group follows a holistic approach to corporate affairs that includes proactive stakeholder engagement and seeks to produce lasting value.</strong></p>\r\n<p style=\"text-align: justify;\">Keeping a vigilant eye on its business fundamentals, Agthia Group considers transparency, accountability, and environmental stewardship essential to its success and part of its risk mitigation strategy. Processes and procedures have been put into place to continuously monitor performance on key non-financial corporate parameters in order to assure that goals are met and remedial action may be taken long before issues detected escalate.</p>\r\n<p style=\"text-align: justify;\">Agthia Group’s board of directors is recognised for its prudent, yet dynamic, approach to its oversight of the company’s operations. The management framework adopted by the company is designed to ensure appropriate business objectives are consistently met or exceeded and the interests of all stakeholders are represented throughout the organisation. Additionally, Agthia Group maintains a rigorously applied code of conduct that imposes corporate best practices, adherence to the highest ethical standards, and full compliance with all relevant legal requirements.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is happy to note that Agthia Group, a previous winner, has expanded on its already formidable reputation for excellence in corporate governance. The judges are therefore delighted to offer Agthia Group the 2016 Best Corporate Governance UAE Award.</p>",
     "content_sha256": "d01af686bd15021942b30e3c7546f686cb19d37bc69bd36164905e99f6d3c10b",
-    "record_sha256": "49d4397ab536efe6ddc21764a779a8a714ba1ce2a78776de3dc90457d6e05f79"
+    "record_sha256": "0e9e5751f71c66d327d4b9e3af41511159e422c74330add972af6ef31931d857"
 }

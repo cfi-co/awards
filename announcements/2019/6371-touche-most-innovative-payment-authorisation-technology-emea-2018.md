@@ -7,6 +7,15 @@ published_gmt: 2019-01-10 10:03:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/touche-most-innovative-payment-authorisation-technology-emea-2018/"
 categories: ["Asia Pacific", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a39b82e1e9d1f4c78d2b562513009baaec9124c5ed55dc00be5bc41a2c375117
 canonical: 6371-touche-most-innovative-payment-authorisation-technology-emea-2018.json
 ---

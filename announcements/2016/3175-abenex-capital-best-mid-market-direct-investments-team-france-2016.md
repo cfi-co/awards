@@ -7,6 +7,15 @@ published_gmt: 2016-02-18 12:24:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2016/abenex-capital-best-mid-market-direct-investments-team-france-2016/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49d8834c57062726258cf0cc30a1c3b2a7b7208e9d91effa0e427553b88d94d3
 canonical: 3175-abenex-capital-best-mid-market-direct-investments-team-france-2016.json
 ---

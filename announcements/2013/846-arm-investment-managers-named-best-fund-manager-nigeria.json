@@ -12,8 +12,21 @@
         "Asset Management",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: center;\"><img class=\"aligncenter  wp-image-847\" src=\"https://cfi.co/awards/wp-content/uploads/2013/10/ARM-Logo1.gif\" alt=\"ARM Logo\" width=\"416\" height=\"125\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The opportunities for domestic and international investors as Nigeria moves from a frontier to an emerging market should not be under-estimated but one should also be aware of the risks.</strong> To take best advantage of the opportunities that Nigeria and the region as a whole represents requires a deep understanding of the balance between risk and returns. With the constantly improving quality of financial services in Nigeria, the CFI.co judging panel faced some difficult decisions in selecting a winning fund manager but it was ARM’s ability to foster trust with all stakeholders through a focused approach to good governance, its highly effective use of an external advisory board plus excellent fundamental analysis at both the micro and macro level that the judging panel recognised and applauded. ARM helps investors take full advantage of the opportunities in the region and, significantly, was able to protect investor capital during the turmoil of 2008. As one of Nigeria’s largest non-banking asset managers, the Company has been effectively diversifying its offerings while maintaining the highest standards of fund management. The panel is delighted to declare ARM winner of the ‘2013 Best Fund Manager Award, Nigeria’.</p>",
     "content_sha256": "eac2bbcc0bf1516a46fded8883b3c697590cc99d9d4d9c34fd4e3501f6a90015",
-    "record_sha256": "0dcee8998d249728d8fe6bdf795419af0d86cb5df5a35b4f0042163d21fe1655"
+    "record_sha256": "fef7e1bcda6bfe93d9487f6628f91b14de2bb0bcb3dd31bcc5ca3ca450b1e9bb"
 }

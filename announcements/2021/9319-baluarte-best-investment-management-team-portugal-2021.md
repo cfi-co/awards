@@ -7,6 +7,15 @@ published_gmt: 2021-07-06 11:43:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/baluarte-best-investment-management-team-portugal-2021/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 520b7b6a4376779ae97bb9aed3714b532804d37d226cbe4eec407b574274cae8
 canonical: 9319-baluarte-best-investment-management-team-portugal-2021.json
 ---

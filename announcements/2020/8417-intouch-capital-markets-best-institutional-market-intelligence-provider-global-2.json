@@ -12,8 +12,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8418\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/InTouch-Capital-Markets.jpg\" alt=\"InTouch-Capital-Markets\" width=\"400\" height=\"194\" />\r\n<p style=\"text-align: justify;\">InTouch Capital (ITC) Markets filters actionable insights from a deluge of digital information to help banks, brokers and financial firms stay ahead of economic trends. Founded in 2004, ITC Markets has a tight-knit workforce that includes seasoned management and analyst teams with past experience at Morgan Stanley, Lehman, Citi, Credit Agricole, BoA Merrill Lynch, Credit Suisse, Moore Capital, ATP and AP2. ITC Markets’ specialised product range compiles intelligence coverage of fixed income, forex and central bank markets. The company conducts in-depth analyses of market events and distils the data for its clients. The InTouch fixed-income service provides them with written, intraday, time-sensitive coverage of bond, swap and short-term interest rate markets. The comprehensive analysis touches on everything from major market drivers to street talk and syndications. The InTouch FX service features real-time market analysis with live commentary to help put data into context. The Econostream service provides insights and tools that focus on central banks in Europe, England, Japan and the US, among others. It reviews the banks’ policy decisions and analyses the speeches (and biases) of their board members. ITC Markets offers training and consultancy programmes to sharpen skills via real-world market applications. It also shares market research free-of-charge via regular blog posts and email newsletters. ITC Markets is headquartered in London, has offices in NYC and recently opened offices in Singapore. The CFI.co judging panel announces InTouch Capital Markets as the global winner of the 2020 award for Best Institutional Market Intelligence Provider.</p>",
     "content_sha256": "fc47d2412de721467bfaad4f7d52b2a141f146e4667568af43a4d439213cc2fc",
-    "record_sha256": "2a4a9b2ea2f94fcca0ecbe8bb9cbf51840bc0e429ba2657aba674e95242e03d7"
+    "record_sha256": "61ab9cbb4b4eda1675e4f750142fa1bf80fee08c378464b8de3fd003a1048499"
 }

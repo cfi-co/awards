@@ -7,6 +7,15 @@ published_gmt: 2018-03-24 12:16:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/natal-joint-municipal-pension-funds-most-innovative-pension-fund-south-africa-2018/"
 categories: ["Africa"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 66ae9722d6176831ee252c79b5da581321f17ba3da55eb816e7dc93afb205399
 canonical: 5431-natal-joint-municipal-pension-funds-most-innovative-pension-fund-south-africa-20.json
 ---

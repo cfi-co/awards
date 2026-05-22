@@ -7,6 +7,15 @@ published_gmt: 2016-03-27 09:20:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/world-free-zones-organization-outstanding-global-contribution-to-free-zone-growth-2016/"
 categories: ["Development", "Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 273b824f6441ac9c9728a448ca12f95ce99ea12eae66a2c84684ee8f080302f0
 canonical: 4792-world-free-zones-organization-outstanding-global-contribution-to-free-zone-growt.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:23:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/lockheed-martin-most-innovative-nextgen-technology-solutions-global-2021/"
 categories: ["Industries", "Manufacturing", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 19418197f0a9b777931e156ed3d9c34a10648fa7b122c87d88af526ce688be3c
 canonical: 9335-lockheed-martin-most-innovative-nextgen-technology-solutions-global-2021.json
 ---

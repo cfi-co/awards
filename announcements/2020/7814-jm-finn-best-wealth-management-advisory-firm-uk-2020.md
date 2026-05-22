@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:04:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/jm-finn-best-wealth-management-advisory-firm-uk-2020/"
 categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a463075b9a5a264cf1881550c4895da74083493843464162c369abab0aff608d
 canonical: 7814-jm-finn-best-wealth-management-advisory-firm-uk-2020.json
 ---

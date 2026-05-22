@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 17:01:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/qatar-foundation-outstanding-contribution-to-sustainability-of-the-knowledge-based-economy-gcc-2016/"
 categories: ["Best Practice", "Middle East", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 669f9f999e7cb12ef204c555d53744d00d0f0a49b232b78a91511f2b1d752934
 canonical: 4096-qatar-foundation-outstanding-contribution-to-sustainability-of-the-knowledge-bas.json
 ---

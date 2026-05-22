@@ -7,6 +7,15 @@ published_gmt: 2023-04-17 13:10:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2023/agronomics-best-sustainable-food-technology-investor-global-2023/"
 categories: ["Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5d6d32a9040a50b7dd1e4fc98081d5fda0a1c47827f0db91f28ce5dfb86870b
 canonical: 11330-agronomics-best-sustainable-food-technology-investor-global-2023.json
 ---

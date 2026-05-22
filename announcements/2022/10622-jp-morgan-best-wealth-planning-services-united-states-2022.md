@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 13:37:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2022/jp-morgan-best-wealth-planning-services-united-states-2022/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d621c6b00476983ce24c9c451f8fcd1464f8328cb2f97131cf7eafdbbe8b031e
 canonical: 10622-jp-morgan-best-wealth-planning-services-united-states-2022.json
 ---

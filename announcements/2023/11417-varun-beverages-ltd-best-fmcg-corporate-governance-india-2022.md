@@ -7,6 +7,15 @@ published_gmt: 2023-04-26 14:44:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2023/varun-beverages-ltd-best-fmcg-corporate-governance-india-2022/"
 categories: ["Asia Pacific", "Best Practice", "Corporate Governance", "Industries", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 52e1414d6923a5261d5b1841d8624b52b05b631e49f85996c903c609125a66a7
 canonical: 11417-varun-beverages-ltd-best-fmcg-corporate-governance-india-2022.json
 ---

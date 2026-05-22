@@ -7,6 +7,15 @@ published_gmt: 2016-03-11 09:19:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/aksal-group-best-esg-clothing-conglomerate-north-africa-2016/"
 categories: ["Africa", "Best Practice", "CSR", "Corporate Governance", "Industries", "Retail", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9a161a3467101946565277ed0b708f9e3a5c07a81da4770155020032cfa50fa
 canonical: 12557-aksal-group-best-esg-clothing-conglomerate-north-africa-2016.json
 ---

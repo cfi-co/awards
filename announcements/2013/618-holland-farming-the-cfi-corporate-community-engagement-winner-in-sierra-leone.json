@@ -11,8 +11,21 @@
         "Africa",
         "Community Engagement"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-622\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/HollandFarming.jpg\" alt=\"HollandFarming\" width=\"378\" height=\"120\" />\r\nHolland Farming Sierra Leone Limited’s mission is to facilitate profitable rural transformation.</strong></p>\r\n<p style=\"text-align: justify;\">The private company is owned by Dutch and Sierra Leonean partners and provides seed and fertilizers for government and private contracts but also works alongside smallholding farmers to determine what they need to improve productivity at an affordable cost. The CFI judging panel is very impressed by the work Holland Farming is doing to help smallholders including its support to female members of these communities and encouragement cooperatives. Also, the longer term plans of Holland Farming attracted favourable comments from the panel. These plans involve the setting up of joint ventures with manufacturers and dealers of farming machinery to create leasing programmes operated and maintained by locally trained staff. This will ensure new job opportunities for young people and bring mechanised farming within the reach of the smallholding farmers. There are also plans to build cold stores so that farmers are not so dependent on middleman for getting crops to market and have the opportunity to wait for better prices after harvesting. Also transport to market is a problem that needs to be addressed to improve profitability for small farmers. The plan is to have a presence in every district to make the services accessible to as many farmers as possible. There will also be a credit facility bank where farmers can pay off their micro credits with the coming harvest. Holland Farming has been declared Best Corporate Community Engagement Programme, Sierra Leone, 2013.</p>",
     "content_sha256": "e9716889b98b19dfd5e8709822f411619e39c92913dacc14f700df24bba49cac",
-    "record_sha256": "60cc5d66b4079ad44796db40a5d4bebd71c8943ed1fb15a3c47489a90839a3e0"
+    "record_sha256": "598ba7fa68f1c9f630b07adc13ea866a59c1539a2716a2c7588b46cedef8dba9"
 }

@@ -12,8 +12,21 @@
         "Latin America",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7690\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Unity.jpg\" alt=\"Unity\" width=\"400\" height=\"152\" />\r\n<p style=\"text-align: justify;\">As the only insurance broker spanning the entirety of the Central American regional corridor, Unity’s name is particularly fitting: its branches are united in ensuring the best possible level of customer care. That is no small feat with a presence stretching from Panama and Costa Rica in the south to Nicaragua, El Salvador, Honduras, and Guatemala. Unity was founded in 2008, and has established a reputation for excellence that is strengthened by its teams of local talent. Each adheres to country-specific best-practice while at the same time upholding an integrated corporate system of standardised processes and technologies. Unity serves private and corporate clients with a range of risk-management solutions. The company offers cover for home, health, life, and vehicles to its private customers, while corporate clients trust Unity to provide skilled risk advisory, management, and insurance services covering everything from property and bonds to civil liability and cargo insurance. Unity also offers group policies for collective employee health and life plans. All clients benefit from the company’s convenient mobile app, enabling around-the-clock communication and access to policy information, payments and claim support. The company shows just as much dedication to making sure its employees feel appreciated as it does to caring for clients. The CFI.co judging panel is familiar with the company’s track record of upright corporate governance and good citizenship, and Unity is a repeat winner in the awards programme. The judges are delighted to present Unity with the 2019 award for the Best Sustainable Insurance Solutions Team in Central America.</p>",
     "content_sha256": "3a660af3d309352c510fe9128276b83d50c7aba20320260946ed4cbdb457fb9b",
-    "record_sha256": "76a081c85d41efae63ce8946e16962e84c359fab1310823c0315c7d2180c9942"
+    "record_sha256": "509f3abccd9278ff78daab79d6f1aa0f17750b86d99b6cee0797b58de098f2ea"
 }

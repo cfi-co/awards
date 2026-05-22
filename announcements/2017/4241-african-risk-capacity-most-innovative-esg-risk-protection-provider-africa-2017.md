@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 11:14:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/african-risk-capacity-most-innovative-esg-risk-protection-provider-africa-2017/"
 categories: ["Africa", "Best Practice", "CSR", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 359e245b2ad24bf5b465bf7ce5b64aaaee1e4e1933b30a7c06fcc0290a99b2a9
 canonical: 4241-african-risk-capacity-most-innovative-esg-risk-protection-provider-africa-2017.json
 ---

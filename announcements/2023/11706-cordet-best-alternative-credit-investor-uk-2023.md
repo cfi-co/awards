@@ -7,6 +7,15 @@ published_gmt: 2023-08-08 13:34:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/cordet-best-alternative-credit-investor-uk-2023/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf3e460573dbafc5bd5c31ce1b3ba23ba22b0300609898aedc9ac8da07f82a64
 canonical: 11706-cordet-best-alternative-credit-investor-uk-2023.json
 ---

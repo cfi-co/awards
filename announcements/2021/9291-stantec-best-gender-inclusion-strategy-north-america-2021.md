@@ -7,6 +7,15 @@ published_gmt: 2021-06-28 08:38:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/stantec-best-gender-inclusion-strategy-north-america-2021/"
 categories: ["Community Engagement", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6d387b3073b5040d11a24c88cac2542e7e8bba7134b001727f668a31d75bf3f
 canonical: 9291-stantec-best-gender-inclusion-strategy-north-america-2021.json
 ---

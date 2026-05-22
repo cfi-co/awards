@@ -7,6 +7,15 @@ published_gmt: 2024-05-24 11:20:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2024/hyperpay-outstanding-contribution-to-payment-integration-mena-2024/"
 categories: ["Middle East", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d12ebd61ebdc856f54e5b52b03a257412dbd62547cad4c39bf19064b7519843e
 canonical: 12386-hyperpay-outstanding-contribution-to-payment-integration-mena-2024.json
 ---

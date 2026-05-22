@@ -7,6 +7,15 @@ published_gmt: 2022-03-03 08:00:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/couche-tard-best-convenience-store-diversity-inclusion-employer-global-2021/"
 categories: ["Best Practice", "Community Engagement", "Industries", "North America", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a5830776baec8fbfe698196e898a82aa316280be9449d43ce864a3ac5f0accfc
 canonical: 10212-couche-tard-best-convenience-store-diversity-inclusion-employer-global-2021.json
 ---

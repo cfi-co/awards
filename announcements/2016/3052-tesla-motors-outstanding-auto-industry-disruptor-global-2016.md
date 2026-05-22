@@ -7,6 +7,15 @@ published_gmt: 2016-03-23 13:45:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/tesla-motors-outstanding-auto-industry-disruptor-global-2016/"
 categories: ["Industries", "Manufacturing", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d12624e6eb5426d003ff6dbe506ff7433f1102816749ec356c8e98769be4d88
 canonical: 3052-tesla-motors-outstanding-auto-industry-disruptor-global-2016.json
 ---

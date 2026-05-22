@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/medallion-communications-best-interconnectivity-solutions-team-africa-2017/"
 categories: ["Africa", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 486538823be9fd7dae7387212209b3cae3750bda436cd4781b833491460c99e2
 canonical: 5290-medallion-communications-best-interconnectivity-solutions-team-africa-2017.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2014-09-03 14:42:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2014/caixa-seguros-winner-of-the-cfi-co-award-for-best-life-insurance-provider-brazil-2014/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d39508bdaeb19c0af0f07521376b8eb9f250532ae65b41908d8873a42d8ea19e
 canonical: 1338-caixa-seguros-winner-of-the-cfi-co-award-for-best-life-insurance-provider-brazil.json
 ---

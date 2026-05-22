@@ -7,6 +7,15 @@ published_gmt: 2015-04-21 07:52:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2015/quippo-oil-and-gas-infrastructure-best-onshore-oil-gas-drilling-team-india-2015/"
 categories: ["Asia Pacific", "Industries", "Mining", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f129b85c9052ac80bac3d1d756769f076293d4b2f5be0ac57dab1d8b4490b58a
 canonical: 2183-quippo-oil-and-gas-infrastructure-best-onshore-oil-gas-drilling-team-india-2015.json
 ---

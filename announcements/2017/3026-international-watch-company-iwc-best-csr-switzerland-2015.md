@@ -7,6 +7,15 @@ published_gmt: 2017-01-25 13:03:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2017/international-watch-company-iwc-best-csr-switzerland-2015/"
 categories: ["Best Practice", "CSR", "Europe", "Industries", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b5b887abcd1b09e0f818050d956eb98429871a63b83794556b02f6d90acf25f
 canonical: 3026-international-watch-company-iwc-best-csr-switzerland-2015.json
 ---

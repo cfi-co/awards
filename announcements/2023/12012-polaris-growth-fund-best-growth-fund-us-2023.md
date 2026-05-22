@@ -7,6 +7,15 @@ published_gmt: 2023-10-24 10:05:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2023/polaris-growth-fund-best-growth-fund-us-2023/"
 categories: ["Asset Management", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9278fc3b3543616e51540e5fffe5a415f97dbbb7b64e0a2e2684a46bba981ed0
 canonical: 12012-polaris-growth-fund-best-growth-fund-us-2023.json
 ---

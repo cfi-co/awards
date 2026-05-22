@@ -7,6 +7,15 @@ published_gmt: 2012-11-15 16:00:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2012/j-p-morgan-private-bank-wins-best-private-bank-in-the-united-states/"
 categories: ["Banking", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 844d35e70500578d221d5828b8bade4b4cbcf5dd8a6eeefbf6d1f9af058a19ff
 canonical: 240-j-p-morgan-private-bank-wins-best-private-bank-in-the-united-states.json
 ---

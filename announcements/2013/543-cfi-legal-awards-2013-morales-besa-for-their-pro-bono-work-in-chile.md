@@ -7,6 +7,15 @@ published_gmt: 2013-06-10 15:31:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2013/cfi-legal-awards-2013-morales-besa-for-their-pro-bono-work-in-chile/"
 categories: ["Latin America", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b086099403583f71ca4c6efa9efb6700a88d992a8ac741e3f45fc068abc018c6
 canonical: 543-cfi-legal-awards-2013-morales-besa-for-their-pro-bono-work-in-chile.json
 ---

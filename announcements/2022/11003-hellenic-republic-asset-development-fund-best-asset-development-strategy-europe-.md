@@ -7,6 +7,15 @@ published_gmt: 2022-12-19 12:24:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/hellenic-republic-asset-development-fund-best-asset-development-strategy-europe-2022/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b4de695cfd46185a10f9b7e5d3c774b751d35109ce96a09ce9bbdd7920c6a38d
 canonical: 11003-hellenic-republic-asset-development-fund-best-asset-development-strategy-europe-.json
 ---

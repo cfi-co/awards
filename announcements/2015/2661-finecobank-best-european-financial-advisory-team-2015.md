@@ -7,6 +7,15 @@ published_gmt: 2015-04-25 10:17:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/finecobank-best-european-financial-advisory-team-2015/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c12d75f95d2df08964dd8498f276853c7c825fd398404436164f7ec54037a83b
 canonical: 2661-finecobank-best-european-financial-advisory-team-2015.json
 ---

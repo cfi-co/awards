@@ -7,6 +7,15 @@ published_gmt: 2026-02-04 13:30:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2026/vistra-outstanding-contribution-to-cross-border-business-expansion-global-2025/"
 categories: ["Asia Pacific", "Consultancies", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6417d8b11d5fc94f5db11bee59d9e03f081ad0ded2cf264f7c5f7aacd07121fb
 canonical: 13304-vistra-outstanding-contribution-to-cross-border-business-expansion-global-2025.json
 ---

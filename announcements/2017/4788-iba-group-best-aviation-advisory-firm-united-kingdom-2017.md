@@ -7,6 +7,15 @@ published_gmt: 2017-09-25 14:47:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/iba-group-best-aviation-advisory-firm-united-kingdom-2017/"
 categories: ["Europe", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65eee3763455afdafa248b3e90337691757a73e9652f414b721c357f4465c615
 canonical: 4788-iba-group-best-aviation-advisory-firm-united-kingdom-2017.json
 ---

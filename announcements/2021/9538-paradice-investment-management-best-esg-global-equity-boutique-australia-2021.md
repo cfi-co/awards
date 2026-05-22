@@ -7,6 +7,15 @@ published_gmt: 2021-09-01 11:27:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/paradice-investment-management-best-esg-global-equity-boutique-australia-2021/"
 categories: ["Asia Pacific", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: efb941997b7c086630ab6fd719e8b7e9ab63124bcab0d1de51e712309db36de9
 canonical: 9538-paradice-investment-management-best-esg-global-equity-boutique-australia-2021.json
 ---

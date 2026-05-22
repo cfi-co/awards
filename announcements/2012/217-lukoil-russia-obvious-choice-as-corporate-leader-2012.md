@@ -7,6 +7,15 @@ published_gmt: 2012-09-27 21:20:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2012/lukoil-russia-obvious-choice-as-corporate-leader-2012/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Corporate Leadership", "Europe", "Industries", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 022a885fdbd3e4ed2b55e991712e6964fe686a456e2efcfb6e34529e69560408
 canonical: 217-lukoil-russia-obvious-choice-as-corporate-leader-2012.json
 ---

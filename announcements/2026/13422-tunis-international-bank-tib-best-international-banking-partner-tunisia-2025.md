@@ -7,6 +7,15 @@ published_gmt: 2026-05-18 10:58:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2026/tunis-international-bank-tib-best-international-banking-partner-tunisia-2025/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc9d06ad110eb220b6c7b2e1f4e2451a5bb481e8528ab1871638fc80d64bec50
 canonical: 13422-tunis-international-bank-tib-best-international-banking-partner-tunisia-2025.json
 ---

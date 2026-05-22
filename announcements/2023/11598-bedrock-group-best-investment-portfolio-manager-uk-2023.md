@@ -7,6 +7,15 @@ published_gmt: 2023-07-03 07:57:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/bedrock-group-best-investment-portfolio-manager-uk-2023/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a5e2ae11323e9e580ffb85e1d8839ed07b229bfe30efa0470387ccda6c32274
 canonical: 11598-bedrock-group-best-investment-portfolio-manager-uk-2023.json
 ---

@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7570\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/EFG.jpg\" alt=\"EFG\" width=\"400\" height=\"184\" />\r\n<p style=\"text-align: justify;\">If the adage is true — that knowledge is power, and time is money — then an adept asset manager is the not-so-secret weapon of savvy investors. The EFG Asset Management research team monitors major and emerging markets to publish independent, data-backed reports, including a yearly outlook and quarterly investment insights in nine languages. These insights give EFG asset managers and EFG clients, which include professional advisers and institutional investors from around the world, a competitive edge when charting investment strategies. EFG launched the Future Leaders Panel in 2018 to task industry and academic experts with drafting a proprietary framework to identify visionary corporate leadership. The organisation deploys a team of 150 professionals from its London headquarters and offices in Switzerland, China, Singapore and the USA, resulting in a truly global perspective and presence. EFG counts its people as its best asset, and the open-architecture investment approach encourages them to exercise autonomy tempered with discipline. EFG Asset Management serves as the investment arm of parent company EFG International, a global private banking group. The firm offers a comprehensive suite of customised wealth management solutions, including fixed income portfolios, traditional equity and multi-asset strategies. Around 80 EFG investment experts are currently managing more than $20b worth of assets, but the firm aims to double those numbers over the next five years. In recognition of the firm’s achievements and vision, the CFI.co judging panel presents EFG Asset Management, a repeat winner in the awards programme, with the 2019 Best Fixed Income Fund Manager (United Kingdom) award.</p>",
     "content_sha256": "1eecdc51c75ec8f2ac60a7fa7550cc2b585d3b239ae4f23e26e24ba91b3a210e",
-    "record_sha256": "9961798100713110cdafa84a6dd33a6ea581c1fd5841d8c57f0ad639b75b83d8"
+    "record_sha256": "704b381821b2a219735a2d1c8d7d3fd5c98c93f50f0560db0afdb68ba6f2c047"
 }

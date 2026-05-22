@@ -7,6 +7,15 @@ published_gmt: 2015-04-14 13:40:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/invercaixa-gestion-best-fixed-income-fund-management-team-spain-2015/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7cd36e78876b1a7702184cc753082756071d6d5bd9458f28021f25a97b6d9f3
 canonical: 2167-invercaixa-gestion-best-fixed-income-fund-management-team-spain-2015.json
 ---

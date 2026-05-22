@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12963\" src=\"https://cfi.co/awards/wp-content/uploads/2025/05/Gulf-African-Bank.jpg\" alt=\"Gulf African Bank\" width=\"600\" height=\"317\" />\r\n<p style=\"text-align: justify;\">Gulf African Bank has firmly established itself as a pioneer in the field of Islamic digital banking in East Africa, demonstrating a strategic focus on customer centricity, service excellence, and technological innovation. As a Sharia-compliant financial institution, it has consistently embedded its slogan, \"Your Partner for Growth,\" into every facet of its operations, creating collaborative relationships with clients, service providers, and development partners. Notably, the bank co-developed the first Sharia-compliant credit card in Kenya and led the continent’s inaugural Islamic finance initiative in partnership with the Africa Guarantee Fund, part of the African Development Bank Group. Gulf African Bank’s approach to product development is rooted in direct client engagement, leveraging workshops, feedback forums, and co-creation sessions to tailor solutions that meet specific market needs. With a digital penetration rate exceeding 89 percent, the bank is actively advancing its digital transformation agenda, exploring the deployment of AI and data analytics to offer predictive and personalised services. It also distinguishes itself with niche offerings, such as women-focused banking products and financial literacy platforms, alongside sustainability-driven community engagement and green banking practices. The institution’s Net Promoter Score of 81 percent is testament to its unwavering commitment to client satisfaction and consistent service delivery. This holistic, innovation-led model is propelling the bank into a future where digital platforms and Islamic financial principles intersect seamlessly. CFI.co Judging Panel congratulates Gulf African Bank on winning the 2025 award for Innovators in Islamic Digital Banking (East Africa).</p>",
     "content_sha256": "81c06e01701f4946876b7b5b5d95e35eb0faa98fd4729d7b399e8408f9589d63",
-    "record_sha256": "6053e20ac580b1beb3a6cf028445938db8dd86b75db99208a10ba8d465f068c2"
+    "record_sha256": "148519b0d300b0764cfbd25466238c47310faa7a89137354694a25ce1445a934"
 }

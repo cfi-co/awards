@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:43:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/ccrif-spc-best-sustainable-insurance-leadership-latin-america-caribbean-2017/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3af5c06749753b98e0f639a55b9c3e438ab2aaca2e06b395b52beb5297ec8671
 canonical: 4680-ccrif-spc-best-sustainable-insurance-leadership-latin-america-caribbean-2017.json
 ---

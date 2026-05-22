@@ -12,8 +12,21 @@
         "Best Practice",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7604\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/MaxMyanmar.jpg\" alt=\"MaxMyanmar\" width=\"500\" height=\"179\" />\r\n<p style=\"text-align: justify;\">Max Myanmar Group has adopted a sustainability plan that promises benefits for all. Max Myanmar emerged on the transport scene nearly 30 years ago, importing buses to Myanmar from Japan. It has grown into a conglomerate of synergetic business units covering transport, trading, hotels, energy, agriculture, manufacturing and logistics. The group is a proud signatory of the UN Global Compact and a champion of the UN Sustainable Development Goals (SDGs). The group views the SDGs as an action plan for value creation at every level — business, community, country and planet. Max Myanmar Group has reached the mid-term review point in its 10-year sustainability plan, which set ambitious benchmarks for community engagement, environmental efficiency, economic development and employee wellbeing. Energy efficiency measures have been implemented across Max Myanmar operations, and the transition to fully renewable energy sources is under way. As the group expands, it upgrades infrastructure for maximum productivity and minimal waste. Max Myanmar Group is one of the country’s leading employers, with a workforce of more than 4,500 people. It supports their professional development with ongoing training and educational programmes. The Max Myanmar team takes corporate culture to heart, and sustainability initiatives are pursued with vigour by all, from executives to assistants. The CFI.co judging panel declares Max Myanmar Group winner of the 2020 award for Best Sustainability Strategy (Myanmar).</p>",
     "content_sha256": "becd1b50c12115cc5bd94305e1199890e972b42d8a63d19125c3ec5087c848ad",
-    "record_sha256": "487515998640f1aee471400ecf9d53eb3aef1be9fc968c8342ec39e8ec8c1426"
+    "record_sha256": "1803931176912dd7151add9cefdc851ab6bcb94f7c0e36932e7d5a4b507b08af"
 }

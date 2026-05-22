@@ -7,6 +7,15 @@ published_gmt: 2021-04-14 11:17:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/making-science-group-best-digital-growth-strategy-spain-2021/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 214ac8186c60673cfe0b0dcc7c46f97ed24dee088f951b77abacff461e139bdc
 canonical: 9023-making-science-group-best-digital-growth-strategy-spain-2021.json
 ---

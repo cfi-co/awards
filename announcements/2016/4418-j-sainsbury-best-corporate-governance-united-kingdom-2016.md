@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 14:05:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/j-sainsbury-best-corporate-governance-united-kingdom-2016/"
 categories: ["Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc3a69fa60dc56b5cc36dfb7327148a2647edb6496426b985ab9d38982b26d54
 canonical: 4418-j-sainsbury-best-corporate-governance-united-kingdom-2016.json
 ---

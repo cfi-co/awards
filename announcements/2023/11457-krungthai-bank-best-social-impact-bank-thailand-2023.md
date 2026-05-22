@@ -7,6 +7,15 @@ published_gmt: 2023-05-04 15:22:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2023/krungthai-bank-best-social-impact-bank-thailand-2023/"
 categories: ["Asia Pacific", "Banking", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0e9dc454eb1de5173733dadf57f09e142323db23ba82ebdf7649952fdd67afc8
 canonical: 11457-krungthai-bank-best-social-impact-bank-thailand-2023.json
 ---

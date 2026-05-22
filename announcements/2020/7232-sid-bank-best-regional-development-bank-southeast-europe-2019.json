@@ -12,8 +12,21 @@
         "Development",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_7233\" align=\"aligncenter\" width=\"1500\"]<img class=\"size-full wp-image-7233\" src=\"https://cfi.co/awards/wp-content/uploads/2020/02/SID-Management.jpg\" alt=\"Management Board: President Sibil Svilan and Member Goran Katušin. Photo: Barbara Zajc\" width=\"1500\" height=\"1264\" /> <strong>Management Board:</strong> President Sibil Svilan and Member Goran Katušin. <em>Photo: Barbara Zajc</em>[/caption]\r\n<p style=\"text-align: justify;\">As a fully government-owned investment and development financial institution, SID Bank takes a long-term approach to boosting the economic potential and competitiveness of Slovenia. The bank promotes sustainable development, providing long-term financial services to supplement financial markets and create new jobs. SID Bank was founded in 1992 to provide financing and insurance products for Slovene exporters and has grown to become a key facilitator — and financer — of international business cooperation. The bank’s organisational structure allowed it to react positively during the financial crisis, while maintaining a steady course of compliance and sustainability. SID Bank covered international markets, issued bonds, and provided finance during a time when other banks and insurers were struggling to honour their commitments. The bank supports long-term projects that align with sustainable development principles for finance, people, and the environment. Dynamic and well-capitalised, SID Bank has expanded its international presence with a portfolio of customer-centric, value-added services. Flexibility is an essential part of long-term financial engineering, and SID Bank reacts to changing climates through an analytical lens of corporate governance. The bank champions the export ambitions of Slovenia’s small and medium-sized enterprises (SMEs) and will support their transformation into the multinationals of the future. SID Bank manages European cohesion funds allocated to Slovenia through a fund that advances research and innovation, energy efficiency and urban development. The CFI.co judging panel presents SID Bank with the 2019 award for Best Regional Development Bank (Southeast Europe).</p>",
     "content_sha256": "e738999284ef0ad7345d5f1a018392d280392b351de70861b70e2bd464ca429c",
-    "record_sha256": "d6a6cac231719095ed944a1637ab0fd2e7075b82a0641e8dad5541496e73d0dc"
+    "record_sha256": "6dcc318778ffa9201387c951e11770494333de783b94574a61ef4c224df1a1d9"
 }

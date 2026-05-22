@@ -12,8 +12,21 @@
         "Corporate Governance",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3956\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/SEDCOholding.jpg\" alt=\"\" width=\"377\" height=\"138\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Of modest origin and carefully nurtured to become one of Saudi Arabia’s leading wealth management company, SEDCO Holding adheres to time-honoured Sharia principles in the allocation of its clients assets. A family business characterised by its embrace of the highest ethical standards, SEDCO Holding can trace its roots to a trading and contracting company set up in 1976 to pursue diversified long-term investment opportunities both in the kingdom and abroad.</strong></p>\r\n<p style=\"text-align: justify;\">Today, SEDCO Holding has a presence in the most dynamic sectors of the Saudi economy and manages a number of funds that help underwrite major projects and corporations. From its early days, the company has maintained a strict separation between its owners and the highly skilled management team put in place to ensure consistent returns.</p>\r\n<p style=\"text-align: justify;\">SEDCO Holding is praised and recognised for providing leadership in corporate governance, setting an industry-wide benchmark against which others may gauge their performance. Its support for the financial education for young people has blossomed into a vast national programme that is close to reaching two million young Saudis, helping them attain financial independence.</p>\r\n<p style=\"text-align: justify;\">Over the last few years, SEDCO Holding has made a grand move into the buoyant hospitality sector with two hotel openings in Makkah. The CFI.co judging panel entertains no doubt that SEDCO Holding’s successful twin-pronged approach to investing – fully Sharia-compliant and pursuing excellence in corporate governance – merit recognition. The company is declared winner of the 2016 Best Sharia-Compliant Group Corporate Governance Award GCC.</p>",
     "content_sha256": "de1a3cce251b98b001d372e86ca4ab4ca53767468b1b8f301c098ee632a673ac",
-    "record_sha256": "b493350ba9cdc78ea9daf3cb761735af9c8272c9e8bc1cf1fe51c7e17b9dfe1c"
+    "record_sha256": "566d7fbdb187f6c3ac9667b90e0b8c5b866985ffbe829f5a563f017a904f682b"
 }

@@ -7,6 +7,15 @@ published_gmt: 2023-03-24 11:16:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/fortem-capital-best-alternative-growth-fund-manager-europe-2022/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1dacd511c900d4b88c9734e4c62f7cf98482dbe9bf8690b195ba91d620ce2127
 canonical: 11272-fortem-capital-best-alternative-growth-fund-manager-europe-2022.json
 ---

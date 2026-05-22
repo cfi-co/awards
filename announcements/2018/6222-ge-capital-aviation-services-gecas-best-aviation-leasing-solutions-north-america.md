@@ -7,6 +7,15 @@ published_gmt: 2018-10-23 11:13:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2018/ge-capital-aviation-services-gecas-best-aviation-leasing-solutions-north-america-2018/"
 categories: ["Finance", "North America", "Professional Services", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bfd969a3dd2506c8e14ae4f41878d2e3e2ed96073352f3e6a0651fa419e9d383
 canonical: 6222-ge-capital-aviation-services-gecas-best-aviation-leasing-solutions-north-america.json
 ---

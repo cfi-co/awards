@@ -7,6 +7,15 @@ published_gmt: 2013-06-10 15:38:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/rojs-peljhan-prelesnik-partnerji-ma-team-winner-in-slovenia/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 98075b63ed5102213aa9b647eedf589d8938b0754fa0cba6050ef777549ef4a2
 canonical: 553-rojs-peljhan-prelesnik-partnerji-ma-team-winner-in-slovenia.json
 ---

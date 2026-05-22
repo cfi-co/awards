@@ -13,8 +13,21 @@
         "Europe",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10132\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/SaarLB.jpg\" alt=\"SaarLB\" width=\"400\" height=\"104\" />\r\n<p style=\"text-align: justify;\">SaarLB is a Franco-German regional bank with deep roots and specialised cross-border expertise. The SaarLB network includes headquarters in Saarbrücken and offices in Koblenz, Mannheim and Trier, Germany, as well as two branches in France — Strasbourg and Paris — and a three expected in Lyon within this year. The Saarland state, which is the main shareholder of SaarLB at 75 percent ownership, is right on the French border. This regional proximity is reflected in SaarLB staff, many of whom are bilingual with academic and professional experience in both countries. SaarLB has 516 employees and reported total assets in 2020 totalling €15.15bn. SaarLB specialises in cross-border financial services for SMEs, corporates, commercial real estate, renewable-energy project financing, municipalities, institutional investors and high-net-worth individuals. The integrated offering is spread across a mixed portfolio of French and German business — with a strong concentration in renewable energies. SaarLB is a leading provider of structured project financing for German and French SMEs. It issues green bonds to fuel renewable-energy expansion and contribute towards climate-protection goals. It finances wind and solar energy projects, helping to balance the global energy mix by increasing the supply of renewables and decreasing CO2 emissions. It publishes an annual sustainability report and hires an independent company for a second-party opinion. Over its 80-year existence, SaarLB has endeavoured to be an engine of sustainable economic growth. The CFI.co judging panel presents SaarLB with the 2021 award for Best Cross-Border Sustainable Banking Strategy (France/Germany).</p>",
     "content_sha256": "913e7b18e14306e0b7eb2598ff95b5415c04ae96f5cdefd97ee136dd216b8273",
-    "record_sha256": "3a585041afa23bd89e1b95ece99dfa4032c1e77a32574d4c3c3d0bbbd2a9bd82"
+    "record_sha256": "b2991c7664d5c23922fe4aa0fce30e5d7c3af8a2ffea4c67e26dc91caa047319"
 }

@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:52:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/kuwait-international-bank-best-banking-vision-mena-2021/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db9034aad2113f183fd25db920ea7fb365126a685df5381138ef06a35eabc920
 canonical: 10099-kuwait-international-bank-best-banking-vision-mena-2021.json
 ---

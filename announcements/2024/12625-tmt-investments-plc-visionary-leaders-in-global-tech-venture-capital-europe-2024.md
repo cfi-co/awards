@@ -7,6 +7,15 @@ published_gmt: 2024-10-09 12:22:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/tmt-investments-plc-visionary-leaders-in-global-tech-venture-capital-europe-2024/"
 categories: ["Europe", "Finance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4bd3588445609145da4c45e279ea9665119957b0c672fdf520e46caaf29db1cc
 canonical: 12625-tmt-investments-plc-visionary-leaders-in-global-tech-venture-capital-europe-2024.json
 ---

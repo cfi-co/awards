@@ -7,6 +7,15 @@ published_gmt: 2014-02-13 15:32:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/rak-insurance-is-top-of-the-tent-cfi-co-award-winner-2014/"
 categories: ["Best Practice", "Corporate Governance", "Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 18df0af8eee016fca8d71032c327f60e8171aab0385795273e990d02be745b41
 canonical: 1177-rak-insurance-is-top-of-the-tent-cfi-co-award-winner-2014.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-05-26 14:29:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/hi-cone-most-responsible-packaging-solutions-united-states-2020/"
 categories: ["Industries", "Manufacturing", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16d26ce017e7157bebbb531a6815a5b827021545fba3af4852953c3b2169f6cd
 canonical: 7394-hi-cone-most-responsible-packaging-solutions-united-states-2020.json
 ---

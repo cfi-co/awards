@@ -13,8 +13,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5953\" src=\"https://cfi.co/awards/wp-content/uploads/2018/09/Metito.jpg\" alt=\"Metito\" width=\"349\" height=\"332\" />\r\n<p style=\"text-align: justify;\">The Dammam West independent sewage treatment plant (ISTP), the first ISTP project in the Kingdom of Saudi Arabia (KSA), has earned the interest and admiration of the CFI.co judging panel this year as the Best Water CleanTech PPP Emerging Markets 2019. The Build Own Operate Transfer (BOOT) project is hailed for its exemplary alignment of ideology and operation with the UN Sustainable Development Goal of Universal Access to Safe Drinking Water.</p>\r\n<p style=\"text-align: justify;\">The project was awarded to the consortium led by Metito and also comprising Mowah, and Orascom Construction. The primary purpose for the project is to provide critically needed sewage treatment capacity for the growing urban area of Greater Dammam area including Ad Dammam, Al Khobar and Dhahran. The plant will serve one million inhabitants and has a designed capacity of 350,000 cubic meters per day and an initial capacity of 200,000 cubic meters per day. Contributing to a greener environmental footprint the project is being developed on smallest land area required for a plant of its capacity and utilises the most advanced MBBR technologies in the treatment process, reducing power consumption to a significant minimum. Turning waste to wealth, the quality of the treated effluent is one of the highest in KSA and the sludge quality is a EPA Class A, which can be used for landscaping and irrigation. The plant is equipped with a Biological Scrubber odour control system keeping the surrounding area odourless.</p>\r\n<p style=\"text-align: justify;\">With the project being the first ISTP in KSA, it led the way for the Kingdom to realize multiple similar projects, and set the tone for a more engaging dialogue about PPPs and the importance of engaging private capital to realize lifeline, mega scale projects in a collaborative framework. Such projects also make best use of private sector experience in the environment, water and agricultural sectors, in line with the Kingdom’s \"Vision 2030\" and the wider initiatives approved by the Cabinet of Ministers to further encourage private sector participation in economic development initiatives.</p>",
     "content_sha256": "ba63f7b5dfa193c17aa81971a7ab4f96f388a0afcd69dfa485118bb64da9650c",
-    "record_sha256": "91aca82f86f7a74017b8599c992740e2641379abfffddd3876a070fa39918d87"
+    "record_sha256": "36f920fceacd1dc4d20c648cc2ea7667938941fc2c38800417680732cb3aece4"
 }

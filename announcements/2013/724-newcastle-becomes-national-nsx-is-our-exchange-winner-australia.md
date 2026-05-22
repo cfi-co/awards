@@ -7,6 +7,15 @@ published_gmt: 2013-08-28 10:01:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2013/newcastle-becomes-national-nsx-is-our-exchange-winner-australia/"
 categories: ["Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2dab65082b39a11119bf592321bbbd7fc8eb7b320d1c3d868a2a702f4b4871c7
 canonical: 724-newcastle-becomes-national-nsx-is-our-exchange-winner-australia.json
 ---

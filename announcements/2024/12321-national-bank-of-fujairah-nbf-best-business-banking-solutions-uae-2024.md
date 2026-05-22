@@ -7,6 +7,15 @@ published_gmt: 2024-04-01 12:51:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/national-bank-of-fujairah-nbf-best-business-banking-solutions-uae-2024/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 913ea2e71f44317141f9f6ab21abbcf05070241787ffb5188798543e6768fa5d
 canonical: 12321-national-bank-of-fujairah-nbf-best-business-banking-solutions-uae-2024.json
 ---

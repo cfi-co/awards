@@ -7,6 +7,15 @@ published_gmt: 2024-10-14 14:20:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/crc-credit-bureau-ltd-best-credit-bureau-nigeria-2024/"
 categories: ["Africa"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bda2f1eb3101ca1c8947a0f7434818d7c720c0444e097d560564184f354f4687
 canonical: 12649-crc-credit-bureau-ltd-best-credit-bureau-nigeria-2024.json
 ---

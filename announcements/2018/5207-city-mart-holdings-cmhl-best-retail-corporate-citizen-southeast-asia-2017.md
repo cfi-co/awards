@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 13:58:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/city-mart-holdings-cmhl-best-retail-corporate-citizen-southeast-asia-2017/"
 categories: ["Asia Pacific", "Corporate Leadership", "Industries", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4c8d98e4c1e6cfdac084a95b1639f91893b027a7a81dbabddf8601aba31d32af
 canonical: 5207-city-mart-holdings-cmhl-best-retail-corporate-citizen-southeast-asia-2017.json
 ---

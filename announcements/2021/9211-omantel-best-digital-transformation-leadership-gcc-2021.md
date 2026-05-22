@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 08:04:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/omantel-best-digital-transformation-leadership-gcc-2021/"
 categories: ["Corporate Leadership", "Industries", "Middle East", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bf46df7eaf3b1fc4c029a0c48c7a4c6e3b87bd2739c3737448f16a9ca86900e5
 canonical: 9211-omantel-best-digital-transformation-leadership-gcc-2021.json
 ---

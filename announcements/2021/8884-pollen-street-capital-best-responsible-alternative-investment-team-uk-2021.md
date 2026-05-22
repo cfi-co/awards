@@ -7,6 +7,15 @@ published_gmt: 2021-03-01 21:02:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/pollen-street-capital-best-responsible-alternative-investment-team-uk-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 46cb8158449a76e9afc2501608d585d2441450157a5204817fc2cf1c117e7a0d
 canonical: 8884-pollen-street-capital-best-responsible-alternative-investment-team-uk-2021.json
 ---

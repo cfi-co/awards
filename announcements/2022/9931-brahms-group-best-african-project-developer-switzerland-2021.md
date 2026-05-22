@@ -7,6 +7,15 @@ published_gmt: 2022-01-09 10:05:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/brahms-group-best-african-project-developer-switzerland-2021/"
 categories: ["Africa", "Development", "Europe", "Government", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 73a49c33e12f9663ae5d3e76114e5d6806f6b3a2d3a3b2595f58d79ffd13b0b8
 canonical: 9931-brahms-group-best-african-project-developer-switzerland-2021.json
 ---

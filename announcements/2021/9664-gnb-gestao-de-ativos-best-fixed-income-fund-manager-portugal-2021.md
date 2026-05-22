@@ -7,6 +7,15 @@ published_gmt: 2021-10-18 12:09:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/gnb-gestao-de-ativos-best-fixed-income-fund-manager-portugal-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb7698717c1602ebab6c57447d32120c33c469e58e5114f97b93c2c447483fff
 canonical: 9664-gnb-gestao-de-ativos-best-fixed-income-fund-manager-portugal-2021.json
 ---

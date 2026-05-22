@@ -7,6 +7,15 @@ published_gmt: 2023-11-28 13:33:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/aixigo-best-global-wealthtech-influencer-europe-2023/"
 categories: ["Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eb392d834220e49d4ddb31d95b31000b81da4b48543da595d09346e5e0f4e26c
 canonical: 12091-aixigo-best-global-wealthtech-influencer-europe-2023.json
 ---

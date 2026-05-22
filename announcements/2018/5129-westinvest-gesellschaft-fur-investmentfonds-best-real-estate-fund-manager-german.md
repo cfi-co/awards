@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 13:58:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/westinvest-gesellschaft-fur-investmentfonds-best-real-estate-fund-manager-germany-2017/"
 categories: ["Europe", "Finance", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d8bc7b96c72a1bc54c253a944021565267009a5945a17c315d98970e709265a4
 canonical: 5129-westinvest-gesellschaft-fur-investmentfonds-best-real-estate-fund-manager-german.json
 ---

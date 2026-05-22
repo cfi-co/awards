@@ -7,6 +7,15 @@ published_gmt: 2021-04-12 07:49:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/segurcaixa-adeslas-best-insurer-spain-2021/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3cb69ff7410c1767d9784bf61fa910e91f717060b1bb504d9e2f0288a1ebd705
 canonical: 9021-segurcaixa-adeslas-best-insurer-spain-2021.json
 ---

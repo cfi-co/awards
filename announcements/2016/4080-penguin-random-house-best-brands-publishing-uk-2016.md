@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:52:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2016/penguin-random-house-best-brands-publishing-uk-2016/"
 categories: ["Professional Services", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 076ad85d296089c48fe5774f86d88287d7bf23661d3c6537a1dc91660ea933e8
 canonical: 4080-penguin-random-house-best-brands-publishing-uk-2016.json
 ---

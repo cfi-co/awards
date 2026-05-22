@@ -7,6 +7,15 @@ published_gmt: 2020-07-27 08:52:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/xm-most-reliable-broker-global-2020-most-transparent-broker-global-2020/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a150274b5c3bdf08ed6a4a38b6b908cb3fdc930bb416b25f83c79abf98364bd8
 canonical: 8022-xm-most-reliable-broker-global-2020-most-transparent-broker-global-2020.json
 ---

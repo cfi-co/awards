@@ -7,6 +7,15 @@ published_gmt: 2014-08-13 14:14:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2014/cfi-co-announces-2014-womens-banking-team-award-to-westpac/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9d665388328bced973dbe909b738bdd462bc72a502a1eeb89c753c5c68008ac
 canonical: 1328-cfi-co-announces-2014-womens-banking-team-award-to-westpac.json
 ---

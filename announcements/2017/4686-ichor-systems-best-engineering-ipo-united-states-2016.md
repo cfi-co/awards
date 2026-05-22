@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:42:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2017/ichor-systems-best-engineering-ipo-united-states-2016/"
 categories: ["Industries", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69fc9e606d728dcb33e4ea2d636b96dfab9fe4f92f258ff867efb0206d96bd07
 canonical: 4686-ichor-systems-best-engineering-ipo-united-states-2016.json
 ---

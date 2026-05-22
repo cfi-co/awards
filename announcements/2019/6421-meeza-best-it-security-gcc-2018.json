@@ -8,8 +8,21 @@
     "published_gmt": "2019-01-15 15:02:32",
     "modified_gmt": "2019-01-15 15:02:32",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6422\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/Meeza.jpg\" alt=\"\" width=\"349\" height=\"141\" />\r\n<p style=\"text-align: justify;\">The CFI.co judging panel applauds Meeza on this third consecutive win of the Best IT Security award. This Qatar company has kept the momentum of discipline and adaptability in an industry that is subject to frequent change, and where cyberthreats are a constant enemy. Meeza has excelled in protecting its clients from reputational damage or security breaches as levels of threat are constantly monitored and analysed. Meeza represents top-class attitude and performance. Its advanced services ceaselessly scrutinise IT assets to ensure the instant flagging of any incident, using self-learning algorithms that detect traffic that deviates from the norm. Meeza is quick to identify vulnerabilities and predict possible future threats. Expertise and dedication have brought the company healthy growth and respect in the field, and have resulted in some big-name client acquisitions in 2018. Meeza is entering into promising strategic partnerships to further enrich its offering and its commitment with ongoing training programmes and workshops for staff. Meeza has received numerous awards and citations for its services, and is a Qatar Foundation joint-venture that is gaining increasing recognition for its role in supporting national development. Meeza is the recipient of the CFI.co 2018 award for Best IT Security (GCC).</p>",
     "content_sha256": "e671d203e7030417055604c8d63278e120a6085d78464f4374116bc9beabea7b",
-    "record_sha256": "28cc0e1f49bfa1d5ac3f41ffd47c397615c4e71761bb3b1e2776ec5e71cf4214"
+    "record_sha256": "aa7d13c5f7edfca8623530bae4856d5e271c2269a82c112c818291634fbcd0dc"
 }

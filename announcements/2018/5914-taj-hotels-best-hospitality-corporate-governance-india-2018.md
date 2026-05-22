@@ -7,6 +7,15 @@ published_gmt: 2018-08-30 11:55:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/taj-hotels-best-hospitality-corporate-governance-india-2018/"
 categories: ["Asia Pacific", "Corporate Governance", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab028eb54921cbabe7a22f7ae370bdd229fb7693636b5800f0411dcdda6dc1f6
 canonical: 5914-taj-hotels-best-hospitality-corporate-governance-india-2018.json
 ---

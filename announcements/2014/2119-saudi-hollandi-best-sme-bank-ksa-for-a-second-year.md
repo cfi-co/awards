@@ -7,6 +7,15 @@ published_gmt: 2014-10-02 16:43:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2014/saudi-hollandi-best-sme-bank-ksa-for-a-second-year/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 128c81ead7955e43a737f4b15f3e50928c3598195fc7995d5ee7e19c2703ce27
 canonical: 2119-saudi-hollandi-best-sme-bank-ksa-for-a-second-year.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:30:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/trojan-holding-best-mass-housing-construction-solutions-gcc-2020/"
 categories: ["Development", "Industries", "Manufacturing", "Middle East", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: acfcc30e5514f54c076a5424d2ca300a1495877a91662497511a8ef741e8b1a6
 canonical: 8752-trojan-holding-best-mass-housing-construction-solutions-gcc-2020.json
 ---

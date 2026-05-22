@@ -7,6 +7,15 @@ published_gmt: 2014-03-21 16:51:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/al-waseet-wins-cfi-co-brokerage-award-kuwait-2014/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c21a8e9b42d5b62e86c977b3ce132de71e56e424150f8056894fddb82a59385
 canonical: 1640-al-waseet-wins-cfi-co-brokerage-award-kuwait-2014.json
 ---

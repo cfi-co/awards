@@ -7,6 +7,15 @@ published_gmt: 2021-11-02 13:49:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/saudi-aramco-total-refining-and-petrochemicals-co-satorp-most-innovative-project-finance-deal-gcc-2021/"
 categories: ["Finance", "Industries", "Middle East", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f74648a8ab2045a1d71941003b9bf20cf89d8b71a40d8480e2c1efcc67cb068
 canonical: 9727-saudi-aramco-total-refining-and-petrochemicals-co-satorp-most-innovative-project.json
 ---

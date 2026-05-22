@@ -7,6 +7,15 @@ published_gmt: 2020-06-25 14:47:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/octa-investama-berjangka-best-client-fund-security-indonesia-2020/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 992ee9805556b2b7dcf2b2042395e8268614ebf0b3b189a649ededdfc853c73f
 canonical: 7802-octa-investama-berjangka-best-client-fund-security-indonesia-2020.json
 ---

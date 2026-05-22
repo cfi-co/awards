@@ -7,6 +7,15 @@ published_gmt: 2018-08-30 11:21:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/istanbul-portfoy-best-boutique-fund-manager-turkey-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05d2a404269fd95917efe03e4a716c284819576877bed3baa5e39f30211ae911
 canonical: 5886-istanbul-portfoy-best-boutique-fund-manager-turkey-2018.json
 ---

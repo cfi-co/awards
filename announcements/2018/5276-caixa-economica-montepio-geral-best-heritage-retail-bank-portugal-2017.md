@@ -7,6 +7,15 @@ published_gmt: 2018-01-31 12:15:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/caixa-economica-montepio-geral-best-heritage-retail-bank-portugal-2017/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cdf707213041da72aebcc41c16431317ca39a4bc998ab84b8d1e765ab7a10d77
 canonical: 5276-caixa-economica-montepio-geral-best-heritage-retail-bank-portugal-2017.json
 ---

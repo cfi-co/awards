@@ -7,6 +7,15 @@ published_gmt: 2021-05-05 11:09:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/canadian-pacific-best-esg-railroad-north-america-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "North America", "Sustainability", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35cb3aeaceb33da26667bf32991d1f61c4f57f778e9c4b0e16b688ebfd8dcf5f
 canonical: 9101-canadian-pacific-best-esg-railroad-north-america-2021.json
 ---

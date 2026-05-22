@@ -7,6 +7,15 @@ published_gmt: 2016-07-28 08:22:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2016/international-capital-management-ag-icm-best-interdisciplinary-investment-process-central-europe-2016/"
 categories: ["Best Practice", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40f54bfabcc0e47c4e298663aa6cf384bb1f4ea9652c14bb2db00fd23365ca0a
 canonical: 4436-international-capital-management-ag-icm-best-interdisciplinary-investment-proces.json
 ---

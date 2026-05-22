@@ -16,8 +16,21 @@
         "Finance",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8156\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/Norvestor.png\" alt=\"Norvestor\" width=\"400\" height=\"90\" />\r\n<p style=\"text-align: justify;\">Norvestor continues to demonstrate a maturing and dynamic commitment to sustainability, with its investment strategies and portfolio management increasingly shaped by robust environmental, social, and governance (ESG) principles. The firm has maintained momentum since its previous recognition, with clear progress in operational efficiency and optimisation across its funds. Strategic direction remains embedded in Norvestor’s annual Value Creation Plan, which mandates a structured sustainability reporting cycle and ESG workshops attended by senior management across portfolio companies. These sessions, lasting up to three hours, have fostered meaningful dialogue, accountability, and alignment between sustainability objectives and business strategy. Notably, the firm applies Double Materiality assessments to identify and prioritise ESG topics that are both financially and socially material. Norvestor’s approach ensures that sustainability is not an ancillary concern but a central pillar of each portfolio company’s business plan. Initiatives to enhance due diligence and streamline regulatory compliance—particularly in response to EU requirements—have been prioritised. The organisation has engaged sceptical leadership through ten strategic workshops, and deepened knowledge exchange through a hybrid ESG summit that supports sustainability professionals working in smaller or isolated teams. CFOs are now actively involved in shaping sustainability agendas, reflecting a linkage between financial stewardship and ESG performance. An expanding sustainability team underlines Norvestor’s commitment to continual improvement despite ongoing challenges. This evolving framework positions the firm as a leading advocate for sustainable value creation. CFI.co Judging Panel congratulates Norvestor on winning the 2025 award for Best Sustainable Equity Investor (Nordics).</p>",
     "content_sha256": "104c2a90c4c46005c176af0ad60bfcde6a7347304ae40828738ebbad9c0e8d54",
-    "record_sha256": "3ae04807e745dadd67fff0c3e92243c9c319fc760bdfce3478e2bee83188ac1d"
+    "record_sha256": "40ec001a65c101fa83ada5c7a794b5a4216c7596992788da029f46c7930942a6"
 }

@@ -7,6 +7,15 @@ published_gmt: 2023-09-11 10:29:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/real-estate/2023/savills-investment-management-best-global-real-estate-investment-manager-uk-2023/"
 categories: ["Europe", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8a4b5ba142bddd9e08dc659c23e2674caf1202fd21faef0a3ada57f6e3af4c4f
 canonical: 11859-savills-investment-management-best-global-real-estate-investment-manager-uk-2023.json
 ---

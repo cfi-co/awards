@@ -13,8 +13,21 @@
         "Industries",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4229\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/PanAmericanEnergy.jpg\" alt=\"\" width=\"249\" height=\"115\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A veritable treasure chamber of natural resources, Argentina has embarked on a sustained drive to cash in on its mineral bounty. The country’s now revamped extractive sector is on the up and delivering a sizeable contribution to economic growth. Pan American Energy, an oil and gas company founded in 1997, is particularly well-poised to reap the benefits of Argentina’s once again flourishing economy. Currently, the company is the second largest hydrocarbons producer in the country with a presence in Argentina’s four main oil and gas basins and a direct and indirect workforce of well over 12,000 people.</strong></p>\r\n<p style=\"text-align: justify;\">Pan American Energy pumps 18% of the oil and gas produced in Argentina. Partnering with international oil companies, Pan American Energy has gained access to the latest technology which allows the company to sustain higher-than-average recovery rates and successfully exploit fields that had previously been deemed marginal. Pan American Energy is recognised for its dedication to operational excellence. The company adheres to international best practices and maintains a clean environmental record.</p>\r\n<p style=\"text-align: justify;\">In order to help finance its expansion, Pan American Energy has issued $1.1bn in corporate bonds in a series of tranches since 2010. The CFI.co judging panel is aware that Argentina’s energy sector has plenty of upside. The judges agree that Pan American Energy stands to benefit from the country’s return to high growth rates. Pan American Energy is declared winner of the 2016 Most Responsible Energy Corporate Bond Issuer Latin America Award.</p>",
     "content_sha256": "c66768fdfaeef9d12ca7a01ad44d6db45f5ed5ba404341159287540e0938a2cf",
-    "record_sha256": "f8379142dd473a575a21858839a56f576520439a08be472b59c5eeb130c998b7"
+    "record_sha256": "5549512714381041eaaa0616f9ed7a1ea2a751e0345023a5487d452ec72c87e9"
 }

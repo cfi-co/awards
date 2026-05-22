@@ -7,6 +7,15 @@ published_gmt: 2021-01-25 10:58:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/east-africa-metals-inc-most-responsible-miner-africa-2020/"
 categories: ["Africa", "Best Practice", "CSR", "Industries", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6e58d2bd319717abf5a43d20e9eea64d19afd3d3375bae85fa22ec2f823efb5a
 canonical: 8627-east-africa-metals-inc-most-responsible-miner-africa-2020.json
 ---

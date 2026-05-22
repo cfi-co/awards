@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:04:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/biat-best-digitalisation-strategy-north-africa-2021/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 63a9ae880f0c9f8d1ba0cd5e3ca228b7fe36f2695d74798cc5c9d8ed7b0542ba
 canonical: 10117-biat-best-digitalisation-strategy-north-africa-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2018-10-23 11:35:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/nice-actimize-best-compliance-regtech-global-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f7b52c1cebf106d3c78db2a7e50c5e83e0a06eae56eb759e75e9e47c973c378d
 canonical: 6228-nice-actimize-best-compliance-regtech-global-2018.json
 ---

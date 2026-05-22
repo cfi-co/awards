@@ -7,6 +7,15 @@ published_gmt: 2016-05-20 14:46:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/iifl-private-wealth-best-independent-wealth-management-team-india-2016/"
 categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed565b70be9e0a43204e7c764641ded23070bc99b7f143e7fb9696e58b0db60c
 canonical: 4452-iifl-private-wealth-best-independent-wealth-management-team-india-2016.json
 ---

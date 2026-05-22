@@ -11,8 +11,21 @@
         "Customer Satisfaction",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7391\" src=\"https://cfi.co/awards/wp-content/uploads/2020/05/Neuhaus.jpg\" alt=\"Neuhaus\" width=\"258\" height=\"96\" />\r\n<p style=\"text-align: justify;\">Neuhaus began life as a pharmacy 1857, in the prestigious Queen's Gallery of Brussels. Pharmacist and founder Jean Neuhaus hit on a cunning ruse to treat patients' palates: he coated bitter medicines in sweet chocolate. It worked a treat; so well, in fact, thanks to the quality of the chocolate, that Neuhaus transformed from apothecary to chocolatier. The company built on its innovative spirit and commitment to quality to invent a delicacy known as Belgian praline, now enjoyed worldwide. Neuhaus's strict standards of excellence earned it the coveted designation of Royal Warrant Holder: an honour bestowed on those supplying royal households. All Neuhaus chocolates are made in Belgium, as it has been for over a century. A team of \"Maître Chocolatiers\" creates chocolates with fillings of fresh cream, ganache and gianduja in Brussels ateliers. The truffles and pralines they create are rightly described by Neuhaus as \"symphonies of taste and texture\". The company sources the finest ingredients and uses all-natural flavours and colours to create edible art to stun the senses. Neuhaus packages its creations in Belgian ballotins, elegant gift boxes designed to protect its chocolate from damage in transit. Neuhaus first introduced the ballotin in 1915, and the iconic invention remains a key fixture for its beauty and practicality. Neuhaus has stood the test of time, constantly striving to surprise consumers with its decadent concoctions. It treats customers as cherished friends rather than a business checklist, and any criticism is seen as an opportunity for improvement. The CFl.co judging panel recognises a company with a timeless approach to excellence, and presents Neuhaus with the 2020 award for Best Luxury Goods Customer Satisfaction (Benelux).</p>",
     "content_sha256": "90f93e1bb395012057fd15b0a67e221737b7e97bb7c3b13340ff28f636d46772",
-    "record_sha256": "fe137a683b6b77fd37947d2de8c61dfbef0fb81b78632d49f015ee94b017e051"
+    "record_sha256": "d12a2e75bd538935b2b1ab2a0929b72957259d0894c1529ff75d68527207e7eb"
 }

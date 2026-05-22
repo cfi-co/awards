@@ -7,6 +7,15 @@ published_gmt: 2017-10-05 08:38:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/first-names-group-best-cross-border-fiduciary-services-team-channel-islands-2017/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f876534269624246790db901406bb351ebf35292283a157bca535a467c432dc
 canonical: 4908-first-names-group-best-cross-border-fiduciary-services-team-channel-islands-2017.json
 ---

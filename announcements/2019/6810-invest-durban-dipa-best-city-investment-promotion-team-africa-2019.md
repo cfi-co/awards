@@ -7,6 +7,15 @@ published_gmt: 2019-07-11 13:07:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/invest-durban-dipa-best-city-investment-promotion-team-africa-2019/"
 categories: ["Africa", "Development", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b0da4a9a25fb02c6d88b508bd84b7e8aa31c18305b917d4895750d3eb4d6bf3e
 canonical: 6810-invest-durban-dipa-best-city-investment-promotion-team-africa-2019.json
 ---

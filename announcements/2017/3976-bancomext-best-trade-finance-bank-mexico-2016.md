@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 13:41:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/bancomext-best-trade-finance-bank-mexico-2016/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc499a72d4545f960d460bd5ad6090b3dbd74fd58c09beaa8a321f58368c4cb8
 canonical: 3976-bancomext-best-trade-finance-bank-mexico-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-12-19 12:45:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2016/northwest-healthcare-properties-reit-best-healthcare-industry-reit-canada-2016/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07843a799e50bac832cd833730557f8125231ac18a9e7faee80f482ed9235a9e
 canonical: 3609-northwest-healthcare-properties-reit-best-healthcare-industry-reit-canada-2016.json
 ---

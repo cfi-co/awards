@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:38:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/consolidated-contracting-company-best-infrastructure-epc-solution-provider-mena-2016/"
 categories: ["Industries", "Manufacturing", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07176b515cd9641e6a34a50712fa9735e8031d32072af8b2cfb6549ddee7ece9
 canonical: 4059-consolidated-contracting-company-best-infrastructure-epc-solution-provider-mena-.json
 ---

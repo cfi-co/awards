@@ -7,6 +7,15 @@ published_gmt: 2018-02-15 14:07:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/barclays-africa-group-best-sme-partner-bank-africa-2017/"
 categories: ["Africa", "Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf15070e5a5d8c8e6211c3bd6a182f1e2a8607e9325a91615a6df39d02d5fe43
 canonical: 5330-barclays-africa-group-best-sme-partner-bank-africa-2017.json
 ---

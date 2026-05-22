@@ -7,6 +7,15 @@ published_gmt: 2022-11-30 08:17:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/mining/2022/appian-capital-advisory-best-esg-mining-investment-strategy-global-2022/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Mining", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31d045ffc2c000bb6421949c9e198c2dd4b68682ef977cd29faef0c18d87285d
 canonical: 10941-appian-capital-advisory-best-esg-mining-investment-strategy-global-2022.json
 ---

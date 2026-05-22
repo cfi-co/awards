@@ -13,8 +13,21 @@
         "FDI Agencies",
         "Government"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7473\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Catalonia.jpg\" alt=\"Catalonia\" width=\"500\" height=\"170\" />\r\n<p style=\"text-align: justify;\"><strong>Catalonia is one of the most vibrant regions in Spain, with Barcelona at its heart. The region boasts a history of innovation and internationalisation, and Catalonia Trade &amp; Investment invites large corporations and fledgling start-ups to explore its competitive business climate. The agency is part of the Catalan Government, specifically it is part of the Catalan Ministry for Business and Knowledge to support regional business and attract investment.It has an impressive record of pulling in FDI, generating €144 for every euro of public funding.</strong></p>\r\n<p style=\"text-align: justify;\">The agency introduces the world to Catalonia as a business and investment destination via a network of 40 offices in 100 markets, and an armoury of strategic trade missions and conferences. Catalonia Trade &amp; Investment has strengthened and diversified the regional economic backbone with projects in traditional industries (chemicals, food and beverage, automotive, pharma, energy and metal products) and emerging sectors (biotech, healthcare, renewable energy, finance, high tech, videogames, e-commerce, media and logistics). Barcelona is highly ranked among European cities for its business-friendly policies, and twelve regional universities provide a pipeline of fresh talent. Two of Catalonia’s business schools (IESE and ESADE) are ranked among the best business schools in the world.</p>\r\n<p style=\"text-align: justify;\">The city has become a hub for tech innovation: R&amp;D activities benefit from preferential tax schemes, employment programmes are incentivised, and the holding tax and corporate tax regimes are favourable. Catalonia Trade &amp; Investment helps companies explore Catalonia as an investment destination, set up their Investment projects and also to connect with new suppliers.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to present Catalonia Trade &amp; Investment with the 2020 award for Best Investment Promotion Agency (Europe).</p>",
     "content_sha256": "53cbef497f72876ec65aa9146fadd15a9e67383085697915993221219b0a5046",
-    "record_sha256": "3132f2445b34a7d2ad8f7c87cda5ec1e94416651c7fb674409bebadeb4276179"
+    "record_sha256": "4998ebd07cb586dd367d69b171111618927912e67404c650564feeed164cf37f"
 }

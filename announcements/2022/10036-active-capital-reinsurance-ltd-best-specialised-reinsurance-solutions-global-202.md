@@ -7,6 +7,15 @@ published_gmt: 2022-02-01 18:10:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2022/active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-2021-best-reinsurer-emerging-markets-2021/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6547d4ea8708dd0a8fb29ceec8c17ef2a67c17d365a8061be37bcc1d4110f4e6
 canonical: 10036-active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-202.json
 ---

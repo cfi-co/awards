@@ -7,6 +7,15 @@ published_gmt: 2015-03-03 12:50:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2015/oman-uae-exchange-best-foreign-currency-services-oman-2015/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9bdc73ac4d6b1cc81390cec962760d80e6cbf453ecb318c499b41c6371545570
 canonical: 3035-oman-uae-exchange-best-foreign-currency-services-oman-2015.json
 ---

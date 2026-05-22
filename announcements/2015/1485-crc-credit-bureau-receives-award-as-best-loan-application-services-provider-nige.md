@@ -7,6 +7,15 @@ published_gmt: 2015-01-06 13:32:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/crc-credit-bureau-receives-award-as-best-loan-application-services-provider-nigeria-2014/"
 categories: ["Africa", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 46c527f2b1be6183e64029d8d952886ea73b81b0e4ee8b1ec6bfbe3cf3156bed
 canonical: 1485-crc-credit-bureau-receives-award-as-best-loan-application-services-provider-nige.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-12-20 10:19:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/fwu-group-best-long-term-savings-solutions-europe-2022/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d7fae51cb7d4ef26130c1faa828194e9433814916b772cf44b2dd8e9e29268e0
 canonical: 11011-fwu-group-best-long-term-savings-solutions-europe-2022.json
 ---

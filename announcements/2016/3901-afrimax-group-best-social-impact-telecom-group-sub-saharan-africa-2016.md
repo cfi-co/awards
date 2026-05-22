@@ -7,6 +7,15 @@ published_gmt: 2016-11-21 09:37:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/afrimax-group-best-social-impact-telecom-group-sub-saharan-africa-2016/"
 categories: ["Africa", "Industries", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 70d4fc08547ce9d68134e130f5be552ea9cd25a74c91da544613e22c74ab19dd
 canonical: 3901-afrimax-group-best-social-impact-telecom-group-sub-saharan-africa-2016.json
 ---

@@ -13,8 +13,21 @@
         "Exchanges &amp; Brokers",
         "Government"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8019\" src=\"https://cfi.co/awards/wp-content/uploads/2020/07/TGE.jpg\" alt=\"TGE\" width=\"400\" height=\"122\" />\r\n<p style=\"text-align: justify;\">TGE Polish Power Exchange merits recognition for converting a nationally critical marketplace into a demonstrably European-grade venue, balancing liquidity, transparency and operational resilience while navigating fast-moving regulation and energy-transition volatility. The Panel notes measurable scale: in 2024 electricity trading on TGE totalled 131,691,879 MWh, with natural gas transactions of 136,695,747 MWh, evidencing durable participation even as power turnover fell 10.7 percent year on year. Governance and strategic clarity are reflected in disciplined product stewardship: guarantees of origin turnover reached 55,484,934 MWh in 2024, up 31 percent, showing credible support for decarbonisation instruments rather than rhetorical ESG positioning. Execution quality is reinforced by technology choices and market design, including a modern trading platform and the operational maturity expected of a Nominated Electricity Market Operator, enabling cross-border coupling and access beyond domestic constraints. TGE's differentiation lies in breadth under one roof-power, gas, spot, forwards and environmental registries-reducing fragmentation for participants managing increasingly correlated fuel and power risks. The Panel also values customer-centric market development, evidenced by shorter-duration products aligned to renewable intermittency and a clear roadmap towards financial energy products, which should deepen hedging efficiency without diluting physical-market integrity. Importantly, TGE demonstrates constructive leadership in the European debate on market structure, advocating competition and service quality over centralised monoculture, while maintaining credible engagement with stakeholders through formal councils and continuous education. The Capital Finance International (CFI.co) Judging Panel congratulates TGE Polish Power Exchange on winning the Energy Market Exchange Excellence Champion 2026 Award (Europe).</p>",
     "content_sha256": "bf29a2ff7848085859697d0280845fb737776e2196eca6994baf74b5866b5268",
-    "record_sha256": "168ee23a24dee496bc7dc1b0e6a9edcb31ce2ae4a17e54e0f4d7bd9e631e3212"
+    "record_sha256": "89a5ed792a12fbd6e28bd3640c7373de396a095d80e5b0a3eee7098b199dcce1"
 }

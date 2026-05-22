@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:59:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2017/ghazanfar-bank-best-sharia-compliant-commercial-bank-afghanistan-2017/"
 categories: ["Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 71423648ca1a3a481e27de63ee3a913beb80c947baca9ba492b49b1202555713
 canonical: 4634-ghazanfar-bank-best-sharia-compliant-commercial-bank-afghanistan-2017.json
 ---

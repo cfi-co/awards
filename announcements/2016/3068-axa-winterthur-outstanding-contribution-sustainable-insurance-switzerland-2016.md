@@ -7,6 +7,15 @@ published_gmt: 2016-03-30 09:12:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2016/axa-winterthur-outstanding-contribution-sustainable-insurance-switzerland-2016/"
 categories: ["Best Practice", "Europe", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df68bcd2ce2fdc11e5eb8d0fdb9086cabb733173051791a7d4b5f76fa6b9f3e3
 canonical: 3068-axa-winterthur-outstanding-contribution-sustainable-insurance-switzerland-2016.json
 ---

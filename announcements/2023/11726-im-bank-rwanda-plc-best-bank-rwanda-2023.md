@@ -7,6 +7,15 @@ published_gmt: 2023-08-08 14:57:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/im-bank-rwanda-plc-best-bank-rwanda-2023/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7b1a406ec996b9f572e0bec0fb5a580f98302f69754fd91072d05c5b2541251
 canonical: 11726-im-bank-rwanda-plc-best-bank-rwanda-2023.json
 ---

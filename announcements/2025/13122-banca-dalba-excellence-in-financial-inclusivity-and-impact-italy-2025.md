@@ -7,6 +7,15 @@ published_gmt: 2025-09-30 10:48:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2025/banca-dalba-excellence-in-financial-inclusivity-and-impact-italy-2025/"
 categories: ["Banking", "Best Practice", "CSR", "Community Engagement", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de00cf560445bc3216dbc64e6050b83aeb5aa98cc54cf7c83f49b6863fcb6ec2
 canonical: 13122-banca-dalba-excellence-in-financial-inclusivity-and-impact-italy-2025.json
 ---

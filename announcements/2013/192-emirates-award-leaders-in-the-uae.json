@@ -14,8 +14,21 @@
         "Middle East",
         "Transport"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1863\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/e1.jpg\" alt=\"e1\" width=\"151\" height=\"151\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The airline is now the largest employer in the UAE and shows a high level of concern for the welfare of its 62,000 workers – many of whom are far away from their homelands. </strong></p>\r\n<p style=\"text-align: justify;\">The Emirates fleet is young and eco-efficient and the airline has done much to support the Dubai Desert Conservation Reserve and eco-tourism projects in the UAE and Australia. The judging panel felt that Emirates take their CSR responsibilities very seriously and are making good progress.</p>",
     "content_sha256": "a4034cf7b6a4c943d45574fa4d99ba11ec2d5aa116f59aa12e5ec51826d9ecf3",
-    "record_sha256": "9a69699c7594afe946089854442e7a239dee6a0fc6d62fcc9d8b34a15216e990"
+    "record_sha256": "147cf599165a72a069e75009c8750200ec199e2fd523f4a8dab6d709b59abad8"
 }

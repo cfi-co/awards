@@ -11,8 +11,21 @@
         "Finance",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-large wp-image-8444\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Etihad-Credit-Insurance-CFI.co-Award-Win-2020-1024x682.jpg\" alt=\"Etihad Credit Insurance CFI.co Award Win 2020\" width=\"900\" height=\"599\" />\r\n<p style=\"text-align: justify;\">Etihad Credit Insurance (ECI) is in only its third year of operation, but the specialised state institution has already made solid contributions to employment and to the economy of the UAE. ECI, aka the UAE Federal Export Credit company, was established by government decree to boost Emirati export activity and economic diversification. It offers export credit, financing and investment insurance products, and helps UAE companies to gain access to new markets. It has been a landmark year for ECI, despite the pandemic. In the first six months of the year, the company provided 1,468 revolving credit guarantees worth $435.7m to UAE exporters. It insured non-oil exports worth over $1bn to more than 70 countries, with SMEs accounting for over half of the beneficiaries. Sectors supported include automotive, pharmaceutical, food, petrochemicals, building materials and cable and steel manufacturers. But its crowning achievement for 2020 thus far has been the launch of Shariah-compliant trade credit insurance and export financing products. This has made it possible for Islamic exporters — including smaller firms and those with shorter manufacturing cycles — to engage in global market trade. This advance, and a strategic partnership with the Dubai Islamic Economy Development Centre, have solidified ECI’s status as the UAE’s leading Shariah-compliant credit insurer. The CFI.co judging panel congratulates ECI on its second consecutive annual award for Most Innovative Finance Solutions (Middle East), this time for 2020.</p>",
     "content_sha256": "18d134c61f28f6ea893c97611c26f32c6562320eb0da4a8d035b7231fb862cbf",
-    "record_sha256": "7935c48559f74da0a6f2a50d45a4e1bad525cbe35b4c1363ee87c703386e699b"
+    "record_sha256": "2f30ed42583d47da47df17d3f084dd3b85e99cad45870aa85f85952e79f55bb2"
 }

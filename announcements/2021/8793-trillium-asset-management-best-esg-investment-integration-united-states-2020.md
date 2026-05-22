@@ -7,6 +7,15 @@ published_gmt: 2021-02-01 15:07:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/trillium-asset-management-best-esg-investment-integration-united-states-2020/"
 categories: ["Asset Management", "Best Practice", "CSR", "Corporate Governance", "Finance", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05d265d954820cbbd03a487a611def80e1d6ec1137c1931f8d5b257809036677
 canonical: 8793-trillium-asset-management-best-esg-investment-integration-united-states-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2026-04-20 06:18:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/tge-polish-power-exchange-energy-market-exchange-excellence-champion-europe-2026/"
 categories: ["Best Practice", "Europe", "Exchanges &amp; Brokers", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bf29a2ff7848085859697d0280845fb737776e2196eca6994baf74b5866b5268
 canonical: 13386-tge-polish-power-exchange-energy-market-exchange-excellence-champion-europe-2026.json
 ---

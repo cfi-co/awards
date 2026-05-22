@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 16:10:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/bdo-austria-best-audit-and-tax-team-austria-2018/"
 categories: ["Accounting", "Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b101696947f83db744bdedcae527f1eb4d1097185044f934c4baa6de0461a379
 canonical: 6464-bdo-austria-best-audit-and-tax-team-austria-2018.json
 ---

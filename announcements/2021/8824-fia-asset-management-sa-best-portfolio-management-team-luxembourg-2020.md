@@ -7,6 +7,15 @@ published_gmt: 2021-02-12 10:46:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/fia-asset-management-sa-best-portfolio-management-team-luxembourg-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bbf520b29acde1583d235a62a8357ba5d692c45237d0f3f84d9b4ff2d2e5d0d8
 canonical: 8824-fia-asset-management-sa-best-portfolio-management-team-luxembourg-2020.json
 ---

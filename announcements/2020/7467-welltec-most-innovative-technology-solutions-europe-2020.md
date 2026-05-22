@@ -7,6 +7,15 @@ published_gmt: 2020-06-12 08:46:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/welltec-most-innovative-technology-solutions-europe-2020/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69c1a0886a694828da5d8fb7ea05f7ce7ee7631dda90630316692bdd237bc45b
 canonical: 7467-welltec-most-innovative-technology-solutions-europe-2020.json
 ---

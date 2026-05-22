@@ -7,6 +7,15 @@ published_gmt: 2016-08-01 12:47:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2016/eurobank-cyprus-best-international-private-bank-2016/"
 categories: ["Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: deb45b9d3db23d5288eb263cf8955a944ef73056d86f79b58e37d61c16784a4c
 canonical: 3868-eurobank-cyprus-best-international-private-bank-2016.json
 ---

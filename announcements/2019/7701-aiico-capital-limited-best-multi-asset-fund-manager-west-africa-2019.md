@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 12:31:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/aiico-capital-limited-best-multi-asset-fund-manager-west-africa-2019/"
 categories: ["Africa", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1b8337ceb6eef9f63b8f4ee2af1690f13149ff34835b0cbb63f4d057637af09
 canonical: 7701-aiico-capital-limited-best-multi-asset-fund-manager-west-africa-2019.json
 ---

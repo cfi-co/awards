@@ -7,6 +7,15 @@ published_gmt: 2018-10-26 11:17:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/zurich-insurance-best-sustainable-insurer-switzerland-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3eaa00e79c9a5f61e7cffc25fa1a0aecbac0f736e16534d04901b46bf41a032
 canonical: 6263-zurich-insurance-best-sustainable-insurer-switzerland-2018.json
 ---

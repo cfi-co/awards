@@ -7,6 +7,15 @@ published_gmt: 2025-08-04 07:34:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2025/ecapital-corp-champion-of-global-sme-funding-access-usa-2025/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bebd98ca3fb48963f55517d0d499ee3f9e67de7851312a873fab18453364ec47
 canonical: 13067-ecapital-corp-champion-of-global-sme-funding-access-usa-2025.json
 ---

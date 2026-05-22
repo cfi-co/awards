@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 14:56:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2017/cooperative-central-bank-best-social-impact-bank-cyprus-2016/"
 categories: ["Banking", "Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e35ae23f6581a463cc27e026daf0391513a40cc043e2fbe9b4e90c292ce723ae
 canonical: 4013-cooperative-central-bank-best-social-impact-bank-cyprus-2016.json
 ---

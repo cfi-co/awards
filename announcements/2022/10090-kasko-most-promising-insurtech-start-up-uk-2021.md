@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:26:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2022/kasko-most-promising-insurtech-start-up-uk-2021/"
 categories: ["Industries", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 743abeb8cf2dfd8a9941cb0fb5f883a3a8c2cb45c8211b87e61484d958c6d070
 canonical: 10090-kasko-most-promising-insurtech-start-up-uk-2021.json
 ---

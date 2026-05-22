@@ -7,6 +7,15 @@ published_gmt: 2018-09-07 14:22:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/gambia-investment-and-export-promotion-agency-giepa-best-foreign-investment-promotion-team-west-africa-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9992ad5ee80ec2dd37f7f4f9b36ee2c46203d7c8f1d472868ff23f89c0607956
 canonical: 6014-gambia-investment-and-export-promotion-agency-giepa-best-foreign-investment-prom.json
 ---

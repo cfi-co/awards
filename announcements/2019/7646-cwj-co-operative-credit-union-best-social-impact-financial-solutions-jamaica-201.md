@@ -7,6 +7,15 @@ published_gmt: 2019-06-24 11:05:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2019/cwj-co-operative-credit-union-best-social-impact-financial-solutions-jamaica-2019/"
 categories: ["Community Engagement", "Development", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 788fdc9c0217d9bf9b79f152a21c9df729b3ffa133b9f75d8f01c45221c5d0bb
 canonical: 7646-cwj-co-operative-credit-union-best-social-impact-financial-solutions-jamaica-201.json
 ---

@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9306\" src=\"https://cfi.co/awards/wp-content/uploads/2021/07/ThirdWay-Africa.jpg\" alt=\"ThirdWay-Africa\" width=\"500\" height=\"81\" />\r\n<p style=\"text-align: justify;\">When London-based investment firm ThirdWay Africa (TWA) was launched in 2014, its objective was to fundamentally change Africa’s investment landscape. That aim has never faltered, and TWA has kept the focus firmly on the UN’s Environmental, Social and Governance aims for sustainable development. This ambitious drive has been adopted as a business essential in the field of banking — and beyond. TWA believes that profit hinges on communities and the environment — and that business must lend support in those areas. Sustainability is more than an aspiration, it’s a vital component in constructing a healthy future for the planet. The firm facilitates dialogue between private capital, development organisations and governments to find ways to co-operate. The traditional view of Africa as a continent of high costs, low liquidity and skills shortages is outdated. TWA’s role is to help navigate challenges and overcome preconceptions. It is recognised for its track record of unearthing investment opportunities such as conservation tourism. Before the pandemic, tourism accounted for more than seven percent of Africa’s GDP, and the sector is a crucial asset in the battle to halt the loss of natural habitat. It has been supported by a TWA fund during the Covid crisis. The company is looking to expand its operations, too, with a focus on South America. The judging panel, for the second consecutive year, is impressed. It presents ThirdWay Africa with the 2021 award for Best ESG Merchant Banking Team (Africa).</p>",
     "content_sha256": "bba188d87e402ae019513ca214c4313449de73cb7e947d1764ec6963639dee99",
-    "record_sha256": "1f18118a2a2ebda194a39d783485f4a7cab4ae9cc0931f0f569ca05614ee7309"
+    "record_sha256": "3cae01df449417ba1b96e8489d5e3e2de69135a13a8269fe8cc5fb28c433c7c5"
 }

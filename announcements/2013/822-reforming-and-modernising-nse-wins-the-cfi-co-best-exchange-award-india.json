@@ -12,8 +12,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-823\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/nseLogo.gif\" alt=\"nseLogo\" width=\"300\" height=\"92\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The Mumbai based National Stock Exchange prevailed over some worthy competition to win the CFI.co Best Stock Exchange Award, India, 2013.</strong></p>\r\n<p style=\"text-align: justify;\">The NSE – and indeed Mumbai as a whole - accounts for a major chunk of India’s total trade in shares. The CFI.co Judging Panel specifically pointed to the exchange’s full and firm commitment to transparency and its continuous quest for improvements in the efficient delivery of its many services.</p>\r\n<p style=\"text-align: justify;\">In the mid-1990s, the National Stock Exchange played a major role in reforming the Indian securities market. The CFI.co judges remarked on the ease with which investors in all corners of India may access the exchange’s services. The judges also pointed out that the NSE’s Nifty Fifty index has become an indispensable tool for investors considering the subcontinent. The NSE provides a fine model for today’s global securities industry.</p>",
     "content_sha256": "c97a55597a4b65bc590e99652e914816186fa3905f4beb4c86cfccce72fe96c3",
-    "record_sha256": "5e8bdd60beac7136931fdeaba552f866fc859c169c5f3bc765847623b19401ab"
+    "record_sha256": "58952afc5a3dcde00baa06ea3c6b97a18b525088fcd11742e50603bda19b84e6"
 }

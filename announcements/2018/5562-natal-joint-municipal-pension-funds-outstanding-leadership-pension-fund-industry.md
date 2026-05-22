@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:13:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/natal-joint-municipal-pension-funds-outstanding-leadership-pension-fund-industry-south-africa-2018/"
 categories: ["Africa", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a29636e6d805e7cecd0c647e60242c8a7e7cc90319c64bb5906297e852c6bae6
 canonical: 5562-natal-joint-municipal-pension-funds-outstanding-leadership-pension-fund-industry.json
 ---

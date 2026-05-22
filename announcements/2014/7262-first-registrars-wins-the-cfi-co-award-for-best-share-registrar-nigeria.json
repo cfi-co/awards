@@ -11,8 +11,21 @@
         "Africa",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-7263\" src=\"https://cfi.co/awards/wp-content/uploads/2020/02/First-Registrars.jpg\" alt=\"First Registrars\" width=\"149\" height=\"169\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel has named First Registrars Nigeria Limited, one of 25 registration companies in the country, as winner of the 2014 award for ‘Best Share Registrar, Nigeria.’</strong></p>\r\n<p style=\"text-align: justify;\">According to the panel, ‘First Registrars certainly has the edge with its highly experienced team and very strong products and services. Customer care at First is exemplary. Formerly a wholly owned subsidiary of First Bank of Nigeria Plc, good corporate governance is a key focus of operations here and our winner offers an outstanding share/bond register administration service. First is indeed a very worthy winner of this award’.</p>",
     "content_sha256": "583419925e87132e57f4fc38787fa4df900d1a269a8159e7355261e9ffc94a42",
-    "record_sha256": "3a02bb5f2c8211cf9b13ffbf130fd338197d7a50bd5d5748a825d503d5282747"
+    "record_sha256": "e48d66dd6c889dbdd1582e52e02fb5e7aa40f029a56fb8e299517c34bf25323f"
 }

@@ -7,6 +7,15 @@ published_gmt: 2018-03-24 12:16:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/lembaga-tabung-haji-th-best-diversified-sharia-compliant-services-leadership-asia-pacific-2017/"
 categories: ["Asia Pacific", "Islamic Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 274e4e77eee3e3f58dddc3770616e0f4f74f59719854a524fa961cc9899e088f
 canonical: 5417-lembaga-tabung-haji-th-best-diversified-sharia-compliant-services-leadership-asi.json
 ---

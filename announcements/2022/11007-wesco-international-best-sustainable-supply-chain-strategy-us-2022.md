@@ -7,6 +7,15 @@ published_gmt: 2022-12-19 20:01:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2022/wesco-international-best-sustainable-supply-chain-strategy-us-2022/"
 categories: ["Best Practice", "Industries", "North America", "Sustainability", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7719db746577c3191f6bf811ff81464a8d3408ffaa97779a077f74a3cf5f6ae
 canonical: 11007-wesco-international-best-sustainable-supply-chain-strategy-us-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-03-11 15:40:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/pictet-best-thematic-investing-solutions-global-2018/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd150ee990e07ebec8a2f7bd2ecda4385c0dd6469cc4bc9516ff701f95f78867
 canonical: 6561-pictet-best-thematic-investing-solutions-global-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-01-24 10:15:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2025/oceanic-investment-management-excellence-in-sustainable-maritime-and-energy-sector-investments-2024/"
 categories: ["Best Practice", "Development", "Finance", "Industries", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 96e92ef957312a52ad76265f7eba62945f0d37dc27152083ddf119ca0e41d392
 canonical: 12802-oceanic-investment-management-excellence-in-sustainable-maritime-and-energy-sect.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2015-07-20 10:03:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2015/payment-express-ltd-best-card-payment-services-provider-mauritius-2015/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d6c42c47fe68cdca0542b540a4f93feb75dbb882d44a6d4228c260ade27f0910
 canonical: 4159-payment-express-ltd-best-card-payment-services-provider-mauritius-2015.json
 ---

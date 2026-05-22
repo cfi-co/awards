@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:39:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/shanti-hospitality-group-best-hospitality-investment-portfolio-global-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d2ec156aec5f6be41ac1ed58b8ca04c4706d2dc8ef4a2a5ef3ca2339586ef290
 canonical: 9169-shanti-hospitality-group-best-hospitality-investment-portfolio-global-2021.json
 ---

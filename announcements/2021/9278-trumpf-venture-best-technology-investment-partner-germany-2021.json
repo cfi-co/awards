@@ -12,8 +12,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-medium wp-image-7825\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/TRUMPF-300x300.jpg\" alt=\"TRUMPF\" width=\"300\" height=\"300\" />\r\n<p style=\"text-align: justify;\">As a business in the vanguard of the Fourth Industrial Revolution, TRUMPF Venture is constantly monitoring global developments in areas like Al, the Internet of Things and robotics, seeking to identify disruptive new players in whom to invest or to promote, thus contributing with more than capital to the table. But as industry moves into a new age of inter-connectivity, criminal elements are keeping pace with technological advances. Cyberattacks are costing global business more than $300b every year, and those involved in illicit activity are becoming ever more sophisticated — which is why in 2021 TRUMPF Venture is investing in a new generation of cyber security businesses. TRUMPF Venture is the corporate investment arm of the giant German industrial machine manufacturer, the family owned TRUMPF Group, which began life as a metal-working machine shop in Stuttgart in 1923. Today, from its base in Ditzingen, southern Germany, it's a global leader in industrial tools, lasers and electronics, and runs subsidiaries across the world, with production facilities in the USA, UK, Europe, China and Japan. In January 2021, TRUMPF Venture announced significant Investments in two cyber security businesses; the US-based CYR3CON and L7 Defense of Israel. Both companies are involved in ground-breaking developments, taking the fight to the cyber criminals, undermining their operations, and predicting vulnerabilities in targeted businesses. Dieter Kraft, MD of TRUMPF Venture, says: \"Both Investments underpin our strong belief that cyber security is critical for industrial solutions to provide appropriate resilience facing increasing cyber-attacks.\" In 2021, for the second year running, the judging panel is pleased to present TRUMPF Venture with the award, Best Technology Investment Partner Germany.</p>",
     "content_sha256": "1cd0a1b6e3fb2d4aa778d7ea17fd3620116e2feea7bfc66e7f938c787b14137c",
-    "record_sha256": "0892b57aebb0f351d99410f6b8f0877d2312f258f3b3293a6a04004d8df01d08"
+    "record_sha256": "af816844c32547d2bb934d9aaf9b9d6c50df66dcf8baa83e82c43e8470ae4867"
 }

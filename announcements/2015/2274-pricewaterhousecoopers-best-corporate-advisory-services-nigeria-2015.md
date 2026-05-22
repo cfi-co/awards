@@ -7,6 +7,15 @@ published_gmt: 2015-06-09 10:14:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/pricewaterhousecoopers-best-corporate-advisory-services-nigeria-2015/"
 categories: ["Accounting", "Africa", "Consultancies", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ac227ce9b6125b0bf1b0190422cbbe8d5d6a7a37ca4ce3bda7f312272879f9d
 canonical: 2274-pricewaterhousecoopers-best-corporate-advisory-services-nigeria-2015.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 12:20:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/banchile-inversiones-best-institutional-investment-services-chile-2019/"
 categories: ["Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e8f497b29bf90f1484599e9afb368e034976500af53734ff8d5ac1c4febc43c8
 canonical: 7693-banchile-inversiones-best-institutional-investment-services-chile-2019.json
 ---

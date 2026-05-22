@@ -7,6 +7,15 @@ published_gmt: 2013-06-10 15:36:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/corporate-commercial-team-award-in-india/"
 categories: ["Asia Pacific", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 938e9db89231da4dca8333476d514daba31caaf2802df375df7b975d5a5481c6
 canonical: 549-corporate-commercial-team-award-in-india.json
 ---

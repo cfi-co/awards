@@ -7,6 +7,15 @@ published_gmt: 2018-08-30 14:09:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/provincia-fondos-best-fixed-income-fund-manager-argentina-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24ec8ad0c2aac1cd8d47ac4a89b96a87d76026c8afbbdc23d063201a14e68ab1
 canonical: 5932-provincia-fondos-best-fixed-income-fund-manager-argentina-2018.json
 ---

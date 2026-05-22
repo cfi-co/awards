@@ -7,6 +7,15 @@ published_gmt: 2021-04-21 15:06:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/cura-senectus-investment-best-asset-manager-liechtenstein-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd0a86399c5d99e8b2c965c70fcdf3ee276b75f90e8cf4e5c23cfc1042579925
 canonical: 9060-cura-senectus-investment-best-asset-manager-liechtenstein-2020.json
 ---

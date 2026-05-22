@@ -7,6 +7,15 @@ published_gmt: 2021-03-30 14:07:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/pwc-middle-east-best-business-tax-services-provider-middle-east-2021/"
 categories: ["Accounting", "Consultancies", "Finance", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f1b16c84a500aaca18fff49e3de78c6eae22ae03ae4af93d5336a5601268771
 canonical: 8995-pwc-middle-east-best-business-tax-services-provider-middle-east-2021.json
 ---

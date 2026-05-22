@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 10:39:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/herbert-smith-freehills-best-capital-markets-team-australia-2016/"
 categories: ["Asia Pacific", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c3bbfd57ba3f2208ae43fb80cc43e6dc699340aa19bab6264c698eb43e7e689
 canonical: 4496-herbert-smith-freehills-best-capital-markets-team-australia-2016.json
 ---

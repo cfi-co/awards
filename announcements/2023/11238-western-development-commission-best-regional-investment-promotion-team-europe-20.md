@@ -7,6 +7,15 @@ published_gmt: 2023-03-15 15:01:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2023/western-development-commission-best-regional-investment-promotion-team-europe-2022/"
 categories: ["Development", "Europe", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d918a7dbbf28eee98b72d01cef1ceaeab40e66c015fafe19de45b47b68f9497
 canonical: 11238-western-development-commission-best-regional-investment-promotion-team-europe-20.json
 ---

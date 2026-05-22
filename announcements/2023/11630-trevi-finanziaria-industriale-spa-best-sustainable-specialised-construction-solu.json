@@ -14,8 +14,21 @@
         "Projects",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-11631 size-full\" title=\"Trevi-Finanziaria Industriale\" src=\"https://cfi.co/awards/wp-content/uploads/2023/07/TREVI-jpg.webp\" alt=\"Trevi-Finanziaria Industriale\" width=\"500\" height=\"83\" />\r\n<p style=\"text-align: justify;\">Milan-listed construction specialist Trevi-Finanziaria Industriale Spa harnesses 66 years of experience, a workforce of more than 3,000 employees and a well-established presence in 41 countries to build a more sustainable future —together. The Trevi Group has become a global construction leader driven by two complementary divisions: Trevi, which focuses on infrastructure projects, and Soilmec, which specialises in the design and manufacture of machinery, systems and services for underground engineering. Both divisions have established well-funded R&amp;D centres to accelerate environmental-oriented advancements in soil engineering. At the end of 2022, the Trevi Group announced a three-year <a href=\"https://cfi.co/category/sustainability/\">sustainability</a> plan outlined with strategic, step-by-step commitments in the areas of climate change, workplace safety, digital transition, IT data security and corporate social responsibility certifications. It collaborates with a wide group of stakeholders, from regulatory authorities, government agencies and trade associations to customers, business partners and investors. It is striving to achieve groupwide reductions in greenhouse gas emissions via a decarbonisation strategy that seeks to curb industry dependence on fossil fuels through ESG-driven action and technological innovation. Fair and transparent supply chain policies require similar sustainability commitments from partners. The Group has been trusted to deliver across major infrastructure and cultural projects worldwide, including work on the new World Trade Centre in New York, the Leaning Tower of Pisa, the <a href=\"https://www.trevispa.com/en/projects/main-projects/ertan-dam\" target=\"_blank\" rel=\"noopener\">Ertan Dam</a> in China, the Mosul Dam Rehabilitation in Iraq and the on going Neom project in Saudi Arabia. The CFI.co judging panel announces Trevi-Finanziaria Industriale Spa as the 2023 award winner for Best Sustainable Specialised Construction Solutions (Italy).</p>",
     "content_sha256": "cf5f017df4811ac551534db4dd1d5d3b0fe965f58121adaa84f41cbfa34f7226",
-    "record_sha256": "788f0aee554478d508713f974fe5b4d23fb744e969ed410ced28f51716d2961d"
+    "record_sha256": "19dbee807c1c5b27224e2b2af7ed98b2ce2644a49aa7de1f0c268f8a0638d6da"
 }

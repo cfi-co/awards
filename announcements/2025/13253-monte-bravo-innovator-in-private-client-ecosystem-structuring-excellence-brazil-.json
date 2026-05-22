@@ -11,8 +11,21 @@
         "Latin America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13255\" src=\"https://cfi.co/awards/wp-content/uploads/2025/12/montebravo.jpg\" alt=\"montebravo\" width=\"600\" height=\"76\" />\r\n<p style=\"text-align: justify;\">Monte Bravo earns recognition for redefining Brazil’s private-client landscape through an ecosystem that prioritises independence, transparency, and client-centric advice in a market long dominated by commission-based models. The company distinguishes itself by transitioning from a financial advisory firm into a full-service platform incorporating a broker-dealer, family office capabilities, wealth planning, succession and tax structuring, investment banking access, and corporate solutions. This evolution enables it to deliver elevated service standards across a four-tier segmentation model, ensuring that retail, advisory, affluent, and private clients receive tailored support. Monte Bravo’s commitment to transforming industry culture is most evident in its leadership of the fee-based advisory movement, where it has already converted 30percent of its client base and aims to reach 50percent next year, demonstrating momentum in shifting incentives towards long-term value creation. Client satisfaction metrics validate this direction, with ENPS scores reaching 95percent for private clients and 73percent for retail clients—exceptional results in the Brazilian market. The firm invests in advisor development, leveraging global expertise, enhanced data intelligence, and AI-supported processes to elevate advisory quality. Its partnerships with corporate education providers and training programmes reinforce a disciplined focus on client experience excellence. By importing global best practice and adapting it to local realities, Monte Bravo consistently positions itself as a catalyst for structural modernisation across Brazil’s wealth-management sector. The Capital Finance International (CFI.co) Judging Panel congratulates Monte Bravo on winning the 2025 Innovator in Private Client Ecosystem Structuring Excellence Award (Brazil).</p>",
     "content_sha256": "9e89d654dec62f672d789a0d8a220c067fc5920bba6c48214a8eaf15b2d78c08",
-    "record_sha256": "0c343c0cb754581bb3ac2cfd2177381c726141590a8f0401a249b5e1eb6d2ec0"
+    "record_sha256": "c80794d5644e84048c50275da1be1107852a985672a5bb21ae3cf5d9d3066db6"
 }

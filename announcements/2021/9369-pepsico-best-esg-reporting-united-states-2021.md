@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:44:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/pepsico-best-esg-reporting-united-states-2021/"
 categories: ["Industries", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50a163c12b52e4eb51925b76b8459a36b53077c88d5de00b0a0ed80504dc0834
 canonical: 9369-pepsico-best-esg-reporting-united-states-2021.json
 ---

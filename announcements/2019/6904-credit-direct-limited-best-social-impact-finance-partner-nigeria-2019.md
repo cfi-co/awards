@@ -7,6 +7,15 @@ published_gmt: 2019-09-02 11:48:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/credit-direct-limited-best-social-impact-finance-partner-nigeria-2019/"
 categories: ["Africa", "CSR", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ce987d78a55c686d77e544fb6b8c8018a5c7ca31eedc8d2ed17a7c9bb631588
 canonical: 6904-credit-direct-limited-best-social-impact-finance-partner-nigeria-2019.json
 ---

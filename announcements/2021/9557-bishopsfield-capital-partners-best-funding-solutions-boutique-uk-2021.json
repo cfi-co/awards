@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9855\" src=\"https://cfi.co/awards/wp-content/uploads/2021/09/Bishopsfield-Capita-Partners.jpg\" alt=\"Bishopsfield Capital Partners\" width=\"640\" height=\"444\" />\r\n<p style=\"text-align: justify;\">Bishopsfield Capital Partners is led by a management team with over two decades of experience in lending, structuring, and arranging funding solutions. The London-based boutique is known for its astute decision-making — and for delivering on its promises. It has attracted a loyal client base and has a steady flow of repeat business. Bishopsfield encourages staff to think like entrepreneurs, putting clients first and focusing on quality service. It works with financial institutions, large and medium-sized corporations, and institutional investors across Western Europe, providing monitoring, surveillance and advisory services. Bishopsfield develops non-traditional solutions for financial products that it judges ripe for disruption. It draws on its expertise in structuring and arranging to offer implementation advice and operational support. Bishopsfield Capital Partners recently partnered with Dutch bank ABN AMRO to launch a digital financing platform, Aymz. It went live in July and has a number  of institutional investors signed up to the platform and keen to fund promising projects. The digital platform connects medium-sized companies with reputable institutional lenders, providing a source of capital for corporate loans with a borrowing requirement of €5m to €30m. The lending objective for the first year is modest, but by 2023, the partnership hopes to achieve an annual production of €350m plus. The CFI.co judging panel presents Bishopsfield Capital Partners  as the winner of the 2021 award for Best Funding Solutions Boutique (UK).</p>",
     "content_sha256": "1cdb7afdd10617b370c565544e08bf7ad78bf249a3f7b891252cdc3d30506ddf",
-    "record_sha256": "bc5095b3c54932a2a40511fe32290e0068ef1bd83d4d6770b4c29fe63f44cb85"
+    "record_sha256": "0f84af24c53eb9bb21aa613c6b2b312e1c7910c03692e1a8d6fb290e251aa87d"
 }

@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:58:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/mineworkers-provident-fund-best-pension-fund-transparency-south-africa-2017/"
 categories: ["Africa", "Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca407214b88b37a4f30de9375df20432ef9b8f1546af79bb3ae080b226615795
 canonical: 4732-mineworkers-provident-fund-best-pension-fund-transparency-south-africa-2017.json
 ---

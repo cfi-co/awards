@@ -7,6 +7,15 @@ published_gmt: 2013-11-10 09:48:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2013/metlife-150-years-of-service-in-the-united-states-and-winner-of-the-cfi-insurance-award-2013/"
 categories: ["North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99c3b41c6436fb30f1d8509ecc8b580ac65c2413f12953e958c5bdb21d16e03b
 canonical: 924-metlife-150-years-of-service-in-the-united-states-and-winner-of-the-cfi-insuranc.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 14:43:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/credicorp-capital-best-mila-capital-markets-team-2016/"
 categories: ["Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a3afe035eb7f2ba2aa02932e8ebab7a52693d9d02ce819bd24dfdc3af9e5407c
 canonical: 4448-credicorp-capital-best-mila-capital-markets-team-2016.json
 ---

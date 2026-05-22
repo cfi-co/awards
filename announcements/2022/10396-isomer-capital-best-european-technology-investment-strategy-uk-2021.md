@@ -7,6 +7,15 @@ published_gmt: 2022-05-13 06:57:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/isomer-capital-best-european-technology-investment-strategy-uk-2021/"
 categories: ["Europe", "Finance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 859ce02227862ae0daffa7446cdede7ff7311e2b844ae517e65e24462d1dd6e8
 canonical: 10396-isomer-capital-best-european-technology-investment-strategy-uk-2021.json
 ---

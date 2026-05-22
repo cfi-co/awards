@@ -7,6 +7,15 @@ published_gmt: 2021-11-16 11:43:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/cicero-shades-of-green-outstanding-contribution-to-green-finance-transparency-global-2021/"
 categories: ["Best Practice", "Consultancies", "Europe", "Finance", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 317f9a448ba0c21c5651dabd04b2108dd484ddefab905e0775168dfee82c1c54
 canonical: 9830-cicero-shades-of-green-outstanding-contribution-to-green-finance-transparency-gl.json
 ---

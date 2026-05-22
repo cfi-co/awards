@@ -7,6 +7,15 @@ published_gmt: 2022-07-01 15:18:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/consultancies/2022/eden-mccallum-best-management-consultancy-team-europe-2022/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e66f5466aa80d1b1a4188af015bcc3b980d18b40d221ad4cc09a0a6c19121561
 canonical: 10579-eden-mccallum-best-management-consultancy-team-europe-2022.json
 ---

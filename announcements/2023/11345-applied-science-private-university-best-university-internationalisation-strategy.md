@@ -7,6 +7,15 @@ published_gmt: 2023-04-18 11:15:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2023/applied-science-private-university-best-university-internationalisation-strategy-middle-east-2023/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1850d0dfa96a2d24ebdf2633ef07de7ea149e746838857da48ab12af38e4d93d
 canonical: 11345-applied-science-private-university-best-university-internationalisation-strategy.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2014-08-13 14:47:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2014/old-mutual-best-community-engagement-programme-south-africa-2014/"
 categories: ["Africa", "Banking", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49f3f636b3264f7b8a4bfa71375b39250f27707c1b60ae78241108fe760a51a8
 canonical: 1317-old-mutual-best-community-engagement-programme-south-africa-2014.json
 ---

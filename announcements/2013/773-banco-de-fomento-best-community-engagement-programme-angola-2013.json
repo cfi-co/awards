@@ -11,8 +11,21 @@
         "Africa",
         "Community Engagement"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel has no hesitation in recognising the community engagement programme set up and managed by the Banco de Fomento Angola SA’s as best in the country.</strong></p>\r\n<p style=\"text-align: justify;\"><img class=\"alignright size-full wp-image-774\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/bfa.jpg\" alt=\"bfa\" width=\"103\" height=\"45\" />The panel was delighted with the results of the bank’s Social Fund which generated an impressive $25 million for worthy causes. The bank underwrote its social initiative by donating 5% of its operating profit to the fund over a period of five years.</p>\r\n<p style=\"text-align: justify;\">The fund is sharply focussed on furthering education, healthcare and social solidarity. Partnering with USAid, the Social Fund has implemented a sizeable electrification project,  worked to provide better access to clean water in disadvantaged neighbourhoods and assisted with ambulance services.</p>\r\n<p style=\"text-align: justify;\">An MBA programme sponsored by the Social Fund brings together students from lusophone countries such as Angola, Portugal and Brazil. This year – to cite just one of a great many ad hoc examples of community spirit – the fund provided a community of orphans with an agricultural vehicle to improve their lot. This gift, and others handed out by the Social Fund, are affecting many lives and raise both the hopes and aspirations of peoples at risk of being left behind as Angola moves forward with its development.</p>",
     "content_sha256": "979e7bfbd2add4d06f4f18e0edd63361c1486b30ed8329e5f89d9659941305e2",
-    "record_sha256": "8811a5558c7da4c65e1f6b00216e299b10db333053bf87cfb44e3f5d65565594"
+    "record_sha256": "b9f3b88c3fda43efc16dad53a21fd26afad8ac34825e5f36531676a4c690d9e3"
 }

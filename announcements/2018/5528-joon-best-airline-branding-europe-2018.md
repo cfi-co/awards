@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:11:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/joon-best-airline-branding-europe-2018/"
 categories: ["Europe", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc204eba075e5b738a6a10ae2575999467edd01a9363d61937287d0f5564c43e
 canonical: 5528-joon-best-airline-branding-europe-2018.json
 ---

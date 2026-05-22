@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:07:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/l-catterton-europe-best-consumer-growth-investor-europe-2021/"
 categories: ["Europe", "Industries", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc9ba447bb40f7d6619c69a9d01263557da96f7f3f194af2fe205eb90821fef2
 canonical: 10119-l-catterton-europe-best-consumer-growth-investor-europe-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-06-28 18:32:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2022/affirmative-investment-management-aim-best-social-impact-investment-manager-uk-2022/"
 categories: ["Asset Management", "Best Practice", "CSR", "Community Engagement", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 643bb050e4c6817d93d6c02cfce9f6ed10aed049bec793ac2417478397e5522b
 canonical: 10568-affirmative-investment-management-aim-best-social-impact-investment-manager-uk-2.json
 ---

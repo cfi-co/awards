@@ -7,6 +7,15 @@ published_gmt: 2024-12-03 09:23:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/berenberg-best-strategic-asset-allocation-asset-liability-management-team-germany-2024/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2463ffd5c1e40a6bbfe5d62dcffd027fad85499d738e63c1a1b98e37cb3b94c0
 canonical: 12730-berenberg-best-strategic-asset-allocation-asset-liability-management-team-german.json
 ---

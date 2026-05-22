@@ -7,6 +7,15 @@ published_gmt: 2020-08-21 09:19:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/federated-hermes-best-integrated-esg-investment-solutions-global-2020/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4203a60ca6d0bf5f2e3438c21924635900642db5346507e79ba723f98ba7e46
 canonical: 8150-federated-hermes-best-integrated-esg-investment-solutions-global-2020.json
 ---

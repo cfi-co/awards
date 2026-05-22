@@ -7,6 +7,15 @@ published_gmt: 2019-04-06 12:57:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/first-forte-consultancy-best-regional-business-development-services-uae-2019/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 07e2dccbf2612ab61b3b0fac53547f9f68dd6b8e82ad5627d5de2f514e176fc6
 canonical: 6615-first-forte-consultancy-best-regional-business-development-services-uae-2019.json
 ---

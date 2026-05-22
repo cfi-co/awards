@@ -7,6 +7,15 @@ published_gmt: 2019-12-05 17:09:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2019/the-washington-post-most-innovative-news-outlet-global-2019/"
 categories: ["North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5643016bb476f74e5c7e5d02c3ac22927853c4ad142d11c07681a85fe9d5b5b
 canonical: 7020-the-washington-post-most-innovative-news-outlet-global-2019.json
 ---

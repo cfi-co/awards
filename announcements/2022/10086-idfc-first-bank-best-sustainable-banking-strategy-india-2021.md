@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:22:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/idfc-first-bank-best-sustainable-banking-strategy-india-2021/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c761ad956cdf7962ec330432a1355dd38958a69bce607a137862ddefa3d50031
 canonical: 10086-idfc-first-bank-best-sustainable-banking-strategy-india-2021.json
 ---

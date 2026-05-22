@@ -7,6 +7,15 @@ published_gmt: 2019-12-13 13:21:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/kommunalkredit-austria-ag-best-esg-infrastructure-finance-europe-2019/"
 categories: ["Europe", "Finance", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca81444f0c2ba0d74dedded2f89a11ef1fc8a62cf1d2125a5477ccc24f84b194
 canonical: 7044-kommunalkredit-austria-ag-best-esg-infrastructure-finance-europe-2019.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-04-27 10:43:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/liechtensteinische-landesbank-best-private-bank-liechtenstein-2022/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fe38563baf7423f35fe3ac96f6ed59b1d07d479bed6a3dd11cf9a647e99fb33b
 canonical: 10349-liechtensteinische-landesbank-best-private-bank-liechtenstein-2022.json
 ---

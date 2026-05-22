@@ -7,6 +7,15 @@ published_gmt: 2017-09-29 14:22:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/corporate-leadership/2017/biomatrix-water-best-ecological-water-solutions-leadership-united-kingdom-2017/"
 categories: ["Corporate Leadership"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 473a365c0a9f49631dce333da5a30bbde8aa19174f94d1defd338cd120748e36
 canonical: 4840-biomatrix-water-best-ecological-water-solutions-leadership-united-kingdom-2017.json
 ---

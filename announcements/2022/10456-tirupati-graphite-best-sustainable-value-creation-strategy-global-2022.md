@@ -7,6 +7,15 @@ published_gmt: 2022-05-17 05:59:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/tirupati-graphite-best-sustainable-value-creation-strategy-global-2022/"
 categories: ["Best Practice", "Development", "Europe", "Industries", "Mining", "Projects", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f68e7093dec7bfd580f7dd54cc53785967ce236251375cc182ba5e5c69afd0f
 canonical: 10456-tirupati-graphite-best-sustainable-value-creation-strategy-global-2022.json
 ---

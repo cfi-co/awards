@@ -7,6 +7,15 @@ published_gmt: 2020-06-22 07:12:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2020/gn-audio-best-intelligent-audio-solutions-europe-2020/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 61f717990ac780340fe69ac539378d6affda5425df2e51fb912bdaa92ff5c8d3
 canonical: 7489-gn-audio-best-intelligent-audio-solutions-europe-2020.json
 ---

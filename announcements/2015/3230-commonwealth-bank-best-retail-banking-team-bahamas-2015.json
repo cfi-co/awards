@@ -11,8 +11,21 @@
         "Banking",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3232\" src=\"https://cfi.co/awards/wp-content/uploads/2015/05/CB.jpg\" alt=\"CB\" width=\"220\" height=\"145\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A financial partner to the working Bahamian since its foundation in 1960, Commonwealth Bank has become a cornerstone of the island nation’s economy. Now a household name, Commonwealth Bank dominates the retail market with a broad palette of services geared towards fulfilling the needs of the country’s strong middle class – working people who need no-frills, efficient, and convenient financial services to underpin their upward social mobility and with it the fortunes of the entire nation.</strong></p>\r\n<p style=\"text-align: justify;\">Initially a small consumer finance company and a subsidiary of the Canadian Laurentide Financial Corporation, Commonwealth Bank underwent a number of changes driven by the expansion of its operations. In 1984, a group of Bahamian investors took control of the company and broadened the scope of its products and services, transforming the small savings and loans institution into a full service bank catering to both private individuals and businesses. Sixteen years later, in 2000, Commonwealth Bank obtained a listing on the Bahamas International Securities Exchange with a significantly oversubscribed IPO.</p>\r\n<p style=\"text-align: justify;\">A leader in personal banking services and widely recognised for its excellence, Commonwealth Bank also actively supports and underwrites a growing number of social initiatives aimed at improving the lives of all Bahamians. Corporate social responsibility (CSR) is ingrained in the bank’s corporate DNA.</p>\r\n<p style=\"text-align: justify;\">Already one of the most prosperous markets of the Caribbean, the Bahamas economy has managed to grow steadily on the twin pillars of tourism and banking. Commonwealth Bank has benefitted from the sustained growth of the local economy and has now embarked on a carefully traced trajectory towards further diversification. Investing in both people and high-end systems, Commonwealth Bank has kept its place at the forefront of the Bahamian financial services industry by constantly upgrading and optimising its performance.\r\nThe CFI.co judging panel appreciates the success a smaller bank may attain by sticking to its founding principles while embracing modern technology and canvassing the market with the right product mix. The judges have no doubt in proclaiming Commonwealth Bank the winner of the 2015 Best Retail Banking Team Bahamas 2015 Award.</p>",
     "content_sha256": "7223e29450365c95005e14f22854271a78680ac875e67da6a5baa190da520398",
-    "record_sha256": "93284eeab0b34b45f172bc96ad3ec07f41d57e517b141df4301f43836b14d846"
+    "record_sha256": "08d98f508d8be503cb6e3e035bb9b40893d52e2b262e834d35bbbcd582a2c683"
 }

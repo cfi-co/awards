@@ -10,8 +10,21 @@
     "categories": [
         "Real Estate"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4695\" src=\"https://cfi.co/awards/wp-content/uploads/2017/08/DarSaada.jpg\" alt=\"\" width=\"439\" height=\"194\" />\r\n<p style=\"text-align: justify;\"><strong>Convinced that social housing and build quality should go hand in hand, Moroccan real estate developer Residences Dar Saada (RDS) – owner of the Espaces Saada brand – boasts no less than forty years of experience in the property market. RDS corporate footprint covers the entire country with projects delivered to all major cities – totalling over 32,000 homes, representing a 12% of the social housing market.</strong></p>\r\n<p style=\"text-align: justify;\">The company has pioneered a number of innovations such as the community-within-a-city design concept that forms the foundation of new undertakings and prioritises social cohesion, ensuring that the Espaces Saada formula dovetails with local requirements and custom.</p>\r\n<p style=\"text-align: justify;\">RDS has caught the eye of investors who eagerly subscribe to the company’s bonds. In 2011, two international funds looking for long-term profitability, and three big local investors, entrusted the company with $90m to boost its ability to seize opportunities resulting from the country’s solid economic performance. Going public in 2014, RDS’ highly anticipated IPO was 3.5 times oversubscribed and raised over $100m in cash.</p>\r\n<p style=\"text-align: justify;\">Run by a young, energetic, and highly capable management team, RDS has made a name for its corporate dynamics which are rooted in a solid business case. Determined to innovate the real estate sector, and deliver projects that meet environmental, social, and governance (ESG) standards, RDS underpins its enduring success by embracing sustainability principles. The CFI.co judging panel is pleased to name Residences Dar Saada winner of the 2017 Best Real Estate Developer Morocco Award.</p>",
     "content_sha256": "224d8bb0eba51c3c1c521170bab8931a5c8bf0116a0cf008fe15a79665e777eb",
-    "record_sha256": "f24c069c4b5cc8161de80e350140e23b1cb4638a1dcbc168cee1f1264d060043"
+    "record_sha256": "a1f9f0ebf63271ffb5392d518814c8b5a88603fc5a3d9fc5571febbe4151adb6"
 }

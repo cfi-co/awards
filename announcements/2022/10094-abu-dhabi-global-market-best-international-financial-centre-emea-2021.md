@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:27:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/abu-dhabi-global-market-best-international-financial-centre-emea-2021/"
 categories: ["Finance", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4ebc149cf9b7d90e59a49839e886b8c963e72ee4c323f04d7e47db298ed5a70
 canonical: 10094-abu-dhabi-global-market-best-international-financial-centre-emea-2021.json
 ---

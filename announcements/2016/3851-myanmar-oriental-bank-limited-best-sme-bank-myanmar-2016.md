@@ -7,6 +7,15 @@ published_gmt: 2016-10-20 11:48:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/myanmar-oriental-bank-limited-best-sme-bank-myanmar-2016/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6dab5b0e8607c363a01f2cc180c7347b55b8ae5ea7b3081337af1380c04d0c88
 canonical: 3851-myanmar-oriental-bank-limited-best-sme-bank-myanmar-2016.json
 ---

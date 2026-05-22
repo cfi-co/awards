@@ -7,6 +7,15 @@ published_gmt: 2018-08-01 14:07:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/edreams-odigeo-best-online-travel-partner-global-2018/"
 categories: ["Customer Satisfaction", "Europe", "Industries", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ff5e8377afa19f43ccd728a49e7cf4d4eaea92c95e6a72b8a62dcca9388d11e
 canonical: 5845-edreams-odigeo-best-online-travel-partner-global-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 13:58:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2018/banco-procredit-best-green-bank-ecuador-2017/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b64ab1876a9aee205e944b87b1108bf92967f956104a3e62848700d6049067e3
 canonical: 5174-banco-procredit-best-green-bank-ecuador-2017.json
 ---

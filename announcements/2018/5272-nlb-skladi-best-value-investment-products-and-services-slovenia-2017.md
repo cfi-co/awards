@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/nlb-skladi-best-value-investment-products-and-services-slovenia-2017/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 93f8c0e78037553f49515a3ec36dc7f05f6eacceb32c22fc95c0d47965eafe49
 canonical: 5272-nlb-skladi-best-value-investment-products-and-services-slovenia-2017.json
 ---

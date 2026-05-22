@@ -7,6 +7,15 @@ published_gmt: 2020-01-12 12:34:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/sg-finans-most-innovative-climate-impact-sme-finance-scandinavia-2019/"
 categories: ["Best Practice", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f7eaf65d03c0d931aec4c4d6e8a4938584694f3055bbb54a104fbe774b65fa43
 canonical: 7105-sg-finans-most-innovative-climate-impact-sme-finance-scandinavia-2019.json
 ---

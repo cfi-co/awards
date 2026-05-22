@@ -13,8 +13,21 @@
         "Finance",
         "Real Estate"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12442\" src=\"https://cfi.co/awards/wp-content/uploads/2024/06/Square-jpg.webp\" alt=\"Square\" width=\"300\" height=\"359\" />\r\n<p style=\"text-align: justify;\">Headquartered in Lisbon, Square Asset Management has created an enviable track record over its 18 years of conducting business, and with 1.9bn Euros under management, now accounts for 13 percent of its domestic market share. Our winner is the largest real estate fund asset manager in Portugal and manages the biggest Iberian real estate open-ended investment fund. According to the judging panel, “Because Square’s flagship fund, CA Património Crescente has never reported a negative return since its establishment, and has an outstanding team of 70 top professionals, this manager has been relentlessly recognised as a leader in its industry and has the awards to prove it.” CEO Pedro Coelho has many years of relevant real estate experience and espouses the values of independency, reliability and professionalism. Many of the major Portuguese and international corporates rely on Square, and benefit significantly because of these cherished values. Smaller investors are welcome in our conservative and low-volatility approach towards investments. Looking forward, Square wants to grow its business in Spain and is seeking out a distributor in that country. The panel goes on to say, “A partnership of this kind with Square is likely to be highly productive for the fund manager’s Spanish counterpart, because of this winner’s outstanding achievements and consistent, well-deserved reputation for excellence.” The panel expects to see more great results coming from Square Asset Management S.A and, without hesitation, confirms the 2024 award Best Real Estate Fund Manager (Iberia).</p>",
     "content_sha256": "09c07d7a237434f39107e159ff41c05314dd4fabc091cb49babedeec23fc863a",
-    "record_sha256": "e5f8fdf413ed6ac42aca4e650fdeccb0ea68f613691336fd034387af09e3c2cc"
+    "record_sha256": "0868f4d5d3f92e7dc097acb4add54bda537829fec66a573559d28a3c4d7e2e33"
 }

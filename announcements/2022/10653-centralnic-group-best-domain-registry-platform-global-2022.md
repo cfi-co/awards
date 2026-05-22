@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:07:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/centralnic-group-best-domain-registry-platform-global-2022/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9ba149b035ead0da2a0a85b08f0f86cb414b03096e0bca44ac607d0a0d6a62d9
 canonical: 10653-centralnic-group-best-domain-registry-platform-global-2022.json
 ---

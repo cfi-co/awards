@@ -7,6 +7,15 @@ published_gmt: 2019-12-03 18:49:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2019/jp-morgan-best-csr-banking-united-states-2019/"
 categories: ["Banking", "Best Practice", "CSR", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e0940bd02bb85d86aab0202c33d7b6a029f15fe51753a812b0b098572647519
 canonical: 6998-jp-morgan-best-csr-banking-united-states-2019.json
 ---

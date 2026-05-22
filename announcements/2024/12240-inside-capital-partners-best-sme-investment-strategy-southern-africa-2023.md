@@ -7,6 +7,15 @@ published_gmt: 2024-01-16 09:25:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/inside-capital-partners-best-sme-investment-strategy-southern-africa-2023/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1d02c53810b9465f87e904408bc2d2d47dcd23f44553b5a02ac91513ed977c66
 canonical: 12240-inside-capital-partners-best-sme-investment-strategy-southern-africa-2023.json
 ---

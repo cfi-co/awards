@@ -12,8 +12,21 @@
         "Corporate Governance",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"  wp-image-421 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/calPERS.jpg\" alt=\"calPERS\" width=\"216\" height=\"156\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>CalPERS stands out as an example of the highest level of corporate governance and wins the 2013 award in the United States.</strong></p>\r\n<p style=\"text-align: justify;\">CalPERS provides retirement and health benefits to some 1.6 million public sector employees and retirees in California and the Company is responsible for nearly $250 billion in funds. Not only are CalPERS’s internal standards exemplary they are also provide a driving force domestically and internationally in improving levels of corporate governance. Sharing their expertise in effective governance with companies it which it invests, the CalPERS hands on approach to investment is helping to ensure that shareholder and all other stakeholder benefits are maximised.</p>",
     "content_sha256": "a77207087025bc0dd5bf8d5868be286378f4273ff104429a98cfe49d4d9d1af3",
-    "record_sha256": "ba6d5fd601ba1b0bef0b0201a9159cb534080187420c03f1f0cb1350cbb463e1"
+    "record_sha256": "fff290a0a4fbde3eb12ba3ad6dce13569b502e8991525470f45b05a6de155ad3"
 }

@@ -7,6 +7,15 @@ published_gmt: 2015-09-15 11:56:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/umeme-best-esg-power-producer-uganda-2015/"
 categories: ["Africa", "Best Practice", "CSR", "Corporate Governance", "Industries", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c401779739072677d1c11d9c032b859797d2b288855e69c31b228bccc57de2af
 canonical: 4784-umeme-best-esg-power-producer-uganda-2015.json
 ---

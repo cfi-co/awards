@@ -7,6 +7,15 @@ published_gmt: 2021-10-11 15:01:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/the-foschini-group-tfg-best-retail-experience-south-africa-2021/"
 categories: ["Africa"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 078abfb58b88ed309f8449d6a1d01ab1ad7884306eee51a86677c6f597f2da4c
 canonical: 9630-the-foschini-group-tfg-best-retail-experience-south-africa-2021.json
 ---

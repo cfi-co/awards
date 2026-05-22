@@ -7,6 +7,15 @@ published_gmt: 2015-01-03 12:11:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/africa-re-african-reinsurance-corporation-best-reinsurance-company-africa-2014/"
 categories: ["Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 805c180317f48a6c9342f365f7fa788698947e3d3b187950bdbe6500badd2be4
 canonical: 8245-africa-re-african-reinsurance-corporation-best-reinsurance-company-africa-2014.json
 ---

@@ -16,8 +16,21 @@
         "Middle East",
         "Projects"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13050\" src=\"https://cfi.co/awards/wp-content/uploads/2025/07/AAAIDD.jpg\" alt=\"AAAID\" width=\"500\" height=\"338\" />\r\n<p style=\"text-align: justify;\"><strong>Founded in 1976, the Arab Authority for Agricultural Investment &amp; Development (AAAID) is a pioneering institution advancing food security and sustainable economic diversification across the Arab region. Headquartered in Dubai, United Arab Emirates, AAAID holds total assets of approximately USD 815 million as of the end of 2024, with equity in 45 companies and projects across 12 Arab countries.</strong></p>\r\n<p style=\"text-align: justify;\">AAAID plays a vital role in advancing agricultural development and contributing to food security and the achievement of the Sustainable Development Goals (SDGs). It focuses on cultivating strategic crops and producing essential food commodities, while implementing inclusive programs that empower smallholder farmers, supporting working female, and strengthen rural communities.</p>\r\n<p style=\"text-align: justify;\">By applying innovative approaches and offering consultancy and feasibility studies, AAAID unlocks new agricultural investment opportunities. Its companies generate over 107,000 jobs, underscoring its socio-economic impact.</p>\r\n<p style=\"text-align: justify;\">With investments spanning the GCC, Egypt, Iraq, Syria, Tunisia, Morocco, and Mauritania, AAAID continues to explore opportunities that enhance food security, self-sufficiency, and resilient supply chains. The authority believes food security requires both investment and regional cooperation, driving initiatives and studies that guide decision-makers.</p>\r\n<p style=\"text-align: justify;\">The Capital Finance International (CFI.co) judging panel congratulates AAAID on winning the 2025 award for Outstanding Contribution to Economic Diversification (MEA).</p>",
     "content_sha256": "7a68a595d1f45126370bda51c8dc5cafa4de13727e668381c1d5f17773367d2f",
-    "record_sha256": "7a1c908e80ad8940dc2840aa4d2c828bec4a554e97b00e4a8354ae1879682a38"
+    "record_sha256": "c0648766b0c54a5307c03b96a3255534d7e58fb7f64cec90c694690fe595e4b6"
 }

@@ -7,6 +7,15 @@ published_gmt: 2018-09-10 13:15:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2018/aviva-best-insurtech-responsible-value-creation-global-2018/"
 categories: ["Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d522ba184a5538d5ee9874d203628f1610c476070404a97098c3ad22c4fe1c6
 canonical: 6034-aviva-best-insurtech-responsible-value-creation-global-2018.json
 ---

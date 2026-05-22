@@ -7,6 +7,15 @@ published_gmt: 2014-06-09 11:08:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/bayer-best-supply-chain-management-team-europe-2014/"
 categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 055c49cb1b65fbd124333c6b3cf5080b626620d5ea214a4e01ef181cda39b2db
 canonical: 2267-bayer-best-supply-chain-management-team-europe-2014.json
 ---

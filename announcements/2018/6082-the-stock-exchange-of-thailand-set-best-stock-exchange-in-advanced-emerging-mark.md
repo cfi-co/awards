@@ -7,6 +7,15 @@ published_gmt: 2018-10-09 11:08:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2018/the-stock-exchange-of-thailand-set-best-stock-exchange-in-advanced-emerging-markets-2018/"
 categories: ["Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28d9c0a564ac0dfe43af3f2f289151858e3f9227149bc2352bdfa1902fda75e4
 canonical: 6082-the-stock-exchange-of-thailand-set-best-stock-exchange-in-advanced-emerging-mark.json
 ---

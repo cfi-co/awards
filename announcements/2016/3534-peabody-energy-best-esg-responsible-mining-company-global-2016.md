@@ -7,6 +7,15 @@ published_gmt: 2016-10-17 15:28:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/peabody-energy-best-esg-responsible-mining-company-global-2016/"
 categories: ["Industries", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d84a35bcc63a02b99c62b72e53aaa4366a3ed4891d46c0cbaae259e72b9bcc6
 canonical: 3534-peabody-energy-best-esg-responsible-mining-company-global-2016.json
 ---

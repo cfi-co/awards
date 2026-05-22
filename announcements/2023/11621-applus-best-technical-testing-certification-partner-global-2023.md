@@ -7,6 +7,15 @@ published_gmt: 2023-07-06 14:00:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/applus-best-technical-testing-certification-partner-global-2023/"
 categories: ["Europe", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d36fd570c6dac2ebd5c9227b7eacea33c26f54cc9e3ceff8a1f910956ffdfe66
 canonical: 11621-applus-best-technical-testing-certification-partner-global-2023.json
 ---

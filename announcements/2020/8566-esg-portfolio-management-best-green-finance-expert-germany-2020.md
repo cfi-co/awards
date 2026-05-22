@@ -7,6 +7,15 @@ published_gmt: 2020-12-15 06:00:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/esg-portfolio-management-best-green-finance-expert-germany-2020/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: acd66fd5d8a4a61ad15ba356635f468b2fefa60f6c4c37730b14729ef298ca14
 canonical: 8566-esg-portfolio-management-best-green-finance-expert-germany-2020.json
 ---

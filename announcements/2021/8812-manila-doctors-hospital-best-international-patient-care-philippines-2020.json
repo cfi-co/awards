@@ -10,8 +10,21 @@
     "categories": [
         "Asia Pacific"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8813\" src=\"https://cfi.co/awards/wp-content/uploads/2021/02/Manila-Doctors-Hospital.png\" alt=\"Manila Doctors Hospital\" width=\"500\" height=\"232\" />\r\n<p style=\"text-align: justify;\">Manila Doctors Hospital (MDH) was founded in 1956 and has grown into a leading holistic healthcare centre. It has received international recognition for its commitment to patient care, investment in technology and strong accreditation history. MDH has several RovingMed vans as part of its CARES (convenient, affordable, reliable and efficient services) programme. It facilitates at-home patient care with services ranging from lab work and electrocardiogram to vaccinations and  Covid-19 testing. MDH has also introduced telemedicine diagnostics for those who are housebound. It has for years been advocating for the rights of deaf people, and it has been recognized by the International Hospital Federation (IHF) for providing video and Filipino Sign Language (FSL) telemedicine services and continuous consultations throughout the pandemic. MDH has invested heavily to ensure that high safety standards are maintained despite extraordinary challenges. It has dedicated separate floors and areas for Covid-19 cases and follows strict protocols to keep patients segregated and spaces sterilized. MDH is the hospital of choice for Manila-based embassies. It takes pride in the caliber of its medical staff and specialists, with a cardiovascular centre, an oncology unit and a wellness hub. The hospital runs an extensive training programme with 131 residents currently enrolled. It is also known for the Corporate Social Responsibility (CSR) work which aims to create positive impacts for community and environment. The CFI.co judging panel congratulates Manila Doctors Hospital on winning the 2020 award for Best International Patient Care (Philippines).</p>",
     "content_sha256": "b7a07d53db97718173981c0bcd69a604062bf0345fc1a41b1c61c4769085e1d4",
-    "record_sha256": "8f382eddb2e4898863c2e4409adeab4cb05d045aebc8213216bea0e97583dc66"
+    "record_sha256": "63872ac0dde7f0a7e126c4224591c07331b9403e51701e6a8615e6e7c4042c73"
 }

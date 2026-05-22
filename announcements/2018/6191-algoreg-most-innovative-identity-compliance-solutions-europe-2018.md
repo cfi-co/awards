@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 14:54:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2018/algoreg-most-innovative-identity-compliance-solutions-europe-2018/"
 categories: ["Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dddca544b5a8c3368726a654247f864494bc1076166bf0ceffbaea49a687c471
 canonical: 6191-algoreg-most-innovative-identity-compliance-solutions-europe-2018.json
 ---

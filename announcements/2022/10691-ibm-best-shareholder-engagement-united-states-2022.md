@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:30:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2022/ibm-best-shareholder-engagement-united-states-2022/"
 categories: ["Best Practice", "Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 42124087aef8e314521a1238a1cde402a63d168bec48782c5eacb40c25861504
 canonical: 10691-ibm-best-shareholder-engagement-united-states-2022.json
 ---

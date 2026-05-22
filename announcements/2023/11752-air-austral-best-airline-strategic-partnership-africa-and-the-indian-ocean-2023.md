@@ -7,6 +7,15 @@ published_gmt: 2023-08-09 09:21:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2023/air-austral-best-airline-strategic-partnership-africa-and-the-indian-ocean-2023/"
 categories: ["Africa", "Asia Pacific", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4866a997be10bda456522543c213f2cb758fc0d8f0e3e382de855ee74f603dc0
 canonical: 11752-air-austral-best-airline-strategic-partnership-africa-and-the-indian-ocean-2023.json
 ---

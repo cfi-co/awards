@@ -7,6 +7,15 @@ published_gmt: 2022-04-05 16:21:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/kpmg-lower-gulf-limited-best-financial-advisory-team-gcc-2022/"
 categories: ["Consultancies", "Finance", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a2e9582c70b66feadfe9df51fe83027c1dc656f67b74a232f56a4446d13ea6a3
 canonical: 10301-kpmg-lower-gulf-limited-best-financial-advisory-team-gcc-2022.json
 ---

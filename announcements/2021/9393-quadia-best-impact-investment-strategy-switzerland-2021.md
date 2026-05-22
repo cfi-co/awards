@@ -7,6 +7,15 @@ published_gmt: 2021-07-22 09:58:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/quadia-best-impact-investment-strategy-switzerland-2021/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a8f3666d74bcb1e8c5b84251b9377bbab56147ff343438f68e7165ee903ee0d3
 canonical: 9393-quadia-best-impact-investment-strategy-switzerland-2021.json
 ---

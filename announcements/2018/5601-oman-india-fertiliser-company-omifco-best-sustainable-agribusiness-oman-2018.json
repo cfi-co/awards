@@ -11,8 +11,21 @@
         "Industries",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5694\" src=\"https://cfi.co/awards/wp-content/uploads/2018/05/OMIFCO-1.jpg\" alt=\"\" width=\"400\" height=\"190\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>The Sultanate of Oman has made great strides in improving its food security. The Oman National Food Security Strategy aims to ensure that by 2040 – barely two decades away – the country has attained self-sufficiency in food. That goal is now well within reach as Omani farmers and businesses bring the desert alive with state-of-the-art technology – weaving an intricate web of producers, processors, logistics, and research that is to transform the sultanate into the regional bread basket.</strong></p>\r\n<p style=\"text-align: justify;\">At the base of this formidable agricultural edifice stands the Oman India Fertiliser Company (OMIFCO), set up by the governments of the two countries to underwrite the sustained push towards full food security. The company operates a world class fertiliser plant with two production lines each for anhydrous ammonia and granular urea. Since the start of operations in 2005, the $1bn facility has continuously been operating at full capacity.</p>\r\n<p style=\"text-align: justify;\">OMIFCO is an early-adopter of corporate social responsibility policies that involve the wider community and ensure the interests of all stakeholders are represented at board level. The company maintains a number of initiatives that encourage entrepreneurship, environmental stewardship, and skills development and lifelong learning. Under OMIFCO’s Entrepreneurship Programme, small business owners may access a wide range of educational resources that allows them to unlock growth and “Scale Up to Success”.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends OMIFCO on its proactive pursuit of sustainable business practices. The company not only helps secure an abundant supply of cheap, nutritious, and high-quality food, it also goes above and beyond to help forge an even better future. The judges are pleased to offer the Oman India Fertiliser Company the 2018 Best Sustainable Agribusiness Oman Award.</p>",
     "content_sha256": "f5a692170c3c05a33aa0e24aa7187002496f0a46934237ddc56c1bbe608e08ea",
-    "record_sha256": "3dff99ce106f5d96b579905efc6f61aef892b5c41574e441df6e07babac0f7cc"
+    "record_sha256": "c54e2fd8ff534f66a5ecd20256c50447c68e0678546c594db0b39d332f4bf889"
 }

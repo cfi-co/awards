@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:02:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/ioannides-demetriou-best-commercial-corporate-legal-team-cyprus-2017/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28beed54b13082381cc112b3dd5628af93ee0b1745d52bfce960c5f3c8e06f69
 canonical: 4882-ioannides-demetriou-best-commercial-corporate-legal-team-cyprus-2017.json
 ---

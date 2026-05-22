@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"></p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2164\" src=\"https://cfi.co/awards/wp-content/uploads/2015/04/oam.jpg\" alt=\"oam\" width=\"323\" height=\"151\" /></p>\r\n<p style=\"text-align: justify;\"><strong>According to the CFI.co Judging Panel, ‘Optimum Asset Management provides shrewd property investment and associated advisory services that are impressive and truly comprehensive. </strong></p>\r\n<p style=\"text-align: justify;\">This means finding the appropriate property and then offering intelligent services across the entire maintenance and management spectrum.</p>\r\n<p style=\"text-align: justify;\">This vertical integration of the asset management and property/facility management is a unique trait of the Optimum platform. Our winner shows a very real concern for quality at all times and throughout its operations.  We are very pleased to note the outstanding achievements of Optimum and are delighted to confirm the award of ‘Best Property Portfolio Management Team, Germany, 2014’.</p>",
     "content_sha256": "3171cf45e0706211847fa1287bfe3512330df08aaed7b26f9acbc8f704b968fb",
-    "record_sha256": "e956b6598d1a1153dd769022550765c6088bf948bbaa36e0b96342ab7bf0bdd2"
+    "record_sha256": "e92c36f180f8220f280c20779991334c4263539ba978449eabfe3bf53dc60d93"
 }

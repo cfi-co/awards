@@ -7,6 +7,15 @@ published_gmt: 2016-08-19 15:09:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/delta-electronics-best-esg-executive-team-emea-2016/"
 categories: ["Asia Pacific", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 568ccf396a04c072bf71f2dfa8532676883e6aaf5396b6daa23b34df0af887f2
 canonical: 3403-delta-electronics-best-esg-executive-team-emea-2016.json
 ---

@@ -14,8 +14,21 @@
         "Industries",
         "Mining"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8632\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/EAM.jpg\" alt=\"EAM\" width=\"400\" height=\"185\" />\r\n<p style=\"text-align: justify;\">Legend has it that EAM’s Adyabo gold project sits on the site of the legendary mines of King Solomon, and EAM management looks to the Arabian-Nubian Shield as a highly prospective region for exploration. Over the past 15 years, Vancouver-based East Africa Metals (EAM) has made significant prospecting discoveries in Tanzania and Ethiopia. EAM founder and CEO Andrew Smith refers to that moment of discovery as a feeling of spine-tingling excitement. News of a discovery is likely to cause a similar reaction in community stakeholders, considering the profit-sharing scheme established with villages in Tanzania. EAM connects with community leaders at the start of exploration projects to co-create initiatives that address local needs. The company knows the value of corporate social responsibility, and focuses the brunt of its efforts towards reforestation and encouraging women’s education and entrepreneurship. It has built schools and established a co-op for female entrepreneurs, and engages with shareholders to spread the word on the importance of CSR. EAM understands that it is a guest in the countries where it operates, and its committed CSR plan seeks to preserve natural spaces while advancing socio-economic progress. The company has been honoured with a Tanzanian Presidential Citation for contributions made to local communities. The CFI.co judging panel presents East Africa Metals with another honour — the 2020 award for Most Responsible Miner (Africa).</p>",
     "content_sha256": "6e58d2bd319717abf5a43d20e9eea64d19afd3d3375bae85fa22ec2f823efb5a",
-    "record_sha256": "3191c6654c2eb3e5be84a38c96a121b0d687fa7c3e312a922b454cc2afd76334"
+    "record_sha256": "f45b9ddc39d02a7d0116e800af2efd2e7498b35e4a0ef13786d0ee3c4c0a2505"
 }

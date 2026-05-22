@@ -7,6 +7,15 @@ published_gmt: 2026-01-28 07:50:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2026/municipal-pension-plan-excellence-in-public-sector-pension-management-canada-2025/"
 categories: ["Asset Management", "Finance", "Government", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3dce68d92816f5473a5ffdb3d879c03c6c7991eb79637811b247f5ab5cd0f9b4
 canonical: 13292-municipal-pension-plan-excellence-in-public-sector-pension-management-canada-202.json
 ---

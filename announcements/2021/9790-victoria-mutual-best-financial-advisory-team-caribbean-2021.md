@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 14:20:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/victoria-mutual-best-financial-advisory-team-caribbean-2021/"
 categories: ["Consultancies", "Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c665f189a7b6cb843a30fb5583eea21389d80e42b47facd9ebbd667e56e3e6bc
 canonical: 9790-victoria-mutual-best-financial-advisory-team-caribbean-2021.json
 ---

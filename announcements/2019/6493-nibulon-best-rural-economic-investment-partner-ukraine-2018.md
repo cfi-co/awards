@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 17:49:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/nibulon-best-rural-economic-investment-partner-ukraine-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59288ad24201292bff1896f18aebd30ee65ebbfb4456325a64aad67b9bfa1b74
 canonical: 6493-nibulon-best-rural-economic-investment-partner-ukraine-2018.json
 ---

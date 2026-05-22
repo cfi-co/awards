@@ -7,6 +7,15 @@ published_gmt: 2023-04-10 09:27:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2023/abu-dhabi-global-market-best-international-financial-centre-emea-2022/"
 categories: ["Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 157c5bba789bac19c362e6ce98c934e046d95bf9203e57cee9c134e27a187ec1
 canonical: 11297-abu-dhabi-global-market-best-international-financial-centre-emea-2022.json
 ---

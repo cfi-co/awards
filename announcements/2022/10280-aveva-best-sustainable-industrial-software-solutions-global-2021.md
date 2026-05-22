@@ -7,6 +7,15 @@ published_gmt: 2022-03-30 08:58:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/aveva-best-sustainable-industrial-software-solutions-global-2021/"
 categories: ["Europe", "Industries", "Manufacturing", "Oil &amp; Gas", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11af77a66960a000ffe0e2910095a6cb2e7c82635b77297131c1caafb7dc4e3a
 canonical: 10280-aveva-best-sustainable-industrial-software-solutions-global-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:14:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/mashreq-bank-best-smart-retail-bank-middle-east-2020/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11fa3a9644f6c59faca167b9b61ffe31f6c157ed2dc4a3c585f689a18288786e
 canonical: 8099-mashreq-bank-best-smart-retail-bank-middle-east-2020.json
 ---

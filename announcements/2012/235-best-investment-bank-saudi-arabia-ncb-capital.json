@@ -13,8 +13,21 @@
         "Finance",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"  aligncenter wp-image-236\" title=\"ncbc-logo\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/ncbc-logo.jpg\" alt=\"\" width=\"150\" height=\"150\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The judges applauded NCB’s 2011 M&amp;A deal ($500 million) consolidating six construction companies. </strong></p>\r\n<p style=\"text-align: justify;\">This was the largest M&amp;A deal in the region from Saudi Arabia’s biggest asset manager ($11.75 billion). This was the first subsidiary of a Saudi Bank to be licenced by the Capital Market Authority for Investment Management and Asset Management in Saudi Arabia.</p>",
     "content_sha256": "ce285675e4e5604f4d86e2945f6ca2a1e996fa0354bd579adeb15707ca85ac1b",
-    "record_sha256": "a4d71cedd8b41f18d0ec41a85e93df790efcad3bf13fd8991cd00c6b1a996ad9"
+    "record_sha256": "88e9b36d06f38f304ed187ba2501a079b47ae0c513b3d2baf229cb66645a8c05"
 }

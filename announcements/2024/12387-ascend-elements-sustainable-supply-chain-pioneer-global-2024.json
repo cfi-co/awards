@@ -15,8 +15,21 @@
         "Sustainability",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12388\" src=\"https://cfi.co/awards/wp-content/uploads/2024/05/Ascend-jpg.webp\" alt=\"Ascend\" width=\"500\" height=\"93\" />\r\n<p style=\"text-align: justify;\">Ascend Elements is a trailblazer in the battery industry, pivotal to the global energy transition. The company addresses a significant challenge in battery materials production: the high carbon footprint associated with traditional manufacturing methods. Ascend Elements has developed a proprietary technology that transforms spent lithium-ion batteries into engineered cathode materials containing critical metals such as nickel, cobalt, and lithium. This innovation not only reduces the need for mining new resources but also lowers carbon emissions significantly. By efficiently harvesting and reprocessing these materials, Ascend Elements ensures a sustainable supply chain, contributing to a circular economy. The company, headquartered in Massachusetts, has operational facilities in Georgia and Kentucky, with plans to expand into Europe, starting with a facility in Poland. This expansion demonstrates its commitment to global sustainability efforts and its capability to compete with the largest battery material companies worldwide. Ascend Elements’ process is poised to revolutionise the industry by providing a low-cost, environmentally friendly solution for battery production, crucial for the future of electric vehicles and renewable energy storage. The big benefit from its efficient process is the reduction of carbon emissions of battery materials by 49 percent today, with a target of 90 percent by 2030. This significant reduction underlines an innovative approach and environmental responsibility. Furthermore, a focus on creating a circular economy highlights potential for long-term environmental benefits and cost savings, making a lasting impact. The CFI.co Judging Panel congratulates Ascend Elements on winning the 2024 award for Sustainable Supply Chain Pioneer (Global).</p>",
     "content_sha256": "26d857a3a235198d733fe785393494d36af287a61cf415c60ccfe4bdc2249d8d",
-    "record_sha256": "2875da3afad219ce312f2ecb5fe0b4f5365bef2c026d6f378ce320301ee005ff"
+    "record_sha256": "3798608e323f0624e3759925ae4d566c182f79e107dbdf98e86994c56cb21439"
 }

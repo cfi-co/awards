@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:29:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/air-austral-best-airline-strategic-partnership-africa-the-indian-ocean-2022/"
 categories: ["Africa", "Asia Pacific", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01681598b5f7513fde192aeda2d0be333ca3407856f3fc0b1ad831f6a0f3c0eb
 canonical: 10689-air-austral-best-airline-strategic-partnership-africa-the-indian-ocean-2022.json
 ---

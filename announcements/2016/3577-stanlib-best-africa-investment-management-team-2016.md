@@ -7,6 +7,15 @@ published_gmt: 2016-11-14 14:26:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/stanlib-best-africa-investment-management-team-2016/"
 categories: ["Africa", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6228c36018a6764f41e7cc43070a6098250197a7f9b99fa54a63ddca2da61499
 canonical: 3577-stanlib-best-africa-investment-management-team-2016.json
 ---

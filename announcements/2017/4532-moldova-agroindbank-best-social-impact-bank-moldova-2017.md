@@ -7,6 +7,15 @@ published_gmt: 2017-07-03 09:34:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2017/moldova-agroindbank-best-social-impact-bank-moldova-2017/"
 categories: ["Banking", "Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ffa9dadc2033fa17b394c60dd3ac3dae361efd3ed393e8d0f911eb9f77b320a6
 canonical: 4532-moldova-agroindbank-best-social-impact-bank-moldova-2017.json
 ---

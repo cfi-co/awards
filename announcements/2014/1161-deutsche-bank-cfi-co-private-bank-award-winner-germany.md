@@ -7,6 +7,15 @@ published_gmt: 2014-02-10 19:41:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/deutsche-bank-cfi-co-private-bank-award-winner-germany/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a8f8fca3c6d2017446e767944fbda7559644a14e2c5c3831bfd86a15bdd45b9c
 canonical: 1161-deutsche-bank-cfi-co-private-bank-award-winner-germany.json
 ---

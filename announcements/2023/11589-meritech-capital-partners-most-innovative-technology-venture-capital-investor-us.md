@@ -7,6 +7,15 @@ published_gmt: 2023-06-28 07:56:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2023/meritech-capital-partners-most-innovative-technology-venture-capital-investor-us-2023/"
 categories: ["Finance", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4bd8e242f57a16099101846234fb77920861f74c410a825c250c2036e4117be
 canonical: 11589-meritech-capital-partners-most-innovative-technology-venture-capital-investor-us.json
 ---

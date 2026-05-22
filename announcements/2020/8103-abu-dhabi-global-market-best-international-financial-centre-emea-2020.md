@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:16:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/abu-dhabi-global-market-best-international-financial-centre-emea-2020/"
 categories: ["Development", "Finance", "Government", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 24eb56a61e7ec1833dcb0aa45f3d9de7379820085a3e42077b23f4db917db696
 canonical: 8103-abu-dhabi-global-market-best-international-financial-centre-emea-2020.json
 ---

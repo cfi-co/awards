@@ -7,6 +7,15 @@ published_gmt: 2016-10-21 10:16:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2016/world-association-of-investment-promotion-agencies-waipa-outstanding-contribution-to-trade-investment-in-emerging-economies-global-2016/"
 categories: ["Development", "FDI Agencies"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7431aa75ad08a85c07a24a5f3a7146223778d2394685862ced24f1a3fe4c35f
 canonical: 3911-world-association-of-investment-promotion-agencies-waipa-outstanding-contributio.json
 ---

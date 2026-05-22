@@ -7,6 +7,15 @@ published_gmt: 2015-04-22 13:03:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2015/banco-nacional-ultramarino-best-retail-bank-macau-2014/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e14bd02f2bcfa123992e06d50dc766e2413e7bcf466994bc41268d093eb78277
 canonical: 2189-banco-nacional-ultramarino-best-retail-bank-macau-2014.json
 ---

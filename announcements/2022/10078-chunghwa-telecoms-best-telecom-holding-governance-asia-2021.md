@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:19:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/chunghwa-telecoms-best-telecom-holding-governance-asia-2021/"
 categories: ["Asia Pacific", "Best Practice", "Corporate Governance", "Industries", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dd7f018a55c50de74fb5d8ba020e2019b4de313e3cfbaa4f8e4b01fc5701a3c7
 canonical: 10078-chunghwa-telecoms-best-telecom-holding-governance-asia-2021.json
 ---

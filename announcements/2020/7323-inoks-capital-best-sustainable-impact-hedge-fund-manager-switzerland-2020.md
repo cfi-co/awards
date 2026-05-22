@@ -7,6 +7,15 @@ published_gmt: 2020-05-06 12:53:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/inoks-capital-best-sustainable-impact-hedge-fund-manager-switzerland-2020/"
 categories: ["Asset Management", "Best Practice", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e8bfd5beadd80937d84ea824781e13216d8851f036d82f466ddb12ed50d940ec
 canonical: 7323-inoks-capital-best-sustainable-impact-hedge-fund-manager-switzerland-2020.json
 ---

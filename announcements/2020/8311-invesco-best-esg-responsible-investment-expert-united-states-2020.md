@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 13:56:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/invesco-best-esg-responsible-investment-expert-united-states-2020/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Finance", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f8070d216df2203c42f4a5d74828eaa73c6418a4bc48c14db7e5c84d69086e5
 canonical: 8311-invesco-best-esg-responsible-investment-expert-united-states-2020.json
 ---

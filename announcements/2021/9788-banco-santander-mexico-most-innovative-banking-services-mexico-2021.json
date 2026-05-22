@@ -11,8 +11,21 @@
         "Banking",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-1322\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/s.jpg\" alt=\"Santander\" width=\"456\" height=\"110\" />\r\n<p style=\"text-align: justify;\">Banco Santander Mexico has an 89-year history, 19 million customers, 25,500 employees and 1,300 branches. It forms part of the global Santander network that has provided €33.8bn in green finance since 2019 — and invested €408m in communities, universities and social programmes in 2020. Banco Santander Mexico has achieved 13 percent return on tangible equity and €387m in underlying attributable profit. Over the past five years, the bank has made significant investments in digitalisation — and more than five million customers rely on its digital financial services. Clients can explore Santander Mexico’s digital investment offering and earn up to two percent cashback by transferring funds from another bank. Onboarding is simple and straightforward, with a low starting minimum of five thousand pesos ($247). CETEs, or Mexican Federal Treasury Certificates, are available in various term limits and the same minimal buy-in. CEDES (fixed-term deposit certificates) offer attractive returns and monthly interest. These deposits are protected (currently to a maximum of some $135,000) by an inflation-linked public insurance scheme. Banco Santander Mexico offers innovative fund solutions using technology and quantitative models to build dynamic portfolios that adjust to market conditions. Its debt-plus fund (STERMXN) invests in American debt, converted to pesos, while its reward fund (RCOMP) offers complete capital protection. The CFI.co judging panel applauds the group’s commitment to ensure growth remains inclusive and sustainable, and presents Banco Santander Mexico the 2021 award for Most Innovative Banking Services (Mexico).</p>",
     "content_sha256": "70bb64d33e18a9bc48ff01a5951e92e8394ce611850146cc6c94de8b2468637c",
-    "record_sha256": "04553b1eca77e59cd8e6c5da0a7c695941560b876b914693eac304f3c073f17a"
+    "record_sha256": "b504287edb7fb302e6910285b8839d0358357b0fb331c8c5f56049647afb7e3c"
 }

@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 10:03:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2017/yapi-kredi-leasing-best-energy-savings-finance-turkey-2017/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfef3807d7db4a382d3d29dfbd57ee6d1907e488e182981c514d0091c0d00473
 canonical: 4215-yapi-kredi-leasing-best-energy-savings-finance-turkey-2017.json
 ---

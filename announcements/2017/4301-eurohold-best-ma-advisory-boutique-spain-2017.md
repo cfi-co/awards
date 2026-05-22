@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 12:57:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2017/eurohold-best-ma-advisory-boutique-spain-2017/"
 categories: ["Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d6e4d4e3615b5f625d9d6a73148dac7eda049c0af51ab6e196eb829d3dabb9a5
 canonical: 4301-eurohold-best-ma-advisory-boutique-spain-2017.json
 ---

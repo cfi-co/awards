@@ -7,6 +7,15 @@ published_gmt: 2026-04-08 14:50:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2026/corporacion-zona-franca-santiago-wins-triple-honour-at-the-2026-cfi-co-awards/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Development", "FDI Agencies", "Government", "Industries", "Latin America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dd2ecef9929286990a4f7d91d123187d8612ac202d4aa912b019976f713b18ba
 canonical: 13380-corporacion-zona-franca-santiago-wins-triple-honour-at-the-2026-cfi-co-awards.json
 ---

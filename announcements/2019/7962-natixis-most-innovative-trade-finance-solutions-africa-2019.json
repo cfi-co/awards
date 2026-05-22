@@ -12,8 +12,21 @@
         "Asset Management",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7963\" src=\"https://cfi.co/awards/wp-content/uploads/2020/07/Natixis.jpg\" alt=\"Natixis\" width=\"400\" height=\"95\" />\r\n<p style=\"text-align: justify;\">Natixis is a French multinational financial services firm specialized in asset &amp; wealth management, corporate &amp; investment banking, insurance and payments. It designs customised solutions to help clients fulfil their ambitions and realise projects worldwide. The company boasts a workforce of some 16,000 employees in 38 countries across Americas, Asia-Pacific, Europe, the Middle East and Africa. A subsidiary of Groupe BPCE, the second-largest banking group in France, Natixis leverages its resources, talents and energy to serve the long-term interest of its clients: corporations, financial institutions, sovereign and supranational organizations, and the customers of Groupe BPCE’s networks. Natixis trade solutions facilitate clients’ import and export activities, and its secure banking service for international transactions affords clients peace-of-mind. In 2018, Natixis acted as the sole arranger and agent for a successful tender — a trade finance facility of $415m — between commodity trader Trafigura and EPSE, the state-owned Ethiopian Petroleum Supply Enterprise monopoly in charge of importing refined petroleum products. The innovative method of securing commodity receivables unlocked new funding sources for traders and investors, regionally and internationally. As an early adopter of digitalisation, Natixis partnered with IBM and Trafigura to modernise practices and workflows of the global crude oil trade using blockchain, yielding a platform with enhanced transparency, security, and efficiency. The CFI.co judging panel was unanimous: Natixis is the winner of the 2019 award for Most Innovative Trade Finance Solutions (Africa).</p>",
     "content_sha256": "e22ca9bd736b8e2872a5c896c015414da2951798667594e44d9592ce64455375",
-    "record_sha256": "6467046189b94d27fa97c931bb3a345a3fdd6283a3df041b6f03c5105cc00696"
+    "record_sha256": "d296e16821538366af5f442c20b39f481ae01460fa91d2db71b5f52179de277b"
 }

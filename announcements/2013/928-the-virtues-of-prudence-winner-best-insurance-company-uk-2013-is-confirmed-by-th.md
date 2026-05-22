@@ -7,6 +7,15 @@ published_gmt: 2013-11-05 15:53:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/the-virtues-of-prudence-winner-best-insurance-company-uk-2013-is-confirmed-by-the-panel/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f989e2a244a493463e4a047d345483a4d76fc69a3b0fea662900a57f2b55aa1b
 canonical: 928-the-virtues-of-prudence-winner-best-insurance-company-uk-2013-is-confirmed-by-th.json
 ---

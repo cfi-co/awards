@@ -7,6 +7,15 @@ published_gmt: 2021-09-17 11:29:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/brompton-asset-management-best-asset-allocation-strategy-uk-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 93f5f49f40651952433f6f1a4c6e5e0c55e233e93b9181368be3e258b19937d0
 canonical: 9593-brompton-asset-management-best-asset-allocation-strategy-uk-2021.json
 ---

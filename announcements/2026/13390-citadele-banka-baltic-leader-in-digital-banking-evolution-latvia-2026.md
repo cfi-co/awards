@@ -7,6 +7,15 @@ published_gmt: 2026-04-22 09:13:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2026/citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026/"
 categories: ["Banking", "Corporate Leadership", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30297a247d9ce8a6e61b39dacbc9fdde2844199cb58d4ccf393914c07be18728
 canonical: 13390-citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026.json
 ---

@@ -11,8 +11,21 @@
         "Finance",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11021\" src=\"https://cfi.co/awards/wp-content/uploads/2022/12/Argumneto-jpg.webp\" alt=\"Argumento\" width=\"600\" height=\"101\" />\r\n<p style=\"text-align: justify;\">Since its launch in 1999, Argumento has followed a mandate of helping clients make better use of their resources. What started as a small family office has evolved in investment scope and team capacity. The Brazilian firm launched its first fund for public distribution in 2014 — ARG I — which is still delivering respectable returns today. Argumento’s second multimarket fund, ARG HIKE, was presented two years ago. Both funds follow a bottom-up approach regarding positions with a simultaneously top-down perspective over multiple asset classes, including currencies and commodities as well as domestic and foreign interest rates and equities. Argumento credits its aptitude for agricultural commodities — particularly those harvested domestically — to the founding family’s history in the agroindustry. Argumento stakes positions in accordance with thoroughly researched macro views, resulting in small correlation to the Brazilian hedge fund industry. The firm’s disciplined investment process has proven robust throughout economic cycles and geopolitical challenges. It maintains a steady investment pace and focuses on a book of 15 to 20 positions. Hedging mechanisms, arbitrage operations and active derivatives strategies help the firm achieve its objective of absolute long-term gains and profitability above the Interbank Deposit Certificate benchmark. Shareholders appreciate the simplicity and transparency of Argumento’s portfolio management. Over the past five years, the firm has recruited to improve strategist and sales capacity and will continue expanding the team as needed. The CFI.co jury presents Argumento with the 2022 award for Best Multimarket Fund Investment Strategy (Brazil).</p>",
     "content_sha256": "32a398be70ab4b7735ea837f3c8e00e522151ab64e287b9b2c6b1ed80f465198",
-    "record_sha256": "d862fa8557b3947ab0a0f18e165e87dc22708c26cd6611bbea165cc61f82218a"
+    "record_sha256": "0f37f4994cc61da7a0e5ab83fff63473e389df5c186626df6d73d84aaa6feb33"
 }

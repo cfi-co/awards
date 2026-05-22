@@ -7,6 +7,15 @@ published_gmt: 2023-06-19 09:25:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2023/environment-agency-abu-dhabi-best-regional-environmental-agency-mea-2023/"
 categories: ["Best Practice", "Development", "Government", "Industries", "Middle East", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 538435179e99a49ac81ca0e6dd846395a3729c3fd46de859063a5731004be89e
 canonical: 11639-environment-agency-abu-dhabi-best-regional-environmental-agency-mea-2023.json
 ---

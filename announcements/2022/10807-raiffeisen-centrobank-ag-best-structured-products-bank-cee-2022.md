@@ -7,6 +7,15 @@ published_gmt: 2022-10-18 14:21:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/raiffeisen-centrobank-ag-best-structured-products-bank-cee-2022/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b3591133a93aaf2e2d3a58540688665dba1cd1b2e341fca8432a5f5f1c2942bd
 canonical: 10807-raiffeisen-centrobank-ag-best-structured-products-bank-cee-2022.json
 ---

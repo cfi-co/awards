@@ -7,6 +7,15 @@ published_gmt: 2013-12-11 11:49:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/skrill-wins-the-cfi-co-award-for-money-transfer-solutions/"
 categories: ["Europe", "Finance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c4eed71da25cff5449f2c37edacdde89c5c2b051f5fbe5b3b21062dc03aaa7a
 canonical: 1056-skrill-wins-the-cfi-co-award-for-money-transfer-solutions.json
 ---

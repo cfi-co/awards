@@ -7,6 +7,15 @@ published_gmt: 2022-08-17 14:52:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2022/learn-capital-most-innovative-global-edtech-investor-us-2022/"
 categories: ["North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 56d067cd667ca585870e50366a6fb3bf0e5cdef58f36080ec710865f21c8bcd4
 canonical: 10712-learn-capital-most-innovative-global-edtech-investor-us-2022.json
 ---

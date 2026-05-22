@@ -7,6 +7,15 @@ published_gmt: 2017-01-26 12:07:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/arab-investment-company-best-corporate-finance-advisory-team-kuwait-2016/"
 categories: ["Consultancies", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b51ab10078890074f1229addc881700a952683398ed90be5e3d3f571e91bd0da
 canonical: 3779-arab-investment-company-best-corporate-finance-advisory-team-kuwait-2016.json
 ---

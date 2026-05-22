@@ -7,6 +7,15 @@ published_gmt: 2021-05-06 11:25:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/moodys-de-mexico-sa-de-cv-best-risk-analysis-latin-america-2021/"
 categories: ["Finance", "Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75d919a6707bf7bfa08471cbcdfe52d1c8a499bc20d760867ea6c6d3e27eeb62
 canonical: 9109-moodys-de-mexico-sa-de-cv-best-risk-analysis-latin-america-2021.json
 ---

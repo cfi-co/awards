@@ -7,6 +7,15 @@ published_gmt: 2020-02-11 17:33:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/phoenician-funds-best-seed-capital-fund-manager-middle-east-2019/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 120f95448ba954df0362bb94f2d7e05b8296b8b2ef26ae03e148eb06a454e4d8
 canonical: 7251-phoenician-funds-best-seed-capital-fund-manager-middle-east-2019.json
 ---

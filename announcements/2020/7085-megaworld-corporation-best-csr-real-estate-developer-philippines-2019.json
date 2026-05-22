@@ -12,8 +12,21 @@
         "Best Practice",
         "CSR"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-7086 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2020/01/Megaworld.jpg\" alt=\"Megaworld\" width=\"400\" height=\"296\" />\r\n<p style=\"text-align: justify;\">Philippines developer Megaworld Corporation has left its mark on the skyline of Manila – creating high-end properties (both residential and commercial) and earning a reputation for quality, innovation, and productivity. Principles of good corporate governance have been institutionalised throughout the entire organisation. Megaworld pledges to serve all stakeholders and support balanced and beneficial development. Megaworld believes that corporations exist to serve others, and it channels that belief into purposeful action. Founded in 1999, Megaworld Foundation upholds the company’s principles of corporate social responsibility (CSR) through such noble undertakings as poverty alleviation, people empowerment, and environmental conservation. The foundation supports 12 out of 17 United Nations Sustainable Development Goals. Over the past decade, it has awarded 5,800 educational grants, leading to 600 scholars graduating from degree programmes — nearly half with honours. In addition to the scholarship programme, Megaworld supports initiatives that benefit regional communities, and has forged over 270 partnerships in 15 regions. Megaworld Corporation employs over 3,000 people and has been listed on the Philippine Stock Exchange for 25 years. The company reported good returns in 2018, and all signs indicate that 2019 will prove just as profitable. For its strong governance framework and exemplary outreach efforts, the CFI.co judging panel is pleased to present Megaworld Corporation with the 2019 award for Best CSR Real Estate Developer of the Philippines.</p>",
     "content_sha256": "11d240900e6f912e61772c850324b3c7399c1a1e267e18778c9b2331d0ba24d7",
-    "record_sha256": "f07d7ef3c34192ab7f94f3c3acf8107c37013282d4552150c58b29415fdb7952"
+    "record_sha256": "ed6476c7644e4e81e823dcc1c2f1ec866fc0f0f848c28eeab21a941b3be670d0"
 }

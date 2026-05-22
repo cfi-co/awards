@@ -7,6 +7,15 @@ published_gmt: 2021-02-01 16:15:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2018/bny-mellon-best-cash-management-system-global-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 122c06c49696561f22d944d8d507ac48df03d96715cb4155b09975c8f7b50c7a
 canonical: 6353-bny-mellon-best-cash-management-system-global.json
 ---

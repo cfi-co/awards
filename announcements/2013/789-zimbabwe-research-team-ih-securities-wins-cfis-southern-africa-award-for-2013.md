@@ -7,6 +7,15 @@ published_gmt: 2013-09-18 10:19:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/zimbabwe-research-team-ih-securities-wins-cfis-southern-africa-award-for-2013/"
 categories: ["Africa", "Best Practice", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9833b68f989f21de443ab16ef365bbda82a21e5efb32f9bfd4b315e4c15603c9
 canonical: 789-zimbabwe-research-team-ih-securities-wins-cfis-southern-africa-award-for-2013.json
 ---

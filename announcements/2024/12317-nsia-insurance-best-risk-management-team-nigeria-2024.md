@@ -7,6 +7,15 @@ published_gmt: 2024-03-28 13:21:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/nsia-insurance-best-risk-management-team-nigeria-2024/"
 categories: ["Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 685b0a9cc4e7708b403e160bc0d693e5b86c39e0829d9e89bd98c71cf5b55f8f
 canonical: 12317-nsia-insurance-best-risk-management-team-nigeria-2024.json
 ---

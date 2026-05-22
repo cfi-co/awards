@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1304\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/cb.jpg\" alt=\"cb\" width=\"584\" height=\"86\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Commerzbank is a leader in the field and, according to the CFI.co Judging Panel, a very worthy winner of the award 'Best Trade Finance Team, Germany, 2014.'</strong></p>\r\n<p style=\"text-align: justify;\">The full range of trade finance products is available to clients and Commerzbank advisory services are of the very first order in a country that is committed to the most aggressive and efficient export creation. Commerzbank has delivered solid solutions to trade financing in even the most challenging of situations and has in place a very talented and devoted team of relationship managers ready to assist clients.</p>",
     "content_sha256": "008026c0d58c1aeacb2ad19f0ef131dd6b7c4aaa132cdbc2377484782d1d29ac",
-    "record_sha256": "14fa14f636e16005cecc6f46dbfa2fbd760749ea1d8cb6e0bae14d1b7481bfd2"
+    "record_sha256": "105919d0f7ecc32ee85d8295454f784e0f773437818f83b837bc7b08303d7318"
 }

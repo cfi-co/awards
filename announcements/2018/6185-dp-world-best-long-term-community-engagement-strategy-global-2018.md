@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 13:42:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/dp-world-best-long-term-community-engagement-strategy-global-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b6a80f13f4798bb8a3847b202b0c89f961c09cef39b97bdd9cace43cc6b662d0
 canonical: 6185-dp-world-best-long-term-community-engagement-strategy-global-2018.json
 ---

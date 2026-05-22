@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/meeza-best-it-security-gcc-2017/"
 categories: ["Industries", "Middle East", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03af46d0d509cefcf7f5d2b390c88ce82adfb4d10866735eb83ca2db614e61a4
 canonical: 5266-meeza-best-it-security-gcc-2017.json
 ---

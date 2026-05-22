@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 14:26:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2017/banque-leonardo-best-boutique-private-bank-france-2016/"
 categories: ["Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4676578fceea68cc0acb02146690f8efe6099d88d19f5e420ec2432586b86f7a
 canonical: 3992-banque-leonardo-best-boutique-private-bank-france-2016.json
 ---

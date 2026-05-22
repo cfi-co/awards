@@ -7,6 +7,15 @@ published_gmt: 2023-06-06 06:50:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/xm-best-customer-support-global-2023/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03bb578e697e9775ce18ccc995f3b8e7619d4282756a4706d201e200daac2126
 canonical: 11547-xm-best-customer-support-global-2023.json
 ---

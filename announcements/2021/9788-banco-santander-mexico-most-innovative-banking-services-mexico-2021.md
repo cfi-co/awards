@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 14:17:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/banco-santander-mexico-most-innovative-banking-services-mexico-2021/"
 categories: ["Banking", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 70bb64d33e18a9bc48ff01a5951e92e8394ce611850146cc6c94de8b2468637c
 canonical: 9788-banco-santander-mexico-most-innovative-banking-services-mexico-2021.json
 ---

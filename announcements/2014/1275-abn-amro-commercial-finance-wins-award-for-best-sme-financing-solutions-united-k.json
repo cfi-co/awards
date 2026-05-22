@@ -14,8 +14,21 @@
         "Finance",
         "Real Estate"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1276\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/abn.jpg\" alt=\"abn\" width=\"533\" height=\"94\" /></p>\r\n<p style=\"text-align: justify;\"><strong>According to the CFI.co Judging Panel, ‘ABN Amro Commercial Finance, part of the Dutch banking giant, offers an impressive range of products and services to allow SMEs in the UK to move to the next level despite the constraints of a conservative bank lending environment. </strong></p>\r\n<p style=\"text-align: justify;\">ABN’s advisory service to small business is second to none and their factoring and invoice discounting activities have been recognised as exemplary. This organisation understands and responds to the challenges of small business in a robust and imaginative way. This is a very worthy winner of our 2014 award.’</p>",
     "content_sha256": "3ac5032ae8c92f180278bb28fc743ef81e90e2044a51ac46fc5f369da5ce8538",
-    "record_sha256": "63711676b003aaa83434aa483ce222e6074e9ab8f743170b9a36d490db7d5d20"
+    "record_sha256": "ba2a6249d7d49c819d039a5817b88603e08653ba734da60fc789324ad9f79fd2"
 }

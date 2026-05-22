@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 14:07:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/ghana-investment-promotion-centre-best-investment-promotion-agency-africa-2021/"
 categories: ["Africa", "Development", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: def516098af0ac834f98c43de18bfa9a0b378bcf1210df918a7a23238f862c77
 canonical: 9776-ghana-investment-promotion-centre-best-investment-promotion-agency-africa-2021.json
 ---

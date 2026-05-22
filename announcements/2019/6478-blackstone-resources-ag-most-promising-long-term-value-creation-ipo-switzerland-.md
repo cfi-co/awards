@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 16:15:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/blackstone-resources-ag-most-promising-long-term-value-creation-ipo-switzerland-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 68af22f426b1f8d21f53795aaf10b535cae358b31954c85419e9fc970ebe3702
 canonical: 6478-blackstone-resources-ag-most-promising-long-term-value-creation-ipo-switzerland-.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-01-31 17:43:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/qsix-best-residential-property-investor-germany-2021/"
 categories: ["Asset Management", "Development", "Europe", "Finance", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: df9ffe6fe70f84a1e1f6806a0fa1848b9e496d079ebb5544cbf729c027c77ee1
 canonical: 10023-qsix-best-residential-property-investor-germany-2021.json
 ---

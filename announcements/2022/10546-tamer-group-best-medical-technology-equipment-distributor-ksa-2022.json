@@ -12,8 +12,21 @@
         "Middle East",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10547\" src=\"https://cfi.co/awards/wp-content/uploads/2022/06/Tamer-Group.jpg\" alt=\"Tamer Group\" width=\"408\" height=\"600\" />\r\n<p style=\"text-align: justify;\">Over the past century, Tamer Group has solidified a leading position in the Saudi marketplace by focusing on customer centricity, product and solution innovations and community development. It specialises in healthcare, beauty, prestige products, and fast-moving consumer goods and works with prominent global brands via agreements, partnerships and joint ventures. Tamer Group began investing in digital transformation 15 years ago — well ahead of the regional curve. It has developed healthcare platforms that boost connectivity between doctors and pharmacists and blur the lines between buyer and supplier. It’s backing a new company expected to accelerate the ease of at-home patient care. The group has made considerable investments in its latest initiative, Tamer Innovate, to meet rapidly growing demand for IT and consultancy services across the healthcare industry, among others. Tamer Group is committed to improving quality of life in the communities where it operates, particularly for underprivileged segments of the population. It collaborates with community leaders and local non-profits on education campaigns and social initiatives. Tamer measures up according to Stakeholder Capitalism Metrics, as restated in the Davos Manifesto 2020, with 70 percent of basic ESG metrics implemented and a three-year plan to complete the remainder. The group pursues CSR objectives through its SA’AID &amp; the Community programme, which has been supporting women’s empowerment, health education, conservation and workplace wellness for more than a decade. The CFI.co jury declares Tamer Group the Best Medical Technology &amp; Equipment Distributor in the Kingdom of Saudi Arabia (2022).</p>",
     "content_sha256": "8c758c31e283b0538499309029756dc965204f13f79bda65e348aaaf6a97f47e",
-    "record_sha256": "9d3688c7912f907eb8f2e016da16ec029b4a58e54f2941050bfbb823a7455322"
+    "record_sha256": "35903bcb237681adf78a257bae6ea30ca55fee696ce0f002ac23cc8c5830497c"
 }

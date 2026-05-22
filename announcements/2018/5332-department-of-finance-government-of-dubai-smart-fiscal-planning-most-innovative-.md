@@ -7,6 +7,15 @@ published_gmt: 2018-02-20 08:35:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/department-of-finance-government-of-dubai-smart-fiscal-planning-most-innovative-strategic-governance-programme-emea-2017/"
 categories: ["Best Practice", "Corporate Governance", "Development", "Finance", "Government", "Industries", "Middle East", "Projects", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c4c4b22b3b45f8d78b4079fe1838ef7d8378d128472be6bb3b31371431bd3bd
 canonical: 5332-department-of-finance-government-of-dubai-smart-fiscal-planning-most-innovative-.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-07-08 13:15:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/community-engagement/2024/boursa-kuwait-outstanding-contribution-to-female-empowerment-mena-2023/"
 categories: ["Community Engagement", "Exchanges &amp; Brokers", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28c42aa0c6b0f9ea9e2ccf657a2c74ceb665be8e7037c0e2a708411957be3d0f
 canonical: 12467-boursa-kuwait-outstanding-contribution-to-female-empowerment-mena-2023.json
 ---

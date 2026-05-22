@@ -7,6 +7,15 @@ published_gmt: 2020-05-14 09:19:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/total-eren-most-lnnovative-renewable-energy-solutions-global-2020/"
 categories: ["Best Practice", "Europe", "Industries", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9acfda08bb61357bf2a3681b11cb908669101af825f41280187c3c1138b02108
 canonical: 7350-total-eren-most-lnnovative-renewable-energy-solutions-global-2020.json
 ---

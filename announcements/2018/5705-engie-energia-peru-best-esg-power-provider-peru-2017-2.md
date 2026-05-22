@@ -7,6 +7,15 @@ published_gmt: 2018-05-30 09:01:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/engie-energia-peru-best-esg-power-provider-peru-2017/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01ceac87a09574001af78478783470b85f2fab835f9acb5e762a5ac6b32f1d62
 canonical: 5705-engie-energia-peru-best-esg-power-provider-peru-2017-2.json
 ---

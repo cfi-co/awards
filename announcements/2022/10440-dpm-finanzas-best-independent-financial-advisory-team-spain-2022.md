@@ -7,6 +7,15 @@ published_gmt: 2022-05-13 10:51:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/dpm-finanzas-best-independent-financial-advisory-team-spain-2022/"
 categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f6fba3074ddbf098e2ba59187c9254cdac3f1a912fed161e50a8a54b244ea473
 canonical: 10440-dpm-finanzas-best-independent-financial-advisory-team-spain-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-12-05 13:36:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/safari-investments-best-retail-property-investment-management-team-south-africa-2016/"
 categories: ["Africa", "Finance", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ae31168c5d404d3488ae4fc0c26f944520a3fe4404eb92c0c84cb686ec39401
 canonical: 3597-safari-investments-best-retail-property-investment-management-team-south-africa-.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-09-24 13:17:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/reforming-and-modernising-nse-wins-the-cfi-co-best-exchange-award-india/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c97a55597a4b65bc590e99652e914816186fa3905f4beb4c86cfccce72fe96c3
 canonical: 822-reforming-and-modernising-nse-wins-the-cfi-co-best-exchange-award-india.json
 ---

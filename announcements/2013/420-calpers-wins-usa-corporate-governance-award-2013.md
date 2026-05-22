@@ -7,6 +7,15 @@ published_gmt: 2013-04-02 09:00:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2013/calpers-wins-usa-corporate-governance-award-2013/"
 categories: ["Best Practice", "Corporate Governance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a77207087025bc0dd5bf8d5868be286378f4273ff104429a98cfe49d4d9d1af3
 canonical: 420-calpers-wins-usa-corporate-governance-award-2013.json
 ---

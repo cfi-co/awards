@@ -7,6 +7,15 @@ published_gmt: 2016-01-02 10:05:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/hidrovias-do-brasil-best-commodities-logistics-solutions-team-latin-america-2015/"
 categories: ["Industries", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c8524e7c34fec2d43f3ba68639df29d840485fbe3a8c2147c4ba943207597cb8
 canonical: 8061-hidrovias-do-brasil-best-commodities-logistics-solutions-team-latin-america-2015.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:16:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/community-engagement/2020/rainmaker-worldwide-inc-best-community-impact-water-solutions-global-2020/"
 categories: ["Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 77e731103ba54c313e5f73116b4a1b369caa44f5e22ba15b3bee895e51b2a368
 canonical: 7816-rainmaker-worldwide-inc-best-community-impact-water-solutions-global-2020.json
 ---

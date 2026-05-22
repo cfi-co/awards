@@ -12,8 +12,21 @@
         "Corporate Leadership",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-5150\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/BOD.jpg\" alt=\"\" width=\"243\" height=\"243\" />\r\n<p style=\"text-align: justify;\"><strong>With its buoyant economy and an exceptionally enterprising population eager to learn, grow, and prosper Myanmar is quickly becoming yet another Asian Tiger. However thus cub is to be powered and reared by technology. The country is busy building up its network infrastructure and putting into place the backbone that will allow businesses of all sizes to unlock access to both the domestic and global market.</strong></p>\r\n<p style=\"text-align: justify;\">At the leading edge of this wave is BOD Tech, a company designed from the ground up to empower local businesses through technology. The firm, attracting talented young IT professionals and assorted hipsters, is perfectly in tune with the country’s new age of optimism unbound and opportunity aplenty. BOD Tech has dedicated considerable resources to O2O (online-to-offline) and LM (licensing management) platforms for a number of business sectors, including the travel and leisure industry, ecommerce, and food delivery. The firm’s products are designed to help entrepreneurs at the grassroots level such as home business owners. However, BOD Tech’s platforms are fully scalable and, as such, applicable to business of any size.</p>\r\n<p style=\"text-align: justify;\">The firm pioneered cloud-based computing in Myanmar and was the first in the country to offer SaaS (software-as-a-service) which allows corporations, government entities, and social organisations to use their resources more efficiently whilst increasing accessibility.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that Myanmar offers exciting opportunities to IT companies that got in on the ground floor such as BOD Tech and are now fully exposed to the upside. The judges declare BOD Tech winner of the 2017 Best Social Value Creation Technology Leadership Myanmar Award.</p>",
     "content_sha256": "09dbb3da89161a043065bfac3b05259e724de92bdd70b1dab4363bff83e0f997",
-    "record_sha256": "9500a8fc315700ef6827382e6be77dce58249752f781ca70c52af6138da5113c"
+    "record_sha256": "44e9aa8af17e0a1dea6012982b6fecc47216631eb2833a232fd5b658128dd74e"
 }

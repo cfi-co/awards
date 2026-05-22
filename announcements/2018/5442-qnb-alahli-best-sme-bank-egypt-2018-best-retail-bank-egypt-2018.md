@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:23:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/qnb-alahli-best-sme-bank-egypt-2018-best-retail-bank-egypt-2018/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 345d78be2a2d86f92e4b813897ffa8b4f9ffe305a4ccdbcc82465840d53aafa3
 canonical: 5442-qnb-alahli-best-sme-bank-egypt-2018-best-retail-bank-egypt-2018.json
 ---

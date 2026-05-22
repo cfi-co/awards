@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 13:22:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/gvk-bio-best-life-sciences-qhse-leadership-india-2017/"
 categories: ["Asia Pacific", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2eb496de0203c8456a78a22b3aee5fc462d3145b78de111555b69ab2b64e9770
 canonical: 4331-gvk-bio-best-life-sciences-qhse-leadership-india-2017.json
 ---

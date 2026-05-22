@@ -7,6 +7,15 @@ published_gmt: 2021-07-26 12:58:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/mashreq-bank-best-smart-retail-bank-middle-east-2021/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03628665d17b2126f4b799f32e4295fe3d13badea269f247324c46611066b8ee
 canonical: 9398-mashreq-bank-best-smart-retail-bank-middle-east-2021.json
 ---

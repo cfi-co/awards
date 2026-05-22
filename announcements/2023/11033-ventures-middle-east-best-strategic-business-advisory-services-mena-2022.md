@@ -7,6 +7,15 @@ published_gmt: 2023-01-02 14:18:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/consultancies/2023/ventures-middle-east-best-strategic-business-advisory-services-mena-2022/"
 categories: ["Consultancies", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8a30b2796c9e8cb76444897e1049be909d146342cb71c378cbdca8cf674d65d9
 canonical: 11033-ventures-middle-east-best-strategic-business-advisory-services-mena-2022.json
 ---

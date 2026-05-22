@@ -7,6 +7,15 @@ published_gmt: 2021-08-09 16:34:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/wesgro-south-africa-best-international-business-trade-promotion-team-south-africa-2021/"
 categories: ["Africa", "Development", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3556e124305cd115e21f6e57f4faa8b6bec2ed51001c15e208803520e0c4a033
 canonical: 9518-wesgro-south-africa-best-international-business-trade-promotion-team-south-afric.json
 ---

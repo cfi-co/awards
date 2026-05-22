@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:37:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/bvi-finance-best-offshore-financial-services-centre-global-2021/"
 categories: ["Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6e373cd38228f11cee4bb6522b8f586f19186a4ef9c5074cce1bd3a9510e094
 canonical: 10148-bvi-finance-best-offshore-financial-services-centre-global-2021.json
 ---

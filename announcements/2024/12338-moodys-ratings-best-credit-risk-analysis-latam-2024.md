@@ -7,6 +7,15 @@ published_gmt: 2024-04-10 13:16:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2024/moodys-ratings-best-credit-risk-analysis-latam-2024/"
 categories: ["Consultancies", "Finance", "Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83f83d1708bb30f98d249ab39d3488c0d052b6b951ffe1fd6930eb853e3ea29d
 canonical: 12338-moodys-ratings-best-credit-risk-analysis-latam-2024.json
 ---

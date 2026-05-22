@@ -7,6 +7,15 @@ published_gmt: 2019-06-24 11:12:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2019/lockheed-martin-most-innovative-next-gen-technology-solutions-global-2019/"
 categories: ["Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a935a574edaf85ff4f0151ffb92ba9c9634c04f06f60c01098a154ab9df110a1
 canonical: 7660-lockheed-martin-most-innovative-next-gen-technology-solutions-global-2019.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-03-08 10:56:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/sener-best-engineering-corporate-governance-europe-2021/"
 categories: ["Best Practice", "Corporate Governance", "Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2e63c65906df85425e3270bcf3ef2b1d4bbed6bc54bd4c6e8e0949bcc6641523
 canonical: 10221-sener-best-engineering-corporate-governance-europe-2021.json
 ---

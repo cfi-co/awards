@@ -7,6 +7,15 @@ published_gmt: 2017-01-27 10:16:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/rolls-royce-best-luxury-heritage-uk-2016/"
 categories: ["Customer Satisfaction", "Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0e469fad405e9a3aa543907efed78933ec0840b15a591d04f1c1ff9cba9ed2c1
 canonical: 3791-rolls-royce-best-luxury-heritage-uk-2016.json
 ---

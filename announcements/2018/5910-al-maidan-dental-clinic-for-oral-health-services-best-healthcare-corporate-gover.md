@@ -7,6 +7,15 @@ published_gmt: 2018-08-30 11:45:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/al-maidan-dental-clinic-for-oral-health-services-best-healthcare-corporate-governance-kuwait-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec17cb4aca0d763595e2a4cb759cfbf06b786462243fb363ffdad67c5b71b6b5
 canonical: 5910-al-maidan-dental-clinic-for-oral-health-services-best-healthcare-corporate-gover.json
 ---

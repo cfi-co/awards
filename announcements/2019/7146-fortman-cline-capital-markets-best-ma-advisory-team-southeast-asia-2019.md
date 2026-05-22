@@ -7,6 +7,15 @@ published_gmt: 2019-12-14 09:54:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/fortman-cline-capital-markets-best-ma-advisory-team-southeast-asia-2019/"
 categories: ["Asia Pacific", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bdc635991e37d2d28c0a3f4bf9114a7b18372569a57d71b95f73f053579cae1b
 canonical: 7146-fortman-cline-capital-markets-best-ma-advisory-team-southeast-asia-2019.json
 ---

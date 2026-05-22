@@ -7,6 +7,15 @@ published_gmt: 2021-01-26 12:22:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/camarco-best-corporate-communication-advisory-uk-2020/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a200fc3f96e2be320739bb97254e052c1fc9d9df176d197ce037d3f890fd66f9
 canonical: 8655-camarco-best-corporate-communication-advisory-uk-2020.json
 ---

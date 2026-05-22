@@ -7,6 +7,15 @@ published_gmt: 2021-02-19 17:16:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/huddlestock-best-fintech-ipo-nordics-2020/"
 categories: ["Europe", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 92697e4d61a12e0add5415729a93959530c7250bd6048fe99849f210707706ad
 canonical: 8845-huddlestock-best-fintech-ipo-nordics-2020.json
 ---

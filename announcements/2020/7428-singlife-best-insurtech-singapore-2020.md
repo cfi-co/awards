@@ -7,6 +7,15 @@ published_gmt: 2020-06-09 07:15:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/singlife-best-insurtech-singapore-2020/"
 categories: ["Asia Pacific", "Industries", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a8f3d3f4841f3f5d0122bb61e95d19080fd283e8107f0d9de60da2207815f49
 canonical: 7428-singlife-best-insurtech-singapore-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2015-06-09 11:29:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2015/baker-mckenzie-best-islamic-finance-team-bahrain-2015/"
 categories: ["Accounting", "Consultancies", "Finance", "Islamic Banking", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e35d453a40d7489602c2774ec5ba9cc7eb7c3e0207713dd7ade9b17c43c9775a
 canonical: 2286-baker-mckenzie-best-islamic-finance-team-bahrain-2015.json
 ---

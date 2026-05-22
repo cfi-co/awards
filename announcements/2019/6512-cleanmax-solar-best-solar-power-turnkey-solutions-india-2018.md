@@ -7,6 +7,15 @@ published_gmt: 2019-01-22 16:41:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2019/cleanmax-solar-best-solar-power-turnkey-solutions-india-2018/"
 categories: ["Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9136914dc8cca26f7d3102ee76ad7cb2645a0262dd300e41b4a8c2c83d25e26e
 canonical: 6512-cleanmax-solar-best-solar-power-turnkey-solutions-india-2018.json
 ---

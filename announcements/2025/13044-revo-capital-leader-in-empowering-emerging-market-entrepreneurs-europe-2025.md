@@ -7,6 +7,15 @@ published_gmt: 2025-07-28 11:28:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2025/revo-capital-leader-in-empowering-emerging-market-entrepreneurs-europe-2025/"
 categories: ["Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f61eaeaa41053fa791f84f23d6e5dc37ce4d514b73be2cde5e63553e0f87473
 canonical: 13044-revo-capital-leader-in-empowering-emerging-market-entrepreneurs-europe-2025.json
 ---

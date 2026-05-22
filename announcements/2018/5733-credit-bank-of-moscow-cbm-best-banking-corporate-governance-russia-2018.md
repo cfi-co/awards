@@ -7,6 +7,15 @@ published_gmt: 2018-06-27 11:15:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/credit-bank-of-moscow-cbm-best-banking-corporate-governance-russia-2018/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3fad203982e608d068dee1776cedcf082b1adcc6dd260b5f2e0483894460b29b
 canonical: 5733-credit-bank-of-moscow-cbm-best-banking-corporate-governance-russia-2018.json
 ---

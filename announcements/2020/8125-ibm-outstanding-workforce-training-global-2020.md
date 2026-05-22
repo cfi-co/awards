@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:30:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/ibm-outstanding-workforce-training-global-2020/"
 categories: ["Industries", "North America", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 53c25f6dc0d6789a2258422c2cdd91636d27c19745f1db37151bda6cc7064a07
 canonical: 8125-ibm-outstanding-workforce-training-global-2020.json
 ---

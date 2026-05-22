@@ -7,6 +7,15 @@ published_gmt: 2020-01-20 10:18:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/kuwait-international-bank-kib-fastest-growing-islamic-bank-mena-2019-best-sharia-compliant-bank-mena-2019/"
 categories: ["Banking", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45f52bf717dbad5897957c0f0b8eb7404bd523843f57a03a2ef5fe8a2e1af68e
 canonical: 7181-kuwait-international-bank-kib-fastest-growing-islamic-bank-mena-2019-best-sharia.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-06-23 15:45:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/mckesson-best-pharmaceuticals-distributor-north-america-2020/"
 categories: ["Industries", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b4ebc552a0bc4ea9bdcab6488b7be40a4fbdb845c7a799d9a420d6bc850f95b3
 canonical: 7517-mckesson-best-pharmaceuticals-distributor-north-america-2020.json
 ---

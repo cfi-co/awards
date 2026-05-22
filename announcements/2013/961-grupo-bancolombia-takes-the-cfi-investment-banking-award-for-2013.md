@@ -7,6 +7,15 @@ published_gmt: 2013-11-21 12:39:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2013/grupo-bancolombia-takes-the-cfi-investment-banking-award-for-2013/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b74e44f3a6e6776404082293b1048e8fd37d41ebd23d7785c294f07388127f6e
 canonical: 961-grupo-bancolombia-takes-the-cfi-investment-banking-award-for-2013.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-02-16 14:14:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/charah-solutions-best-sustainable-environmental-management-solutions-usa-2020/"
 categories: ["Best Practice", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31ff8c1d4b97466b0275444974ed7b3a26dbabc06b7bc3c13ff445c47691c495
 canonical: 8833-charah-solutions-best-sustainable-environmental-management-solutions-usa-2020.json
 ---

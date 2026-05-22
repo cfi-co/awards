@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 16:17:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/raiffeisen-centrobank-ag-best-structured-products-bank-cee-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8eae5b567ad1ea50b537e3707578455d6a43d87068be3ac7ab7de25bbd63e7ca
 canonical: 6199-raiffeisen-centrobank-ag-best-structured-products-bank-cee-2018.json
 ---

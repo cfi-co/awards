@@ -7,6 +7,15 @@ published_gmt: 2022-02-23 14:56:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2021/"
 categories: ["Africa", "Best Practice", "Corporate Governance", "Finance", "Industries", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17c5643bdb9af82ce52ecf2527ad752c8b6f30c2225a7c81b4858e784fb7d548
 canonical: 10197-ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-10-04 15:33:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/clifford-chance-wins-dispute-resolution-team-award-in-the-uk/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3365758d3c87c6cc2392ea6088611bc3bbe136e14689d79f0d26156879ce786
 canonical: 829-clifford-chance-wins-dispute-resolution-team-award-in-the-uk.json
 ---

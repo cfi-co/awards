@@ -7,6 +7,15 @@ published_gmt: 2018-10-08 13:35:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2018/asit-biotech-best-biopharmaceutical-corporate-governance-belgium-2018/"
 categories: ["Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 89f852655710a4bd96722664ee84f342868f9f5e4eda62529f92f4237ad90806
 canonical: 6076-asit-biotech-best-biopharmaceutical-corporate-governance-belgium-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:57:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/hewlett-packard-enterprises-best-governance-team-us-2021/"
 categories: ["Best Practice", "Corporate Governance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 511b4ff87c9f4358760787c4d06dbd9f658f68147ee44607623310e38bbc8811
 canonical: 9375-hewlett-packard-enterprises-best-governance-team-us-2021.json
 ---

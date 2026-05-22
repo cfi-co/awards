@@ -7,6 +7,15 @@ published_gmt: 2017-01-26 16:22:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2017/park-west-gallery-best-independent-fine-art-auction-house-global-2016/"
 categories: ["Customer Satisfaction", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 63a38df1355773ae862f87f11006af5cb5ea6c40a5d0355cfdece9a8e80e7247
 canonical: 3787-park-west-gallery-best-independent-fine-art-auction-house-global-2016.json
 ---

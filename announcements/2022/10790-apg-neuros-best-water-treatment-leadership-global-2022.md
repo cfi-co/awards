@@ -7,6 +7,15 @@ published_gmt: 2022-10-04 12:42:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2022/apg-neuros-best-water-treatment-leadership-global-2022/"
 categories: ["Industries", "Manufacturing", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f266fae348fa67fe01de5dee2055205ac36dc336d02e644cab2c418ab1ac57ad
 canonical: 10790-apg-neuros-best-water-treatment-leadership-global-2022.json
 ---

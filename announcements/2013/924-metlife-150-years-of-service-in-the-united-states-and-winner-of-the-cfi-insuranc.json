@@ -11,8 +11,21 @@
         "North America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\" size-full wp-image-925 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/metlife.gif\" alt=\"metlife\" width=\"144\" height=\"46\" /></p>\r\n<p style=\"text-align: justify;\"><strong>MetLife (Metropolitan Life Insurance Company) can trace its roots back to 1863 and a predecessor company offering insurance to assist US civil war combatants.</strong> After five years the change to the present name was made with the accompanying shift in focus to life policies. By 1930 around twenty per cent of the country’s population had taken up coverage with this company. MetLife is now the largest life assurer in the United States offering a comprehensive array of innovative insurance, retirement and savings products.</p>\r\n<p style=\"text-align: justify;\">The CFI Judging Panel pointed out that, ‘MetLife has always taken its social responsibilities very much to heart. The MetLife Foundation – setup in 1976 – is an extraordinarily generous giver and after 9/11 the Company invested $1 billion dollars in publicly traded stocks to help restore confidence. This insurance company is one of the best managed corporations in the United States and we have no hesitation is confirming the award, ‘Best Insurance Company, United States, 2013’.</p>",
     "content_sha256": "99c3b41c6436fb30f1d8509ecc8b580ac65c2413f12953e958c5bdb21d16e03b",
-    "record_sha256": "de278e93a3d37dfdf327c31c1650f93cbea0a23fb2f8df90c8b10be7e866134a"
+    "record_sha256": "497440c8f164b60e019b73fbd75fb9dc094c4eb97b447fc956314cdeff085d7a"
 }

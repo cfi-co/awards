@@ -13,8 +13,21 @@
         "Finance",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-675 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/07/Wells-Fargo.jpg\" alt=\"Wells Fargo\" width=\"225\" height=\"224\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>In the world of private banking, size does not always ensure that the personal needs of clients are always well met.</strong></p>\r\n<p style=\"text-align: justify;\">Wells Fargo Private Bank, however, displays a nimbleness that many of its smaller rivals can only view with envy. The CFI judging panel are pleased to announce Wells Fargo as the winner of the award ‘Best Private Bank USA’. Throughout Wells Fargo’s long and proud history the Bank has always been an innovator - not just in financial products (with, for example, the first indexed fund) but also in customer service - having launched the first internet bank. The feedback the panel received on Wells Fargo’s commitment to maintaining relationship managers of the very highest calibre means that clients receive seamless high quality advice as their needs and aspirations develop over time - making <a href=\"https://cfi.co/awards/north-america/2022/wells-fargo-best-small-business-banking-services-united-states-2022/\">Wells Fargo</a> Private Bank a bank for life.</p>",
     "content_sha256": "44505c86644b34900efe5238a96fb3445d602bf199fbfcb7322fd3fedb03fe74",
-    "record_sha256": "1c110e00928e231b95441faaac36adfab35ee4d1cd3b725c8a2644052519adbf"
+    "record_sha256": "862b0ad86b80755f592c09ca4da47e964ce69d18693244954fb79df2ec46b936"
 }

@@ -7,6 +7,15 @@ published_gmt: 2013-09-13 10:17:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2013/sarailis-the-canadian-boutique-intellectual-property-law-award-winner-in-canada/"
 categories: ["Legal", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0a338d5a1f322c008ed2728aa0f14db635a5225788d3364d90a1649018a872cd
 canonical: 760-sarailis-the-canadian-boutique-intellectual-property-law-award-winner-in-canada.json
 ---

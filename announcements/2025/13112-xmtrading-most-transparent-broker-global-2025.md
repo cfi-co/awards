@@ -7,6 +7,15 @@ published_gmt: 2025-09-29 12:15:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2025/xmtrading-most-transparent-broker-global-2025/"
 categories: ["Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8830d6c2238d65102cfe9572d49f188b0ecd5b1d28f9ed5610f5a9351055405e
 canonical: 13112-xmtrading-most-transparent-broker-global-2025.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-03-17 16:04:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/lifecare-international-best-corporate-health-insurance-brokerage-uae-2021/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a641a683b4221c17594c9503bc946a36f73364a6b9c030e79c35492ebf9e7861
 canonical: 10243-lifecare-international-best-corporate-health-insurance-brokerage-uae-2021.json
 ---

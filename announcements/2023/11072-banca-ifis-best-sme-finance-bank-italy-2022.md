@@ -7,6 +7,15 @@ published_gmt: 2023-01-18 13:04:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/banca-ifis-best-sme-finance-bank-italy-2022/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4d9c4f62cd76cd3e605feccdcedd5c90ae4ba8f82c3c753781a1f9664f46968
 canonical: 11072-banca-ifis-best-sme-finance-bank-italy-2022.json
 ---

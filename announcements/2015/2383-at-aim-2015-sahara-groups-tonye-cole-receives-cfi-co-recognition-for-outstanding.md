@@ -7,6 +7,15 @@ published_gmt: 2015-04-02 12:17:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding-contribution-to-youth-education-in-africa/"
 categories: ["Africa", "Best Practice", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c39f7525bac9844b77e51408adcdc31843469623dad8e1abb6e6058b8716709b
 canonical: 2383-at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding.json
 ---

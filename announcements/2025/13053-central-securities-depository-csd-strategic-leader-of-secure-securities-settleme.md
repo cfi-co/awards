@@ -7,6 +7,15 @@ published_gmt: 2025-07-29 10:42:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2025/central-securities-depository-csd-strategic-leader-of-secure-securities-settlement-solutions-west-africa-2025/"
 categories: ["Africa", "Corporate Leadership", "Exchanges &amp; Brokers", "Finance", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8022342eb09190bd4560072828a97c01aa390c823b96211069f3c3e1c0bd53cb
 canonical: 13053-central-securities-depository-csd-strategic-leader-of-secure-securities-settleme.json
 ---

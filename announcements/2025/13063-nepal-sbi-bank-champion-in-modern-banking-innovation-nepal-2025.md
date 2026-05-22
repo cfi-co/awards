@@ -7,6 +7,15 @@ published_gmt: 2025-07-31 12:37:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2025/nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2025/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d72788b65e991454cb3c7eca62ef3d3386a1854a9488dc61f7754d0b3dd2fb83
 canonical: 13063-nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2025.json
 ---

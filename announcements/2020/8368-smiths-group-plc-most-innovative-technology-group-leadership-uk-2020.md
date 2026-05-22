@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:43:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/smiths-group-plc-most-innovative-technology-group-leadership-uk-2020/"
 categories: ["Corporate Leadership", "Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed7f94d61bd32518c4dd2563bb89e8826fbfffbf65c49408fc95c1856697f582
 canonical: 8368-smiths-group-plc-most-innovative-technology-group-leadership-uk-2020.json
 ---

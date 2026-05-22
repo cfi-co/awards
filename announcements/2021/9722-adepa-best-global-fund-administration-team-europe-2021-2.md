@@ -7,6 +7,15 @@ published_gmt: 2021-11-02 11:43:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/adepa-best-global-fund-administration-team-europe-2021-2/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9ba185d6ec5315488236c1bdbac4f99a0ad9cb80cec9b2ed8396deb87abac060
 canonical: 9722-adepa-best-global-fund-administration-team-europe-2021-2.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2026-02-02 09:14:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/orcan-energy-ag-champion-of-industrial-energy-efficiency-europe-2025/"
 categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4473167a4a3447a2882f02f7c29ecdd1391e66d3837cedbac212341ae73d170
 canonical: 13300-orcan-energy-ag-champion-of-industrial-energy-efficiency-europe-2025.json
 ---

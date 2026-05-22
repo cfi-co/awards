@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 14:47:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/sabic-best-esg-responsible-petrochemical-company-global-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Development", "Government", "Industries", "Middle East", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d1188a0e836c7b2c033bd2ba08357049311a6cde8aea29d6bdf0f4b81a0acbc5
 canonical: 10048-sabic-best-esg-responsible-petrochemical-company-global-2021.json
 ---

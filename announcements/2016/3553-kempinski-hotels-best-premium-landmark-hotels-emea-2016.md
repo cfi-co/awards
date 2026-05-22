@@ -7,6 +7,15 @@ published_gmt: 2016-10-27 10:08:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2016/kempinski-hotels-best-premium-landmark-hotels-emea-2016/"
 categories: ["Customer Satisfaction", "Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9ed68ea35323808d4129b9f359687dcb76361f89ae1b69940f9ba4e951d167d
 canonical: 3553-kempinski-hotels-best-premium-landmark-hotels-emea-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-03-15 14:26:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/gallagher-re-best-reinsurance-broker-global-2023/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bce4c70c6f908a4ff77e0b85f3da106a6fb5448b97a3ee1f15957146a1787e8d
 canonical: 12305-gallagher-re-best-reinsurance-broker-global-2023.json
 ---

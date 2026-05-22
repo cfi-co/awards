@@ -7,6 +7,15 @@ published_gmt: 2016-06-20 14:39:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/gaztransport-et-technigaz-best-maritime-transport-services-france-2016/"
 categories: ["Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8eb9858ac034c81adccea626ab7a55f2343b2b2f6b0bc858e725b264aed56c2a
 canonical: 4440-gaztransport-et-technigaz-best-maritime-transport-services-france-2016.json
 ---

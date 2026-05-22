@@ -7,6 +7,15 @@ published_gmt: 2014-12-15 13:05:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2014/positive-insights-in-africa-our-2014-market-research-winner/"
 categories: ["Africa", "Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 69cb0e69f3b3396cc9f09860c0820da59fd9c0e9dcf67139222c8906ee31c7b5
 canonical: 1524-positive-insights-in-africa-our-2014-market-research-winner.json
 ---

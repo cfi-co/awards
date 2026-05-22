@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:36:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/ibm-best-shareholder-engagement-united-states-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "North America", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b1b7357ea80bc5f464823ec34d78f1dcb89242e33943c8b5fd739c47d4ecdf37
 canonical: 9355-ibm-best-shareholder-engagement-united-states-2021.json
 ---

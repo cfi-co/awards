@@ -7,6 +7,15 @@ published_gmt: 2019-12-23 13:18:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2019/honcho-markets-most-innovative-b2c-insurance-pricing-global-2019/"
 categories: ["Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b58af31e633989500aea679f12da113e989c56ac741ad6dea7d865db81833b24
 canonical: 7068-honcho-markets-most-innovative-b2c-insurance-pricing-global-2019.json
 ---

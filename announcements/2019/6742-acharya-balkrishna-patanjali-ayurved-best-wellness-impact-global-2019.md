@@ -7,6 +7,15 @@ published_gmt: 2019-06-01 18:35:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/acharya-balkrishna-patanjali-ayurved-best-wellness-impact-global-2019/"
 categories: ["Asia Pacific", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b490e16ad407865ca7733c46cbc9479e56bcf5f6fb4780b4dd8d0b2ed5e04ed5
 canonical: 6742-acharya-balkrishna-patanjali-ayurved-best-wellness-impact-global-2019.json
 ---

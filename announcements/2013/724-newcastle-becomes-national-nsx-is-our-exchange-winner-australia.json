@@ -11,8 +11,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-725\" src=\"https://cfi.co/awards/wp-content/uploads/2013/08/nsx.jpg\" alt=\"nsx\" width=\"400\" height=\"150\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI award for Best Stock Exchange, Australia, 2013 goes to the National Stock Exchange of Australia.</strong> NSX was established thirteen years ago and is now the second largest in the country. The Exchange can trace its roots back to the 1930s when it was known as the Newcastle Stock Exchange. The panel feels that this exchange offers good value for customers seeking a listing and wishes to congratulate NSQ on its admirable flexibility.</p>",
     "content_sha256": "2dab65082b39a11119bf592321bbbd7fc8eb7b320d1c3d868a2a702f4b4871c7",
-    "record_sha256": "ae35b20204ca110aaa1408d384e5f7eb7ed91382796d63d3b42488952ba218b3"
+    "record_sha256": "fab99483a16339800aa8336cf2c340b1eb1fdfd05575a80fe8b6fd088ecbd13a"
 }

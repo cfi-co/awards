@@ -7,6 +7,15 @@ published_gmt: 2020-10-26 08:00:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/midsummer-ab-most-innovative-solartech-solutions-europe-2020/"
 categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65082b7e2d345a460b6579cd71853c863a7269209761b19de9c80192e1cb6c11
 canonical: 8404-midsummer-ab-most-innovative-solartech-solutions-europe-2020.json
 ---

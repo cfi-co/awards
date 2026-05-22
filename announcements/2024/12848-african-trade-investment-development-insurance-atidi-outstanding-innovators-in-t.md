@@ -7,6 +7,15 @@ published_gmt: 2024-10-29 12:52:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/african-trade-investment-development-insurance-atidi-outstanding-innovators-in-trade-and-development-insurance-africa-2024/"
 categories: ["Africa", "Development", "Government", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 554bc9060a80cc902f0ccfd41f41982ed7eca7d5c9d1e905aa594db76e3bda12
 canonical: 12848-african-trade-investment-development-insurance-atidi-outstanding-innovators-in-t.json
 ---

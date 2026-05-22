@@ -7,6 +7,15 @@ published_gmt: 2019-06-28 10:37:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/broadspan-capital-best-cross-border-ma-advisory-team-latin-america-the-caribbean-2019/"
 categories: ["Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 783e7a8c1af7166e63e485481a252d2104498c4a4b92336d0eef926285890a4c
 canonical: 6796-broadspan-capital-best-cross-border-ma-advisory-team-latin-america-the-caribbean.json
 ---

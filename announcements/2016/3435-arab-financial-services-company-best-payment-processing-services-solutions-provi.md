@@ -7,6 +7,15 @@ published_gmt: 2016-08-26 12:54:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/arab-financial-services-company-best-payment-processing-services-solutions-provider-middle-east-2016/"
 categories: ["Finance", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 887435cbe2993aa349bda7fda1a9b7b7d0769f722241069a3c17922ce698f6d3
 canonical: 3435-arab-financial-services-company-best-payment-processing-services-solutions-provi.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-10-22 11:35:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/maubank-best-sme-banking-services-mauritius-2021/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae5e397734f3abb959e5ce1a6d19814fc7ea610c7af5f96fd988111d62b1f0fd
 canonical: 9683-maubank-best-sme-banking-services-mauritius-2021.json
 ---

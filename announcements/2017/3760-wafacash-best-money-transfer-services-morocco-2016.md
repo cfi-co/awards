@@ -7,6 +7,15 @@ published_gmt: 2017-01-23 16:20:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/wafacash-best-money-transfer-services-morocco-2016/"
 categories: ["Africa", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5966fb3d822f1921cf576b40245b103ec2da07805cc6c9262ea0fbe5fd2dc95
 canonical: 3760-wafacash-best-money-transfer-services-morocco-2016.json
 ---

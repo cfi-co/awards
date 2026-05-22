@@ -7,6 +7,15 @@ published_gmt: 2026-03-16 14:45:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2026/bedrock-group-best-investment-portfolio-manager-united-kingdom-2026/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3748ef3a13dd22b50faab89d2f462b9d8d805477c8289bb608d39087f818f997
 canonical: 13356-bedrock-group-best-investment-portfolio-manager-united-kingdom-2026.json
 ---

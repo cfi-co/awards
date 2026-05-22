@@ -7,6 +7,15 @@ published_gmt: 2021-01-28 10:53:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/mitheridge-best-real-estate-private-equity-firm-uk-2020/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ab9059f57ad90958e79812e6fe8f930bc5b7c29c85fdd46c5d472f51bd63d00
 canonical: 8784-mitheridge-best-real-estate-private-equity-firm-uk-2020.json
 ---

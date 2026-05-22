@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:07:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/agrocortex-best-redd-expert-latin-america-2020/"
 categories: ["Industries", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 051e1cabb96f8ae43ebf14b2018117a008a488461b5ac5ae526b9e02135ae1b8
 canonical: 9139-agrocortex-best-redd-expert-latin-america-2020.json
 ---

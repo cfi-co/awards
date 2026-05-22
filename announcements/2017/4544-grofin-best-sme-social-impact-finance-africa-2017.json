@@ -11,8 +11,21 @@
         "Africa",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_4547\" align=\"aligncenter\" width=\"400\"]<img class=\"size-full wp-image-4547\" src=\"https://cfi.co/awards/wp-content/uploads/2017/07/Guido-GroFin.jpg\" alt=\"\" width=\"400\" height=\"433\" /> GroFin CEO Guido Boysen[/caption]\r\n<p style=\"text-align: justify;\"><strong>Mauritius-based SME finance company GroFin has raised well over US$500 million in funding and invested in some 600 small and medium-sized enterprises in Africa and the Middle East. The company provides both patient risk capital and business support to SMEs. Indeed, every GroFin investee has access to an international team of experts who provide a blend of financial and value adding business support.</strong></p>\r\n<p style=\"text-align: justify;\">As a trusted partner of more than 30 international development finance institutions, development organisations and other private funders, GroFin has been able to deliver its patient risk capital and specialised business support to SMEs across a wide spectrum of activities within 15 countries in Africa and the Middle East. More importantly, GroFin helps entrepreneurs improve their chances of success by providing access to business knowledge. The company brings over fifteen years of experience to the table and boasts a long track record of successful engagements.</p>\r\n<p style=\"text-align: justify;\">Partnering with small and medium-sized businesses allows GroFin to stress the importance of regulatory compliance, adherence to ESG (environmental, social, and governance) standards, and proper accounting practices. These are considered key to attain sustainable growth and superior competitiveness. Taking such a long-term view has allowed GroFin to nurture businesses towards entrepreneurial success. Shying away from quick-fix financial solutions, GroFin helps entrepreneurs gain insights into markets, explore opportunities, and design strategic plans to sustain growth.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees with GroFin that SMEs are the engines of economic growth and, as such, contribute significantly towards improved living conditions in low and middle-income countries. The judges are unanimous in their decision to declare GroFin winner of the 2017 Best SME Social Impact Finance Africa Award.</p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4545\" src=\"https://cfi.co/awards/wp-content/uploads/2017/07/GroFin.jpg\" alt=\"\" width=\"608\" height=\"216\" /></p>",
     "content_sha256": "62f15b8616f5a725da31d876be6b0db0cc6f9cae6d138509e16d6ae5874ad6a4",
-    "record_sha256": "79e2e64727f69fda78a2bd2876754a43f0d4501b38362b764b74bfcc86abf6e1"
+    "record_sha256": "47e2a5a4f381000413b822e3ccde43883bba584d176d9a47fd7a0ef3e57d9c3b"
 }

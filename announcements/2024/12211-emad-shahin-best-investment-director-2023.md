@@ -7,6 +7,15 @@ published_gmt: 2024-01-09 10:04:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/individual/2024/emad-shahin-best-investment-director-2023/"
 categories: ["Individual", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 64cd950684359abb0ee1f895e268b481f89b73aa13b8c8aa3e11eac0188daa46
 canonical: 12211-emad-shahin-best-investment-director-2023.json
 ---

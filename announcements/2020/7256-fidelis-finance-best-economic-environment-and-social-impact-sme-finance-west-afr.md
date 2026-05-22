@@ -7,6 +7,15 @@ published_gmt: 2020-02-18 14:24:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/fidelis-finance-best-economic-environment-and-social-impact-sme-finance-west-africa-2019/"
 categories: ["Africa", "Best Practice", "CSR", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f732696d6ef2af46d5783b9c58043345bcc0bc82134fbe04c805a2b803b13f9
 canonical: 7256-fidelis-finance-best-economic-environment-and-social-impact-sme-finance-west-afr.json
 ---

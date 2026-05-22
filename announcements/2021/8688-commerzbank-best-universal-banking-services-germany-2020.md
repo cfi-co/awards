@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 15:19:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/commerzbank-best-universal-banking-services-germany-2020/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94ba4165cc7fa6199e5fc3f6661f161be6f52063a835b4c14c6d3856c8cd3cc9
 canonical: 8688-commerzbank-best-universal-banking-services-germany-2020.json
 ---

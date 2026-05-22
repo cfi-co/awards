@@ -12,8 +12,21 @@
         "Professional Services",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7143\" src=\"https://cfi.co/awards/wp-content/uploads/2020/01/IBM.jpg\" alt=\"IBM\" width=\"318\" height=\"131\" />\r\n<p style=\"text-align: justify;\">IBM has around 350,000 staff, 160,000 partners, and countless more clients worldwide and it is committed to their continuous development with its HR 3.0 system. Its aim is to build ‘Cognitive Enterprises” with data and AI transforming the workplace. Together IBM staff and partners provide training to IBM clients. Staff have access to “Your Learning”, a state-of-the-art cognitive-driven learning ecosystem. It is a one-stop ed tech system that is personalised for users using AI. It focuses on skills and agile practices. Over 99 percent of staff used the system in 2019. Every staff member is expected to spend a minimum of 40 hours in training and personal development each year. Staff, partners, and clients can also earn badges and certifications online through IBM Credentials. IBM also provides versions of its HR 3.0 systems to clients as part of its Talent Management Services. IBM is committed to transforming itself, its partners, and clients. The CFI.co judging panel also commends IBM on the launch of its SkillsBuild platform. The platform helps long-term unemployed, veterans, asylum seekers, refugees, and other jobseekers to start a career in IT using HR 3.0 systems. Job seekers can learn to code, earn IBM credentials, and enjoy career focused development. IBM sees a new world where micro-credentials can replace degrees for some workers. The CFI.co judges are more than pleased to present IBM as the winner of the global award for Outstanding Workforce Training Global for the second consecutive year.</p>",
     "content_sha256": "875a62dfe62f975894da9ee358a126e5abfa4abd12f061d48adb58cad14d936f",
-    "record_sha256": "8a6cfdaa3a9fb60a43d0dc458cca419d8571a56d01aaef10c23efab3fb48ba7f"
+    "record_sha256": "e89da3076064605a79554309619e7097cb2ee5f7f8f2b383119ef69fa038eeb5"
 }

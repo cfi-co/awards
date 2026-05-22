@@ -7,6 +7,15 @@ published_gmt: 2015-10-12 10:10:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2015/payshop-portugal-best-payment-solutions-portugal-2015/"
 categories: ["Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30b402c13d32e807db9c603fa0968702c3986723f27de97581c64e249e7dbb39
 canonical: 4163-payshop-portugal-best-payment-solutions-portugal-2015.json
 ---

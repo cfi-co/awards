@@ -7,6 +7,15 @@ published_gmt: 2020-11-17 07:00:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/unionbank-of-the-philippines-best-universal-bank-best-digital-customer-experience-philippines-2020/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4bdc69503b7d9b6952c26dd6c5525f4680ef67ac7899443ba3cbfd61c4ee132
 canonical: 8462-unionbank-of-the-philippines-best-universal-bank-best-digital-customer-experienc.json
 ---

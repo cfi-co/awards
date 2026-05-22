@@ -7,6 +7,15 @@ published_gmt: 2025-10-13 07:07:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2025/segurcaixa-adeslas-best-insurer-spain-2025/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f24b9d1bb89c4428177d93e5605eb06884bdf8c1891a5813dab15b1666a305e1
 canonical: 13136-segurcaixa-adeslas-best-insurer-spain-2025.json
 ---

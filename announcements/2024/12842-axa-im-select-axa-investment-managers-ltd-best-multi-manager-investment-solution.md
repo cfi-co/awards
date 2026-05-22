@@ -7,6 +7,15 @@ published_gmt: 2024-11-29 12:44:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/axa-im-select-axa-investment-managers-ltd-best-multi-manager-investment-solutions-global-2024/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d99ec4dab8764726dc2a4e59c7e21eff0f293808d2693b2ac0c09c203d1fe8c4
 canonical: 12842-axa-im-select-axa-investment-managers-ltd-best-multi-manager-investment-solution.json
 ---

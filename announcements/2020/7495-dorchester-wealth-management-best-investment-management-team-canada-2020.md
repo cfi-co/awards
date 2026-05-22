@@ -7,6 +7,15 @@ published_gmt: 2020-06-23 07:57:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/dorchester-wealth-management-best-investment-management-team-canada-2020/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 626db8927edf3d9d976927f89782d50e6f26ab510e02386afcee5508090190e2
 canonical: 7495-dorchester-wealth-management-best-investment-management-team-canada-2020.json
 ---

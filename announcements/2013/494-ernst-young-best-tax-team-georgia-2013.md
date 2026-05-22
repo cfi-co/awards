@@ -7,6 +7,15 @@ published_gmt: 2013-05-16 11:42:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/ernst-young-best-tax-team-georgia-2013/"
 categories: ["Asia Pacific", "Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e461ec4adc004ae8e5b74e9e89928f051f6f8d8fdf4eff623ba712073f211881
 canonical: 494-ernst-young-best-tax-team-georgia-2013.json
 ---

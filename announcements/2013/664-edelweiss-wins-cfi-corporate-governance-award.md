@@ -7,6 +7,15 @@ published_gmt: 2013-07-12 22:32:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/edelweiss-wins-cfi-corporate-governance-award/"
 categories: ["Asia Pacific", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9685471b0e626cdb1eb9a13449c974a55b20b3ae0936030c68388e2329601453
 canonical: 664-edelweiss-wins-cfi-corporate-governance-award.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-03-22 11:55:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2019/good-monday-best-digital-office-management-solutions-denmark-2019/"
 categories: ["Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6279be750f2f96d420c9404cef432897fd51702e922db5a12796dfdf8a0c7649
 canonical: 6602-good-monday-best-digital-office-management-solutions-denmark-2019.json
 ---

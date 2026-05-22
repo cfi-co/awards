@@ -7,6 +7,15 @@ published_gmt: 2020-01-08 15:09:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/nordea-asset-management-ab-best-esg-investment-process-europe-2019/"
 categories: ["Asset Management", "Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2e8a3e6314b5ec8097b2c41468717948ecda7b86dd405c6b0fb83f44e4cb6e43
 canonical: 7093-nordea-asset-management-ab-best-esg-investment-process-europe-2019.json
 ---

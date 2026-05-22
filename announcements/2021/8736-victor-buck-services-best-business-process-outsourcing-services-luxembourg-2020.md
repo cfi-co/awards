@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:22:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/victor-buck-services-best-business-process-outsourcing-services-luxembourg-2020/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7ca26549ccc901431cc50f4bd63815dd263c22e48602790bac76ec5cc5c21b0
 canonical: 8736-victor-buck-services-best-business-process-outsourcing-services-luxembourg-2020.json
 ---

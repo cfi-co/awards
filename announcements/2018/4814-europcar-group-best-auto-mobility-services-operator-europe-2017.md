@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 15:13:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/europcar-group-best-auto-mobility-services-operator-europe-2017/"
 categories: ["Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 300c2c771dbdde8879eb6b30d1541e4894b44993c206cf4fe1d59ae44890221b
 canonical: 4814-europcar-group-best-auto-mobility-services-operator-europe-2017.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-06-07 12:26:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/baker-tilly-kenya-best-audit-tax-team-east-africa-2023/"
 categories: ["Accounting", "Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 706651d9089666273152add75ba84047765fedcbfda1dc62a054ee17e4bb8aad
 canonical: 11551-baker-tilly-kenya-best-audit-tax-team-east-africa-2023.json
 ---

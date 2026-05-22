@@ -7,6 +7,15 @@ published_gmt: 2022-04-12 11:10:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2022/imci-group-international-best-alternative-project-finance-solutions-global-2022/"
 categories: ["Development", "Europe", "Finance", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b8539db865c1cf570917db4c2df14cf91fae60cc399af630724176938d078a8
 canonical: 10313-imci-group-international-best-alternative-project-finance-solutions-global-2022.json
 ---

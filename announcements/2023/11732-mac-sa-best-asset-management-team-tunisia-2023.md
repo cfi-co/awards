@@ -7,6 +7,15 @@ published_gmt: 2023-08-09 08:27:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/mac-sa-best-asset-management-team-tunisia-2023/"
 categories: ["Africa", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 15605096482dc597dcfcd907741e8a8b21c3938eada385dc9b4bd860fcbc5046
 canonical: 11732-mac-sa-best-asset-management-team-tunisia-2023.json
 ---

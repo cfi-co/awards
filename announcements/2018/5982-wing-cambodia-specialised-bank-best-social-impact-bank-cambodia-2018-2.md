@@ -7,6 +7,15 @@ published_gmt: 2018-09-05 11:59:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/wing-cambodia-specialised-bank-best-social-impact-bank-cambodia-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9870142b1400af3b955a2dfab122caa77f9947dddf2c9d0c69300a7d96bb5048
 canonical: 5982-wing-cambodia-specialised-bank-best-social-impact-bank-cambodia-2018-2.json
 ---

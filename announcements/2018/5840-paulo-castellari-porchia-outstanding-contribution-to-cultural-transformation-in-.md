@@ -7,6 +7,15 @@ published_gmt: 2018-07-30 13:13:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/paulo-castellari-porchia-outstanding-contribution-to-cultural-transformation-in-mining-governance-2018/"
 categories: ["Corporate Governance", "Industries", "Middle East", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e6811eb9a68bd9514599f92812a1f5715feb990b7470f53fcb20b7a93e6eaa5e
 canonical: 5840-paulo-castellari-porchia-outstanding-contribution-to-cultural-transformation-in-.json
 ---

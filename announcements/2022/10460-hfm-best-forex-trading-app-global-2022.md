@@ -7,6 +7,15 @@ published_gmt: 2022-05-17 06:03:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/hfm-best-forex-trading-app-global-2022/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bea6602adf2c4a7abbeb46d2c82f9ee6403a3eff3a7fe13fa4b038af2d38d002
 canonical: 10460-hfm-best-forex-trading-app-global-2022.json
 ---

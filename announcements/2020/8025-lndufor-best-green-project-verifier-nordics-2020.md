@@ -7,6 +7,15 @@ published_gmt: 2020-07-28 10:29:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2020/lndufor-best-green-project-verifier-nordics-2020/"
 categories: ["Best Practice", "Community Engagement", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a804a5e830569f2cf2c6a97b98ec8b724ac8d28ee7a8ccfb0691ca6ded869425
 canonical: 8025-lndufor-best-green-project-verifier-nordics-2020.json
 ---

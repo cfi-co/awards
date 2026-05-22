@@ -11,8 +11,21 @@
         "Banking",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8100\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/Mashreq.jpg\" alt=\"Mashreq\" width=\"400\" height=\"428\" />\r\n<p style=\"text-align: justify;\"><strong>Mashreq celebrates over five decades of excellence, and has emerged as one of the leading financial institutions in the United Arab Emirates (UAE). Mashreq’s innovation is driven by a singular consideration: to improve the banking experience for our customers. The bank has invested a significant amount of effort and resources to ensure that all its key products are designed with the sole intention of improving the customer journey.</strong></p>\r\n<p style=\"text-align: justify;\">For several years, Mashreq has placed a deep emphasis on its digital banking proposition and the Covid-19 pandemic further enabled a faster shift towards digital banking services.</p>\r\n<p style=\"text-align: justify;\">At the onset of the COVID-19 outbreak, Mashreq’s staff was already geared to serve their customers remotely in an efficient manner. Furthermore, the bank created an exclusive microsite for its customers which included a full suite of all its products and services available digitally. There was a smooth transition to remote working, with no interruption of services. Mashreq expects the revised operating structure and flexible work schedules to become part of our work environment.</p>\r\n<p style=\"text-align: justify;\">To help its customers during a time of stress, Mashreq Bank provided payment holidays to 50% of its customers, and even today 15 percent enjoy this benefit. There are many competitive advantages that Mashreq has developed over the last few years and these are paying dividends today. For instance, customers can open accounts digitally or get loan approvals in a matter of minutes. E-commerce activity has skyrocketed over the past year, and Mashreq Bank has taken several steps to ensure that its clients have the tools they need to thrive in the digital space. With a smartphone in one hand and a credit card in the other, clients can send money, pay bills, or execute trades in global markets.</p>\r\n<p style=\"text-align: justify;\">Banking services are just a click away, with chatbots available 24/7 to answer questions.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel presents Mashreq Bank, a repeat programme winner, with the 2021 award for Best Smart Retail Bank (Middle East).</p>",
     "content_sha256": "03628665d17b2126f4b799f32e4295fe3d13badea269f247324c46611066b8ee",
-    "record_sha256": "9296683f37f972857e94a5a12e8028ab4ad0ad9b844fc38cd0a82927e4ec5135"
+    "record_sha256": "c7d92e3843ceee2c088a0ed58fb4ad3a1bb1dfb105fac84af7d703ac46e41376"
 }

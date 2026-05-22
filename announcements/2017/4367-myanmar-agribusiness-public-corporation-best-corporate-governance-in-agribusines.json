@@ -13,8 +13,21 @@
         "Corporate Governance",
         "Industries"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4368\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/MAPCO.jpg\" alt=\"\" width=\"221\" height=\"210\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Promoting food security and providing a strong impulse to the entire agricultural sector, the Myanmar Agribusiness Public Corporation (MAPCO) mobilises funds to sharpen the competitive edge of the country’s rice industry. Set up in 2012 as a privately-owned public company, MAPCO aims to help develop Myanmar’s agribusiness sectors, considered one of the most dynamic drivers of the country’s buoyant economy, and set up the infrastructure needed to unlock the potential of the interior.</strong></p>\r\n<p style=\"text-align: justify;\">A public-private partnership, MAPCO is charged with encouraging broad investment into agribusiness in general and rice cultivation and processing in particular. The company is focused on implementing and furthering a sustainable business model that takes the interests of all stakeholders into consideration. MAPCO aims to improve the lives of rice farmers working small holdings by introducing modern techniques and putting in place improved warehousing and transportation facilities that help drive down costs.</p>\r\n<p style=\"text-align: justify;\">As the business arm of the Myanmar Rice Federation, MAPCO is sustained by three pillars: food security, business improvement, and market development. In order to attain its objectives, MAPCO has implemented, and adheres to, the corporate policies and governance principles and guidelines as formulated by the OECD. The company has gained wide recognition as a corporate governance pioneer in Southeast Asia.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is eager to offer its recognition of MAPCO’s impressive achievements and declares Myanmar Agribusiness Public Corporation winner of the 2016 Best Corporate Governance in Agribusiness Southeast Asia Award.</p>",
     "content_sha256": "7f15f91fb0205b83a5313844a043dc63adad47546ecc04284360f447444bba85",
-    "record_sha256": "9cb63d5493fe349644357320cf4af83fab483badaebe3ecf44d07925da72c61a"
+    "record_sha256": "a1f3b413ef59ac2c08ccf59b7e4a22472d8e5528a5635eff0733871b71077a03"
 }

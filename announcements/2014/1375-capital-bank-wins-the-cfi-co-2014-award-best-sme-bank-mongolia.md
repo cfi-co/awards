@@ -7,6 +7,15 @@ published_gmt: 2014-10-09 10:14:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2014/capital-bank-wins-the-cfi-co-2014-award-best-sme-bank-mongolia/"
 categories: ["Asia Pacific", "Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ffb0e4ef55b44ebdbb73ce1c3260ffe450ea7b97244849ce68641f597376529
 canonical: 1375-capital-bank-wins-the-cfi-co-2014-award-best-sme-bank-mongolia.json
 ---

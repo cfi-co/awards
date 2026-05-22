@@ -7,6 +7,15 @@ published_gmt: 2019-06-23 16:05:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/assupol-best-life-assurer-southern-africa-2019/"
 categories: ["Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb28aef77fdf91893f806d8e8abc061fdb778c47ee5d3d30aee019490fbbd679
 canonical: 7535-assupol-best-life-assurer-southern-africa-2019.json
 ---

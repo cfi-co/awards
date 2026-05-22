@@ -12,8 +12,21 @@
         "Legal",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-540\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/Camilleri-Preziosi.jpg\" alt=\"Camilleri Preziosi\" width=\"442\" height=\"114\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Camilleri Preziosi Advocates win the ‘Best Dispute Resolution team Malta’ award for 2013.</strong></p>\r\n<p style=\"text-align: justify;\">As should be expected we do not receive many nominations in some of the smaller juristictions but the CFI panel could not ignore the strength of nominations received for Camilleri Preziosi. The panel commented that what sets Camilleri Preziosi apart from the competition is the team’s holistic approach to dispute resolution matters. The firm has an excellent track record for looking beyond the dispute to the overall needs of clients - minimising the impact of disputes by keeping cases out of court whenever possible. Of course, their court room performance over the years has enabled the firm to achieve this. The panel felt that the quality outcomes and the multi-disciplinary nature of the firm deserved recognition this year.</p>",
     "content_sha256": "bdea7891a39cc1b2f76809ede72ce911b8f868700fe48405acf4add3b975d0bd",
-    "record_sha256": "6eb7b90dd9a1b66b07be9b9139f2e678896682eb16e942a02a342d1eb8bb33f9"
+    "record_sha256": "c07afda266205644d8693301315c6edc7f4d09ae4dfdd5f81031dbca8736a5d4"
 }

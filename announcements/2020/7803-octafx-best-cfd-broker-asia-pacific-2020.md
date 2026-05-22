@@ -7,6 +7,15 @@ published_gmt: 2020-06-25 14:47:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/octafx-best-cfd-broker-asia-pacific-2020/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 63065d189c6af0174d654708ed61232a529a50a683008795fff4ab91ddfea275
 canonical: 7803-octafx-best-cfd-broker-asia-pacific-2020.json
 ---

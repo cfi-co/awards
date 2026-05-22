@@ -7,6 +7,15 @@ published_gmt: 2023-06-02 10:21:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/finartis-best-wealth-management-software-solutions-global-2023/"
 categories: ["Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba16b5f5a7aab540d51f809ae6eb0aae5f7b93dba04e7c0401ba8fd52cbd30f4
 canonical: 11538-finartis-best-wealth-management-software-solutions-global-2023.json
 ---

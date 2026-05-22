@@ -7,6 +7,15 @@ published_gmt: 2018-09-07 13:39:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/ahli-united-bank-kuwait-best-bank-governance-kuwait-2018/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7516867899254330a146e613c87f004b71b34357aa46f012a50970ed5abecc4c
 canonical: 6002-ahli-united-bank-kuwait-best-bank-governance-kuwait-2018.json
 ---

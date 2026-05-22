@@ -7,6 +7,15 @@ published_gmt: 2024-06-20 15:04:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2024/anthemis-group-champion-of-fintech-ecosystem-development-global-2024/"
 categories: ["Development", "Europe", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abcc1fe64c2ec29174fd62aa26ea93ea4486d2d1b7b4c7fde0d3b90614a3229f
 canonical: 12428-anthemis-group-champion-of-fintech-ecosystem-development-global-2024.json
 ---

@@ -13,8 +13,21 @@
         "Europe",
         "Industries"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1361\" src=\"https://cfi.co/awards/wp-content/uploads/2014/10/eex.jpg\" alt=\"\" width=\"321\" height=\"157\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Germany’s energy exchange, European Energy Exchange, AG (EEX) has been named by CFI.co as winner of the award, ‘Best Energy Exchange Transparency, Europe, 2014’ and receives a special commendation from the Judging Panel.</strong></p>\r\n<p style=\"text-align: justify;\"><strong>According to a statement released by the panel, ‘EEX has been a passionate trailblazer for transparency and this has culminated in the September 2014 launch of a new transparency website which satisfies all the publication requirements of the Regulation on Market Integrity &amp; Transparency (REMIT). This new site is an important development in EEX’s exemplary platform Transparency in Energy Market and we would like to congratulate the winner on its outstanding work in support of transparency over the years.</strong></p>\r\n<p style=\"text-align: justify;\">‘The data made public in this way (production of electricity actual versus forecast) is not only for use in wholesale energy trading but - because of the detail given - is also of great interest to those concerned about developments in renewable energy and helps explain to end consumers the likely future of energy production. In today’s markets, this plays an important role’.</p>",
     "content_sha256": "64246cdfce0281ac7191f63d2b525b6838a7fac9b64861ca72d4eafbdf00cad8",
-    "record_sha256": "928731386ab994fa568f5d9bd7f19417d5ba5d6f1a0116a71992f044c2aa7084"
+    "record_sha256": "48d8850c7a984f3fdd6f4821388c34fbebda819a05f0e10c5769c56c760e4a4a"
 }

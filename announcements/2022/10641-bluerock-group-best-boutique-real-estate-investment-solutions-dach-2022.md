@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:00:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/bluerock-group-best-boutique-real-estate-investment-solutions-dach-2022/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c96492fbc8faa5723d2b6c89a421c7a6841c32f745e4d5cc10db321a5ee76001
 canonical: 10641-bluerock-group-best-boutique-real-estate-investment-solutions-dach-2022.json
 ---

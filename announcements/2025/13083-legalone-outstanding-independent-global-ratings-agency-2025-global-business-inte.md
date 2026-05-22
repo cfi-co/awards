@@ -7,6 +7,15 @@ published_gmt: 2025-08-27 14:57:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2025/legalone-outstanding-independent-global-ratings-agency-2025-global-business-intelligence-champion-2025/"
 categories: ["Asia Pacific", "Consultancies", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec0d5eaafeb4beda53bee57c422241f77a05ff36e050eaec93c7d7171a6373c2
 canonical: 13083-legalone-outstanding-independent-global-ratings-agency-2025-global-business-inte.json
 ---

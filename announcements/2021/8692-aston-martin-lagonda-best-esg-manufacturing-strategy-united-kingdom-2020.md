@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 15:22:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/aston-martin-lagonda-best-esg-manufacturing-strategy-united-kingdom-2020/"
 categories: ["Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97018c8a91e5729e603a9d356a1a59eba9e78aca419ec3b23776cf12b689275f
 canonical: 8692-aston-martin-lagonda-best-esg-manufacturing-strategy-united-kingdom-2020.json
 ---

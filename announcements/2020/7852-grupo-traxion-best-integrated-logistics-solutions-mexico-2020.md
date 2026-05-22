@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:53:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2020/grupo-traxion-best-integrated-logistics-solutions-mexico-2020/"
 categories: ["Industries", "Latin America", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c52d3795b7c3ede7f1c6a32c44dab590754638c9682d8fafafb8b544aae8c1c0
 canonical: 7852-grupo-traxion-best-integrated-logistics-solutions-mexico-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-07-08 13:13:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2024/boursa-kuwait-best-capital-market-esg-strategy-gcc-2023/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Exchanges &amp; Brokers", "Finance", "Middle East", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 20e7ae36561ab1d39089d7efbe321c4d968e4e426680a8870fa5e90a52c64d64
 canonical: 12465-boursa-kuwait-best-capital-market-esg-strategy-gcc-2023.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-11-02 09:39:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/netapp-most-innovative-data-storage-solutions-global-2016/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f83dd89c4f79e1ff6b4602aadbff0e6b0f71250245cabf441b5ffb1c164991a
 canonical: 4128-netapp-most-innovative-data-storage-solutions-global-2016.json
 ---

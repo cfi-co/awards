@@ -12,8 +12,21 @@
         "Finance",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2030\" src=\"https://cfi.co/awards/wp-content/uploads/2012/11/jp.jpg\" alt=\"jp\" width=\"320\" height=\"80\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Excerpts from the CFI.co’s Judging Panel’s Summary: “JP Morgan’s 160 years of experience has produced an outstanding private bank in the United States that is also a top performer in all other regions of the world. </strong></p>\r\n<p style=\"text-align: justify;\">The plans announced two years ago for the expansion of business outside the United States have been fruitful. The judges welcomed recently appointed CEO John Duffy of JP Morgan US and his initial published remarks on wealth management.”</p>",
     "content_sha256": "844d35e70500578d221d5828b8bade4b4cbcf5dd8a6eeefbf6d1f9af058a19ff",
-    "record_sha256": "7a75699e8f7932a43a6af54955cfa6d987cfa7ef8911eda7b6c500d2fac76054"
+    "record_sha256": "5fe157f988d16498d402084a156b6a4d647312efbd134beccb9cc7d2641b3010"
 }

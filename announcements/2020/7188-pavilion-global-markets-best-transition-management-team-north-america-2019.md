@@ -7,6 +7,15 @@ published_gmt: 2020-01-20 16:01:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/pavilion-global-markets-best-transition-management-team-north-america-2019/"
 categories: ["Consultancies", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 525bbbcebcf1a431580abb7598b7359a93125faa7047a906609f4d319654d743
 canonical: 7188-pavilion-global-markets-best-transition-management-team-north-america-2019.json
 ---

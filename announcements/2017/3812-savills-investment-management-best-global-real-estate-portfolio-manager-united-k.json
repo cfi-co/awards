@@ -12,8 +12,21 @@
         "Finance",
         "Real Estate"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3816\" src=\"https://cfi.co/awards/wp-content/uploads/2017/02/Savills.jpg\" alt=\"\" width=\"500\" height=\"165\" /></p>\r\n<p style=\"text-align: justify;\"><strong>With its roots in fund management, Savills Investment Management was set up in late 2003 as a platform for actively administered real estate investments in Europe and – more recently – Asia. Aiming to generate higher risk-adjusted returns, the firm’s portfolio was designed with a view to securing increased income streams from rentals. Savills Investment Management actively pursues properties that require major refurbishment or additional development that offset an initially higher exposure to short-term risk with improved long-term rates of return.</strong></p>\r\n<p style=\"text-align: justify;\">Following a hands-on approach to the investment process, the company’s board is heavily involved at all stages in order review opportunities, ensure risk mitigation, and monitor adherence to client and in-house guidelines.</p>\r\n<p style=\"text-align: justify;\">Savills Investment Management has gained industry-wide recognition for its thorough research which covers both the macro and micro aspects of the real estate market. The resulting data allow the firm to assess the overall market and identify, early-on, opportunity.</p>\r\n<p style=\"text-align: justify;\">Savills Investment Management’s team of experts are able to match investors to tailor-made portfolios that dovetail with individual requirements and tolerance to risk. The strategy is fully data driven and augmented by on-the-ground monitoring by the firm’s experienced officers.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that successful real estate investment necessitates access to a wealth of reliable data which, in turn, requires both specific expertise and experience. The judges are pleased to confirm Savills Investment Management’s win of the 2016 Best Global Real Estate Portfolio Manager United Kingdom Award.</p>",
     "content_sha256": "f719db7dde52b23d1b2f77224bbfce7c512acff6d2b2a42a51520cd60cf7fc13",
-    "record_sha256": "71b50aa8325ab9c7b0add7c104ee78608de679667b07df8a780428d2aae43743"
+    "record_sha256": "ca509991bb132df24d340591546d7456470ac39ea7825b24e1072b5f4d5a078a"
 }

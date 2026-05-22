@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 15:09:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/amazon-most-disruptive-retail-operations-global-2020/"
 categories: ["Industries", "North America", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 923c347b8de181e23d36938103c05eaed8e67dc674912a3e2b59bb275df290b1
 canonical: 8674-amazon-most-disruptive-retail-operations-global-2020.json
 ---

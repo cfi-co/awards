@@ -7,6 +7,15 @@ published_gmt: 2024-10-29 12:40:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2024/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2024/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f691025318ac723da11997ae0f4c7c8641fa743b8c8a35d2fcb6703be0496845
 canonical: 12838-pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2024.json
 ---

@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4992\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/BFA.jpg\" alt=\"\" width=\"219\" height=\"79\" />\r\n<p style=\"text-align: justify;\"><strong>Considered the local benchmark of excellence and innovation, Banco de Fomento Angola (BFA) maintains a network of around two hundred full-service branch offices that afford the bank a nationwide presence. Founded in 1990 as the country’s principal trade finance bank, BFA has successfully grown into an all-round commercial bank offering a full suite of products and services to private clients, entrepreneurs, and corporates.</strong></p>\r\n<p style=\"text-align: justify;\">The bank has received international recognition for its excellence in payment processing with over 99% of transactions requiring no human intervention. One of Angola’s famed “super brands”, BFA management is dedicated to further enhancing the bank’s already formidable reputation. To that end, BFA maintains an inclusive corporate strategy which positions the bank as one of the main drivers of the country’s development.</p>\r\n<p style=\"text-align: justify;\">BFA serves more than 1.5 million clients through multiple channels. The bank’s BFA Net Service includes dedicated YouTube and LinkedIn webpages and a proprietary cross-platform app that allows account holders to access their financial data on-the-go.</p>\r\n<p style=\"text-align: justify;\">With Angola’s economy now on the mend, BFA is exceptionally well positioned to benefit from a resumption of the rapid-growth trajectory. Over the past few years, BFA has upgraded its IT backbone, expanded staff training programmes, and strengthened the bottom line.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel has followed BFA for a number of years and recognised its stellar performance with wins in the same category. The judges are pleased to offer Banco de Fomento Angola the 2017 Best Branch Network Angola Award.</p>",
     "content_sha256": "345367f20f4a08e3647f91f45812681764d6ef3d906a5d82711a689f849871b2",
-    "record_sha256": "bc9092a75fed503f00e6418062e80aca158eb06c6bfff0fe07a501839c8145e8"
+    "record_sha256": "1c2e8dcd627eefc0e6ce924ccfdb8772fd7b4a428b2dd4e684da7c04c377102d"
 }

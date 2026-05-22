@@ -7,6 +7,15 @@ published_gmt: 2019-03-11 12:08:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/maroclear-best-financial-services-corporate-governance-team-north-africa-2018/"
 categories: ["Africa", "Best Practice", "Corporate Governance", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6ca21e0f5a8c9ccf320a105bee99395808d4175c48190de00a02b6900f863c2
 canonical: 6218-maroclear-best-financial-services-corporate-governance-team-north-africa-2018.json
 ---

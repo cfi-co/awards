@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 14:08:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/abu-dhabi-commercial-properties-adcp-best-property-management-team-uae-2017/"
 categories: ["Middle East", "Professional Services", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f083ec32585b8009710af553c6ffc5a6072c865d1d853c005685feb2b5848d5d
 canonical: 4716-abu-dhabi-commercial-properties-adcp-best-property-management-team-uae-2017.json
 ---

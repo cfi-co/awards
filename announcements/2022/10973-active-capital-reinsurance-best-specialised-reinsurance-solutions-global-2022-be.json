@@ -11,8 +11,21 @@
         "Latin America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6410\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/ActiveRE.jpg\" alt=\"ActiveRE\" width=\"500\" height=\"106\" />\r\n<p style=\"text-align: justify;\">Active Capital Reinsurance (Active Re) is celebrating 15 years of fruitful operations based on strong ethical principles, global partnerships and client allyship. The insurance and reinsurance company is headquartered in Barbados with business development offices in Miami, Panama City and Madrid. The company’s founder, Juan Antonio Niño Pulgar, leads with the belief that businesses thrive when they turn customers into allies and ensure benefits are shared by all. The company has developed a specialised portfolio of solutions covering affinity, property, engineering, energy, marine hull &amp; cargo, credit &amp; surety, liability and alternative risk transfer. Active Re deployes a skilled and strategically located workforce — encompassing more than 50 reps and nine languages — to serve insurance companies and reinsurance brokers in over 112 countries. The company is reaping the benefits of a diversification and globalisation campaign that began in 2015 and continued to unlock new markets and distribution lines over the next five years. It now offers services in Latin America, the Middle East, Eastern Europe, Asia Pacific and North Africa. Its underwriting capabilities and financial strength are underscored by the positive outlook affirmed by the international credit rating agency, AM BEST. Active Re first registered on the CFI.co radar in 2018, and the judging panel has consistently commented on its upward momentum since then. The CFI.co jury reaffirms Active Re’s champion status in 2022 for dual awards in the categories of Best Specialised Reinsurance Solutions (Global) and Best Reinsurer (Emerging Markets).</p>\r\nhttps://www.youtube.com/watch?v=pWYLG05oiAQ&amp;amp;t=2s",
     "content_sha256": "8b8b2a4e2a4ca4fc0a9d191512cce94d895ff2399f9644549686b99bdb56be0a",
-    "record_sha256": "cf0faef355c77627740ffa939785fe332e452fca6e1c2aad8627a62e6b51f351"
+    "record_sha256": "204865f79f327d4028f8777c9acfee20ebe6d331d73989c92b8aa0dc4a34d4cc"
 }

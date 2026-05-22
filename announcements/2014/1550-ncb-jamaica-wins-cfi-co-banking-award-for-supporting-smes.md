@@ -7,6 +7,15 @@ published_gmt: 2014-09-04 16:57:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2014/ncb-jamaica-wins-cfi-co-banking-award-for-supporting-smes/"
 categories: ["Banking", "Latin America", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c1c5c1a716307136275786d62efab9260fba33482976788615212eb16a1c53e
 canonical: 1550-ncb-jamaica-wins-cfi-co-banking-award-for-supporting-smes.json
 ---

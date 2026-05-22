@@ -13,8 +13,21 @@
         "Development",
         "Government"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7336\" src=\"https://cfi.co/awards/wp-content/uploads/2020/05/SADC.jpg\" alt=\"SADC logo\" width=\"500\" height=\"353\" />\r\n<p style=\"text-align: justify;\">The Southern African Development Community (SADC) unites 16 countries behind a mission to promote sustainable and equitable socio-economic growth through co-operation and integration, efficiency and productivity, peace and security. Each member state ascribes to the principles of sovereign equality, solidarity and democracy. They pledge to respect human rights and the rule of law, seek equitable balance and mutual benefits, and resolve disputes peacefully. They work together to establish — and ensure — a basic living standard across the population. SADC deploys two key development strategies to spur socio-economic progress: infrastructure and industrialisation. SADC has charted a roadmap to create a community around common goals. It has achieved the first major milestone towards its overarching objective in the establishment of the SADC Free Trade Area, which has resulted in a substantial increase of intra-regional trade. The free trade agreement eases tariff barriers to bring benefits to all citizens. It has paved the way for the second integration phase, a SADC Customs Union, by modernising cross-border payment systems, implementing best-practices banking standards and developing a legal and administrative framework for financial institutions. SADC drives the development of energy, water and connectivity industries to encourage self-reliance and inter-dependence among member states. The clear protocols that govern SADC operations have been honed over the past four decades, through regular assessment and agile response, and have established strong value chains that stimulate and support regional growth. The CFI.co judging panel announces SADC as the 2020 winner of the Outstanding Contribution to Socio-Economic Development (Southern Africa) award.</p>",
     "content_sha256": "57c647fdbd42fb46656a19b07c6f07b2b8438213dc5c5eaa655c38e4e4cd03c0",
-    "record_sha256": "715a234e691d80533560bb4da8080fb2db3d7b7c525de72640f5c236ab0e4d81"
+    "record_sha256": "d10e11389bcd811e850e18da5c7c8d04f1895c27aedbe10282f324a91b03728d"
 }

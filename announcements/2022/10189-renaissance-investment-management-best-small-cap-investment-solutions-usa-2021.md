@@ -7,6 +7,15 @@ published_gmt: 2022-02-14 12:46:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/renaissance-investment-management-best-small-cap-investment-solutions-usa-2021/"
 categories: ["Asset Management", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd4b754e8f10d85501ce7a950ed56db42213f6d0440f3200462cf1a9b8c8368c
 canonical: 10189-renaissance-investment-management-best-small-cap-investment-solutions-usa-2021.json
 ---

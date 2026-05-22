@@ -10,8 +10,21 @@
     "categories": [
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_10957\" align=\"aligncenter\" width=\"900\"]<img class=\"size-large wp-image-10957\" src=\"https://cfi.co/awards/wp-content/uploads/2022/12/Photos_by_Liliana_Zaharia-1881-1024x682.webp\" alt=\"Patrick Belland, CFA, CEO &amp; President at PGM Global Inc. with Lord JD Waverley, Chairman of CFI.co\" width=\"900\" height=\"599\" /> Patrick Belland, CFA, CEO &amp; President at PGM Global Inc. with Lord JD Waverley, Chairman of CFI.co[/caption]\r\n<p style=\"text-align: justify;\">PGM Global is a boutique investment firm with headquarters in Montreal and an office in New York. It specialises in securities trading, transition management and global macro research. PGM Global runs its trading desk day and night throughout the workweek, reaching $78bn in annual trade volume. PGM’s transition management service brings all investment types — equities, fixed income and currency — across its trading desk. The firm assists clients to update the structure of their portfolios in the most efficient and cost-effective manner possible. It conducts an exhaustive pre-transition analysis to chart a smart trading strategy, with special attention paid to managing the opportunity cost. It helps clients save time and money through competitive commissions, strategic executions, coordinated custodial communication and well-managed risk exposures. It settles transition trades with prompt efficiency and offers flexible-reporting options that promote transparency and reduced operational risks. PGM’s transition management projects increased more than 40 percent over the previous year. The firm continues to add new clients from around the globe. In 2022, PGM Global helped clients make small tweaks and wholesome changes to their portfolios as well as trimming when necessary. PGM Global first registered on the CFI.co radar in 2019, earning praise from the judging panel for its transparent pricing schedule and conflict-free executions. The company continues to find favour in the awards programme, as the jury has unanimously voted for PGM Global in the category of Best Transition Management Team (North America, 2022).</p>",
     "content_sha256": "df07aa8218bc4742a844a5eb6da68c19ad7bd9c444cd39ffdb19d3720af9b65a",
-    "record_sha256": "1f5f98ef77f341b908f36ddf20932ac1333930fe3e388201905eb9702931c1c8"
+    "record_sha256": "d341ee66ef4a3c0a0fa3d99f78184abd662496689b7629233408c320402ee3c7"
 }

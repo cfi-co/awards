@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 16:14:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/albis-leasing-best-online-sme-leasing-solutions-germany-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3abbe1e6a7cfcb3bde42ac6f3dd1e6aed1bda0730799d455a157dda9d671ce1f
 canonical: 6474-albis-leasing-best-online-sme-leasing-solutions-germany-2018.json
 ---

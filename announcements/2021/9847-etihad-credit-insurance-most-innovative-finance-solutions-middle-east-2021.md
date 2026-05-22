@@ -7,6 +7,15 @@ published_gmt: 2021-11-22 09:05:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/etihad-credit-insurance-most-innovative-finance-solutions-middle-east-2021/"
 categories: ["Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7c0a256862122fb25043a6fd02b7bdeeb674760827bfab5cbfbda3bdd5a168c
 canonical: 9847-etihad-credit-insurance-most-innovative-finance-solutions-middle-east-2021.json
 ---

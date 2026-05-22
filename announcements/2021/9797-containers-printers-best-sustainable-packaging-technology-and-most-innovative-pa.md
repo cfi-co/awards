@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 14:26:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/containers-printers-best-sustainable-packaging-technology-and-most-innovative-packaging-team-south-east-asia-2021/"
 categories: ["Asia Pacific", "Best Practice", "Industries", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f25e89ea27e07ab6c6d729e941e30d3860152dd41ea26602e4de6135410a980f
 canonical: 9797-containers-printers-best-sustainable-packaging-technology-and-most-innovative-pa.json
 ---

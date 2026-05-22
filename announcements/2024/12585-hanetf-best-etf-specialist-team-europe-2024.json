@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12587\" src=\"https://cfi.co/awards/wp-content/uploads/2024/09/hanetf-jpg.webp\" alt=\"hanetf\" width=\"500\" height=\"171\" />\r\n<p style=\"text-align: justify;\">Europe's first white-label ETF platform, London based HANetf, is transforming how asset managers access the ETF market. Founded by industry veterans Hector McNeil and Nik Bienkowski, HANetf empowers firms to launch ETFs without the usual barriers to entry. With a growing portfolio of 30+ ETFs and ETCs listed across Europe and Mexico, HANetf is a true innovator. It has  pioneered groundbreaking products like Europe’s first Bitcoin ETP and the sustainable Royal Mint Gold ETP. With a full MiFID license, offices in London and Dublin, , HANetf hassolidified its status as a pan-European business.  Its  dedicated team of over 40 professionals and local presence in markets such as Italy, Germany, France etc ensures robust support and tailored solutions for clients. A commitment to excellence has fuelled rapid growth, nearly doubling assets under management to over $4 billion as of August 2024 in just a year. HANetf's mission is to democratise the ETF landscape, making it accessible to asset managers of all sizes and fostering a wider range of investment choices. Its innovative strategies and commitment to financial futures of investors make this platform  an undeniable force in the industry. The CFI.co Judging Panel is proud to award HANetf the 2024 title of ETF Platform Champion Europe. Its remarkable achievements exemplify the transformative power of innovation and collaboration in the world of ETFs and the strong market position already achieved will continue to drive success.</p>",
     "content_sha256": "225ba9ff56b014f1a88f8901051d1bae1f01c131debd9bb3a12ddcfacafb6e48",
-    "record_sha256": "00eac0d1d21c7f0efa4bcd7e56e7d79d454196b73b4052e22ffc6fb5d7e69e0c"
+    "record_sha256": "a9c742bf1e12bb7fa0229049e8db875cc8b3de79775f3fe68753aa745f0514e0"
 }

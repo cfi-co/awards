@@ -7,6 +7,15 @@ published_gmt: 2013-11-26 10:56:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/dar-al-tamleek-company-best-home-mortgage-provider-ksa/"
 categories: ["Best Practice", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 41c6e29d34d6890130081812d72b035f1f4923789a3a9407e0823801ca7bf543
 canonical: 985-dar-al-tamleek-company-best-home-mortgage-provider-ksa.json
 ---

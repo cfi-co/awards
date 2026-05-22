@@ -14,8 +14,21 @@
         "Industries",
         "Oil &amp; Gas"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_6330\" align=\"aligncenter\" width=\"1000\"]<img class=\"size-full wp-image-6330\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Atikom-Terbsiri.jpg\" alt=\"\" width=\"1000\" height=\"686\" /> <strong>President &amp; CEO:</strong> Atikom Terbsiri of Thaioil Public Company Limited[/caption]\r\n<p style=\"text-align: justify;\"><strong>Good corporate governance enables transparent and sustainable profits that benefits all stakeholders.</strong> To achieve Thaioil’s corporate vision of being “a leading fully integrated refining and petrochemical company in Asia Pacific” the company has endeavored to ensure that it adheres to the highest possible standards of governance. The results of the past five years clearly show the strategy has been paying off, with a steady growth benefitting all stakeholders. The CFI.co judging panel found that while Thaioil was adhering to international best practice for its governance principles, it was the overriding commitment to fairness that really set Thaioil apart. Corporate governance is not a tick-box exercise for the company; rather, it is a way of delivering the company’s value set of always trying to be fair – and ensuring that the systems are in place to deliver “fairness” throughout the organisation. Thaioil responds quickly and effectively when a policy or practice needs adjustment. The CFI.co judges were unanimous in declaring Thaioil as having the Best Energy Corporate Governance Thailand 2018.</p>",
     "content_sha256": "2aabeaec5a1d7040046de4023d49dac7a79171da82d17ea522dba29f6ad41cad",
-    "record_sha256": "e3dc9499ea95d2b6abbed0755d89c270800f9fd08c319c37ba48f23116ced988"
+    "record_sha256": "ae7900d2f4f90d2986ded390f65c135a9eaa139d4c3108fcf9a3e9164a811bbf"
 }

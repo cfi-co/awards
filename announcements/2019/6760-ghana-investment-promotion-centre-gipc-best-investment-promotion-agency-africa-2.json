@@ -13,8 +13,21 @@
         "FDI Agencies",
         "Government"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_6761\" align=\"aligncenter\" width=\"1000\"]<img class=\"size-full wp-image-6761\" src=\"https://cfi.co/awards/wp-content/uploads/2019/06/GIPC-2019.jpg\" alt=\"\" width=\"1000\" height=\"577\" /> Alex Dadey - GIPC board member, R. Yofi Grant - CEO GIPC, Tor Svensson - Chairman CFI.co, Robert Ahomka-Lindísay - Ghana Deputy Minister of Trade[/caption]\r\n<p style=\"text-align: justify;\">Democratic Ghana is full of valuable natural resources, and home to a thriving economy. The country has benefited from considerable recent foreign direct investment (FDI), enjoys enviable investor confidence, and is certainly a country to watch in Africa. Ghana ranks high on governance, the rule of law, individual freedom, and safety. It is also one of the fastest-growing countries in the world. Traditionally an agricultural and agro-processing market, other sectors are now showing promise. Opportunities abound in financial services and telecommunications, and investors are also considering Information and Communications Technology (ICT), tourism, and manufacturing. The Ghana Investment Promotion Centre (GIPC) has twice been honoured in recent years as the Best Investment Promotion Agency in West and Central Africa. That recognition came at the Annual Investment Meeting (AIM) Awards in Dubai, UAE, underlining and endorsing the GIPC’s ability to attract major projects that contribute to economic growth and national development. The well-managed centre provides a one-stop shop for investors, who recognise Ghana’s promising future and value the centre’s transparent structuring of large projects. The CFI.co judging panel considers Ghana an outstanding opportunity for investors – and the GIPC an efficient and helpful gateway. The judges’ confidence is reflected in a second consecutive CFI.co win for GIPC: the 2019 award for Best Investment Promotion Agency (Africa).</p>",
     "content_sha256": "f102ba168ffff1124a23edace9bff4aad726ac1a8a751a943abf803494e04f1e",
-    "record_sha256": "3a3955d7844f7520e69a9d5d8e6030efce4cdd686b5675fd212b85647030a28b"
+    "record_sha256": "e487ff96e80529ed8f732bac8461305bf62ce62f7924d775d62e0247a5a71bf9"
 }

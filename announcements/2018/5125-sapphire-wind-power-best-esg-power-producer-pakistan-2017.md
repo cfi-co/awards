@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 13:51:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/sapphire-wind-power-best-esg-power-producer-pakistan-2017/"
 categories: ["Asia Pacific", "Best Practice", "CSR", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 99b74bc18ec6bfd4e5d99251248df6bddafb5490eec860c8b9450b16ef312cde
 canonical: 5125-sapphire-wind-power-best-esg-power-producer-pakistan-2017.json
 ---

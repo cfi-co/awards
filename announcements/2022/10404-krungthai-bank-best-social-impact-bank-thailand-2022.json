@@ -12,8 +12,21 @@
         "Banking",
         "Community Engagement"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8660\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/Krungthai.jpg\" alt=\"Krungthai\" width=\"500\" height=\"147\" />\r\n<p style=\"text-align: justify;\">Founded in 1966, Krungthai Bank is a publicly listed company whose main shareholder is the Thai government. The bank has evolved to provide clients with ever-increasing convenience and functionality. Krungthai conducts business with the goal of growing together for sustainability and serving all segments of Thai society. The bank approached the pandemic as an opportunity to further develop digital capacities and incorporate AI technologies. It was able to slash the turnaround times on loan applications, using AI and big data to deliver real-time verdicts. Krungthai offered its third index-linked, principal-protected note in January, this time basing returns for the five-year note on a global AI and ESG index. The note aims to capitalise on the rising prevalence of AI across societies and industries, while the ESG focus underscores its commitment to improving the lives of Thai people and supporting the SDGs. It has expanded into digital bonds with low price points, which has facilitated financial inclusion. The youngest digital bond subscriber is only 15 years old. On the other side of the spectrum, Krungthai offers digital literacy assistance to older populations through a 1,000-branch network. The Krungthai mobile apps have millions of users, including 40 million people who used the bank’s digital wallet to register for the Covid vaccine. The CFI.co judging panel has followed the bank for several years and is pleased to note its continued progress. The judges present Krungthai Bank with its fifth CFI.co accolade: Best Social Impact Bank (Thailand).</p>",
     "content_sha256": "44d8abebdda667762c9bd460330da1799c22d5d306ecce788130baffcee51d06",
-    "record_sha256": "a1c4b8326798ea4c94d122fc5e6a51f30741d849df04b77c8c29930267ffbff5"
+    "record_sha256": "5fe85a79d8094a700fef6c572495c68d4c8a876f143834c5dd43095f79c65f87"
 }

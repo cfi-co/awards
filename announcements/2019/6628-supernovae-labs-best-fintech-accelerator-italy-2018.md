@@ -7,6 +7,15 @@ published_gmt: 2019-04-15 08:08:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2019/supernovae-labs-best-fintech-accelerator-italy-2018/"
 categories: ["Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d7a800fb788c924657481b4e0491a440d78d297987a857f3921daf4ac843b60a
 canonical: 6628-supernovae-labs-best-fintech-accelerator-italy-2018.json
 ---

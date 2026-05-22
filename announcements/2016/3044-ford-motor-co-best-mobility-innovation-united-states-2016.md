@@ -7,6 +7,15 @@ published_gmt: 2016-03-16 16:25:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2016/ford-motor-co-best-mobility-innovation-united-states-2016/"
 categories: ["Industries", "Manufacturing", "North America", "Technology", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 314ac9dba4a92ef1c25d57d41e94e45ab30d728d4be8f6436ac8d504794b9149
 canonical: 3044-ford-motor-co-best-mobility-innovation-united-states-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-10-30 14:00:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2025/ibm-superior-shareholder-engagement-united-states-2025/"
 categories: ["Best Practice", "Corporate Governance", "Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3488f864f1680cf467154a6708f069578b1731d16b7c117426a8c24f09cbcb1
 canonical: 13172-ibm-superior-shareholder-engagement-united-states-2025.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-01-20 07:12:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2023/c-quadrat-investment-group-outstanding-contribution-to-social-improvement-global-2022/"
 categories: ["Best Practice", "CSR", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a147d2a1c5d6409ba786b4a73c76e58dd83c87b849782348244f178eda82f46e
 canonical: 11082-c-quadrat-investment-group-outstanding-contribution-to-social-improvement-global.json
 ---

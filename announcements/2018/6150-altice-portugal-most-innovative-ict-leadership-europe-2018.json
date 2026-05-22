@@ -14,8 +14,21 @@
         "Technology",
         "Telecom"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6151\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Altice.jpg\" alt=\"\" width=\"262\" height=\"300\" />\r\n<p style=\"text-align: justify;\"><strong>Pioneers, innovators, leaders — these words sum up the entrepreneurial essence of Altice Portugal, the country’s preeminent global telecommunications and multimedia operator.</strong> Altice has pioneered interactive TV service and multimedia mobile portals, while recognising the legacy of its predecessors. It continues to forge new territory in the ICT sector and pave the way for others to follow. Altice is dedicated to identifying and promoting tech talent and sponsors a competition – with generous cash prizes – for innovative entrepreneurs, graduate students and start-ups. Its subsidiary, Altice Labs, fosters scientific and technology learning through strategic partnerships and collaborative projects, ranging from Cloud technologies and Artificial Intelligence to Big Data and the Evolutionary Optical Framework. The company focuses on providing consumer and corporate solutions to help improve the lives of its customers. With its nationwide fibreoptic network nearing completion and a 4G mobile network with 98.5% percent national coverage, Altice is already moving on to the next challenge: phasing-in its new 5G ecosystem, featuring a new radio concept. Altice mixes disciplined practices with an agile and adaptable culture; it doesn’t try to predict the future, it prefers to create it. It’s this audacious, go-ahead nature which makes Altice the worthy winner of the 2018 award for Most Innovative ICT Leadership Europe 2018.</p>",
     "content_sha256": "d1f6e45bd8ea657deeb90acca925fce75af11c560fba231547ae0be5de5ff6c2",
-    "record_sha256": "937c1e55018aff4f3a575743e040b453692041ffdff5b9281d939471299757e2"
+    "record_sha256": "18d273999964637817cf5e185060935f15a43e1378eb0a2e6211f560221ca263"
 }

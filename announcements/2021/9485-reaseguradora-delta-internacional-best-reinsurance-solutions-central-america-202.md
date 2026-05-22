@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 14:06:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/reaseguradora-delta-internacional-best-reinsurance-solutions-central-america-2021/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a74c5ffbc5de9d276b3836f7b556d050e3012ced9dd63f06765217fe8ce2454c
 canonical: 9485-reaseguradora-delta-internacional-best-reinsurance-solutions-central-america-202.json
 ---

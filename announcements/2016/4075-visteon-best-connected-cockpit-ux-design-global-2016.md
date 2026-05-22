@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:49:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/visteon-best-connected-cockpit-ux-design-global-2016/"
 categories: ["Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9b7c1bab1163f29889e199355cec0d83bdc397d1c661286b591e898d8957854e
 canonical: 4075-visteon-best-connected-cockpit-ux-design-global-2016.json
 ---

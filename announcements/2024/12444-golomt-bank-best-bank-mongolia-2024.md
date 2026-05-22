@@ -7,6 +7,15 @@ published_gmt: 2024-06-27 09:54:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2024/golomt-bank-best-bank-mongolia-2024/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3442be607b240b024cc234285df39b4a35849eec38570a4fe5e77cd8261abf4d
 canonical: 12444-golomt-bank-best-bank-mongolia-2024.json
 ---

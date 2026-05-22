@@ -7,6 +7,15 @@ published_gmt: 2021-09-26 15:36:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/metito-most-impactful-water-company-global-2021/"
 categories: ["Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 38842575ea1d26fdd6a2c199ca61a0a4d12f17c3346011ca2543e44e1b294029
 canonical: 9598-metito-most-impactful-water-company-global-2021.json
 ---

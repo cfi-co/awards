@@ -7,6 +7,15 @@ published_gmt: 2018-06-02 12:21:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/euro-exim-bank-best-global-trade-services-bank-2018/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abebd1bf29817ae5e07afe9b2600dfe23ea1cb162b784290b95cf58c91b043c8
 canonical: 5847-euro-exim-bank-best-global-trade-services-bank-2018.json
 ---

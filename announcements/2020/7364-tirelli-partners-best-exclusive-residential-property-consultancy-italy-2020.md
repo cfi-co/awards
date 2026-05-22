@@ -7,6 +7,15 @@ published_gmt: 2020-05-19 09:30:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/tirelli-partners-best-exclusive-residential-property-consultancy-italy-2020/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fecfd62225c502dfc2741e835fca95e2d3b667ba69a3465c3a5e32231382eccd
 canonical: 7364-tirelli-partners-best-exclusive-residential-property-consultancy-italy-2020.json
 ---

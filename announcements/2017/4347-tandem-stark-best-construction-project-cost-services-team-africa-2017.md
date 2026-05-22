@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 14:25:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/tandem-stark-best-construction-project-cost-services-team-africa-2017/"
 categories: ["Africa", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: adb5c0f35a82bb79613d0b38a72d6a8808e64f58840c90b37ea1975e8c688ab5
 canonical: 4347-tandem-stark-best-construction-project-cost-services-team-africa-2017.json
 ---

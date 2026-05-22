@@ -7,6 +7,15 @@ published_gmt: 2019-01-14 15:50:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/containers-printers-most-innovative-packaging-team-south-east-asia-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa46a5a56c2d2dc89542bbddbe856543a594c5bc39f45c8cf59c354b99b35410
 canonical: 6405-containers-printers-most-innovative-packaging-team-south-east-asia-2018.json
 ---

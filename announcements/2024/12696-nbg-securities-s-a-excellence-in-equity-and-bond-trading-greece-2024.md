@@ -7,6 +7,15 @@ published_gmt: 2024-11-13 10:40:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2024/nbg-securities-s-a-excellence-in-equity-and-bond-trading-greece-2024/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd3b7afe6d4686c8797cf20d53fc51083e5447090b0743baefaeffdd616e2647
 canonical: 12696-nbg-securities-s-a-excellence-in-equity-and-bond-trading-greece-2024.json
 ---

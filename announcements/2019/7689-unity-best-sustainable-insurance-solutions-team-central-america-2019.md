@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 12:16:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/unity-best-sustainable-insurance-solutions-team-central-america-2019/"
 categories: ["Best Practice", "Latin America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a660af3d309352c510fe9128276b83d50c7aba20320260946ed4cbdb457fb9b
 canonical: 7689-unity-best-sustainable-insurance-solutions-team-central-america-2019.json
 ---

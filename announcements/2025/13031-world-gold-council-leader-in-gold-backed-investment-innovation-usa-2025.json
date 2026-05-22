@@ -12,8 +12,21 @@
         "North America",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13032\" src=\"https://cfi.co/awards/wp-content/uploads/2025/07/World-Gold-Coucil.jpg\" alt=\"World Gold Council\" width=\"500\" height=\"184\" />\r\n<p style=\"text-align: justify;\">World Gold Council has played a transformative role in reshaping the global investment landscape by pioneering innovation in gold-backed exchange-traded funds (ETFs). Its introduction of SPDR Gold Shares in 2004 marked a pivotal shift, offering fully backed, accessible, and transparent investment vehicles that democratised gold ownership for institutional and retail investors alike. Beyond financial products, the Council serves as a trusted authority on gold, producing monthly insights, quarterly demand trend analyses, and forward-looking assessments that enhance understanding across diverse use cases. In parallel, the organisation has taken a leadership stance on responsible gold mining, enforcing robust sustainability standards across its 34 member firms and working with entities such as ICMM, Copper Mark, and MCA to align and consolidate industry-wide principles. The Council is further advancing digital innovation by exploring blockchain integration to enable traceable, digitised gold ownership, extending utility in wholesale collateral markets and enhancing individual access. Additionally, it addresses pressing challenges in artisanal and small-scale mining by collaborating with global stakeholders on proactive policy measures. Domestically, the Council is advocating for legislative reforms to eliminate punitive tax treatment on gold within mutual funds, thereby unlocking potential access for retirement portfolios totalling $34 trillion. Through education, advocacy, product development, and industry leadership, the World Gold Council continues to expand gold's relevance and resilience as a financial asset. The Capital Finance International (CFI.co) Judging Panel congratulates World Gold Council on winning the 2025 award for Leader in Gold-Backed Investment Innovation (USA).</p>",
     "content_sha256": "e29a350e979d69d27211146f817558861dbb53db21dc1d280994a4d96d2bff26",
-    "record_sha256": "9a04e0f70a59b2243c3f8e148203d5cb799c25799b93e8429730c370524cda7c"
+    "record_sha256": "20f1ced0ac3d80f2fb55839078485c71701136fcb38b130c28dd9be4a9cb4467"
 }

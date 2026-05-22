@@ -7,6 +7,15 @@ published_gmt: 2025-04-24 10:37:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/monarch-private-capital-excellence-in-tax-equity-impact-investing-usa-2025/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4229ebd427ff5209f9b14046e7c189afeb458774dbe159675ecd021ae7107f12
 canonical: 12951-monarch-private-capital-excellence-in-tax-equity-impact-investing-usa-2025.json
 ---

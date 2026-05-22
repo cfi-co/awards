@@ -15,8 +15,21 @@
         "Finance",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5323\" src=\"https://cfi.co/awards/wp-content/uploads/2018/02/Kandeo.jpg\" alt=\"\" width=\"350\" height=\"110\" />\r\n<p style=\"text-align: justify;\"><strong>As a group, investment managers are particularly fond of buzzwords and novel trends that promise to combine high alpha, low beta, and – perhaps most important of all – a beneficial impact on people and the environment. These days, any self-respecting portfolio manager is all about impact investments and compliance with environmental, social, and governance (ESG) standards.</strong></p>\r\n<p style=\"text-align: justify;\">However, only a select few firms actually do as they say. Kandeo Fund is such a firm. The Latam based private equity firm is a favourite amongst impact investors seeking to extract both solid returns and social benefits. Kandeo Fund manages a sizeable portfolio of financial assets that is fully geared towards supporting small businesses and low-income workers. The firm prioritises investments that include gender equality and financial inclusion goals.</p>\r\n<p style=\"text-align: justify;\">Kandeo Fund recognises that big changes often start with small initiatives. For example, the fund offers low-cost financing to farmers and labourers for the acquisition of new tools – creating a safer and more productive work experience in the process. The fund also dispenses microloans and home mortgages.</p>\r\n<p style=\"text-align: justify;\">Kandeo Fund maintains significant investments in Colombia, Peru, and Mexico and has sourced funds in the US, Canada, Germany, and elsewhere. The firm boasts a solid track record in deploying resources for maximum verifiable impact. As such, Kandeo Funds has earned the trust of investors which, in turn, boosts its portfolio – and the social impact of its investments.</p>\r\n<p style=\"text-align: justify;\">Thanks to its exceptionally experienced management team, including professionals from Latin America’s largest corporates, Kandeo Fund repeatedly outperforms the overall market whilst, at the same time, improving the lives of countless people.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends the firm on its commitment to excellence in impact investing. The judges’ are pleased to declare Kandeo Fund winner of the 2017 Best ESG Private Equity Team Latin America Award.</p>",
     "content_sha256": "9b6875257b50777b6c2d46fa2448bb10d4f1ee52d5e251f76290e32e3be2b6a9",
-    "record_sha256": "dd944f1c17daea0dd6b7b19f74408f1ba18df26377f158ac886952939efddffe"
+    "record_sha256": "17a6509892549316539757f77589ccf034964768934026af3814736bc65f4cf3"
 }

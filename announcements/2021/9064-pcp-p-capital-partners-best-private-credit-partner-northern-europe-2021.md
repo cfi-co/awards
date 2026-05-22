@@ -7,6 +7,15 @@ published_gmt: 2021-04-21 15:08:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/pcp-p-capital-partners-best-private-credit-partner-northern-europe-2021/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f97451955631510b626ebb9dbef751c8fb1c5832232dcd7bfac1893830d8933d
 canonical: 9064-pcp-p-capital-partners-best-private-credit-partner-northern-europe-2021.json
 ---

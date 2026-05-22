@@ -7,6 +7,15 @@ published_gmt: 2024-04-23 07:29:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/baker-tilly-burj-finance-best-investment-bank-morocco-2024/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a7a26a08252ec8f337dae5adbc86ccff0387f1cbc39a4c48e8d6d995d0042fe
 canonical: 12345-baker-tilly-burj-finance-best-investment-bank-morocco-2024.json
 ---

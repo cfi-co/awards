@@ -11,8 +11,21 @@
         "Finance",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-11212 size-full\" title=\"Prospect Capital Management\" src=\"https://cfi.co/awards/wp-content/uploads/2023/03/Prospect-Capital-jpg.webp\" alt=\"Prospect Capital Management\" width=\"317\" height=\"50\" />\r\n<p style=\"text-align: justify;\"><a href=\"https://cfi.co/northamerica/2023/04/prospect-capital-management/\">Prospect Capital Management </a>(“Prospect”) is an SEC registered investment adviser that was founded in 1988 (along with its predecessors) and has been led by the same executive team over the past 23 years. Prospect has over 100 employees and $8.8bn of assets under management as of December 31, 2022. Prospect invests across middle-market lending, middle-market buyouts, structured credit and real estate. Prospect operates a private REIT focused on real estate investments in the US. Prospect’s track record in real estate includes investing in $3.8bn of initial property value across 108 properties with 45 realisations. Prospect’s real estate investments are predominantly in multifamily properties and other tenant diversified real estate. To date, Prospect has invested in 81 multifamily, 12 self-storage, eight student housing, four senior living, and three triple-net lease properties. Prospect invests in class B and C multifamily workforce housing in secondary and tertiary markets with value-add upside potential, helping to alleviate the affordable housing crisis in the US. Prospect also conducts environmental analysis prior to investing and implements \"green\" efficiency improvements. Historical annual multifamily real estate returns of 10.2% have outperformed the broader real estate asset class by 1.2%. A diverse portfolio including multifamily real estate improves returns and lower volatility. The CFl.co judging panel presents Prospect Capital with the 2023 Best Real Estate Investor (USA) award.</p>",
     "content_sha256": "d75d58243a9eb84e8d68735d8ec7d0eda569ef477c140bf377b4efc16552bb71",
-    "record_sha256": "2985b98ea53452aa0609027d4787eb7fe3525fdd0d1dfee8bb22af63f1000579"
+    "record_sha256": "a13a96cdb1f2143308c76d88d16de6779ec7e4797276341a07cbdb7c8d489c1a"
 }

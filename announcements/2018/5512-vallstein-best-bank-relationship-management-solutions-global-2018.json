@@ -12,8 +12,21 @@
         "Europe",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5514\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/Vallstein.jpg\" alt=\"\" width=\"400\" height=\"89\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Founded almost twenty years ago on the premise that the rapport between clients and their banks usually offers plenty room for improvement, Vallstein of The Netherlands has developed WalletSizing – a comprehensive bank relationship management (BRM) system that increases transparency by monitoring and reporting costs to determine, amongst other parameters, the return on solvency.</strong></p>\r\n<p style=\"text-align: justify;\">In essence, WalletSizing turns the tables by allowing customers a comprehensive and detailed view of their banking relationships, including – crucially – the importance of their business to financial services providers and the revenue derived from that. Thus, WalletSizing enables users to precisely ascertain the cost-benefit ratio of their banking operations.</p>\r\n<p style=\"text-align: justify;\">Deploying the knowledge-is-power adage, WalletSizing users are able to effectively gauge their bank’s overall performance and – if needed – negotiate a better overall deal. However, the software aims to optimise the client-bank relationship rather than squeeze the last penny out of it. WalletSizing allows customers to pinpoint the ideal equilibrium between costs and benefits, and construct a relationship that produces a win-win scenario for both parties.</p>\r\n<p style=\"text-align: justify;\">Uniquely, WalletSizing considers hidden revenues and capital requirements under the evolving rules of the Basel Accords. It also includes a complete set of benchmarks. WalletSizing redefines, and vastly expands, the traditional assessment of banking costs and fees, and propels treasury management into next-gen territory.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends Vallstein on producing and fine-tuning a product that moves way beyond spreadsheets to create actual value for clients and banks alike. It puts an often-misinformed relationship on a solid equal footing. The judges are happy to note that since last year Vallstein has continued to update and expand its products which are now indispensable in any corporate setting that values efficiency. The judging panel declares Vallstein winner of the 2018 Best Bank Relationship Management Solutions Global Award.</p>",
     "content_sha256": "cb8e23e58c592bf8b8b2d29072f296933ebfeee72790fbcbe7cdab9015f980d4",
-    "record_sha256": "a80673df2c18930867e442a979df08055f53c9aadb5d7da7cabad7e470cd650e"
+    "record_sha256": "d23643b376d61a0dd8d1b93ad83f6965de1a2dae07a72ccfcfbdaa7689a53318"
 }

@@ -7,6 +7,15 @@ published_gmt: 2015-01-01 13:36:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2015/global-sustainability-award-goes-to-asia-plantation-capital/"
 categories: ["Asia Pacific", "Asset Management", "Best Practice", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31b53556026dc312bdfc4ab44b4cf15508fed103c889634b3fb4f07f1d5cd31a
 canonical: 1462-global-sustainability-award-goes-to-asia-plantation-capital.json
 ---

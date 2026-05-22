@@ -7,6 +7,15 @@ published_gmt: 2017-02-24 12:07:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2017/inversis-banco-best-banking-technology-innovator-spain-2016/"
 categories: ["Banking", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 27eb34b037d0036892b6b25f461b44f9d2bf04750b80cfeda6bc7b8b134acdbf
 canonical: 3872-inversis-banco-best-banking-technology-innovator-spain-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-08-08 14:45:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/renaio-assets-gmbh-outstanding-contribution-to-energy-transition-europe-2023/"
 categories: ["Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a46383c8a8f553d3e86199df9720ea13d076252fbdaef695a6b2a871c635edb
 canonical: 11724-renaio-assets-gmbh-outstanding-contribution-to-energy-transition-europe-2023.json
 ---

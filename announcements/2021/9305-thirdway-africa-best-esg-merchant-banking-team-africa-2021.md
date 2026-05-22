@@ -7,6 +7,15 @@ published_gmt: 2021-07-02 10:17:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/thirdway-africa-best-esg-merchant-banking-team-africa-2021/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bba188d87e402ae019513ca214c4313449de73cb7e947d1764ec6963639dee99
 canonical: 9305-thirdway-africa-best-esg-merchant-banking-team-africa-2021.json
 ---

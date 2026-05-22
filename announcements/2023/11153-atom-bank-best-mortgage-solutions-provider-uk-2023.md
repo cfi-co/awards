@@ -7,6 +7,15 @@ published_gmt: 2023-02-14 16:00:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2023/atom-bank-best-mortgage-solutions-provider-uk-2023/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1e81c3292a14ebb82271818e69ff5d5dd0ed5609f3a0764e6c65f0787981a836
 canonical: 11153-atom-bank-best-mortgage-solutions-provider-uk-2023.json
 ---

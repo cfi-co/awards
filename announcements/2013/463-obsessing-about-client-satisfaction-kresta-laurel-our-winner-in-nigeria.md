@@ -7,6 +7,15 @@ published_gmt: 2013-04-29 13:04:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/obsessing-about-client-satisfaction-kresta-laurel-our-winner-in-nigeria/"
 categories: ["Africa", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f26361559e2a92426065128f5d0d880d84b2a83ea9fb00315eca89d2f6c0bd36
 canonical: 463-obsessing-about-client-satisfaction-kresta-laurel-our-winner-in-nigeria.json
 ---

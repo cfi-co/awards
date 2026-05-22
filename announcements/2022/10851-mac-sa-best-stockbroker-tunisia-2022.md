@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 12:43:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2022/mac-sa-best-stockbroker-tunisia-2022/"
 categories: ["Africa", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08ca20cfbce1a6a3a7f01431f1654a9385b1b3ba592780b29fc5f4b0c6da3a9a
 canonical: 10851-mac-sa-best-stockbroker-tunisia-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-07-12 15:18:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/the-energy-to-satisfy-danfoss-wins-cfi-award-in-denmark/"
 categories: ["Best Practice", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b425c7008f81c25168bd5a9bcc97c7bfa80ed15d85c92777f6ceca4c7be39dd3
 canonical: 679-the-energy-to-satisfy-danfoss-wins-cfi-award-in-denmark.json
 ---

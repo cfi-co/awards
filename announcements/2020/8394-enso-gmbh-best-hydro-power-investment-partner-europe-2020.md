@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:59:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/enso-gmbh-best-hydro-power-investment-partner-europe-2020/"
 categories: ["Europe", "Finance", "Industries", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8201d4898213da8278a8fa49656bbb8e9d320a4f0a21b3030937680e9c8b4d5b
 canonical: 8394-enso-gmbh-best-hydro-power-investment-partner-europe-2020.json
 ---

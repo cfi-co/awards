@@ -7,6 +7,15 @@ published_gmt: 2019-09-16 08:47:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/fideicomiso-hipotecario-fhipo-best-social-impact-mortgage-provider-mexico-2019/"
 categories: ["Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b7c4a10473a3b5e190dfc6ad2b99c45c4f48e536b1cd3c3a35a9f9f5fda7fd5
 canonical: 6923-fideicomiso-hipotecario-fhipo-best-social-impact-mortgage-provider-mexico-2019.json
 ---

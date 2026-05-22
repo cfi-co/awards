@@ -7,6 +7,15 @@ published_gmt: 2017-02-14 14:16:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2017/exotix-best-frontier-markets-investment-banking-team-uk-2016/"
 categories: ["Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 773a2f9901512b19352d47e1d5fc9fe46d5d65ed279261daf960f01b91cefd71
 canonical: 3842-exotix-best-frontier-markets-investment-banking-team-uk-2016.json
 ---

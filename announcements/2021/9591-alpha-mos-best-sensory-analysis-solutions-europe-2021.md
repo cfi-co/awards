@@ -7,6 +7,15 @@ published_gmt: 2021-09-17 11:12:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/alpha-mos-best-sensory-analysis-solutions-europe-2021/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f961ec40337ff38c5f895be32190978c1fd8b0c4106ab3c35af968f21e2f068c
 canonical: 9591-alpha-mos-best-sensory-analysis-solutions-europe-2021.json
 ---

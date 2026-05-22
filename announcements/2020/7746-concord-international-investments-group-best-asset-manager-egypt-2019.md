@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 15:17:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/concord-international-investments-group-best-asset-manager-egypt-2019/"
 categories: ["Africa", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b66f8e3ec998cdd5174102365da8ddd69e6ede583e508821e797d588141721e5
 canonical: 7746-concord-international-investments-group-best-asset-manager-egypt-2019.json
 ---

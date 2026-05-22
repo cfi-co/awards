@@ -7,6 +7,15 @@ published_gmt: 2013-12-08 11:14:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/gulf-custody-company-wins-our-gcc-fund-management-award-for-2013/"
 categories: ["Asset Management", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50a91c4ff39884de377dca7b1eaf28e9e45f6db62dba7acdb5bfe025057db334
 canonical: 1027-gulf-custody-company-wins-our-gcc-fund-management-award-for-2013.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-07-21 07:46:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/coeur-mining-inc-best-miner-governance-north-america-2020/"
 categories: ["Corporate Governance", "Industries", "Mining", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 805019b6d6cf6da0b1ffc7296f1453ff972926965f23f606f226e17d47d4ebdf
 canonical: 8008-coeur-mining-inc-best-miner-governance-north-america-2020.json
 ---

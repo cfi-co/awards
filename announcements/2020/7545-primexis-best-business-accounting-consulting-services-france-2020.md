@@ -7,6 +7,15 @@ published_gmt: 2020-06-24 09:47:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/primexis-best-business-accounting-consulting-services-france-2020/"
 categories: ["Accounting", "Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be1cafd000a2e7cacd91780571da7b17a774c9eb8c45f165285e34ee88bbedc2
 canonical: 7545-primexis-best-business-accounting-consulting-services-france-2020.json
 ---

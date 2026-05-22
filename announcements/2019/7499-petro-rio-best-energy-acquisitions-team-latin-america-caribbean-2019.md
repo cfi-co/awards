@@ -7,6 +7,15 @@ published_gmt: 2019-07-20 12:38:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/petro-rio-best-energy-acquisitions-team-latin-america-caribbean-2019/"
 categories: ["Industries", "Latin America", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72d4e02270a7031f42edbd37c23f9a2a6fd367dc49ad0645260b8ac6ed7a8c01
 canonical: 7499-petro-rio-best-energy-acquisitions-team-latin-america-caribbean-2019.json
 ---

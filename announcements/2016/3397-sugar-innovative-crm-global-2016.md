@@ -7,6 +7,15 @@ published_gmt: 2016-03-23 13:00:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2016/sugar-innovative-crm-global-2016/"
 categories: ["Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f47b8e4a569de3b29ae96723d238f1e5a0957ad88324346e2aba096bdcc50ec6
 canonical: 3397-sugar-innovative-crm-global-2016.json
 ---

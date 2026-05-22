@@ -7,6 +7,15 @@ published_gmt: 2014-09-14 08:51:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2014/innovation-in-insurance-custodian-wins-our-award-in-nigeria/"
 categories: ["Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 15020f7942f58fccfa8b4890a41b24bed107a6813e69f488bdb98a31d9f9ada8
 canonical: 3889-innovation-in-insurance-custodian-wins-our-award-in-nigeria.json
 ---

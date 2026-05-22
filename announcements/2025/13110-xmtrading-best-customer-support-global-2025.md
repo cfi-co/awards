@@ -7,6 +7,15 @@ published_gmt: 2025-09-29 12:15:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2025/xmtrading-best-customer-support-global-2025/"
 categories: ["Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 09379d040f1a7d17823980b03e37bdc34fffdfd22e2838f06106b96d69c83d65
 canonical: 13110-xmtrading-best-customer-support-global-2025.json
 ---

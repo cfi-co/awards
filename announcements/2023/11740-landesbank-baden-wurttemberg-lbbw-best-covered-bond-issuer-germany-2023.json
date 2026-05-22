@@ -14,8 +14,21 @@
         "Europe",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[video width=\"1920\" height=\"1080\" mp4=\"https://cfi.co/awards/wp-content/uploads/2023/08/LBBW-1.mp4\"][/video]\r\n\r\n&nbsp;\r\n<p style=\"text-align: justify;\">In the 2022/23 financial year, German banking group Landesbank Baden-Württemberg (LBBW) demonstrated an impressive capacity for identifying and seizing issuance opportunities. It achieved a combined orderbook of €17.8bn with participation from 592 investors. The mid-sized universal bank paves the way for clients to raise mission-critical capital, issuing covered bonds with impeccable market timing to achieve the highest levels of demand and the tightest spread outcomes. LBBW timed the issuance of a six-year €1bn green mortgage covered bond to coincide with the summer break, thereby creating momentum during a period of traditionally low transaction activity. Overwhelming demand resulted in nearly fivefold oversubscription and an order volume above €4.7bn — the largest LBBW covered bond orderbook in more than a decade. The bank introduced a €1bn public sector bond providing yield-hungry yet commitment-averse customers with two-year investment-term opportunities. The quick-turnaround tenor piqued investors, and the final orderbook exceeded €5.1bn (excluding JLM interest). LBBW covered bond terms range from two to ten years. The bank has strengthened its real-estate finance business with the acquisition of Berlin Hyp (BHH), which reported financing volume of €26bn in 2021. The consolidated banking group is dominating the European ESG bond market, with €3bn issued across four LBBW and BHH deals over the past fiscal year. The bank has earned clients’ trust, as evidenced by LBBW’s track record of landmark deals and multiple mandates from repeat issuers. The CFI.co judging panel recognises LBBW as the 2023 Best Covered Bond Issuer (Germany) award winner.</p>",
     "content_sha256": "4e79c21668252babb623dd895c8d53a24e7648c49c63b434c0b7942367541d20",
-    "record_sha256": "eb87ad7439704e63ad0d7f5bc4e75cfe503af66d1bca88ea025e4ef688df94fa"
+    "record_sha256": "1106f567d5f9dda0eeb848a8fbf3460a7d86d8b5643d86ac0af9c28c11b18e2a"
 }

@@ -7,6 +7,15 @@ published_gmt: 2017-04-14 12:02:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2017/glownet-best-event-payment-systems-global-2016/"
 categories: ["Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30509f9b84e0061a9d54174982481a76607c54e2739bd5ccbd9b7489922bb377
 canonical: 4613-glownet-best-event-payment-systems-global-2016.json
 ---

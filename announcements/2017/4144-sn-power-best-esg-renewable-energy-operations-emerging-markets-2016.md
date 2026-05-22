@@ -7,6 +7,15 @@ published_gmt: 2017-03-30 14:18:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2017/sn-power-best-esg-renewable-energy-operations-emerging-markets-2016/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a03d3dcb0617938171fcd182094eee3ad7074a0e0a3681b9a47f91a91d7651b
 canonical: 4144-sn-power-best-esg-renewable-energy-operations-emerging-markets-2016.json
 ---

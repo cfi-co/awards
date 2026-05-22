@@ -7,6 +7,15 @@ published_gmt: 2024-05-07 08:21:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2024/zaggle-best-digital-expense-management-platform-india-2024/"
 categories: ["Asia Pacific", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5b6830a16a743120a14e43318c2ecc43ac2eca68f3e696e6685141f3dee3f7f4
 canonical: 12368-zaggle-best-digital-expense-management-platform-india-2024.json
 ---

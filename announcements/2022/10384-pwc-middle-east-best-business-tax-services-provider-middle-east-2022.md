@@ -7,6 +7,15 @@ published_gmt: 2022-05-12 13:03:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2022/pwc-middle-east-best-business-tax-services-provider-middle-east-2022/"
 categories: ["Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7844bcee20e6c453541934512e0ed9dd030288c72dbe83ac2c7a572341fa0103
 canonical: 10384-pwc-middle-east-best-business-tax-services-provider-middle-east-2022.json
 ---

@@ -14,8 +14,21 @@
         "Government",
         "Projects"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_13096\" align=\"aligncenter\" width=\"900\"]<img class=\"wp-image-13096 size-large\" src=\"https://cfi.co/awards/wp-content/uploads/2025/07/EBRD-1-1024x614.jpg\" alt=\"EBRD\" width=\"900\" height=\"540\" /> Gianpiero Nacci, Managing Director of EBRD (Climate Strategy and Delivery - right) receiving an award from CFI.co[/caption]\r\n<p style=\"text-align: justify;\">The European Bank for Reconstruction and Development (EBRD) plays a transformative role in aligning financial flows with sustainable development objectives across its regions of operation. Originally mandated to bolster private sector growth in post-communist economies, EBRD has evolved into a pivotal force in climate finance, integrating market discipline with sustainability. The Bank pioneered energy efficiency investments to address inefficiencies in energy usage across sectors, improving competitiveness, reducing pollution, and enhancing quality of life. EBRD stands apart by combining financial investment with policy reform, supporting regulatory frameworks, capacity-building, and enhanced market standards alongside deployment. Its decentralised operational model, with strong in-country presence, enables it to identify needs rapidly. Climate initiatives have expanded into renewable energy development, greening of financial sector, and resilience investments. Paris alignment is a core principle, with criteria ensuring each project supports long-term decarbonisation without creating carbon lock-in. The Bank applies dual assessments—alignment with national policies and carbon lock-in analysis—particularly when evaluating gas infrastructure in energy transitions. EBRD's agility in adapting to crises, including the financial downturn, climate emergencies, and geopolitical conflicts like the war in Ukraine, exemplifies its responsiveness and commitment to regional advancement. Under visionary leadership and driven by a strong sense of duty among staff, EBRD continues to support countries in achieving climate and economic resilience. The Capital Finance International (CFI.co) Judging Panel congratulates EBRD on winning the 2025 award for Trailblazers in Climate Finance Initiatives (Europe).</p>",
     "content_sha256": "8472a95e35cb78079146d26e6744eb2320d5fc10d379ff0152664d1b36eb4741",
-    "record_sha256": "f3dc7a19a3010768f7a50f0284a2910715338a73540e811eca36bf6d8227838b"
+    "record_sha256": "5d5142c80794a51e4c2c39ccf340e52c97eb299ac70649e8c41530fd174e792e"
 }

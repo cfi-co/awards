@@ -7,6 +7,15 @@ published_gmt: 2020-05-20 08:08:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/origo-capital-best-sustainable-alternative-investment-manager-nordics-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8213e52e6482fe4fa3417d7724f483908a69092673f3745938ae112e49e92712
 canonical: 7377-origo-capital-best-sustainable-alternative-investment-manager-nordics-2020.json
 ---

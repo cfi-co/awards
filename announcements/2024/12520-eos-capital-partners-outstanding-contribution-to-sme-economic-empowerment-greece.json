@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12522\" src=\"https://cfi.co/awards/wp-content/uploads/2024/08/EOS-jpg.webp\" alt=\"EOS\" width=\"400\" height=\"310\" />\r\n<p style=\"text-align: justify;\">EOS Capital Partners, a leading alternative asset manager in Greece, has played a pivotal role in strengthening the country’s SME sector through strategic investments and active management. Managing two funds, with AUM of €370m as of 30/06/2024, their first fund, with €150m of committed capital, has achieved successful exits and substantial returns. The second fund, with c.€220m of committed capital to date (targeting €250m by end of 2024), focuses on both SMEs and larger mid-cap companies. EOS Capital Partners prioritises companies with robust fundamentals, solid management teams, and significant growth potential. Their hands-on approach ensures that capital is deployed efficiently, resulting in outcomes such as doubling sales, creating over 1,500 jobs, and improving productivity by 70 percent across their portfolio companies. EOS Capital Partners also stands out for its commitment to sustainability, integrating energy efficiency, water conservation, and alternative energy initiatives into their investments. As an Article 8 fund, they promote environmental and social characteristics while monitoring relevant KPIs to ensure measurable impact. Additionally, EOS Capital Partners offers flexible transaction structures, tailoring investments to the specific needs of companies, whether through strategic minorities, majorities, or partnerships. Its ability to bridge the gap between early-stage companies and larger private equity investments further indicates leadership in Greece’s SME sector. With a focus on fostering innovation and growth, EOS Capital Partners exemplifies a modern approach to investment that drives success while contributing to broader economic and social development. The CFI.co Judging Panel congratulates EOS Capital Partners on winning the 2024 award for Outstanding Contribution to SME Economic Empowerment (Greece).</p>",
     "content_sha256": "211c1e62d66362fee469cd70df5109071fea544727c3da53cc82d5c056869cb1",
-    "record_sha256": "b3406202ba1aaea611dc5f6da27e19d419f293429f79bdaeda73cada80928d91"
+    "record_sha256": "576b389a93df53b38b028c93c0cc32cab5c9a2844986a8fc91695de38e8a447e"
 }

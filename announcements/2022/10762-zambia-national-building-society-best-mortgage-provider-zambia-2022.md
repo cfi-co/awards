@@ -7,6 +7,15 @@ published_gmt: 2022-09-14 08:03:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/zambia-national-building-society-best-mortgage-provider-zambia-2022/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 489343e677b6f4faff480b5f572ab6af17c58d30274dbf7e3797532c019a836e
 canonical: 10762-zambia-national-building-society-best-mortgage-provider-zambia-2022.json
 ---

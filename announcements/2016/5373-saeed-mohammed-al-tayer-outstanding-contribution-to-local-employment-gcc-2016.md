@@ -7,6 +7,15 @@ published_gmt: 2016-08-01 09:34:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/saeed-mohammed-al-tayer-outstanding-contribution-to-local-employment-gcc-2016/"
 categories: ["Finance", "Government", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2797193c8f0b90181d7ea8bcf40afe19c69a138271d6c3306b776b848d9e7cd1
 canonical: 5373-saeed-mohammed-al-tayer-outstanding-contribution-to-local-employment-gcc-2016.json
 ---

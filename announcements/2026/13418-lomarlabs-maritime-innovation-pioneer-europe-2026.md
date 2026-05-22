@@ -7,6 +7,15 @@ published_gmt: 2026-05-18 08:33:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/lomarlabs-maritime-innovation-pioneer-europe-2026/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16a8f4563db00e96f310a53f603890add5ef0bace79522d48ba807d137cb954a
 canonical: 13418-lomarlabs-maritime-innovation-pioneer-europe-2026.json
 ---

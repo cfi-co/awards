@@ -11,8 +11,21 @@
         "Asia Pacific",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-6281\" src=\"https://cfi.co/awards/wp-content/uploads/2018/11/NDB.jpg\" alt=\"\" width=\"500\" height=\"145\" /></p>\r\n<p style=\"text-align: justify;\">NDBIB has for years been a leading force in investment banking in Sri Lanka and has received strong international recognition of its many important industry achievements and intelligent and relevant product offerings and advisory services. The CFI.co Judging Panel has no hesitation in naming this bank as having the ‘Best Debt Capital Markets Team, Sri Lanka, 2014’ and warmly congratulates this winner on its consistently high quality performance.</p>",
     "content_sha256": "ebc24635bf0a5e4c0a8ec9b4823394b6418057135b63e1b87eab7bfcefad7aa5",
-    "record_sha256": "c0393904e46df11857388341f2eff42bd52028638f22ed812625ea0eaa1d9af3"
+    "record_sha256": "a9ff6ba7cacf65b6f90b131fd01dad84d788798f97e82c6a9f925780f5f8b18d"
 }

@@ -7,6 +7,15 @@ published_gmt: 2016-10-17 15:09:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/abc-banking-corporation-best-international-bank-indian-ocean-2016/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d0f82f3cb78f760dda55cb842613e154c1198ed45164be87b2ae2d32be0004ed
 canonical: 3472-abc-banking-corporation-best-international-bank-indian-ocean-2016.json
 ---

@@ -12,8 +12,21 @@
         "Best Practice",
         "CSR"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3587\" src=\"https://cfi.co/awards/wp-content/uploads/2016/11/Tradex.jpg\" alt=\"tradex\" width=\"500\" height=\"157\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Since the energy sector of Cameroon was liberalised and deregulated in 2000 with a view to reinvigorate a largely dormant industry, local trading firm Tradex has managed to acquire the pole position, claiming a market share in excess of 50%. Tradex imports and distributes oil and derivatives such as lubricants in Cameroon. The company also exports its products to the mostly landlocked countries of the Economic Community of Central African States (ECCAS).</strong></p>\r\n<p style=\"text-align: justify;\">Founded in 1999 as a joint-venture between the Société Nationale des Hydrocarbures – Cameroon’s national oil and gas company – and local and foreign investors, Tradex has accumulated significant experience and knowhow on the international trade in oil – both crude and refined.</p>\r\n<p style=\"text-align: justify;\">The company has developed a proprietary and highly dynamic trading model that enables it to respond quickly and efficiently to changing market conditions.</p>\r\n<p style=\"text-align: justify;\">From its earliest days, Tradex has been fully committed to furthering national development via a number of CSR (corporate social responsibility) initiatives that aim to support efforts at improving education, healthcare, and community engagement. By providing reliable and widely available sources of energy via its growing network of service stations, Tradex hopes to encourage entrepreneurship and empower established businesses.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel recognises the importance of energy traders. In Cameroon, Tradex has consistently raised the bar and was able to barrel ahead, providing essential services effectively and dependably. The judges are pleased to declare Tradex winner of the 2016 Most Socially-Responsible Management Team Central Africa Award.</p>",
     "content_sha256": "7b600d30b3008c811aa303f9730530cdb24a34a2dce8760c9a63d259ffe53fd2",
-    "record_sha256": "24c593cfeb7f24bc35e64bcb174a9361b45c76e79596311074bf83de9a0f835e"
+    "record_sha256": "2a07a16bdfcc19748f5f982b5d6411c3d67560b7e9fa285ae3a8c8a17a58b864"
 }

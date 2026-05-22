@@ -7,6 +7,15 @@ published_gmt: 2016-04-19 11:52:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2016/bansefi-best-social-impact-bank-mexico-2016/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 23f7962e5602aa34b0fa5a4727410f89d90d972c451ed5399166a21ed66d4046
 canonical: 3128-bansefi-best-social-impact-bank-mexico-2016-2.json
 ---

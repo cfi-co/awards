@@ -7,6 +7,15 @@ published_gmt: 2021-03-11 08:09:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/bbva-asset-management-most-responsible-investment-management-team-spain-2021/"
 categories: ["Asset Management", "Best Practice", "CSR", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4dd7cf3f19988d67c29ce5cfeeecec966cfd4679a54410b2bd0d60ccad466a8
 canonical: 8924-bbva-asset-management-most-responsible-investment-management-team-spain-2021.json
 ---

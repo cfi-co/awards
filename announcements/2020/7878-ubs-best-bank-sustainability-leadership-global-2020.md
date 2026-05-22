@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 11:14:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2020/ubs-best-bank-sustainability-leadership-global-2020/"
 categories: ["Banking", "Best Practice", "Corporate Leadership", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 693571d070d55bf0fedf34e1264197c918ce7b286c83124d86445b4a1492a9f0
 canonical: 7878-ubs-best-bank-sustainability-leadership-global-2020.json
 ---

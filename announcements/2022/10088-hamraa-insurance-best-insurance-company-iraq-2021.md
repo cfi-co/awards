@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:24:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/hamraa-insurance-best-insurance-company-iraq-2021/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 48a1eae0f2eb0ae653474d3f173406ad5218e90492dd66e4a71341ac8b5e3fba
 canonical: 10088-hamraa-insurance-best-insurance-company-iraq-2021.json
 ---

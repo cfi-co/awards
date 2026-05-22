@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 13:34:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/agthia-group-best-corporate-governance-uae-2016/"
 categories: ["Best Practice", "Corporate Governance", "Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d01af686bd15021942b30e3c7546f686cb19d37bc69bd36164905e99f6d3c10b
 canonical: 3963-agthia-group-best-corporate-governance-uae-2016.json
 ---

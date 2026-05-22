@@ -7,6 +7,15 @@ published_gmt: 2021-12-20 07:00:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/optimum-asset-management-best-pension-fund-asset-management-solutions-germany-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 631c93e6f1cf719f3ca165943e1517745aaa26e9655db0213d8c8253d3bb403e
 canonical: 9902-optimum-asset-management-best-pension-fund-asset-management-solutions-germany-20.json
 ---

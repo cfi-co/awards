@@ -7,6 +7,15 @@ published_gmt: 2016-08-09 13:43:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/engie-energia-peru-best-esg-power-producer-peru-2016/"
 categories: ["Best Practice", "CSR", "Industries", "Latin America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 10deec05dadaabad47d3e76a90145f2883bbe49c8f582909b7c0382eb6621366
 canonical: 3300-engie-energia-peru-best-esg-power-producer-peru-2016.json
 ---

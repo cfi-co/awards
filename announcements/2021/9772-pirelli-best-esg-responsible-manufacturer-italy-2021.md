@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 14:04:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/pirelli-best-esg-responsible-manufacturer-italy-2021/"
 categories: ["Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 25dcf9f193b88abaa7d3fdf6c1a0a38e5b7ad249401a339c2012dc3a3cbc3e80
 canonical: 9772-pirelli-best-esg-responsible-manufacturer-italy-2021.json
 ---

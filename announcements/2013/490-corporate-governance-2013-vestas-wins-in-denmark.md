@@ -7,6 +7,15 @@ published_gmt: 2013-05-16 11:38:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/corporate-governance-2013-vestas-wins-in-denmark/"
 categories: ["Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d96b205a3d671a2a4e2219b3976f1b3166171d483e96af7a71b22ae550acaa1
 canonical: 490-corporate-governance-2013-vestas-wins-in-denmark.json
 ---

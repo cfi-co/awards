@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:34:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/home-reit-most-responsible-reit-europe-2021/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb4418df672363f971ba0c531a1d953a0e93e1260163ff76d6c813e6e011a06b
 canonical: 9351-home-reit-most-responsible-reit-europe-2021.json
 ---

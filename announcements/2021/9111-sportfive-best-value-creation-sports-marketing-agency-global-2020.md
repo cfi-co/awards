@@ -7,6 +7,15 @@ published_gmt: 2021-05-06 11:31:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/sportfive-best-value-creation-sports-marketing-agency-global-2020/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8d39159680ccc0ed43c5bf157a70178d8a0f139eaa2344cda152fa5b9237d6aa
 canonical: 9111-sportfive-best-value-creation-sports-marketing-agency-global-2020.json
 ---

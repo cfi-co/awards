@@ -7,6 +7,15 @@ published_gmt: 2021-03-01 13:17:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/nec-payments-b-s-cc-best-digital-banking-technology-innovator-middle-east-2021/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ecf65b0e9e3be7cdcecf2510d0659603c2a452cd01eda4f0e489aa54f3c4863
 canonical: 8875-nec-payments-b-s-cc-best-digital-banking-technology-innovator-middle-east-2021.json
 ---

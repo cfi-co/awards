@@ -12,8 +12,21 @@
         "Europe",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7011\" src=\"https://cfi.co/awards/wp-content/uploads/2019/12/Said-Business-School.jpg\" alt=\"Said Business School\" width=\"400\" height=\"191\" />\r\n<p style=\"text-align: justify;\">The University of Oxford is a name that resonates throughout the world as a pinnacle of academic excellence, and an affiliation with the institution carries a certain gravitas. Saïd Business School is more than a mere affiliate: its programmes are embedded in the fabric of Oxford’s collegiate offering. Saïd Business School taps the brightest minds from academia and industry to help guide student discussions about the challenges and opportunities facing the business community — and the world at large. It has the aim of solving societal issues through research, education, and engagement. Saïd approaches its mission from the perspective of people, purpose, and partnerships, collaborating with global research projects and initiatives in societal enterprise, impact finance, inclusive capitalism, and responsive business practices. The business school offers face-to-face degree and open enrolment programmes at the Oxford campus, as well as online courses to allow broader access. Saïd students pursue business degrees and diplomas in economics, finance, management, and leadership. They can also delve into hi-tech subjects such as AI, algorithmic trading, blockchain and fintech. The school offers learning opportunities tailored for busy business lead-ers, with executive educational programmes providing a blended learning experience — online, on-campus, and on-site. These include practical and impactful projects as well as one-on-one coaching support. The CFI.co judging panel agrees with Saïd that education is about transformation, and believes the school has the power to influence policy through its research efforts. The judges were also convinced that it can create meaningful change in individuals and organisations via its strong portfolio of programmes. The panel declares Saïd Business School the winner of the 2019 award for Most Innovative Digital Value Creation Pro-gramme (UK).</p>",
     "content_sha256": "325ae3f0892fae7ee5f01ea4e4866a1c182f0b3010ad73aded15111d5cc466f7",
-    "record_sha256": "d4e29b90415110115be3971df7e1f6bf0966b8a20f9c7e421a6354c2b6204a98"
+    "record_sha256": "3a43aab1059d6167fddc4477becd47faa21a85e357ff1e44cae155ee449f884d"
 }

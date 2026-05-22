@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 13:58:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/aan-digital-services-holding-company-ksc-kuwait-best-converged-communications-leadership-gcc-2017/"
 categories: ["Corporate Leadership", "Industries", "Middle East", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17178ea9186447b6285261c76b9a03dc1beed6964a57fa087b8db02d13a33566
 canonical: 5234-aan-digital-services-holding-company-ksc-kuwait-best-converged-communications-le.json
 ---

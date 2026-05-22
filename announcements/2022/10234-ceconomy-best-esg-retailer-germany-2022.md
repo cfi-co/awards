@@ -7,6 +7,15 @@ published_gmt: 2022-03-11 14:22:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/ceconomy-best-esg-retailer-germany-2022/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Industries", "Retail", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9088eecd1738e2393466006d1ecba7ad70c26292cf3d075defddbd5707a518e4
 canonical: 10234-ceconomy-best-esg-retailer-germany-2022.json
 ---

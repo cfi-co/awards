@@ -12,8 +12,21 @@
         "Middle East",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2009\" src=\"https://cfi.co/awards/wp-content/uploads/2013/03/mcl.jpg\" alt=\"mcl\" width=\"404\" height=\"157\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co award panel are pleased to announce Mena City Lawyers as the Best Corporate and Commercial Team, Lebanon, 2013.</strong></p>\r\n<p style=\"text-align: justify;\">MCL, under the chairmanship of Fady Jamaleddine, has built up a strong and internationally experienced team of legal experts. The firm is well placed to provide advice to both local and international clients particularly those who focus on the MENA region. With the ability to bring to bear a multi-disciplined team to help with the most complex matters and a history of seeing client business through from formation to exit, MCL has an enviable track record. The judges were also particularly impressed by the firm's pro bono work and clear focus on its internal code of ethics. We believe that this ethical approach and the firm’s high level of expertise help explain why MCL has been recognised by the World Bank for its contributions to SME development. As SMEs form the cornerstone of economically sustainable development, MCL is without doubt a leading law firm contributing to growth in the region.</p>",
     "content_sha256": "dbf81560648906cd18b6510563c44d0f374e63251efcf72a732d2e36ab6246ec",
-    "record_sha256": "0af43c19d5dd83736d91720603f73c5fef82d8e60daf7f199c21797e2b2744cf"
+    "record_sha256": "3391f89e8e301f11c3a20cd59956f9417dce1aebe20a0ebe14473b1e63e76830"
 }

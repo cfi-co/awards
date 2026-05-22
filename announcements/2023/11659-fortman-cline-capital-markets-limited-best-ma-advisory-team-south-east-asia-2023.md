@@ -7,6 +7,15 @@ published_gmt: 2023-07-27 12:02:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2023/fortman-cline-capital-markets-limited-best-ma-advisory-team-south-east-asia-2023/"
 categories: ["Asia Pacific", "Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd15407c935df8872f1ae46798e6131ce5ca04ca065815446918e74342f59453
 canonical: 11659-fortman-cline-capital-markets-limited-best-ma-advisory-team-south-east-asia-2023.json
 ---

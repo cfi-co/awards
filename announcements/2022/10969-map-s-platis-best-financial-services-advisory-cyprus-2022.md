@@ -7,6 +7,15 @@ published_gmt: 2022-12-15 05:08:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2022/map-s-platis-best-financial-services-advisory-cyprus-2022/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c1d25afb305afd929ebf89000f0043ac3883290c8ec973ac89c39aef52192834
 canonical: 10969-map-s-platis-best-financial-services-advisory-cyprus-2022.json
 ---

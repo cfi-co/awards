@@ -7,6 +7,15 @@ published_gmt: 2012-10-02 13:52:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2012/jones-day-applauded-in-the-labour-employment-sector-in-the-united-states-as-part-of-2012-legal-awards/"
 categories: ["Legal", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a1b49ad18479df54f22a5c49619c518ebe4566c5789979ae209ac20e98ae87e
 canonical: 244-jones-day-applauded-in-the-labour-employment-sector-in-the-united-states-as-part.json
 ---

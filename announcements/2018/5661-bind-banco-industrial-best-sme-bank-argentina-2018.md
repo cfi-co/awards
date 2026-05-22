@@ -7,6 +7,15 @@ published_gmt: 2018-05-15 18:03:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2018/bind-banco-industrial-best-sme-bank-argentina-2018/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2759b2224a6e99f7e718a34bb1b31e638f8d8ee5d829a24f2e0ee535502c3c79
 canonical: 5661-bind-banco-industrial-best-sme-bank-argentina-2018.json
 ---

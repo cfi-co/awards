@@ -7,6 +7,15 @@ published_gmt: 2013-11-04 09:02:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/zenith-bank-a-winner-in-nigeria/"
 categories: ["Africa", "Banking", "Best Practice", "Corporate Governance", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d92feb9a5085f55146d2a193ee66a3942455c5b191de858664dbb0b3994c7fb
 canonical: 257-zenith-bank-a-winner-in-nigeria.json
 ---

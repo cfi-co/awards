@@ -7,6 +7,15 @@ published_gmt: 2021-03-15 14:28:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/carne-group-financial-services-best-fund-services-team-ireland-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c79a7f49a89a6aa2183b9378f0b1dd19a17899342d44b63630563d2515f271e7
 canonical: 8939-carne-group-financial-services-best-fund-services-team-ireland-2020.json
 ---

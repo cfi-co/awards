@@ -11,8 +11,21 @@
         "Africa",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_6790\" align=\"aligncenter\" width=\"1000\"]<img class=\"wp-image-6790 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2019/06/Private-Client-Holdings.jpg\" alt=\"\" width=\"1000\" height=\"800\" /> <strong>Founders:</strong> Grant Alexander and Andrew Ratcliffe[/caption]\r\n<p style=\"text-align: justify;\">Looking after clients’ wealth is a point of pleasure and pride at Private Client Holdings, the South African firm that approaches wealth management from a customer-centric, goal-based perspective. The firm aims to outpace its peers and outperform the markets with a conservative yet results-driven approach that has consistently delivered respectable returns over the past 19 years. The firm’s long track record of strong and steady performance is a just one of the factors that elevates it above the competition. The innovative fintech solutions — a result of years of savvy tech investments — is yet another factor. Tech advances have enabled Private Client Holdings to operate at superior levels of efficiency and rapid response, but the firm counts its people as the force that most drives its success. Private Client Holdings employs over 100 highly qualified professionals who are dedicated to the firm’s philosophy: to provide investment advisory services that are tailored to the client and “grounded in independent, rational thinking, in diversification and in long-term value creation”. Private Client Holdings has been lauded as a champion of best practices with investment strategies that deliver consistent outcomes over time — and its track record has inspired confidence amongst investors as well as investment team members. The CFI.co judging panel believes the firm’s blended and bespoke investment approach provides unparalleled support of the needs of high-net wealth families. The judges have no reservations in naming Private Client Holdings as the winner of the 2019 Best Investment Advisory Team (South Africa) award.</p>",
     "content_sha256": "c3e08c29f9180e5d3279404d7630c623aebacd3f3200ba342ac9477a5f2ec7a9",
-    "record_sha256": "61d99ca9ec843d11ae0cc74354f35b4df4e45a2dc2f2f3fe64f195d1e3f8b21d"
+    "record_sha256": "0afe559ee587ccfe12d8ca6488210fb481fd9ffdac4740827739c9bd6c43208f"
 }

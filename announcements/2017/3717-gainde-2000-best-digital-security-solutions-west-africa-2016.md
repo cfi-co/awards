@@ -7,6 +7,15 @@ published_gmt: 2017-01-09 13:11:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/gainde-2000-best-digital-security-solutions-west-africa-2016/"
 categories: ["Africa", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1937a9a45245360ee4beb53c84dfc9987c114ea950ca4b81ec0d915c5a959ad7
 canonical: 3717-gainde-2000-best-digital-security-solutions-west-africa-2016.json
 ---

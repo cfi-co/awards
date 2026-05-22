@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 13:58:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/mefic-capital-best-private-equity-fund-manager-saudi-arabia-2017/"
 categories: ["Asset Management", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff01dec13e06b0ad082dc5aba6491fbac9e7d0168272a740b4f977c5d6e3065d
 canonical: 5229-mefic-capital-best-private-equity-fund-manager-saudi-arabia-2017.json
 ---

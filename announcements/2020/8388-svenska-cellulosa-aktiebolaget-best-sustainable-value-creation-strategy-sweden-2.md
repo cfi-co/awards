@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:55:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/svenska-cellulosa-aktiebolaget-best-sustainable-value-creation-strategy-sweden-2020/"
 categories: ["Best Practice", "Europe", "Industries", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 193d6ab1c4d98689b2c505d30dc67270a5da9646241e56eaf2be74bdc0a14d09
 canonical: 8388-svenska-cellulosa-aktiebolaget-best-sustainable-value-creation-strategy-sweden-2.json
 ---

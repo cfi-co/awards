@@ -7,6 +7,15 @@ published_gmt: 2015-01-06 13:32:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/building-trust-and-ensuring-good-business-conduct-our-corporate-governance-winner-in-west-africa/"
 categories: ["Africa", "Best Practice", "Corporate Governance", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: af3c18b95cfa138bf329fc8750cf34d7c63a63adc464effb1b984d657501ae67
 canonical: 1459-building-trust-and-ensuring-good-business-conduct-our-corporate-governance-winne.json
 ---

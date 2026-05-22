@@ -7,6 +7,15 @@ published_gmt: 2024-12-08 09:45:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2024/trading-com-highly-transparent-broker-eu-uk-2024/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a9778be4d5dc5a66ec2aaa4925e8df57df7588132691f1d1e0efeaea3ecd44f7
 canonical: 12739-trading-com-highly-transparent-broker-eu-uk-2024.json
 ---

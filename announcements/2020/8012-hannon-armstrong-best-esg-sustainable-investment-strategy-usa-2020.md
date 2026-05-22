@@ -7,6 +7,15 @@ published_gmt: 2020-07-22 17:49:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/hannon-armstrong-best-esg-sustainable-investment-strategy-usa-2020/"
 categories: ["Best Practice", "Finance", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 781eaa00de358693b5974242e0dc2f392087f9b672017d02b9302dff54e6fc5e
 canonical: 8012-hannon-armstrong-best-esg-sustainable-investment-strategy-usa-2020.json
 ---

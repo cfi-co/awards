@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 14:09:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/rotana-hotel-management-corporation-best-hotel-manager-global-emerging-markets-2017/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f32cd2b9f30afdce96f18e62157f698a596978eeb2eee911453d252412f5f408
 canonical: 4739-rotana-hotel-management-corporation-best-hotel-manager-global-emerging-markets-2.json
 ---

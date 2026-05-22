@@ -11,8 +11,21 @@
         "Finance",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8316\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Gallatin-Point-Capital.jpg\" alt=\"Gallatin-Point-Capital\" width=\"400\" height=\"222\" />\r\n<p style=\"text-align: justify;\">Gallatin Point Capital (GPC) is a private investment firm led by seasoned professionals who have earned their spurs over lengthy careers in finance. Lewis A “Lee” Sachs served as the Assistant Secretary of the Treasury for Financial Markets, and Matthew Botein oversaw opportunistic investments at BlackRock Alternative Investors. The GPC managing partners have assembled a talented team of young professionals with a passion for entrepreneurism. The boutique firm takes an atomic view of investment opportunities to identify the needs of the business as well as the expected returns. GPC aims to generate generous returns per unit of risk by backing companies with winning ideas and strong leadership, and supports its investees through collaborative partnerships. The GPC portfolio of businesses and holdings ranges from new market entrants with experienced founding teams to established enterprises looking for capital growth partners or pursuing specific objectives. GPC treats each collaboration as puzzle to be solved, studying the pieces to find a perfect fit. It pairs equity stake or liquidity solutions with managerial expertise to help investees overcome challenges and unlock growth. It favours a creative strategy of more idiosyncratic and uncorrelated rewards and risks rather than those linked with the performance of equity and bond markets. This distinctive approach allows for greater risk-adjusted returns and more flexibility in deal structures. The CFI.co judging panel declares Gallatin Point Capital the worthy winner of the 2020 award for Best Opportunistic Investment Strategy (US).</p>",
     "content_sha256": "6552a71eb6b47cb7293a56532fcd789fcacc21d3d17667faa1b23a5e5b6e65f4",
-    "record_sha256": "55c0c0b311ee61e56d4757bb682d1a76ec831ecda3f3e34df01487c3600c7c5a"
+    "record_sha256": "da218a1914a00d6b659c4e85bc7f2f3647b814ba9076ef0c980fb44d29fad62b"
 }

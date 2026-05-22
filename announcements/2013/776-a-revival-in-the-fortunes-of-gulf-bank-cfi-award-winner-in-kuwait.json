@@ -11,8 +11,21 @@
         "Banking",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-777\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/gulf-bank-300x98.jpg\" alt=\"gulf bank\" width=\"300\" height=\"98\" /></p>\r\n<p style=\"text-align: justify;\"><strong>An object lesson in effective restructuring: That how the CFI.co Judging Panel described the encouraging turn-around in the fortunes of the Kuwait-based Gulf Bank which was until recently plagued by the after-effects of the 2008 financial crisis.</strong></p>\r\n<p style=\"text-align: justify;\">Gulf Bank has now succeeded in recapturing the public’s trust which plummeted following the financial meltdown of 2008 when the bank lost most of its capital. Wisely, the Gulf Bank’s new management pursued a back-to-basics strategy focusing on core competencies and steering well clear of any less promising activity.</p>\r\n<p style=\"text-align: justify;\">In order to differentiate itself from the crowd, the Gulf Bank has embraced innovation and the concept of “super service” as its core values. The judging panel congratulates Gulf Bank on its on-going and rather inspiring We Promise Campaign. This marketing effort aims to emphasize the bank’s prompt and efficient delivery of its many services to a standard way beyond – if not light years ahead of – the one employed at most institutions.</p>\r\n<p style=\"text-align: justify;\">Gulf Bank now boasts a vastly improved balance sheet, good governance and the full confidence of all stakeholders. Given the dramatic improvement of this bank’s performance and its obvious thirst for more and better, CFI.co is pleased to name Gulf Bank as Best Commercial Bank, Kuwait, 2013.</p>",
     "content_sha256": "1565218f4650a65ed9b082e4bc01aaa31ce530162c56c13b712008fde8b53956",
-    "record_sha256": "570e3350ce6e3df352acc14150f271488900217ebc57fa311a178ff6aafc0430"
+    "record_sha256": "4e8f32c5fab117b6648e717440f3e5e9544ad245e41f9ef372b1294793d05276"
 }

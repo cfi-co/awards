@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 13:50:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/dubai-electricity-and-water-authority-dewa-outstanding-contribution-to-sustainable-utilities-delivery-global-2017/"
 categories: ["Best Practice", "Government", "Industries", "Middle East", "Projects", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0daa63d3cbc73eb97f57abe41a92542a45d77d478194fbcb84a7aa4f4368b6d0
 canonical: 5119-dubai-electricity-and-water-authority-dewa-outstanding-contribution-to-sustainab.json
 ---

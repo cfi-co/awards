@@ -7,6 +7,15 @@ published_gmt: 2022-01-24 14:34:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/kay-international-amea-best-global-reinsurance-broker-gcc-2021/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 768fa7ea2a586893360cfa1baba77586eb7c4ded1d165922162edd17dde2fd96
 canonical: 10001-kay-international-amea-best-global-reinsurance-broker-gcc-2021.json
 ---

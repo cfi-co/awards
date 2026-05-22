@@ -12,8 +12,21 @@
         "Industries",
         "Oil &amp; Gas"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2014/08/wp-sgsm-logo-2.png\"><img class=\"aligncenter size-full wp-image-1271\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/wp-sgsm-logo-2.png\" alt=\"wp-sgsm-logo-2\" width=\"209\" height=\"77\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>Spectrum Geotechnical Services Limited is the CFI.co 2014 winner of the award for ‘Best Drilling Services &amp; Solutions Team, Nigeria.’</strong></p>\r\n<p style=\"text-align: justify;\">The Judging Panel commented that, ‘Spectrum has been active in Nigeria for the past eleven years. There has been great improvement in the industry during this time and Spectrum can claim to have made their mark. Spectrum is working well with internationals for direct importation of materials and on contract work too. Safety really does come first at Spectrum and this company has a fine record. We sense a commendable concern for the environment too.  Spectrum is a very worthy winner.’</p>",
     "content_sha256": "35fac7de8541b7c49dc14983d6d77b28e26aaac9d1199190c383be544971a86e",
-    "record_sha256": "014291b4aa4a3da1ec523f1785417709f4e0e6c70657a8c7bee8a5d2f1b02e69"
+    "record_sha256": "6faee54a4f4db5fef9ab4c76442814e5646e1250c6bc26cd00aa5fb3865e42ae"
 }

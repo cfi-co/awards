@@ -7,6 +7,15 @@ published_gmt: 2013-09-18 09:59:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/a-revival-in-the-fortunes-of-gulf-bank-cfi-award-winner-in-kuwait/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1565218f4650a65ed9b082e4bc01aaa31ce530162c56c13b712008fde8b53956
 canonical: 776-a-revival-in-the-fortunes-of-gulf-bank-cfi-award-winner-in-kuwait.json
 ---

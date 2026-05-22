@@ -7,6 +7,15 @@ published_gmt: 2023-12-29 09:05:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/tunis-international-bank-tib-best-banking-governance-tunisia-2023/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 09ae7feb9c9e97d88037e4df14c67ff7ead9866c1d0885c41ab91d34ec15cfa5
 canonical: 12181-tunis-international-bank-tib-best-banking-governance-tunisia-2023.json
 ---

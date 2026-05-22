@@ -7,6 +7,15 @@ published_gmt: 2013-06-12 17:18:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/klagsbald-wins-this-years-dispute-resolution-award-in-israel/"
 categories: ["Legal", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8340e15fbcf97dd4513c7d10affa2c800b3f2dbc387ffd02392d020e6b6fe385
 canonical: 573-klagsbald-wins-this-years-dispute-resolution-award-in-israel.json
 ---

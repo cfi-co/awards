@@ -7,6 +7,15 @@ published_gmt: 2020-12-03 07:00:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/belinvestbank-best-digital-banking-solutions-cis-2020/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c09dd0900a802926dbc438f27091ce9e914f1b51f7076d457d50fe4b80dc68da
 canonical: 8525-belinvestbank-best-digital-banking-solutions-cis-2020.json
 ---

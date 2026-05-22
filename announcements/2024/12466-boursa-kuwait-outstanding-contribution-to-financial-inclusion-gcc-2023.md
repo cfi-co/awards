@@ -7,6 +7,15 @@ published_gmt: 2024-07-08 13:14:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2024/boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2023/"
 categories: ["Exchanges &amp; Brokers", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 700f74aaf3b29f024843d185bd82bd80dca8ac130d8446f068157055a5043c9a
 canonical: 12466-boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2023.json
 ---

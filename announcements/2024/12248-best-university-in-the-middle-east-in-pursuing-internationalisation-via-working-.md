@@ -7,6 +7,15 @@ published_gmt: 2024-01-22 08:13:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2024/best-university-in-the-middle-east-in-pursuing-internationalisation-via-working-towards-the-uns-sdgs/"
 categories: ["Best Practice", "Middle East", "Projects", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5282cc9129ba7d2f9037d752e3728a54e3376a7961ceb1b74c2801722dbef653
 canonical: 12248-best-university-in-the-middle-east-in-pursuing-internationalisation-via-working-.json
 ---

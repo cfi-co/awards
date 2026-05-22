@@ -7,6 +7,15 @@ published_gmt: 2020-05-26 14:18:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/neuhaus-best-luxury-goods-customer-satisfaction-benelux-2020/"
 categories: ["Customer Satisfaction", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90f93e1bb395012057fd15b0a67e221737b7e97bb7c3b13340ff28f636d46772
 canonical: 7390-neuhaus-best-luxury-goods-customer-satisfaction-benelux-2020.json
 ---

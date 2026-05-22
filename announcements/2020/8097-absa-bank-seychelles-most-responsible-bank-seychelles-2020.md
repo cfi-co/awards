@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:12:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/absa-bank-seychelles-most-responsible-bank-seychelles-2020/"
 categories: ["Africa", "Banking", "Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 260101c3c831c82486d1e5c42e88a22825b248af5c491d1ec75d463d460d7e7f
 canonical: 8097-absa-bank-seychelles-most-responsible-bank-seychelles-2020.json
 ---

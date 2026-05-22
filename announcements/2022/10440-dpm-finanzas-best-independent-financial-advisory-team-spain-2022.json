@@ -13,8 +13,21 @@
         "Finance",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-10441\" src=\"https://cfi.co/awards/wp-content/uploads/2022/05/DPM-Finanzas.jpg\" alt=\"DPM Finanzas\" width=\"400\" height=\"129\" /></p>\r\n<p style=\"text-align: justify;\">DPM Finanzas believes that good investments start with the right financial advisor. Founded in 2013, DPM Finanzas is one of the few CNMV- regulated Spanish investment services companies that exclusively provides independent financial and wealth advice. Its “fee only” financial advisory model is reinforced by its exclusive specialisation — it does not provide any additional services or develop its own products — and the equity of the company is entirely in the hands of the management team. DPM Finanzas tailors bespoke solutions to client needs, working mainly with family groups, entrepreneurs, sports stars, charities and endowments. Services are supported by a strong technological platform, but the firm credits its team as the greatest asset. The firm recruits professionals with significant recognition in the sector, including high technical financial knowledge and extensive experience. Above all, they must share the values of the firm, always putting the client at the centre of decisions and acting with transparency and honour. DPM takes client commitments seriously, applying independent decision-making with a prudent, future-forward, global vision to differentiate solutions for each client’s circumstances. It assists clients to align portfolios according to their personal sustainability priorities. DPM’s unique advisory model, together with an important rigorous analysis and global investment strategy, has allowed the firm to achieve continuous and strong growth since its foundation, both in terms of clients and assets under advice. The CFI.co judging panel presents DPM Finanzas with the 2022 Best Independent Financial Advisory Team (Spain) award.</p>",
     "content_sha256": "f6fba3074ddbf098e2ba59187c9254cdac3f1a912fed161e50a8a54b244ea473",
-    "record_sha256": "ec6212db71ec179f60abe42c65a7a9e297d7693383d93747786a424efd3d4b48"
+    "record_sha256": "3dc327c32223188546cb75fdb61f374af586f352c30239a76c75ddeb1edaabac"
 }

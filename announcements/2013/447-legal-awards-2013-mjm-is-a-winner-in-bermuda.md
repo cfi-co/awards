@@ -7,6 +7,15 @@ published_gmt: 2013-04-10 09:34:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2013/legal-awards-2013-mjm-is-a-winner-in-bermuda/"
 categories: ["Legal", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 858385942e329dd922b9187c27cdf7329d4fcbb247e0f94395b0973bab65d535
 canonical: 447-legal-awards-2013-mjm-is-a-winner-in-bermuda.json
 ---

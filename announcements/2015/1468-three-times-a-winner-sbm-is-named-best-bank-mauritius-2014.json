@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2012/10/SBM-Logo.jpg\"><img class=\"aligncenter size-full wp-image-858\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/SBM-Logo.jpg\" alt=\"SBM-Logo\" width=\"250\" height=\"125\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>SBM Bank (Mauritius) Ltd has been named the country’s Best Bank for three consecutive years of the CFI.co Banking Awards programme. The Judging Panel expressed a special commendation of SBM on this exceptional achievement. Despite economic challenges in operating countries, SBM’s recent financial performance has been very satisfying.</strong></p>\r\n<p style=\"text-align: justify;\">The Panel points out that,’ consecutive year winners typically move from strength to strength – even when times are tough – and that has certainly been the case with SBM. The third year win gives an indication of the fundamental strength of this outstanding bank that was established some forty years ago. SBM now has over 1200 employees and operates throughout Mauritius with branch offices in India and Madagascar. Our 2014 winner has a twenty percent share of the domestic market and a capitalisation of $1 billion. This is a solid, dependable bank with exemplary operating efficiency and great services and products. Well done SBM.’</p>",
     "content_sha256": "f1482891a70d25447c76e0c124208df6dd00ebf4542185dceb99e6c4a6df5cee",
-    "record_sha256": "21c76e84513aca0922c43b23ad93d75969c24735f8675d0b97728a9d6d378374"
+    "record_sha256": "66ac62c38bf4afaf5ef068dbcc9d692551516080c8414a63aaf6c226f7c1ac79"
 }

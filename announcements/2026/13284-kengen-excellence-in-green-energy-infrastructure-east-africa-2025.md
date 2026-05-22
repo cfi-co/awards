@@ -7,6 +7,15 @@ published_gmt: 2026-01-22 13:31:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2026/kengen-excellence-in-green-energy-infrastructure-east-africa-2025/"
 categories: ["Africa", "Development", "Government", "Industries", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c0e62026c53b371550675fdacfef3e41c7ae7dae9b9e75dc57eb677028878d8c
 canonical: 13284-kengen-excellence-in-green-energy-infrastructure-east-africa-2025.json
 ---

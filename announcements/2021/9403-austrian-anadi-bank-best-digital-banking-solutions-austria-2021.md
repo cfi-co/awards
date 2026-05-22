@@ -7,6 +7,15 @@ published_gmt: 2021-07-27 11:25:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/austrian-anadi-bank-best-digital-banking-solutions-austria-2021/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9ba43de7b3853802ab972b9237ca1d9855fb3c3e1b2c3d758e075d252d21a53b
 canonical: 9403-austrian-anadi-bank-best-digital-banking-solutions-austria-2021.json
 ---

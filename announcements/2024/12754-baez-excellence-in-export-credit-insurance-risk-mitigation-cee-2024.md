@@ -7,6 +7,15 @@ published_gmt: 2024-12-10 11:57:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2024/baez-excellence-in-export-credit-insurance-risk-mitigation-cee-2024/"
 categories: ["Development", "Europe", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4cfde606fb85af5aaf5724b3f368e496af8c9474bbb542855f2d35e2da0a362b
 canonical: 12754-baez-excellence-in-export-credit-insurance-risk-mitigation-cee-2024.json
 ---

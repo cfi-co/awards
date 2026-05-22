@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 11:37:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/tracom-services-best-enterprise-payment-solutions-east-africa-2017/"
 categories: ["Africa", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abede7eb03aa241a579e55641e1d7eb6299d3b3715fddc0eb0ec88cef5b408da
 canonical: 4254-tracom-services-best-enterprise-payment-solutions-east-africa-2017.json
 ---

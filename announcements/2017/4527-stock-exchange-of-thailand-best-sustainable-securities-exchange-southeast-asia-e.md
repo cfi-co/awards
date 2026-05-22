@@ -7,6 +7,15 @@ published_gmt: 2017-06-29 08:48:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/stock-exchange-of-thailand-best-sustainable-securities-exchange-southeast-asia-emerging-markets-2017/"
 categories: ["Asia Pacific", "Best Practice", "Exchanges &amp; Brokers", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 10d6bba86a8b1f7f3727064ded9440d81888d8d40f904ee2c26f8c60ecc48677
 canonical: 4527-stock-exchange-of-thailand-best-sustainable-securities-exchange-southeast-asia-e.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2017-10-12 12:25:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/unionbank-of-the-philippines-best-universal-bank-philippines-2017/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 36d63e7d0a375b4da6c2954cad89e24656868d8e866f8a96a56732f49170bc0d
 canonical: 4933-unionbank-of-the-philippines-best-universal-bank-philippines-2017.json
 ---

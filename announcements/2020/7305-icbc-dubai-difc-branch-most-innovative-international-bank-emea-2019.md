@@ -7,6 +7,15 @@ published_gmt: 2020-01-01 10:21:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/icbc-dubai-difc-branch-most-innovative-international-bank-emea-2019/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f0d10418bfb7a02ea72e646095c63c9164071bc32c179e344a70caafa76adc4c
 canonical: 7305-icbc-dubai-difc-branch-most-innovative-international-bank-emea-2019.json
 ---

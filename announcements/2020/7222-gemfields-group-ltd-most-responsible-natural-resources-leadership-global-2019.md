@@ -7,6 +7,15 @@ published_gmt: 2020-01-29 09:35:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/csr/2020/gemfields-group-ltd-most-responsible-natural-resources-leadership-global-2019/"
 categories: ["CSR"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f32e905c86c0d9ce60488721402526887bc97221bec66eb0fa4bec323b31e1b2
 canonical: 7222-gemfields-group-ltd-most-responsible-natural-resources-leadership-global-2019.json
 ---

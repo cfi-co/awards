@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 12:52:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2017/bremont-watch-company-best-heritage-technology-innovator-uk-2016/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 48a75d58d2c28dad53ff48b26e4411852a2d58083f923a5bf1c085c1f691e36b
 canonical: 3943-bremont-watch-company-best-heritage-technology-innovator-uk-2016.json
 ---

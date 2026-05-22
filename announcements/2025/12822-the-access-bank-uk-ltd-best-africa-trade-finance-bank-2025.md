@@ -7,6 +7,15 @@ published_gmt: 2025-01-28 12:01:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2025/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2025/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e61f5d4b38f9ad8aaed1e53c2de25f5ce645f68d99d8d780147bd6633a30c5aa
 canonical: 12822-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2025.json
 ---

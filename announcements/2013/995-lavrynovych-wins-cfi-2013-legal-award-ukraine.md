@@ -7,6 +7,15 @@ published_gmt: 2013-12-01 15:36:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/lavrynovych-wins-cfi-2013-legal-award-ukraine/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdb6a97346a190d09422e5b492947f803921d9fb06baa1d131b7701439a60165
 canonical: 995-lavrynovych-wins-cfi-2013-legal-award-ukraine.json
 ---

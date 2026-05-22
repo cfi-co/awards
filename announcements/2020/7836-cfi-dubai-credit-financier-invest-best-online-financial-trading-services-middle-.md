@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:38:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/cfi-dubai-credit-financier-invest-best-online-financial-trading-services-middle-east-2020/"
 categories: ["Exchanges &amp; Brokers", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5cdbec7ae6f2d9bc7b5608d5555fdb12e1e5cf69f1a85fd4c4e36035184ccde
 canonical: 7836-cfi-dubai-credit-financier-invest-best-online-financial-trading-services-middle-.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-03-09 12:02:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/bluesnap-best-payment-gateway-global-2019/"
 categories: ["Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 724620433511db662d843da1ccf7ec3a2723b40356002e42d8ec0e33c496060d
 canonical: 7278-bluesnap-best-payment-gateway-global-2019.json
 ---

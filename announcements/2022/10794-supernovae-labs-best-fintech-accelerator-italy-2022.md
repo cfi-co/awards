@@ -7,6 +7,15 @@ published_gmt: 2022-10-04 13:53:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2022/supernovae-labs-best-fintech-accelerator-italy-2022/"
 categories: ["Europe", "Finance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 628b0868a91a16ede3aad1d5ab433775080572159418ed4122ba52ee2e5a434b
 canonical: 10794-supernovae-labs-best-fintech-accelerator-italy-2022.json
 ---

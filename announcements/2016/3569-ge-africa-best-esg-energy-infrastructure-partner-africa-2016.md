@@ -7,6 +7,15 @@ published_gmt: 2016-11-09 12:29:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/ge-africa-best-esg-energy-infrastructure-partner-africa-2016/"
 categories: ["Africa", "Best Practice", "CSR", "Industries", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9bb90a52fac5fdd30ab6901ab58ef4fe437eb7b7cbe009f1f050051649dc910f
 canonical: 3569-ge-africa-best-esg-energy-infrastructure-partner-africa-2016.json
 ---

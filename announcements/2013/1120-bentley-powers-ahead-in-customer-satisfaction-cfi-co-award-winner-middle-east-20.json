@@ -11,8 +11,21 @@
         "Customer Satisfaction",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_1130\" align=\"aligncenter\" width=\"587\"]<img class=\"wp-image-1130 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/Bentley1.jpg\" alt=\"Janice Hinson, Marketing Manager for Bentley - Middle East, receiving an award from CFI.co (Tor Svensson, left, and Marten Mark, right) in front of the new Flying Spur\" width=\"587\" height=\"416\" /> <strong>Janice Hinson, Marketing Manager for Bentley - Middle East, receiving an award from CFI.co (Tor Svensson, left, and Marten Mark, right) in front of the new Flying Spur</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>There has been powerful performance at Bentley Motors, Middle East this past year.</strong> Dubai is the home of a specially designed Bentley workshop which is the largest such facility anywhere in the world. And the welcome extended to the Continental GT, launched in 2012, has resulted in a large slice of Bentley’s worldwide business coming from this part of the world.</p>\r\n<p style=\"text-align: justify;\">The Judging Panel commented that, ‘To say that Bentley customers have nothing to complain about is an extreme understatement. We have no hesitation in naming Bentley as winner of the award ‘Best Customer Satisfaction, Middle East, 2013’. Outstanding customer service ensures that Bentley delivers one of the world’s most desirable driving experiences’.</p>",
     "content_sha256": "78efd468c9b5da13639c37be870f9a4910d6fbec65530caf5ee03c17211f4c34",
-    "record_sha256": "5acd170ce58a56c0eebb7db414dc6717a409231062f6e9953de67ea98090f8cc"
+    "record_sha256": "7239a7dba63715b9047d88323051855785a4c50c7ac8cf27b22997fcf4d80d06"
 }

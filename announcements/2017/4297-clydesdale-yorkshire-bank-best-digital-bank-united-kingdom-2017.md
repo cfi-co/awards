@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 12:53:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/clydesdale-yorkshire-bank-best-digital-bank-united-kingdom-2017/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b8a2f59e3c05e6fdde13f0160afb28a1b04b83a7ea13049286ef11928853bff2
 canonical: 4297-clydesdale-yorkshire-bank-best-digital-bank-united-kingdom-2017.json
 ---

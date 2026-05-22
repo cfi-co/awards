@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 13:41:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2018/minerva-foods-best-esg-processing-plant-investment-partners-latin-america-2017/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Latin America", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da1098aa11fd7fa42dd732433f28e273c89247f516b4795767361b03ffecc0ed
 canonical: 4900-minerva-foods-best-esg-processing-plant-investment-partners-latin-america-2017.json
 ---

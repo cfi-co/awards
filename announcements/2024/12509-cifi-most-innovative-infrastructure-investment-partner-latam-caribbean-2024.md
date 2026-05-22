@@ -7,6 +7,15 @@ published_gmt: 2024-08-20 12:20:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2024/cifi-most-innovative-infrastructure-investment-partner-latam-caribbean-2024/"
 categories: ["Development", "Finance", "Industries", "Latin America", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 33b8e7a718f82dac3138f3d8578d9113181f7da639163e5f7f25495fd820b2f3
 canonical: 12509-cifi-most-innovative-infrastructure-investment-partner-latam-caribbean-2024.json
 ---

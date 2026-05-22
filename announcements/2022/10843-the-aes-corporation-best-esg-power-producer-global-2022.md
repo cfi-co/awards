@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 12:33:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/the-aes-corporation-best-esg-power-producer-global-2022/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6bd633d4bc356090d7028020780463b3e65a221c55a9b0441fede2dbfef37af1
 canonical: 10843-the-aes-corporation-best-esg-power-producer-global-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-03-10 16:56:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2023/priority-income-fund-best-clo-closed-end-fund-investor-us-2023/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6971bc3e8c4ebe375ebc1f5eeaecded99d7b34d586ed929d7d6bcdd9761369e0
 canonical: 11222-priority-income-fund-best-clo-closed-end-fund-investor-us-2023.json
 ---

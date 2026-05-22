@@ -11,8 +11,21 @@
         "Finance",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7061\" src=\"https://cfi.co/awards/wp-content/uploads/2019/12/HypoportLogo.jpg\" alt=\"Hypoport Logo\" width=\"500\" height=\"81\" />\r\n<p style=\"text-align: justify;\">Hypoport can trace its roots back through 65 years of strategic mergers and acquisitions. The Hypoport Group has grown into a network of autonomous subsidiaries in the credit, private client, real estate, and insurance sectors. Hypoport AG, the holding company responsible for the group’s central management functions, serves as the engine for the advancement and expansion of Hypoport subsidiaries. Since Hypoport was admitted to the German Small-Cap Index (SDAX) in 2015, it has seized upon acquisition opportunities to future-proof its tech capabilities and diversify its product portfolio. The group is completing a tech infrastructure overhaul that’s been 15 years in the making. Hypoport has implemented Cisco ACI across its multi-site data centre and network to deploy iron-clad fail-safes to prevent security breaches and protect clients’ sensitive data. Hypoport welcomes the decentralised future that fintech heralds, feeling confident in the control afforded by its upgraded tech infrastructure, which allows it to monitor digital traffic in real time. In 2018, Hypoport’s market capitalisation exceeded $1.1b, and 2019 growth is expected to reach double digits, with projected revenue of $345m to $378m and EBIT at $35m to $44m. Reinvesting profits into growth strategies and curating top-rate talent continue to fuel the company’s upward mobility. Hypoport asserts that every challenge can be solved with the right talent, and the company has cherry-picked a team of 1,800 people with the complimentary expertise — and shared drive — to overcome any obstacles. The CFI.co judging panel declares Hypoport AG as the 2019 winner of the Best Financial Technology Network (Europe) award.</p>",
     "content_sha256": "bd9a3f62d7424829c0c47557f639d4a9f8938ef48a44561586fd2061df716261",
-    "record_sha256": "4114068043b8a970ef05709479851e184b193f52b89d8fdca7b1d341f2d2a3b2"
+    "record_sha256": "49030b9e818fdf255534053655e0ba7a198c119176cfe36f2e2d23999400e7a0"
 }

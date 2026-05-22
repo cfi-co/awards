@@ -7,6 +7,15 @@ published_gmt: 2020-11-17 07:00:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/umpqua-bank-best-community-bank-usa-2020/"
 categories: ["Banking", "Community Engagement", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b2f7a7749cc3b255c042c790530d07b8d18d7002965492c940ca4c9e5c48b69
 canonical: 8466-umpqua-bank-best-community-bank-usa-2020.json
 ---

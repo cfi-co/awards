@@ -7,6 +7,15 @@ published_gmt: 2023-08-29 15:07:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/frank-investments-best-portfolio-construction-strategy-uk-2023/"
 categories: ["Asset Management", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa1d984fe6fc53c0586c4a135b48a2e9b0ac58510fd00d4368a85b74851e532a
 canonical: 11845-frank-investments-best-portfolio-construction-strategy-uk-2023.json
 ---

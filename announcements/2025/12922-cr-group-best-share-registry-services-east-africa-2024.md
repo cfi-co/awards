@@ -7,6 +7,15 @@ published_gmt: 2025-04-08 14:54:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2025/cr-group-best-share-registry-services-east-africa-2024/"
 categories: ["Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d254870b883201d714e4fbee8a70f88ee1e1fd7131e3a13093f96af67ca96e0
 canonical: 12922-cr-group-best-share-registry-services-east-africa-2024.json
 ---

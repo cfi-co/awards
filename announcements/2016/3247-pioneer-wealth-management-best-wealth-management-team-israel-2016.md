@@ -7,6 +7,15 @@ published_gmt: 2016-08-02 15:26:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/asset-management/2016/pioneer-wealth-management-best-wealth-management-team-israel-2016/"
 categories: ["Asset Management"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a5e3fb0e4305d49b1717c0f559a8d64349775c09f2ace14e319722df89f798d
 canonical: 3247-pioneer-wealth-management-best-wealth-management-team-israel-2016.json
 ---

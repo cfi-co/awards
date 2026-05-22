@@ -7,6 +7,15 @@ published_gmt: 2024-07-30 14:01:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/turkiye-kalkinma-ve-yatirim-bankasi-green-finance-innovator-award-turkiye-2024/"
 categories: ["Best Practice", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d64097b8cef1f2a4005f1455ef9fd1ca28b3bd58c17b03b6b62b53a1039454a
 canonical: 12494-turkiye-kalkinma-ve-yatirim-bankasi-green-finance-innovator-award-turkiye-2024.json
 ---

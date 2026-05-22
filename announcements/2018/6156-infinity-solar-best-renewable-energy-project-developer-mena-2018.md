@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 11:39:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/infinity-solar-best-renewable-energy-project-developer-mena-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 13852ce39af52adc82e4db7f2da8eec78fbbc8a17ef790a14fe676fb650bbc22
 canonical: 6156-infinity-solar-best-renewable-energy-project-developer-mena-2018.json
 ---

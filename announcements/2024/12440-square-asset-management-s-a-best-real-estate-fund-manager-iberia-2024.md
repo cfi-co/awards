@@ -7,6 +7,15 @@ published_gmt: 2024-06-24 11:49:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/square-asset-management-s-a-best-real-estate-fund-manager-iberia-2024/"
 categories: ["Asset Management", "Europe", "Finance", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 09c07d7a237434f39107e159ff41c05314dd4fabc091cb49babedeec23fc863a
 canonical: 12440-square-asset-management-s-a-best-real-estate-fund-manager-iberia-2024.json
 ---

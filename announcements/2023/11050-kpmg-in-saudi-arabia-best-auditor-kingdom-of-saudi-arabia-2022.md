@@ -7,6 +7,15 @@ published_gmt: 2023-01-10 13:29:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2023/kpmg-in-saudi-arabia-best-auditor-kingdom-of-saudi-arabia-2022/"
 categories: ["Consultancies", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1892a67ba355708853b117f975fea5b18e6c2be1272928565e49e36e0078a6bd
 canonical: 11050-kpmg-in-saudi-arabia-best-auditor-kingdom-of-saudi-arabia-2022.json
 ---

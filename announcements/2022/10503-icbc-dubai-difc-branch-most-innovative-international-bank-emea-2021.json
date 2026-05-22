@@ -11,8 +11,21 @@
         "Asia Pacific",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-5162\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/ICBC.jpg\" alt=\"ICBC\" width=\"500\" height=\"166\" /></p>\r\n<p style=\"text-align: justify;\">Industrial and Commercial Bank of China Limited (ICBC) has a 38-year history of continuous innovation to best support the socio-economic development of the communities where it operates. It now serves some eight million global corporate and 650 million retail clients through a robust domestic and international network. ICBC Dubai (DIFC) Branch anchors the group’s Middle Eastern network, which includes five regional branches. It provides clients with deposit and credit accounts as well as investment advisory, asset management and custody arrangement services. The bank’s enviable location in the Dubai International Financial Centre (DIFC) — an important financial hub for markets in the Middle East, Africa and South Asia — underscores its potential as catalyst and connector. It collaborates with governments, sovereign institutions and corporate clients to fuel infrastructure investments, economic diversification and green development across the GCC region. The bank’s diversified business structure and client-centric focus have allowed it to adapt with evolving times and stay ahead of trends. It drives innovation to pursue high-quality development and seize opportunities amid uncertainties. The group continues to roll-out increasingly intelligent services to meet modern banking needs. ICBC has built an integrated biosphere driven by an API open platform and financial cloud technology. It has introduced functionalities that support smart cities and rural financial inclusion. The CFI.co judging panel has recognised the bank in previous awards programmes and this year is no exception: ICBC Dubai (DIFC) Branch takes the 2021 award for Most Innovative International Bank (EMEA).</p>",
     "content_sha256": "201675ab30893c0a56dc03f6071a4a769e5f3b61af243a6253bdf5299a46e158",
-    "record_sha256": "bb71ddd5a584512b14d93efbb1bb586a5678227bd0b1b94ea86d5c28f23b8148"
+    "record_sha256": "58e7b064a96dcb67926ea4e7d7dc017d346d59cb6ef4c2f50244ea27ecdef29a"
 }

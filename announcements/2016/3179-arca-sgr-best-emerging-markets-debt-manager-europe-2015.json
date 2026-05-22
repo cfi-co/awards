@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_3181\" align=\"aligncenter\" width=\"874\"]<img class=\"wp-image-3181 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2016/05/Arca.jpg\" alt=\"\" width=\"874\" height=\"583\" /> Best Emerging Markets Debt Manager - Europe 2015: <strong>Giuliano Palumbo</strong> - Fixed Income Portfolio Manager <em>(left)</em> and <strong>Giovanni Radicella</strong> - Head of Fixed Income <em>(right)</em>[/caption]\r\n<p style=\"text-align: justify;\"><strong>Few asset managers boast a deeper reach into their home market than Arca SGR of Italy. A market leader since 1983, the company works with no less than 120 placing agencies that together operate a network of over 8,000 branches throughout the country. Arca SGR has more than 650,000 subscribers to its investment funds.</strong></p>\r\n<p style=\"text-align: justify;\">Arca SGR not only serves individual savers, but also provides full-service solutions to institutional investors and corporates. The firm closely adheres to the Global Investment Performance Standards (GIPS) – a set of ethical principles that aim to improve the industry’s transparency and presentation via a globally standardised approach.</p>\r\n<p style=\"text-align: justify;\">Arca SGR has established a solid reputation for ferreting out promising investment opportunities in emerging markets, displaying a keen sense for opportunity coupled to a sensible approach to risk mitigation. Offering investors a multitude of choices across most asset classes, Arca SGR provides its clients with a wealth of options and information that meet the requirements of even the most discerning of investors.</p>\r\n<p style=\"text-align: justify;\">A number of bespoke investment solutions are provided according to individual risk profiles. As one of Italy’s oldest asset managing companies, Arca SGR possesses the knowledge, expertise, and experience to offer investors flexible solutions that consistently match individual preferences and exceed expectations.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judges are particularly impressed with the Arca SGR approach to emerging markets. The company’s adherence to global best practices and its firm belief in the long-term prospects of select emerging markets have propelled Arca SGR to the very apex of Italy’s asset managing sector. The judges are pleased to present Arca SGR with the 2015 Best Emerging Markets Debt Manager Europe Award.</p>",
     "content_sha256": "dcb4805b3e45f0a759d6a65b8ce1eeb2c8923641911f27873126946088e694f8",
-    "record_sha256": "774ac9747383114cddb981cc7dd86aca46fee4455d7af30ba5d5adb40ecb0730"
+    "record_sha256": "3fb698467637ccaa6f36f69761f5252f5691f7d2a974687f00f86e4d50bea126"
 }

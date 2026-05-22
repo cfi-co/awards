@@ -11,8 +11,21 @@
         "Asia Pacific",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4962\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/ABC.jpg\" alt=\"\" width=\"214\" height=\"62\" />\r\n<p style=\"text-align: justify;\"><strong>Listed on the Stock Exchange of Mauritius since early 2016, ABC Banking Corporation has seen its share price almost double. The bank’s solid fundamentals and strict adherence to international best practices inspire confidence. ABC Banking Corporation has embarked on a path of accelerated growth, propelled in part by its dedication to operational efficiency and excellence in the delivery of client services.</strong></p>\r\n<p style=\"text-align: justify;\">ABC Banking Corporation maintains four business lines: retail, business, private, and international banking. Earlier this year, the bank opened a representative office in Hong Kong and thus became the first Mauritius-based financial services provider with a presence in China.</p>\r\n<p style=\"text-align: justify;\">The move is part of a wider strategy aimed at unlocking Chinese investment in Mauritius and in the wider East African Region. Thanks to its expertise in navigating the region’s dynamic markets, ABC Banking Corporation is particularly well-positioned to assist Chinese investors as they seek to expand their horizons.</p>\r\n<p style=\"text-align: justify;\">The bank offers an exceptionally comprehensive array of products and services optimised to dovetail with Mauritius’ unique financial environment. The formula pioneered by ABC Banking Corporation – based on passion, professionalism, and innovation amongst others – is derived from well over eighty years of accumulated business acumen.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel has followed the corporate trajectory of the Mauritius bank for a number of years and applauds the bank’s overseas expansion drive. The judges are pleased to declare ABC Banking Corporation winner of the 2017 Best International Bank Indian Ocean Award.</p>",
     "content_sha256": "e3f835ff046e0d3d77f19e95543a86d53eb96ff224b02547695874a268a7667a",
-    "record_sha256": "524200134b258f846391d36c3541b49de3d7aeb46376f0d6efd9f29f66aafc34"
+    "record_sha256": "491abdb55f08cafa5aeb15cb0043576f8f1363835d9e21d30d461b86747f6009"
 }

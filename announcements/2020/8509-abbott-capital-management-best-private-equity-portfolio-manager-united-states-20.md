@@ -7,6 +7,15 @@ published_gmt: 2020-11-30 09:34:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/abbott-capital-management-best-private-equity-portfolio-manager-united-states-2020/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9ac90ca4e1c6cd3e1480856212b54c88042f99b4e2917968d65d0604f339b97
 canonical: 8509-abbott-capital-management-best-private-equity-portfolio-manager-united-states-20.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-07-12 14:24:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/orlean-invest-west-africa-cfi-community-engagement-award-winner-2013/"
 categories: ["Africa", "Best Practice", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd873542361b51da6a59896342b8cfc8ad1f59c6c7a9e8db48fd3e75bbe9dc44
 canonical: 649-orlean-invest-west-africa-cfi-community-engagement-award-winner-2013.json
 ---

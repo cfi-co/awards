@@ -7,6 +7,15 @@ published_gmt: 2021-09-02 11:15:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/mti-consulting-best-boutique-management-consultancy-mea-2021/"
 categories: ["Consultancies", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 141af268ed0c98986ba8abeb5f87b0355ed2464ebe1e290842125d04ed928d38
 canonical: 9546-mti-consulting-best-boutique-management-consultancy-mea-2021.json
 ---

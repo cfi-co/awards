@@ -7,6 +7,15 @@ published_gmt: 2018-09-10 13:02:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/bank-one-best-corporate-bank-indian-ocean-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b94e7a6f76b1f2f4817c1aed3ffb7d0889d641280ca4ee1eebf0f98fa3a8c1c7
 canonical: 6022-bank-one-best-corporate-bank-indian-ocean-2018.json
 ---

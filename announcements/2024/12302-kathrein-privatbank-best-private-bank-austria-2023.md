@@ -7,6 +7,15 @@ published_gmt: 2024-03-01 14:37:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/kathrein-privatbank-best-private-bank-austria-2023/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8ffd4981079f1036b7fbb5a0b7b4bda7840a06a64ef915f01494459889e32673
 canonical: 12302-kathrein-privatbank-best-private-bank-austria-2023.json
 ---

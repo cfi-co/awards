@@ -7,6 +7,15 @@ published_gmt: 2020-06-24 10:53:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/exim-credit-most-innovative-trade-finance-gcc-2020/"
 categories: ["Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 26bd7f13f4239a1beeda0996c6d75aeb505ad8edac5ead9f120e96602fea94ea
 canonical: 7628-exim-credit-most-innovative-trade-finance-gcc-2020.json
 ---

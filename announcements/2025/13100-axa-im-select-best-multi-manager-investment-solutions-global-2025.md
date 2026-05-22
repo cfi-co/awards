@@ -7,6 +7,15 @@ published_gmt: 2025-09-23 11:42:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2025/axa-im-select-best-multi-manager-investment-solutions-global-2025/"
 categories: ["Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca77e57bfd58b7f559c9bab300c0094a880be26f6295c4daff12ff9a3c44560e
 canonical: 13100-axa-im-select-best-multi-manager-investment-solutions-global-2025.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-03-29 10:22:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/merrill-edge-self-directed-best-ease-of-use-mobile-broker-global-2022/"
 categories: ["Banking", "Exchanges &amp; Brokers", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e293e2270b69cd43696524d3c04d9da11b9e7817597bf80790e097f4f535e19
 canonical: 10275-merrill-edge-self-directed-best-ease-of-use-mobile-broker-global-2022.json
 ---

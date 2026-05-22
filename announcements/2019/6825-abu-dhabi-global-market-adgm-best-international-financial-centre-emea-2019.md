@@ -7,6 +7,15 @@ published_gmt: 2019-07-29 12:55:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/abu-dhabi-global-market-adgm-best-international-financial-centre-emea-2019/"
 categories: ["Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 19d3593c920d0858be8c2b8f39fa91821efdc59b587736eee0a0ca8e1c01c018
 canonical: 6825-abu-dhabi-global-market-adgm-best-international-financial-centre-emea-2019.json
 ---

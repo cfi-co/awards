@@ -7,6 +7,15 @@ published_gmt: 2020-05-19 08:45:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/acadian-asset-management-most-innovative-investment-solutions-north-america-2020/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 78ae97698fb37f21f144e1c834657cff035d0aed31decdbf10ad5ab974b9c514
 canonical: 7355-acadian-asset-management-most-innovative-investment-solutions-north-america-2020.json
 ---

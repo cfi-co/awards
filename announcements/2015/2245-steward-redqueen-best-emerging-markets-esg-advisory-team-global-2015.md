@@ -7,6 +7,15 @@ published_gmt: 2015-06-09 11:15:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/steward-redqueen-best-emerging-markets-esg-advisory-team-global-2015/"
 categories: ["Best Practice", "Consultancies", "Europe", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee87e4c2d0b02e6f8378676581f8a0fc8c0f09bdda4ce2ede8ca43e4ab530425
 canonical: 2245-steward-redqueen-best-emerging-markets-esg-advisory-team-global-2015.json
 ---

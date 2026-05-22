@@ -7,6 +7,15 @@ published_gmt: 2024-11-27 13:13:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/ghana-stock-exchange-best-stock-exchange-for-economic-growth-west-africa-2024/"
 categories: ["Africa", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f7ba96434b88949e809397c75c23f7d06dab8891a9508862f2c54231dfb4ac5
 canonical: 12722-ghana-stock-exchange-best-stock-exchange-for-economic-growth-west-africa-2024.json
 ---

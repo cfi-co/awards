@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 13:24:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/astad-best-infrastructure-project-management-team-gcc-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d6fc338baeeea0f8158223962959e6903d917e885b77978e45c57c08defe990
 canonical: 6179-astad-best-infrastructure-project-management-team-gcc-2018.json
 ---

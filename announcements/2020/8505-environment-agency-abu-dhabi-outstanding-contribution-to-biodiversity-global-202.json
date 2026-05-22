@@ -15,8 +15,21 @@
         "Industries",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8506\" src=\"https://cfi.co/awards/wp-content/uploads/2020/11/Environment-Agency-Abu-Dhabi.jpg\" alt=\"Environment Agency Abu Dhabi\" width=\"500\" height=\"144\" />\r\n<p style=\"text-align: justify;\"><strong>Environment Agency — Abu Dhabi (EAD) was founded over 25 years ago by a group of pioneering ecologists determined to protect regional ecosystems. The agency has grown into the largest environmental regulator in the Middle East, earning its reputation for championing conservation and collaboration.</strong></p>\r\n<p style=\"text-align: justify;\">EAD has built on the legacy of the late Sheikh Zayed by expanding the network of protected lands to include 19 areas, 13 of which are terrestrial representing 16.9 percent, and 6 are marine representing 13.9 percent of the terrestrial and marine ecosystems, respectively.</p>\r\n<p style=\"text-align: justify;\">EAD helped to bring the Oryx back from the brink of extinction, and in 2019 the Arabian Oryx population in Abu Dhabi reached 5,000 – making it the largest herd in the world.</p>\r\n<p style=\"text-align: justify;\">Abu Dhabi’s dugong population is the world’s second largest, with the highest density per square meter in the Arabian Gulf.</p>\r\n<p style=\"text-align: justify;\">More than 700 dolphins have been registered, as well as 37 endangered finless porpoises and 268 Indo-Pacific bottlenose dolphins.</p>\r\n<p style=\"text-align: justify;\">Al Wathba Wetland Reserve was the first protected area in the GCC to make the IUCN Green list. The wetlands are home to thousands of migratory flamingos.</p>\r\n<p style=\"text-align: justify;\">Jabal Hafit National Park is the only place where the Dwarf Palm is found. The Arabian Caracal was recently sighted in the area for the first time in 35 years.  The park also hosts globally threatened species, and the only concentration of the globally threatened Egyptian Vulture in the UAE.</p>\r\n<p style=\"text-align: justify;\">EAD strives to safeguard natural resources to address environmental challenges and to continuously create awareness about environmental issues.</p>\r\n<p style=\"text-align: justify;\">EAD’s five-year strategy will incorporate AI, the use of the latest technology and multi-linked databases to tackle problems at scale. The CFI.co judging panel presents EAD as the 2020 global award winner for Outstanding Contribution to Biodiversity.</p>\r\n<p style=\"text-align: justify;\"></p>",
     "content_sha256": "2f83b440d8b20458c1f0d6f5f4ae3cfccf9fbc9a343bf85d10947d87ce899c1a",
-    "record_sha256": "3ecf5eb96776de4c03d38a9dbc846ddff8223ea9ca78bed1d2429113143cc180"
+    "record_sha256": "b7b93a7a93f4781e9b29b8242ea5b5957c93eda1ab0136cf68ca5a8c68d1e650"
 }

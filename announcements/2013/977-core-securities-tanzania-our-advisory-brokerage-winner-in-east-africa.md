@@ -7,6 +7,15 @@ published_gmt: 2013-11-25 11:00:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/core-securities-tanzania-our-advisory-brokerage-winner-in-east-africa/"
 categories: ["Africa", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3254a8ffa472f58332e5716825bd0b98183fdb4aa8127eb1d419c2f4088e428
 canonical: 977-core-securities-tanzania-our-advisory-brokerage-winner-in-east-africa.json
 ---

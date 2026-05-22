@@ -7,6 +7,15 @@ published_gmt: 2022-01-24 12:33:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2021/"
 categories: ["Asia Pacific", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b8ab6db1c9ad92d29c65d0707677fedb5cf374ea1e4d88437c3978a822f7266
 canonical: 9996-aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2021.json
 ---

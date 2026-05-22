@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 14:03:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/vector-group-best-financial-management-team-united-states-2021/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 79d031dff033d84399ccaffad055a2ac74fbd5879f4b0e68570b68b6437da5d7
 canonical: 9481-vector-group-best-financial-management-team-united-states-2021.json
 ---

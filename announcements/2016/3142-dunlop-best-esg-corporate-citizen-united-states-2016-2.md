@@ -7,6 +7,15 @@ published_gmt: 2016-04-19 12:44:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/dunlop-best-esg-corporate-citizen-united-states-2016/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: caeb8a6a870977f86cb538193428dcb739d40b0ce18e7b2d3e56fe467e6e9591
 canonical: 3142-dunlop-best-esg-corporate-citizen-united-states-2016-2.json
 ---

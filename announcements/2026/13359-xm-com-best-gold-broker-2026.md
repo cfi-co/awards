@@ -7,6 +7,15 @@ published_gmt: 2026-03-18 11:18:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2026/xm-com-best-gold-broker-2026/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2517db080474dfeed56d0b6768f227a8ff55853c9b294b3ce5de8b9813277d4b
 canonical: 13359-xm-com-best-gold-broker-2026.json
 ---

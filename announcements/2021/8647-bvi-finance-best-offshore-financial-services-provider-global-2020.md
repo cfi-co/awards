@@ -7,6 +7,15 @@ published_gmt: 2021-01-25 16:40:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/bvi-finance-best-offshore-financial-services-provider-global-2020/"
 categories: ["Consultancies", "Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5fa1e7798fd5e0599782601526cf7ac4bc67ba1db3477caf720747f1548a74a9
 canonical: 8647-bvi-finance-best-offshore-financial-services-provider-global-2020.json
 ---

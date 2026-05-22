@@ -7,6 +7,15 @@ published_gmt: 2015-05-12 15:44:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/banco-millennium-angola-best-commercial-bank-angola-2015/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b2f64d46dcb5a80807f13cc2280db26af3a8836aef696bce672fdbae8a9c4fb
 canonical: 2224-banco-millennium-angola-best-commercial-bank-angola-2015.json
 ---

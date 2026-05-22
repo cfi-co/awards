@@ -7,6 +7,15 @@ published_gmt: 2016-03-04 11:03:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2016/nova-banka-best-sme-bank-balkans-2015/"
 categories: ["Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 57714c93f84a2d695906904282d9010056baaade27d8ff4d27a01af01fe7ac4a
 canonical: 3564-nova-banka-best-sme-bank-balkans-2015.json
 ---

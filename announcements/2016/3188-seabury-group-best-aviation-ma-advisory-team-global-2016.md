@@ -7,6 +7,15 @@ published_gmt: 2016-01-10 14:29:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/seabury-group-best-aviation-ma-advisory-team-global-2016/"
 categories: ["Industries", "North America", "Technology", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 46d5be715cbbc9f88158ffe1b03dfdee539e6360a2224325857cfd5156c81d8d
 canonical: 3188-seabury-group-best-aviation-ma-advisory-team-global-2016.json
 ---

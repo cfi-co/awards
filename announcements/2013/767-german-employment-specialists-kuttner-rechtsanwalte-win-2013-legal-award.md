@@ -7,6 +7,15 @@ published_gmt: 2013-09-17 10:13:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/german-employment-specialists-kuttner-rechtsanwalte-win-2013-legal-award/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc32b1d4ed7348557333994bf62b8da42384d8764459ef85f4b0af99c4123f92
 canonical: 767-german-employment-specialists-kuttner-rechtsanwalte-win-2013-legal-award.json
 ---

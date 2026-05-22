@@ -7,6 +7,15 @@ published_gmt: 2019-12-05 17:12:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/tencent-most-innovative-social-media-company-asia-2019/"
 categories: ["Asia Pacific"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30f535ef76887b4d2b0688005bbaadabd84fd12383329231f365f5000d23bb62
 canonical: 7021-tencent-most-innovative-social-media-company-asia-2019.json
 ---

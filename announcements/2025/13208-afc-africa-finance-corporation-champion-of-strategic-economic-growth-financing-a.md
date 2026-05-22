@@ -7,6 +7,15 @@ published_gmt: 2025-11-12 09:41:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2025/afc-africa-finance-corporation-champion-of-strategic-economic-growth-financing-africa-2025/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad586e78dafc8f8db6c5703a36ed80b078450c17b50555a21f4f6742682e75fb
 canonical: 13208-afc-africa-finance-corporation-champion-of-strategic-economic-growth-financing-a.json
 ---

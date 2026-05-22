@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2018/kandeo-fund-best-esg-private-equity-team-latin-america-2017/"
 categories: ["Asset Management", "Best Practice", "CSR", "Corporate Governance", "Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9b6875257b50777b6c2d46fa2448bb10d4f1ee52d5e251f76290e32e3be2b6a9
 canonical: 5314-kandeo-fund-best-esg-private-equity-team-latin-america-2017.json
 ---

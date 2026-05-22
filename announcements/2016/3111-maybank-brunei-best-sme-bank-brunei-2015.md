@@ -7,6 +7,15 @@ published_gmt: 2016-04-07 11:24:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/maybank-brunei-best-sme-bank-brunei-2015/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed533b73ed0a939cc9e6e320e1a5777c3178fba90710fff9eaa1d3d818567dc9
 canonical: 3111-maybank-brunei-best-sme-bank-brunei-2015.json
 ---

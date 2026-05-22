@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 12:05:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/swarna-pragati-best-social-impact-home-finance-india-2017/"
 categories: ["Asia Pacific", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83ddd821234aad97c7a6f0602dd1febc83f6d2591da6797a2daf0ff112da07d4
 canonical: 4281-swarna-pragati-best-social-impact-home-finance-india-2017.json
 ---

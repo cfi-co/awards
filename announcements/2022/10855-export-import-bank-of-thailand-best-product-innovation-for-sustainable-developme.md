@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 12:52:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2022/export-import-bank-of-thailand-best-product-innovation-for-sustainable-development-thailand-2022/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "Development", "Government", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75c7ce42562d8b6cc70b7c143e6d4f3e936f83179df4fbbeaa5db18f81a1c187
 canonical: 10855-export-import-bank-of-thailand-best-product-innovation-for-sustainable-developme.json
 ---

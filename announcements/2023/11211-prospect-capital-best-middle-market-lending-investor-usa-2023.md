@@ -7,6 +7,15 @@ published_gmt: 2023-03-08 13:00:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2023/prospect-capital-best-middle-market-lending-investor-usa-2023/"
 categories: ["Consultancies", "Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 184f94ec239abd71efdc156e5aec5525f1bac8c4266e4098d9f20cb160fa0f83
 canonical: 11211-prospect-capital-best-middle-market-lending-investor-usa-2023.json
 ---

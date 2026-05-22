@@ -7,6 +7,15 @@ published_gmt: 2024-11-27 09:17:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/bov-fund-services-best-fund-administrator-malta-2024/"
 categories: ["Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fee9d30e7f1bbcec0f74a20ae7dc38d4624252b00aca136f0a0896ccd3c47ff3
 canonical: 12718-bov-fund-services-best-fund-administrator-malta-2024.json
 ---

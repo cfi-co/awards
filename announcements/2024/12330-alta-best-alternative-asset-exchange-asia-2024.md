@@ -7,6 +7,15 @@ published_gmt: 2024-04-09 15:40:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2024/alta-best-alternative-asset-exchange-asia-2024/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5bcefd7cd1e5ff24d1449d38c7d03810e260acdb23308130cdedb299ee7933c5
 canonical: 12330-alta-best-alternative-asset-exchange-asia-2024.json
 ---

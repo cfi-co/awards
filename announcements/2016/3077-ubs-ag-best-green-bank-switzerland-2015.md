@@ -7,6 +7,15 @@ published_gmt: 2016-04-08 08:28:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2016/ubs-ag-best-green-bank-switzerland-2015/"
 categories: ["Banking", "Best Practice", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e324ae639421aa77b430696401a3083054e671f1a3aa3b7c9e4b527e581fbb13
 canonical: 3077-ubs-ag-best-green-bank-switzerland-2015.json
 ---

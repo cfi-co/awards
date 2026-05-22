@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 13:50:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/corporate-leadership/2021/dtidz-best-free-economic-zone-leadership-balkans-2021/"
 categories: ["Corporate Leadership", "Development", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f1893b32afc0033780e35f21463abf2bf7857ef8daad8551fe33003f8f35422
 canonical: 9469-dtidz-best-free-economic-zone-leadership-balkans-2021.json
 ---

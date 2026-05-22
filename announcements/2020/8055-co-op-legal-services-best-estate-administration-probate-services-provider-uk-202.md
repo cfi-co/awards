@@ -7,6 +7,15 @@ published_gmt: 2020-08-10 14:21:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/co-op-legal-services-best-estate-administration-probate-services-provider-uk-2020/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abba6b21c72ef5f044defec29edc43d46056f4bc9db29e9c845ccff1e659826d
 canonical: 8055-co-op-legal-services-best-estate-administration-probate-services-provider-uk-202.json
 ---

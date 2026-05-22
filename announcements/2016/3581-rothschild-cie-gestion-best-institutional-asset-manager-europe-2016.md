@@ -7,6 +7,15 @@ published_gmt: 2016-11-14 16:15:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2016/rothschild-cie-gestion-best-institutional-asset-manager-europe-2016/"
 categories: ["Asset Management", "Banking", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7994b447b0cc701a78d7a24a615f0692df233bc73943b554f40901821219e260
 canonical: 3581-rothschild-cie-gestion-best-institutional-asset-manager-europe-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-05-05 08:43:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/apip-guinee-female-entrepreneurship-partner-africa-2023/"
 categories: ["Africa"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9052df6266229eb5dd82cd5c15289eb107eba1c1d8dc0fccc51ceca13205542f
 canonical: 11473-apip-guinee-female-entrepreneurship-partner-africa-2023.json
 ---

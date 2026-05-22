@@ -7,6 +7,15 @@ published_gmt: 2015-10-15 08:41:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2015/uol-group-best-property-portfolio-management-team-singapore-2015/"
 categories: ["Asia Pacific", "Development", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aa8f18a79bbca676bc850fdca4bd92a6af50b5b4895ec818804ae272e6d11dec
 canonical: 11234-uol-group-best-property-portfolio-management-team-singapore-2015.json
 ---

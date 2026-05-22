@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:01:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/societe-generale-guinee-best-business-bank-guinea-2021/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 101c36801d198038aecd754b3a211a86d3f5603c23c8daffccc994645e45c716
 canonical: 10111-societe-generale-guinee-best-business-bank-guinea-2021.json
 ---

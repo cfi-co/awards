@@ -7,6 +7,15 @@ published_gmt: 2024-09-16 15:32:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/corporate-leadership/2024/applied-science-private-university-digital-transformation-leader-in-higher-education-middle-east-2024/"
 categories: ["Corporate Leadership", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a88ccd4adbeb5e3a30ecc82493cea16fa5cb464ae91af41c4dd4474136dcbe67
 canonical: 12579-applied-science-private-university-digital-transformation-leader-in-higher-educa.json
 ---

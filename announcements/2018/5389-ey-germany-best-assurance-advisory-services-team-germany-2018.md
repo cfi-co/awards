@@ -7,6 +7,15 @@ published_gmt: 2018-04-06 16:17:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/ey-germany-best-assurance-advisory-services-team-germany-2018/"
 categories: ["Accounting", "Consultancies", "Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: edb8c8e8c47941315eb00ddb464f50928937ad39e304ab87a54461da769aaa3a
 canonical: 5389-ey-germany-best-assurance-advisory-services-team-germany-2018.json
 ---

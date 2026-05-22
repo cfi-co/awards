@@ -7,6 +7,15 @@ published_gmt: 2013-12-01 15:54:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/bahrain-bourse-wins-2013-award-for-corporate-governance-gcc/"
 categories: ["Best Practice", "Corporate Governance", "Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d48337d1dbc73b47d5800809ee58bd2eea24f24439a7d7ad4c6bd4c563a1d56
 canonical: 1005-bahrain-bourse-wins-2013-award-for-corporate-governance-gcc.json
 ---

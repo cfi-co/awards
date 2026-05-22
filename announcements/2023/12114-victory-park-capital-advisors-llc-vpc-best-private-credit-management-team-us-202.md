@@ -7,6 +7,15 @@ published_gmt: 2023-12-07 09:01:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2023/victory-park-capital-advisors-llc-vpc-best-private-credit-management-team-us-2023/"
 categories: ["Asset Management", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f7c993a80fb7c3177b013b6139623ba09e3afff7d60d524b40f6c029a711b0e8
 canonical: 12114-victory-park-capital-advisors-llc-vpc-best-private-credit-management-team-us-202.json
 ---

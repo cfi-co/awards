@@ -13,8 +13,21 @@
         "Islamic Banking",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9466\" src=\"https://cfi.co/awards/wp-content/uploads/2021/08/NBB.jpg\" alt=\"NBB\" width=\"400\" height=\"164\" />\r\n<p style=\"text-align: justify;\">National Bank of Bahrain (NBB) — the country’s first locally grown financial institution — has evolved over the past 64 years to become the market leader in retail and commercial banking services. Digital transformation has unlocked new levels of convenience, speed and security. With NBB’s online services, onboarding is simple and an account can be opened — with a “selfie” — in just five minutes. Registration can be completed with a national ID, an account number and a debit or credit card. Log-in times are fast, too, particularly when using the biometric access option. Clients can perform a variety of actions online, from managing cards to making payments. The bank set an ambitious digitalisation strategy — and has backed it with investment. The state-of-the-art platform has accelerated the new-to-bank onboarded customers and increased the current existing account engagement by double the figures in six months. This showcases the strength of the platform and the simplicity and speed that the customers are onboarding, anywhere and anytime. It also shows the confidence of our customers towards our bank. The digitalisation strategy was executed by a tech team on a mission to modernise banking in Bahrain. NBB is an institution that aims to enrich Bahraini lives for generations to come. It delivers on its promise of remaining closer to its clients with the largest network in Bahrain of ATMs, CDMs (Cash Deposit Machines) and branches. Additional branches in Abu Dhabi and Riyadh afford a springboard for expansion across the Gulf region and international markets. The CFI.co judging panel announces National Bank of Bahrain as winner of the 2021 award for Best Online Banking Solutions (Middle East).</p>",
     "content_sha256": "0721e62fc17c2ccc393246d00bcf596d0ff79a755478febe3525f1fdbf836031",
-    "record_sha256": "d9b254275d4a119e8a8042711ee8682d6fe93e7744be6c73484d494177f76411"
+    "record_sha256": "4b1fb5d1fd98e2cc5dfc97825b0ce75bfdc8a42a585ac9afc58ca38555b5c88d"
 }

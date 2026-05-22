@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10755\" src=\"https://cfi.co/awards/wp-content/uploads/2022/09/SG.jpg\" alt=\"Societe Generale\" width=\"489\" height=\"103\" />\r\n<p style=\"text-align: justify;\">Founded in 2012, Société Générale Congo has brought an outstanding level of compliance and corporate governance to the heart of Africa. Building on the foundation of Société Générale’s international reputation, the current management team has made the bank a beacon for international banking and customer relationships in the region. They have improved international transaction services by negotiating better terms and conditions with overseas banks and by improving the workflow for payment instructions from customers. They have also added new corporate services and universal banking products for both business and private customers. This is on top of the bank’s existing lending products, insurance products, online banking services, and import-export services. It also has a strong traditional branch footprint in the country with five branches in the two main cities of Brazzaville and Pointe Noire. It has become one of the leading banks in the Congo and the region. It has shown that close customer relationships and governance are core values, and that these are guided by an ongoing commitment to modernisation, innovation, and continual improvement. In parallel, its financial results have improved. The bank saw its first positive financial result in the last quarter of 2019 and has not looked back since. In testament to its nearly ten years of service to the Congo, its stellar reputation, and the recent gains under its current management, the CFI.co judging panel is pleased to award Société Générale Congo winner of the 2021 Best Bank (Republic of the Congo).</p>",
     "content_sha256": "39fb7bf23c288f853731128c1db4f688a21e37bde81e32e7573c7a6503ce5e96",
-    "record_sha256": "8bfbe0483352fb5549ce27d60ee616fdf649856790cb5f22cd8384bcee8e8d8a"
+    "record_sha256": "3eeb0631f18605d12b72290d29525add9fbf033ef9db06537b314e24e28f04af"
 }

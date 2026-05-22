@@ -7,6 +7,15 @@ published_gmt: 2022-10-25 12:33:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2022/oracle-best-cloud-based-integration-solutions-global-2022/"
 categories: ["Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e7cb9faaf70638179abdfd8c625ef96af5c18ae494bdb7ba094dc7301e7f601b
 canonical: 11168-oracle-best-cloud-based-integration-solutions-global-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-10-06 14:43:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/steadypay-best-embedded-finance-provider-uk-2024/"
 categories: ["Europe", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0605f831978ba5c189b8bb92e40c0cbab8d1ab4a8f88fc1f5542809d2f26a0ba
 canonical: 12606-steadypay-best-embedded-finance-provider-uk-2024.json
 ---

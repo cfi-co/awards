@@ -7,6 +7,15 @@ published_gmt: 2020-12-03 10:48:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/ara-asset-management-best-sustainable-reit-fund-manager-asia-pacific-2020/"
 categories: ["Asia Pacific", "Asset Management", "Best Practice", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cdf5dfa453179bb14b371a5644d994af5a68912bd76c8f72445852cf8953f8ec
 canonical: 8530-ara-asset-management-best-sustainable-reit-fund-manager-asia-pacific-2020.json
 ---

@@ -14,8 +14,21 @@
         "Middle East",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-4461\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/MB-300x220.jpg\" alt=\"\" width=\"300\" height=\"220\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A subsidiary of the Qatar Foundation for education, science, and community development, Msheireb Properties was set up to find and implement innovative solutions for urban living that improve the quality of life and enable sustainable growth. Through avant-garde design, the company aims to support Qatar’s 2030 Vision. Msheireb Properties’ much-lauded redevelopment of downtown Doha encourages social interaction, promotes cultural expression, and incorporates sustainable living.</strong></p>\r\n<p style=\"text-align: justify;\">Syncing time-honoured building methods with modern technology has allowed Msheireb Properties to deliver a city core that is inviting to visitors and residents alike whilst maintaining a distinctively Qatari touch. The company has deftly managed to employ an architectural language that builds on the local heritage and transposes tradition to the 21<sup>st</sup> century, ensuring that all requirements demanded by modern living are met. The signature Msheireb Downtown Doha project provides a blueprint for urban renewal that pushes the boundaries of sustainable development.</p>\r\n<p style=\"text-align: justify;\">Msheireb Properties, a commercial venture, takes great care in ensuring that Qatari entrepreneurs, including small business owners, are able to maximise their exposure to the opportunities arising from Qatar 2030 – the national development programme launched in 2008 that seeks to create the conditions for sustainable economic and societal growth.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that Qatar National Vision 2030 is already well underway and commends Msheireb Properties on its significant contribution towards the realisation of a sustainable development model. The judges are pleased to declare Msheireb Properties winner of the 2017 Best Urban Sustainability Qatar Award.</p>",
     "content_sha256": "dfe3bfe4f14257b5211ce440cc2cf48bfc331d58eedf28238569027a79df4849",
-    "record_sha256": "c84fabf522f0dd11dba99f30c0a677685b88b60d4471cb84b92ca34c7c41a960"
+    "record_sha256": "170271206f54e16ec96f9e13d3a9d78ebd531c431261400dac44f41399e3387a"
 }

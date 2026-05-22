@@ -7,6 +7,15 @@ published_gmt: 2022-05-17 05:58:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2022/kickstart-fund-most-innovative-venture-capital-team-us-2022/"
 categories: ["Finance", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7271e6810d9bcd5d2392762cb8bad6116b7ec18ff393c8480bd854ecb219717f
 canonical: 10452-kickstart-fund-most-innovative-venture-capital-team-us-2022.json
 ---

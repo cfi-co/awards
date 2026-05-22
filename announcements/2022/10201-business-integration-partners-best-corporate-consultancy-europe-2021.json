@@ -12,8 +12,21 @@
         "Europe",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10202\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/BIP.jpg\" alt=\"BIP\" width=\"400\" height=\"329\" />\r\n<p style=\"text-align: justify;\">Business Integration Partners (BIP) was set up in 2003 with a small team and a disruptive offering. Now the Milan-headquartered company has 4,000 people manning the desks at 20 offices in 12 countries. BIP invests considerable time and resources in the recruitment and retention of top talent. It has assembled a team of analysts, scientists, engineers, designers, marketers, technologists and managers that are “in the business of making sense and making things”. The team works together to help corporate clients implement transformation strategies and achieve quality at scale. BIP believes the traditional binary economic model — mass production with acceptable quality or niche markets with high quality — has become antiquated. Technology has reached the point where scalability and quality are no longer mutually exclusive. BIP approaches each consultancy from the formula of value, people and technology. It suggests that clients consider if they’re offering an irreplaceable value, AKA, giving back more than what they’re asking for. It looks to augment the power of people, helping clients to build the best team and work environment. Then BIP shows how technology could enable them to operate better, faster and cheaper. The company works with clients across different industries and business functions, creating bridges where the competition only sees borders. BIP adds its expert opinion to the global conversation through a comprehensive digital library of articles, insights and case studies. The CFI.co jury declares BIP as the 2021 Best Corporate Consultancy (Europe) award winner.</p>",
     "content_sha256": "cb9ebd18312bb6fe53a9d92b1f22ddf3f23b63abcc5c84d51c5a2f1e16db9a55",
-    "record_sha256": "bb232e2f5ef744719b489b3e80f5d8b2b5c4ba2bb7c69f685426bf15a98f52da"
+    "record_sha256": "5d2bf29bc28ae1cf942bcdf2f5e95196190e01ecc682326d8e04c58939c5f096"
 }

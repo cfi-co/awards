@@ -7,6 +7,15 @@ published_gmt: 2014-08-13 14:13:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2014/bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us/"
 categories: ["Banking", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b316338f83ca9ca2bb56a96cbeb629ab501530b5a62d9d9b711bf34bdc6fd67a
 canonical: 1295-bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us.json
 ---

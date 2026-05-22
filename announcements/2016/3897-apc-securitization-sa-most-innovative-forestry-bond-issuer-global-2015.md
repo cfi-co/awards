@@ -7,6 +7,15 @@ published_gmt: 2016-01-03 14:53:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/apc-securitization-sa-most-innovative-forestry-bond-issuer-global-2015/"
 categories: ["Best Practice", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 78fe0936839e69d5300ac152ea5eb2cc7673e6aca3e1173bd24ebb7c30190c65
 canonical: 3897-apc-securitization-sa-most-innovative-forestry-bond-issuer-global-2015.json
 ---

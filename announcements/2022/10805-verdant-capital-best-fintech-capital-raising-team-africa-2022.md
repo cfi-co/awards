@@ -7,6 +7,15 @@ published_gmt: 2022-10-18 07:11:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/verdant-capital-best-fintech-capital-raising-team-africa-2022/"
 categories: ["Africa", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 91cd98d10cfe075702dfd6315d3fd368e8eef6d5de20385f56df7dfa5f5d60e8
 canonical: 10805-verdant-capital-best-fintech-capital-raising-team-africa-2022.json
 ---

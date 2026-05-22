@@ -12,8 +12,21 @@
         "North America",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7279\" src=\"https://cfi.co/awards/wp-content/uploads/2020/03/BlueSnap.jpg\" alt=\"BlueSnap\" width=\"500\" height=\"148\" />\r\n<p style=\"text-align: justify;\">The world becomes more of a global market each day, with businesses reaching larger audiences and customers enjoying an unprecedented selection of products and services.  But as businesses extend beyond borders, payment processing becomes trickier. Massachusetts-based online payment solutions provider BlueSnap is one of the fastest-growing companies in this space. The PE-backed firm has designed a robust digital payments platform for eCommerce, B2B, B2C and SaaS companies. The All-in-One Platform supports online and mobile sales, marketplaces, subscriptions, invoice payments and manual orders through a virtual terminal. With a single integration to the Platform, businesses are connected to a global bank network and can offer their customers 100 currencies and 110 global payment types including popular eWallets and bank transfers. BlueSnap’s Intelligent Payment Routing tool recognizes the card’s issuing country and directs it to a local acquiring bank for processing wherever possible, based on the card brand rules. As a result, businesses benefit from higher authorization rates and by processing payments locally can reduce costly cross-border fees.  The Platform has fraud prevention and chargeback management built-in to protect sales. With integrations to more than 100 business platforms such as shopping carts, ERP and CRM systems, connections are easy and businesses can process payments immediately. The company has strong solution partnerships, a near-perfect client retention rate, and business that’s doubling every year. BlueSnap has reached this summit by heeding clients’ “pain points” and tech shortage woes- and delivering innovative solutions. It stays at the forefront of compliance and coding, with top-notch teams operating in the US, Israel and the UK. The global B2B payments market is estimated to total $127tn, and BlueSnap helps businesses claim their share of the market with secure, frictionless payment processing and detailed analytics. The CFI.co judging panel is convinced, and confers on BlueSnap the 2019 award for Best Payment Gateway (Global).</p>",
     "content_sha256": "724620433511db662d843da1ccf7ec3a2723b40356002e42d8ec0e33c496060d",
-    "record_sha256": "b052405d9ef2aa2e196beb1c538ea6a906afb2a9682d5f38c54caf3d6af52e23"
+    "record_sha256": "a68f355658dc2eb5079a7a5e9eee62c97a28c4cb4954d1a14a47805e54585974"
 }

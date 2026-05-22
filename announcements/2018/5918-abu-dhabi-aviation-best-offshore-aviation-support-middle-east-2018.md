@@ -7,6 +7,15 @@ published_gmt: 2018-08-30 12:02:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/abu-dhabi-aviation-best-offshore-aviation-support-middle-east-2018/"
 categories: ["Industries", "Middle East", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 34030f17b155b1fec13d5a72ebcf393fb9bd5d515d0ec48c2d55b89d4794a5a9
 canonical: 5918-abu-dhabi-aviation-best-offshore-aviation-support-middle-east-2018.json
 ---

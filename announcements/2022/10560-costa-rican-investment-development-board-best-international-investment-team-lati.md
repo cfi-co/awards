@@ -7,6 +7,15 @@ published_gmt: 2022-06-24 11:58:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2022/costa-rican-investment-development-board-best-international-investment-team-latin-america-2022/"
 categories: ["Development", "FDI Agencies", "Government", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ca33b07f795bd2a567a646f2b336c22bbe1963920d9b46de32eac164d72c6f3
 canonical: 10560-costa-rican-investment-development-board-best-international-investment-team-lati.json
 ---

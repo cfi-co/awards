@@ -7,6 +7,15 @@ published_gmt: 2024-07-05 11:02:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/fli-global-ltd-best-environmental-solutions-partner-europe-2024/"
 categories: ["Best Practice", "Community Engagement", "Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49b22fc0c9250e5152bfdb46bc6a2e63ae54fdd6345c22ba5753847d7c537bd0
 canonical: 12541-fli-global-ltd-best-environmental-solutions-partner-europe-2024.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-09-30 07:30:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/amethis-finance-best-private-equity-impact-investing-team-sub-saharan-africa-2020/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c292c8d06e7c3861ebac3735caa50a7c094e8aa4c743ad2d50d77294002ad071
 canonical: 8220-amethis-finance-best-private-equity-impact-investing-team-sub-saharan-africa-202.json
 ---

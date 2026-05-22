@@ -7,6 +7,15 @@ published_gmt: 2017-11-07 16:17:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/sohar-port-and-freezone-best-regional-logistics-hub-middle-east-2017/"
 categories: ["Industries", "Middle East", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eea4b3bd065ec60837f4f7103e53a844c303f7ec53bd0ba2f4b427a387a5cc1c
 canonical: 4896-sohar-port-and-freezone-best-regional-logistics-hub-middle-east-2017.json
 ---

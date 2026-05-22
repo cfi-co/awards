@@ -7,6 +7,15 @@ published_gmt: 2025-12-29 10:36:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2025/monte-bravo-innovator-in-private-client-ecosystem-structuring-excellence-brazil-2025/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9e89d654dec62f672d789a0d8a220c067fc5920bba6c48214a8eaf15b2d78c08
 canonical: 13253-monte-bravo-innovator-in-private-client-ecosystem-structuring-excellence-brazil-.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-05-21 08:36:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/tenderd-best-construction-technology-solutions-uae-2020/"
 categories: ["Industries", "Middle East", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b5713bdf3859ea3f0e57977d3de41a2f7d5a3197011b331915325d16fb49d03
 canonical: 7385-tenderd-best-construction-technology-solutions-uae-2020.json
 ---

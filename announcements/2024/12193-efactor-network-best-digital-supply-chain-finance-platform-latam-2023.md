@@ -7,6 +7,15 @@ published_gmt: 2024-01-03 09:22:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2024/efactor-network-best-digital-supply-chain-finance-platform-latam-2023/"
 categories: ["Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9dc90365d18ce056b155950c95b9dd25f483fe1e9c6ccc1b1b8bf2cf08d7fda
 canonical: 12193-efactor-network-best-digital-supply-chain-finance-platform-latam-2023.json
 ---

@@ -12,8 +12,21 @@
         "Europe",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8122\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/BLKB.jpg\" alt=\"BLKB\" width=\"425\" height=\"117\" />\r\n<p style=\"text-align: justify;\">An indication of the seriousness with which BLKB (Basellandschaftliche Kantonalbank) approaches sustainability is a prominent statement on its website: “We want to do today what matters tomorrow”. BLKB is not only recognised as the top sustainable regional bank in Switzerland, it also aspires to be the most forward-looking; one committed to sustainable development for all. The Baselland-based bank, with 850 employees and branches across northwestern Switzerland, has sustainability at the heart of its actions, and it focusses its entire business strategy accordingly. BLKB, which was founded in 1864, provides retail and business banking products. Seven years ago the bank underwent radical change, switching gradually to a mainly sustainable product range. It has established a set of guiding principles which aim to prioritise people, society and the environment. It regularly measures progress towards its 2030 sustainability objectives, and publishes developments in frequent and transparent sustainability reports. BLKB employs sustainability owners throughout every department, and, among other initiatives, has launched a consulting offering for other regional banks, and stepped up its programme of public events, speeches and webinars which promote its sustainability strategy. It is also dedicated to employee training and development, offering an advanced leadership academy. During the pandemic the bank introduced new flexible working programmes, while also giving time off for child care. BLKB works hard to earn the trust of its customers who, the bank says, inspire it every day to accept new challenges. In 2021, for the second consecutive year, the judging panel is pleased to present BLKB with the award, Best Regional Sustainability Bank Switzerland.</p>",
     "content_sha256": "ddef0f35f595ab36fcc5ed10b95c5469bc40c7c773dcc2045b1df8ff4ff9d847",
-    "record_sha256": "e6f480dfcc1d81eb5179d52ad0af9d85f5ce6574b4bb0d375d2e0b809c517ff4"
+    "record_sha256": "1c665686cc5e99525edc86e98778efb801d5a8fd01c6b3e0beee20c729c5bf59"
 }

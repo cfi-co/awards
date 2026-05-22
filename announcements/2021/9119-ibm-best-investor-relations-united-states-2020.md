@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 06:32:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/ibm-best-investor-relations-united-states-2020/"
 categories: ["North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eba0110f1fc8cdc1bb27e4b18c22a58b6972abcf25bbe6ee912c3d2a1831c169
 canonical: 9119-ibm-best-investor-relations-united-states-2020.json
 ---

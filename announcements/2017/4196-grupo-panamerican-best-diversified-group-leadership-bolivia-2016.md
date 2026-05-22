@@ -7,6 +7,15 @@ published_gmt: 2017-05-02 15:00:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/grupo-panamerican-best-diversified-group-leadership-bolivia-2016/"
 categories: ["Industries", "Latin America", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 947c4b2265c1856c2f00689697a86bccbea013bceceb96435aa5e301811490a6
 canonical: 4196-grupo-panamerican-best-diversified-group-leadership-bolivia-2016.json
 ---

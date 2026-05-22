@@ -7,6 +7,15 @@ published_gmt: 2015-01-06 13:34:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2015/julius-bar-group-best-private-bank-switzerland-2014/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b19c88b1ea2aa4752770069265b7c1980ee6d88a0370811740505942b255a1f7
 canonical: 1495-julius-bar-group-best-private-bank-switzerland-2014.json
 ---

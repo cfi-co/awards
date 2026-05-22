@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 13:32:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2017/catoca-best-esg-mining-operations-angola-2016/"
 categories: ["Industries", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 821f2eed8b61f0ce04498db7777321c53b1abe3fc47ccb28956d0a38d72edf8d
 canonical: 3959-catoca-best-esg-mining-operations-angola-2016.json
 ---

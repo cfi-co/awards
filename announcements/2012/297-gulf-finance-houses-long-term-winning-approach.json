@@ -13,8 +13,21 @@
         "Islamic Banking",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1867\" src=\"https://cfi.co/awards/wp-content/uploads/2012/11/gfh1.jpg\" alt=\"gfh\" width=\"349\" height=\"218\" /></p>\r\n<p style=\"text-align: justify;\"><strong>We are pleased to announce that Gulf Finance House have won the CFI.co award for Best Islamic Investment Bank Bahrain 2012. </strong></p>\r\n<p style=\"text-align: justify;\">Gulf Finance House’s steadfast approach to investing primarily in high quality infrastructure projects that help provide sustainable growth opportunities in the GCC, North African and Asian regions is paying dividends to investors. The Bank’s innovative approach to Islamic financial structures and focus on projects that truly benefit all stakeholders make Gulf Finance House an excellent example of how good investment banks bring real benefit to the societies in which they operate. 2012 has been an excellent year for the bank - rewarding the years of patience and restructuring required following the upheavals of the financial crisis. Gulf Finance House have proved that they are in it for the long haul and have the resilience not only to survive uncertainties but to thrive.</p>",
     "content_sha256": "b3458a7216afa844e3d077e03e591620c5ca4f0a72a52e265c64101d85a2f6da",
-    "record_sha256": "3733dd8d5c9fcac3593ece67a046c403405c94e04e25967ce14f2c746c1e204f"
+    "record_sha256": "75f01d265d067346d79672584f86c263d6bf60a1d5f1e29cbd6724286cfa4b10"
 }

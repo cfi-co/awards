@@ -7,6 +7,15 @@ published_gmt: 2024-03-09 13:09:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/corporate-governance/2024/afghanistan-international-bank-best-corporate-governance-afghanistan-2023/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3cf862ec83673b0e71456f7b6972d32c8506b8aac222f111cbb51a581285dc8d
 canonical: 12549-afghanistan-international-bank-best-corporate-governance-afghanistan-2023.json
 ---

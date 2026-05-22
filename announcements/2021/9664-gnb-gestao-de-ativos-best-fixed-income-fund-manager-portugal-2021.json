@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_9665\" align=\"aligncenter\" width=\"900\"]<img class=\"size-large wp-image-9665\" src=\"https://cfi.co/awards/wp-content/uploads/2021/10/GNB-1024x732.jpg\" alt=\"GNB Gestão de Ativos\" width=\"900\" height=\"643\" /> Top left – Vasco Teles<br />Top right – Manuel Aguiar<br />Bottom left – Hugo Custódio<br />Middle (with the trophy) – João Zorro<br />Bottom right – Paulo Joaquim[/caption]\r\n<p style=\"text-align: justify;\">Fixed income is a popular vehicle for risk-adverse investors looking for steady, reliable returns - and in Portugal, GNB Gestão de Ativos (GNBGA) is the go-to firm. GNBGA was founded in 1992 and benefits from a cohesive team with extensive experience in financial markets. It has shown courage and competence in backing worthy investments and manages portfolios with a clear goal on healthy returns. It promises transparency and seeks to create value for clients - and the results speak for themselves: NB Euro Bond, for instance, have won awards almost every year since 2010. The Lisbon-headquartered asset manager offers a range of investment solutions, including fixed income and equity funds, asset allocation products, pension fund management and discretionary portfolio management. GNBGA is the asset management arm of Novo Banco Group and caters to the needs of private and institutional investors. ESG criteria is becoming a central part of the firm's fiduciary duty, and GNBGA intends to prioritize investments that support climate action, circular economies, biodiversity, healthy communities, equality, regulatory compliance and consumer and shareholder rights. The GNBGA team has worked together for decades, with more than 20 years of specialization in fixed income funds. Despite the recent market turmoil, GNBGA has managed to retain a full staff and compensate for portfolio deviations. The CFl.co judging panel salutes this steadfast performance and presents GNB Gestão de Ativos with the 2021 award for Best Fixed Income Fund Manager (Portugal).</p>",
     "content_sha256": "bb7698717c1602ebab6c57447d32120c33c469e58e5114f97b93c2c447483fff",
-    "record_sha256": "366d6a4797ae5ad7d160741c759c39dce9432fe16a847a4fa238373c89c1f3af"
+    "record_sha256": "7733e33a17b52245ce3cbc45a62032e168ec850d31424c4293315d3037bb397d"
 }

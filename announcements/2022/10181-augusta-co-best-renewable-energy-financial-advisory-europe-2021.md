@@ -7,6 +7,15 @@ published_gmt: 2022-02-10 11:32:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/augusta-co-best-renewable-energy-financial-advisory-europe-2021/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 92804f8805ed4dace78130a8c2429532e04b3b17dc74b8b5b8a4969bdfaae331
 canonical: 10181-augusta-co-best-renewable-energy-financial-advisory-europe-2021.json
 ---

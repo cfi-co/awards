@@ -13,8 +13,21 @@
         "North America",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter wp-image-3053\" src=\"https://cfi.co/awards/wp-content/uploads/2016/03/t.jpg\" alt=\"t\" width=\"693\" height=\"462\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Elon Musk is well-known for his business skills. His ventures pave the way for the future and bring viable alternative energy options to the masses. Now Tesla Motors is poised to disrupt the automotive industry thanks to its power system.</strong></p>\r\n<p style=\"text-align: justify;\">Unlike classic low-end disruptors, such as Ford cars and personal computers which brought innovation to the masses by offering low cost alternatives, Tesla Motors is pursuing a high-end disruption model. High-end disruptors are advanced innovations which are difficult to imitate and first market to a more discriminating and up-market buyer before they can then gather enough capital and momentum to produce a lower cost mass-market models using the same high-end architecture. Apple’s iPod is a prime example of a high-end disruptor.</p>\r\n<p style=\"text-align: justify;\">Tesla’s $90,000 Model S is the iPod of the automotive industry. Consumer reports have called it the best overall car on the market for two years – and, as the fastest four-door production car on the market with zero emissions, it is not hard to see why. Not only that, but the Model S’ unique architecture and battery design affords the car a week’s worth of driving on just a single charge.</p>\r\n<p style=\"text-align: justify;\">However, the most disruptive element of the Model S is free energy. The vehicle may be recharged without a charge at any solar-powered charging station, all powered by Mr Musk’s separate venture, SolarCity. The inventor / businessman has also opened up his ground-breaking battery technology patents, allowing competition to build cars around his design.</p>\r\n<p style=\"text-align: justify;\">Patents or not, competitors will still likely find it hard to imitate the quality of a Tesla; unlike other electric cars on the market, Tesla drivetrains and systems are engineered around the battery itself, instead of merely bolted onto a standard platform.</p>\r\n<p style=\"text-align: justify;\">Mr Musk has established a foothold in the solar-power industry; now Tesla’s game-changing cars, power systems, and free access to Tesla’s battery technology are shaking the automotive industry into a new era. Tesla is not just disrupting technology but also sales models. For this, the CFI.co judging panel is delighted to award Tesla Motors the 2016 Outstanding Auto Industry Disruptor Global Award.</p>",
     "content_sha256": "3d12624e6eb5426d003ff6dbe506ff7433f1102816749ec356c8e98769be4d88",
-    "record_sha256": "e1d540f6b6aff16cddf8f196390e2bb986732cf82f3fa953f11f6735bfb5740d"
+    "record_sha256": "4fe386f23414d6ad9f529f5ce2d4d4b0583212e713012ab7e9a8a95d4747328f"
 }

@@ -7,6 +7,15 @@ published_gmt: 2020-03-10 15:50:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2020/corporacion-multi-inversiones-cmi-best-sustainability-community-impact-latin-america-2019/"
 categories: ["Best Practice", "Community Engagement", "Latin America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c555c4bb576dbe2038d16963aec58401552e67f83208607a20f333c92de10c5a
 canonical: 7283-corporacion-multi-inversiones-cmi-best-sustainability-community-impact-latin-ame.json
 ---

@@ -12,8 +12,21 @@
         "Middle East",
         "Real Estate"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7079\" src=\"https://cfi.co/awards/wp-content/uploads/2019/12/SFO-Group-logo.jpg\" alt=\"SFO-Group-logo\" width=\"500\" height=\"380\" />\r\n<p style=\"text-align: justify;\">SFO Group (“SFO”) is a leading multi-family office and an active global real estate investor with a disciplined investment strategy. The firm offers asset management services to a number of families, and views real estate as the preferred asset class which, when added to a traditional portfolio, lowers its overall volatility, allowing for capital appreciation during bull markets and the downside protection of a stable source of income in bear markets. Real estate investments therefore constitute a defensive alternative, hedging against inflation while providing geographical diversification. SFO deploys a team of 20-plus professionals, mostly from its base in Beirut but also via its presence in London, Paris and Miami. The firm has assembled a highly experienced international team that is well equipped in driving its agenda forward and growing its global portfolio of real assets. The team brings on board diverse and complementary experience in PE, advisory and investment banking, with previous tenures of its members at leading global financial institutions and management consulting firms. This results in a balanced mix of youth and experience that makes SFO a proven dynamic and agile player. The company track record shows that agility trumps size, with a portfolio in excess of $1bn, adding 3-5 new acquisitions each year. SFO is a member of Saradar Capital Holding, a third generation diversified family conglomerate which has been at the centre of the Lebanese financial sector for over 70 years. The CFI.co judging panel is pleased to recognize a company with a history of success and a promising future. Congratulations to SFO, winner of the 2019 award Best Real Estate Investment Team (Middle East).</p>",
     "content_sha256": "fcce8e47fa89363a0bfe2784e4f16ee01b2ab121ec4bd77998d942351783b166",
-    "record_sha256": "e4ae210ec58ab073771d143bbbb02c760569387b8c835c0a4eb504452e8c0c05"
+    "record_sha256": "69e738c7289fb234a4d50b0b0c9c93599fa94721d34cdd1b40591fe9825d8a8d"
 }

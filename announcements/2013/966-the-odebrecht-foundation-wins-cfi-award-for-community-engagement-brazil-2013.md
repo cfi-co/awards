@@ -7,6 +7,15 @@ published_gmt: 2013-11-21 12:44:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/community-engagement/2013/the-odebrecht-foundation-wins-cfi-award-for-community-engagement-brazil-2013/"
 categories: ["Community Engagement", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6b783025c143665ec4e4e2b761ea9edd4e2064240017aef38a1c4f4b266d4dcf
 canonical: 966-the-odebrecht-foundation-wins-cfi-award-for-community-engagement-brazil-2013.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-04-26 12:35:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/region-ile-de-france-best-green-bond-thought-leadership-team-global-2024/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a3d18f6300b495ddf5228ad20dfd0219152e55f8b25fee8256f91441b9c4e01
 canonical: 12355-region-ile-de-france-best-green-bond-thought-leadership-team-global-2024.json
 ---

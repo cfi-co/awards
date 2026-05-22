@@ -7,6 +7,15 @@ published_gmt: 2013-11-04 09:00:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/qiib-best-islamic-bank-qatar-2014/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 27fec3c8f911dcbd4d1d91ada44c081f32eef574e959f4a7596c71b275bc2012
 canonical: 1234-qiib-best-islamic-bank-qatar-2014.json
 ---

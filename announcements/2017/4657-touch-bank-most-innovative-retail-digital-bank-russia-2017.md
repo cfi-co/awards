@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 14:02:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/touch-bank-most-innovative-retail-digital-bank-russia-2017/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97770e7e5712b1d20a0ad5544a4228e81ff5b6714d635287afb3e62e388ee5a6
 canonical: 4657-touch-bank-most-innovative-retail-digital-bank-russia-2017.json
 ---

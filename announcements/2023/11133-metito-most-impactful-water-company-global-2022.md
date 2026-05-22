@@ -7,6 +7,15 @@ published_gmt: 2023-02-02 17:22:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2023/metito-most-impactful-water-company-global-2022/"
 categories: ["Development", "Government", "Industries", "Middle East", "Projects", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ab6fbc47723c7f20f50f9abc01625041c80c4b2c302c90ff9fbfac8bbe11c78
 canonical: 11133-metito-most-impactful-water-company-global-2022.json
 ---

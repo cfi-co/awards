@@ -7,6 +7,15 @@ published_gmt: 2014-01-21 12:57:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/best-islamic-corporate-finance-boutique-europe-award-is-announced/"
 categories: ["Europe", "Finance", "Islamic Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a21993fc5e86f2fcba4e53ebaf2653bce4ab04b7c109f18013bb2ced3bd7ede
 canonical: 1099-best-islamic-corporate-finance-boutique-europe-award-is-announced.json
 ---

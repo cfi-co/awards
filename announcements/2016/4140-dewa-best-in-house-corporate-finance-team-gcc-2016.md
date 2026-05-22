@@ -7,6 +7,15 @@ published_gmt: 2016-08-01 15:04:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/dewa-best-in-house-corporate-finance-team-gcc-2016/"
 categories: ["Finance", "Government", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 77fa1f10f4312af7afa98bb3c60b03ea4ca7ab95a8b64eac5ef677dd04657400
 canonical: 4140-dewa-best-in-house-corporate-finance-team-gcc-2016.json
 ---

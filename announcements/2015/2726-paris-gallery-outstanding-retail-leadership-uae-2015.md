@@ -7,6 +7,15 @@ published_gmt: 2015-12-30 12:25:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2015/paris-gallery-outstanding-retail-leadership-uae-2015/"
 categories: ["Corporate Leadership", "Industries", "Middle East", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1236d8e9abb5a091eab14300b302d3aea53c27ba11e599476ca0f9c806ac71f2
 canonical: 2726-paris-gallery-outstanding-retail-leadership-uae-2015.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-07-27 08:21:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/eccelsa-aviation-best-private-aviation-terminal-operator-europe-2024/"
 categories: ["Europe", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e0b09c9e01c200ab683e038bb5710068cce9c170557398d7222c7e83369b1e07
 canonical: 12810-eccelsa-aviation-best-private-aviation-terminal-operator-europe-2024.json
 ---

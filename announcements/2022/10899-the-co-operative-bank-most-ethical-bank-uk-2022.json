@@ -11,8 +11,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10901\" src=\"https://cfi.co/awards/wp-content/uploads/2022/11/co-operative-bank-jpg.webp\" alt=\"co-operative-bank\" width=\"400\" height=\"57\" />\r\n<p style=\"text-align: justify;\">The Co-operative Bank is a purpose-driven financial institution that puts customers first and principles into action. The bank is celebrating 150 years of ethical banking and has strong commitments to the planet, its people, and the communities it serves. The bank isn’t a co-operative in the traditional sense, but its ethical policies fall within that business ideology. Since 1992, The Co-operative Bank has sought customer feedback to shape policies and lead by example as the only ethical alternative on the high street. The bank’s ethical mandate is fully underwritten by its shareholders and celebrated by its customers and partners. The bank has been beyond carbon neutral for over 15 years running - every year it adds an additional offset of 10 percent to address historic emissions. In 2021 The Co-operative Bank recycled 70 percent of its operational waste and reduced energy consumption by 18 percent year-on-year. It relies on renewable sources to power operations and promises that clients’ money will never be used to finance fossil fuels, oppressive regimes or unethical labour practices. The bank believes in collective responsibility and isn’t afraid to turn away business that doesn’t adhere to the same standards. With its market-leading ESG credentials and financial strengths, the bank is proving that sustainability just makes good business sense. In recognition of 150 years of proactive business practices, the CFI.co judging panel unanimously voted for The Co-operative Bank as the 2022 award winner for Most Ethical Bank (UK).</p>",
     "content_sha256": "fb11fc4259ea86833120f2dc2efa972adc92c448dfeb4a2c6bab74b04d9e65b9",
-    "record_sha256": "dbecf35b54f3d4a35bd1e05105c69a194fba24d82cbe12c850c053f786ed0bf3"
+    "record_sha256": "1ccb3d701587f676706552535f2f34ee1d0e9bb879a727ffa6dec22547063621"
 }

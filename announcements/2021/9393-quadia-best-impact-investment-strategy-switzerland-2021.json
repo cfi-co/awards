@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9394\" src=\"https://cfi.co/awards/wp-content/uploads/2021/07/Quadia.jpg\" alt=\"Quadia\" width=\"500\" height=\"94\" />\r\n<p style=\"text-align: justify;\">Swiss impact investor Quadia focuses on value creation through impact investing and active engagement with its portfolio companies. Private equity investments allow Quadia to establish direct relationships with European SMEs and their leadership teams. Investments tend to be late-stage venture capital and early-stage growth capital between €1m and €10m. Quadia leverages its influence to push for positive social and environmental effects — and to support their scalability. Every member of the niche investment team has a shared passion for sustainability. They sit on foundation boards and have first-hand experience of real-world issues. Quadia believes in a new economic paradigm which will see capital regenerated in a holistic manner — and believes the finance sector should lead the transition. Quadia has invested €220m in 30 companies since its 2010 inception. It selects transformative firms in the key sectors of sustainable food and agriculture, circular products and materials, and clean energy. The investment strategy outlines four core objectives: fostering circular production and consumption, improving natural resource use, promoting fair value chains, and supporting local communities. It has a dedicated impact fund and offers a range of flexible vehicles, including club deals and customised impact investment mandates. Quadia clients are private individuals, institutional investors and family offices that seek to make a difference as well as a profit. For having the courage and competence to go the extra mile for sustainability, the CFI.co judging panel presents Quadia with the 2021 award for Best Impact Investment Strategy (Switzerland).</p>",
     "content_sha256": "a8f3666d74bcb1e8c5b84251b9377bbab56147ff343438f68e7165ee903ee0d3",
-    "record_sha256": "594298d71399217d9dad51791e6e9a50fd4499cbfd9864363a67376381b6c8de"
+    "record_sha256": "46b0884fb4fab20c9b452cdc537d253223b8ed71941a198b8b0bdb47a20411b7"
 }

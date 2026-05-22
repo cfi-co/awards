@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 14:07:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/banca-agricola-commerciale-best-bank-governance-san-marino-2017/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 56de3f4a9b9300be1d1ac8c06a3e3465fabc6ccab36c865ee8d6bd1242e9a15e
 canonical: 5257-banca-agricola-commerciale-best-bank-governance-san-marino-2017.json
 ---

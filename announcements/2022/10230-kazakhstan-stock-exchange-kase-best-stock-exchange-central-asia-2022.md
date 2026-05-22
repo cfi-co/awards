@@ -7,6 +7,15 @@ published_gmt: 2022-03-10 12:59:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/kazakhstan-stock-exchange-kase-best-stock-exchange-central-asia-2022/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fda2abd0a6642bbffff005f8ca4c4bab79c58d4a47c108212b73ea442d6e9cbb
 canonical: 10230-kazakhstan-stock-exchange-kase-best-stock-exchange-central-asia-2022.json
 ---

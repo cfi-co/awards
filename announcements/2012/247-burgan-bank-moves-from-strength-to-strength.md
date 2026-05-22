@@ -7,6 +7,15 @@ published_gmt: 2012-10-03 15:05:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2012/burgan-bank-moves-from-strength-to-strength/"
 categories: ["Banking", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 700dd52afb923605b734210464a2706495d5ccc5d6e69bdf717fcae6711803d7
 canonical: 247-burgan-bank-moves-from-strength-to-strength.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-01-14 15:24:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/century-financial-brokers-best-global-financial-markets-broker-emea-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f262b96bc7dfd2ea7326fb6d0825c91cc6533b1a087ace5efd9beeb71a997744
 canonical: 6391-century-financial-brokers-best-global-financial-markets-broker-emea-2018.json
 ---

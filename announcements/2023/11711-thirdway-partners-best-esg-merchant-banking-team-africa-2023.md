@@ -7,6 +7,15 @@ published_gmt: 2023-08-08 14:21:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/thirdway-partners-best-esg-merchant-banking-team-africa-2023/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b13037e9a990d6f5773b6a4fc3223b3789a4ab485a588224c803ac01b6746e41
 canonical: 11711-thirdway-partners-best-esg-merchant-banking-team-africa-2023.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 13:51:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/fondex-best-technology-corporate-leadership-southern-europe-2019/"
 categories: ["Corporate Leadership", "Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba7f3cfea45a5c8e9eaa9a1d8900bf5ed09e7e0bb639a1537a4ff9e7655fd80b
 canonical: 7717-fondex-best-technology-corporate-leadership-southern-europe-2019.json
 ---

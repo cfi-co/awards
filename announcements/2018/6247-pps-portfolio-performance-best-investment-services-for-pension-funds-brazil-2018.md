@@ -7,6 +7,15 @@ published_gmt: 2018-10-24 12:52:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc1314c19eff374be1e90098aef77cd60e03d8d3d2b66f3b3bcc20deadcfc377
 canonical: 6247-pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2018.json
 ---

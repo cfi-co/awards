@@ -7,6 +7,15 @@ published_gmt: 2021-10-28 10:17:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/wilo-se-best-industrial-csr-europe-2021/"
 categories: ["Best Practice", "CSR", "Europe", "Industries", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4a50df6634fdc093570edf4136c0e1481cc48774f97d47f7789f27ed7448e01
 canonical: 9712-wilo-se-best-industrial-csr-europe-2021.json
 ---

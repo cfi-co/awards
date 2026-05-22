@@ -7,6 +7,15 @@ published_gmt: 2013-11-05 16:24:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2013/award-winner-banco-mercantil-santa-cruz-cfi-award-for-supporting-smes-in-bolivia/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d6fdc327e115bdc6cebb8fafcac9687cc39b58dc30202af6dbdb3d83e81e30c
 canonical: 896-award-winner-banco-mercantil-santa-cruz-cfi-award-for-supporting-smes-in-bolivia.json
 ---

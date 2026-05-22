@@ -7,6 +7,15 @@ published_gmt: 2019-04-17 10:35:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2019/poste-vita-best-pension-fund-governance-italy-2019/"
 categories: ["Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d0cf4c6fee4f85474e5b324afbc11c044d0da6c6b8970819faa60530d46726ab
 canonical: 6633-poste-vita-best-pension-fund-governance-italy-2019.json
 ---

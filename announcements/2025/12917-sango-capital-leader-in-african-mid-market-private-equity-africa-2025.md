@@ -7,6 +7,15 @@ published_gmt: 2025-04-01 10:59:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2025/sango-capital-leader-in-african-mid-market-private-equity-africa-2025/"
 categories: ["Africa", "Corporate Leadership", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f765cbcb4d5c2a79615d97399de56ad2a92a5e37505cb9ae0a3fa633e0df7b78
 canonical: 12917-sango-capital-leader-in-african-mid-market-private-equity-africa-2025.json
 ---

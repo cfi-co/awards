@@ -7,6 +7,15 @@ published_gmt: 2024-08-23 12:45:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/united-bankers-plc-excellence-in-alternative-investment-strategies-nordics-2024/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4ef6d7d3ccceb89fd854ae8555b4b4d83078c08f9220b06f140e4e116c84ad43
 canonical: 12517-united-bankers-plc-excellence-in-alternative-investment-strategies-nordics-2024.json
 ---

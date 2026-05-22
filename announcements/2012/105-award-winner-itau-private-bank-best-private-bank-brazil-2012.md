@@ -7,6 +7,15 @@ published_gmt: 2012-10-07 17:36:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2012/award-winner-itau-private-bank-best-private-bank-brazil-2012/"
 categories: ["Banking", "Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16d5d0a7ba36fe5f86b889fd89c37625949348efbfb59e3c2409adf2fd868c48
 canonical: 105-award-winner-itau-private-bank-best-private-bank-brazil-2012.json
 ---

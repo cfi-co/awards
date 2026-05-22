@@ -7,6 +7,15 @@ published_gmt: 2015-06-09 11:32:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2015/hsbc-best-global-research-team-banking-2015/"
 categories: ["Asia Pacific", "Banking", "Europe", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 882ebdfd53b036d03699bfa58b9fa2ee5fd35a5af9bb4b75594e421773a9179a
 canonical: 2290-hsbc-best-global-research-team-banking-2015.json
 ---

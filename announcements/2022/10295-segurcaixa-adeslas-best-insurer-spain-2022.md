@@ -7,6 +7,15 @@ published_gmt: 2022-04-05 13:48:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/segurcaixa-adeslas-best-insurer-spain-2022/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b59d78a99e433b9854e430f59f5de486976d907c4f8c05ea7e40e2b842c18793
 canonical: 10295-segurcaixa-adeslas-best-insurer-spain-2022.json
 ---

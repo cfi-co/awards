@@ -7,6 +7,15 @@ published_gmt: 2015-01-01 15:55:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/the-2014-cfi-co-award-for-best-hse-standards-west-africa-goes-to-mobil-oil-nigeria-plc/"
 categories: ["Africa", "Best Practice", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e194a0f5e753e3fee492ddf697e8837b11e6b4eeb0477f8232192738bf40c0a4
 canonical: 2113-the-2014-cfi-co-award-for-best-hse-standards-west-africa-goes-to-mobil-oil-niger.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-11-06 14:59:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2020/neuberger-berman-best-esg-investment-platform-north-america-2020/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Finance", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f6fd1d5058a10bfc5f6f8e28795024f133181e8d5f02789df326cbc50c53771
 canonical: 8437-neuberger-berman-best-esg-investment-platform-north-america-2020.json
 ---

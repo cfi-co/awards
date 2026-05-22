@@ -7,6 +7,15 @@ published_gmt: 2019-02-14 13:00:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2019/duedil-best-identity-management-regtech-europe-2018/"
 categories: ["Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 61466d277653433cc066e2668633926e07999bc51fb7711f4d8bf5a6842c8514
 canonical: 6535-duedil-best-identity-management-regtech-europe-2018.json
 ---

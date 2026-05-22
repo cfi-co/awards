@@ -7,6 +7,15 @@ published_gmt: 2024-03-09 15:23:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2024/corporacion-zona-franca-santiago-outstanding-contribution-to-the-economic-development-dominican-republic-2024/"
 categories: ["Development", "Government", "Industries", "Latin America", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 63639fa505e5291eb47a82097a3eadea8799b445a89cd4fe30d9ebb352f6d08e
 canonical: 12551-corporacion-zona-franca-santiago-outstanding-contribution-to-the-economic-develo.json
 ---

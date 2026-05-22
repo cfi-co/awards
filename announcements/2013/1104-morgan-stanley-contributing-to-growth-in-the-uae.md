@@ -7,6 +7,15 @@ published_gmt: 2013-11-04 10:57:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/morgan-stanley-contributing-to-growth-in-the-uae/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 29e26ae42cac1f272442b2ebacdcf680895d4840290f30e8d17c5195017c4348
 canonical: 1104-morgan-stanley-contributing-to-growth-in-the-uae.json
 ---

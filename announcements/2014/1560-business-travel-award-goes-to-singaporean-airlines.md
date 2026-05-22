@@ -7,6 +7,15 @@ published_gmt: 2014-03-01 11:25:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/uncategorized/2014/business-travel-award-goes-to-singaporean-airlines/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 32607fdff699dc493cf60dfcc2a442f4571210d9c54915374225d5159336f8a9
 canonical: 1560-business-travel-award-goes-to-singaporean-airlines.json
 ---

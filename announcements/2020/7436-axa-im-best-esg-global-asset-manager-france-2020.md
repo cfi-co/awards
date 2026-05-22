@@ -7,6 +7,15 @@ published_gmt: 2020-06-10 06:55:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/axa-im-best-esg-global-asset-manager-france-2020/"
 categories: ["Asset Management", "Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5dd957c05562ab4ca045a06949e1618fe91ea05838b5d8daeccdcf39a7aae48
 canonical: 7436-axa-im-best-esg-global-asset-manager-france-2020.json
 ---

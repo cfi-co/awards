@@ -7,6 +7,15 @@ published_gmt: 2014-05-29 09:27:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/kingdom-hotel-investments-khi-partnership-prospects-in-emerging-markets/"
 categories: ["Best Practice", "CSR", "Finance", "Middle East", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30f51c43647ebb68b61d9a807555596c557a092bf7e94ca9466a8eeeb750d583
 canonical: 1229-kingdom-hotel-investments-khi-partnership-prospects-in-emerging-markets.json
 ---

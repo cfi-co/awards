@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 15:24:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2020/rokel-commercial-bank-rcb-best-bank-governance-sierra-leone-2019/"
 categories: ["Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b0a5f5f1658b1516c1945b739f3ea499e13cc01440efdcc0d2e61a258acc623c
 canonical: 7753-rokel-commercial-bank-rcb-best-bank-governance-sierra-leone-2019.json
 ---

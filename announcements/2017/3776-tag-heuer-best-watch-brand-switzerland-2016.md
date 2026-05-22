@@ -7,6 +7,15 @@ published_gmt: 2017-01-25 13:29:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/tag-heuer-best-watch-brand-switzerland-2016/"
 categories: ["Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f62a35a4edf644dac9a617ffe1f2cab2223d4a83f28435941cd7a773668edbe7
 canonical: 3776-tag-heuer-best-watch-brand-switzerland-2016.json
 ---

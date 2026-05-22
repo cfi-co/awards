@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:46:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/barrick-gold-best-sustainable-mining-strategy-africa-2020/"
 categories: ["Africa", "Best Practice", "Industries", "Mining", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ae82d22864389ee9d324f79d838f6afcc70955f65355dcfae0b72cb598ad0c5a
 canonical: 8372-barrick-gold-best-sustainable-mining-strategy-africa-2020.json
 ---

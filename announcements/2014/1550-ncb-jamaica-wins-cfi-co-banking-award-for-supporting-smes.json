@@ -12,8 +12,21 @@
         "Latin America",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1551\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/NCB.jpg\" alt=\"NCB\" width=\"370\" height=\"97\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The National Commercial Bank, Jamaica has been named ‘Best SME Bank, Caribbean, 2014’ by the CFI.co Judging Panel. According to the panel, ‘NCB appreciates the challenge SMEs face in capacity building and is taking intelligent concrete steps to help them move forward in a positive and constructive way through a highly effective team of business managers. </strong></p>\r\n<p style=\"text-align: justify;\">As such, this bank is without doubt a worthy recipient of this important regional award and we congratulate NCB on their success. Support to SMEs is a key aspect of economic development and the NCB are doing more than this: they are inspiring SMEs too, while actively helping to formalise this critical part of the economy.’</p>",
     "content_sha256": "8c1c5c1a716307136275786d62efab9260fba33482976788615212eb16a1c53e",
-    "record_sha256": "b164fa68fa13800dbd2a835e0e24f1cb9df629ce23781bdd66154c229072b3ed"
+    "record_sha256": "9aa0ab8e230f965b3b00d2a662734f4c8823456ac8fab8a52b95b69a9d2a2fb9"
 }

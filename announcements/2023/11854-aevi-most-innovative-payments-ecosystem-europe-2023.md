@@ -7,6 +7,15 @@ published_gmt: 2023-09-06 09:01:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/aevi-most-innovative-payments-ecosystem-europe-2023/"
 categories: ["Europe", "Retail", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 220daa79f018cf2305ba278ccde3406987a0afb9deb9a14b6b735dbff7954bd6
 canonical: 11854-aevi-most-innovative-payments-ecosystem-europe-2023.json
 ---

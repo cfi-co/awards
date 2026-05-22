@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:40:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/image-nation-outstanding-contribution-to-regional-media-uae-2020/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 875b8fae6538c902cdc7c776f700f9a47b312f758d31612910c11e12f3fe23ef
 canonical: 8766-image-nation-outstanding-contribution-to-regional-media-uae-2020.json
 ---

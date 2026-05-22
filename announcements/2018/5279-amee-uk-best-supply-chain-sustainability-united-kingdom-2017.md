@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/amee-uk-best-supply-chain-sustainability-united-kingdom-2017/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5726b44e9e17f4704deaa9eb3ee7d04829bfdd053b412d63b08f4ebeee0f9f66
 canonical: 5279-amee-uk-best-supply-chain-sustainability-united-kingdom-2017.json
 ---

@@ -32,6 +32,10 @@ $US     = "\x1f";                            // field separator (unit separator)
 
 $EDITORIAL_AUTHOR = 'CFI.co Editorial';
 
+// Every item here is an award recognition/assessment, not general news.
+$DEFAULT_CONTENT_CLASS = 'award_rationale';
+$CONTENT_CLASS_BY_SLUG = array();   // no interview/opinion/review on the awards site
+
 // Display/curation categories that rotate by design — excluded for stability.
 $EXCLUDE_CAT_SLUGS = array(
     'front', 'approval', 'featured', 'featured_random', 'featured_small',
@@ -59,10 +63,23 @@ $catrows = $wpdb->get_results(
        JOIN {$wpdb->terms} t          ON t.term_id = tt.term_id
       WHERE tt.taxonomy='category'"
 );
-$catmap = array();
+$catmap = array();      // filtered -> recorded categories
+$catslugs = array();    // ALL slugs per post -> content_class detection
 foreach ($catrows as $r) {
+    $catslugs[$r->pid][$r->slug] = true;
     if (in_array($r->slug, $EXCLUDE_CAT_SLUGS, true)) continue;
     $catmap[$r->pid][$r->name] = true;
+}
+
+/* 2b. Sponsored flag (authoritative paid-content signal, if present). */
+$sponmap = array();
+foreach ($wpdb->get_results(
+    "SELECT post_id pid, meta_key mk, meta_value mv
+       FROM {$wpdb->postmeta}
+      WHERE meta_key IN ('_cfi_jsonld_sponsored','_cfi_jsonld_sponsor_name')"
+) as $m) {
+    if ($m->mk === '_cfi_jsonld_sponsored')   $sponmap[$m->pid]['flag'] = $m->mv;
+    if ($m->mk === '_cfi_jsonld_sponsor_name') $sponmap[$m->pid]['name'] = $m->mv;
 }
 
 $plan = fopen($PLAN, 'w');
@@ -83,6 +100,31 @@ foreach ($posts as $p) {
     $content = (string) $p->post_content;          // RAW, verbatim
     $chash   = hash('sha256', $content);
 
+    // --- Content classification (grounded; rules documented in README). ---
+    $sponsored = isset($sponmap[$id]['flag']) && $sponmap[$id]['flag'] === '1';
+    $sponsor   = $sponsored ? (string) ($sponmap[$id]['name'] ?? '') : '';
+    if ($sponsored) {
+        $content_class = 'sponsored_article';
+    } else {
+        $content_class = $DEFAULT_CONTENT_CLASS;
+        foreach ($CONTENT_CLASS_BY_SLUG as $cslug => $cclass) {
+            if (isset($catslugs[$id][$cslug])) { $content_class = $cclass; break; }
+        }
+    }
+    $classification = array(
+        'content_class'       => $content_class,
+        'editorial_lens'      => 'constructive_positive_lens', // CFI's stated stance
+        'independence_status' => $sponsored ? 'commercially_supported' : 'independent_editorial',
+        'sponsor_disclosure'  => $sponsored ? 'visible_and_machine_readable' : 'none',
+        'sponsor_name'        => $sponsor,
+        'article_status'      => 'published',
+        'historical_status'   => 'current_at_publication',
+        'correction_status'   => 'none',          // git history is the live correction record
+        'archive_policy'      => 'no_delete',
+        'provenance_layer'    => 'github_versioned',
+        'wayback_status'      => 'pending_submission',
+    );
+
     // Exact machine record. Key order is fixed; record_sha256 covers all
     // fields except itself, so the public can independently re-verify.
     $record = array(
@@ -95,6 +137,7 @@ foreach ($posts as $p) {
         'published_gmt'  => $p->post_date_gmt,
         'modified_gmt'   => $p->post_modified_gmt,
         'categories'     => $cats,
+        'classification' => $classification,
         'excerpt'        => $p->post_excerpt,
         'content_html'   => $content,
         'content_sha256' => $chash,
@@ -116,6 +159,16 @@ foreach ($posts as $p) {
     $fm .= 'author: ' . yaml_str($EDITORIAL_AUTHOR) . "\n";
     $fm .= 'url: ' . yaml_str($url) . "\n";
     $fm .= 'categories: [' . implode(', ', array_map('yaml_str', $cats)) . "]\n";
+    $fm .= 'content_class: ' . $classification['content_class'] . "\n";
+    $fm .= 'independence_status: ' . $classification['independence_status'] . "\n";
+    $fm .= 'sponsor_disclosure: ' . $classification['sponsor_disclosure'] . "\n";
+    if ($sponsored) $fm .= 'sponsor_name: ' . yaml_str($sponsor) . "\n";
+    $fm .= 'editorial_lens: ' . $classification['editorial_lens'] . "\n";
+    $fm .= 'historical_status: ' . $classification['historical_status'] . "\n";
+    $fm .= 'correction_status: ' . $classification['correction_status'] . "\n";
+    $fm .= 'archive_policy: ' . $classification['archive_policy'] . "\n";
+    $fm .= 'provenance_layer: ' . $classification['provenance_layer'] . "\n";
+    $fm .= 'wayback_status: ' . $classification['wayback_status'] . "\n";
     $fm .= 'content_sha256: ' . $chash . "\n";
     $fm .= 'canonical: ' . $id . '-' . $slug . ".json\n";
     $fm .= "---\n\n";

@@ -7,6 +7,15 @@ published_gmt: 2013-12-09 13:27:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/mori-hamada-matsumoto-wins-japan-dispute-resolution-award/"
 categories: ["Asia Pacific", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5afa256e09f84e9b4af11c390f3d6e4a196953e3afd1191a113d40300e79ad57
 canonical: 1045-mori-hamada-matsumoto-wins-japan-dispute-resolution-award.json
 ---

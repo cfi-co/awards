@@ -7,6 +7,15 @@ published_gmt: 2016-03-16 16:20:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2016/home-trust-company-best-mortgage-solutions-canada-2016/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fec082e6b2b0d72cfcef5ecc845fe454a601202aba0c8c9d22b4811f39995f3f
 canonical: 3223-home-trust-company-best-mortgage-solutions-canada-2016.json
 ---

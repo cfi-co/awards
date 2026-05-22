@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 17:06:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/tricepts-management-solutions-best-management-consultancy-firm-kenya-2016/"
 categories: ["Africa", "Consultancies"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a0ed6ac62ad90f49c29c547285dee973340592a31048af7d3a5934d413b76dbd
 canonical: 4104-tricepts-management-solutions-best-management-consultancy-firm-kenya-2016.json
 ---

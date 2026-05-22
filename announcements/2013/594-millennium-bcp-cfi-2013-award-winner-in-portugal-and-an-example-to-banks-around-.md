@@ -7,6 +7,15 @@ published_gmt: 2013-06-17 13:35:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/millennium-bcp-cfi-2013-award-winner-in-portugal-and-an-example-to-banks-around-the-world/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6edab88f449b3e9dc9de0b462f5802b6d2df1f84b74b99ccadc363681d7c88b6
 canonical: 594-millennium-bcp-cfi-2013-award-winner-in-portugal-and-an-example-to-banks-around-.json
 ---

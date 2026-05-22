@@ -7,6 +7,15 @@ published_gmt: 2020-01-07 22:15:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2020/blue-lagoon-outstanding-contribution-to-eco-tourism-global-2019/"
 categories: ["Community Engagement", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a944dbc3a43ec1171e6af8bbd60ca62d9c44817481590d309c7ad15fa0bbd41
 canonical: 7083-blue-lagoon-outstanding-contribution-to-eco-tourism-global-2019.json
 ---

@@ -12,8 +12,21 @@
         "Finance",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4290\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/FdF.jpg\" alt=\"\" width=\"323\" height=\"100\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Unlocking the rather awesome power of private equity, Mexico’s Fondo de Fondos (Fund of Funds) combines a joint total of 250 years’ worth of local and global experience with big data to offer investors access to some of the best corporate opportunities in the country. Fondo de Fondos traces its origins back to 1996 and today bundles the market savvy of four of Mexico’s premier private equity funds.</strong></p>\r\n<p style=\"text-align: justify;\">Fondo de Fondos aims to further the private equity industry in Mexico and has implemented a comprehensive strategic plan to manage third-party resources using international best practices and recruiting renowned experts to strengthen its already formidable team. Fondo de Fondos has also created a proprietary industry database that provides an updated stream of corporate information.</p>\r\n<p style=\"text-align: justify;\">Presently, Fondo de Fondos manages in excess of $900m in commitments, including funds of institutional investors who have come to depend on the expertise of the firm’s team to access prime opportunities. Uniquely, Fund of Funds decision-making process is steered by a board of advisors which includes up to 50% independent members. Fund of Funds also owes its continued success to strict risk mitigation procedures and a code of ethics that has become a benchmark in the industry.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends the firm on its cautious yet dynamic approach to private equity. The judges agree to name Fund of Funds winner of the 2017 Best Private Equity Fund-of-Funds Asset Manager Mexico Award.</p>",
     "content_sha256": "1758a3528d1c776cae0e2d2acf0b76e5b43746b9a9fc4acadf531dfbf60c5b5b",
-    "record_sha256": "3885a651bbb3d86c7e1424e4fc61f04bc247ae3ff9977f4ebd360a073e871d78"
+    "record_sha256": "e991465aca2e5bdacf6b2ed9d0315a0472c660ccb2b6bf8e2e2386f4643f8c9a"
 }

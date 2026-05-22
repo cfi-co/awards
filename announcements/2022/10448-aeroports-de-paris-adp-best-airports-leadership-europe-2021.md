@@ -7,6 +7,15 @@ published_gmt: 2022-05-13 10:54:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/aeroports-de-paris-adp-best-airports-leadership-europe-2021/"
 categories: ["Corporate Leadership", "Europe", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83186543c1de9ebbd309b7d1e8ce50d06274157a99d391a2307ff912d88bade0
 canonical: 10448-aeroports-de-paris-adp-best-airports-leadership-europe-2021.json
 ---

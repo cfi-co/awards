@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 13:02:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/concord-international-investments-group-best-asset-manager-egypt-2017/"
 categories: ["Asset Management", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 661baaa67e07e42245e9bce24d420312c43b74e7df1ba993167e58b9c6faa188
 canonical: 4309-concord-international-investments-group-best-asset-manager-egypt-2017.json
 ---

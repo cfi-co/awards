@@ -7,6 +7,15 @@ published_gmt: 2021-01-25 11:27:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/pavilion-global-markets-best-global-portfolio-strategy-team-north-america-2020/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a23c92dad2a179423363c280594674aa911607cfa6c7d268f3214429cfe3d335
 canonical: 8635-pavilion-global-markets-best-global-portfolio-strategy-team-north-america-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-12-18 10:43:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/active-capital-reinsurance-ltd-best-credit-reinsurance-solutions-for-institutions-latin-america-2019/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85db373dcab571e711e44fda75293112d61d6053e676fd58b415e48739d4ab4b
 canonical: 7053-active-capital-reinsurance-ltd-best-credit-reinsurance-solutions-for-institution.json
 ---

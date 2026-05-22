@@ -7,6 +7,15 @@ published_gmt: 2020-11-20 14:42:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/worthwhile-capital-partners-best-esg-specialist-fund-solutions-nordics-2020/"
 categories: ["Asset Management", "Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aef2caf488e02e389d5c5581a106786231e0e8a2be9c78dcc72a6d8f416e994f
 canonical: 8487-worthwhile-capital-partners-best-esg-specialist-fund-solutions-nordics-2020.json
 ---

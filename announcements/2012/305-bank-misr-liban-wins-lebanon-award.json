@@ -13,8 +13,21 @@
         "Islamic Banking",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"  wp-image-306 aligncenter\" title=\"bmlLogo\" src=\"https://cfi.co/awards/wp-content/uploads/2012/12/bmlLogo.jpg\" alt=\"\" width=\"201\" height=\"74\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>We are pleased to announce Bank Misr Liban (BML) as Best Commercial Bank Lebanon, 2012.</strong></p>\r\n<p style=\"text-align: justify;\">The Bank and its stakeholders are now seeing the benefits of the restructuring that has taken place over the past few years. This restructuring has left BML not only in a better financial position but also with improved levels of corporate governance and transparency. In the view of CFI.co’s judging panel, these achievements - combined with the very strong local knowledge built up since 1929 - means that the Bank is perfectly positioned to provide safe and very high levels of service to its customers and deliver just rewards to all its stakeholders.</p>",
     "content_sha256": "97b415226510c8980f3803f04aeb5c6eddfdd580870bdfe89f0d9f2f2ca0e58d",
-    "record_sha256": "814208ee141a66d18fb0070b99bf031413442d4ab5157def80d16123040a1e53"
+    "record_sha256": "1c32d948610c7f23e81d79c6f410f7b65d8053419c5e1289fd41ccf68ecff592"
 }

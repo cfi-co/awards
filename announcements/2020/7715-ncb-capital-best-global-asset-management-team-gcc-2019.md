@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 13:49:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/ncb-capital-best-global-asset-management-team-gcc-2019/"
 categories: ["Asset Management", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 87fc98d37a2da3955fd7ccaa710efa389ef0eba52577385bf4c9ac12987138cb
 canonical: 7715-ncb-capital-best-global-asset-management-team-gcc-2019.json
 ---

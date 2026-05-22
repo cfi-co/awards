@@ -7,6 +7,15 @@ published_gmt: 2014-12-15 13:06:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/best-regional-bank-gcc-2014-the-cfi-co-award-winner-is-ahli-united-bank-b-s-c/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed795964e69084709cad0c23f96dde605d23d954ce312d557a35241482fa4cb3
 canonical: 1426-best-regional-bank-gcc-2014-the-cfi-co-award-winner-is-ahli-united-bank-b-s-c.json
 ---

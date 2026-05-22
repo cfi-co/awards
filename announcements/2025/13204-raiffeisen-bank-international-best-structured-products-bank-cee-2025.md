@@ -7,6 +7,15 @@ published_gmt: 2025-11-10 16:29:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2025/raiffeisen-bank-international-best-structured-products-bank-cee-2025/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9125337a4bd41a2bb780a9a8e0154bcea730452c24944a7a0bdfbce8c96859c7
 canonical: 13204-raiffeisen-bank-international-best-structured-products-bank-cee-2025.json
 ---

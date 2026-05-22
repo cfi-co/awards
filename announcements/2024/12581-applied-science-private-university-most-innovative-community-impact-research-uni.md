@@ -7,6 +7,15 @@ published_gmt: 2024-09-16 15:32:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/community-engagement/2024/applied-science-private-university-most-innovative-community-impact-research-university-middle-east-2024/"
 categories: ["Community Engagement", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01e2e7bf275a7c394ffba06658a85b9b6c670d21d4bdb4ae50aa2ecfa6cd489a
 canonical: 12581-applied-science-private-university-most-innovative-community-impact-research-uni.json
 ---

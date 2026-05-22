@@ -7,6 +7,15 @@ published_gmt: 2014-10-21 09:27:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/alj-finansman-wins-consumer-finance-award-in-turkey/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 580d5085a39fa8e6e796b9b850897be7ad6700c0988334d4fea7ac247d1f0b3a
 canonical: 1381-alj-finansman-wins-consumer-finance-award-in-turkey.json
 ---

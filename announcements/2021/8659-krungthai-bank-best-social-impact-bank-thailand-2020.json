@@ -13,8 +13,21 @@
         "Best Practice",
         "CSR"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8660\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/Krungthai.jpg\" alt=\"Krungthai\" width=\"500\" height=\"147\" />\r\n<p style=\"text-align: justify;\">Krungthai Bank (KTB) is a majority state-owned enterprise bank on a threefold mission: to facilitate sustainable economic growth, boost financial inclusion, and enhance quality of life in Thailand. The bank’s 54-year legacy of stability has contributed to the development of the country’s business landscape. In 1989, it became the first state enterprise to float shares on the Stock Exchange of Thailand. The bank unites five ecosystems — government, education, payments, healthcare and mass transit — by combining next-level fintech solutions with strong tech infrastructure. It creates positive social impacts with products, services and support programmes addressing the needs of more than 40 million people. KTB clients can apply for student loans, streamline hospital visits and make contactless payments. The bank has collaborated with the government to develop digital platforms to register, screen and deliver relief measures during the coronavirus pandemic. It implemented measures to mitigate the financial hardship experienced by individual and corporate clients, such as loan “payment holidays” at the beginning of the crisis, and reductions in interest rates, fees and penalties from August onwards. The CFI.co judging panel has praised KTB in past awards programmes for its steadfast advancement of the Thailand 4.0 strategy, which aims to build a cashless society while reducing social inequalities and narrowing the income gap. The judges applaud the bank’s swift crisis response and declare Krungthai Bank as winner of the 2020 award for Best Social Impact Bank (Thailand).</p>",
     "content_sha256": "ef20b332d640791bfb4b74634e3721e3795e41321738ccba25f77fc58d82aafc",
-    "record_sha256": "20ac405826cee9ec489810ce8b7566cc50f9c52fc03cdff2f84beeb6d83fa502"
+    "record_sha256": "ca24817b5522149c0239a194f6e8bdfca4049a19218699ab47352f2cb8f9a4ea"
 }

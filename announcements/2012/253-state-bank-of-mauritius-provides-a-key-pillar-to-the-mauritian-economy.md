@@ -7,6 +7,15 @@ published_gmt: 2012-10-05 12:08:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2012/state-bank-of-mauritius-provides-a-key-pillar-to-the-mauritian-economy/"
 categories: ["Africa", "Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1e160a511143ad24a3ccb522a457c011b1e7f1ec82e717b69bb0cda15a33857b
 canonical: 253-state-bank-of-mauritius-provides-a-key-pillar-to-the-mauritian-economy.json
 ---

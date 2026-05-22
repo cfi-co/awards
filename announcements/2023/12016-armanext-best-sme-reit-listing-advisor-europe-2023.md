@@ -7,6 +7,15 @@ published_gmt: 2023-10-25 12:06:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/armanext-best-sme-reit-listing-advisor-europe-2023/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c54dbbbf7c3ae1686213b8a46ae320a0ba0192896088f636269994d3c8c748f1
 canonical: 12016-armanext-best-sme-reit-listing-advisor-europe-2023.json
 ---

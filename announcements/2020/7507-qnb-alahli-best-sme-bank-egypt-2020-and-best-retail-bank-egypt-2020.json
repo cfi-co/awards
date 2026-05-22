@@ -11,8 +11,21 @@
         "Banking",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5448\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/QNB.jpg\" alt=\"QNB\" width=\"400\" height=\"154\" />\r\n<p style=\"text-align: justify;\">QNB Alahli has won the trust of the Egyptian people — and a leading share of the country’s financial market. The QNB Group subsidiary follows a robust commercial strategy that has solidified its position as a market leader, delivering one of the lowest non-performing loans, and one of the highest loans-to-deposits ratios, in the sector. QNB Alahli offers financial products and services tailored to the needs of retail customers, corporate clients and MSMEs (micro, small, and medium-sized enterprises). It practises continuous innovation to update products and launch new services in anticipation of market trends and client demands. For retail clients, QNB Alahli offers current and savings accounts, certificates of deposit and term-specific time deposits, as well as a full line of credit facilities and digital services. It invites high-net-worth individuals to explore its premium banking services, with preferential rates and exclusive benefits. QNB Alahli rolls out the red carpet for business clients through specialised programmes dedicated to services, consulting, and financing. It hit the government target of a 20 percent SME portfolio a full year ahead of schedule. It has established long-term relationships with entrepreneurs and helped companies grow and flourish. In co-operation with the European Bank for Reconstruction and Development, QNB Alahli supports the Women in Business programme, which provides training resources, networking events and advisory services for female-led projects and SMEs. QNB Alahli has consistently fared well in previous CFI.co awards programmes, and this year the judges present it with dual awards for 2020: Best SME Bank and Best Retail Bank (Egypt).</p>",
     "content_sha256": "dd200f96afc3e5c007daec5286c9c826cca7aae3c203ad0cdfbbf8b04b255f79",
-    "record_sha256": "30249dbdc41f93f8f40e49774e45ed9590b52bc99e3fd4ca4604aff249c798f0"
+    "record_sha256": "0d282f146d39353360feb6d85305e42edecd17d839854d23d6b861aa709f909e"
 }

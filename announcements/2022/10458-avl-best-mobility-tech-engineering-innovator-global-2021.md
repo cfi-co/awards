@@ -7,6 +7,15 @@ published_gmt: 2022-05-17 06:01:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/avl-best-mobility-tech-engineering-innovator-global-2021/"
 categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5414f9e2c662ee99bad499db6b1fa8138789014a852fbb31fd5a583d1a9a6709
 canonical: 10458-avl-best-mobility-tech-engineering-innovator-global-2021.json
 ---

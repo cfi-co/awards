@@ -7,6 +7,15 @@ published_gmt: 2019-12-03 18:52:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2019/mindmaze-best-ai-mixed-reality-team-global-2019/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e353ac3fca68d07c7ca11fcfb29135dcd1d1ea7b7464d4ca9e5eabea3b34ca40
 canonical: 7002-mindmaze-best-ai-mixed-reality-team-global-2019.json
 ---

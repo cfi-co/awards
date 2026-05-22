@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"size-full wp-image-12391 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2024/05/Sun-Global-jpg.webp\" alt=\"Sun Global\" width=\"260\" height=\"84\" />\r\n<p style=\"text-align: justify;\">Sun Global Investments Limited, headquartered in London with an affiliate office in Dubai, has been a pioneering force in the financial sector since its establishment in 2008. Authorised and regulated by the FCA in the UK, the firm leverages its deep understanding of emerging markets to provide tailored financial solutions to its client base. With a focus on client-centricity, Sun Global Investments excels in its Investment Advisory, Securities Trading, and Corporate Finance businesses, each of which have a close nexus to emerging markets. The firm’s unique expertise allows it to bridge the gap between the demand for capital from emerging market issuers / borrowers and the supply from western market-based investor pockets, thereby fostering economic convergence. Its Corporate Finance division plays a pivotal role in arranging funding for clients in emerging market jurisdictions such as Sub-Saharan Africa and Asia, connecting them with developmental institutions, impact investors, asset managers, credit and private equity funds, sovereign institutions, banks and family office investors. The firm’s innovative approach includes both public bond issuances as well as private credit /equity transactions, adapting to the evolving needs of its clients. Sun Global Investments has a strong track record in supporting sectors such as financial inclusion, climate change, manufacturing, and agricultural sustainability, which are critical to the development of emerging economies. The firm’s strategic initiatives have not only facilitated substantial funding for clients but also introduced new investors to these markets, thereby contributing to their growth and stability. Its ability to navigate complex financial landscapes and deliver customised solutions highlights an exceptionally strong commitment to emerging markets. The CFI.co Judging Panel congratulates Sun Global Investments Limited on winning the 2024 award for Emerging Markets Expansion Excellence (UK).</p>",
     "content_sha256": "b442175a2a8945fc56dc10172f6345692d7f82bacf30654c34f163894be911c6",
-    "record_sha256": "5568672d1c41372a19ee5ec5d260fa8f624ffa29c666ca155850f1e13dd890a9"
+    "record_sha256": "5edd5115d1ae4aee4cfcd01d8eba6134dbfb055cecc2b6d4c57facfc3cadff8f"
 }

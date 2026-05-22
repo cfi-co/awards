@@ -7,6 +7,15 @@ published_gmt: 2018-01-24 16:23:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/middle-east-paper-company-mepco-best-corporate-governance-leadership-saudi-arabia-2017/"
 categories: ["Best Practice", "Corporate Governance", "Corporate Leadership", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f232d731b5d5ba045a7f63ed09f8c762540ac4f4c55b09e1beb3dc00c8d6825
 canonical: 5211-middle-east-paper-company-mepco-best-corporate-governance-leadership-saudi-arabi.json
 ---

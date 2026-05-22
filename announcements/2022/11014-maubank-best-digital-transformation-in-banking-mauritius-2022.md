@@ -7,6 +7,15 @@ published_gmt: 2022-12-20 10:28:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/maubank-best-digital-transformation-in-banking-mauritius-2022/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5d712e07a6493451acbbebc7fa8bf9a26ba2706979ace5e44357e35a5d7a553
 canonical: 11014-maubank-best-digital-transformation-in-banking-mauritius-2022.json
 ---

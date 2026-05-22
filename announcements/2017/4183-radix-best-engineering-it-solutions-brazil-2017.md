@@ -7,6 +7,15 @@ published_gmt: 2017-04-28 11:47:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/radix-best-engineering-it-solutions-brazil-2017/"
 categories: ["Industries", "Latin America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f251a9c8c1151ead7620dc179cc31b35115ded0ab46a93727ecfa51edd90f217
 canonical: 4183-radix-best-engineering-it-solutions-brazil-2017.json
 ---

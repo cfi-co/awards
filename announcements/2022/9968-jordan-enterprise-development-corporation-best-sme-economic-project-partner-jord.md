@@ -7,6 +7,15 @@ published_gmt: 2022-01-12 15:41:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/jordan-enterprise-development-corporation-best-sme-economic-project-partner-jordan-2021/"
 categories: ["Development", "Government", "Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb5ba922f9aaf518ac336f36a439de2f006e3a226c00b5418e9b318bcd4ba8db
 canonical: 9968-jordan-enterprise-development-corporation-best-sme-economic-project-partner-jord.json
 ---

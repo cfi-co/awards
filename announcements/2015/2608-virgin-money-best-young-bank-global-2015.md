@@ -7,6 +7,15 @@ published_gmt: 2015-08-26 13:51:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2015/virgin-money-best-young-bank-global-2015/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb5acc9826f9e174a05d834667b356c7e8d3b3830a4871f601a62ca3defc7b89
 canonical: 2608-virgin-money-best-young-bank-global-2015.json
 ---

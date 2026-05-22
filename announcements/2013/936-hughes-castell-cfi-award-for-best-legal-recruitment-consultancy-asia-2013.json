@@ -13,8 +13,21 @@
         "Legal",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2013/11/HC-logo.jpg\"><img class=\"aligncenter size-full wp-image-939\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/HC-logo.jpg\" alt=\"HC logo\" width=\"303\" height=\"67\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>There are many key components to the achievement of sustainable economic growth and - by no means least - is the availability of highly talented and professional legal services. In the fast growing Asian markets it has at times been difficult for both companies and law firms to keep pace with the increasing need for highly skilled legal teams. </strong></p>\r\n<p style=\"text-align: justify;\">As the Asian economies have grown, Hughes-Castell has done more than just keep pace with the increased demand for top lawyers. To help meet this demand, Hughes-Castell has been a pioneer in developing an efficient and effective network across Asia. However, it is not the firm’s reach that sets it apart: Successful placement is, of course, about far more than matching the skills of candidates to clients’ needs. Hughes-Castell has an outstanding track record in understanding both their candidates’ and clients’ aspirations, their needs and value sets. This has resulted in an enviable track record for long-term successful pairing of candidates and clients. This lack of volatility is crucial given the ever increasing legal complexities of domestic business within Asia and international trade and the internal opportunity cost of high staff turnover.</p>\r\n<p style=\"text-align: justify;\">In declaring Hughes-Castell winners of the award ‘Best Legal Consultancy, Asia, 2013’, the CFI judging panel is confident that clients that use the firm’s services will find the right candidates to help their companies grow and will assist law firms in providing the highest levels of representation to clients. Integrity is at the heart of good legal service and the strength of nominations received by Hughes-Castell strongly suggests that integrity is also at the heart of Hughes-Castell operations.</p>",
     "content_sha256": "be147713d8dfdcc022ba6d3101fcb6daf314934a0c5cf6953a96cb28b58c8c5b",
-    "record_sha256": "efb2e10df57fc0d72e4ef86dcf428211b45cad48d5b17586585e8e071310c30e"
+    "record_sha256": "3113f274ca360c9d45b6c35d5989d90f42745b46497f547b4c845b2cdc80c1ac"
 }

@@ -13,8 +13,21 @@
         "Industries",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1178\" src=\"https://cfi.co/awards/wp-content/uploads/2014/02/RAK.jpg\" alt=\"RAK\" width=\"500\" height=\"116\" /></p>\r\n<p style=\"text-align: justify;\"><strong>RAK Insurance has won the award for ‘Best Corporate Governance, GCC,’ in the CFI.co Insurance Awards for the year2014. RAK is the popular shortened name of one of the United Arab Emirates namely, Ras al-Khaimah (literal meaning of the Arabic: ‘Top of the Tent’). According to the CFI.co Judging Panel, the concern for good governance at RAK Insurance places this company securely at the top of the tent.</strong></p>\r\n<p style=\"text-align: justify;\">The judging panel is aware that RAK Insurance is operating beyond the letter and spirit of the regulatory system and is at the forefront of industry best practice. As management says, ‘The question that is always in mind here is this: What else can we do?’</p>\r\n<p style=\"text-align: justify;\">Our award winner is healthily obsessed with good corporate governance and the management style at RAK Insurance is that of a sincere concern for all stakeholders. RAK Insurance is a transparent organisation that is passionately concerned about business ethics and it shows.</p>",
     "content_sha256": "18df0af8eee016fca8d71032c327f60e8171aab0385795273e990d02be745b41",
-    "record_sha256": "1bcf3f0db70bcc32330b00dd2a077682421c837fccaeb16ba13bed5dd74ee2e7"
+    "record_sha256": "c0d02a58c772006cb094db42719dde71d163cf210b5ad06d2617f60d254726df"
 }

@@ -7,6 +7,15 @@ published_gmt: 2022-01-11 10:53:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/arab-bank-most-innovative-digital-banking-services-middle-east-2021/"
 categories: ["Banking", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0623d5a6a0a24bded55861a4c1e13335212fbe068c996f1d8305d7aa8343ebd3
 canonical: 9945-arab-bank-most-innovative-digital-banking-services-middle-east-2021.json
 ---

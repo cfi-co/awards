@@ -7,6 +7,15 @@ published_gmt: 2015-04-20 13:41:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2015/banco-interacciones-best-government-banker-best-investment-bank-mexico-2015/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 229742fdc804a71c0bd753c7effbca16165726e8340447753eecfb61e484a3f4
 canonical: 2380-banco-interacciones-best-government-banker-best-investment-bank-mexico-2015.json
 ---

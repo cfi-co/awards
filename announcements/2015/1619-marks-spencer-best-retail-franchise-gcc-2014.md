@@ -7,6 +7,15 @@ published_gmt: 2015-01-06 13:33:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/marks-spencer-best-retail-franchise-gcc-2014/"
 categories: ["Europe", "Industries", "Middle East", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dd7ccebd37a281f1ea5284dc62712a15df6d8e7c8228f10e49cd88a34e2b0790
 canonical: 1619-marks-spencer-best-retail-franchise-gcc-2014.json
 ---

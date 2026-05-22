@@ -7,6 +7,15 @@ published_gmt: 2020-09-07 07:48:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/agriterra-most-responsible-agribusiness-group-africa-2020/"
 categories: ["Africa", "Best Practice", "CSR"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4c9c21c91a720673a0e79a8c9d9a6718ded8b89646e41872a202888fd86bd29
 canonical: 8197-agriterra-most-responsible-agribusiness-group-africa-2020.json
 ---

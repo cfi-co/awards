@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:24:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/efis-edi-finance-service-best-payment-transaction-solutions-europe-2017/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: adf563fd248ba532f2db220eabe54ef88d58d89343f5206af2d87e13cfc8e910
 canonical: 4945-efis-edi-finance-service-best-payment-transaction-solutions-europe-2017.json
 ---

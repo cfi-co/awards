@@ -7,6 +7,15 @@ published_gmt: 2024-06-05 15:13:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/rbc-caribbean-banking-best-digital-banking-services-caribbean-2024/"
 categories: ["Banking", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 15b15be741891ccb13f3c32f96a625a379a70ee33e841a2dbf1d9e2dba0cfaf5
 canonical: 12402-rbc-caribbean-banking-best-digital-banking-services-caribbean-2024.json
 ---

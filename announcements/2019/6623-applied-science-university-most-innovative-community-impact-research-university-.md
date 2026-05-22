@@ -7,6 +7,15 @@ published_gmt: 2019-04-12 11:38:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/applied-science-university-most-innovative-community-impact-research-university-middle-east-2019/"
 categories: ["Community Engagement", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e46abe0dbb00677b059666e4b89bcfffe4fcfda7e5907fde195e9753dcc6207a
 canonical: 6623-applied-science-university-most-innovative-community-impact-research-university-.json
 ---

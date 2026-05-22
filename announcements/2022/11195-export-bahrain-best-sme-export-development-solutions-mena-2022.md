@@ -7,6 +7,15 @@ published_gmt: 2022-06-24 08:44:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2022/export-bahrain-best-sme-export-development-solutions-mena-2022/"
 categories: ["Development", "Government", "Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f835b0d56c4f50e008fb394987ec35d92a027dd300a91a4ca417f3815deb722b
 canonical: 11195-export-bahrain-best-sme-export-development-solutions-mena-2022.json
 ---

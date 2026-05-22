@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[gallery columns=\"2\" link=\"file\" size=\"large\" ids=\"11123,11124,11125,11126\"]\r\n\r\n&nbsp;\r\n<p style=\"text-align: justify;\">Société Générale Guinée (SG Guinea) — one of the oldest private banks in the country — began serving the Guinean population just 27 years after the nation gained independence. It was created in 1985 as a subsidiary of Societe Generale, a group with a 158-year legacy and 32 million customers in 76 countries. The bank contributes to the benchmark status of its parent company by embracing the values of commitment, responsibility, team spirit and innovation. SG Guinea levers a capital position composed of international and local shareholders to fuel the economic development of the individuals, entrepreneurs, companies and associations that make up its client base. The bank has established itself as a leader in the credit market as well as corporate and retail banking. The values-driven team eschews the short-sighted, profits-crazed strategies favoured by lesser banks by focusing on becoming a powerhouse in the development of human capital. Socio-economic development is the primary role and ambition of SG Guinea. In 2022, the bank turned its attention to address the knock-down effects of the crisis deriving from the Russo-Ukraine war. SG Guinea will inaugurate new headquarters soon, underscoring the permanence of its commitment to the region, its people and their financial stability. The CFI.co judging panel has recognised the bank in past awards programmes and is pleased to note that it continues to pursue the mandate of growing with Africa. SG Guinea claims the 2022 awards for Best Business Bank and Best Corporate Banking Team (Guinea).</p>\r\n&nbsp;\r\n<p style=\"text-align: justify;\"><img class=\"size-full wp-image-10112 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/SocGen.jpg\" alt=\"SocGen\" width=\"500\" height=\"82\" /></p>",
     "content_sha256": "ce342c4113f9a302b1c1130faee76aa799cdedcc38995e5b64feca0cfadf80e4",
-    "record_sha256": "220ca1cdd5d5646f6d9d5541cad46b2ed02bbaa876e294320f244f1dd7b2204c"
+    "record_sha256": "da2ae6679093e69f6f676a0cc95b50ea111409db8c70da58254b679df69557ef"
 }

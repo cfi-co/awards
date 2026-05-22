@@ -7,6 +7,15 @@ published_gmt: 2023-11-20 12:04:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/maubank-best-digital-experience-in-banking-mauritius-2023/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8766525acbfe0283533f6985415c4edb4a59f7af654a735285454ac08ef05257
 canonical: 12079-maubank-best-digital-experience-in-banking-mauritius-2023.json
 ---

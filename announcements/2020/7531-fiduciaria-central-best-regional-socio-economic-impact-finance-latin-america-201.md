@@ -7,6 +7,15 @@ published_gmt: 2020-01-05 16:52:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2020/fiduciaria-central-best-regional-socio-economic-impact-finance-latin-america-2019/"
 categories: ["Community Engagement", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e79461aeb4ea23c20cb5a4ddb7b13f5ba104e71ee0bf24e035e9f4dbe8fd2e9b
 canonical: 7531-fiduciaria-central-best-regional-socio-economic-impact-finance-latin-america-201.json
 ---

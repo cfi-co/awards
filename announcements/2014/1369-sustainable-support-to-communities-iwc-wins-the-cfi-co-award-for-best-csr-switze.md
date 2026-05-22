@@ -7,6 +7,15 @@ published_gmt: 2014-10-07 09:39:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/sustainable-support-to-communities-iwc-wins-the-cfi-co-award-for-best-csr-switzerland-2014/"
 categories: ["Best Practice", "CSR", "Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 872453d08eb716e4da936623f9915726c9a1a23a3a464031f2d194d75b88fd67
 canonical: 1369-sustainable-support-to-communities-iwc-wins-the-cfi-co-award-for-best-csr-switze.json
 ---

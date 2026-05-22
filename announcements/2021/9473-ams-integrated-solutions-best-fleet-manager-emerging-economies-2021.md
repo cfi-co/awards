@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 13:53:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/ams-integrated-solutions-best-fleet-manager-emerging-economies-2021/"
 categories: ["Development", "Industries", "Middle East", "Projects", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cce10b62db6ffda682e8f15ea79d9a4aa06782e5d897d0ad1df0f5c4523fab2a
 canonical: 9473-ams-integrated-solutions-best-fleet-manager-emerging-economies-2021.json
 ---

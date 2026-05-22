@@ -13,8 +13,21 @@
         "Latin America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12342\" src=\"https://cfi.co/awards/wp-content/uploads/2024/04/Moodys-jpg.webp\" alt=\"Moodys\" width=\"500\" height=\"167\" />\r\n<p style=\"text-align: justify;\">Moody’s Ratings has unparalleled expertise in navigating the dynamic landscape of private credit and digital finance. With over a century of credit risk assessment acumen, Moody’s Ratings stand as a beacon of trust for investors seeking robust insights into non-bank lending opportunities, particularly in the burgeoning private credit market. Moody’s Ratings facilitate informed decision-making by offering transparent evaluations of leading private debt investment vehicles, including Business Development Companies (BDCs), Collateralised Loan Obligations (CLOs), and Managed Funds. Moreover, Moody’s Ratings unrivalled digital finance initiatives, such as data stories and special reports, provide a comprehensive overview of emerging trends and potential risks in the digital assets space, ensuring stakeholders remain well-informed and prepared to tackle evolving challenges. Its reports are well respected. Moody’s Ratings commitment to Environmental, Social, and Governance (ESG) principles further enhances its credibility, with rigorous assessments of green, social, and sustainability financial instruments. Leveraging its extensive second-party opinion framework and net-zero assessments, Moody’s Ratings empowers investors with actionable insights to align their portfolios with global sustainability objectives. As a trusted partner in the financial ecosystem, Moody’s Ratings continues to redefine industry standards, driving innovation and fostering resilience in credit risk analysis across the LATAM region. CFI.co extends its sincere congratulations to Moody’s Ratings for its exemplary contributions to credit risk analysis in LATAM, setting a benchmark for excellence and integrity in the financial industry. Without question the judging panel confirms Moody’s Ratings as winner of the 2024 award Best Credit Risk Analysis (LATAM).</p>",
     "content_sha256": "83f83d1708bb30f98d249ab39d3488c0d052b6b951ffe1fd6930eb853e3ea29d",
-    "record_sha256": "329f332d4a2860be7cebceb2d86a44472f4f38a9cce4da86d51d9760b5f098c7"
+    "record_sha256": "79967e3b5a31df8012016c6b3b5f8c743ef43a0725962288eb0f583db6b660ed"
 }

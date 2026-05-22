@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:24:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2019/shell-livewire-best-youth-entrepreneurship-engagement-programme-global-2019/"
 categories: ["Best Practice", "Community Engagement", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e22f42040a24f259715baefd6ff099d18278d11101cbed24465bb38083d412c
 canonical: 7938-shell-livewire-best-youth-entrepreneurship-engagement-programme-global-2019.json
 ---

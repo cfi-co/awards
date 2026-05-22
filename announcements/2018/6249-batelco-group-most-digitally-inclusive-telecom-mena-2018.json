@@ -12,8 +12,21 @@
         "Middle East",
         "Telecom"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-6250\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Batelco.jpg\" alt=\"\" width=\"349\" height=\"144\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Today’s telecom industry has moved far beyond the hooking up of copper wires and providing voice services. The advent of digital communication has not just transformed the sector but redefined its very premise. Modern and progressive telecom providers such as Bahrain’s Batelco Group anticipated the change – and embraced it as a new business model that tightly integrates all services and modalities of transmitting data. The company is continuously pushing the high-tech envelope to bring its customers the latest offerings such as cloud-based smart home services.</strong></p>\r\n<p style=\"text-align: justify;\">Batelco Group, the oldest telecom operator in Bahrain, boasts an exceptional history of innovation. In 1992, the company claimed a global first when it managed to fully digitise the country’s domestic and international telephone network. Since then, Batelco Group has kept, and expanded, its leading edge not just in Bahrain, but overseas as well. Today, the company maintains a presence throughout the Middle East and much further afield. Batelco Group offers its comprehensive suite of services in territories such as the Falkland Islands, St Helena, Diego Garcias and the Channel Islands. Also, Dhiraagu is the leading and the largest provider of telecommunications and digital services in the Maldives and has enriched the lives of Maldivians with several home-grown digital products.</p>\r\n<p style=\"text-align: justify;\">Batelco Group is recognised for its dedication to serve the needs of smaller businesses and start-ups which may benefit from packages and bundles tailored to their specific needs. The company also pursues strategic partnerships that allow it to exploit synergies and further improve user experience.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that Batelco Group was an early adopter of both cloud-based services and the Internet-of-Things, yet again fulfilling its role as a telecom pioneer. The judges agree to declare Batelco group winner of the 2018 Most Digitally Inclusive Telecom MENA Award.</p>",
     "content_sha256": "b90ce00146e8928b77f230965b49944a47d0c866726c394d21465a34d80228f4",
-    "record_sha256": "e3209ee5149320cf62678c4b000a69e8ea6b4ba9279138efc56a0f3e2601bf30"
+    "record_sha256": "3ea62c133e95eb8e06a07573514fdda1d496875e9dd250d4aae3c51c1cf713b2"
 }

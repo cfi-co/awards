@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 11:41:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/lbbw-landesbank-baden-wurttemberg-best-green-bond-issuer-germany-2018/"
 categories: ["Banking", "Best Practice", "CSR", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6384b9a5aec08bcdb33038db8fcba7230b8cd22008679550d8a912129d4e30a7
 canonical: 6161-lbbw-landesbank-baden-wurttemberg-best-green-bond-issuer-germany-2018.json
 ---

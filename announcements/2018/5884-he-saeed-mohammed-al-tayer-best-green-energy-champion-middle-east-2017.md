@@ -7,6 +7,15 @@ published_gmt: 2018-08-28 14:18:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/he-saeed-mohammed-al-tayer-best-green-energy-champion-middle-east-2017/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f54294e5d5dd76e470c7e66f12cf18e6499524f1b6b0ce7fa6976c02b915825e
 canonical: 5884-he-saeed-mohammed-al-tayer-best-green-energy-champion-middle-east-2017.json
 ---

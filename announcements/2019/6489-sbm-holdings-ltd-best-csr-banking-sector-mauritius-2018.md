@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 17:48:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/sbm-holdings-ltd-best-csr-banking-sector-mauritius-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f036049ac773046ebd3c3d9eafc644e073efe485e273d9b2652e553b31d2174e
 canonical: 6489-sbm-holdings-ltd-best-csr-banking-sector-mauritius-2018.json
 ---

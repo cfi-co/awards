@@ -7,6 +7,15 @@ published_gmt: 2015-04-20 15:17:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/turyap-best-property-auctions-europe-2015/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f20a549dabf0949d33758f8a0b6a9c5dd377642eedb75e9ffcf273ff2cbebb32
 canonical: 2678-turyap-best-property-auctions-europe-2015.json
 ---

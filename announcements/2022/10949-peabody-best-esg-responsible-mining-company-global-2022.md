@@ -7,6 +7,15 @@ published_gmt: 2022-12-02 13:23:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/mining/2022/peabody-best-esg-responsible-mining-company-global-2022/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Mining", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab2c04ba577fbd691b1ce643702bf6af4b6221f22168319178a04ad644d3e4e1
 canonical: 10949-peabody-best-esg-responsible-mining-company-global-2022.json
 ---

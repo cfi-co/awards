@@ -7,6 +7,15 @@ published_gmt: 2025-11-14 10:47:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/featured/2025/barrow-hanley-best-global-value-investment-partner-united-states-2025/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f508e6c4cc2ec656a004fefeb81e4ae868bbae9f8c9bfec3b763278e5c3aa8e5
 canonical: 13214-barrow-hanley-best-global-value-investment-partner-united-states-2025.json
 ---

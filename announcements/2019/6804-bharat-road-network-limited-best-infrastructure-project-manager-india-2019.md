@@ -7,6 +7,15 @@ published_gmt: 2019-07-03 10:45:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/bharat-road-network-limited-best-infrastructure-project-manager-india-2019/"
 categories: ["Asia Pacific", "Development", "Government", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16f643c429debe53fcaa1ac681468970dad082981954620e769a28b6c60c2b0b
 canonical: 6804-bharat-road-network-limited-best-infrastructure-project-manager-india-2019.json
 ---

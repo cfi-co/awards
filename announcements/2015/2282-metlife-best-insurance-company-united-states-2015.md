@@ -7,6 +7,15 @@ published_gmt: 2015-06-09 11:24:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2015/metlife-best-insurance-company-united-states-2015/"
 categories: ["North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb988c4ad1e39c08d47e333c8328c95d9280499013b7b6d0734f1aa56cf9dc99
 canonical: 2282-metlife-best-insurance-company-united-states-2015.json
 ---

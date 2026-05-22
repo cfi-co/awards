@@ -12,8 +12,21 @@
         "Corporate Governance",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8042\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/ODIN-Investments.jpg\" alt=\"ODIN Investments\" width=\"400\" height=\"591\" />\r\n<p style=\"text-align: justify;\">ODIN Investments is one of Egypt’s leading direct investment banks. Over the past 35 years, it has established a network of close relationships with business and government contacts. ODIN benefits from a seasoned leadership team: CEO Hashem El-Sayed is one of the longest-serving members of the Egyptian stock exchange, with a 10-year tenure on the board. Decades of fruitful relationships with government agencies have contributed to ODIN’s dividend growth and strengthened its specialist status. The listed company has attracted more than 6,500 shareholders and invested in some 60 projects. ODIN Investments is celebrating the launch of its Egyptians Real Estate Fund, a regional first which gives individual or institutional investors access to an investment instrument with a high degree of liquidity and low level of risk. The closed fund has a 10-year term that comes up for renewal in 2028. An ODIN creation, Emerald Real Estate Investment, claimed the honour of becoming the first IPO of 2020 listed on the Egyptian stock exchange — and it was oversubscribed by 134 percent in the private tranche and by 1,770 percent in the public. ODIN Investments was founded in 1984 by four of Egypt’s biggest banks (National Bank of Egypt, Banque Misr, Banque du Caire and Bank of Alexandria), and it has earned its spot as one of the country’s most trusted investment institutions. ODIN offers clients investment banking, private equity, asset management and venture capital services. It recruits and retains top talent, and provides staff with ongoing professional development. The CFI.co judging panel declares ODIN Investments winner of the 2020 award for Best Investment Services Corporate Governance (Egypt).</p>",
     "content_sha256": "abc9e121f4b77f236fb943fcad0252b68d370e3ad0fa4b0769e39d304ba6843a",
-    "record_sha256": "72d6782e14cdc2399a83f2f1a2b1f7d3db1fad85d08e1a96af8704669d323241"
+    "record_sha256": "d07e9ef0b6a6312f18e261f3305d4008101ee3ef19d5805d8043b3020c251e46"
 }

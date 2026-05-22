@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 14:45:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/qatar-insurance-company-best-insurance-leadership-gcc-2021/"
 categories: ["Corporate Leadership", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 40ee1d8cd9dcbc4bdecf34bfb4e103d1e64eaf15027c94000e03700affd113bb
 canonical: 10044-qatar-insurance-company-best-insurance-leadership-gcc-2021.json
 ---

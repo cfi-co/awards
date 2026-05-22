@@ -7,6 +7,15 @@ published_gmt: 2024-01-04 10:33:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2024/wesco-international-best-sustainable-supply-chain-strategy-usa-2023/"
 categories: ["Customer Satisfaction", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f36dc66e977ba71b1bd22ef9b165aabe2651aecaee3bb0a3b63d7b597bf42e9d
 canonical: 12197-wesco-international-best-sustainable-supply-chain-strategy-usa-2023.json
 ---

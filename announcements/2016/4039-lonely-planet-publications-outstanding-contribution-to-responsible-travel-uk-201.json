@@ -10,8 +10,21 @@
     "categories": [
         "Retail"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-4041\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/LonelyPlanetPublications-300x187.jpg\" alt=\"\" width=\"300\" height=\"187\" /></p>\r\n<p style=\"text-align: justify;\"><strong>From its humble beginnings in 1972, Lonely Planet Publications has become the world’s leading travel authority and its largest travel guide book publisher.</strong></p>\r\n<p style=\"text-align: justify;\">The brainchild of a single backpacking trip, Lonely Planet now has a guide for almost every destination on earth. The publisher also maintains offices around the world. With over 200 writers and 400 employees, the company is a publishing powerhouse. It also ensures all of its staff travel is carbon neutral through the ClimateCare Project.</p>\r\n<p style=\"text-align: justify;\">As the globalisation of tourism leaves its mark on more previously unscathed paradises, the idea of responsible and sustainable tourism is becoming ever-more fashionable. However, long before the effects of globalisation were even a concern, Lonely Planet made a point to push the importance of connecting with local communities and curbing the negative impacts of mainstream travel.</p>\r\n<p style=\"text-align: justify;\">This key foresight has enabled the company to stay ahead of its competitors and create a multitude of specialist travel information. Lonely Planet now publishes multiple guides – from books to blogs – on responsible and sustainable travel, and has produced the very first guidebooks on accessible travel in the world.</p>\r\n<p style=\"text-align: justify;\">By 2020, 1.5 billion people will be travelling each year. As that number continues to grow, so too does the responsibility to preserve those destinations. For the company’s long-term dedication to educating customers on responsible tourism, the CFI.co judging panel is pleased to offer Lonely Planet Publications the 2016 Outstanding Contribution to Responsible Travel UK Award.</p>",
     "content_sha256": "8554f6d924663d7912ca57a820be0711e233317f95900019426ccf5cf71b0dcb",
-    "record_sha256": "c11d4d95b9175ad7ce42731f23841bfe634355c741b3b58b9b0c496bc16e9f06"
+    "record_sha256": "9c8bd3134350f039061d9d545df86c4d90633f9b961baa3e1f52403df2c40144"
 }

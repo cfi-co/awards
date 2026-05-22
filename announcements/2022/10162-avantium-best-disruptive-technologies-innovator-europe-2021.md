@@ -7,6 +7,15 @@ published_gmt: 2022-02-03 10:40:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/avantium-best-disruptive-technologies-innovator-europe-2021/"
 categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 28eabd9eae387ef607683f3ecc6e253185a1adee4fa8e6da64c52e36f512a316
 canonical: 10162-avantium-best-disruptive-technologies-innovator-europe-2021.json
 ---

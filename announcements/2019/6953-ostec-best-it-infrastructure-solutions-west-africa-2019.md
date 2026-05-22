@@ -7,6 +7,15 @@ published_gmt: 2019-10-28 10:35:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/ostec-best-it-infrastructure-solutions-west-africa-2019/"
 categories: ["Africa", "Industries", "Technology", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a0cffcfd78ed6730460e969d80070cf51406d3b42e9ba819ca180040a237bdd
 canonical: 6953-ostec-best-it-infrastructure-solutions-west-africa-2019.json
 ---

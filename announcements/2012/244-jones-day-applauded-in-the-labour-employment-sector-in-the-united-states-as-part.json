@@ -12,8 +12,21 @@
         "North America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2012/10/jd-logo.png\"><img class=\"alignright  wp-image-245\" title=\"jd-logo\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/jd-logo-300x225.png\" alt=\"\" width=\"180\" height=\"135\" /></a>The judging panel agree the firm’s claim that it shows a ‘relentless focus on client service’. Traditional courtesy and a high level of client care at Jones Day are apparent at all times and help the firm deliver great results. Jones Day has undertaken significant work in 2012 on behalf of U.S. Steel, Abbott Laboratories and Verizon.</p>",
     "content_sha256": "4a1b49ad18479df54f22a5c49619c518ebe4566c5789979ae209ac20e98ae87e",
-    "record_sha256": "a4cff8506b1724de2a977b4abbcaf21b9dc8741bc757549d6144f5bae7e09267"
+    "record_sha256": "db4e244829dd270a6cb398f63da82af64fc0853e856267cfad5c3d27b09b985a"
 }

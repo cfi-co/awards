@@ -7,6 +7,15 @@ published_gmt: 2019-04-19 12:58:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/aim-uae-is-recognised-by-cfi-co-as-best-fdi-destination-in-the-middle-east/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d9a12f43353dc52a6b067b917f1d9834a4e5a765f5a1a87e42a52f8c06393d9
 canonical: 3152-uae-recognised-cfi-co-best-fdi-destination-middle-east.json
 ---

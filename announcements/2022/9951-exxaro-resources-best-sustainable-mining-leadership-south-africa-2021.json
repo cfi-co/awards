@@ -13,8 +13,21 @@
         "Mining",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-7665 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Exxaro.jpg\" alt=\"Exxaro\" width=\"400\" height=\"251\" />\r\n<p style=\"text-align: justify;\">Exxaro Resources believes that power is the backbone of the economy. The South African company embraces its role in the just transition from an extractive to a regenerative economic model. The company has been on a sustainability journey since its inception in 2006. Exxaro has invested in renewable energies (wind and solar), through wholly owned Cennergi Holdings, in addition to an asset portfolio that includes thermal coal and ferro-alloys operations, as well as iron ore and zinc investments. Exxaro is on a mission to empower lives in Africa and beyond. That commitment starts with the health and safety of the people on its worksites and communities. Exxaro is proud to report above-target safety performance in 2020. During the pandemic, it took swift action to support all stakeholders: it donated to community relief initiatives, offered counselling to employees, extended payment terms for affected clients and provided some small business loans. Exxaro set up Covid laboratories at two of its sites, and through ongoing testing since August 2020 has tested over 200% of its employees (ca14 700, including contractors) and to date has vaccinated 75.5% of its employees. It has sought certification to extend this service to community members. Exxaro has published a thorough, award-winning 2020 ESG report, featuring 184 pages on performance highlights and lowlights. It scored more than 90 percent on the assessment in relation to the Task Force on Climate-Related Financial Disclosures. Exxaro is now working with partners on a joint mine de-carbonisation programme. The CFI.co judging panel announces <a href=\"https://cfi.co/menu/corporate/2020/01/exxaro-resources-socio-economic-initiatives-empowering-communities-and-more/\">Exxaro Resources</a> as the 2021 Best Sustainable Mining Leadership (South Africa) award winner.</p>",
     "content_sha256": "d52aacce296dce6f990712f2c63d00264d0773b2e93d340ef1e92b18df00dcee",
-    "record_sha256": "c5f7eeb8c9a151459ee35e68822e9277fa241232cd99add4aed09f292e547525"
+    "record_sha256": "99f8f1666f6d7a3cf960bfca86335694028d4c818ecc0eb83094d0fb1a174144"
 }

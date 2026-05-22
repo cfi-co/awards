@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 15:00:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2019/canary-wharf-group-outstanding-contribution-to-sustainable-development-united-kingdom-2018/"
 categories: ["Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b99452636d989657c9741813bd18de94cb9e0a6195c34fed0302568b8f0e0f10
 canonical: 6417-canary-wharf-group-outstanding-contribution-to-sustainable-development-united-ki.json
 ---

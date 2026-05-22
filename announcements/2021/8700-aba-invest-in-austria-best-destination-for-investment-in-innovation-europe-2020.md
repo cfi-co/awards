@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 15:50:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/aba-invest-in-austria-best-destination-for-investment-in-innovation-europe-2020/"
 categories: ["Development", "Europe", "FDI Agencies", "Finance", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf53aab2178e5a19bdd5563a1a780badd3395f61e938b99e655b29e20eebd28b
 canonical: 8700-aba-invest-in-austria-best-destination-for-investment-in-innovation-europe-2020.json
 ---

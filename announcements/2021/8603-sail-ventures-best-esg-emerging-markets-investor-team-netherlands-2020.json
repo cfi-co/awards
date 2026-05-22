@@ -14,8 +14,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter  wp-image-8604\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/Sail_ventures_logo_HIGHRES-1024x724.jpg\" alt=\"SAIL Ventures\" width=\"442\" height=\"312\" />\r\n<p style=\"text-align: justify;\">SAIL Ventures premiered as a forward-looking, catalytic investment company in early 2017. It partners with clients to set clear impact targets along the lifespan of the financing plan, aiming to influence global supply chain actors and combat climate change through innovative financial tools with attractive conditions. With AUM of some $125m, the boutique investment firm believes ESG integration to be the best path for positive impacts. SAIL has offices in The Hague, Singapore and Sao Paolo, and has assembled a well-rounded team of financial, environmental, social and operational professionals with more than 200 years of emerging market investment experience. SAIL deploys a team of ESG experts to combine blended finance and donor capital to support companies with transformative projects and meticulous management of environmental and social risks. The team’s deep market expertise has led to a comprehensive understanding of the sector, and it takes the time to share that knowledge to edify clients’ sustainability commitments. SAIL tracks how impacts are generated on both the finance and ESG sides. The company has weathered the choppy investment environment of 2020 with steely resolve and made headway on its goal to invest up to $100m of its green fund in four portfolio companies before the start of 2021. The CFI.co judging panel applauds the team’s values — integrity, humility, entrepreneurship, curiosity and empathy — and its unified commitment to sustainable actions. The judges declare SAIL Ventures winner of the 2020 award for Best ESG Emerging Markets Investor Team (Netherlands).</p>",
     "content_sha256": "1217b210f0bb1e47ac31a2c0af2575c550d5af684df3fdc800add00871c9da82",
-    "record_sha256": "a83e164595f2b9938e7ed1a05cdfcf29a46a338eaf61dcd117076cc40a57b131"
+    "record_sha256": "81359e4076cb107584b12c912fcedb8e173a7d56752f16d1fb1846237cd85b0c"
 }

@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:51:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/finbond-mutual-bank-best-savings-bank-south-africa-2016/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 199d32b1ae2fee42dc3b3d17ead6fc1d4c7353513c774747ebf5ef55e11b0287
 canonical: 4079-finbond-mutual-bank-best-savings-bank-south-africa-2016.json
 ---

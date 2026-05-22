@@ -13,8 +13,21 @@
         "Industries",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12970\" src=\"https://cfi.co/awards/wp-content/uploads/2025/05/CZFS.jpg\" alt=\"CZFS\" width=\"400\" height=\"127\" />\r\n<p style=\"text-align: justify;\">Corporación Zona Franca Santiago (CZFS) has established itself as a pivotal force in the economic development of the Dominican Republic, fostering a dynamic environment for foreign investment and sustainable business growth. Founded in 1974, CZFS operates the largest and most advanced free zone in the country, supporting over 90 multinational and local companies across diverse sectors including manufacturing, technology, and services. The organisation plays a critical role in driving industrial innovation and job creation, with its park generating more than 20,000 direct jobs and significantly contributing to national exports. CZFS has demonstrated an unwavering commitment to enhancing the competitiveness of its tenants through strategic infrastructure development, continuous investment in technology, and comprehensive support services. Its initiatives in environmental sustainability, corporate social responsibility, and community engagement further underscore its dedication to responsible and inclusive growth. CZFS has successfully positioned itself as a model for public-private collaboration, consistently attracting foreign direct investment by offering a stable, secure, and efficient business ecosystem. Its forward-thinking management and commitment to international best practices have strengthened the Dominican Republic’s reputation as a premier investment destination in the Caribbean and Latin America. By prioritising innovation, operational excellence, and sustainable development, CZFS has created a robust platform for companies seeking competitive advantages in highly demanding global markets and diverse industry sectors. The CFI.co Judging Panel congratulates Corporación Zona Franca Santiago on winning the 2025 award for Foreign Investment &amp; Business Competitiveness Champion (Dominican Republic).</p>",
     "content_sha256": "c89f34348463d931361b5c1dd27c8630584947a4d10ae28bb1bae25ec642a668",
-    "record_sha256": "7fa85af7889080bcf3d1f74108ff0b98ad36afc60e76f7b950b2b361ac7ff01a"
+    "record_sha256": "c501169b169f081f9ce283ffd81a19e87384e0815ea9ccc54c6b378a6625ea8a"
 }

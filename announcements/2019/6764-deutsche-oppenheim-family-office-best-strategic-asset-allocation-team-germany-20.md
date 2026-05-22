@@ -7,6 +7,15 @@ published_gmt: 2019-06-05 10:13:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2019/deutsche-oppenheim-family-office-best-strategic-asset-allocation-team-germany-2019/"
 categories: ["Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a8577fd8da5b32cbbd2c7fa873f7ea8b0541ffa2ec0314a4688110d94992ff0d
 canonical: 6764-deutsche-oppenheim-family-office-best-strategic-asset-allocation-team-germany-20.json
 ---

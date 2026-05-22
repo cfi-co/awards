@@ -13,8 +13,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-10393\" src=\"https://cfi.co/awards/wp-content/uploads/2022/05/WiseEnergy.jpg\" alt=\"WiseEnergy\" width=\"400\" height=\"103\" /></p>\r\n<p style=\"text-align: justify;\"><strong>WiseEnergy is fueling growth and innovation through a groupwide focus on strategy, culture and globalisation. The Company has a growing international presence on four continents, including offices in the UK, Italy, Spain, Portugal and the US.</strong></p>\r\n<p style=\"text-align: justify;\">WiseEnergy has been active in the solar industry for over a decade, and its wheelhouse of service delivery expertise covers the entire solar asset spectrum from construction through to operation. WiseEnergy’s goal is to maximise revenue, reduce operational expenditure and minimise risk for clients; in summary, maximising their clients’ return on investment.</p>\r\n<p style=\"text-align: justify;\">WiseEnergy sets the groupwide strategy from its London headquarters, defining global objectives and individual country targets. It unites multiple nationalities and disciplines — finance, technology, project and contract management — into global teams working on portfolios with a wide geographic focus.</p>\r\n<p style=\"text-align: justify;\">The group cultivates a work culture of equity, diversity and inclusion. It invests in employee wellbeing and has increased mental health support to help team members cope with the pandemic. WiseEnergy promotes knowledge sharing throughout the company and industry. Team members stay connected through frequent country-wide and global company update sessions and represent the group at conferences and other external events. It has also introduced new processes and systems to ensure greater resilience and flexibility across the business. For example, it has recently migrated three separate accounting systems into one global application. This was a time-consuming task, but it has made reporting across different countries an easier and more effective.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel presents WiseEnergy, a repeat programme winner, with the 2022 award for Best Solar Asset Manager (UK).</p>",
     "content_sha256": "a950c7f04f9b49c7e6c53d6e135380ffea3cf916276a50d83af9de5ea51ec224",
-    "record_sha256": "8beb7f44cba9e592204bf80b3b0772e353bc42891ab6eb703465e05949d4386d"
+    "record_sha256": "6dabd886b627f3985aba8c6e82e3272db768999630d488b9da8101253ca023b2"
 }

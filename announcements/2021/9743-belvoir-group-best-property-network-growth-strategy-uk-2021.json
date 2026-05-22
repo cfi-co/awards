@@ -11,8 +11,21 @@
         "Europe",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8345\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Belvoir.jpg\" alt=\"Belvoir\" width=\"400\" height=\"73\" />\r\n<p style=\"text-align: justify;\">Over the past 25 years, property franchise Belvoir Group has built a network of 467 offices offering residential lettings, property sales and property-related financial services. The group added 20 lettings and estate offices to the network, including the acquisition of independent real estate company Nicholas Humphreys in March. Belvoir Group strengthened its alliance with the Nottingham Building Society through the acquisition of its financial services subsidiary, Nottingham Mortgage Services. These deals cost Belvoir over £5m and were funded from cash reserves. Belvoir Group was pleased to report another half-year of strategic and trading growth, achieving revenue growth across its three business lines. First-half results have outperformed expectations, with a 41 percent increase in revenue over the same period for 2020, from £9.8m to £13.8m. Basic earnings per share are up 36 percent, and interim dividends rose by 17.6% to 4p per share for the half year. The group’s resilient business model has allowed Belvoir to capitalise on opportunities in this year’s buoyant housing market — and ensured its growth strategy was unaffected by the pandemic. Investments in earnings-enhancing businesses have expanded its property and financial services divisions, leading to high activity across all business areas — and confidence that the group will achieve a strong trading performance for the full year. The CFI.co judging panel recognises Belvoir Group, a repeat programme winner, with the 2021 award for Best Property Network Growth Strategy (UK).</p>",
     "content_sha256": "71ea274ffcbf042b29cf4cd7bd7775a4b6a30f72d6981d662efc44c041dc452e",
-    "record_sha256": "f6334e04a81be53ee516847f6bcfe3ef5b8c369cf661295e37fd853771591314"
+    "record_sha256": "b2e8e3df1a24692b54ef04d39ca0940deefd8e2a1306b92de376703fdb965077"
 }

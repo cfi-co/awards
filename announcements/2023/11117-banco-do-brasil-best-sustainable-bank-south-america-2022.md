@@ -7,6 +7,15 @@ published_gmt: 2023-01-30 16:12:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2023/banco-do-brasil-best-sustainable-bank-south-america-2022/"
 categories: ["Banking", "Best Practice", "Development", "Government", "Latin America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 15fb65e0020bba4f8bd30c12cfcedfccbf676488d729ccb8f6d6b3ef4acbf36d
 canonical: 11117-banco-do-brasil-best-sustainable-bank-south-america-2022.json
 ---

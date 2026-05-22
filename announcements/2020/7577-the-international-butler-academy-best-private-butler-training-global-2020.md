@@ -7,6 +7,15 @@ published_gmt: 2020-03-03 11:04:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/the-international-butler-academy-best-private-butler-training-global-2020/"
 categories: ["Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b7d4d7e5efd686c3ddd16273007d94f788045fc717cf56681e4880c676a43b52
 canonical: 7577-the-international-butler-academy-best-private-butler-training-global-2020.json
 ---

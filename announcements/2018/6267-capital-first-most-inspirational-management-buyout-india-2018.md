@@ -7,6 +7,15 @@ published_gmt: 2018-10-26 11:27:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/capital-first-most-inspirational-management-buyout-india-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 48846dfb40547433ac22da1d0fd240dc111623168b9360206751d2ec76f9b18b
 canonical: 6267-capital-first-most-inspirational-management-buyout-india-2018.json
 ---

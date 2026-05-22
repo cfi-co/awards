@@ -8,8 +8,21 @@
     "published_gmt": "2016-04-19 10:08:12",
     "modified_gmt": "2017-03-23 13:46:26",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>This year, HSBC celebrates its 150<sup>th</sup> anniversary. The bank was established in 1865 with the express purpose of financing trade between Europe and Asia. This aim has remained unchanged throughout the years: HSBC still sees its role as one of connecting customers to opportunities, although now the bank’s raison d’être is applied on a global scale.</strong></p>\r\n<p style=\"text-align: justify;\">After last year’s slightly more difficult final quarter, HSBC Holdings is expecting a good run in 2015 with Q1 profits already up by 4% to $6.8bn. The bank excels at providing clients with solid advice and innovative ideas that combine local insights with global connectivity.</p>\r\n<p style=\"text-align: justify;\">HSBC has gained a reputation for being quite opinionated and for calling phenomena by their proper name, not mincing words or engaging in doublespeak. This works brilliantly to the advantage of HSBC clients who benefit from frank assessments and clear messages.</p>\r\n<p style=\"text-align: justify;\">The bank employs a wide range of platforms and formats to help clients make sense of volatile financial markets that are often near-impossible to gauge. The HSBC research team rightly considers itself strong in spotting promising investment opportunities, reporting on new developments as they unfold, and analysing the profit potential of specific events. HSBC aspires to be topical, relevant, and insightful – and succeeds brilliantly at this.</p>\r\n<p style=\"text-align: justify;\">Reports produced by HSCB tend to set both the tome and the agenda. In recent times, the bank has published papers on the world as it might look in 2050, on south-south trade, and on the convertibility of the Chinese renminbi and its chances of becoming a reserve currency.</p>\r\n<p style=\"text-align: justify;\">With such a highly diverse customer base, and in order to meet the expectations of all stakeholders, HSCB looks for diversity of backgrounds, business approaches, and opinions in its staff members. Employees are effectively empowered to add value to the services the bank offers its clients.</p>\r\n<p style=\"text-align: justify;\">The judging panel is unanimous in its verdict that HSCB fully merits the 2015 Best Global Research Team Banking Award.</p>",
     "content_sha256": "987d713a37efe6fb500051f720c1de7608e309e7210ddf89e40bada7e7e6ca34",
-    "record_sha256": "c109eb5e3305c0cc7734d43e1c29badf756242fe48b1e0da7da4a841c96e5029"
+    "record_sha256": "a9267772e58bfb6c8dcd201ab0709a7bda2a1991617d5e9975067aca8f860458"
 }

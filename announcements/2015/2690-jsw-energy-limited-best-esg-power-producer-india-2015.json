@@ -11,8 +11,21 @@
         "Asia Pacific",
         "Industries"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2691\" src=\"https://cfi.co/awards/wp-content/uploads/2015/10/jsw.jpg\" alt=\"jsw\" width=\"305\" height=\"93\" /></p>\r\n<p style=\"text-align: justify;\"><strong>JSW Energy Limited aims high: the company’s stated mission is to provide power to every citizen of India and expand its operational footprint to well outside the subcontinent. One of the first companies to seize the moment when India’s power sector was opened to private investment in the 1990s, JSW Energy Limited generates 3.2GW of power and has another 8.6GW under construction and development.</strong></p>\r\n<p style=\"text-align: justify;\">JSW Energy Limited is an integrated power company that exercises full control over the entire value chain. The firm has integrated backwards, acquiring a 49% stake in the Barmer Lignite Mining Company which operates two adjacent blocks in Rajasthan State. JSW Energy Limited is also the senior majority partner in South African Coal Mining Holdings, listed on the Johannesburg Stock Exchange.</p>\r\n<p style=\"text-align: justify;\">Employing state-of-the-art technology at its power generating facilities in India, JSW Energy Limited has embarked on a joint-venture with the Toshiba Corporation of Japan for the development and manufacturing of high-efficiency supercritical steam turbines for use in thermal power plants. These ultramodern turbines consume significantly less coal and thus help India reduce its carbon footprint.</p>\r\n<p style=\"text-align: justify;\">JSW Energy Limited is also involved in India’s buoyant power trading market and operates its own transmission and distribution grid. Additionally, the company pioneers the building of new lines to unlock the energy coming online shortly as new projects near completion.</p>\r\n<p style=\"text-align: justify;\">At the forefront of efforts to further corporate social responsibility (CSR) and promote the implementation of ESG (environmental, social, and governance) standards, JSW Energy Limited consistently strives to maximise corporate transparency. The company ensures that its operations have a positive impact on its surroundings and remains accessible to all stakeholders.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel displayed much interest in the ways JSW Energy Limited’s shaped its corporate ESG policy and concluded that the fully integrated power company constitutes a prime example of responsible stewardship. The company has elevated both CSR and ESG – and their attendant processes – to the highest level of its corporate structure. The CFI.co judges applaud this rigorous approach and are convinced that the approach will fast-track JSW Energy Limited’s corporate expansion drive. The judges are pleased to extend the 2015 BEST ESG Power Producer India Award to JSW Energy Limited.</p>",
     "content_sha256": "11008c89ffa94e39a5ff9d5ee1f36485b2e350a19665219ac3f3d47069f0857d",
-    "record_sha256": "47befe842d9cfc7f97d2f138a8af41d1e0d4473e97b80b39904d6c490dc01c50"
+    "record_sha256": "46c84ff69fe17e9a5dd1beaec7bc200a97a6ebed7fa62bafd8b57c15661b1280"
 }

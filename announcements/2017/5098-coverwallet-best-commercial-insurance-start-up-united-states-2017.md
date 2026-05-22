@@ -7,6 +7,15 @@ published_gmt: 2017-12-14 15:45:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2017/coverwallet-best-commercial-insurance-start-up-united-states-2017/"
 categories: ["North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1cc2899654af10267dab4af5b35b162b3d6f3a740afc4d37038f952267c79500
 canonical: 5098-coverwallet-best-commercial-insurance-start-up-united-states-2017.json
 ---

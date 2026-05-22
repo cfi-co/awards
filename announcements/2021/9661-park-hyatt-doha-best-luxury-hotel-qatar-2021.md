@@ -7,6 +7,15 @@ published_gmt: 2021-10-16 21:24:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2021/park-hyatt-doha-best-luxury-hotel-qatar-2021/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b410c2bcc28032fa6f26438bd26b912bd2c73035d6350d1e6122cae56711675a
 canonical: 9661-park-hyatt-doha-best-luxury-hotel-qatar-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-09-11 11:12:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2025/gii-leader-in-shariah-compliant-private-capital-solutions-gcc-2025/"
 categories: ["Best Practice", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f3fc56eb851ab60e0fef0bfb5a811f9038cbc5c53a3d9c3a09d78835ab1eda78
 canonical: 13092-gii-leader-in-shariah-compliant-private-capital-solutions-gcc-2025.json
 ---

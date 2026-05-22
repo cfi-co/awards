@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:35:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/tanger-free-zone-best-industrial-free-zone-mediterranean-2016/"
 categories: ["Development", "FDI Agencies", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fcc21d03003919f9440efe67d53f1a37c2ff25583490b03e25f81f1c3ab8e89c
 canonical: 4055-tanger-free-zone-best-industrial-free-zone-mediterranean-2016.json
 ---

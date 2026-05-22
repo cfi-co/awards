@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 13:55:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/azizi-bank-best-social-impact-bank-afghanistan-2016/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 57fafcf8d0ee8fb809143f5efd031494a6ddeb89f200cb2f473893c05d94c959
 canonical: 4414-azizi-bank-best-social-impact-bank-afghanistan-2016.json
 ---

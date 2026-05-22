@@ -7,6 +7,15 @@ published_gmt: 2013-05-16 11:36:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/swiss-re-wins-award-for-best-corporate-governance-switzerland-2013/"
 categories: ["Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5aaf4b219c17003af5b15eae88df96c0f6a96f02967d07dfde9a6ffbf861c79
 canonical: 483-swiss-re-wins-award-for-best-corporate-governance-switzerland-2013.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-11-12 12:21:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/cfi-award-winner-euler-hermes-gcc-doing-spectacularly-well-in-2013/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d3eb6e6cea87f578ebda83dd802f3b1eef85fdbeaf93f1b83de7072f0e6a9d99
 canonical: 941-cfi-award-winner-euler-hermes-gcc-doing-spectacularly-well-in-2013.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-01-02 13:55:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2024/investt-best-direct-investment-promotion-team-the-caribbean-2023/"
 categories: ["Development", "FDI Agencies", "Government", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9b4facd5fe15d0e3cce952bd34490ec8a759e3626f0c4f60c6c1cf300e1a008
 canonical: 12185-investt-best-direct-investment-promotion-team-the-caribbean-2023.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2014-05-22 09:55:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/the-right-path-to-sharia-compliant-banking-systems-cfi-co-announces-winner-for-2014/"
 categories: ["Banking", "Industries", "Middle East", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dce20f879a900bcb89f8f04c5b7d56ca2697a69e96df332c651984170d730ca8
 canonical: 1242-the-right-path-to-sharia-compliant-banking-systems-cfi-co-announces-winner-for-2.json
 ---

@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[video width=\"1920\" height=\"1080\" mp4=\"https://cfi.co/awards/wp-content/uploads/2023/08/Copernicus-Wealth-Management-1.mp4\"][/video]\r\n\r\n&nbsp;\r\n<p style=\"text-align: justify;\">Investors trust Copernicus Wealth Management to make the most of challenging market conditions. The independent financial group is regulated and licensed by the <a href=\"https://www.finma.ch/en/\" target=\"_blank\" rel=\"noopener\">Swiss Financial Market Supervisory Authority</a>. It aspires to become a benchmark financial partner for family office, corporate and institutional clients. The group has been serving clients since 2017, providing a range of asset management, investment advisory and wealth planning services. Copernicus has offices in Lugano and Zurich and plans to open-up in Geneva as well. It inaugurated the Zurich branch in 2021 and brought on new relationship managers to boost asset growth and M&amp;A activity. The group will proceed on plans for Geneva pursuant to market analyses and discussions with potential collaborators. Copernicus celebrates the cultural differences of its staff, who speak a mix of English, Italian and German Swiss. Copernicus has assembled a well-rounded team of professionals to help clients seize opportunities and build safeguards. Internal financial analysts, risk managers and lawyers expand the group’s competencies. Copernicus puts the collective expertise of its workforce in service of client needs. It responded to the market volatility of 2022, which was impacted by continued conflict between Russia and Ukraine, by repositioning the portfolio. Client trust in the group remained steadfast throughout last year’s shaky performance — and was proven justified as Copernicus recovered its position early this year. The CFI.co judging panel congratulates repeat programme winner Copernicus Wealth Management on claiming the 2023 award for Best Wealth Management Team (<a href=\"https://cfi.co/countries/switzerland/\">Switzerland</a>).</p>",
     "content_sha256": "b82d71aa3dc07a95f6843dbddb4c8f0aab0dc81dacd36110b0bf83764aa2029f",
-    "record_sha256": "319a1c94940b51f72edfc1940b3bfccd0c1cbb5fdb754925ddd9efbc39649161"
+    "record_sha256": "f5dbc6912cd644cf2df1362b09040425f7cca9b803ba04dd3b0ed25fa0924838"
 }

@@ -7,6 +7,15 @@ published_gmt: 2020-12-04 15:36:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/business-region-goteborg-best-business-value-creation-destination-scandinavia-2020/"
 categories: ["Development", "Europe", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 21308f65406b19c81582cc51ef30fa40124237d3362fc95f0dcc5914218dfca9
 canonical: 10170-business-region-goteborg-best-business-value-creation-destination-scandinavia-20.json
 ---

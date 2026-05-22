@@ -7,6 +7,15 @@ published_gmt: 2020-06-08 08:52:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2020/health-at-hand-best-telemedicine-services-uae-2020/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bfe2342a7569cbcecd12023a3d6dc6adca0b14349de164a754bd1cf6691f0f63
 canonical: 7410-health-at-hand-best-telemedicine-services-uae-2020.json
 ---

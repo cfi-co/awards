@@ -7,6 +7,15 @@ published_gmt: 2021-04-19 10:43:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/ing-bank-philippines-best-wholesale-banking-services-philippines-2021/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6efb2e13ea70078e365b9082dfc8aa3895f8e9251e6ed1e03a369d89de97e290
 canonical: 9051-ing-bank-philippines-best-wholesale-banking-services-philippines-2021.json
 ---

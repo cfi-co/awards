@@ -7,6 +7,15 @@ published_gmt: 2026-05-13 11:14:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/medirect-digital-savings-and-investing-platform-excellence-europe-2026/"
 categories: ["Best Practice", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d50441407d0740556e5208e9b8d4db74ad0a558700066f75346de3bf337e416c
 canonical: 13408-medirect-digital-savings-and-investing-platform-excellence-europe-2026.json
 ---

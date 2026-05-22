@@ -7,6 +7,15 @@ published_gmt: 2025-11-10 14:51:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2025/solar-ventures-excellence-in-utility-scale-solar-execution-europe-2025/"
 categories: ["Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c3e07a83c39f49a9cf5477b6285642a205c2b0e9baca273dfd6412df9e3954f7
 canonical: 13200-solar-ventures-excellence-in-utility-scale-solar-execution-europe-2025.json
 ---

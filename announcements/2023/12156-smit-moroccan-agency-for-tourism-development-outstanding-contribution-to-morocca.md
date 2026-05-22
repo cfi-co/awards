@@ -7,6 +7,15 @@ published_gmt: 2023-12-19 09:12:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/smit-moroccan-agency-for-tourism-development-outstanding-contribution-to-moroccan-economy-2023/"
 categories: ["Africa", "Community Engagement", "Development", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee08ca8b746ffd6bf268c2adf92e8a893d680dcb455565d980d8fc9d4e041959
 canonical: 12156-smit-moroccan-agency-for-tourism-development-outstanding-contribution-to-morocca.json
 ---

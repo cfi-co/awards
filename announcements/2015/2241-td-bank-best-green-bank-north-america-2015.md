@@ -7,6 +7,15 @@ published_gmt: 2015-05-20 14:16:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2015/td-bank-best-green-bank-north-america-2015/"
 categories: ["Banking", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e8940534df6a6ac5dc568c8db6b86166e82e3699cc11c92a57cc859df0fa5eb
 canonical: 2241-td-bank-best-green-bank-north-america-2015.json
 ---

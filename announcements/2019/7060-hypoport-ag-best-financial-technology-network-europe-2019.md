@@ -7,6 +7,15 @@ published_gmt: 2019-12-19 11:25:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2019/hypoport-ag-best-financial-technology-network-europe-2019/"
 categories: ["Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd9a3f62d7424829c0c47557f639d4a9f8938ef48a44561586fd2061df716261
 canonical: 7060-hypoport-ag-best-financial-technology-network-europe-2019.json
 ---

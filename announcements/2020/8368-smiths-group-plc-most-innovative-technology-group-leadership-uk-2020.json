@@ -13,8 +13,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-8369 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Smiths.jpg\" alt=\"Smiths Group PLC\" width=\"400\" height=\"75\" />\r\n<p style=\"text-align: justify;\">For 160 years, the Smiths Group has operated on the principle that innovation is key to growth, and an antidote to attrition. CEO Andrew Reynolds Smith has constantly sought to strengthen this aspect of company culture, and over the past five years he has taken steps to ensure that it will endure. Smiths Group develops solutions to the world’s most pressing problems, focusing on five markets: medical technology, security and defence, general industry, energy, and space and aerospace. The group is a global FTSE100 technology company with a presence in 50 countries. It has a track record for capitalising on existing technologies in one sector (such as CT scanning in the medical field) to enhance operational efficiencies in another (such as threat-detection at airports). Smiths encourages employees at every level, from engineers to the R&amp;D team, to be innovators capable of recognising — and seizing — opportunities for improvement. The group understands that time and effort are needed to build and incorporate this type of corporate culture. Smiths has created a Cross Group Innovation Board with the unifying agenda of directing R&amp;D focus to areas of highest impact and profit potential, from material sciences to Industry 4.0. Smiths Digital Forge specialises in AI, machine learning, data analytics, connectivity and data security. The CFI.co judging panel was impressed, and presents Smiths Group with the 2020 award for Most Innovative Technology Group Leadership (UK).</p>",
     "content_sha256": "ed7f94d61bd32518c4dd2563bb89e8826fbfffbf65c49408fc95c1856697f582",
-    "record_sha256": "50bd2a74188bc8ddb7af7194aa8c694dbc9e582acc6322285cc2d77ee12f00aa"
+    "record_sha256": "0285bdf7adba27249e46fdf5df73337e0f21a0ebc6bebdc66b0f2e8b1f7b405f"
 }

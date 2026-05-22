@@ -7,6 +7,15 @@ published_gmt: 2019-05-13 12:47:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/anand-rathi-private-wealth-management-best-wealth-manager-india-2019/"
 categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ff5f3de1eddb121b4f2583acefe8d93536354a7b56f35133883d69b1ffd0acb
 canonical: 6691-anand-rathi-private-wealth-management-best-wealth-manager-india-2019.json
 ---

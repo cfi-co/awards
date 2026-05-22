@@ -7,6 +7,15 @@ published_gmt: 2022-02-01 09:53:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/ahli-united-bank-best-global-network-bank-gcc-2021/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5a6c858744d75366431b4d1d5ccbbafbaba782cd7deb6088e042314feb6a6d8
 canonical: 10033-ahli-united-bank-best-global-network-bank-gcc-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-10-02 09:09:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/mckinsey-company-best-management-consultancy-spain-2019/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9a724b6d844da50ab1a1ac3c698ab91add09779f898bb0e7f32878552330e4f8
 canonical: 7154-mckinsey-company-best-management-consultancy-spain-2019.json
 ---

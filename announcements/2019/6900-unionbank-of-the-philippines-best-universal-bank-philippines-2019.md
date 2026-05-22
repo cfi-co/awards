@@ -7,6 +7,15 @@ published_gmt: 2019-09-02 11:46:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/unionbank-of-the-philippines-best-universal-bank-philippines-2019/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 453367465f0b356a18663f92979d9a6c22d392a8fd8a4a2428a786b497a200a2
 canonical: 6900-unionbank-of-the-philippines-best-universal-bank-philippines-2019.json
 ---

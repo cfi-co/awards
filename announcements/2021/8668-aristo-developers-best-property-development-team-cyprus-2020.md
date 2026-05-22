@@ -7,6 +7,15 @@ published_gmt: 2021-01-26 17:58:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/aristo-developers-best-property-development-team-cyprus-2020/"
 categories: ["Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7987414c21c748120b97643032f009223c634fd43aa0183316e86367ec8a0bd8
 canonical: 8668-aristo-developers-best-property-development-team-cyprus-2020.json
 ---

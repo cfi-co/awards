@@ -7,6 +7,15 @@ published_gmt: 2021-10-27 17:55:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/bos-bank-best-green-banking-solutions-cee-2021/"
 categories: ["Best Practice", "CSR", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 724f15c900088f92a8431ddecb59fb4c1272b6369c7fd3107641ebf424bc337a
 canonical: 9704-bos-bank-best-green-banking-solutions-cee-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-11-05 15:41:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/burgan-bank-wins-cfi-award-for-private-banking/"
 categories: ["Banking", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d76e297377673e2f2adbcba9904c919b7e8062bc81194b34d6874e2429d6e70
 canonical: 879-burgan-bank-wins-cfi-award-for-private-banking.json
 ---

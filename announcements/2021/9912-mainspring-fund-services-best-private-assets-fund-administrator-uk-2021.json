@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9913\" src=\"https://cfi.co/awards/wp-content/uploads/2021/12/Mainspring.jpg\" alt=\"Mainspring\" width=\"400\" height=\"84\" />\r\n<p style=\"text-align: justify;\">The UK’s Mainspring Fund Services specialises in the administration of private equity, venture capital and tax-based funds. The firm offers core services that cover essential fund accounting and administration needs as well as enhanced services that adapt to more complex structures. It develops solutions across a fund’s lifecycle and can assist with jurisdictions, governance, reporting and ESG compliance. This FCA-regulated custodian is a nominee for a significant proportion of the UK’s tax schemes, such as EIS and BPR funds. It has developed a tech-driven investment platform that gives fund managers full control of execution without the administrative burden. Mainspring’s investment platform allows fund managers to create co-investments with minimal cost and time and gives groups of high-net-worth investors access to private equity investments. This has been a gamechanger for the executives and staff who conduct due diligence on potential portfolio additions and are often inspired to co-invest alongside the fund. Some 40,000 high-net-worth individuals, family offices, asset managers and their financial advisors use the platform to access live, real-time data on their investments, such as direct deals and private equity. Mainspring distinguishes itself in a competitive market by underpinning all operations in quality, timeliness, technology and interaction. Cost effectiveness is also key. It is a privately owned and managed company that is no stranger to industry performance accolades this year. The CFI.co judging panel is delighted to name Mainspring Fund Services as winner of its 2021 award for Best Private Assets Fund Administrator (UK).</p>",
     "content_sha256": "18111350b1ff050b1554924a3c75787fcf956846c6fbe79f26bbcec42f6bfab9",
-    "record_sha256": "f3f22f29974e0e50221b9d083faf4c6d5adba8c6eb1c546b3c52d2c74a0c426d"
+    "record_sha256": "fc2cd95021f7be48e782dfc4974bba1f2eb623faf0e4722a845e3f9de04e087f"
 }

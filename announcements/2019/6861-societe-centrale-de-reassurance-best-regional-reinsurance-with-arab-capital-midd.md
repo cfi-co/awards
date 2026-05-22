@@ -7,6 +7,15 @@ published_gmt: 2019-08-27 10:09:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/societe-centrale-de-reassurance-best-regional-reinsurance-with-arab-capital-middle-east-and-africa-2019/"
 categories: ["Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d4632fc3befdee29717647c9a8267e85c7f81a123659912f7036ad590d64f959
 canonical: 6861-societe-centrale-de-reassurance-best-regional-reinsurance-with-arab-capital-midd.json
 ---

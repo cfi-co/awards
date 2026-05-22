@@ -12,8 +12,21 @@
         "Legal",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1046\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/mhm.jpg\" alt=\"mhm\" width=\"500\" height=\"46\" /></p>\r\n<p style=\"text-align: justify;\"><strong>MHM is the CFI.co Best Dispute Resolution Team winner in our 2013 Legal Awards programme.</strong> According to the Judging Panel, “The firm’s strong litigation work and excellent dispute resolution skills are valued core competencies of long standing.” This unrelenting dedication to the quality and depth of services offered has resulted in MSM receiving the 2013 CFI.co Dispute Resolution Award, Japan. The judging panel applauds a firm that combines an aggressive and often victorious court room presence with considerations of a more pragmatic nature such as the clients’ best economic interests and the most appropriate resolution of the issue at hand.</p>",
     "content_sha256": "5afa256e09f84e9b4af11c390f3d6e4a196953e3afd1191a113d40300e79ad57",
-    "record_sha256": "7884b596687e0e42d2e821c7f1a4dc0ce8b196f1b8b85fdea6a6eebb4f056e7c"
+    "record_sha256": "c4db08d7c9b4d0e6d6ab5a3df7f54f0d4c3e438b80462fec03cc25a739c7eb18"
 }

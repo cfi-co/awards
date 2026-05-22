@@ -7,6 +7,15 @@ published_gmt: 2022-12-15 05:17:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/mtr-corporation-most-innovative-transport-solutions-global-2022/"
 categories: ["Asia Pacific", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 46596ca9a5ebe41984e3568db55406f14da262fe1c06f1eedfea51676fd9041c
 canonical: 10980-mtr-corporation-most-innovative-transport-solutions-global-2022.json
 ---

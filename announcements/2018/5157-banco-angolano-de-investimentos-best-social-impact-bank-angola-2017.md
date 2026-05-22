@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 13:58:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/banco-angolano-de-investimentos-best-social-impact-bank-angola-2017/"
 categories: ["Africa", "Banking", "Best Practice", "CSR"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8fee3af24fac480072ffa0bc3687bba446991d69674e002755a67103d82a1e66
 canonical: 5157-banco-angolano-de-investimentos-best-social-impact-bank-angola-2017.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:57:01
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2016/openwork-best-financial-adviser-support-services-united-kingdom-2016/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 23ea9e381456ceda372a42a513102f5a7bb160c9a9ff5267fa8d8dcb75944d4a
 canonical: 4088-openwork-best-financial-adviser-support-services-united-kingdom-2016.json
 ---

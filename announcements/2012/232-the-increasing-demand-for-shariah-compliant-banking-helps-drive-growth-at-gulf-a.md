@@ -7,6 +7,15 @@ published_gmt: 2012-11-15 16:42:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2012/the-increasing-demand-for-shariah-compliant-banking-helps-drive-growth-at-gulf-africa-bank/"
 categories: ["Africa", "Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4e85fd2883c7452262f4c52c867307742c43cbd52586f6c46829380ba3244e9
 canonical: 232-the-increasing-demand-for-shariah-compliant-banking-helps-drive-growth-at-gulf-a.json
 ---

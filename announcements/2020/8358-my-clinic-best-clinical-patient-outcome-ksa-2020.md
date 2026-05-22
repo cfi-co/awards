@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:34:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/my-clinic-best-clinical-patient-outcome-ksa-2020/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65a0bc97b6940a05eb3ad9898a1e24f8623363d10a5f25e66a1f3fa569b96298
 canonical: 8358-my-clinic-best-clinical-patient-outcome-ksa-2020.json
 ---

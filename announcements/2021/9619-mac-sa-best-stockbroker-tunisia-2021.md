@@ -7,6 +7,15 @@ published_gmt: 2021-10-05 11:22:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/mac-sa-best-stockbroker-tunisia-2021/"
 categories: ["Africa", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9be24d84630f042e60fffe878e64a3415e13de6ce14446b43b4276033b88ede0
 canonical: 9619-mac-sa-best-stockbroker-tunisia-2021.json
 ---

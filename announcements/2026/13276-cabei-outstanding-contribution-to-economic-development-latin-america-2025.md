@@ -7,6 +7,15 @@ published_gmt: 2026-01-22 12:46:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2026/cabei-outstanding-contribution-to-economic-development-latin-america-2025/"
 categories: ["Banking", "Development", "Government", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f2d64955964513345588b6daa2f2ebe13919ca17c5f1adbe48b8b9469a39f12
 canonical: 13276-cabei-outstanding-contribution-to-economic-development-latin-america-2025.json
 ---

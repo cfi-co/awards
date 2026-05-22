@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 11:59:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/exxaro-resources-most-responsible-mining-leadership-south-africa-2019/"
 categories: ["Africa", "Best Practice", "CSR", "Industries", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4053e7b8620f814c0781a4dc657a769f973ced8137755bf219d1cbed24f35b4b
 canonical: 7664-exxaro-resources-most-responsible-mining-leadership-south-africa-2019.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-04-26 14:36:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/first-capital-bank-mozambique-best-trade-finance-bank-mozambique-2022/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 80981713a92fb00023e08e3159b77e5e3db13016e49eeae5906d8f5e3ca5f052
 canonical: 10333-first-capital-bank-mozambique-best-trade-finance-bank-mozambique-2022.json
 ---

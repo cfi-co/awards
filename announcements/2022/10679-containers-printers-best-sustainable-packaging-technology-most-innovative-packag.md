@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:25:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2022/containers-printers-best-sustainable-packaging-technology-most-innovative-packaging-team-southeast-asia-2022/"
 categories: ["Asia Pacific", "Best Practice", "Industries", "Manufacturing", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 60c094dec9342be6a1c0847c72efa9b5a4a8c4171f0d331d3ad46c6f1dec152d
 canonical: 10679-containers-printers-best-sustainable-packaging-technology-most-innovative-packag.json
 ---

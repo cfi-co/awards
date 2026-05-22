@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:10:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/capital-bank-of-jordan-most-innovative-digital-bank-best-bank-jordan-2022/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb1f6c0c99a15a1b57e52722e1bfd831de6c878731a6952d8c48e4fb8f7e64bc
 canonical: 10661-capital-bank-of-jordan-most-innovative-digital-bank-best-bank-jordan-2022.json
 ---

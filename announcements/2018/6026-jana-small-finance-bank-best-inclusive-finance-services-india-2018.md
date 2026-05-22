@@ -7,6 +7,15 @@ published_gmt: 2018-09-10 13:04:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/jana-small-finance-bank-best-inclusive-finance-services-india-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 42b30d07f3b65c17a8e6e16e874e5aaa56a64a48071e67ec54ce10ad9ac502ed
 canonical: 6026-jana-small-finance-bank-best-inclusive-finance-services-india-2018.json
 ---

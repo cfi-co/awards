@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:48:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/atkins-best-sustainable-engineering-design-partner-global-2021/"
 categories: ["Best Practice", "Europe", "Industries", "Manufacturing", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a390b4960beba89d32956bec1a5829848f200f8074283af8662b60a1dcac6869
 canonical: 9187-atkins-best-sustainable-engineering-design-partner-global-2021.json
 ---

@@ -12,8 +12,21 @@
         "North America",
         "Retail"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8675\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/Amazon.jpg\" alt=\"Amazon\" width=\"500\" height=\"151\" />\r\n<p style=\"text-align: justify;\">In Lockdown 2020, one of our most frequent visitors has been the delivery man for serial innovator Amazon. And we are pleased to see him: usually in good time, with the products we ordered and on the understanding that if things go wrong, they are quickly put right. If we signed up for Amazon Prime that would be a two-day service with other benefits too. Founded in 1994 by Jeff Bezos – now the world’s richest man – Amazon is the biggest brand around. It started with books, challenging publishers, and booksellers to change or risk disappearing. It worked very nicely with the stock price increasing five-fold a couple of years after the 1997 IPO. It has been tough on brick and mortar grocery stores, but Amazon is more of a corrector than a killer. Target and Walmart are catching up, even if it did cost them billions. Casualties include Toys R Us who mentioned Amazon in their bankruptcy papers: saying that they just could not compete. During recent years, Amazon has acquired Wholefoods, entered the healthcare industry with Berkshire Hathaway and JP Morgan, and given traditional retailers countless sleepless nights. Amazon’s strategy was always to build its model efficiently before worrying about short-term profits, and it is now able to grow fast and acquire market share in the blink of an eye. And Q3 profits were at a record $6.3 billion this year. Without question, the judging panel names Amazon winner of the 2020 award: Most Disruptive Retail Operations Global.</p>",
     "content_sha256": "923c347b8de181e23d36938103c05eaed8e67dc674912a3e2b59bb275df290b1",
-    "record_sha256": "f75c096ea6279a546bac89e892269b76bdf177ef783a839662306452117aaf02"
+    "record_sha256": "ef3cffa37bf3361292c344cff468a0c297f6fef198084e1a2f8ae150b341570c"
 }

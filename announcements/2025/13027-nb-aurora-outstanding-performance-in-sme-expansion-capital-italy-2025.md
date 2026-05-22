@@ -7,6 +7,15 @@ published_gmt: 2025-07-18 09:47:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/nb-aurora-outstanding-performance-in-sme-expansion-capital-italy-2025/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2bb1c13b189e0740175a6eab119660abcd2550160993ea59202c2c14b1865b3c
 canonical: 13027-nb-aurora-outstanding-performance-in-sme-expansion-capital-italy-2025.json
 ---

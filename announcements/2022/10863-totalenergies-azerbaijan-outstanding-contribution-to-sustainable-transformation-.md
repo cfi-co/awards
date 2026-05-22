@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 13:01:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2022/totalenergies-azerbaijan-outstanding-contribution-to-sustainable-transformation-azerbaijan-2022/"
 categories: ["Asia Pacific", "Best Practice", "Industries", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: abb0a6edaaff13b9128ee40e959fa087ce56a462af8e28dd9a19f6e7ad55802c
 canonical: 10863-totalenergies-azerbaijan-outstanding-contribution-to-sustainable-transformation-.json
 ---

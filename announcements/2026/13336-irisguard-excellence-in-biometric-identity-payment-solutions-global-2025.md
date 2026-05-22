@@ -7,6 +7,15 @@ published_gmt: 2026-02-24 10:59:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/irisguard-excellence-in-biometric-identity-payment-solutions-global-2025/"
 categories: ["Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d8b062e3349f44f5cfbe770bf86f4795510c6210e006870bb3b38dea27f466f4
 canonical: 13336-irisguard-excellence-in-biometric-identity-payment-solutions-global-2025.json
 ---

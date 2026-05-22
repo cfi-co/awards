@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 11:49:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/capital-first-outstanding-corporate-transformation-india-2018-most-inspirational-management-buyout-india-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 93b465225577a7aebb39cea85c5f2a321c54c11d13171e43bdc0a4490e9127b6
 canonical: 6169-capital-first-outstanding-corporate-transformation-india-2018-most-inspirational.json
 ---

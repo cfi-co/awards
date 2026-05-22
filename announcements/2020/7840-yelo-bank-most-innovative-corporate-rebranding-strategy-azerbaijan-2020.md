@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:41:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/yelo-bank-most-innovative-corporate-rebranding-strategy-azerbaijan-2020/"
 categories: ["Asia Pacific"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e8592ce5a7e4c97a0761a66cb96ee6d7dd55f333ed3022dd8c3568b65e22c77
 canonical: 7840-yelo-bank-most-innovative-corporate-rebranding-strategy-azerbaijan-2020.json
 ---

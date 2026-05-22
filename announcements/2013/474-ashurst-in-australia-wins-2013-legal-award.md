@@ -7,6 +7,15 @@ published_gmt: 2013-05-16 11:21:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/ashurst-in-australia-wins-2013-legal-award/"
 categories: ["Asia Pacific", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 00bedb399e4564f70097cff8e790e28c6a8accaac7a81cc516b6578549c49a87
 canonical: 474-ashurst-in-australia-wins-2013-legal-award.json
 ---

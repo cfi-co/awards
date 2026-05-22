@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:02:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/banco-de-corrientes-best-commercial-bank-argentina-2017/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 710fe018f08560641e9d003ed07b31ab05cffaf2121ca2e5b9516af9712bc074
 canonical: 4891-banco-de-corrientes-best-commercial-bank-argentina-2017.json
 ---

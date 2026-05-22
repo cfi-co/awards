@@ -7,6 +7,15 @@ published_gmt: 2024-01-16 09:05:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/accounting/2024/hlb-best-cross-border-collaboration-for-tax-solutions-global-2023/"
 categories: ["Accounting", "Consultancies"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd8bdee69a723c34e78f03f70c39f7aa4132cca926b228f73b3136b4b3ab2c1b
 canonical: 12235-hlb-best-cross-border-collaboration-for-tax-solutions-global-2023.json
 ---

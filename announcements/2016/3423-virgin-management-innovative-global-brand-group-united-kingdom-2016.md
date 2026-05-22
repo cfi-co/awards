@@ -7,6 +7,15 @@ published_gmt: 2016-08-26 12:09:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/virgin-management-innovative-global-brand-group-united-kingdom-2016/"
 categories: ["Industries", "Professional Services", "Telecom", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 478485a82e823bcdd5f3446a58ff955a9d775675640e392fc1bfb6273124e6e3
 canonical: 3423-virgin-management-innovative-global-brand-group-united-kingdom-2016.json
 ---

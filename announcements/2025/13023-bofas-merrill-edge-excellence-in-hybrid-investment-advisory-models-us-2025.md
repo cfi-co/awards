@@ -7,6 +7,15 @@ published_gmt: 2025-07-10 12:08:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/bofas-merrill-edge-excellence-in-hybrid-investment-advisory-models-us-2025/"
 categories: ["Consultancies", "Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 913351c8e155887a0af5ca10e9cdd0ad7468135dd31110b615ce4756a750d677
 canonical: 13023-bofas-merrill-edge-excellence-in-hybrid-investment-advisory-models-us-2025.json
 ---

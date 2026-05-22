@@ -7,6 +7,15 @@ published_gmt: 2021-01-21 13:37:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/la-trobe-financial-asset-management-limited-best-investment-management-team-australia-2020/"
 categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 68d49f0a055b55b58cab96ab737bf5faa3029159e09821878dd8b3864722a6e9
 canonical: 8615-la-trobe-financial-asset-management-limited-best-investment-management-team-aust.json
 ---

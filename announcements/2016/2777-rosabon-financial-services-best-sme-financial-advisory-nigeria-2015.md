@@ -7,6 +7,15 @@ published_gmt: 2016-01-21 14:21:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/rosabon-financial-services-best-sme-financial-advisory-nigeria-2015/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d638ca8774020cf60551ae26e80116d3156ed137e17e08e200a2143b3a210c9
 canonical: 2777-rosabon-financial-services-best-sme-financial-advisory-nigeria-2015.json
 ---

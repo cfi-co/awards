@@ -7,6 +7,15 @@ published_gmt: 2023-04-26 15:26:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2023/al-hilal-life-best-life-insurance-provider-middle-east-2022/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8442551cfb1808b03644a56d51a4c22e8f229658168fd5dcbf5e05a8bb070ceb
 canonical: 11425-al-hilal-life-best-life-insurance-provider-middle-east-2022.json
 ---

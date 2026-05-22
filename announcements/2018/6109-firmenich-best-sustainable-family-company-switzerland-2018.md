@@ -7,6 +7,15 @@ published_gmt: 2018-10-16 12:38:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/firmenich-best-sustainable-family-company-switzerland-2018/"
 categories: ["Customer Satisfaction", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72b1a5f357072beae3b09c40ca5820699eb0d48e1d0648a7ec23595c353e892c
 canonical: 6109-firmenich-best-sustainable-family-company-switzerland-2018.json
 ---

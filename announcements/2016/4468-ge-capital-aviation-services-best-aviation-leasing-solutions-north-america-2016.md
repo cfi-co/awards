@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 10:10:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2016/ge-capital-aviation-services-best-aviation-leasing-solutions-north-america-2016/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 535c37d1767740fde0ef1fe75991c10a93eb73a6db62dd7b72fcee06fa91d4cc
 canonical: 4468-ge-capital-aviation-services-best-aviation-leasing-solutions-north-america-2016.json
 ---

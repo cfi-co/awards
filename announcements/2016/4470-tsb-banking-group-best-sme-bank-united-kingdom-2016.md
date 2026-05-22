@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 10:15:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2016/tsb-banking-group-best-sme-bank-united-kingdom-2016/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 255d3da58a2d0312594e5b06c0073ddf2d946b1f4b48ab54c85059bd3118564f
 canonical: 4470-tsb-banking-group-best-sme-bank-united-kingdom-2016.json
 ---

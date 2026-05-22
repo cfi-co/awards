@@ -7,6 +7,15 @@ published_gmt: 2019-06-24 11:01:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/suez-industrial-development-company-sidc-best-industrial-park-operator-mena-2019/"
 categories: ["Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bab39eb92d041a03783f280dd0498c13de20e703a7113aaf2ec1a603d2464b63
 canonical: 7638-suez-industrial-development-company-sidc-best-industrial-park-operator-mena-2019.json
 ---

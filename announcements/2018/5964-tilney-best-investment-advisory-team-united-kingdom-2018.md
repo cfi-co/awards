@@ -7,6 +7,15 @@ published_gmt: 2018-09-04 12:38:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/tilney-best-investment-advisory-team-united-kingdom-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8a98480a7cf19fc902955dc3039f4cb0881a9f13312c82359a61296133d0c225
 canonical: 5964-tilney-best-investment-advisory-team-united-kingdom-2018.json
 ---

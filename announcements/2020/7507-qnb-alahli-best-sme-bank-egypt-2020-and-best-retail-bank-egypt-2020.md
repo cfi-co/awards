@@ -7,6 +7,15 @@ published_gmt: 2020-06-23 15:38:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/qnb-alahli-best-sme-bank-egypt-2020-and-best-retail-bank-egypt-2020/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dd200f96afc3e5c007daec5286c9c826cca7aae3c203ad0cdfbbf8b04b255f79
 canonical: 7507-qnb-alahli-best-sme-bank-egypt-2020-and-best-retail-bank-egypt-2020.json
 ---

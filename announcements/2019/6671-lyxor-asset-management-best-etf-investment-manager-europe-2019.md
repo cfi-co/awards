@@ -7,6 +7,15 @@ published_gmt: 2019-05-01 08:49:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2019/lyxor-asset-management-best-etf-investment-manager-europe-2019/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: faf38ca93dbc6adb67cb3b65af8015793e58cec3fc27b90046b65ce9e8cb3fff
 canonical: 6671-lyxor-asset-management-best-etf-investment-manager-europe-2019.json
 ---

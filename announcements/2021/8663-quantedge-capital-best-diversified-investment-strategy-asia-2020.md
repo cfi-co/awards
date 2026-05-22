@@ -7,6 +7,15 @@ published_gmt: 2021-01-26 12:42:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/quantedge-capital-best-diversified-investment-strategy-asia-2020/"
 categories: ["Asia Pacific", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 64e20c8d2e853b61fd49485a9c90d6cca11cc0810351d169c3603d150fdeeeaf
 canonical: 8663-quantedge-capital-best-diversified-investment-strategy-asia-2020.json
 ---

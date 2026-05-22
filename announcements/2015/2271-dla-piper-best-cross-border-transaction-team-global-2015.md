@@ -7,6 +7,15 @@ published_gmt: 2015-06-09 11:10:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/dla-piper-best-cross-border-transaction-team-global-2015/"
 categories: ["Accounting", "Consultancies", "Europe", "Legal", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc037f31196d006e81ad42f4af663736630b1841018bec7d0a01f21067b1caa7
 canonical: 2271-dla-piper-best-cross-border-transaction-team-global-2015.json
 ---

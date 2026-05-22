@@ -12,8 +12,21 @@
         "Best Practice",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-665\" src=\"https://cfi.co/awards/wp-content/uploads/2013/07/edelweiss.jpg\" alt=\"\" width=\"220\" height=\"51\" /></p>\r\n<p style=\"text-align: justify;\"><strong>As one of India’s leading financial services providers, Edelweiss Financial boasts a client base that is as large as it is diverse. The company, founded in 1995, has registered strong growth and now serves well over six million clients. Though Edelweiss Financial commenced trading as a merchant banker, the company in short order expanded into portfolio management, underwriting, brokering and insurance advisory in addition to wealth management and investment banking – in the process becoming a sizeable conglomerate employing close to six thousand professionals.</strong></p>\r\n<p style=\"text-align: justify;\">With its days as a boutique investment bank long gone, Edelweiss Financial now is one of the major players on India’s financial market. Powering its growth with the latest in technology and via a relentless quest for excellence, Edelweiss Financial has established a reputation for the depth of its research and the prudence with which it embarks on new ventures. The company maintains a vast domestic network comprised of 240 branches in 128 cities and eight overseas offices. The company also works with over 4,700 sub-brokers and agents, thus ensuring close proximity to its clients.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel took note of Edelweiss’ Financials unrelenting dedication to maintain the highest standards of corporate governance, including the sophisticated structures and processes needed to ensure both transparency and full compliance. This adherence to best practices lays at the heart of the company’s enduring success and ensures its future growth. Edelweiss Financial is declared winner of the 2016 Best Corporate Governance India Award.</p>",
     "content_sha256": "f4401fc5ea54c477a476d41a443b0f51042115909d04366dd6ba72a22c476f80",
-    "record_sha256": "3364c8860a2f934b2fa52322465bdb91d0491a0d27a317bab736432d02ae4b27"
+    "record_sha256": "856c8f10470448de38838108d81948bc85642d2159d8d0283432245cb0aaf9de"
 }

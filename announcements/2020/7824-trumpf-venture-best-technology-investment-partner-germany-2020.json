@@ -15,8 +15,21 @@
         "Projects",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7825\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/TRUMPF.jpg\" alt=\"TRUMPF\" width=\"500\" height=\"499\" />\r\n<p style=\"text-align: justify;\">TRUMPF Venture brings more to the table than just capital; it’s an investor with an expansive network, deep domain expertise and proven skills in scalability. It is the corporate venture capital arm of TRUMPF group, a production pioneer and global market leader in industrial tools, lasers and electronics. TRUMPF was founded nearly a century ago as a mechanical workshop, and has become a key contributor to the Industry 4.0 revolution. TRUMPF Venture serves as the group’s talent scout, identifying start-ups with bright ideas and crack teams, candidates with the spirit, speed and can-do attitude to make them truly disruptive. It backs promising prospects with an initial investment ticket starting at €500,000, with total investments reaching €5m. Funded start-ups are brought into the TRUMPF fold, connected to industry experts to expand the technology or improve the business model. TRUMPF Venture deploys a team with diverse backgrounds — engineering, physics and finance, just to name just a few — so funded start-ups benefit from investor relationships rooted in technical know-how and market savvy. TRUMPF Venture launched a €40m fund in 2016 to invest in start-ups, incorporating and partnering with 10 to 15 companies in the fund portfolio. TRUMPF Venture is a strategic long-term partner that helps tech-orientated start-ups to accelerate and grow their business. The CFI.co judging panel declares TRUMPF Venture as the 2020 winner of the award for Best Technology Investment Partner (Germany).</p>",
     "content_sha256": "76b83473c2f5eed28ed02d909f538ff61a76611d4dee03235aae21345f356fd4",
-    "record_sha256": "1b531c872cb3ae76657275d00c8d57b10d083e81202dca13f22f74533069a99d"
+    "record_sha256": "3c1501830718bd016700e665edeffdcad193076afc54b32a598e020b533e8512"
 }

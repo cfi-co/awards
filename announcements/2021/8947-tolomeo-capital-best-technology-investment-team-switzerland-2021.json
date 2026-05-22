@@ -13,8 +13,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8948\" src=\"https://cfi.co/awards/wp-content/uploads/2021/03/Tolomeo-Capital.jpg\" alt=\"Tolomeo Capital\" width=\"400\" height=\"139\" />\r\n<p style=\"text-align: justify;\">Zurich-headquartered Tolomeo Capital was established in 2011 as a spin-off from the quant and risk management unit of one of Switzerland’s largest institutional family offices. The firm is licensed and regulated by the Swiss Financial Market Supervisory Authority to operate as an asset manager of collective investment schemes. Tolomeo Capital has assembled a team of professionals with strong analytical backgrounds and complementary skills in investment and risk management, financial mathematics and software engineering. The team translates innovations into tradable quantitative models, focusing on quantitative, tech-driven strategies with an emphasis on risk-adjusted returns. A sustainability risk policy excludes investment in controversial industries and companies that score poorly in the MSCI ESG Rating methodology. ESG performance is an integral part of the Tolomeo process, with transparent reporting practices. The firm benefits from a proprietary tech infrastructure that gives control over every detail of the investment process. It aims to create an independent return stream and deliver uncorrelated, long-term alpha via systematic, short-term and price-based trading strategies for liquid, publicly traded equity securities and derivatives. Tolomeo Capital prioritises R&amp;D and collaborative partnerships. It has entered into close co-operation with the Baloise group — one of the country’s largest insurance companies and a Tolomeo Capital shareholder — to develop products and services for systematic, rule-based investing. The CFI.co judging panel presents Tolomeo Capital with the 2021 award for Best Technology Investment Team (Switzerland).</p>",
     "content_sha256": "ff6c5a4503c49c83e3ae8349c9ceba8a0675cbaf379c9b61f9e446b7b2dadd24",
-    "record_sha256": "f9412a89898c3ca690e92997958e0bedc02b074f2365c41447d0c434df31a661"
+    "record_sha256": "b08ba753316110f1314e242074e3d1960f0a5235926b2cad4a9422de2ea84e9d"
 }

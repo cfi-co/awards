@@ -13,8 +13,21 @@
         "Latin America",
         "Projects"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4208\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/Maran.jpg\" alt=\"\" width=\"412\" height=\"155\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Solid economic growth and a marked improvement in business infrastructure have propelled Mexico to the very top amongst corporate host countries. Offering a business environment that outshines most competitors, the country has welcomed a number of big-name corporations shifting production facilities away from Asia in order to up efficiencies and operating margins.</strong></p>\r\n<p style=\"text-align: justify;\">A fair number of these companies end up at the industrial estates operated by Maran Group – one of the oldest and largest to provide turn-key facilities to manufacturers seeking to exploit the geographical advantages offered by Mexico and its top-notch infrastructure.</p>\r\n<p style=\"text-align: justify;\">Maran Group maintains a number of large, modern, and fully-serviced industrial estates along the US-Mexican border where it offers corporates purpose-built facilities. Just minutes away from the US border by rail and road connections, manufacturers hosted by Maran Group enjoy unparalleled access to the world’s largest economy – ensuring the smooth running of just-in-time processes. Moreover, with seventeen regional universities and higher trade schools delivering a steady stream of skilled graduates, corporates have access to a vast pool of talent.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel evaluated Maran Group in 2015 and concluded that the facilities maintained by the Mexican company are without equal. Since then, the group has further expanded its operations, welcoming new tenants, opening new estates, and adding extra facilities to existing ones. The judges wish to recognise Maran Group for its progress and declare the company winner of the 2017 Best Industrial Park Mexico Award.</p>",
     "content_sha256": "986cf6ad34c06b7d8f13eb0c3df4eaa147b95f154ce3071fc7b887636a7c30bc",
-    "record_sha256": "7fc264536cf100a37853507c0acef8e90959dc869514b2a1a0070dd8f3eb8330"
+    "record_sha256": "b6175972351fa913ef667d617f622ff432bd0d830743cad2e9b1068156b28515"
 }

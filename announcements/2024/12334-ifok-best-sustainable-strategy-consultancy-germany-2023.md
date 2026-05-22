@@ -7,6 +7,15 @@ published_gmt: 2024-04-09 15:42:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/ifok-best-sustainable-strategy-consultancy-germany-2023/"
 categories: ["Best Practice", "Consultancies", "Europe", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4499dacce7a2b95112cb256d8ff8420b2a5d2553d89dd4c5ebfe65a4ca377d31
 canonical: 12334-ifok-best-sustainable-strategy-consultancy-germany-2023.json
 ---

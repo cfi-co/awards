@@ -14,8 +14,21 @@
         "Finance",
         "Government"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-8701\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/ABA.jpg\" alt=\"ABA\" width=\"400\" height=\"200\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A gateway to both west and east, and with an exceptionally rich cultural heritage, Austria has long exerted an irresistible pull on innovators, disruptors, out-of-the-box thinkers, and others determined to leave their mark on human progress.</strong> Today, Austria is one of Europe’s most attractive start-up hotspots with a highly dynamic and creative scene of budding entrepreneurs pushing boundaries, envelopes, and the limits of convention. ABA – Invest in Austria is the national investment promotion department of the Austrian Business Agency (ABA) owned by the Federal Ministry for Digital and Economic Affairs. With its three departments, ABA – Invest in Austria, ABA – Work in Austria und Location Austria, Austria’s business promotion agency promotes Austria abroad as a business and research location, an attractive labour market for skilled workers and a location for international film productions.</p>\r\n<p style=\"text-align: justify;\">By rolling out the red carpet for businesses of all sizes to leverage Austria’s ensemble of competitive advantages, ABA has stoked the fires of innovation. Agile and efficient, the agency was set up by the state to provide a single touchpoint for those considering Austria as their next business destination. The agency offers its services free of charge and helps clients make full use of the country’s peerless facilities: From tapping its vast pool of highly educated and motivated professionals to rallying its network of early-stage investors, incubators, accelerators, angels, and venture capitalists. ABA fits seamlessly in a national ecosystem that fosters innovation and attracts those businesses seeking a welcoming and inspiring home. The agency is nimble yet sustains a vast network that plugs into all major economic actors. The panel has been following ABA for some years and wishes to recognise its superior approach to investment promotion by confirming the 2020 Best Destination for Investment in Innovation Europe Award.</p>",
     "content_sha256": "cf53aab2178e5a19bdd5563a1a780badd3395f61e938b99e655b29e20eebd28b",
-    "record_sha256": "ed56bc807a0407a694e5cf754ce034a773e7a5a15f70fa410ff71b86251c5c0a"
+    "record_sha256": "0abe64ac3ee20562990f4003a7f4eecb769173253f97d5d45268c78fd1004dc7"
 }

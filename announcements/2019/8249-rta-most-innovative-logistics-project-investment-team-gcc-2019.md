@@ -7,6 +7,15 @@ published_gmt: 2019-05-29 11:28:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/rta-most-innovative-logistics-project-investment-team-gcc-2019/"
 categories: ["Development", "Government", "Industries", "Middle East", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d449d11b72ad0529bf68854258588c716ba55e28a3a77c3ab8414f1259b80982
 canonical: 8249-rta-most-innovative-logistics-project-investment-team-gcc-2019.json
 ---

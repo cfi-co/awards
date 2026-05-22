@@ -7,6 +7,15 @@ published_gmt: 2021-03-03 11:07:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/taurus-group-best-digital-asset-infrastructure-provider-switzerland-2021/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9c715fff8feb5886e041d3600a3294326feedb93df4bad082bd45661bfa1d38b
 canonical: 8890-taurus-group-best-digital-asset-infrastructure-provider-switzerland-2021.json
 ---

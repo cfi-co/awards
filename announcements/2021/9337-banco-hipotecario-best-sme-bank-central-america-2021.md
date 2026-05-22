@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:26:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/banco-hipotecario-best-sme-bank-central-america-2021/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 74896c521c3478faa2838baa0973b451a7cc8b97120692f3f218fc80db35a18e
 canonical: 9337-banco-hipotecario-best-sme-bank-central-america-2021.json
 ---

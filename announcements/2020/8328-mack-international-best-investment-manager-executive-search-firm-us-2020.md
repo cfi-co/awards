@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:04:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/mack-international-best-investment-manager-executive-search-firm-us-2020/"
 categories: ["North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a95fd59036ee3acbda9c9a2e841940e34e593175145f589a45be955274af04ac
 canonical: 8328-mack-international-best-investment-manager-executive-search-firm-us-2020.json
 ---

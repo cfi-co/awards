@@ -7,6 +7,15 @@ published_gmt: 2022-01-11 11:51:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/max-burger-best-sustainable-restaurant-chain-europe-2021/"
 categories: ["Best Practice", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 04bece92122b97c3b40eb6cd2ed83005bbb88771f972342f99a5336f1902bc9d
 canonical: 9953-max-burger-best-sustainable-restaurant-chain-europe-2021.json
 ---

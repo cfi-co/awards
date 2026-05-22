@@ -7,6 +7,15 @@ published_gmt: 2013-08-27 14:39:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/ak-leads-the-field-in-institutional-brokerage-our-2013-award-winner-in-turkey/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72fb8d8a2ca8c84b0a43dd4762bb8605e7af6f8d9da41dd185b09b881ae69fb1
 canonical: 701-ak-leads-the-field-in-institutional-brokerage-our-2013-award-winner-in-turkey.json
 ---

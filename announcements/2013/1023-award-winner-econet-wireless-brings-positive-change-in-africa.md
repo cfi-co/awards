@@ -7,6 +7,15 @@ published_gmt: 2013-12-03 15:53:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/award-winner-econet-wireless-brings-positive-change-in-africa/"
 categories: ["Africa", "Industries", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ea80aecea6a463c40e8ffd47a0921868c74fc726608d15f229f2481efe729c03
 canonical: 1023-award-winner-econet-wireless-brings-positive-change-in-africa.json
 ---

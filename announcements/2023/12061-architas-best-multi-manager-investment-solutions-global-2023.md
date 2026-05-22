@@ -7,6 +7,15 @@ published_gmt: 2023-11-10 08:58:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/asset-management/2023/architas-best-multi-manager-investment-solutions-global-2023/"
 categories: ["Asset Management", "CSR", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d5b1ab9d75f63ff7cb2f3f2e263ad22e3c7c1746aff59afdf37a2a6a89897b2
 canonical: 12061-architas-best-multi-manager-investment-solutions-global-2023.json
 ---

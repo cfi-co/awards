@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 11:50:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/seb-group-most-esg-responsible-banking-group-nordics-2020/"
 categories: ["Banking", "Best Practice", "CSR", "Corporate Governance", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f49f2bb3ecef391ec8177839ae84e4418b0f73f02a0339c3c3656731e56b7f78
 canonical: 8077-seb-group-most-esg-responsible-banking-group-nordics-2020.json
 ---

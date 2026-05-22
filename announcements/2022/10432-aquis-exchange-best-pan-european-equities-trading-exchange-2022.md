@@ -7,6 +7,15 @@ published_gmt: 2022-05-13 07:24:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/aquis-exchange-best-pan-european-equities-trading-exchange-2022/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d06c8deaf6f645d32ec8cf399612f2f6152ca59bd39c2b22c4a68cdef09b3594
 canonical: 10432-aquis-exchange-best-pan-european-equities-trading-exchange-2022.json
 ---

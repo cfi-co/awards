@@ -7,6 +7,15 @@ published_gmt: 2021-10-22 16:00:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/crowe-colombia-best-audit-tax-services-colombia-2021/"
 categories: ["Accounting", "Consultancies", "Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 838a4bd205a9fb4035c5f51bbb83843e9f5a3e7416b96c5d4395b6cff4312a59
 canonical: 9692-crowe-colombia-best-audit-tax-services-colombia-2021.json
 ---

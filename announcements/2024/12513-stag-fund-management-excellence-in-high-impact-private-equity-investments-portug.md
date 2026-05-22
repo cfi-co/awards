@@ -7,6 +7,15 @@ published_gmt: 2024-08-20 18:06:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/stag-fund-management-excellence-in-high-impact-private-equity-investments-portugal-2024/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a4ae3a307dc73675bd662a9363add13fede8ec491966040c455f09460c63368
 canonical: 12513-stag-fund-management-excellence-in-high-impact-private-equity-investments-portug.json
 ---

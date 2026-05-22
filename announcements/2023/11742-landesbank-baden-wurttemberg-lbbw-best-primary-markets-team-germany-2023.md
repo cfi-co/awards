@@ -7,6 +7,15 @@ published_gmt: 2023-08-09 09:00:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/landesbank-baden-wurttemberg-lbbw-best-primary-markets-team-germany-2023/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8507b71755a0f0036ffaaa5c2060ef1f51f0c7318d6485f6e299a472fc00aa78
 canonical: 11742-landesbank-baden-wurttemberg-lbbw-best-primary-markets-team-germany-2023.json
 ---

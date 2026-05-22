@@ -12,8 +12,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-818\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/flogo.gif\" alt=\"flogo\" width=\"284\" height=\"60\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Elixir Securities offers a broad range of financial services and the CFI.co Judging Panel has singled out the firm as offering Best Equity Research, Pakistan, 2013.</strong></p>\r\n<p style=\"text-align: justify;\">Being part of the powerful Dawoo Group brings Elixir Securities an extensive series of tangible benefits and underwrites the strength of the exceptionally skilled player on the financial market.</p>\r\n<p style=\"text-align: justify;\">Elixir Securities is the main broker in Pakistan for domestic execution. The firm services corporate and institutional clients both at home and abroad. The outstanding Elixir team is gearing up for a road show in the UK scheduled to start in October 2013 after which it will hop the pond to New York in early 2014. Later that year the Elixir Securities team will tour the Middle East. The judges are unwavering in their recommendation of Elixir Securities’ consistently rock-solid research.</p>",
     "content_sha256": "a9381eaa2330d96292bcf6e40b8d4861fd5832db58f5bc237d4f45db0efc0ea6",
-    "record_sha256": "f5f9ee7b84e3082f655061af05619f39c92f8be5bb4fc157ddde12b34be90781"
+    "record_sha256": "f69d4b8a0bfcb7a9dceebe3c0b49a685e3b673064e36e353e44b550efb604e59"
 }

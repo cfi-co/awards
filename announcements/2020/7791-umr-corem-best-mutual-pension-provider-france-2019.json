@@ -11,8 +11,21 @@
         "Europe",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7792\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/UMR.jpg\" alt=\"UMR\" width=\"400\" height=\"164\" />\r\n<p style=\"text-align: justify;\">Union Mutualiste Retraite (UMR) is a French Mutualist, a mutual grouping union, and a non-profit insurance organisation that promotes ethical savings. UMR unites French mutualists behind a collective agreement to offer members the Corem supplementary pension plan, which aims to protect buying power by granting a supplementary pension in addition to the legal one. UMR Corem has been in operation since 2002, providing members with flexible contribution terms to help brighten the golden years and then disbursing annuity payments throughout retirement. Members make contributions that bring tax-saving benefits today and peace of mind tomorrow. The organisation prepares annual reports which estimate annuity schedules according to contribution amounts, member age, and market performance. As a union of non-profit mutuals, UMR reinvests member contributions in a spirit of solidarity and responsibility. It manages over $10bn in assets with a strong ethical focus. UMR has continued to improve its coverage ratio of the SCR (solvency capital requirement) despite lagging stock markets at the end of 2018. Recent legislation has pushed UMR to restart Corem subscriptions, with the aim to onboard 8,000 new members each year. The legislation has also enabled UMR to offer early exit opportunities for Corem plan members and develop new retirement savings products. The CFI.co judging panel declares UMR Corem as the 2019 winner of the award for Best Mutual Pension Provider (France).</p>",
     "content_sha256": "20b38b69d3c0c63878864e9a61f9d6db36a2ac01e3e533c0a3ad5dc5b8f06e2b",
-    "record_sha256": "2a2aeb6f2c6e2d8642485aa70d436c3acbf2436d877297cf15eceb4552b3a2a9"
+    "record_sha256": "4202313d46273f4670462d50fb69bfcc6d14aa6989bf17892aaba0daf3cc43b6"
 }

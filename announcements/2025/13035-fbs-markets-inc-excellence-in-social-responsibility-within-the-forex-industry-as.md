@@ -7,6 +7,15 @@ published_gmt: 2025-07-23 05:54:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2025/fbs-markets-inc-excellence-in-social-responsibility-within-the-forex-industry-asia-2025/"
 categories: ["Asia Pacific", "Best Practice", "CSR", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5334aac08fe645d09de893f7e34ec62f4d7aa2337253b049faa0551b071fd1d6
 canonical: 13035-fbs-markets-inc-excellence-in-social-responsibility-within-the-forex-industry-as.json
 ---

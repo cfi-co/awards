@@ -7,6 +7,15 @@ published_gmt: 2013-04-26 16:22:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/cfi-awards-2013-a-law-firm-in-the-yemen/"
 categories: ["Legal", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e9d56a59d0a6af3ffdedd3d697c81d2cd7add32a8145025a73f3bd6e0de8f82f
 canonical: 456-cfi-awards-2013-a-law-firm-in-the-yemen.json
 ---

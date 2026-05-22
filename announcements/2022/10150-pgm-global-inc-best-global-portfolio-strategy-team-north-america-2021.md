@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:38:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/pgm-global-inc-best-global-portfolio-strategy-team-north-america-2021/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5fa2c63b03c5041e390440091edf0c6bdf5f2280a645e23fae9ceda184904602
 canonical: 10150-pgm-global-inc-best-global-portfolio-strategy-team-north-america-2021.json
 ---

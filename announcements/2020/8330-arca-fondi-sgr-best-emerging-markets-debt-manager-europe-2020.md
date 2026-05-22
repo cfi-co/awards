@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:09:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a6cb3664b1f4378e688db088621629274430c0cc5e2caf4e9be466cf6bec9617
 canonical: 8330-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2020.json
 ---

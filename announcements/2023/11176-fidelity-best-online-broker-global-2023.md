@@ -7,6 +7,15 @@ published_gmt: 2023-02-17 09:22:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2023/fidelity-best-online-broker-global-2023/"
 categories: ["Asset Management", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17f3839b04c6afa49e0e45fc8a7b5d742b0dcbd3de3b492be10b5e6f0d1d488b
 canonical: 11176-fidelity-best-online-broker-global-2023.json
 ---

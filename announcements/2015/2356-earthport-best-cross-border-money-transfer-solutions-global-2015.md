@@ -7,6 +7,15 @@ published_gmt: 2015-05-05 09:38:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/earthport-best-cross-border-money-transfer-solutions-global-2015/"
 categories: ["Europe", "Finance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6189f964702dbe0df0eda29847e78a9a0ea4cd3fc7245946fbc47b35a29f1e5b
 canonical: 2356-earthport-best-cross-border-money-transfer-solutions-global-2015.json
 ---

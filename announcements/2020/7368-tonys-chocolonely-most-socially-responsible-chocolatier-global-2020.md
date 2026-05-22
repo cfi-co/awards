@@ -7,6 +7,15 @@ published_gmt: 2020-05-19 10:16:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/csr/2020/tonys-chocolonely-most-socially-responsible-chocolatier-global-2020/"
 categories: ["CSR"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a9973ddecb02a38ac6ce816f83a99c7ebeb1300f7a8cf842b447a21e1cc713f
 canonical: 7368-tonys-chocolonely-most-socially-responsible-chocolatier-global-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-09-07 05:36:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/bishopsfield-capital-partners-best-funding-solutions-boutique-uk-2021/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1cdb7afdd10617b370c565544e08bf7ad78bf249a3f7b891252cdc3d30506ddf
 canonical: 9557-bishopsfield-capital-partners-best-funding-solutions-boutique-uk-2021.json
 ---

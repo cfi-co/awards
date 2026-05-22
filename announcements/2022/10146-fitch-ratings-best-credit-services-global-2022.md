@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:35:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/fitch-ratings-best-credit-services-global-2022/"
 categories: ["Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db04eb5b530056ef98a1bbb2014690daa6d1d2abfd221573147f22709e2af30c
 canonical: 10146-fitch-ratings-best-credit-services-global-2022.json
 ---

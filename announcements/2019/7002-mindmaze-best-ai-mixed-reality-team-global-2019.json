@@ -11,8 +11,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7003\" src=\"https://cfi.co/awards/wp-content/uploads/2019/12/mindmaze.jpg\" alt=\"mindmaze\" width=\"247\" height=\"50\" />\r\n<p style=\"text-align: justify;\">Switzerland’s first “unicorn” company, MindMaze, transforms futuristic possibilities into today’s reality. The company is an innovative disruptor with extensive knowledge and experience in neuroscience, mixed reality, and artificial intelligence (AI). MindMaze has developed a breakthrough neuro-inspired computing platform that enables a human-machine interface. The MindMotion platform for neurorehabilitation— a complex medical process to aid recovery from injuries to the nervous system — has been a gamechanger. FDA-approved MindMotion combines medical technology, motion-capture cameras and sensors with AI computing, all within a virtual reality environment. Therapy starts with MindMotion Pro hospital sessions, while the MindMotion GO system enables patients to continue with home-based care. It presents more than 30 gamified neurorehabilitation activities — game-playing elements to encourage patient engagement — rooted in evidence-based neurorehabilitation principles to enhance recovery potential. The latest innovation from MindMaze is its patent-pending CogniChip, a next-generation neurotech chip designed to mimic the brain’s capacity for simultaneously processes by integrating continuous data streams from multiple sensors. MindMaze’s breakthrough technology can capture brain activity upon intent with the prescient decoding of brain signals via neural prediction. These developments have nudged MindMaze closer to its ultimate goal of creating a fully interactive, synchronous, multi-sensory virtual reality. MindMaze is spurring transformation in the healthcare and gaming sectors, as well as other industries. The CFI.co judging panel declares MindMaze as the winner of the 2019 award for Best AI &amp; Mixed Reality Team (Global).</p>",
     "content_sha256": "e353ac3fca68d07c7ca11fcfb29135dcd1d1ea7b7464d4ca9e5eabea3b34ca40",
-    "record_sha256": "fd760eea715fb90066fb5503d2f0728e13b03a28efdf0edab94d0fa5abb3d0c9"
+    "record_sha256": "e74c0fe1d0eef437703bd38d259c9baadc96994d7a8c0a7fa609ce0b902a569f"
 }

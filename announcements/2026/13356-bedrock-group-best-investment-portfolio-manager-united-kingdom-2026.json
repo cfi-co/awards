@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12374\" src=\"https://cfi.co/awards/wp-content/uploads/2024/05/Bedrock-jpg.webp\" alt=\"Bedrock\" width=\"500\" height=\"77\" />\r\n<p style=\"text-align: justify;\">Bedrock Group earns this distinction for the disciplined way it converts a multi-family office model into repeatable portfolio outcomes, without diluting fiduciary clarity. The firm's investment practice is anchored in a defined governance cadence: strategic and tactical asset-allocation decisions are taken through an Investment Committee that meets at least quarterly, with clear accountability for final selection decisions, supporting timely action in volatile markets while avoiding committee drift. Its proposition is notably differentiated by breadth of implementation tools-third-party funds, ETFs, structured products and, where appropriate, derivatives and currency overlays-used to express conviction, manage downside and control unintended exposures rather than to chase complexity. Evidence of execution quality is reinforced by its ability to originate and complete real-asset transactions in demanding markets including acquisitions across prime locations such as London, New York and Paris, demonstrating operational reach beyond liquid markets and a pragmatic eye for pricing dislocations. The firm's scale-reported externally within a £1bn-£5bn assets-under-management band-supports institutional-grade manager research, monitoring and product review processes, while remaining sufficiently focused to deliver genuinely bespoke mandates across core, focused and client-specific portfolios. Risk management is treated as an investment input, with scenario analysis and liquidity planning informing position sizing and rebalancing discipline. Leadership depth is visible in the investment office's blend of macro, quantitative and risk expertise, strengthening resilience and decision hygiene. The Capital Finance International (CFI.co) Judging Panel congratulates Bedrock Group on winning the Best Investment Portfolio Manager 2026 Award (United Kingdom).</p>",
     "content_sha256": "3748ef3a13dd22b50faab89d2f462b9d8d805477c8289bb608d39087f818f997",
-    "record_sha256": "dfbcb89404c14902ec66e7c56e64e232c2d9fd0bcacd3b8411a5ab307920f8c5"
+    "record_sha256": "c306a216c319a88f623d92b69a0a365da66a7e60835d96af01e2e7de57284164"
 }

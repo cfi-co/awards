@@ -11,8 +11,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"></p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter  wp-image-1496\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/jb.png\" alt=\"jb\" width=\"448\" height=\"111\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Assets under management amounted to CHF 187 billion at the end of October 2012 (up 10 per cent from the end of 2011) while total assets grew to CHF 274 billion (up 9 per cent).</strong></p>\r\n<p style=\"text-align: justify;\">Julius Baer prides itself in making extra efforts to get to know their clients so to better advise them. The CFI.co judging panel noted JB’s acquisition of Merrill Lynch’s international wealth management business (outside the United States). Julius Baer takes the 2012 award for private banking.</p>",
     "content_sha256": "062042260c5007e82479e36a7319ecd4224d41598b75eedd30f0ec104c85a757",
-    "record_sha256": "2b8570202972976c9f87f4513acc78420c425e4f2b21d3d565f11293b442291c"
+    "record_sha256": "2336c8bf96d5c3bb6b64edbab43499c7f401251e893b3e369389dc8bbe10fd1b"
 }

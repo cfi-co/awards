@@ -7,6 +7,15 @@ published_gmt: 2019-06-11 15:29:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/investment-house-best-investment-banking-solutions-middle-east-2019/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 418c4d5284bf9776e3fdffbe637c63253d7c81c971379a4fb8bd589b3d550c54
 canonical: 6772-investment-house-best-investment-banking-solutions-middle-east-2019.json
 ---

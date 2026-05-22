@@ -11,8 +11,21 @@
         "Banking",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1002\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/Arab-Bank-Logo.jpg\" alt=\"Arab Bank Logo\" width=\"160\" height=\"131\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Arab Bank Jordan is a major player in the MENA region with a strong and consistent record of delivering products and services that truly meet the needs of clients.</strong> The CFI Judging Panel describes the Bank as an outstanding financial institution that fully deserves the accolade ‘Best Commercial Bank, Jordan, 2013.’</p>\r\n<p style=\"text-align: justify;\">Arab Bank Group performance this year has been solid recording an increase in profitability of 15.4 percent. Liquidity levels are important to this bank and its loan/deposit and capital adequacy ratios are very comfortable and significantly ahead of Central Bank requirements.</p>\r\n<p style=\"text-align: justify;\">The Bank has a very impressive regional and international network with 600 branches operating across five continents, According to the Panel, ‘Arab Bank Jordan expertise and dedication has offered much needed support to Arab economies and will continue to do so in future years’.</p>",
     "content_sha256": "385bc0b48c50fe9ee34c6842fc741b8429b4c33566bf067292bb9c2128c6ecdb",
-    "record_sha256": "a86757547d0e95908df32ea6ee7d3fe9faa48df8b51bc723c94130197c56ba18"
+    "record_sha256": "ca22a1749e6f9340c3b131c6e1c8a731584e13b72c81f96b0fa530b413f0c104"
 }

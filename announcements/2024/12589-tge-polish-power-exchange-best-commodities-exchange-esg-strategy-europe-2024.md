@@ -7,6 +7,15 @@ published_gmt: 2024-09-18 10:15:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2024/tge-polish-power-exchange-best-commodities-exchange-esg-strategy-europe-2024/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Exchanges &amp; Brokers", "Industries", "Mining", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bee2c4a866ce759c916272eabf3226111e6e6cafe377d3d0797fe450a9706978
 canonical: 12589-tge-polish-power-exchange-best-commodities-exchange-esg-strategy-europe-2024.json
 ---

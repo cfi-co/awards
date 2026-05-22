@@ -7,6 +7,15 @@ published_gmt: 2021-09-08 07:38:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/techrules-best-wealth-management-software-solutions-europe-2021/"
 categories: ["Asset Management", "Europe", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e1dce3b9912b5aaa23bbb2223845bf476daecfbadfcccd3ca84dceee4d979bbe
 canonical: 9561-techrules-best-wealth-management-software-solutions-europe-2021.json
 ---

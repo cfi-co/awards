@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 14:40:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/astad-best-infrastructure-project-management-team-gcc-2016/"
 categories: ["Industries", "Manufacturing", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9b817a256993f818250258fa681386bc7ef2ca8673e45527f1b6ce48efab640
 canonical: 4444-astad-best-infrastructure-project-management-team-gcc-2016.json
 ---

@@ -12,8 +12,21 @@
         "Industries",
         "Telecom"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4409\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/TNM.jpg\" alt=\"\" width=\"300\" height=\"134\" /></p>\r\n<p style=\"text-align: justify;\"><strong>An Internet service that just works. All the time. Sounds simple enough, but in many parts of Africa even sending an email can be a frustrating exercise. Not so in Malawi. Here, mobile phone operator TNM – Telekom Networks Malawi – rolled out its state-of-the-art 4G LTE network that ensures fast and reliable connections in Lilongwe and the surrounding area. Since its introduction, TNM’s fast-growing 4G LTE network has expanded to include Malawi’s four main urban areas, including Blantyre, Mzuzu and Zomba. The company is now well on track to offer nationwide coverage by year’s end.</strong></p>\r\n<p style=\"text-align: justify;\">The new platform offers users not only access to services previously unavailable – such as video conferencing and streaming – but also offers significant cost savings. TNM has spared no effort at streamlining its interaction with customers, simplifying procedures and eliminating bureaucracy in a successful attempt to better engage with customers and improve overall user experience.</p>\r\n<p style=\"text-align: justify;\">Living up to its corporate slogan Always with You, TNM was established in 1995 as a joint venture between government-owned Malawi Telecommunications and Telekom Malaysia which sold its 60% stake in 2007. TNM is now a wholly Malawi-owned company, listed on the country’s stock exchange.</p>\r\n<p style=\"text-align: justify;\">The premier provider of mobile telecom services in Malawi, TNM is an important driver of the country’s sustained development. The CFI.co judging panel congratulates TNM on the great strides the company has made. The judges are pleased to offer TNM the 2016 Best Mobile Operator South-Eastern Africa Award.</p>",
     "content_sha256": "6594d1cb4f11be0663644ccf82a0990d571c233b90f79936cbba635f5c7e6861",
-    "record_sha256": "eab3a776617ebf0f09af1583be886a5cc858f2a16870da3fefe456ebfebf47ec"
+    "record_sha256": "46c4fbacc4bfce806d062bce35b10cd4c354874a4bf38e1da0fc42f58db1fad8"
 }

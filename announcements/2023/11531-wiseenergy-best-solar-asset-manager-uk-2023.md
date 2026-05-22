@@ -7,6 +7,15 @@ published_gmt: 2023-05-30 10:26:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/wiseenergy-best-solar-asset-manager-uk-2023/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b51f761f2fcd3dea75eee16bfbc9003729e79dfb4958d52ccbd10f854ef6fa2
 canonical: 11531-wiseenergy-best-solar-asset-manager-uk-2023.json
 ---

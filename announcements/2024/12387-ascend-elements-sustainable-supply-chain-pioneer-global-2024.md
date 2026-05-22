@@ -7,6 +7,15 @@ published_gmt: 2024-05-24 10:58:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2024/ascend-elements-sustainable-supply-chain-pioneer-global-2024/"
 categories: ["Best Practice", "Industries", "Manufacturing", "North America", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 26d857a3a235198d733fe785393494d36af287a61cf415c60ccfe4bdc2249d8d
 canonical: 12387-ascend-elements-sustainable-supply-chain-pioneer-global-2024.json
 ---

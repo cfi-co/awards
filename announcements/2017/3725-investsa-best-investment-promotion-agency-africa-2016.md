@@ -7,6 +7,15 @@ published_gmt: 2017-01-10 11:54:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/investsa-best-investment-promotion-agency-africa-2016/"
 categories: ["Africa", "Development", "FDI Agencies"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e51a79939676bd6974959cfedb56400776512a5267921ab74a9dd680cd40e276
 canonical: 3725-investsa-best-investment-promotion-agency-africa-2016.json
 ---

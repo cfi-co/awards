@@ -7,6 +7,15 @@ published_gmt: 2024-06-06 11:55:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/raiffeisen-bank-international-best-structured-products-bank-cee-2024/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 51cadea693692a596ad3f5604d8e3cf95212e23d969f8aa5781154fc89697a1e
 canonical: 12404-raiffeisen-bank-international-best-structured-products-bank-cee-2024.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-10-01 07:30:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/masthaven-bank-best-customer-centric-use-of-financial-technology-uk-2020/"
 categories: ["Banking", "Europe", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 062a3ffb8432524a74a51b5fc13d45dbec63a69b6445c3462ff9309cc1ea641e
 canonical: 8225-masthaven-bank-best-customer-centric-use-of-financial-technology-uk-2020.json
 ---

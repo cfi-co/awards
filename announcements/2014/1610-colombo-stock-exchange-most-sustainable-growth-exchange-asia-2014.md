@@ -7,6 +7,15 @@ published_gmt: 2014-12-24 10:23:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2014/colombo-stock-exchange-most-sustainable-growth-exchange-asia-2014/"
 categories: ["Asia Pacific", "Best Practice", "Exchanges &amp; Brokers", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 78ba30b1960acbde104dbe1d760124a31d70f46ed848a55df58bce2342283cff
 canonical: 1610-colombo-stock-exchange-most-sustainable-growth-exchange-asia-2014.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-05-17 06:16:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/alistithmar-capital-best-asset-manager-middle-east-2022/"
 categories: ["Asset Management", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bf1366ef736659f6ee5723e400fc9e5193b5d2a36614e386007df7090d580a7c
 canonical: 10481-alistithmar-capital-best-asset-manager-middle-east-2022.json
 ---

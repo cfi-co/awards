@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 13:49:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/baluarte-best-investment-management-team-portugal-2022/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e4e7d3127319a95cae7e6cb504d55bfa93a99b684fb7377e9e47d3a25131877
 canonical: 10633-baluarte-best-investment-management-team-portugal-2022.json
 ---

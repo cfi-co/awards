@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:24:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/capital-first-outstanding-contribution-to-financial-inclusion-india-2017/"
 categories: ["Asia Pacific", "Best Practice", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2cf68a9f8805dde2ea72ed60147ae6e5515bd96aab0609aac27ea2f0b58b75bc
 canonical: 4912-capital-first-outstanding-contribution-to-financial-inclusion-india-2017.json
 ---

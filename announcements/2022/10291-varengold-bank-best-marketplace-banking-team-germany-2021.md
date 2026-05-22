@@ -7,6 +7,15 @@ published_gmt: 2022-04-04 11:46:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/varengold-bank-best-marketplace-banking-team-germany-2021/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 971dbfed12e331e87760d30cf1947815f95d35784d031b278373e2adb9ad3ad1
 canonical: 10291-varengold-bank-best-marketplace-banking-team-germany-2021.json
 ---

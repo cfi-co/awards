@@ -7,6 +7,15 @@ published_gmt: 2021-02-03 11:16:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/reckitt-benckiser-group-best-sustainable-healthcare-product-innovator-global-2020/"
 categories: ["Best Practice", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ad4a176163f362ad08105542f5879773b028f0c52509bd00f007aeff77e4090
 canonical: 8805-reckitt-benckiser-group-best-sustainable-healthcare-product-innovator-global-202.json
 ---

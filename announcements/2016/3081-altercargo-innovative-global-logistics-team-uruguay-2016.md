@@ -7,6 +7,15 @@ published_gmt: 2016-04-14 14:28:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/transport/2016/altercargo-innovative-global-logistics-team-uruguay-2016/"
 categories: ["Industries", "Latin America", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3689289a70af6763a8d7acfcde016c6089c8588f4c45e98e09773c1988671849
 canonical: 3081-altercargo-innovative-global-logistics-team-uruguay-2016.json
 ---

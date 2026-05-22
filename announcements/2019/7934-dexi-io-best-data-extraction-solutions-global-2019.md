@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:21:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2019/dexi-io-best-data-extraction-solutions-global-2019/"
 categories: ["Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ed0d73f82b9bc0bb40f20af2b5324ef458a481947dd7ebe5e056c1eef7363ab1
 canonical: 7934-dexi-io-best-data-extraction-solutions-global-2019.json
 ---

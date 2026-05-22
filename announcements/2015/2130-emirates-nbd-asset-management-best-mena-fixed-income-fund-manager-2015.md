@@ -7,6 +7,15 @@ published_gmt: 2015-03-11 12:53:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2015/emirates-nbd-asset-management-best-mena-fixed-income-fund-manager-2015/"
 categories: ["Asset Management", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d75805e1dadd8ea60972a8ff52993d7697f3ce36dce0d2e65455fb486c87a0d2
 canonical: 2130-emirates-nbd-asset-management-best-mena-fixed-income-fund-manager-2015.json
 ---

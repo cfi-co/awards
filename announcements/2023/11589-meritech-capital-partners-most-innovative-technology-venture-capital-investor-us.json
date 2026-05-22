@@ -12,8 +12,21 @@
         "North America",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11590\" src=\"https://cfi.co/awards/wp-content/uploads/2023/06/Meritech-jpg.webp\" alt=\"Meritech\" width=\"500\" height=\"78\" />\r\n<p style=\"text-align: justify;\">Meritech Capital Partners has built a reputation among Silicon Valley start-ups as a hands-on VC investor. The firm began operation in 1999 and has been a pioneer of tech VC investments ever since. A niche team of equal partners drives Meritech’s disciplined investment strategy, never straying from a focus on smaller, selective funds comprising some of the best late-stage tech companies in the investment universe. When Meritech backs a company, it contributes more than mere capital. Partners assume a team member role in investee companies, bringing valuable expertise and insight to each enterprise. Meritech Capital Partners seeks shared successes with portfolio companies, offering assistance and support to enhance operations and fuel growth. The firm has a track record of picking — and nurturing — winners. It looks for best-in-class companies with strong growth trajectories and efficient go-to-market strategies. It has partnered with more than 50 next-generation companies through IPOs, including Salesforce, Facebook, Tableau, Datadog and UiPath. In April 2020, the firm established a free database of comprehensive non-GAAP financials and imputed metrics for public SaaS companies, called Meritech Insights. Two years later, it introduced a revamped version of the product, Meritech Benchmarking. The new web application features trading history for almost all public SaaS companies as well as valuation tools, operational KPIs, financial metrics and a comparison table with sortable filters. The CFI.co judging panel congratulates Meritech Capital Partners on claiming the 2023 award for Most Innovative Technology Venture Capital Investor (US).</p>",
     "content_sha256": "e4bd8e242f57a16099101846234fb77920861f74c410a825c250c2036e4117be",
-    "record_sha256": "b38c6551795fbe4e527be754bf8735b6b9ce47eb65f95d8b16401c8ee8f4cc23"
+    "record_sha256": "711d67b195c4f7392936d6f7d84655273e1f91a8f7404838483ed781805ab21a"
 }

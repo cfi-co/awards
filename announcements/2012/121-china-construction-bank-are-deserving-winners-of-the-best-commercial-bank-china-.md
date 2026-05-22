@@ -7,6 +7,15 @@ published_gmt: 2012-09-07 17:48:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2012/china-construction-bank-are-deserving-winners-of-the-best-commercial-bank-china-award/"
 categories: ["Asia Pacific", "Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a386bbe6fa9fe2c7e0f508b564a7cac8c363615a514df21b89a20a0570e3d77
 canonical: 121-china-construction-bank-are-deserving-winners-of-the-best-commercial-bank-china-.json
 ---

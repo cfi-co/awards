@@ -7,6 +7,15 @@ published_gmt: 2016-05-25 09:12:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/bank-maldives-innovative-banking-team-indian-ocean-2016/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a298674ad1489f71f09fae645fe3413166f0b2ea97bd3be80eb1abcab8977a39
 canonical: 3196-bank-maldives-innovative-banking-team-indian-ocean-2016.json
 ---

@@ -12,8 +12,21 @@
         "Legal",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4485\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/GT.jpg\" alt=\"\" width=\"400\" height=\"216\" /></p>\r\n<p style=\"text-align: justify;\"><strong>In its relatively short lifespan of 28 years the law firm Gilbert + Tobin has climbed to the top in Australia, largely due to the company ethos of deal-making.</strong></p>\r\n<p style=\"text-align: justify;\">In having secured some of the largest mergers and acquisitions in Australia within the past few years, Gilbert + Tobin has proven its formula of success.</p>\r\n<p style=\"text-align: justify;\">Whilst law firms scramble to keep up with Australia’s ever-changing legislation, many find it difficult to comply with corporate regulators. However, thanks to Gilbert + Tobin’s external and internal focus on teamwork, the firm is able to maintain an excellent relationship with all stakeholders, allowing it to stay a few steps ahead.</p>\r\n<p style=\"text-align: justify;\">Through the company’s unique recruitment efforts, Gilbert + Tobin successfully obtained the talent it needed to become a major player so early on. Mr Gilbert himself is largely responsible for a large portion of the firm’s high profile dealmakers, such as the head of Mergers &amp; Acquisitions, Neil Pathak.</p>\r\n<p style=\"text-align: justify;\">With only 45 people, the firm’s M&amp;A team has almost half the number of people its closest competitors maintain on staff. However, time and time again, the team has proven it is the quality of team members, not their numbers, which makes all the difference.</p>\r\n<p style=\"text-align: justify;\">Gilbert + Tobin has demonstrated how creating the right team, direction and focus can catapult a firm to success within a short time-period. The CFI.co judging panel is delighted to offer Gilbert + Tobin the 2016 Best M&amp;A Team Australia Award.</p>",
     "content_sha256": "8e238a30055bed9f7ec9bdf42b74b0dcb31e8bed3d55a793223610fccfd48ba3",
-    "record_sha256": "6c0d5c2e516d82026ff588b77e6776969681767bd4210b0e6111d7c773093b50"
+    "record_sha256": "1ec9683e0024e82bb1862730ac06accd00b629759c20e5fdb935c618de8e5325"
 }

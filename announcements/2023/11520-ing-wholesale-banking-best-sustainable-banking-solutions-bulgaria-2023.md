@@ -7,6 +7,15 @@ published_gmt: 2023-05-18 11:12:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/ing-wholesale-banking-best-sustainable-banking-solutions-bulgaria-2023/"
 categories: ["Banking", "Best Practice", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8a7a346d17c80c356525daa9c84d911766caf7a833e02cec32722748f5bbc36f
 canonical: 11520-ing-wholesale-banking-best-sustainable-banking-solutions-bulgaria-2023.json
 ---

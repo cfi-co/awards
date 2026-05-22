@@ -7,6 +7,15 @@ published_gmt: 2022-09-02 14:35:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2022/octopus-energy-generation-best-renewable-energy-investment-team-uk-2022/"
 categories: ["Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e848c02be37f79ded99f5fa98817d5cecf760142da2d496e9f4d46f0e9f8bd7
 canonical: 10750-octopus-energy-generation-best-renewable-energy-investment-team-uk-2022.json
 ---

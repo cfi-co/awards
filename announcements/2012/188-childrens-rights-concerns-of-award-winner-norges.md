@@ -7,6 +7,15 @@ published_gmt: 2012-09-10 19:55:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2012/childrens-rights-concerns-of-award-winner-norges/"
 categories: ["Banking", "Best Practice", "CSR", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6757db95549e890477433dd56219edd0a9ad775fc0f77af53c5409fca90d9f51
 canonical: 188-childrens-rights-concerns-of-award-winner-norges.json
 ---

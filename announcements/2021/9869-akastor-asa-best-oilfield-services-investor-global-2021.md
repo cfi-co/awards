@@ -7,6 +7,15 @@ published_gmt: 2021-12-09 07:00:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/akastor-asa-best-oilfield-services-investor-global-2021/"
 categories: ["Europe", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 018fb798e793c5245e25d7e3b6a4e171e4956d9584af68c9b17983b313d8c57b
 canonical: 9869-akastor-asa-best-oilfield-services-investor-global-2021.json
 ---

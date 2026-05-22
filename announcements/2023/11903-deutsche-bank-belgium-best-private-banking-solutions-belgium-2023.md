@@ -7,6 +7,15 @@ published_gmt: 2023-10-02 13:44:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2023/deutsche-bank-belgium-best-private-banking-solutions-belgium-2023/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 201e05e61f3a59837de485dc387fc3951138b0fe420e23782b8cb0f79b58ffb1
 canonical: 11903-deutsche-bank-belgium-best-private-banking-solutions-belgium-2023.json
 ---

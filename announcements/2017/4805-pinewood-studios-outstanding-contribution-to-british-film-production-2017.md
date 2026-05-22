@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:02:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/pinewood-studios-outstanding-contribution-to-british-film-production-2017/"
 categories: ["Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 030f62b5ef98019341d33b6bd9ac1e51fc45153f9a170a8da1421544cc3bb475
 canonical: 4805-pinewood-studios-outstanding-contribution-to-british-film-production-2017.json
 ---

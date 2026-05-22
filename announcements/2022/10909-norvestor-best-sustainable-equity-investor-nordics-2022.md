@@ -7,6 +7,15 @@ published_gmt: 2022-11-16 10:10:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/norvestor-best-sustainable-equity-investor-nordics-2022/"
 categories: ["Best Practice", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9033322d4d3362a90a76304ab33dff171d502ccc9d7c19ac089c9d3bf4b399e6
 canonical: 10909-norvestor-best-sustainable-equity-investor-nordics-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-07-10 12:40:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/athelney-trust-best-small-cap-equity-investor-united-kingdom-2019/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d0ef50db4e32ac77e24742961f3d2db5622b289c4b50dd0fe2eb43ea4aa7cd7
 canonical: 7247-athelney-trust-best-small-cap-equity-investor-united-kingdom-2019.json
 ---

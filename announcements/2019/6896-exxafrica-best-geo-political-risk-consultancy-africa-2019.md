@@ -7,6 +7,15 @@ published_gmt: 2019-09-02 09:23:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/exxafrica-best-geo-political-risk-consultancy-africa-2019/"
 categories: ["Africa", "Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 44f6ca1cfa2dc46f20ecb31605b97cb32effb5d5391b7390ca08065ba61b39a1
 canonical: 6896-exxafrica-best-geo-political-risk-consultancy-africa-2019.json
 ---

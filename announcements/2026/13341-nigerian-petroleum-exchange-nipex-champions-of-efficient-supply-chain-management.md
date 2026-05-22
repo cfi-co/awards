@@ -7,6 +7,15 @@ published_gmt: 2026-03-02 12:59:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2026/nigerian-petroleum-exchange-nipex-champions-of-efficient-supply-chain-management-africa-2026/"
 categories: ["Africa", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2374d548870b5f285e3847140bab35f173d5e10b01c9089066a0953a80fc86b7
 canonical: 13341-nigerian-petroleum-exchange-nipex-champions-of-efficient-supply-chain-management.json
 ---

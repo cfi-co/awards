@@ -14,8 +14,21 @@
         "Sustainability",
         "Telecom"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1184\" src=\"https://cfi.co/awards/wp-content/uploads/2014/03/du.jpg\" alt=\"du\" width=\"204\" height=\"193\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Emirates Integrated Telecommunications Company (du) is the CFI.co Best Sustainability Programme winner, UAE, 2014.</strong> The Judging Panel pointed out that, ‘this company has shown a passionate concern about sustainability issues since its establishment eight years ago. Management sets out to humanise technology and be ever thoughtful about the environment. We sense that they have been successful in these aims. We are also pleased to see that du is encouraging entrepreneurship and were very impressed by the ‘Every Step Counts’ wellness Campaign driven by du’s Chairman which encourages exercise and healthy lifestyles. There is an attitude at du that they are preparing paths for future generations and an acceptance of the important responsibilities that this entails.’</p>",
     "content_sha256": "b9bb2b0dd7729af4ef4d39af7647a5690b5b54970e9207f6e7beb02e49c1ad3f",
-    "record_sha256": "0202dc0e40740210c30a3c3fbb876107ec83b19c80356fdc17497c2a68affe4d"
+    "record_sha256": "a9bed7742339eeebdbf8376bff58ae9c9dfc3f6c593b9633c802f97768a446aa"
 }

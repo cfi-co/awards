@@ -7,6 +7,15 @@ published_gmt: 2016-08-12 15:08:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2016/moneta-money-bank-best-bank-ipo-europe-2016/"
 categories: ["Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0adf060add239f4f0e60d145a7b24b73e71c6b07220a7153fffffadad70c804e
 canonical: 3372-moneta-money-bank-best-bank-ipo-europe-2016.json
 ---

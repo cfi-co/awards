@@ -7,6 +7,15 @@ published_gmt: 2019-11-06 09:53:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/berkley-international-latinoamerica-best-insurance-solutions-latin-america-2019/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a2dd88b59613bd1795e2a66030a67efd412dcfb9bb509e3088cc40ac5e3b64a1
 canonical: 6980-berkley-international-latinoamerica-best-insurance-solutions-latin-america-2019.json
 ---

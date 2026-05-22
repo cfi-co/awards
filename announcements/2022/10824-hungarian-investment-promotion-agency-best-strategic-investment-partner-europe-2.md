@@ -7,6 +7,15 @@ published_gmt: 2022-10-20 12:28:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2022/hungarian-investment-promotion-agency-best-strategic-investment-partner-europe-2022/"
 categories: ["Development", "Europe", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d21aed00fc582c9134faa557247eebc50ae841fd139dd2d69971ad0570d9240
 canonical: 10824-hungarian-investment-promotion-agency-best-strategic-investment-partner-europe-2.json
 ---

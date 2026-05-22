@@ -7,6 +7,15 @@ published_gmt: 2024-10-10 10:38:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2024/bse-ltd-champions-of-capital-market-innovation-and-efficiency-asia-2024/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08f164a121d1b08146507ca48a61b1a3abac8c752c15311a59d3fe5337214c84
 canonical: 12634-bse-ltd-champions-of-capital-market-innovation-and-efficiency-asia-2024.json
 ---

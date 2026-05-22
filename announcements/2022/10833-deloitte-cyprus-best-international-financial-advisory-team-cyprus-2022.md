@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 12:04:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/consultancies/2022/deloitte-cyprus-best-international-financial-advisory-team-cyprus-2022/"
 categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4f5bd8f7f4eaa63fd459e4c35e9219f6128d5f8bf4b7e5cc5ef84d727fd36f0
 canonical: 10833-deloitte-cyprus-best-international-financial-advisory-team-cyprus-2022.json
 ---

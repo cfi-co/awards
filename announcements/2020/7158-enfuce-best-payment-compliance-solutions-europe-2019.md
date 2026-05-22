@@ -7,6 +7,15 @@ published_gmt: 2020-01-20 09:00:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/enfuce-best-payment-compliance-solutions-europe-2019/"
 categories: ["Europe", "Industries", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c57461252d99f9f08e7f12dfe48b863ec0174d01c1052976ce6abc94674837a0
 canonical: 7158-enfuce-best-payment-compliance-solutions-europe-2019.json
 ---

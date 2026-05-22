@@ -10,8 +10,21 @@
     "categories": [
         "Community Engagement"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7817\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Rainmaker.jpg\" alt=\"Rainmaker\" width=\"400\" height=\"55\" />\r\n<p style=\"text-align: justify;\">The global water crisis is alarming, and worsening: aquifers are running dry, water tables becoming polluted, well water often unsafe to drink. International company Rainmaker Worldwide has assumed a champion’s role with technology that converts waste into an asset through heat exchange and resource recovery and reuse. It has water-to-water and air-to-water products, delivered within 90 days and operational in two weeks. The air-to-water model generates water by heating and cooling air to form and collect condensation. The water-to-water model produces safe, clean water from multi-input feeds — seawater, polluted water and even sewage — using a vapour-selective membrane-distillation process. The closed-loop systems reuse water and promote the circular economy from residential to industrial level. Rainmaker’s modular and scalable units feature energy-optimising algorithms and a networked real-time control system. The energy-agnostic units allow users to control their carbon footprint by choosing solar, wind, grid or diesel power sources. Rainmaker invites participation from distributors, NGOs and investors worldwide wishing to be part of the solution. Rainmaker Worldwide has a Dutch heritage and its stocks are listed on the US OTC (over the counter) market under the symbol RAKR. It honours a mantra of “do well and do good” with positive SDG contributions and attractive shareholder performance. The CFI.co judging panel presents Rainmaker Worldwide with the 2020 award for Best Community Impact Water Solutions (Global).</p>",
     "content_sha256": "77e731103ba54c313e5f73116b4a1b369caa44f5e22ba15b3bee895e51b2a368",
-    "record_sha256": "7ea826fb774ba21875745ab821c84fa74085f06c82042352f9e1c4a0d28d7abb"
+    "record_sha256": "1a6cc6ea3d52ed380b0b84a65e4885f103a3d5101d4374e3d0b249740f4e57f0"
 }

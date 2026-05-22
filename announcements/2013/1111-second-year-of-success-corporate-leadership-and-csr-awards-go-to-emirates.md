@@ -7,6 +7,15 @@ published_gmt: 2013-11-04 09:05:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/second-year-of-success-corporate-leadership-and-csr-awards-go-to-emirates/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Corporate Leadership", "Industries", "Middle East", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c80771ff2125748254a2630b521120c111cd311687d7123cd7cd1adc96909d84
 canonical: 1111-second-year-of-success-corporate-leadership-and-csr-awards-go-to-emirates.json
 ---

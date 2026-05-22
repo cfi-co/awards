@@ -12,8 +12,21 @@
         "Banking",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><a href=\"https://cfi.co/awards/wp-content/uploads/2012/09/tmb.jpg\"><img class=\" size-full wp-image-185 aligncenter\" title=\"tmb\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/tmb.jpg\" alt=\"\" width=\"202\" height=\"77\" /></a></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Trust Merchant Bank in the DRC award wins recognises TMB’s major contributions to sustainable growth and excellence of its banking services.</strong></p>\r\n<p style=\"text-align: justify;\">The Democratic Republic of the Congo is emerging from decades of unrest and finally looks set to take advantage of its huge economic potential. Sustainable economic growth is vital to the nation’s continued development. This can only happen if there are banks that truly understand the needs of business in general and SMEs in particular. The DRC is fortunate in having a bank that is working to the very highest standards and understands the banking requirements of the DRC. Trust Merchant Bank (TMB) has clearly demonstrated this quality through their highly professional approach which is having real impact. Staff are at the core of TMB’s success and there has been on-going investment in human resources at all levels. The judges felt that TMB was performing well in relation to its domestic banking competitors and providing SME’s with the resources they need. CFI are delighted to award TMB as the Best Commercial and Retail Bank in the DRC and for providing an outstanding contribution to SME development in Africa.</p>",
     "content_sha256": "55db0234607a892f715d7a2ee08a2b9d660178941105fdc0fe732649e95c69be",
-    "record_sha256": "f1c9a4b3b3e4802a4be60b73f077297f0bb7ca9db2c36aa592dba611ad6fd243"
+    "record_sha256": "e8344efb3d306336853630123fbf8171f4e286c6df27a8c902df8ffcee7c3a18"
 }

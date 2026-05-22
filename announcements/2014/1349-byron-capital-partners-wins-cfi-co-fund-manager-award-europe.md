@@ -7,6 +7,15 @@ published_gmt: 2014-09-29 12:37:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/byron-capital-partners-wins-cfi-co-fund-manager-award-europe/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 447a21f61004ad4fcd6d114715c53c1c1d72bd800ed20a94037e0c2e6fee30b3
 canonical: 1349-byron-capital-partners-wins-cfi-co-fund-manager-award-europe.json
 ---

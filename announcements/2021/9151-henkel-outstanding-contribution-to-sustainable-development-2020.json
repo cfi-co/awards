@@ -15,8 +15,21 @@
         "Retail",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9152\" src=\"https://cfi.co/awards/wp-content/uploads/2021/05/Henkel.jpg\" alt=\"\" width=\"500\" height=\"279\" />\r\n<p style=\"text-align: justify;\">Henkel is a leading international chemical and consumer goods company headquartered in Düsseldorf. Its top brands include Schwarzkopf, Loctite and Persil. At over 140 years old, Henkel is no stranger to sustainability. Over several decades, it has shown deep commitment through its expanding sustainability leadership. Its current activities cover six key areas: social progress, performance, safety and health, energy and climate, materials and waste, and water and wastewater. Underpinning these activities are a set of ambitious goals set in 2010. These include the reduction of its carbon footprint from production by 65 percent by 2025, 100 percent renewable energy use by 2030, 100 percent recycled or reusable packaging by 2025 and 50 percent less fossil fuel plastics by 2025. Henkel has already increased its overall efficiency by 56 percent, is using 31 percent less CO2 per product and 40 percent less waste per product. It is also a leader for sustainability within its value chain. Henkel is a founding member of the global Alliance to End Plastic Waste. It supports social and waste reduction projects in Haiti, Indonesia, the Philippines and Egypt alongside social enterprise Plastic Bank. As part of its Sustainability Ambassador Programme, over 50,000 Henkel employees have brought the message to over 170,000 schoolchildren in 53 countries since 2012. The CFI.co judging panel applauds Henkel’s long track record and is proud to confirm the 2020 award for Outstanding Contribution to Sustainable Development.</p>",
     "content_sha256": "4f5340b9739708e15bdeb79968b5c14beb233d8b237b9bfb2954d91dbedd517c",
-    "record_sha256": "af96374a83e6039b6c043272d4ea8f3f9ddb0da05203546880129bcfe860fcaa"
+    "record_sha256": "73abfc1f4e9f2c691ffe506e3e32fb62549a7a9fa9bb9b8acf9a151c0ab5137d"
 }

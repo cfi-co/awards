@@ -7,6 +7,15 @@ published_gmt: 2016-10-28 16:19:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2016/orbit-securities-best-public-lead-offer-advisors-east-africa-2016/"
 categories: ["Africa", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9b03b64613c05a2f64427a9fa188b55a80e0b547db3c70ee0920112a9309b918
 canonical: 4116-orbit-securities-best-public-lead-offer-advisors-east-africa-2016.json
 ---

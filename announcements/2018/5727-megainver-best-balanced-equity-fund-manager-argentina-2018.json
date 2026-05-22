@@ -11,8 +11,21 @@
         "Asset Management",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5729\" src=\"https://cfi.co/awards/wp-content/uploads/2018/06/MegaInverLogo.jpg\" alt=\"\" width=\"500\" height=\"187\" />\r\n<p style=\"text-align: justify;\"><strong>In Argentina, investors are hard-up for choice. In dollar terms, the stock market has receded significantly this year. Corporate and government bonds also accumulated losses. Small wonder that investors are turning to markets overseas to find solace. There remain, however, a few safe havens in an otherwise depressed market such as the dollar denominated mutual funds set up and administered by MegaInver – one of Argentina’s principal asset management firms with exposure to the retail side of the market.</strong></p>\r\n<p style=\"text-align: justify;\">Thanks to MegaInver, small savers have found a number of niches that preserve the integrity of their capital. The firm’s mutual funds offer retail investors a chance to enjoy the solid yields offered by short-term treasury bonds (Letes), issued locally in US dollars. MegaInver was one of the first mutual fund administrators to recognise the benefits of Letes and set up a number of facilities that allow small savers to enjoy their excellent performance. The short term treasury bonds also enable retail investors to build up a dollar denominated portfolio that is inflation-proof.</p>\r\n<p style=\"text-align: justify;\">MegaInver maintains a comprehensive range of investment funds to suit different levels of tolerance to risk from dollar saving accounts, to fixed and variable income mutual funds and SME funds that tap into one of the country’s most dynamic economic sectors. Investors are encouraged to avail themselves of the firm’s local expertise to design a well-diversified investment portfolio that includes a number of hedges against the vagaries of the market.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that MegaInver fields a team of exceptionally well-trained and experienced professionals and analysts. The firm’s performance is widely recognised as a benchmark for the asset management sector. The judges are unanimous in their decision to name MegaInver winner of the 2018 Best balanced Equity Fund Manager Argentina Award.</p>",
     "content_sha256": "5b37140b0fec97139bffd41570a1a8d64ee8c9cfc84a74889255ebbcbee77a54",
-    "record_sha256": "a1983a8b7e66197218e2ee24c83bc846df4993380eeed81063c8d7329194d058"
+    "record_sha256": "88b25ca659bcd75d849a157e23c43aa56c80ab0f24b692d5c453e3d09bf8c60e"
 }

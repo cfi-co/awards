@@ -7,6 +7,15 @@ published_gmt: 2015-04-22 14:30:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/alios-finance-group-best-sme-financial-solutions-provider-africa-2014/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59598e8687c0dca5e88e789eefc27efabb5af2237d160d80ba6a82e0860c2bdd
 canonical: 2253-alios-finance-group-best-sme-financial-solutions-provider-africa-2014.json
 ---

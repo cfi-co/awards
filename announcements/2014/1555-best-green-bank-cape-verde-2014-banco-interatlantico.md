@@ -7,6 +7,15 @@ published_gmt: 2014-09-04 16:56:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2014/best-green-bank-cape-verde-2014-banco-interatlantico/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de0d81317624e4d67e80abf585597d54a32df6e4bfded65e4769c733dad96def
 canonical: 1555-best-green-bank-cape-verde-2014-banco-interatlantico.json
 ---

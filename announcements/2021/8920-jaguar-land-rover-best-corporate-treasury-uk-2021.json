@@ -12,8 +12,21 @@
         "Finance",
         "Industries"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8921\" src=\"https://cfi.co/awards/wp-content/uploads/2021/03/Jaguar-Land-Rover.jpg\" alt=\"Jaguar-Land-Rover\" width=\"500\" height=\"117\" />\r\n<p style=\"text-align: justify;\">Jaguar Land Rover invites the world to consider the future of luxury motoring with its global Reimagine campaign. It underscores the company’s ambition to set new benchmarks for environmental, societal and community initiatives. British brands Jaguar and Land Rover are automotive icons, and that brand equity has been bolstered by a treasury department that has kept the company well positioned to deal with the unexpected. That readiness was put to test with the Covid crisis, which caused a two-month plant closure and a Q1 sales decline of over 40 percent. The treasury department, which also handles investor relations, took a forward-thinking approach to maintaining sufficient liquidity to be able to manage an unplanned event like Covid, giving the company time to manage costs and  facilitate a speedy recovery. After issuing €1bn of 5 and 7 year bonds in November and December of 2019, the company had £3.6bn available in cash as well as £1.9bn in undrawn committed credit facilities going into the pandemic at the end of March 2020. This gave Jaguar Land Rover the ability to absorb Covid and potential Brexit risk and quickly bounce back, achieving £439m in Q3 pre-tax profits and £562m in free cashflow. The company weathered the pressure on cashflow through Covid with shrewd cost management and spending cutbacks. The Treasury has since issued another $1.35 billion of 5 and 7 year bonds with innovative financing structures in October and December of 2020. to continue to stay ahead of the curve on liquidity The CFI.co judging panel salutes the department that has helped to keep the company’s tank full — and its insurance policies up to date. Jaguar Land Rover takes the 2021 award for Best Corporate Treasury (UK).</p>",
     "content_sha256": "c198d51706af9bece540bf902ac0e10b02886e4da866f25031ab7dc296351b29",
-    "record_sha256": "808ad10b7025099d46acd197175a07c5e1d384bcbe5ab27605b3630b340b95f4"
+    "record_sha256": "f50f588c8e14230b41e19bd753f729dd2fefe4b4f11bad8dfae6a5b566471629"
 }

@@ -11,8 +11,21 @@
         "Africa",
         "Exchanges &amp; Brokers"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"size-full wp-image-9620 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2021/10/MAC-SA.jpg\" alt=\"MAC SA\" width=\"312\" height=\"417\" /></p>\r\n<p style=\"text-align: justify;\"><strong>MAC SA has evolved over the past two decades, to become the market leader in terms of securities trading and investment transactions. </strong>The company offers a full suite of financial services from stock broking and securities trading to asset management, equity research, fund raising, IPO’s, M&amp;As, private placements and bond origination.</p>\r\n<p style=\"text-align: justify;\">Thanks to its independence and expertise, MAC SA has been serving institutional, corporate and individual clients in Tunisia over two decades with innovative solutions. It has built a sizable customer base including high net worth clients, family offices and foreign investors (individuals and funds) by offering tax foreign accounts regulated by the FATCA laws.</p>\r\n<p style=\"text-align: justify;\">Despite the difficult economic situation in Tunisia, the company has expanded direct investment inflows and assets gatherings for its fixed-income fund, Fidelity SICAV Plus, which has posted the highest returns for more than 3 consecutive years.</p>\r\n<p style=\"text-align: justify;\">In 2021, MAC SA conducted important acquisition transactions (BTK, UBCI, BH-Assurances) and was the lead of the national bond issues.</p>\r\n<p style=\"text-align: justify;\">MAC SA understands that a diversified offering makes good business senses and has recently developed private equity business, through its subsidiary MAC Private Management, to meet the needs of Tunisian SME’s.</p>\r\n<p style=\"text-align: justify;\">Convinced on its professionalism and know-how, the German cooperation organization GIZ - Tunisia, has just signed a partnership agreement with MAC SA to launch a new and innovative private equity fund to alleviate the debt of Tunisian companies.</p>\r\n<p style=\"text-align: justify;\">With a such successful business model that has shown its effectiveness locally, the company has grown beyond its borders and has established in Ivory Coast to serve the regional stock exchange of the West African Economic and Monetary Union region. After few years, the subsidiary MAC African SGI ranked in the top 5 of the most active brokerage firms in the region. A successful model of south-south cooperation. MAC SA promises confidentiality and independence via a one-stop business model. The CFI.co judging panel declares MAC SA winner of the 2021 award for Best Stockbroker (Tunisia).</p>",
     "content_sha256": "9be24d84630f042e60fffe878e64a3415e13de6ce14446b43b4276033b88ede0",
-    "record_sha256": "1cc2b13782c286868f1214c904d00fac23311462f87aed9bf1ee4f3d5c64aae3"
+    "record_sha256": "eef1bfcd0f31c11b2582d0fe5523ef394ecac5133e0cf3d1e4c0afc3a2d75575"
 }

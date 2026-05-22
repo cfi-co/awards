@@ -13,8 +13,21 @@
         "Technology",
         "Transport"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-medium wp-image-4391\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/Ctrack-300x127.jpg\" alt=\"\" width=\"300\" height=\"127\" />\r\n\r\n<strong>Leveraging the power of telematics, Ctrack by Inseego helps individuals and businesses manage their vehicles in over 55 countries worldwide. Inseego Corp. is a leading global provider of software-as-a-service and solutions for the Internet of Things (IoT) – its Ctrack solution is a premier supplier of fleet management services, meeting strong demand with a state-of-the art technology platform that it developed in-house and represents over thirty years of accumulated experience.</strong>\r\n\r\nCtrack is widely recognised as a pioneer of fleet management, incorporating novel solutions that add value, while implementing refinements that add convenience. In addition to fleet management, Ctrack provides telematics solutions for asset tracking, vehicle recovery, and usage-based insurance solutions.\r\n\r\nThe approximately 180,000 global fleet management subscribers enjoy complete real-time visibility of their vehicles, including progress summaries and data on driver behaviour. Effective fleet management enables businesses both large and small to save significantly on operational costs. Using its own helicopters in South Africa, the firm manages to recover over 95% of stolen or hijacked vehicles, including ones that have been driven across international borders. Most vehicles take less than thirty minutes to recover.\r\n\r\nThe CFI.co judging panel commends Ctrack on its proactive and holistic approach to fleet management. The firm has established a solid track record and delivers consistent results. The judges are pleased to offer Ctrack the 2016 Most Innovative Fleet Management Solution Africa Award.",
     "content_sha256": "2a061cbc720eb362280d1937704d2019e5e42c98b574974a362135983c36a80e",
-    "record_sha256": "dc06ab96ec13c63178ab7d80e80b3e4c8e0448face6a15e6fbfed6eae561f25d"
+    "record_sha256": "0bc8a27731dbbb0e0584832802c56c17d335750a26078311c38fe76ae197fd91"
 }

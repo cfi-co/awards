@@ -7,6 +7,15 @@ published_gmt: 2022-10-24 13:06:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2022/jusan-bank-outstanding-contribution-to-diversification-of-the-economy-kazakhstan-2022/"
 categories: ["Asia Pacific", "Development", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 397179f91b4b5f6128f6bce5e08d12b45fd0ddbb9b66338f18c626957e1e8306
 canonical: 10871-jusan-bank-outstanding-contribution-to-diversification-of-the-economy-kazakhstan.json
 ---

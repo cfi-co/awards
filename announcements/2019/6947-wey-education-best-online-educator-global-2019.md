@@ -7,6 +7,15 @@ published_gmt: 2019-10-23 12:08:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/wey-education-best-online-educator-global-2019/"
 categories: ["Europe", "Industries", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ee735bc7984f7e3007c7c0171b5ddc8a7d2cfc916677bcf8c9a72aa2ec25b001
 canonical: 6947-wey-education-best-online-educator-global-2019.json
 ---

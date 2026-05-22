@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:29:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/absa-best-sme-partner-bank-africa-2018/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca604bb9608e5b1cbd7a089ae60e461455d1f1ce7d3a5fc353935ccf09aecc51
 canonical: 7946-absa-best-sme-partner-bank-africa-2018.json
 ---

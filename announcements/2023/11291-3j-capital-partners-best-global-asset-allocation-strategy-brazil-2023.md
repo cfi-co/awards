@@ -7,6 +7,15 @@ published_gmt: 2023-03-30 12:31:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2023/3j-capital-partners-best-global-asset-allocation-strategy-brazil-2023/"
 categories: ["Asset Management", "Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1790fb73a741eed0f721b1e3c03d830b88e402c2cadeabe814a2199d92294380
 canonical: 11291-3j-capital-partners-best-global-asset-allocation-strategy-brazil-2023.json
 ---

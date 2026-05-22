@@ -7,6 +7,15 @@ published_gmt: 2016-03-30 09:11:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2016/arca-sgr-best-emerging-markets-debt-manager-europe-2015/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dcb4805b3e45f0a759d6a65b8ce1eeb2c8923641911f27873126946088e694f8
 canonical: 3179-arca-sgr-best-emerging-markets-debt-manager-europe-2015.json
 ---

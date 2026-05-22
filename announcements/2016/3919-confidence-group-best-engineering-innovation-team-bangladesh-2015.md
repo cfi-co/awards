@@ -7,6 +7,15 @@ published_gmt: 2016-01-05 11:36:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/confidence-group-best-engineering-innovation-team-bangladesh-2015/"
 categories: ["Asia Pacific", "Industries", "Manufacturing", "Mining", "Oil &amp; Gas", "Technology", "Telecom", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75bd18ea3dd64827b9f94b15a72af24eea26fd2e1626118261295e9ee5c21f94
 canonical: 3919-confidence-group-best-engineering-innovation-team-bangladesh-2015.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-06-25 13:38:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/moonfare-best-private-equity-performance-transparency-platform-global-2021/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0895967b7b7e27070980ff208068293117bc0f605293ea24d23e8806eac65be1
 canonical: 9285-moonfare-best-private-equity-performance-transparency-platform-global-2021.json
 ---

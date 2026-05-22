@@ -7,6 +7,15 @@ published_gmt: 2025-04-19 12:32:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/bedrock-group-best-investment-portfolio-manager-united-kingdom-2025/"
 categories: ["Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 418e2568139cc5b4a39b40fd132d4f11dbcf6c87516d6acaa289f064da81854e
 canonical: 13262-bedrock-group-best-investment-portfolio-manager-united-kingdom-2025.json
 ---

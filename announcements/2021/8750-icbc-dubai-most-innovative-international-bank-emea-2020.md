@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:29:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/icbc-dubai-most-innovative-international-bank-emea-2020/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 871fb0a7abfaeac1e106f8a4a6d412183c2206687d887d2bf292791c86305f23
 canonical: 8750-icbc-dubai-most-innovative-international-bank-emea-2020.json
 ---

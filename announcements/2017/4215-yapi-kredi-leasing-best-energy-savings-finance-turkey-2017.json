@@ -10,8 +10,21 @@
     "categories": [
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4216\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/YapiKredi.jpg\" alt=\"\" width=\"281\" height=\"109\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Established in 1987, Yapı Kredi Leasing has grown into one of the country principal and most sophisticated non-bank financial services providers. The company partners with private business to facilitate the acquisition of capital goods and other means and agents of production.</strong></p>\r\n<p style=\"text-align: justify;\">Besides construction and manufacturing, over the years Yapı Kredi Leasing into a corporate heavy-weight, bundling a vast reservoir of knowledge, experience, and technology. The company broadened its reach to include the healthcare, printing, and nautical sectors.</p>\r\n<p style=\"text-align: justify;\">With robust risk mitigation frameworks in place, Yapı Kredi Leasing is able to offer its products to businesses at various stages of corporate growth. The company maintains a domestic network of fourteen branches and has decisively moved into the renewable energy sector, supporting both solar and wind power projects with over $250m already committed.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel recognises Yapı Kredi Leasing’s role as one of the founders of Turkey’s now buoyant leasing industry. The judges also commend the company on its proactive support on renewable energy. The panel is happy to confer on Yapı Kredi Leasing the 2017 Best Energy Savings Finance Turkey Award.</p>",
     "content_sha256": "dfef3807d7db4a382d3d29dfbd57ee6d1907e488e182981c514d0091c0d00473",
-    "record_sha256": "4e5ab9ee727a69496f8fc7e3777cd19ed953e3a46800847019c4a3412ca5e21e"
+    "record_sha256": "705efefa01dde0ceb08f23e91c857509ba7c432b06fda31f2f0ee1fa6b6ad3ad"
 }

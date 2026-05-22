@@ -7,6 +7,15 @@ published_gmt: 2018-07-11 11:24:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/valentino-best-fashion-corporate-governance-italy-2018/"
 categories: ["Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e8e71a79384bae78c4b498b78bfde807d03ff500d0a5b6d0926ff5142cfd48a
 canonical: 5467-valentino-best-fashion-corporate-governance-italy-2018.json
 ---

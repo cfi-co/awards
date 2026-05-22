@@ -11,8 +11,21 @@
         "North America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9225\" src=\"https://cfi.co/awards/wp-content/uploads/2021/05/Surecomp.jpg\" alt=\"Surecomp\" width=\"500\" height=\"154\" />\r\n\r\nSurecomp was established 33 years ago with the aim of setting a new industry standard in trade finance digitalisation. Clients are flocking to the cloud, and Surecomp helps them with a suite of digital applications to solve key problems. The digitalisation process represents a monumental undertaking for most organisations — particularly financial institutions — but Surecomp simplifies the complexity of trade finance with digital innovation. Surecomp claims to be the only company to identify trade finance as both a banking and corporate solution, and to deal across Europe, the Americas and Asia. It offers next-gen trade finance solutions to assist banks and corporations with transformation strategies, and third-party partnerships with local banks give Surecomp a competitive edge. The firm invested in R&amp;D and tasked a team with soliciting market feedback to identify opportunities for innovation — and then developed in-house solutions to help clients scale their businesses. Surecomp helps clients save time and money by harnessing efficiencies while fostering collaboration through open API (Application Programming Interface) connectivity. Surecomp’s market reach includes some 30 fintech companies — and that number is rising. Everything is geared towards growth and stability, from its digital-first approach and future-focused products to its family-friendly work culture and equal-opportunity ethos. Surecomp started the year on track for good growth figures. Positive feedback from satisfied customers, and media coverage of their stories of transformation, suggest that streak will continue. The CFI.co judging panel declares Surecomp winner of the 2021 global award for Best Digital Trade Finance Solutions.",
     "content_sha256": "7de51d28c98da3d67eb6639819bcdd37b2bbc62cca8880baf61ddb7e8afef526",
-    "record_sha256": "e833751b1f97849d603278b8ee6416a8432f449fef582bcfd515d56103814fad"
+    "record_sha256": "a5ea6938c50bc109167b5f226e8f40af4baeafa479374ff056d2ee4afbf0bab9"
 }

@@ -7,6 +7,15 @@ published_gmt: 2013-09-18 10:10:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/a-good-year-for-citygate-securities-institutional-brokerage-award-mauritius/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 490547e05d20842b6a50848e3613f6837906ede820cc0edd2e8231aecd2417f6
 canonical: 779-a-good-year-for-citygate-securities-institutional-brokerage-award-mauritius.json
 ---

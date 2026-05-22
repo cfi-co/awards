@@ -7,6 +7,15 @@ published_gmt: 2020-11-10 01:00:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/pilipinas-shell-petroleum-corporation-best-energy-corporate-governance-philippines-2020/"
 categories: ["Asia Pacific", "Best Practice", "Corporate Governance", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d7e78b5ed31a83aa9ba485d67e2ae5f0a4f5ac9f8618eb5c183d47a2ca3e4b4
 canonical: 8293-pilipinas-shell-petroleum-corporation-best-energy-corporate-governance-philippin.json
 ---

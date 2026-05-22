@@ -7,6 +7,15 @@ published_gmt: 2023-08-08 15:07:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/dtidz-best-free-economic-zone-leadership-balkans-2023/"
 categories: ["Corporate Leadership", "Development", "Europe", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 591b2370609a4656b5b114d6555c5d6b3de59e630f7b14e5153a74341a855a6c
 canonical: 11730-dtidz-best-free-economic-zone-leadership-balkans-2023.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-12-03 11:58:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/customer-satisfaction/2013/bentley-powers-ahead-in-customer-satisfaction-cfi-co-award-winner-middle-east-2013/"
 categories: ["Customer Satisfaction", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 78efd468c9b5da13639c37be870f9a4910d6fbec65530caf5ee03c17211f4c34
 canonical: 1120-bentley-powers-ahead-in-customer-satisfaction-cfi-co-award-winner-middle-east-20.json
 ---

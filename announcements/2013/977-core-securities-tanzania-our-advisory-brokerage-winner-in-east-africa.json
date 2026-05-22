@@ -12,8 +12,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-980\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/CORE.jpg\" alt=\"CORE\" width=\"397\" height=\"96\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI Judging Panel congratulates CORE Securities Limited, on its advisory services and is pleased to name this firm, ‘Best Advisory Brokerage, East Africa, 2013’.</strong></p>\r\n<p style=\"text-align: justify;\">The Panel considers CORE to be, ‘An efficient and innovative brokerage that offers investors consistently strong advice and good service. CORE sensibly counsels investors to think big, begin small and begin now.’</p>\r\n<p style=\"text-align: justify;\">Core was first licenced fifteen years ago and has regional ambitions which the Panel consider to be realistic. The firm has good solid research capabilities and an ethical approach to client relationships.</p>",
     "content_sha256": "c3254a8ffa472f58332e5716825bd0b98183fdb4aa8127eb1d419c2f4088e428",
-    "record_sha256": "807c01460ce1e0893ad7f7924bb6014e9082084acfbc7789abdeeb09af9317d9"
+    "record_sha256": "91fc982472892cc78f1006943b1f04f68b46da1c935d9ca44cbf8be96a314f17"
 }

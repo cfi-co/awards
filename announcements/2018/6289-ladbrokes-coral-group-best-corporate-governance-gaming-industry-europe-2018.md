@@ -7,6 +7,15 @@ published_gmt: 2018-04-02 09:53:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/ladbrokes-coral-group-best-corporate-governance-gaming-industry-europe-2018/"
 categories: ["Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08883e1b7ca74109b96ac46b156b155287cb06fdf45a928d342f126c60d1ae8e
 canonical: 6289-ladbrokes-coral-group-best-corporate-governance-gaming-industry-europe-2018.json
 ---

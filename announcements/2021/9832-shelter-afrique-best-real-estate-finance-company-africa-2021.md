@@ -7,6 +7,15 @@ published_gmt: 2021-11-16 12:16:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/shelter-afrique-best-real-estate-finance-company-africa-2021/"
 categories: ["Africa", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f66501b2cae63672479f0f137190f044eb1c335d18f883132e19030c47abe186
 canonical: 9832-shelter-afrique-best-real-estate-finance-company-africa-2021.json
 ---

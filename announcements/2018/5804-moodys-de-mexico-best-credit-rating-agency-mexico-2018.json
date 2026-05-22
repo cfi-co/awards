@@ -11,8 +11,21 @@
         "Latin America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_5805\" align=\"aligncenter\" width=\"1000\"]<img class=\"wp-image-5805 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2018/07/Moodys.jpg\" alt=\"\" width=\"1000\" height=\"699\" /> <strong>Representative Director:</strong> Alberto Jones-Tamayo[/caption]\r\n<p style=\"text-align: justify;\"><strong>Consolidating and expanding its long-time leadership in the Latin American credit rating market, Moody’s has significantly strengthened the company’s presence in Mexico. Debt issuers and investors alike count on the expertise, credibility, and engagement of Moody’s thirty local analysts to detect micro and macro trends and ascertain the state of the overall market.</strong></p>\r\n<p style=\"text-align: justify;\">In Mexico, Moody’s tracks close to 900 debt issuers and investment vehicles such as corporates, financial services providers, publicly-owned entities, investment funds, structured finance undertakings, and large projects, amongst others. Whilst monitoring the financial markets, Moody’s adheres to a comprehensive code of conduct which ensures full transparency.</p>\r\n<p style=\"text-align: justify;\">The company publishes detailed descriptions of the methodology it employs to evaluate businesses, entities, and funds in each sector of the economy. This way both debt issuers and investors gain insights into the criteria used which, in turn, helps improve the overall quality of financial instruments.</p>\r\n<p style=\"text-align: justify;\">Worldwide, Moody’s monitors in excess of $72 trillion in financial instruments. The company employs over 1,100 analysts and has recently redoubled its already considerable efforts to include ESG (environmental, social, and governance) performance standards in its assessments. In Mexico, Moody’s helped guide, explain, and inform the environmental impact of the new $13bn airport, soon to become the largest in Latin America, being built to the north of the capital.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends Moody’s on its presence in Mexico and the work done to help issuers and investors tap into the resources needed to fuel sustained economic growth. The judges declare Moody’s winner of the 2018 Best Credit Rating Agency Mexico Award.</p>",
     "content_sha256": "09bfa8b25ad905c5540853ac9e7088ac05e8d362ac96d52dc94359a3d6512a46",
-    "record_sha256": "261de5a61c305c1b1d65add2fd28595827d639e0831f54503d5088c6d02d138c"
+    "record_sha256": "57c76dc1986933ebb148342d3971344cdceafb7f489b838ba922668c417aee6f"
 }

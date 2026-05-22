@@ -7,6 +7,15 @@ published_gmt: 2025-04-22 07:57:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2025/parque-industrial-duarte-outstanding-industrial-park-caribbean-2025/"
 categories: ["Development", "Industries", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2cad72eb743a59c8e68819642044ece9496f221f216a505dea39b88ef194494
 canonical: 12936-parque-industrial-duarte-outstanding-industrial-park-caribbean-2025.json
 ---

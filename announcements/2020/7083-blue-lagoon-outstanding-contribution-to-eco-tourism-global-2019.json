@@ -11,8 +11,21 @@
         "Community Engagement",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-5293 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2018/02/BlueLagoon.jpg\" alt=\"Blue Lagoon logo\" width=\"500\" height=\"353\" />\r\n<p style=\"text-align: justify;\">Since its creation over 35 years ago, Blue Lagoon has been taking advantage of the beneficial powers of geothermal seawater from the Svartsengi power plant. In 1995, after intensive research confirmed the healing properties, Blue Lagoon Ltd launched its acclaimed line of skin care products and, four years later, established its pioneering spa resort. Both use the water’s primary elements: silica, algae and minerals to make their customers feel rejuvenated and reinvigorated. In 2018, the resort was named as one of the World's Greatest Places by Time Magazine. The complex now features the Retreat which encompasses a 62-suite luxury hotel, a 4000 sqm subterranean spa, a mineral-rich lagoon carved into the centuries-old lava, and a Michelin-recommended restaurant that turns seasonal ingredients into unforgettable meal experiences. The Retreat boasts an exquisite ultra-private suite, Lava Cove, offering gourmet dining, in-water massage, and guided yoga sessions with its own mineral-rich lagoon, wood-burning fireplace, dining area, kitchen, butler, and world-class Italian furnishings. This investment in an even more luxurious eco-tourism experience complements the original relaxing and enchanting offering. The CFI.co judging panel confirms that Blue Lagoon deserves the 2019 award for Outstanding Contribution to Eco-Tourism (Global).</p>",
     "content_sha256": "7a944dbc3a43ec1171e6af8bbd60ca62d9c44817481590d309c7ad15fa0bbd41",
-    "record_sha256": "231165ca8d2dc81358d5f94f67890f5170d7b3565d76e25c43a8320c9fa27394"
+    "record_sha256": "ccca40cf8155de3b78e8d147b86e91162c13a41e225e35bead1b808682a1c739"
 }

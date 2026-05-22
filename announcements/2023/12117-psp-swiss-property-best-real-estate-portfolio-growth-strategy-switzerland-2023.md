@@ -7,6 +7,15 @@ published_gmt: 2023-12-11 08:46:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/psp-swiss-property-best-real-estate-portfolio-growth-strategy-switzerland-2023/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4ee40cd77f3b03ab88c0c7498099d65f08f3edc2c70102793b70877e8675a5a
 canonical: 12117-psp-swiss-property-best-real-estate-portfolio-growth-strategy-switzerland-2023.json
 ---

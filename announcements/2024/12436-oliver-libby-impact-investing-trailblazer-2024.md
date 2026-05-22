@@ -7,6 +7,15 @@ published_gmt: 2024-06-21 13:01:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/corporate-leadership/2024/oliver-libby-impact-investing-trailblazer-2024/"
 categories: ["Corporate Leadership", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab6d0889557ed9e7bc753218696c1d50ba91ea4b158f2b19a3540efbed1e5901
 canonical: 12436-oliver-libby-impact-investing-trailblazer-2024.json
 ---

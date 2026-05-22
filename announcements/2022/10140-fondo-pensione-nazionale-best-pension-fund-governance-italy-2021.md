@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:33:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/fondo-pensione-nazionale-best-pension-fund-governance-italy-2021/"
 categories: ["Asset Management", "Best Practice", "Corporate Governance", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc0ef973e84866dd5dad6ef6b81e252b3ef07727d4f5a87f74ffd6686ddb17ed
 canonical: 10140-fondo-pensione-nazionale-best-pension-fund-governance-italy-2021.json
 ---

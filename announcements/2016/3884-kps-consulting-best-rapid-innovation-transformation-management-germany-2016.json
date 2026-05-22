@@ -12,8 +12,21 @@
         "Europe",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3885\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/KPS.jpg\" alt=\"\" width=\"400\" height=\"197\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Whenever the experts of KPS Consulting are called in, business is about to be shaken up and take off. One of Germany’s premier management consultancies, KPS Consulting maintains a global roster of over 600 highly experienced professionals who have what it takes to optimise performance and transform any kind of corporation.</strong></p>\r\n<p style=\"text-align: justify;\">KPS Consulting has developed a proprietary approach – the KPS Rapid Transformation Method– that reduces complexity in order to attain corporate goals faster. This approach streamlines processes and significantly reduces project lead-times. The firm’s experts – or transformation architects – are carefully selected to bring deep sector knowledge to any undertaking and boast experience in faultless project execution.</p>\r\n<p style=\"text-align: justify;\">Founded in 2000, KPS Consulting takes on projects and challenges in the retail, consumer, services and manufacturing and processing sectors. The firm offers top-level consulting that spans the entire business spectrum from strategy development to process design, systems technology and beyond. KPS Consulting has gained an enviable reputation for designing fully integrated end-to-end processes that span the entire value chain.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel recognises the inestimable value outside management expertise can bring to any business wishing to break out of its niche, add an extra layer of dynamics to its operations, or – simply – reinvent itself to thrive in new or changed markets. Few firms are better suited to help realise these ambitions than KPS Consulting. The judges are pleased to offer KPS Consulting the 2016 Best Rapid Innovation &amp; Transformation Management Germany Award.</p>",
     "content_sha256": "f16250f3f9f1900ef4feb87cd81bf775b4030c5bd4a63889610f937e04f464de",
-    "record_sha256": "a7962f2d21bed96c068b0d7367ed55929fe03a4576b2ff30b4ab2aa018084ec4"
+    "record_sha256": "6dee62937d84bdb39626661d104ca431f81818435045c7a588ec5470ff285ec1"
 }

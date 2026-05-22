@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 13:58:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/commonwealth-bank-of-australia-best-personal-banking-services-australia-2019/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11eda06009e610e505fc3daa7b1e38e57c68a72fb75cd95d22ebb9bb55d20bbd
 canonical: 7729-commonwealth-bank-of-australia-best-personal-banking-services-australia-2019.json
 ---

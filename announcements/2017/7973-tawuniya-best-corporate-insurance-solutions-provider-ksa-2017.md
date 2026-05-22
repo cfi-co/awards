@@ -7,6 +7,15 @@ published_gmt: 2017-07-19 15:39:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/tawuniya-best-corporate-insurance-solutions-provider-ksa-2017/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 781bbbc0b14c3b6f99d02fcea1e696def7fa0f5d972fd7a77c03ec449d6770f3
 canonical: 7973-tawuniya-best-corporate-insurance-solutions-provider-ksa-2017.json
 ---

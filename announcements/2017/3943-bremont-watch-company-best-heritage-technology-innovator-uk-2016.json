@@ -11,8 +11,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3944\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Bremont.jpg\" alt=\"\" width=\"405\" height=\"162\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Britannia may no longer rule the waves, Great Britain remains master of the precision mechanical engineering domain: a pursuit that delivered, amongst others, the world’s first precision chronometer, manufactured, largely from wood, by John Harrison in 1735 – the first “sea clock” that helped solve the longitude conundrum.</strong></p>\r\n<p style=\"text-align: justify;\">Carrying on the tradition of exquisitely fine mechanical engineering, the Bremont Watch Company of Henley-on-Thames in Oxfordshire manufactures quartz-free timepieces of exceptional quality. The company was founded in 2002 as a specialist watch purveyor to pilots on vintage aircrafts and others with an appreciation of vintage technology. Built with passion, Bremont wristwatches are prized not just for their accuracy, but for being marvels of craftsmanship wrapped in elegant enclosures that stand at the epitome of contemporary design – tasteful homages to the art and skill of horology.</p>\r\n<p style=\"text-align: justify;\">A thriving business, Bremont produces around 10,000 timepieces annually, all assembled by hand and tested to withstand the most extreme of environments. Bremont watches are a favourite amongst RAF pilots who have access to special edition versions that celebrate particular aircraft flown in the line of duty. Committed to delivering uncompromising performance now and far into the future, Bremont maintains a large apprentice scheme to train tomorrow’s watchmakers, ensuring the fine art of horology is kept alive.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel congratulates the company on its sizable contribution to British precision engineering and is pleased to offer Bremont Watch Company the 2016 Best Heritage Technology Innovator UK Award.</p>",
     "content_sha256": "48a75d58d2c28dad53ff48b26e4411852a2d58083f923a5bf1c085c1f691e36b",
-    "record_sha256": "9021f14b7eba64be6b78fb2f5fc82b2f14f7d3a5324730ed6c08e38c8a330afe"
+    "record_sha256": "19b7e8006da1feb69ece23a0070eaeb0f867226f7cb01b7a9ca9187984152c0e"
 }

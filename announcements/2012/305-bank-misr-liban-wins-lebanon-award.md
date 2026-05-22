@@ -7,6 +7,15 @@ published_gmt: 2012-12-04 14:04:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2012/bank-misr-liban-wins-lebanon-award/"
 categories: ["Banking", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97b415226510c8980f3803f04aeb5c6eddfdd580870bdfe89f0d9f2f2ca0e58d
 canonical: 305-bank-misr-liban-wins-lebanon-award.json
 ---

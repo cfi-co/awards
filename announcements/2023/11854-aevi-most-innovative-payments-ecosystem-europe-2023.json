@@ -12,8 +12,21 @@
         "Retail",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-11852 size-full\" title=\"Aevi\" src=\"https://cfi.co/awards/wp-content/uploads/2023/09/Aevi-jpg.webp\" alt=\"Aevi\" width=\"500\" height=\"197\" />\r\n<p style=\"text-align: justify;\">As the in-person payments expert, Aevi connects digital and in-person channels, orchestrates checkout flows, and sets transaction data free. The company launched as a standalone subsidiary of Diebold Nixdorf, a multinational financial and retail technology company. Over the past decade, Aevi has established a growing foothold across Europe, Australia and the Americas through offices in London, Prague and Paderborn (Germany). In 2015, together with the Commonwealth Bank of Australia, Aevi introduced the first-ever SmartPOS and continues to drive change across the global payments landscape. Aevi has created a device-agnostic, open-API payment orchestration platform to serve clients across the payments supply chain, including financial institutions, payment service providers, independent sales organisations (ISOs), independent software vendors (ISVs), global, as well as fuel and convenience retailers. Aevi is on a mission to reinvent the industry, as it believes that in-person payments should be as innovative as those made online. It recruits top talent whose contributions drive the success of the company and its clients. Aevi has brought together a multicultural team with diversified backgrounds and expertise. It has cultivated an environment of open communication, where team members make well-informed decisions collectively. Staff turnover stays low, and the few who wander typically return. Aevi shows its people that they’re valued — and the entire workforce strives to make clients feel the same way. The CFI.co judging panel unanimously selected Aevi as the 2023 award winner for Most Innovative Payments Ecosystem (Europe).</p>",
     "content_sha256": "220daa79f018cf2305ba278ccde3406987a0afb9deb9a14b6b735dbff7954bd6",
-    "record_sha256": "422faf7203e4c1aa72465635a39b352ae51c3ccb0184be2d006891b6f3f90af2"
+    "record_sha256": "15344a729add6ba717542c027c0df41b6e121767e7a449948e7382d39943144b"
 }

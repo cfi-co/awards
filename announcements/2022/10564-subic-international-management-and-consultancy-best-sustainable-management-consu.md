@@ -7,6 +7,15 @@ published_gmt: 2022-06-27 08:17:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/subic-international-management-and-consultancy-best-sustainable-management-consultancy-philippines-2022/"
 categories: ["Asia Pacific", "Best Practice", "Consultancies", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4874c51eb7468c0141bed5ad96ae5fbc8d379c2e05a445385259127bfa70b845
 canonical: 10564-subic-international-management-and-consultancy-best-sustainable-management-consu.json
 ---

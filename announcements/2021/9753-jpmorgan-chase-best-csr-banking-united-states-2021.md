@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 07:28:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/jpmorgan-chase-best-csr-banking-united-states-2021/"
 categories: ["Banking", "Best Practice", "CSR", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0e03bb42b9b5a7609a4ec968f8972b87b856a5d3bae44826a53c6ada1dcf8f31
 canonical: 9753-jpmorgan-chase-best-csr-banking-united-states-2021.json
 ---

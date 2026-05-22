@@ -7,6 +7,15 @@ published_gmt: 2020-06-09 12:04:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2020/worldfavor-best-digital-sustainability-management-solutions-global-2020/"
 categories: ["Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1aad0bf914194dfee4956fd3e84d15a22e0e87617caeaebc38c64768c0910980
 canonical: 7432-worldfavor-best-digital-sustainability-management-solutions-global-2020.json
 ---

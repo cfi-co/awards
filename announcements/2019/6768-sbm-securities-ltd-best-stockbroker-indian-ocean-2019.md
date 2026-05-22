@@ -7,6 +7,15 @@ published_gmt: 2019-06-11 15:23:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/sbm-securities-ltd-best-stockbroker-indian-ocean-2019/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f8f2725cc7925016a7c9d6f2e27d7647c19341e8629bece1db6e7e9cee3e132
 canonical: 6768-sbm-securities-ltd-best-stockbroker-indian-ocean-2019.json
 ---

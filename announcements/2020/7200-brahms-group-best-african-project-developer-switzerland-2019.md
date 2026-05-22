@@ -7,6 +7,15 @@ published_gmt: 2020-01-22 11:34:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/brahms-group-best-african-project-developer-switzerland-2019/"
 categories: ["Africa", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8ba2d5b1b0e8e638b3cae58a670169a7511c96558b75630038131d3008cc6fbf
 canonical: 7200-brahms-group-best-african-project-developer-switzerland-2019.json
 ---

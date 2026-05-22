@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4489\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/McOttleyCapital.jpg\" alt=\"\" width=\"181\" height=\"72\" /></p>\r\n<p style=\"text-align: justify;\"><strong>As financial markets mature, the need for specialised investor services increases. Such it is in Africa where a decade-long economic upswing has added multiple layers of complexity to the indigenous financial markets. Ghana has attracted plenty of attention from investors wishing to hitch a ride on the country’s buoyant economy, regularly registering 8% or more annual GDP growth.</strong></p>\r\n<p style=\"text-align: justify;\">Helping investors source opportunity, McOttley Capital has the tools and expertise to secure safe and profitable deals. With a focus on primary market research, the firm produces a stream of valuable data from which analysts extract the nuggets needed to successfully enter the local market.</p>\r\n<p style=\"text-align: justify;\">McOttley Capital assists individuals, corporates, and others to find investment opportunities in Ghana that are fully exposed to the upside whilst providing hedges against adverse eventualities. Using a disciplined and well-diversified approach, McOttley Capital is able to outperform the wider market and deliver on-target results.</p>\r\n<p style=\"text-align: justify;\">Speedy and accurate in the delivery of its services, the firm has experienced exponential growth since its foundation three years ago. McOttley Capital has also established a solid reputation for adaptability, responding dynamically to market conditions and is able to ride the peaks whilst skirting around the troughs.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to note that McOttley Capital has consistently delivered on its promises and possesses the knowledge and skills needed for navigating the local market profitably. The judges are delighted to offer McOttley Capital the 2016 Best Boutique Investment Bank Ghana Award.</p>",
     "content_sha256": "8e9688e3f5e3bebea66d4dc9a8084e01b1a983c5bcc3361b412e6076ea322730",
-    "record_sha256": "0c508deded834e5b2e24d2c2284c272c1ff36ad6e39575c67ba856654e154fa4"
+    "record_sha256": "766b1d9522f98b16ea8a9897391ee5b3eec1c36c5d5e367f28583d99b84234ce"
 }

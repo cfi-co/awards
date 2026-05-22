@@ -7,6 +7,15 @@ published_gmt: 2022-11-15 07:55:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2022/nordea-finance-most-innovative-climate-impact-sme-finance-scandinavia-2022/"
 categories: ["Best Practice", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97161b4d8ab1343030cad9c7ae955898be84b8b2c1abe2a0a43a9eede63ab577
 canonical: 10905-nordea-finance-most-innovative-climate-impact-sme-finance-scandinavia-2022.json
 ---

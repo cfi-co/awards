@@ -7,6 +7,15 @@ published_gmt: 2021-02-23 11:29:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/crc-credit-bureau-ltd-best-credit-bureau-nigeria-2021/"
 categories: ["Africa", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e13d0056cd457e6190f3511b02eaa549cd552d362f7cd929b5ab76adc6d24f6d
 canonical: 8849-crc-credit-bureau-ltd-best-credit-bureau-nigeria-2021.json
 ---

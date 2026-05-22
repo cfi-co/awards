@@ -7,6 +7,15 @@ published_gmt: 2023-08-08 13:04:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2023/containers-printers-best-sustainable-packaging-technology-most-innovative-packaging-team-global-2023/"
 categories: ["Asia Pacific", "Best Practice", "Industries", "Manufacturing", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 571fe8f5a1f8c13dd7fb0fb07af8296813d8ec31035e38c5a3b45878865af584
 canonical: 11702-containers-printers-best-sustainable-packaging-technology-most-innovative-packag.json
 ---

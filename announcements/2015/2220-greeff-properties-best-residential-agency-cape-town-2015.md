@@ -7,6 +7,15 @@ published_gmt: 2015-05-08 14:02:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/greeff-properties-best-residential-agency-cape-town-2015/"
 categories: ["Africa", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d0bde3f5c595654690f4c8c3ba302fdb36ea7ec99c8f9868729d5b3bc80af52a
 canonical: 2220-greeff-properties-best-residential-agency-cape-town-2015.json
 ---

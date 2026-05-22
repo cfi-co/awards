@@ -8,8 +8,21 @@
     "published_gmt": "2019-01-15 17:51:02",
     "modified_gmt": "2019-01-15 17:52:52",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6499\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/MPICO.jpg\" alt=\"\" width=\"349\" height=\"226\" />\r\n<p style=\"text-align: justify;\">For nearly half a century, MPICO has been a key player in driving Malawi’s private property development and contributing to the national economy. Formerly known as the Malawi Property Investment Company, MPICO engages in the development, rental, and management of commercial, residential, and industrial properties as well as consultancy services. The MPICO portfolio shows the company’s keen interest in shopping malls, office complexes, and hospitality spaces. MPICO has a customer base of around 300 tenants, including government bodies, non-governmental organisations (NGOs), and corporate clients. The company was established in 1972 to facilitate private funding to develop the country’s property infrastructure, and it issued an IPO in 2007 to further its original objective. The IPO helped to broaden MPICO’s ownership base and gave the company access to capital markets — a distinct advantage for raising finance in the future. MPICO recognises the correlation between productive and profitable small- to medium-sized enterprises (SMEs) and a thriving economy. Its properties are home to many of Malawi’s SMEs, which MPICO also supports by outsourcing its services to them. The company has a history of strong corporate citizenship, funding hospitals and collaborating with disaster-relief organisations. The CFI.co judging panel congratulates MPICO — whose 28-property portfolio is now valued at more than $47m — and presents the company with the 2018 award for the Best Full Property Services (Malawi).</p>",
     "content_sha256": "54565beedbbdf25d1c3db202246fb55ddb49a5f93f90edbf0796f2f8629f7068",
-    "record_sha256": "715a51bbc2c5e101f50e2af319611e67a2d2db3409abcb60717d73d695c19436"
+    "record_sha256": "1f763bda8527853154a5bea7e97c0b1c7c19ab3e8cb4ff2ecacaca775de45d69"
 }

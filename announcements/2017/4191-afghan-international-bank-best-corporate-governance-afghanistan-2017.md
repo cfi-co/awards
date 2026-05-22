@@ -7,6 +7,15 @@ published_gmt: 2017-05-02 09:43:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/afghan-international-bank-best-corporate-governance-afghanistan-2017/"
 categories: ["Asia Pacific", "Banking", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab69cd48e7642c9e8ce4e85c96218d7a76693e9e4af1ff20d8bb47a215d0bcb5
 canonical: 4191-afghan-international-bank-best-corporate-governance-afghanistan-2017.json
 ---

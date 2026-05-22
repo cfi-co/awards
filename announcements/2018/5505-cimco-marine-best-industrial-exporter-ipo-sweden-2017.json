@@ -12,8 +12,21 @@
         "Industries",
         "Manufacturing"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5508\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/Cimco.jpg\" alt=\"\" width=\"400\" height=\"160\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong> In Sweden, the engineers of Cimco Marine developed the world’s first truly high-power diesel outboard engine. The OXE Diesel Outboard generated so much demand that the manufacturer had to accelerate expansion plans by turning to the stock market. In July 2017, the company celebrated its IPO and debuted on Nasdaq First North, generating considerable excitement amongst investors who eagerly snapped up its shares. By the close of its first day of trading, Cimco Marine shares had soared by 23% over the issue price, reflecting solid investor confidence in the company’s ability to successfully leverage – and monetise – its technological edge.</strong></p>\r\n<p style=\"text-align: justify;\">The development of the OXE Diesel power plant represents a marine tech breakthrough that called for an out-of-the-box approach to outboard engine design. To increase both endurance and reliability, Cimco Marine engineers decided to ditch the prone-to-failure bevel gears and transfer shafts usually found in outboards with belt technology that allows for high torque transfers and a considerable increase in the engine’s endurance.</p>\r\n<p style=\"text-align: justify;\">Complying with NATO’s single fuel directive and thanks to its unequalled reliability, the OXE Diesel outboard is particularly popular with the military and law enforcement agencies. In order to meet demand from marine and fisheries patrol agencies, Cimco Marine also offers a 150 hp model.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is always happy to consider nominations of engineering companies that venture into uncharted waters, pushing the technological envelope, and identifying – and meeting – pent-up demand for a product not yet developed. Cimco Marine is such a company. Now that its high power OXE Diesel outboard engine is readily available – and making more than just proverbial waves – its absence can no longer be conceived. The judges are therefore pleased to grant Cimco Marine the 2017 Best Industrial Exporter IPO Sweden Award.</p>",
     "content_sha256": "f391edc3759b6b32d53576068b367eb8a8c9091cb942f1c5a5c0dcd4d0ba4eef",
-    "record_sha256": "b42755d8911211bca7667d1667d464982846221088a8dbaf2c2a6bf28cdb6c75"
+    "record_sha256": "1f20aa80349d5ae5fc14126333a637dc0fb3aaeb25518c858c1f8ea0e78b98c6"
 }

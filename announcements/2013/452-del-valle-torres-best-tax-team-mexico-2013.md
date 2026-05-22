@@ -7,6 +7,15 @@ published_gmt: 2013-04-10 14:15:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2013/del-valle-torres-best-tax-team-mexico-2013/"
 categories: ["Latin America", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a672e45493bb854affa6cb6bc329a8d3e44e03269b9035636b71d963abf0818
 canonical: 452-del-valle-torres-best-tax-team-mexico-2013.json
 ---

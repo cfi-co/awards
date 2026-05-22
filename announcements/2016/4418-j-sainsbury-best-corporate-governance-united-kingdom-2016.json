@@ -11,8 +11,21 @@
         "Best Practice",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-4419\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/Sainsburys-300x57.jpg\" alt=\"\" width=\"300\" height=\"57\" /></p>\r\n<p style=\"text-align: justify;\"><strong>With a market share of almost 17% of the United Kingdom’s supermarket sector, Sainsbury’s is one of Britain’s leading grocery retailers. The supermarket pillar is, however, only one of the four mainstays of J Sainsbury plc. The group also comprises Sainsbury’s Convenience Stores, Sainsbury’s Groceries Online and Sainsbury’s Bank, started in 1997 as a joint venture with Bank of Scotland.</strong></p>\r\n<p style=\"text-align: justify;\">While the descendants of John James – who in 1869 opened the grocery shop on Drury Lane in London that would eventually turn into a veritable retail empire – still maintain a sizeable stake in the business, the company went public in 1973 and now has the Qatar Investment Authority (QIA) as its single largest shareholder with a 26% participation in the company.</p>\r\n<p style=\"text-align: justify;\">Like few others in its sector, J Sainsbury has expertly navigated the ups and downs of its home market by rolling out novel retail concepts while keeping the tried-and-true in place. Sainsbury is no newcomer to innovation: the firm was one of the first to embrace then then-revolutionary concept of self-service shopping. In fact, its long-standing “quality foods at fair prices” has remained central to the Sainsbury brand throughout the company’s existence – delivered in different, yet recognisable ways, as consumer tastes and demands changed.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is happy to present J Sainsbury with the 2016 Best Corporate Governance United Kingdom Award.</p>",
     "content_sha256": "fc3a69fa60dc56b5cc36dfb7327148a2647edb6496426b985ab9d38982b26d54",
-    "record_sha256": "4dc2f1684a24c0fa4f17e5462748ecea519b6cb16da3c533d80c12f23ff3214e"
+    "record_sha256": "2bf5ceee8976ee7740066db03eb9aa9898918f2759823e70cc66bac5d93d67be"
 }

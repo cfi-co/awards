@@ -11,8 +11,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-12134 size-full\" title=\"Berenberg\" src=\"https://cfi.co/awards/wp-content/uploads/2023/12/Berenberg-jpg.webp\" alt=\"Berenberg\" width=\"400\" height=\"166\" />\r\n<p style=\"text-align: justify;\">In more than four centuries of operation, Berenberg has witnessed firsthand the truth of its corporate motto: change is the only constant. Germany's oldest privately owned bank has demonstrated a keen capacity for adaptation and steadfast commitment to client accountability. From origins in the textile trade and import-export business, Berenberg has evolved into one of the leading independent private banks of Europe. It specialises in wealth and asset management as well as investment and corporate banking and has established a strong presence in the financial centres of Frankfurt, London and New York. Berenberg’s investment consulting division advances the group’s legacy as a traditional bank emphasising exemplary customer service and relationship management. Berenberg Investment Consulting oversees the <a href=\"https://www.investopedia.com/terms/s/strategicassetallocation.asp\" target=\"_blank\" rel=\"noopener\">strategic asset allocation</a> (SAA) of the bank’s entire investment platform, managing around €40bn in assets from institutional investors, corporate pensions, single family offices, endowments and high-net-worth individuals. SAA development is a complex process that can determine up to 90 percent of the long-term investment success, so the team applies a research-backed and hi-tech approach to achieve robust and diversified allocation over time. A state-of-the-art technical platform allows the team to customise high-quality SAA studies in short work, which has proven a considerable advantage in an environment of ever-shorter capital market cycles. A recent academic collaboration, rooted in mathematics and data science research, is expected to boost investor value groupwide. The CFI.co judging panel announces Berenberg as the 2023 award winner for Best Strategic Asset Allocation Team (<a href=\"https://cfi.co/countries/germany/\">Germany</a>).</p>",
     "content_sha256": "531b9232ea801126fb11a038296d09514419cf4c62d76c95279fd180757d784a",
-    "record_sha256": "9a6413760ef02c37da27ef9fbbfbbecc146d2f0297c635b47ba498b8a2d63e25"
+    "record_sha256": "9bbf5c36497982e6ffbd0e98dfd04188c35d02c35cf2164e7aeb6280bd1d4bd1"
 }

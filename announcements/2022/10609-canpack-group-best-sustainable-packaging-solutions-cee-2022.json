@@ -12,8 +12,21 @@
         "Industries",
         "Manufacturing"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8140\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/CANPACK.jpg\" alt=\"CANPACK\" width=\"400\" height=\"295\" />\r\n<p style=\"text-align: justify;\">CANPACK has been an EcoVadis gold medallist for two consecutive years, ranking among the top two percent of socially responsible companies. It was just shy of winning the platinum medal, but feels confident — looking at a track record of consistent and continuous improvement — that it will level-up next year. CANPACK aligns operations in accordance with the Science-Based Targets initiative and the Paris Agreement. It measures environmental impacts and takes the necessary steps to curb emissions. CANPACK has already managed to reduce greenhouse gas emissions by 13.5 percent across its supply chain. CANPACK’s global plant network, spread across 19 countries, runs entirely off renewable energy. Geopolitical factors made this feat more difficult in some countries, but CANPACK persevered until each plant qualified as a sustainability champion. It’s the only one of the big packaging specialists to have reached this level of renewable-powered production. CANPACK conducts quarterly meetings with plants to incorporate resource usage — electricity, thermal, water, waste, recycling — into 2025 and 2030 targets. The group commits to realistic goals, careful never to over-promise and under-deliver. It works to bring suppliers on board with the sustainability agenda and collaborates with industry partners to amplify impacts. It created a zero-carbon can through a B2B partnership with Budweiser. CANPACK companies develop country-specific ESG initiatives, like promoting recycling in Brazil and sponsoring a green film festival in Poland. The CFI.co judging panel presents CANPACK Group — a repeat programme winner — with the 2022 award for Best Sustainable Packaging Solutions (CEE).</p>",
     "content_sha256": "a5dc3edb04643051eba8d59549203286ac11d83d5d2fa91bee402d3fe49de86a",
-    "record_sha256": "6e2f01c7c2a8251e469a653a3d44ecf869060c3e379ca9c937d228df5d36539e"
+    "record_sha256": "d2dcc9a5aaa93b437ae3c7ae6ca5ce9afbb08b5575ea66ed4c2ced0ee01d1e34"
 }

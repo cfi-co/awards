@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5464\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/Arca.jpg\" alt=\"Arca\" width=\"400\" height=\"135\" />\r\n<p style=\"text-align: justify;\">According to the CFI.co judging panel, “This award recognises the company's excellence in navigating the complex landscape of emerging market debt investments, delivering consistent value and performance to its clients.” Arca Fondi SGR stands out as a leader in the field for several core reasons. The team boasts a wealth of experience within the emerging markets debt sector, with an in-depth understanding of global economic dynamics and the can identify unique opportunities in these markets. Arca Fondi SGR is recognised for its forward-thinking investment strategies. It leverages advanced analytics, prudent risk management, and a willingness to explore new investment avenues to deliver exceptional outcomes. The company places an emphasis on understanding clients' needs and tailoring investment solutions that match their risk profiles and long-term financial goals. This fosters relationships of trust and underscores a total commitment to transparency. The firm has been a pioneer in incorporating Environmental, Social, and Governance (ESG) factors into its emerging markets debt strategies, driving responsible investing practices alongside positive financial outcomes. A commitment to the highest standards of investment management and enduring client-focus positions Arca as an industry leader. This was one of the first Investment Management Companies (SGR) founded in Italy and it has cherished the brand for over forty years, remaining faithful to the values that inspired the company’s foundation. A repeat-winner, the panel is delighted to confirm Arca Fondi SGR as 2024 winner of the award Best Emerging Markets Debt Manager (Europe).</p>",
     "content_sha256": "88da7caaee5041911fe623a5cd7f6a563259494d517dd88119094e1d2f538010",
-    "record_sha256": "480698811a782c78db1d7862c4ea2efc3f37730c17ba2c393b131603c5688e06"
+    "record_sha256": "1b2df90f44a43b0b6b61f4ea140ba898470ffb0b70bb324145ae4699e51b8c63"
 }

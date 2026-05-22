@@ -7,6 +7,15 @@ published_gmt: 2017-06-28 15:41:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2017/bfx-baron-fx-best-forex-consultancy-north-africa-2017/"
 categories: ["Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f07abef5db44169f6d424910c6fc77e4624b1c551f06252be565def8c9bcb830
 canonical: 4523-bfx-baron-fx-best-forex-consultancy-north-africa-2017.json
 ---

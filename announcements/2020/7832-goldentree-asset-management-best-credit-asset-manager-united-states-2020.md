@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:35:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/goldentree-asset-management-best-credit-asset-manager-united-states-2020/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ab6420f2f920beef57beb0a3792cc4a3968c2f05f651d4581dae4964bc05ea14
 canonical: 7832-goldentree-asset-management-best-credit-asset-manager-united-states-2020.json
 ---

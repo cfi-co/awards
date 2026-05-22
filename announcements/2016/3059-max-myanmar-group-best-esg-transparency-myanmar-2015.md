@@ -7,6 +7,15 @@ published_gmt: 2016-01-20 12:47:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/max-myanmar-group-best-esg-transparency-myanmar-2015/"
 categories: ["Asia Pacific", "Best Practice", "CSR", "Corporate Governance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 355771527ec04325a64f528707d8a4186d766a8ad6c4f5f75082067f56f728b0
 canonical: 3059-max-myanmar-group-best-esg-transparency-myanmar-2015.json
 ---

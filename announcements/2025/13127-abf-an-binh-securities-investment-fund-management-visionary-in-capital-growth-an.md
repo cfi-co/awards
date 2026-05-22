@@ -7,6 +7,15 @@ published_gmt: 2025-10-01 09:32:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/abf-an-binh-securities-investment-fund-management-visionary-in-capital-growth-and-investor-centric-solutions-vietnam-2025/"
 categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d8ac40522d5abe0a205dca4490eafa8717b7cd64d6905d075a6298559b66de3
 canonical: 13127-abf-an-binh-securities-investment-fund-management-visionary-in-capital-growth-an.json
 ---

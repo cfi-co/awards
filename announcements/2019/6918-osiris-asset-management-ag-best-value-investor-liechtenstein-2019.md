@@ -7,6 +7,15 @@ published_gmt: 2019-09-12 12:54:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/asset-management/2019/osiris-asset-management-ag-best-value-investor-liechtenstein-2019/"
 categories: ["Asset Management"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08fb49aa802ec4d1236c7041614fc118cd27e73e44e78e7f6c9412010828f1c5
 canonical: 6918-osiris-asset-management-ag-best-value-investor-liechtenstein-2019.json
 ---

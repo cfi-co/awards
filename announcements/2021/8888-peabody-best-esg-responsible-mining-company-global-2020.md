@@ -7,6 +7,15 @@ published_gmt: 2021-03-02 17:47:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/peabody-best-esg-responsible-mining-company-global-2020/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Mining", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb35e3dd2f86bed933d56708bc052b4cd26f968d05dbfaf5cf04ffb7b2d226b8
 canonical: 8888-peabody-best-esg-responsible-mining-company-global-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2018-10-12 14:16:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2018/treamo-best-multi-regulatory-reporting-solutions-europe-2018/"
 categories: ["Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c356bdea90920c9046918810bbd5fcc949dcdb14bff85a4873471f001d2311b
 canonical: 6089-treamo-best-multi-regulatory-reporting-solutions-europe-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-10-29 12:31:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/national-bank-of-greece-best-corporate-governance-greece-2024/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b6adac8550fbbdc3b7a90a05d9c9da3914f764c21384fbab4d6c6c6bb5248163
 canonical: 12830-national-bank-of-greece-best-corporate-governance-greece-2024.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-01-13 11:54:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/tactical-management-dwc-llc-best-private-equity-partner-gcc-2019/"
 categories: ["Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b80fcd90261a3288e0da0f178b9465ad2e26219a479f7b973dd6e390e767f04
 canonical: 7113-tactical-management-dwc-llc-best-private-equity-partner-gcc-2019.json
 ---

@@ -12,8 +12,21 @@
         "Finance",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4433\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/VanTrust.jpg\" alt=\"\" width=\"445\" height=\"97\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Operating in a mature and sophisticated market, VanTrust Capital has established a solid track record extracting consistently strong returns in a stable, yet highly competitive, environment. With a boutique-style approach that prioritises innovative investment solutions and excellence in the delivery of its services, Van Trust Capital’s focus is trained on three main areas of business: asset management, brokering and the engineering and placement of structured products tailored to precisely fit the requirements of individual investors.</strong></p>\r\n<p style=\"text-align: justify;\">The company maintains dedicated teams of seasoned professionals specialised in fixed and variable instruments on both the domestic and international markets. The teams provide a constantly updated stream of personalised market data to investors, allowing for informed and timely allocations.</p>\r\n<p style=\"text-align: justify;\">The VanTrust Capital asset management division designed a number of carefully assembled investment funds that ensure a perfect match between long-term return and risk mitigation. Through its financial services boutique, the company also helps high-net-worth individuals preserve and grow their wealth via bespoke portfolio management and the thorough analysis of investor expectations and global market conditions.</p>\r\n<p style=\"text-align: justify;\">VanTrust Capital occupies a unique position amongst brokerages and asset managers in Chile: the company is sufficiently large to allow for the development of specialisations and the attendant reservoirs of knowledge and expertise, while it remains nimble enough to quickly respond to changing market dynamics and demands. The CFI.co judging panel commends VanTrust Capital on its stellar performance and is pleased to offer the company the 2016 Best Securities Brokerage Chile Award.</p>",
     "content_sha256": "9c97d53012668ad399eb7c4a9991aec0a2809c0c1d36eafc71ee1dc48fae6e0b",
-    "record_sha256": "d5d28b4ae11c3ec551ce8365e25402f5583a6456f13726e30cbfe042a0926f8b"
+    "record_sha256": "d7fe048c95c324e8795cc0044064711efc07e7e8473f7faa8652d6b18a7c95ea"
 }

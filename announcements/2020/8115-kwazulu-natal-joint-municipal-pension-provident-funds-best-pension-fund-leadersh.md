@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:24:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/kwazulu-natal-joint-municipal-pension-provident-funds-best-pension-fund-leadership-south-africa-2020/"
 categories: ["Africa", "Corporate Leadership"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f28817e59bf360ca1a5ae3bca8c4b0d2a3d1e20b03306d3e92489c9ad679f403
 canonical: 8115-kwazulu-natal-joint-municipal-pension-provident-funds-best-pension-fund-leadersh.json
 ---

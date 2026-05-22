@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 12:10:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/moneymailme-best-social-payments-app-united-kingdom-2017/"
 categories: ["Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 34557932ff3d64579d1f77802a995113bb218587667431927b656601c5f6fd4e
 canonical: 4285-moneymailme-best-social-payments-app-united-kingdom-2017.json
 ---

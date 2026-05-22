@@ -7,6 +7,15 @@ published_gmt: 2024-10-16 10:55:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/banco-ficensa-best-customer-centric-bank-honduras-2024/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c2818bdc1e35f3387e6af5160d28737952daca3fcee316243223a5d84d56be0
 canonical: 12654-banco-ficensa-best-customer-centric-bank-honduras-2024.json
 ---

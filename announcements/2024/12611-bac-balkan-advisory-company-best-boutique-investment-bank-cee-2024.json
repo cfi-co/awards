@@ -11,8 +11,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7982\" src=\"https://cfi.co/awards/wp-content/uploads/2020/07/BAC.jpg\" alt=\"BAC\" width=\"400\" height=\"158\" />\r\n<p style=\"text-align: justify;\">BAC (Balkan Advisory Company) has developed an impressive reputation over 21 years of operations, particularly in the energy sector. The firm is well-recognised for its commitment to sustainability and is a prominent player in the global transition to cleaner energy. BAC is dedicated to advancing green energy initiatives, with a strong focus on electric vehicles, battery technology, and other key areas of the energy transition. Its efforts are particularly notable in Eastern Europe, where the company is working to shift the region’s reliance on coal towards more sustainable energy sources. This work is crucial, given the energy challenges exacerbated by the war in Ukraine. BAC also has a global focus, with a portfolio that includes 25 successful projects in major markets such as the USA and China. Its investment banking expertise is complemented by a growing asset management practice, which is focused on unlocking opportunities in the private energy sector. The firm is deeply involved in managing and regulating securities in this space, continuing to demonstrate its leadership in sustainability. BAC has recently launched a new fund targeting energy transition opportunities in Central and Eastern Europe, further solidifying its role as a key player in the sector. The firm’s commitment to green energy is underscored by its broad-based approach, which combines investment banking and asset management with a strong focus on environmental sustainability. The CFI.co Judging Panel congratulates BAC on winning the 2024 award for Best Boutique Investment Bank (CEE).</p>",
     "content_sha256": "f42ba66018bf24aacdb2469461f6fe4140b9e6abe0484d14d4c6c0c9e1c41d84",
-    "record_sha256": "25f01e3a0edbdcebc09f6c4b6e800ab9e8e4a7c773df94fa29e97dc95fec1132"
+    "record_sha256": "980553fce805edf57c9eb938a7b6364bb7428367c7ba9bc21ca40ea955183f0e"
 }

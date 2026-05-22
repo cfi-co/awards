@@ -7,6 +7,15 @@ published_gmt: 2020-01-08 15:10:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/nordea-asset-management-best-institutional-investment-management-europe-2019/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2e9040e79603e28844010ba93e21974f3fe3cecc3f0fef4ca64728245cf45b8f
 canonical: 7095-nordea-asset-management-best-institutional-investment-management-europe-2019.json
 ---

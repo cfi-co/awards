@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 14:10:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/cfi-financial-group-best-online-financial-trading-services-mena-2021/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bcb8374de3b27c5ff23547317131320ee7b1d949c9889b3a7404545fece71af7
 canonical: 9780-cfi-financial-group-best-online-financial-trading-services-mena-2021.json
 ---

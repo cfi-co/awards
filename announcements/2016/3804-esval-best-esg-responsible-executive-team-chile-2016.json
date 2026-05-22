@@ -15,8 +15,21 @@
         "Latin America",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter wp-image-3805\" src=\"https://cfi.co/awards/wp-content/uploads/2017/02/Esval.jpg\" alt=\"\" width=\"540\" height=\"198\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The first water utility in Chile open to private investors, Esval has since 1999 invested heavily and consistently in the upgrading of its distribution network in the port city of Valparaíso and the surrounding region – the most densely populated in the country after metropolitan Santiago de Chile.</strong></p>\r\n<p style=\"text-align: justify;\">Almost $380m has been destined for the modernisation and expansion of the water grid and the construction of water treatment plants that have helped clean up the area’s popular beaches and vastly improve water quality. Recently, Esval finished the water treatment works in San Antonio, ensuring the decontamination of all the city’s effluents.</p>\r\n<p style=\"text-align: justify;\">The company has replicated its approach elsewhere in Chile. In 2003, Esval acquired Aguas del Valle, now a wholly-owned subsidiary, in the Coquimbo Region to the north of Valparaíso where it expects a brand new water treatment facility to start operations shortly.</p>\r\n<p style=\"text-align: justify;\">With over two million clients in its home region, Esval has gained a solid reputation for service excellence and network maintenance. The company’s over 1,600 professionals ensure the delivery of potable water to the inhabitants of five provinces straddling a topographically challenging area that includes mountain ranges and arid flatlands. Esval has been a pioneer in promoting environmentally sound business practices, stakeholder participation and transparent corporate governance.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends Esval on its adherence to the highest engineering and customer service standards. The judges are pleased to declare Esval winner of the 2016 Best ESG-Responsible Executive Team Chile Award.</p>",
     "content_sha256": "c89a62cdb39c10848c76eb4c3bcd3815e5c57b74b4369fc87da35b50bf666c40",
-    "record_sha256": "a1fe1f627ec7afd690d6dc1eb7216749fda2240235d84a012d43b863f5ec24ff"
+    "record_sha256": "6a53015ad8f1e1590c59908e7e78790e553ffa35a58a0396a6e8d5f8efeebdc7"
 }

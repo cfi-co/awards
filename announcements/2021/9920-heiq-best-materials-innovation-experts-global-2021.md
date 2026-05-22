@@ -7,6 +7,15 @@ published_gmt: 2021-12-21 07:52:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/heiq-best-materials-innovation-experts-global-2021/"
 categories: ["Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 612e0adea14ae1714109cdd72d69520d96cae8a21d9f57cac283b61fd3b90be9
 canonical: 9920-heiq-best-materials-innovation-experts-global-2021.json
 ---

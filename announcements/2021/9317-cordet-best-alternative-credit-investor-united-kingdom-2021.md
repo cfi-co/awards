@@ -7,6 +7,15 @@ published_gmt: 2021-07-05 10:54:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/cordet-best-alternative-credit-investor-united-kingdom-2021/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1ed0232521859f6c36428325f20044444bf6bebd928b174f0047ea7b3a3722e3
 canonical: 9317-cordet-best-alternative-credit-investor-united-kingdom-2021.json
 ---

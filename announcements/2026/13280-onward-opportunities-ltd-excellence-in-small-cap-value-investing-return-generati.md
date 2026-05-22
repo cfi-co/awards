@@ -7,6 +7,15 @@ published_gmt: 2026-01-22 13:07:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/onward-opportunities-ltd-excellence-in-small-cap-value-investing-return-generation-uk-2025/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 16bf1506d1363560a67c26a713ec6904ce7d72fd71cf1f892a622cab492c1330
 canonical: 13280-onward-opportunities-ltd-excellence-in-small-cap-value-investing-return-generati.json
 ---

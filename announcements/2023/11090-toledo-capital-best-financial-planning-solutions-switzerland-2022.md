@@ -7,6 +7,15 @@ published_gmt: 2023-01-23 15:11:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/toledo-capital-best-financial-planning-solutions-switzerland-2022/"
 categories: ["Asset Management", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e0957e42b34a359434d08ed88b698c8273964b2caf46f8f9257fabdfa1600b7
 canonical: 11090-toledo-capital-best-financial-planning-solutions-switzerland-2022.json
 ---

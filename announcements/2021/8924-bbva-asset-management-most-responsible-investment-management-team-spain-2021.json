@@ -14,8 +14,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8925\" src=\"https://cfi.co/awards/wp-content/uploads/2021/03/BBVA-Asset-Management.jpg\" alt=\"BBVA Asset Management\" width=\"433\" height=\"116\" />\r\n<p style=\"text-align: justify;\">BBVA Asset Management (AM) has set out to integrate sustainability commitments throughout every aspect of the organisation. BBVA asset managers prioritise sustainability as key for long-term impacts, and have begun to integrate ESG criteria throughout the investment process. The firm urges industry stragglers to get on-board or risk getting left behind as new EU regulations change the investment landscape. BBVA AM has seen a surge of demand for ESG-focused products from clients and investors, and it expects this to become a core part of its business model. It conducts an ESG analysis to measure carbon emissions and environmental practices of each company in its portfolio. Social impacts and governance practices are also considered. BBVA AM serves as the investment management arm of BBVA Group in Spain, where the group is headquartered, as well as Portugal, Luxembourg, Turkey, Mexico, Peru, Colombia and Argentina. The firm builds on more than 40 years of experience in asset management and has more than 700 employees, including 150 internationally certified investment experts. With €110bn in AUM, BBVA AM offers three flagship vehicles for responsible investing: a sustainable development equity fund, sustainable fixed-income fund, and a sustainable balanced fund. BBVA AM has distributed nearly €1.2m between 28 charities as part of its sustainable balanced fund, BBVA Futuro Sostenible, and plans to share another €1m between 23 projects this year. The CFI.co judging panel presents <a href=\"https://cfi.co/menu/corporate/2021/07/bbva-asset-management-going-global-in-the-battle-to-bring-sustainability-to-the-wider-world-of-investment/\">BBVA Asset Management</a> with the 2021 award for Most Responsible Investment Management Team (Spain).</p>\r\n[gallery size=\"medium\" link=\"file\" ids=\"8931,8930,8927,8928,8929,8932\"]",
     "content_sha256": "d4dd7cf3f19988d67c29ce5cfeeecec966cfd4679a54410b2bd0d60ccad466a8",
-    "record_sha256": "2ef376cb23b3b725f3bff034c16861ac7fb84c5c2acf285fb882fab71794ec03"
+    "record_sha256": "75e9aac17677156610d08a8d1a2e19d79b64a565b48e636010c640516178064e"
 }

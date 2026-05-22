@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:46:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/bawag-group-ag-best-banking-group-governance-dach-2021/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb870251685b09a80172e18247e599327b92bdcd40d90a9fe74ac4571a3932b3
 canonical: 9373-bawag-group-ag-best-banking-group-governance-dach-2021.json
 ---

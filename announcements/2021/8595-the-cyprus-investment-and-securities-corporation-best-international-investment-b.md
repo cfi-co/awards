@@ -7,6 +7,15 @@ published_gmt: 2021-01-04 15:57:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/the-cyprus-investment-and-securities-corporation-best-international-investment-banking-team-cyprus-2020/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 36e68c2df02bbc8e5e184ee6bfd338c3c983dc917519a1f62e8b7a7bbd9311b7
 canonical: 8595-the-cyprus-investment-and-securities-corporation-best-international-investment-b.json
 ---

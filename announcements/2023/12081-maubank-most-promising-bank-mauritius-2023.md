@@ -7,6 +7,15 @@ published_gmt: 2023-11-20 12:04:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/maubank-most-promising-bank-mauritius-2023/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4acbf91354a691633b15784ad9f542ce8f8d92aeaed1a21384a0880442ef2ae3
 canonical: 12081-maubank-most-promising-bank-mauritius-2023.json
 ---

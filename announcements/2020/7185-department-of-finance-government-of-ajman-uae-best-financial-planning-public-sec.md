@@ -7,6 +7,15 @@ published_gmt: 2020-01-20 10:25:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/department-of-finance-government-of-ajman-uae-best-financial-planning-public-sector-uae-2019-best-budgeting-systems-procedures-public-sector-uae-2019/"
 categories: ["Best Practice", "Development", "Finance", "Government", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2ec3d500a6b3cc387caa6885b7cf79428cf1aa12aac33968f913d619f70ac59d
 canonical: 7185-department-of-finance-government-of-ajman-uae-best-financial-planning-public-sec.json
 ---

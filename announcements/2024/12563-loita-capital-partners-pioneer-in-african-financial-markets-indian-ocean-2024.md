@@ -7,6 +7,15 @@ published_gmt: 2024-09-12 12:00:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2024/loita-capital-partners-pioneer-in-african-financial-markets-indian-ocean-2024/"
 categories: ["Africa", "Finance", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db217e190377fc0edb24b18c29add363773b02a81366e0d9dfff052678f66b2e
 canonical: 12563-loita-capital-partners-pioneer-in-african-financial-markets-indian-ocean-2024.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-03-03 11:04:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/panthera-solutions-most-innovative-boutique-asset-allocation-consultancy-europe-2019/"
 categories: ["Asset Management", "Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 181c3297296f2ccf00ef3b370ee18041b5115ab1368b4209a8e897e74d0ea321
 canonical: 7273-panthera-solutions-most-innovative-boutique-asset-allocation-consultancy-europe-.json
 ---

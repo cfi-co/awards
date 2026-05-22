@@ -7,6 +7,15 @@ published_gmt: 2014-01-21 14:14:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/esn-partnership-wins-cfi-co-award-for-equity-research-in-europe-2013/"
 categories: ["Development", "Europe", "Finance", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 406b4a6c865803c8ea67ce28f29b7c583073ebdf27ae7d03ba3ad42aea26bfed
 canonical: 1095-esn-partnership-wins-cfi-co-award-for-equity-research-in-europe-2013.json
 ---

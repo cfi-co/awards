@@ -7,6 +7,15 @@ published_gmt: 2022-05-13 07:27:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/kbc-asset-management-nv-best-asset-management-team-belgium-2022/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 74e90ba58912f6e3571f0afb13f6ea91760548952ecf45bc0db6abca50f6c0b9
 canonical: 10437-kbc-asset-management-nv-best-asset-management-team-belgium-2022.json
 ---

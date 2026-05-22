@@ -7,6 +7,15 @@ published_gmt: 2024-04-26 12:34:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2024/region-ile-de-france-best-in-class-bond-lssuer-global-2024/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7346f8dd206dec28aa4508ae0108ede20ccaa4bccc1f58e146153c6c1c01f4e7
 canonical: 12353-region-ile-de-france-best-in-class-bond-lssuer-global-2024.json
 ---

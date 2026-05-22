@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 14:19:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/barclays-bank-of-botswana-limited-best-inclusive-finance-bank-botswana-2019/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 68462a6c92c9b77d61b09e997734179646625b20bcbc9449c51ecb517dbf375c
 canonical: 7736-barclays-bank-of-botswana-limited-best-inclusive-finance-bank-botswana-2019.json
 ---

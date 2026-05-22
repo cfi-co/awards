@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7758\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Atlas-Mara.jpg\" alt=\"Atlas-Mara\" width=\"400\" height=\"64\" />\r\n<p style=\"text-align: justify;\">Atlas Mara is a financial services group listed on the London Stock Exchange with presence in seven sub-Saharan countries. Atlas Mara Zambia joined the group as an amalgamation of Finance Bank Zambia and African Banking Corporation Zambia in 2016. Atlas Mara Zambia is a full-service commercial bank with a network of 65 branches, 23 agencies and 176 ATMs across the country. It ranks among the top Zambian banks for revenue and branch footprint, pairing global experience and local insights to drive innovation and financial inclusion. Atlas Mara Zambia is a reliable financial partner for individuals and families, corporates and SMEs, governments and non-profit agencies. Digital banking services are extended through the wallet app, with interest-free salary advances, emergency loans, and a suite of payments, transfers and top-ups. The digital group savings scheme — a form of “village banking”, where deposits and withdrawals come from a communal pot — has proven particularly popular with women. Atlas Mara Zambia supports government initiatives and helps with the procurement and distribution of subsidies for low-income farmers. It has delivered 100,000 solar power kits to off-grid areas, bringing major community benefits to rural schools and hospitals. It also partners with non-profits to increase financial literacy and support at-risk youth. The CFI.co judging panel declares Atlas Mara Bank Zambia winner of the 2020 award for Best Commercial Bank (Zambia).</p>",
     "content_sha256": "8e72414578df4808f5a4a815bafd310b7da1e847ee530650856b94ef5003bfc0",
-    "record_sha256": "59f05ef0b8a43e4bc6a08acb247a991c7ba038b06783d2e65a7b63c7a1f803a5"
+    "record_sha256": "a0b865a8849502f8e4591deed5aafeb1a71eb9c9567d2fddac61d788d8826072"
 }

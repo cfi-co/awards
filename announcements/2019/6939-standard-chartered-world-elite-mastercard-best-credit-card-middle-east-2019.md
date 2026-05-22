@@ -7,6 +7,15 @@ published_gmt: 2019-10-22 11:14:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/standard-chartered-world-elite-mastercard-best-credit-card-middle-east-2019/"
 categories: ["Banking", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 081194f415b62509e5a6cc325251495c0468d655e617d949dcea300150b7e302
 canonical: 6939-standard-chartered-world-elite-mastercard-best-credit-card-middle-east-2019.json
 ---

@@ -14,8 +14,21 @@
         "Finance",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8531\" src=\"https://cfi.co/awards/wp-content/uploads/2020/12/ARA.jpg\" alt=\"ARA\" width=\"400\" height=\"106\" />\r\n<p style=\"text-align: justify;\"><strong>Singapore-based ARA Asset Management employs a forward-looking strategy to power a fully diversified suite of investment funds, including listed and unlisted real estate investment trusts (REITs), private real estate equity and credit funds, and infrastructure funds. The asset manager maintains a presence in 28 countries, spanning 4 continents. Its dedicated teams not only provide local expertise but also professional real estate management services.</strong></p>\r\n<p style=\"text-align: justify;\">On behalf of a private fund, ARA Asset Management just completed the acquisition of Tower II of the landmark Parc 1 office complex in Seoul, South Korea, cementing its long-standing partnership with local partner NH Investment and Securities in what was hailed as the country’s biggest real estate transaction so far this year.</p>\r\n<p style=\"text-align: justify;\">Over its 18-year history, ARA Asset Management has established an unmatched reputation for strong corporate governance and integrity. This has attracted some of the world’s largest pension funds, sovereign wealth funds, and family offices to the company. ARA Asset Management now has over USD$82 billion in assets under management.</p>\r\n<p style=\"text-align: justify;\">The firm was an early adopter of comprehensive environmental, social, and governance (ESG) standards which were incorporated into its decision-making and operational processes. The CFI.co judging panel also appreciates that ARA Asset Management prioritises good corporate citizenship as a key contributor to its performance and a differentiator that helps the company preserve and expand its leading edge.</p>\r\n<p style=\"text-align: justify;\">The judges agree that such a thorough approach to business sustainability ensures consistently superior outcomes for all stakeholders. The judging panel declares <a href=\"https://cfi.co/menu/corporate/2020/11/ara-asset-management-reit-pioneer-wins-recognition-for-its-transformative-efforts-in-sustainability/\">ARA Asset Management</a> winner of the 2020 Best Sustainable REIT Fund Manager Asia-Pacific Award.</p>",
     "content_sha256": "cdf5dfa453179bb14b371a5644d994af5a68912bd76c8f72445852cf8953f8ec",
-    "record_sha256": "40fca8e96f512e12cc59aeebe242242716a78e66559d83acf4194854ec5f4a22"
+    "record_sha256": "ef4cebf4a2a0c78a73d03dc4e29e0081ed742194b4e68bf303726f707bc9f8a1"
 }

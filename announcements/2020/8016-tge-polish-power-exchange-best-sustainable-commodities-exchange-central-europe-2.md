@@ -7,6 +7,15 @@ published_gmt: 2020-07-23 08:06:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2020/"
 categories: ["Best Practice", "Europe", "Exchanges &amp; Brokers", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0009a6241fa54122868196e3ef324cf49d1f7c6fce76dfb9d1ca99584610c147
 canonical: 8016-tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2.json
 ---

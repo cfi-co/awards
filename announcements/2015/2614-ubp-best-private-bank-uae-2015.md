@@ -7,6 +7,15 @@ published_gmt: 2015-05-05 13:49:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/ubp-best-private-bank-uae-2015/"
 categories: ["Banking", "Europe", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4e144e59b6be99757bcde0ce4cd85e15f5ef5162ff4356569354fe79af8b070f
 canonical: 2614-ubp-best-private-bank-uae-2015.json
 ---

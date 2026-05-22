@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:10:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/aluminium-bahrain-most-innovative-aluminium-solutions-gcc-2017/"
 categories: ["Industries", "Manufacturing", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3bb26537116654e9da8ef0ec0acf18cab5561fd4e42ee2fc7b29c60f80aa102f
 canonical: 4744-aluminium-bahrain-most-innovative-aluminium-solutions-gcc-2017.json
 ---

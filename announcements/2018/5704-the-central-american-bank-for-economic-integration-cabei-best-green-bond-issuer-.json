@@ -8,8 +8,21 @@
     "published_gmt": "2018-05-30 08:02:17",
     "modified_gmt": "2026-01-22 12:14:10",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>CABEI last year launched its first-ever green bond. The four-year ZAR denominated bonds were sold to retail investors in Japan and raised ZAR 1,032,000 equivalent to US$72,865.918. The move came in the wake of a decision by the bank’s authorities  to promote, support, and help underwrite initiatives and projects aimed at mitigating climate change effects. In the same vein, the bank has been accredited by the Green Climate Fund to channel financial resources to the public and private sector of its Member Countries to implement adaptation and mitigation projects to support the country efforts to deal with Climate Change.</strong></p>\r\n<p style=\"text-align: justify;\">Founded in 1960, CABEI´s objective is to promote the economic integration and the balanced economic and social development of the Central American region, which includes the founding countries and the non-founding regional countries, attending and aligning itself with the interests of all of its member countries. CABEI seeks to maximize the impact of its operations on Sustainable Economic Development of the Region and Sustainable Development Goals (SDGs) of the of the 2030 Agenda for Sustainable Development.</p>\r\n<p style=\"text-align: justify;\">The bank is recognized as a pioneer of sustainability in Central America and during the period 2010-2015, 67% (US$5.11 billion) of its approvals included activities on mitigation and adaptation to Climate Change. Moreover from 1960 to 2016 CABEI has approved energy projects of more than US$5,800 million, which increased installed capacity for approximately 5,920 MW (mostly from renewable sources) which accounted for more than 38.0% of the total power generated in the region.</p>\r\n<p style=\"text-align: justify;\">The bank has its headquarter in Tegucigalpa (Honduras), and has offices in Guatemala, El Salvador, Nicaragua and Costa Rica, with an advanced process to open offices in Panama in 2017. CABEI has also welcomed Non-founding regional members such as Belice, Panama, and Dominican Republic as well as extra-regional members such as the Republic of China Taiwan, Mexico, Argentina, Colombia, and Spain.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel congratulates CABEI on its successful entry into the buoyant green bond market and declares the bank winner of the 2017 Best Green Bond Issuer Latin America Award.</p>",
     "content_sha256": "4ff73435c2714baf3bbe3d03a882ac016f3081c47be25044e4a9f5031e1d3b85",
-    "record_sha256": "73cc7b5409257d75f9985904086a3eaeee64e00bb79856da87ec0d03eac5a501"
+    "record_sha256": "07b019402d1b3e34996d5f2cf4a4ff547be13d8ab5588ec133542dd92ce50b39"
 }

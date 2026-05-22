@@ -7,6 +7,15 @@ published_gmt: 2020-12-03 11:11:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/credit-mutuel-asset-management-most-responsible-fund-manager-france-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb307a1fdf647df583264b958bc72920370dec4d27004a2036f2ddf88d984398
 canonical: 8534-credit-mutuel-asset-management-most-responsible-fund-manager-france-2020.json
 ---

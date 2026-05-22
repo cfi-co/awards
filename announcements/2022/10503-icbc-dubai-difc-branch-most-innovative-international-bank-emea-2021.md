@@ -7,6 +7,15 @@ published_gmt: 2022-05-17 06:26:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/icbc-dubai-difc-branch-most-innovative-international-bank-emea-2021/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 201675ab30893c0a56dc03f6071a4a769e5f3b61af243a6253bdf5299a46e158
 canonical: 10503-icbc-dubai-difc-branch-most-innovative-international-bank-emea-2021.json
 ---

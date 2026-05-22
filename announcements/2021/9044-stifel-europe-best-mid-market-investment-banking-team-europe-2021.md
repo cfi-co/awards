@@ -7,6 +7,15 @@ published_gmt: 2021-04-19 07:00:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/stifel-europe-best-mid-market-investment-banking-team-europe-2021/"
 categories: ["Banking", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2001ab6d45b15c0d362275bfbd006bf61de69e419ca2068e097a007b852298bd
 canonical: 9044-stifel-europe-best-mid-market-investment-banking-team-europe-2021.json
 ---

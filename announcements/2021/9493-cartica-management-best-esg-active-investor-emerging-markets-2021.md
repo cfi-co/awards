@@ -7,6 +7,15 @@ published_gmt: 2021-10-01 06:00:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/cartica-management-best-esg-active-investor-emerging-markets-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 718cea3533c600753f375d1cbb17e30ee787ddb2e3d08d305b1349b73d838632
 canonical: 9493-cartica-management-best-esg-active-investor-emerging-markets-2021.json
 ---

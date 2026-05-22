@@ -7,6 +7,15 @@ published_gmt: 2024-10-31 17:48:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2024/al-nahla-group-outstanding-contribution-to-economic-diversification-saudi-arabia-2024/"
 categories: ["Development", "Government", "Middle East", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 12d9f4425f023c5bbb6652bc9370d081b594a1549041386d71190beb190a92fc
 canonical: 12691-al-nahla-group-outstanding-contribution-to-economic-diversification-saudi-arabia.json
 ---

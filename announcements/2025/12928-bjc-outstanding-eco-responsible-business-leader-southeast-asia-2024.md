@@ -7,6 +7,15 @@ published_gmt: 2025-04-15 14:14:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2025/bjc-outstanding-eco-responsible-business-leader-southeast-asia-2024/"
 categories: ["Asia Pacific", "Corporate Leadership", "Industries", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f3b084186bd5cc736c8614c3b2837edfe98c23482a16ade3478cbb2f0105e380
 canonical: 12928-bjc-outstanding-eco-responsible-business-leader-southeast-asia-2024.json
 ---

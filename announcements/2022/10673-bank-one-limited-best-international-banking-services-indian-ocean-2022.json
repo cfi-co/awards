@@ -11,8 +11,21 @@
         "Asia Pacific",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6023\" src=\"https://cfi.co/awards/wp-content/uploads/2018/09/BankOne.png\" alt=\"Bank One\" width=\"349\" height=\"66\" />\r\n<p style=\"text-align: justify;\">Mauritian-based Bank One is uniquely positioned as a strong and reliable banking partner “from Africa, for Africa”. Bank One was formed as a joint venture between CIEL Finance, the finance arm of Mauritian conglomerate CIEL Group and Kenya-based I&amp;M Group PLC. The combined footprint of its shareholders in SSA provides Bank One with a physical presence in sub-Saharan Africa, which no other local bank currently has. It serves more than 50,000 domestic and international customers, developing customised services in the areas of international banking, corporate banking, private banking, treasury operations, and personal financial services. In line with its strategy to extend its footprint in Africa, Bank One has increased its coverage and credit appetite in key African markets over the past couple of years. The Bank, has namely, successfully deepened its relationships with Central Banks in sub-Saharan Africa (SSA) to provide currency swap solutions for their liquidity management needs. The Bank has also on-boarded several banks in Southern, Central and West Africa. In June 2022, Fitch, one of the world’s largest ratings agencies, has assigned Bank One a long-term rating (IDR) of BB- with a Stable Outlook. The new rating places Bank One in the top 15 most highly rated commercial banks in SSA. The CFI.co judging panel presents Bank One — a repeat programme winner — with the 2022 award for Best International Banking Services (Indian Ocean).</p>",
     "content_sha256": "6a98e26dcb5d9c682f9f1dbca7dcd963fb1e0526193570e9c18f54d400b03ed0",
-    "record_sha256": "29ee7def36301068efba9fff85edd7a1fa4d3ecc43a7e25b1c4333a01b8b147b"
+    "record_sha256": "db6b427fc1178343cad8add972c743cd8388c97872877166ab35fc5447e13840"
 }

@@ -7,6 +7,15 @@ published_gmt: 2020-08-31 10:40:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/first-capital-bank-botswana-limited-best-commercial-bank-growth-botswana-2020/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5b64255e9dfb332c5ed3e86b2373b223dcfefb6bae9d61829f510132e52e6a9
 canonical: 8173-first-capital-bank-botswana-limited-best-commercial-bank-growth-botswana-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-10-15 15:31:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/exim-hungary-best-cross-border-financing-bank-hungary-2021/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94d1ea13b820a9637a6e4074f7653da469516459912e8d557bbb12d1f6152735
 canonical: 9652-exim-hungary-best-cross-border-financing-bank-hungary-2021.json
 ---

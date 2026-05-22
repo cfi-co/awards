@@ -7,6 +7,15 @@ published_gmt: 2019-12-03 18:47:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2019/manulife-investment-management-best-esg-team-north-america-2019/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f14e41d06899aff24f2c4e893a183b064cfca4be4c8ef99152f5554da39ec29c
 canonical: 6994-manulife-investment-management-best-esg-team-north-america-2019.json
 ---

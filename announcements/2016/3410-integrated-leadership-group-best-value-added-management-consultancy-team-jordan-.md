@@ -7,6 +7,15 @@ published_gmt: 2016-08-25 14:24:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/integrated-leadership-group-best-value-added-management-consultancy-team-jordan-2016/"
 categories: ["Consultancies", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5c5830ae88b55fab50bb925c81eb68bbdfcef3f147fe220cdc35a592a90172e7
 canonical: 3410-integrated-leadership-group-best-value-added-management-consultancy-team-jordan-.json
 ---

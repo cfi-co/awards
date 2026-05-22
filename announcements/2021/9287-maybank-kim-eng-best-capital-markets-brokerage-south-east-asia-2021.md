@@ -7,6 +7,15 @@ published_gmt: 2021-06-28 08:30:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/maybank-kim-eng-best-capital-markets-brokerage-south-east-asia-2021/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 97795bc48f5d5e7cbbbfdbcc8e52528cdbb4d392eb30eb4ccb3bf350da4ec5bb
 canonical: 9287-maybank-kim-eng-best-capital-markets-brokerage-south-east-asia-2021.json
 ---

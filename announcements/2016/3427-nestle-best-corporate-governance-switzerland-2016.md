@@ -7,6 +7,15 @@ published_gmt: 2016-08-26 12:11:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/nestle-best-corporate-governance-switzerland-2016/"
 categories: ["Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d4ae6f9d173cb069ae0b249f5bf14d5dad355e43d3464c4f1fc97095491430d
 canonical: 3427-nestle-best-corporate-governance-switzerland-2016.json
 ---

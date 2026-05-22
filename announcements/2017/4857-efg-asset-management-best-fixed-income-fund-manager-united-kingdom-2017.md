@@ -7,6 +7,15 @@ published_gmt: 2017-10-19 13:12:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2017/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e55e1531340ffb7915064dfa73cf0b59ad00b8344b73445762ba6759c2fc7410
 canonical: 4857-efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2017.json
 ---

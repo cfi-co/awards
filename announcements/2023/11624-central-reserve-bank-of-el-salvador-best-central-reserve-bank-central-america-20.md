@@ -7,6 +7,15 @@ published_gmt: 2023-07-07 10:45:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2023/central-reserve-bank-of-el-salvador-best-central-reserve-bank-central-america-2023/"
 categories: ["Banking", "Development", "Government", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de869febe31ff1b27dd015e49dcb693fa874196b08c9e10ae2fd679080af9d51
 canonical: 11624-central-reserve-bank-of-el-salvador-best-central-reserve-bank-central-america-20.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-10-11 11:29:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/mitech-best-trade-finance-software-solutions-global-2023/"
 categories: ["Europe", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ff5907e6ff15d3f1fb0904b09d36425877d99cae2e2542ec8d10321f16ba6ce
 canonical: 11982-mitech-best-trade-finance-software-solutions-global-2023.json
 ---

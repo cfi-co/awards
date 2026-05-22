@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 12:57:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/african-open-sky-best-pan-african-aviation-services-provider-africa-2018/"
 categories: ["Africa", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a78b390d0991a587b9f8995b376925f5941502ecd038b55acf0f2c40b9f03a4
 canonical: 5700-african-open-sky-best-pan-african-aviation-services-provider-africa-2018.json
 ---

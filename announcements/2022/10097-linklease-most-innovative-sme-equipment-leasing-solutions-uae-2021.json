@@ -15,8 +15,21 @@
         "Professional Services",
         "Transport"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7229\" src=\"https://cfi.co/awards/wp-content/uploads/2020/02/Linklease.jpg\" alt=\"Linklease\" width=\"600\" height=\"134\" />\r\n<p style=\"text-align: justify;\">Linklease continues to strive to close the financing gap for SMEs with equipment leasing solutions that free-up cashflow, enhance operations and unlock growth. Linklease tailors leasing agreements for clients who need equipment and those who want to liquidate assets and lease them back. It also offers inventory management services with GPS tracking and RFID tagging technology, to enable SMEs to monitor and control valuable equipment. Over the past 8 years, Linklease has expanded its SME asset-based financing model, connecting smaller businesses looking for leasing options with investors seeking fixed-income bonds. Linklease announced its third bond in October 2021. The first two bonds, issued in December 2018 and July 2020, have delivered on-time and with full payments to investors — a testament to the consistent cashflow in the Linklease business model. The bond programme provides Linklease with capital for new deals across various industries: clean energy, healthcare, transport, manufacturing, construction and logistics. The company is launching an app to allow investors to explore practical ownership opportunities of return-generating equipment. It would allow them to own a slice of an MRI machine or the wheel of a private jet. Linklease is looking to implement a club format for private jet travel as demand for this service is up 450 percent in the Middle East. The CFI.co jury presents repeat winner Linklease with the 2021 Most Innovative SME Equipment Leasing Solutions (UAE) award.</p>",
     "content_sha256": "00b422d468a3188d4f2cc3e5614d084cbfb053152697352914ec75c297389a80",
-    "record_sha256": "84380232a43c93699048d6a00747e5609993febb2cc16e33fc49f65277d49c07"
+    "record_sha256": "67a732a9313b0860b43301454acf598f7da5766b310f850aee069239f807070b"
 }

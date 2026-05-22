@@ -7,6 +7,15 @@ published_gmt: 2024-04-18 14:57:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/intesa-sanpaolo-bank-albania-best-bank-albania-2024/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bb5855db84830439c40524f4e51f8ef469ee800633a319a82fc29c8444812dfb
 canonical: 12593-intesa-sanpaolo-bank-albania-best-bank-albania-2024.json
 ---

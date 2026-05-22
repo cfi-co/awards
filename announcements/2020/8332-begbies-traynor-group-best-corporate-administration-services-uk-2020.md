@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:12:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/begbies-traynor-group-best-corporate-administration-services-uk-2020/"
 categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 98abb4c8d71acf3bdf84771bd4e97e8251400d568f720179bc4acad81024dfcc
 canonical: 8332-begbies-traynor-group-best-corporate-administration-services-uk-2020.json
 ---

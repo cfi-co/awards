@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 12:25:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/korta-best-turnkey-payment-services-europe-2019/"
 categories: ["Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9d67dc87f5a8c39b84f363ea0abd2952465cd678c710eeb7a91815b2302b5311
 canonical: 7695-korta-best-turnkey-payment-services-europe-2019.json
 ---

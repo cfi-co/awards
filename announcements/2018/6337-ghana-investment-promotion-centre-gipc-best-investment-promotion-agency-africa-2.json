@@ -8,8 +8,21 @@
     "published_gmt": "2018-11-30 15:59:07",
     "modified_gmt": "2021-08-27 09:45:36",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Ghana is open for business – big business. The country is actively looking for partners to help underwrite a number of megaprojects and has created a regulatory environment to match. For starters, Ghana aims to become the hub  and consequently the breadbasket of West Africa. The country has over eight million hectares of fertile land ready for the plough. A pilot programme involving circa 200,000 local farmers has already been launched. The initiative and others such as the “One Village One Dam” and “One district One factory” aim to increase productivity and create tens of thousands of new jobs in the food processing industry.</strong></p>\r\n<p style=\"text-align: justify;\">The Ghana Investment Promotion Centre (GIPC) acts as a one-stop venue for investors interested in taking a stake in the country’s promising future. As one of the most stable countries in the region, Ghana ranks at or near the top on a number of crucially important criteria such as governance, the rule of law, press freedom, and safety.  It is also seen as one of the fastest growing countries in the world in 2017 with a GDP growth rate of 8.5%, the pearl of West Africa is now going global with a sustained campaign to attract foreign direct investment by offering unparalleled conditions and opportunities.</p>\r\n<p style=\"text-align: justify;\">GIPC helps the country to realise its full potential by structuring large projects in a transparent way that appeals to investors. The leadership of GIPC is, in fact, now headed by a professional with an investment banking background. Moving from aid to trade, Ghana has already achieved impressive results. Last year, its economy barrelled ahead by 8.5% – easily outpacing all other large markets in Africa.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that Ghana is now part of the exciting New World of African countries willing to cash in on their demographic dividend and shaping a business environment that empowers rather than restricts investors. GIPC is key to unlocking that exciting world. The judges are pleased to offer Ghana Investment Promotion Centre the 2018 Best Investment Promotion Agency Africa Award.</p>",
     "content_sha256": "d915dd4dd4daccff8dbd26ecf5121663926a68247b849a536870e3f766c66d62",
-    "record_sha256": "971987ddc10c01e86a1af463ea197b9cf62fdc19fbe526a26330cc347e17a6e2"
+    "record_sha256": "8750004741d976044029a7ed52285133da14aa39d9e235313d7ac13cb671120c"
 }

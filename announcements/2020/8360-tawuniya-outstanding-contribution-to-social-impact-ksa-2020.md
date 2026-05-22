@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:36:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/tawuniya-outstanding-contribution-to-social-impact-ksa-2020/"
 categories: ["Community Engagement", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c90c8bb3544df6064bfa368470a69585696ac688280db437192b6dbf2992be10
 canonical: 8360-tawuniya-outstanding-contribution-to-social-impact-ksa-2020.json
 ---

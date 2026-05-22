@@ -7,6 +7,15 @@ published_gmt: 2013-09-18 10:13:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2013/bolsa-de-valores-de-colombia-best-stock-exchange-latin-america/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 035b8fd369b38a037fb57b276b38df4e505295df9be6c5c62e6dec455a15b641
 canonical: 783-bolsa-de-valores-de-colombia-best-stock-exchange-latin-america.json
 ---

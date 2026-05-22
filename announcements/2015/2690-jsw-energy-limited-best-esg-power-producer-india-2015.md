@@ -7,6 +7,15 @@ published_gmt: 2015-04-26 10:27:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2015/jsw-energy-limited-best-esg-power-producer-india-2015/"
 categories: ["Asia Pacific", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 11008c89ffa94e39a5ff9d5ee1f36485b2e350a19665219ac3f3d47069f0857d
 canonical: 2690-jsw-energy-limited-best-esg-power-producer-india-2015.json
 ---

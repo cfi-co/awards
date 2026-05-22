@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9432\" src=\"https://cfi.co/awards/wp-content/uploads/2021/08/IM-Bank.jpg\" alt=\"I&amp;M-Bank\" width=\"400\" height=\"177\" />\r\n<p style=\"text-align: justify;\">I&amp;M Bank (Rwanda) Plc, established in 1963, is the oldest operational bank in Rwanda and has consistently demonstrated its commitment to national economic development. Over the years, the bank has expanded its services to cater to individuals, businesses, institutions, and corporations, focusing on innovation and customer satisfaction. The bank has embraced digital transformation, offering a cutting-edge platform that enhances financial inclusion and convenience for customers. Innovations such as automated loan applications and cardless transactions have positioned the bank as a leader in digital banking services in the region. I&amp;M Bank has also played a pivotal role in supporting small and medium-sized enterprises (SMEs) by providing tailored financial solutions and grants, in collaboration with international development partners, to foster job creation and sustain economic growth. In 2023, the bank reported a 16 percent increase in profits before tax, driven by improved operational efficiency and asset quality. Additionally, I&amp;M Bank maintains a strong liquidity position, with a coverage ratio of 504 percent, reflecting its prudent risk management and resilience in the face of economic challenges. The bank has been recognised for its role in bolstering Rwanda’s point-of-sale market and driving digital payment adoption. I&amp;M Bank’s approach to customer engagement has also seen year-on-year growth in its retail and corporate sectors. Its focus on financial inclusion, SME growth, and customer-centric innovation has cemented its reputation as a trusted financial institution in Rwanda. The CFI.co judging panel congratulates I&amp;M Bank (Rwanda) Plc on winning the 2024 award for Best Bank (Rwanda).</p>",
     "content_sha256": "f1dc518a8f1c1eff1254b6cdb5bf2a86c1e61b290cd10d3bdbe5f1411a38484c",
-    "record_sha256": "13dcc0351c82f1c52807ec28b13a9be5c53c9e8f6fcf745803f7ab1705f03f6e"
+    "record_sha256": "fcc28a03b818e35d37e977ab31b81e3de0befe5941ddfa5d1d7f4ad50574e576"
 }

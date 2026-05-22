@@ -14,8 +14,21 @@
         "Finance",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2015/02/CSElogo.jpg\" alt=\"\" width=\"271\" height=\"103\" /></p>\r\n<p style=\"text-align: justify;\"><strong>With investor confidence solid and a booming economy, the Colombo Stock Exchange (CSE) is in a bullish mood. Thanks to exceptionally strong economic growth (7.3% in 2013), sustained over an impressive number of years, Sri Lanka has been able to maintain its lead in South Asia and is well on the way to attain the government’s stated goal of reaching a per capita income of at least $4,000 in 2016 ($3,194 in 2013).</strong></p>\r\n<p style=\"text-align: justify;\">The Colombo Stock Exchange is one of the most advanced in the region and offers investors a fully-automated trading platform. So far this year (year-to-date), the CSE All Share Index has gained almost 26%, reflecting the optimism prevalent in this market. Standard &amp; Poor’s Sri Lanka 20 Index (S&amp;P SL20), which replaced the now discontinued Milanka Price Index, last September crossed the 4,000 mark and has since added another 1.5%.</p>\r\n<p style=\"text-align: justify;\">Sri Lanka is an exciting place to be for investors and the Colombo Stock Exchange is often their first port of call. The CFI.co Judging Panel came away impressed from a close-up study of this underreported exchange and feels that the CSE offers first-rate services to both investors and listed companies. The Judges noted that technology has been put in place – and is being used both efficiently and effectively – to further improve transparency and competitiveness.</p>\r\n<p style=\"text-align: justify;\">Elected member of the World Federation of Exchanges (WFE) in 1998, and a founding member of the South Asian federation of Exchanges (SAFE), the Colombo Stock Exchange is firmly inserted into the global market place and makes a significant and consistent contribution to Sri Lanka’s now accelerated development. It is for this reason that the CFI.co Judging Panel is pleased to present the CSE with the award for Most Sustainable Growth Exchange Asia 2014.</p>",
     "content_sha256": "78ba30b1960acbde104dbe1d760124a31d70f46ed848a55df58bce2342283cff",
-    "record_sha256": "38f9c1980d05bec3967f65f3d93aa62d59f39e9bbf30d44bd6a1c5368a846547"
+    "record_sha256": "9c7b6db6b17f589c176d374c33f06db6c04ef0c1f1df8e2b7b61b8b5af599dad"
 }

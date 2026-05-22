@@ -7,6 +7,15 @@ published_gmt: 2025-10-30 14:20:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2025/accountability-best-esg-strategy-development-partner-global-2025/"
 categories: ["Best Practice", "CSR", "Consultancies", "Corporate Governance", "North America", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b624dc850ac3581b7dd5049cd41d979995d5bb5e5553b49688cc3eb9f285b58e
 canonical: 13174-accountability-best-esg-strategy-development-partner-global-2025.json
 ---

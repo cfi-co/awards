@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:59:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2017/intelligent-voice-best-intelligent-voice-solutions-united-kingdom-2017/"
 categories: ["Industries", "Technology", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0941bab2b4cf0377f97c941a93a5f8ba7cce7bc212243dce3c06909170d26f44
 canonical: 4645-intelligent-voice-best-intelligent-voice-solutions-united-kingdom-2017.json
 ---

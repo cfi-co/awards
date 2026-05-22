@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 09:21:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2017/banque-de-france-best-central-bank-governance-europe-2016/"
 categories: ["Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c6bafcca00a98db8cd40fe5298d72cf48c163447c5c988b090b88ad67041136
 canonical: 4200-banque-de-france-best-central-bank-governance-europe-2016.json
 ---

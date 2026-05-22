@@ -7,6 +7,15 @@ published_gmt: 2024-07-03 11:54:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/albemarle-asset-management-leader-in-value-driven-investment-strategies-uk-2024/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c470c401df8e4f380c1be5242d491180a6e2a3a0ec8eed736051056357412ab
 canonical: 12456-albemarle-asset-management-leader-in-value-driven-investment-strategies-uk-2024.json
 ---

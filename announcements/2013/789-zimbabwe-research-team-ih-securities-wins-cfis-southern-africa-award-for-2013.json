@@ -13,8 +13,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-791\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/IH-Securities.jpg\" alt=\"IH Securities\" width=\"241\" height=\"107\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI Judging Panel is delighted that IH Securities, Zimbabwe, has been dedicated to the sort of key, client- focused and world-class services that justify a pan Southern Africa award in the 2013 Exchanges and Broker Awards Programme.</strong></p>\r\n<p style=\"text-align: justify;\">The firm’s equity research team includes outstandingly talented individuals. As a result, the quality of work carried out is consistently very high. It is also noted that IH Securities ensures a strong post-trade experience for its clients and boasts a highly efficient back office operation. The panel has named IH Securities as possessing the Best Investment Research Team, Southern Africa.</p>",
     "content_sha256": "9833b68f989f21de443ab16ef365bbda82a21e5efb32f9bfd4b315e4c15603c9",
-    "record_sha256": "9b4d5c65a2d68b19c6673405468837731cff907ebca02f4ce32d919485638bff"
+    "record_sha256": "5c8b0f115713cd656cd021024bf94b94aabb35cfb787b52e691ac39e50cc38a1"
 }

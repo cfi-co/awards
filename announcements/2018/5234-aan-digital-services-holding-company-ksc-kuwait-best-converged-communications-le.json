@@ -13,8 +13,21 @@
         "Middle East",
         "Telecom"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-5235\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/AAN.jpg\" alt=\"\" width=\"210\" height=\"319\" />\r\n<p style=\"text-align: justify;\"><strong>Seizing telecom investment opportunities across the Middle East and Africa, Kuwait’s AAN Digital Services Holding Company has managed to build up a sizeable and extremely well-rounded portfolio of assets in markets with plenty of upside – those in which mobile phone penetration is still relatively low – and poised for exponential growth. In more mature telecom markets, the company has looked for – and found – niche sectors from where to stage and drive expansion.</strong></p>\r\n<p style=\"text-align: justify;\">The holding company has stakes across the entire mobile value chain. However, it maintains particularly strong positions in mobile network and virtual mobile network operations. AAN Digital Services Holding Company has also displayed an uncanny ability to identify, and snap up, promising start-ups. Its seed capital provides opportunities for accelerated growth via tried-and-proven strategies, enhancing shareholder value in the process.</p>\r\n<p style=\"text-align: justify;\">The Kuwaiti company expends considerable effort in leveraging local expertise to drive growth. The company also invests heavily in the development of local managerial and operational skills. Thus, AAN Digital Services Holding Company has gained wide recognition as a valuable partner in the development of a robust telecom infrastructure that boosts mobile penetration, ups APRU (average revenue per user), and thus helps establish an environment conducive to growth.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends the company on impressive track record and ability to deliver solid returns – dividends, management fees, and capital gains – whilst minimising material risk. The judges are pleased to declare AAN Digital Services Holding Company winner of the 2017 Best Converged Communications Leadership GCC Award.</p>",
     "content_sha256": "17178ea9186447b6285261c76b9a03dc1beed6964a57fa087b8db02d13a33566",
-    "record_sha256": "3495b3599bc8aaae43b779a78ee9a857d1af079d9722359324db148ff914c984"
+    "record_sha256": "ecfe214036ec2877f7c973765d459a009ad15908073ad42edabfa2d4b89cde3a"
 }

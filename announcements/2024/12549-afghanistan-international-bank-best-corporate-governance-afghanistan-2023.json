@@ -13,8 +13,21 @@
         "Best Practice",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11369\" src=\"https://cfi.co/awards/wp-content/uploads/2023/04/AIB-Logosfw-jpg.webp\" alt=\"AIB-Logo\" width=\"500\" height=\"344\" />\r\n<p style=\"text-align: justify;\">Afghanistan International Bank (AIB), Afghanistan's premier financial institution, is the country's largest bank by assets and continues to excel in profitability and liquidity. AIB's mission is to promote economic development, foster growth, and contribute to the prosperity of Afghanistan and its people. Given the challenges the country has faced in recent years, AIB's strong corporate governance has been essential in ensuring compliance with international best practices for financial institutions, exceeding regulatory requirements, and enabling the bank to maintain global financial relationships while providing essential services to the people of Afghanistan. In 2023, AIB's compliance and governance culture allowed it to sustain its business relationships, retaining direct correspondent bank relationships, and facilitating critical imports and humanitarian aid transfers. The bank also strengthened its compliance measures, adding new modules to its Financial Crime Compliance Management System, enhancing anti-money laundering and cybersecurity protocols, and introducing a new Regulatory Compliance Unit to ensure alignment with domestic and international obligations. AIB's commitment to digital solutions and technology has resulted in outstanding cybersecurity infrastructure, with key certifications such as ISO 27001 and the Payment Card Industry Data Security Standard (PCI), ensuring robust protection of data and processes. AIB's continuous efforts in risk management, compliance, and governance contribute significantly to Afghanistan's economy, demonstrating a commitment to best practices and a focus on fostering sustainable growth. The judging panel congratulates Afghanistan International Bank as a distinguished repeat winner over the years and confirms their 2023 award Best Corporate Governance (Afghanistan).</p>",
     "content_sha256": "3cf862ec83673b0e71456f7b6972d32c8506b8aac222f111cbb51a581285dc8d",
-    "record_sha256": "59526303b925a9b82a10f726a1bec6f7d08f6113ae592feae4a150f83f6c6a1a"
+    "record_sha256": "3eac26fdc5a51670b804a0a144c6c9a2bd6e6bc29252095f5470f622c83edbe8"
 }

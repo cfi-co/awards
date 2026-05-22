@@ -14,8 +14,21 @@
         "Industries",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-11207\" src=\"https://cfi.co/awards/wp-content/uploads/2023/03/Arviem-jpg.webp\" alt=\"Arviem\" width=\"258\" height=\"259\" />\r\n<p style=\"text-align: justify;\">Swiss company Arviem is so sure of its cargo monitoring and supply chain visibility services that it guarantees a minimum of 150 percent ROI. Arviem deploys multimodal monitoring to gather data and fill in the blind spots of global supply chains. It uses real-time, end-to-end, transport-related data to develop cost-saving strategies, optimise the supply chain and identify bottlenecks. Arviem claims to be the only full-service provider for real-time cargo monitoring throughout the global supply chain. It offers a carbon footprint reporting service that gives companies a competitive edge, and monitors emissions to provide an accurate report for every shipment. These reports can be used to restructure supply models for cost savings and resource efficiency — or to boost a brand’s image. By including the supply chain in ESG reporting, companies can meet increasing public demand for sustainability and stay ahead of regulatory compliance. In addition to these services and shipping container and air cargo tracking, Arviem provides analytics and working capital solutions. If a client’s request falls outside its area of expertise, Arviem refers them to one of its trusted partners. CEO Stefan Reidy has confidence in his operation, and works towards making Arviem a marketleader in supply chain visibility. It’s impossible for the CFI judges to see the future, but for its laser focus on value creation, the CFI.co judging panel declares Arviem winner of the 2020 award for Most Innovative ESG Supply Chain Solutions (Global).</p>",
     "content_sha256": "7f75ec4550d57c8a6a5c12547c0f4c84cec0c50719a50071bfbd8c02301aac82",
-    "record_sha256": "144c05062ce8ad7e33a92fc61c86f5061c0aa70407560101a041bd5c1aa57362"
+    "record_sha256": "b1f32ef733a2b7d9b32ed6530417e62dca0345c2fb8a085c6bef221e3daf66fd"
 }

@@ -7,6 +7,15 @@ published_gmt: 2018-10-17 13:55:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/banchile-inversiones-best-stock-brokerage-chile-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6ea9c342e9a04e8af956eb8c57fe8d7befa17302c5758ac3224f3eb5ac397a13
 canonical: 6187-banchile-inversiones-best-stock-brokerage-chile-2018.json
 ---

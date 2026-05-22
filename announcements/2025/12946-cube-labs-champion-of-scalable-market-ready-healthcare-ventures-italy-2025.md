@@ -7,6 +7,15 @@ published_gmt: 2025-04-23 06:21:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/cube-labs-champion-of-scalable-market-ready-healthcare-ventures-italy-2025/"
 categories: ["Best Practice", "Europe", "Finance", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 77fc5f3e1db0ae66fec6f0929d64e6d5007755e7ab113e0b4a84ea5d354a42c1
 canonical: 12946-cube-labs-champion-of-scalable-market-ready-healthcare-ventures-italy-2025.json
 ---

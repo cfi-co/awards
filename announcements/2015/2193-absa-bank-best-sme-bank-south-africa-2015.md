@@ -7,6 +7,15 @@ published_gmt: 2015-04-22 14:10:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/absa-bank-best-sme-bank-south-africa-2015/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ef5464525da7f94b3e07a886e07324aa010d74853ebe937dc5bb6d2799a5cfb4
 canonical: 2193-absa-bank-best-sme-bank-south-africa-2015.json
 ---

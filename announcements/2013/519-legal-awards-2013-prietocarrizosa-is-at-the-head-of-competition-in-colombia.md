@@ -7,6 +7,15 @@ published_gmt: 2013-06-10 11:50:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2013/legal-awards-2013-prietocarrizosa-is-at-the-head-of-competition-in-colombia/"
 categories: ["Latin America", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b4439e069a686cfa32ad3b3c7b35fb57596d9428e1eed3c1667adbc50c8145d9
 canonical: 519-legal-awards-2013-prietocarrizosa-is-at-the-head-of-competition-in-colombia.json
 ---

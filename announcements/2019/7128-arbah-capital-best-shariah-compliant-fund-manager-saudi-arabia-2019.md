@@ -7,6 +7,15 @@ published_gmt: 2019-10-01 08:10:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/arbah-capital-best-shariah-compliant-fund-manager-saudi-arabia-2019/"
 categories: ["Asset Management", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be7e192fbb32de6165a867f4de4713556b376ed5d48f540d78ef21ebf9b72bdb
 canonical: 7128-arbah-capital-best-shariah-compliant-fund-manager-saudi-arabia-2019.json
 ---

@@ -12,8 +12,21 @@
         "Customer Satisfaction",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_12220\" align=\"aligncenter\" width=\"731\"]<img class=\"wp-image-12220 size-full\" title=\"Avon HMO MD/CEO Adesimbo Ukiri \" src=\"https://cfi.co/awards/wp-content/uploads/2024/01/Adesimbo-Ukiri.png\" alt=\"Avon HMO MD/CEO Adesimbo Ukiri \" width=\"731\" height=\"695\" /> <strong>MD/CEO:</strong> Adesimbo Ukiri[/caption]\r\n<h2 style=\"text-align: justify;\"><strong>Avon is an exemplary HMO (health maintenance organisation) operating in Nigeria. The MD/CEO Adesimbo Ukiri described its task as ensuring that all Nigerians can access the necessary healthcare without the burden of financial worries. CFI.co says, \"Bravo!”</strong></h2>\r\n<p style=\"text-align: justify;\">Avon HMO’s digital transformation started in 2015 with an upgrade of its contact centre infrastructure. In 2016 Avon became the <a href=\"https://www.avonhealthcare.com/our-plans/\" target=\"_blank\" rel=\"noopener\">first HMO in Nigeria to offer health plans</a> to the masses and allow online purchases. By 2019 the awards started flowing in. These included one characterizing Avon HMO as a company to inspire Africa, but according to our panel that should read “for inspiring the world”. Also, Avon HMO has smartly expanded its plans portfolio and opened more offices. The panel says, \"Keep them rolling!”</p>\r\n<p style=\"text-align: justify;\">Ukiri was named CEO when Avon HMO's licence was granted in 2012. She selected her team and decided the way forward. She got it right. Her first pillar is \"people and culture”. The CEO wants the workplace to be peaceful, joyful, and calm. Ukiri's second pillar is \"analytics and digitalisation\". Despite rapid technological change, it seems unlikely that Avon HMO will ever be left behind. The third pillar is “brand management and marketing”. The CEO, while a trained lawyer, also has a background in marketing some of Nigeria’s leading brands in the past, and, my goodness, it shows!</p>\r\n<p style=\"text-align: justify;\">Sometimes award deliberations are easy, as in this case. The panel respectfully salutes Adesimbo Ukiri and her team while unanimously declaring Avon HMO the Best Health Insurance Plan in <a href=\"https://cfi.co/countries/nigeria/\">Nigeria</a> for 2023.</p>",
     "content_sha256": "6e1702b80e4fa6f208536f38632d2a1404f3e680aab7ec9d07f1e20061f37489",
-    "record_sha256": "a5c2de7c3559b0facb50fc661f0cf8bd1ca005a297d436e82501a588d82fc710"
+    "record_sha256": "ced521781373c8d3704ef74eed584bee549944c7bf943db3d3008b338da60a21"
 }

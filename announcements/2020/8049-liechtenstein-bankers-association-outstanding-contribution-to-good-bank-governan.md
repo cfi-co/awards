@@ -7,6 +7,15 @@ published_gmt: 2020-08-10 11:50:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governance-liechtenstein-2020/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 828b5e4a92dffd1b294c209a82eec038198b790467f435e7f9ef8951895144fa
 canonical: 8049-liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governan.json
 ---

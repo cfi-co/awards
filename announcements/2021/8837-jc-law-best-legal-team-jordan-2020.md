@@ -7,6 +7,15 @@ published_gmt: 2021-02-18 09:32:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/jc-law-best-legal-team-jordan-2020/"
 categories: ["Legal", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c3438ab026833a968d4a478192242776ae06b0657144ddd6a390ee47cc494c7
 canonical: 8837-jc-law-best-legal-team-jordan-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 11:48:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/royal-brunei-airlines-best-flag-carrier-financial-management-team-southeast-asia-2020/"
 categories: ["Asia Pacific", "Finance", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be4d2da4baa4ef81ccb6f29f15a273c1828542a2f3fe41d8e1c3fbeb91170643
 canonical: 8073-royal-brunei-airlines-best-flag-carrier-financial-management-team-southeast-asia.json
 ---

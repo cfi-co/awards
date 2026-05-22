@@ -7,6 +7,15 @@ published_gmt: 2020-08-13 09:55:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/hmv-engineering-most-innovative-energy-services-provider-europe-2020/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 33b4ea8dfd952af434fe4360e040ecb6471b4ab522dc40ca6d3b996e6965f1bb
 canonical: 9257-hmv-engineering-most-innovative-energy-services-provider-europe-2020.json
 ---

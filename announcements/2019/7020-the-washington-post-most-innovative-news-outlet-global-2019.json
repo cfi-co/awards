@@ -10,8 +10,21 @@
     "categories": [
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7028\" src=\"https://cfi.co/awards/wp-content/uploads/2019/12/TheWashingtonPost-1.jpg\" alt=\"The Washington Post\" width=\"500\" height=\"77\" />\r\n<p style=\"text-align: justify;\">Few media organisations can boast the proud and illustrious history of the Washington Post. Since its foundation in 1877, the newspaper has won 47 Pulitzer prizes, including six awarded in a single calendar year (2008). These are tough times for the printed press, but the Post has been successful where many of its competitors have failed: namely in its ability to adapt to technical innovations, to experiment with new business models and to take risks in the new media environment. Always maintaining the highest tenets of traditional journalism, the publication has managed a smooth transition to a technology-first media company able to compete on equal terms with the competition.  Since being acquired by Jeff Bezos in 2013, the Washington Post has vigorously adapted to the new media age: by 2016 it had signed-up over a million digital-only subscribers, a 300 percent increase year-on- year. Moreover, the company has moved into the software space, its proprietary code powering its cutting-edge application. Its in-house publishing platform, Arc, has proved so attractive that both the Los Angeles Times and the New Zealand Herald, amongst others, have invested in its solutions; sites running on Arc have reached 200 million readers worldwide. Indeed, Arc Publishing, far from distracting from the print side of the business, has provided a financial boost that has arrested the decline in readership of the printed product. The company sees the platform as capable of becoming a $100 million business. The Washington Post has innovated in ways that most media companies have not been able to do and for this reason CFI.co’s judging panel considers it appropriate to confer on the company the 2019 award for Most Innovative News Outlet Global.</p>",
     "content_sha256": "d5643016bb476f74e5c7e5d02c3ac22927853c4ad142d11c07681a85fe9d5b5b",
-    "record_sha256": "6d7e08f2dae22041e4a9d3cb17598138ba56baf4d0d55b14c0525a8b46e7dd36"
+    "record_sha256": "b8b448ccfac0f690232a832b5213538620910d7df62346ba635a268935bd8e3d"
 }

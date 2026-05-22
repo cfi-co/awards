@@ -7,6 +7,15 @@ published_gmt: 2019-10-01 08:16:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/king-abdullah-economic-city-kaec-best-logistics-hub-red-sea-2019/"
 categories: ["Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 55beb5aff0365caa015d3c42b8caf96cc4388ccfb1a2e3f2b406cb8f16b733e8
 canonical: 7133-king-abdullah-economic-city-kaec-best-logistics-hub-red-sea-2019.json
 ---

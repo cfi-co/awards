@@ -7,6 +7,15 @@ published_gmt: 2025-11-14 14:49:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2025/tekcapital-leadership-in-high-value-intellectual-property-strategies-global-2025/"
 categories: ["Corporate Leadership", "Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54fb9577f22247e633c4e411a2029a25791b0b15c3b3abe134e6fe6c3fe299e8
 canonical: 13218-tekcapital-leadership-in-high-value-intellectual-property-strategies-global-2025.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2012-10-10 19:42:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2012/morgan-stanley-sets-the-standard-for-us-brokers/"
 categories: ["Exchanges &amp; Brokers", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff8b2e9fd93cf631f779b0b846fe881cbfb92cb91da3fdc95bc3547e1bd448d6
 canonical: 163-morgan-stanley-sets-the-standard-for-us-brokers.json
 ---

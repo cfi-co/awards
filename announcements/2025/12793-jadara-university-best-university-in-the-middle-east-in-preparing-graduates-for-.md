@@ -7,6 +7,15 @@ published_gmt: 2025-01-20 10:35:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2025/jadara-university-best-university-in-the-middle-east-in-preparing-graduates-for-employment-and-leadership/"
 categories: ["Development", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 933c84c76f08d489ad6faa1aa8906a78d9179ac2b02b115e36051b1e62d0303a
 canonical: 12793-jadara-university-best-university-in-the-middle-east-in-preparing-graduates-for-.json
 ---

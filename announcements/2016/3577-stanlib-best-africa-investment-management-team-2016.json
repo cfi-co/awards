@@ -12,8 +12,21 @@
         "Asset Management",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3579\" src=\"https://cfi.co/awards/wp-content/uploads/2016/11/STANLIB.jpg\" alt=\"stanlib\" width=\"288\" height=\"208\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Over half a million retail and institutional investors have entrusted South Africa’s STANLIB with more than $39bn in capital. With on the ground operations in ten African countries and access to over twenty countries through its relationship with Africa’s largest bank, STANLIB has become an investment powerhouse and a partner to investors of all sizes aiming to protect and grow their savings.</strong></p>\r\n<p style=\"text-align: justify;\">STANLIB offers an exceptionally broad array of investment products in response to the diverse needs of its customers. That diversity is also reflected in the company’s multi-specialist investment professionals who draw on their expertise and knowledge of local conditions to achieve optimum performance in any given market.</p>\r\n<p style=\"text-align: justify;\">STANLIB offers a broad range of investment capabilities, including active asset management, passive asset management, single manager and multi-manager offerings across all asset classes: cash, bonds, equities, property, and alternative asset classes.</p>\r\n<p style=\"text-align: justify;\">STANLIB was formed fourteen years ago when banking group Standard Bank and long term insurer Liberty Life merged their asset and wealth management divisions. Liberty is one of South Africa’s leading financial services providers while Standard Bank is the largest banking group in Africa. In addition to its own in-house expertise, STANLIB leverages off its relationship with these two large operations.</p>\r\n<p style=\"text-align: justify;\">STANLIB manages the assets of state-owned and parastatal entities, local governments, pension funds, and healthcare providers, amongst others. It also provides retail customers with a variety of customised solutions. STANLIB offers institutional investors a choice of unit trust and pooled investment vehicles or a mix of both.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends STANLIB on its consistently stellar performance and declares the company winner of the 2016 Best Africa Investment Management Team Award.</p>",
     "content_sha256": "6228c36018a6764f41e7cc43070a6098250197a7f9b99fa54a63ddca2da61499",
-    "record_sha256": "27882d5e21b32f5b34ab8166ac3c104e27183c0b74015757ecbf727edbf028aa"
+    "record_sha256": "e8aa79d1af77dd126d835f5022b3e03f1e5c3c418b032ef94a3a215d9956878d"
 }

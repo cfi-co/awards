@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 17:11:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/thyssenkrupp-most-innovative-engineering-solutions-europe-2016/"
 categories: ["Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90ecf0780e0284ce784eef88ddaafb07b0daac980a4ec0d16d8caee83e98d035
 canonical: 4108-thyssenkrupp-most-innovative-engineering-solutions-europe-2016.json
 ---

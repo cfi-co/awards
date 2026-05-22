@@ -13,8 +13,21 @@
         "Finance",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10137\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/ARTICO-Partners.jpg\" alt=\"ARTICO Partners\" width=\"500\" height=\"99\" />\r\n<p style=\"text-align: justify;\">ARTICO Partners has built a diversified portfolio with high outperformance probability by systematically investing in companies with superior fundamentals. The firm looks for companies with stronger ESG performance, faster growth, higher profitability, healthier balance sheet and lower valuation. It processes incoming company data on a daily basis, translating characteristics into fundamental scores to maintain an updated company ranking list. ARTICO Partners developed its own ESG scoring system after finding mixed evidence for the predictive value of raw data. The firm starts with available ratings from the MSCI database, which is known for its broad coverage and institutional standard. It then assigns a proprietary adjusted ESG score. ARTICO believes its ESG scoring system could have contributed to outperformance in global core and emerging markets from 2012 to 2019. ARTICO portfolios and funds achieve admirable ESG and sustainability ratings — AA — and are Paris-aligned with a lower carbon footprint. The funds are managed by a team of experienced partners who co-invest alongside clients, ensuring interests remain aligned. This means that investment decision-makers share in all impacts and consequences, whether positive or negative. The five-man team harnesses 120 years of collective experience to conduct proprietary research supporting investment and risk management. ARTICO’s sustainable equity funds, which cover the global equity universe, have a track record of beating benchmarks — and indications point to that trend continuing. The CFI.co judging panel presents repeat winner ARTICO Partners with the 2021 award for Best Sustainable Equity Fund Manager (Switzerland).</p>",
     "content_sha256": "f422eab56f0803f14153e2890faa84c27d6b7a55721fb44bdd6f407f96864726",
-    "record_sha256": "363b4cb43fbc2dc999143d1f0fadd32dec684ed36d88b1da87911a925add24c5"
+    "record_sha256": "1eee996cb7838e817f6086eac8445c3e1a0a1c4f6693186942b8b59472b6d896"
 }

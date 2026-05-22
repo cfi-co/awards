@@ -7,6 +7,15 @@ published_gmt: 2026-01-15 11:27:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/bluegem-capital-partners-champion-of-multichannel-consumer-investment-leadership-europe-2025/"
 categories: ["Corporate Leadership", "Europe", "Finance", "Industries", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fdb5344d6ebd996abaea7ef3ee8db71689cba89d8a809cdcd3592b4c9e0fec61
 canonical: 13257-bluegem-capital-partners-champion-of-multichannel-consumer-investment-leadership.json
 ---

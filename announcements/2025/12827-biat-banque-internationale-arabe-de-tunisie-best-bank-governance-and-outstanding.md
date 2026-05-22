@@ -7,6 +7,15 @@ published_gmt: 2025-01-29 12:29:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2025/biat-banque-internationale-arabe-de-tunisie-best-bank-governance-and-outstanding-contribution-to-youth-development-tunisia-2024/"
 categories: ["Africa", "Banking", "Best Practice", "Community Engagement", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31e34307abfe4db4b7693a1376b7c41c870e0037422e8794a1d6f950d39110a8
 canonical: 12827-biat-banque-internationale-arabe-de-tunisie-best-bank-governance-and-outstanding.json
 ---

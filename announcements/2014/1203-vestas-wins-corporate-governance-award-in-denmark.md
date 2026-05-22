@@ -7,6 +7,15 @@ published_gmt: 2014-04-17 11:45:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/vestas-wins-corporate-governance-award-in-denmark/"
 categories: ["Best Practice", "Corporate Governance", "Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 762b52544f9d51d3570bc8e923025b516ff1adeb1d67af723890ff1232daf5ff
 canonical: 1203-vestas-wins-corporate-governance-award-in-denmark.json
 ---

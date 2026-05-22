@@ -7,6 +7,15 @@ published_gmt: 2024-01-10 10:17:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2024/kpmg-outstanding-contribution-to-young-talent-development-qatar-2023/"
 categories: ["Consultancies", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eb662526180d4a4ea84d85e075fc0c15f7d3190a491a6f155ebf2786233cbfee
 canonical: 12223-kpmg-outstanding-contribution-to-young-talent-development-qatar-2023.json
 ---

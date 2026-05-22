@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:06:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/cogefi-gestion-best-portfolio-management-team-france-2017/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db3d0101eba4aab6a1ec36141b73db9f967e2b97c348934a7c75d17d11e3341c
 canonical: 5244-cogefi-gestion-best-portfolio-management-team-france-2017.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-10-22 12:34:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/the-aes-corporation-best-esg-power-producer-global-2021/"
 categories: ["Best Practice", "Development", "Industries", "North America", "Projects", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a253ff2ba619f8a75b49675c7008cec249eebd3fd5412a95cddb9e60d3e313a
 canonical: 9687-the-aes-corporation-best-esg-power-producer-global-2021.json
 ---

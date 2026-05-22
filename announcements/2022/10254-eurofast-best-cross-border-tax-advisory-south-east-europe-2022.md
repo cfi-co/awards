@@ -7,6 +7,15 @@ published_gmt: 2022-03-25 08:22:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/eurofast-best-cross-border-tax-advisory-south-east-europe-2022/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03e9540b3c4e5fac789e3da752b6d1c73836fe00758864fa705b84657b245519
 canonical: 10254-eurofast-best-cross-border-tax-advisory-south-east-europe-2022.json
 ---

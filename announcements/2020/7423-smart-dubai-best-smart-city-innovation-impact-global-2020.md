@@ -7,6 +7,15 @@ published_gmt: 2020-06-08 08:55:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/smart-dubai-best-smart-city-innovation-impact-global-2020/"
 categories: ["Development", "Government", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 80b28b9987f2bbfd5c06eba5b2de9a0de8e03674ebe93554c2dfcddff84fff73
 canonical: 7423-smart-dubai-best-smart-city-innovation-impact-global-2020.json
 ---

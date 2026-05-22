@@ -7,6 +7,15 @@ published_gmt: 2020-01-14 13:56:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/bcs-global-markets-best-prime-brokerage-services-russia-2019/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c698a839a8ab1ea1ea0ab25333ef0278266029b85259246e07e8f4b14568145d
 canonical: 7162-bcs-global-markets-best-prime-brokerage-services-russia-2019.json
 ---

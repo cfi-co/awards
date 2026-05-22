@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:41:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/delen-private-bank-best-digital-private-bank-belgium-2017/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05238628ea21cb5fb0d1c46519b8278321c4b80d105804e40456a62665e447e7
 canonical: 4818-delen-private-bank-best-digital-private-bank-belgium-2017.json
 ---

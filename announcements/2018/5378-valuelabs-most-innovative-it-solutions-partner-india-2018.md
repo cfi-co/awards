@@ -7,6 +7,15 @@ published_gmt: 2018-04-04 09:38:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/valuelabs-most-innovative-it-solutions-partner-india-2018/"
 categories: ["Asia Pacific", "Industries", "Technology", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 931fa1d0833662667a32d275cbea64a2ba66e8ef3e28a5c2f74fa69765c6e4fc
 canonical: 5378-valuelabs-most-innovative-it-solutions-partner-india-2018.json
 ---

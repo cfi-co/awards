@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 15:41:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2020/groupe-cioa-best-business-value-creation-partner-global-2019/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dea16f1a5fab72cc145b343eda555c3320cc5231446c39985be898c4d7883395
 canonical: 7775-groupe-cioa-best-business-value-creation-partner-global-2019.json
 ---

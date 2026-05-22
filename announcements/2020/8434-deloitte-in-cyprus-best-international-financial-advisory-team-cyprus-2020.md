@@ -7,6 +7,15 @@ published_gmt: 2020-11-06 09:00:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/deloitte-in-cyprus-best-international-financial-advisory-team-cyprus-2020/"
 categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c7863de57056a21ee44a588336989bfdb9e8166774c877e87d51276ca0435c0
 canonical: 8434-deloitte-in-cyprus-best-international-financial-advisory-team-cyprus-2020.json
 ---

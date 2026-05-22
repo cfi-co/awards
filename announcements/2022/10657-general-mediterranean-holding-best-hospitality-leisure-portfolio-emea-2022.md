@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:09:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2022/general-mediterranean-holding-best-hospitality-leisure-portfolio-emea-2022/"
 categories: ["Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6cbe92f2b7abf1449a19129cfc0dafb5f09ca929c64afefe002279ce0bbdcbd3
 canonical: 10657-general-mediterranean-holding-best-hospitality-leisure-portfolio-emea-2022.json
 ---

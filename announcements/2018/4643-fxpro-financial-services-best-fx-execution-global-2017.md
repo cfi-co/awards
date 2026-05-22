@@ -7,6 +7,15 @@ published_gmt: 2018-02-11 15:05:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/fxpro-financial-services-best-fx-execution-global-2017/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d7f10ff20fe136c8bd39ce927a8e41ba7f3171a5638bc9e9932d39ac193a421
 canonical: 4643-fxpro-financial-services-best-fx-execution-global-2017.json
 ---

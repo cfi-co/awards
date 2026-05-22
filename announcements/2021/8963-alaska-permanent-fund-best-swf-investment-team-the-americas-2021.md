@@ -7,6 +7,15 @@ published_gmt: 2021-03-22 08:40:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/alaska-permanent-fund-best-swf-investment-team-the-americas-2021/"
 categories: ["Development", "Finance", "Government", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 028342a719eeff37dfb9c4a30a1c9f580bdcd0683d171bb03f84e74d9a26f474
 canonical: 8963-alaska-permanent-fund-best-swf-investment-team-the-americas-2021.json
 ---

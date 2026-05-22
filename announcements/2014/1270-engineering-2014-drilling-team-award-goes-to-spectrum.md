@@ -7,6 +7,15 @@ published_gmt: 2014-07-12 09:45:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2014/engineering-2014-drilling-team-award-goes-to-spectrum/"
 categories: ["Africa", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 35fac7de8541b7c49dc14983d6d77b28e26aaac9d1199190c383be544971a86e
 canonical: 1270-engineering-2014-drilling-team-award-goes-to-spectrum.json
 ---

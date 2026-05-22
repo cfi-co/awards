@@ -7,6 +7,15 @@ published_gmt: 2020-06-29 08:10:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/metito-hassan-allam-jv-al-mahsamma-agricultural-drainage-recycling-and-reuse-plant-best-recycling-and-reuse-water-project-global-2020/"
 categories: ["Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2a5cbc218470ce26f03cc37cc721757ed15efd3ccfae8979cb87c4515f0c0f32
 canonical: 7880-metito-hassan-allam-jv-al-mahsamma-agricultural-drainage-recycling-and-reuse-pla.json
 ---

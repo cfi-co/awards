@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 13:58:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/red-white-consulting-partners-best-business-transformation-consultancy-boutique-singapore-2017/"
 categories: ["Asia Pacific", "Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 483384a63c2fb4b585fe9392505b5e9843d4739e46a726add567cd1d99edf99c
 canonical: 5203-red-white-consulting-partners-best-business-transformation-consultancy-boutique-.json
 ---

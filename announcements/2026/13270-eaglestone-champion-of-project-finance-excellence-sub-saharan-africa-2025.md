@@ -7,6 +7,15 @@ published_gmt: 2026-01-19 15:22:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2026/eaglestone-champion-of-project-finance-excellence-sub-saharan-africa-2025/"
 categories: ["Africa", "Development", "Finance", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fc1dae0dbb229407f213b6b19b9cb7ea0f929e29c8e4c70022cac6c730143d79
 canonical: 13270-eaglestone-champion-of-project-finance-excellence-sub-saharan-africa-2025.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2014-08-13 13:39:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/abn-amro-commercial-finance-wins-award-for-best-sme-financing-solutions-united-kingdom/"
 categories: ["Asset Management", "Banking", "Europe", "Finance", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ac5032ae8c92f180278bb28fc743ef81e90e2044a51ac46fc5f369da5ce8538
 canonical: 1275-abn-amro-commercial-finance-wins-award-for-best-sme-financing-solutions-united-k.json
 ---

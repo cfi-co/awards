@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:30:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2021/hotforex-best-market-research-and-education-global-2021/"
 categories: ["Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f824c3c85b59601430f08beadd68b29e8cbd4ccd7af493caed02f294cbbd4f02
 canonical: 9159-hotforex-best-market-research-and-education-global-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-10-06 13:43:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/unity-willis-towers-watson-best-sustainable-insurance-solutions-team-central-america-2021/"
 categories: ["Best Practice", "Latin America", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9535734d971dfb99ef55dafc4c6b2f907122db76fa95fa87a2693079d67b48f2
 canonical: 9623-unity-willis-towers-watson-best-sustainable-insurance-solutions-team-central-ame.json
 ---

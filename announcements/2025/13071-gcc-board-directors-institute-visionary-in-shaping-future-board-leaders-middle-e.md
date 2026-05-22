@@ -7,6 +7,15 @@ published_gmt: 2025-08-04 10:24:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2025/gcc-board-directors-institute-visionary-in-shaping-future-board-leaders-middle-east-2025/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ba7a0df6da2b6c63e67375cb70803c9bcf55425c30c7846209cd02b31a573ce3
 canonical: 13071-gcc-board-directors-institute-visionary-in-shaping-future-board-leaders-middle-e.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:55:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/icbc-dubai-difc-branch-best-debt-market-solutions-gcc-2021/"
 categories: ["Finance", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8bdc8874edbf48261613817bd0cc913644b8b584d8bef93311c6f29f3955626d
 canonical: 10105-icbc-dubai-difc-branch-best-debt-market-solutions-gcc-2021.json
 ---

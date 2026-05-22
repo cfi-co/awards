@@ -7,6 +7,15 @@ published_gmt: 2025-08-20 09:47:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2025/banco-azteca-champion-of-financial-literacy-inclusion-mexico-2025/"
 categories: ["Banking", "Best Practice", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3df9e73a21778b423f8f781184b193b414bb1360758f27b9364d783c0d391ba2
 canonical: 13076-banco-azteca-champion-of-financial-literacy-inclusion-mexico-2025.json
 ---

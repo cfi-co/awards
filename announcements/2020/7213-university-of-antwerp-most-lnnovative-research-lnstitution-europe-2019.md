@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 16:04:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/university-of-antwerp-most-lnnovative-research-lnstitution-europe-2019/"
 categories: ["Development", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 80278eb81cae864c6869aa27d0f49fa6bdc092c9eb141efd43c0ea8dda954c56
 canonical: 7213-university-of-antwerp-most-lnnovative-research-lnstitution-europe-2019.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-04-04 11:44:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/bank-pembangunan-malaysia-berhad-best-development-bank-south-east-asia-2022/"
 categories: ["Asia Pacific", "Banking", "Development", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7c7e80510bad3e135f01190fe6f767a5c918cd91201e7c9d10233e3d5ba1c8cd
 canonical: 10287-bank-pembangunan-malaysia-berhad-best-development-bank-south-east-asia-2022.json
 ---

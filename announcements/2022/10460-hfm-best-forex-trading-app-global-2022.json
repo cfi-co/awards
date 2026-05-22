@@ -13,8 +13,21 @@
         "Finance",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10461\" src=\"https://cfi.co/awards/wp-content/uploads/2022/05/HF-Markets.jpg\" alt=\"HF-Markets\" width=\"400\" height=\"69\" />\r\n<p style=\"text-align: justify;\">HFM and HF Markets are the brand names of HF Markets Group, a global conglomerate of regulated multi-asset brokers operating across numerous borders. Since its launch in 2010, the Group has solidified a market-leading position by focusing on superior customer care and modern tech infrastructure, with its comprising entities serving clients worldwide. It has more than 200 employees and 3.5 million active trading accounts. HFM welcomes retail and professional traders to explore the platform, account options, software and tools. All clients — from beginners to institutional experts — enjoy a tailored trading experience that fits their skills and ambitions. Less experienced investors can hone their trading skills in live webinars that are free to clients and held three times per week. HFM is a client-centric company offering low spreads and competitive fees on over 1,200 trading instruments. It has introduced reward programmes designed to put extra cash in clients’ hands, including $1m in cash prizes through its ROFM (Return on Free Margin) promotion and its newest programme, RevShare+, which aims to increase partner earnings with up to $5,000 in extra rewards. Sports fans will be happy to hear that the company has renewed its partnership with Paris Saint-Germain. HFM continues to garner media praise and win industry awards — now at 60 and counting. The CFI.co judging panel adds another accolade, presenting HFM — a repeat programme winner — with the 2022 global award for Best Forex Trading App.</p>",
     "content_sha256": "bea6602adf2c4a7abbeb46d2c82f9ee6403a3eff3a7fe13fa4b038af2d38d002",
-    "record_sha256": "cc8b344a2739477c32363a310b6bea1b5bd51c9b04d11bae2962f7af6aafba50"
+    "record_sha256": "1cd8bd8a4d747237d30da1e969ee2154bd0fcab564b7b589e833a4907f97ddc2"
 }

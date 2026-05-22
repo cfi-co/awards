@@ -15,8 +15,21 @@
         "Manufacturing",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9879\" src=\"https://cfi.co/awards/wp-content/uploads/2021/12/Edelmann-Group.jpg\" alt=\"Edelmann Group\" width=\"400\" height=\"49\" />\r\n<p style=\"text-align: justify;\">Edelmann Group has been a family-owned operation since 1913. The group, which has almost 3,000 employees and 16 sites in nine countries and four continents, works with clients around the globe. It designs and produces high-quality, low-emission, paper-based packaging solutions for the healthcare, beauty and consumer industries. The German group has a long-standing history of good corporate citizenship. Its first CSR initiative dates back to 1975 and production changes to reduce pollutants. Over the past years, the group has developed a customer sustainability programme, launched social inclusion projects, and began a wide range of projects to save raw materials and substitute plastic with carton-based solutions.  Edelmann Group believes it has a social responsibility to always act ethically in regard to the environment and people. The company offers renewable packaging sourced from sustainable forestry practices. It invests to continuously update processes and technologies. It’s an innovator of structural design and has developed openings that are safe for children. Edelmann Group takes a holistic approach to sustainability, looking at the whole supply chain and consulting with stakeholders to encourage continuous improvement. It publishes annual sustainability reports, detailing the group’s objectives and progress. It prioritises transparency and acknowledges any areas where ESG performance could be better. Edelmann Group sets a high bar for others to emulate. It received a gold status from EcoVadis, a leading sustainability ranking worldwide, and a notable A- ranking on climate change from the Carbon Disclosure Project. The CFI.co judging panel announces Edelmann Group as the 2021 Best Sustainable Packaging Solutions (Germany) award winner.</p>",
     "content_sha256": "2bbe48673e9147f7bcf9242cea4a51d62e462c097fc243dda36d9d0d16674788",
-    "record_sha256": "7bed1719bba3f78adde6f1dcb46fb01d54ffc032a0e8d71ba327e0dbb3d69e87"
+    "record_sha256": "ca533b47dce21654ce5fb3c80ed5b28c47fc5c97516cba4ff3a875d4eb9aeb3e"
 }

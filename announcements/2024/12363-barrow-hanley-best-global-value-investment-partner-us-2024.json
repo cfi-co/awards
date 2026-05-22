@@ -11,8 +11,21 @@
         "Finance",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_12670\" align=\"aligncenter\" width=\"900\"]<img class=\"size-large wp-image-12670\" src=\"https://cfi.co/awards/wp-content/uploads/2024/05/Barrow-Hanley-1-1024x587.webp\" alt=\"CEO: Cory Martin\" width=\"900\" height=\"516\" /> <strong>CEO:</strong> Cory Martin[/caption]\r\n<p style=\"text-align: justify;\">Founded in 1979, Barrow Hanley delivers competitive performance based on a singular focus of value investing. It partners with corporate clients and institutional investors to execute their vision and achieve their financial objectives. It relies on principled practices and 50-person team of dedicated investment professionals dealing with clients around the world including Asia, Africa, Australia, US, and Europe.  The US investment firm is globally active, with 14 value equity strategies and 14 fixed-income strategies delivering proven performance. As of March 2024, Barrow Hanley stewards clients’ capital to the tune $51.6b in AUM. On the equity side, Barrow Hanley prioritises value stocks of companies, focusing on US, global and emerging market equities across all capitalisations. The firm launched its first ESG-driven strategy in 2017. The fixed-income portion of its portfolio comprises corporate bonds, treasury inflation protected securities, mortgage securities and alternative US government issues with intermediate and long-term turnaround. It backs assets with the potential to produce higher returns with lower volatility. Barrow Hanley favours a bottom-up approach to portfolio management that’s strengthened by fundamental and quantitative analysis and benchmarked against major indices. The firm’s investment universe spans multiple sectors, including credit-focused vehicles and customised investment solutions. The CFI.co judging panel presents Barrow Hanley with the 2024 award for Best Global Value Investment Partner (US).</p>\n",
     "content_sha256": "716cfd8eda6fa866ed2d4bc88a49f8b294640d036ae6de8198d350d418ae7f06",
-    "record_sha256": "d127a77da7cf8f1e54df69f3fe4046efeb18108b04ffde73e9dcb74f2b5ebc02"
+    "record_sha256": "1fe5689f5399d827cbdd6c9bc775b8ff76f59cbb8a4819a53954fa886e9b7ac5"
 }

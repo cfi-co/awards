@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 13:53:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/fondo-pensione-nazionale-best-pension-fund-governance-italy-2019/"
 categories: ["Best Practice", "Corporate Governance", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c83baa044ff2c5ab103e4cbb1293084e76c95f191a4599c241b75724ef9c22f
 canonical: 7721-fondo-pensione-nazionale-best-pension-fund-governance-italy-2019.json
 ---

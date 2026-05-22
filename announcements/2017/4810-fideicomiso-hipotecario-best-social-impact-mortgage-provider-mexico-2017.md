@@ -7,6 +7,15 @@ published_gmt: 2017-10-06 18:43:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/fideicomiso-hipotecario-best-social-impact-mortgage-provider-mexico-2017/"
 categories: ["Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 964795dc9fa7925ba3dcc6ee1cd75cdab924b76908d33de56bed254215c9f9d0
 canonical: 4810-fideicomiso-hipotecario-best-social-impact-mortgage-provider-mexico-2017.json
 ---

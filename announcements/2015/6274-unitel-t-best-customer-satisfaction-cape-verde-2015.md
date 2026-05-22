@@ -7,6 +7,15 @@ published_gmt: 2015-07-31 10:24:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/unitel-t-best-customer-satisfaction-cape-verde-2015/"
 categories: ["Africa", "Industries", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3e4fa51fdfcc0992e2702fa0e403cf64aef976b7c1dbbf89bc0f892a9feb50a9
 canonical: 6274-unitel-t-best-customer-satisfaction-cape-verde-2015.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:39:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/pgm-global-inc-best-transition-management-team-north-america-2021/"
 categories: ["Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 889f0f4d51b2f05efc0a0e01ea3ebb2ffea0e345248edd5f4e4080f332c52e51
 canonical: 10152-pgm-global-inc-best-transition-management-team-north-america-2021.json
 ---

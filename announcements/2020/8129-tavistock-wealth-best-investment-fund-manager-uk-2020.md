@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:35:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/tavistock-wealth-best-investment-fund-manager-uk-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0302d71c79289c358bb9376298d66b3cdabcfc10553ac0dedcc0575b8d993c6a
 canonical: 8129-tavistock-wealth-best-investment-fund-manager-uk-2020.json
 ---

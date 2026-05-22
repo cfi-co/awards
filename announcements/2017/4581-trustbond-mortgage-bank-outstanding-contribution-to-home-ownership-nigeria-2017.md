@@ -7,6 +7,15 @@ published_gmt: 2017-07-11 14:54:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/trustbond-mortgage-bank-outstanding-contribution-to-home-ownership-nigeria-2017/"
 categories: ["Africa", "Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3b801c47906db858f55920f909655772ded5c11d1943b3a28ed8580be0f39320
 canonical: 4581-trustbond-mortgage-bank-outstanding-contribution-to-home-ownership-nigeria-2017.json
 ---

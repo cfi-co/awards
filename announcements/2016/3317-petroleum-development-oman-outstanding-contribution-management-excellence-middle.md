@@ -7,6 +7,15 @@ published_gmt: 2016-08-10 15:46:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/petroleum-development-oman-outstanding-contribution-management-excellence-middle-east-2016/"
 categories: ["Corporate Leadership", "Industries", "Middle East", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b1588aefbff08ceef268f8faf709df61711a27c51cd438fe024e226476ccdfc
 canonical: 3317-petroleum-development-oman-outstanding-contribution-management-excellence-middle.json
 ---

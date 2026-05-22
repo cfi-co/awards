@@ -7,6 +7,15 @@ published_gmt: 2018-01-23 15:24:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/capital-bank-of-jordan-best-sme-bank-services-jordan-2017/"
 categories: ["Banking", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1fc2e8fcd96efefb306d64b0b2fac5c99f1743c4d19a4d04519a7cf046174f9d
 canonical: 5183-capital-bank-of-jordan-best-sme-bank-services-jordan-2017.json
 ---

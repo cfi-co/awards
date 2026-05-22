@@ -7,6 +7,15 @@ published_gmt: 2023-02-13 15:31:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2023/sequoia-investment-management-company-best-esg-infrastructure-investment-strategy-global-2022/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Finance", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bd265ff251f7489924afa13515e15603f46e6f522791a74de60f1fb3876f733e
 canonical: 11149-sequoia-investment-management-company-best-esg-infrastructure-investment-strateg.json
 ---

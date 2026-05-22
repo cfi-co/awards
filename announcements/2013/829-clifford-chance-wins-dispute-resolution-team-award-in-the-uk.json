@@ -12,8 +12,21 @@
         "Legal",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-830\" alt=\"Clifford Chance\" src=\"https://cfi.co/awards/wp-content/uploads/2013/10/Clifford-Chance.jpg\" width=\"318\" height=\"159\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The 2013 United Kingdom Dispute Resolute Accolade in our Legal Awards Programme goes to Clifford Chance.</strong> The CFI.co Judging Panel compliments the firm on its powerful litigation team and draws particular attention to the team’s “extraordinary skills” in the field of arbitration. Clifford Chances may consider itself privileged to count on the unparalleled dexterity of its almost excessively skilled problem-solvers. The dispute resolution team works on some of the most complex deals and does so with great success. The panel applauds Clifford Chance as Best Dispute Resolution Team, UK, 2013.</p>",
     "content_sha256": "d3365758d3c87c6cc2392ea6088611bc3bbe136e14689d79f0d26156879ce786",
-    "record_sha256": "e3ec14e28f94d06a88c3c106a897ee7c6ec1ff9970095517e6bfe66166c4763a"
+    "record_sha256": "b5775f9e0f4d6cd1f8b0e1e6be667c53d5a3acf85bb151192000d09831e6eda5"
 }

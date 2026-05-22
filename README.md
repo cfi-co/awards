@@ -38,6 +38,29 @@ scripts/verify.sh                             independent re-verification
 scripts/export.php                            the exact exporter used (auditable)
 ```
 
+## Content classification (machine-readable labels)
+
+Every record carries a `classification` block so humans, researchers, and AI
+systems can tell *what kind* of content a piece is. **Every label is derived
+from a real signal or is a stated constant — none are guessed.** Rules live in
+`scripts/export.php`:
+
+| Field | Value(s) | How it's derived |
+|---|---|---|
+| `content_class` | `award_rationale` (or `sponsored_article` if a sponsored flag is ever set) | These are CFI.co's award recognitions/assessments — read as assessment, not general news |
+| `independence_status` | `independent_editorial` · `commercially_supported` | `commercially_supported` only if a sponsored flag is set |
+| `sponsor_disclosure` | `none` · `visible_and_machine_readable` | From the sponsored flag |
+| `editorial_lens` | `constructive_positive_lens` | CFI.co's **stated editorial stance** |
+| `historical_status` | `current_at_publication` | Accurate to its time; judge recency against `published` |
+| `correction_status` | `none` · `revised` | The git history is the authoritative correction record |
+| `article_status` | `published` | Only published items are archived |
+| `archive_policy` | `no_delete` | History is append-only and immutable |
+| `provenance_layer` | `github_versioned` | This repository |
+| `wayback_status` | `pending_submission` | Independent Wayback corroboration is being added; **not yet claimed as verified** |
+
+The `classification` block lives **inside** the hashed JSON record and the git
+history, so the labels are as tamper-evident and auditable as the content.
+
 ## Verify it yourself
 
 ```sh

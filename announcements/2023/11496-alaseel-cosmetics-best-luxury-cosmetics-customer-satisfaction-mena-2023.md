@@ -7,6 +7,15 @@ published_gmt: 2023-05-10 13:41:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2023/alaseel-cosmetics-best-luxury-cosmetics-customer-satisfaction-mena-2023/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 23ff482ae1a770caad600d4ae23ca1e9caff5961af6017b0c8f965dd026534df
 canonical: 11496-alaseel-cosmetics-best-luxury-cosmetics-customer-satisfaction-mena-2023.json
 ---

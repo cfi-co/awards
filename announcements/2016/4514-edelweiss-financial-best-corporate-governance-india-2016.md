@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 14:47:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/edelweiss-financial-best-corporate-governance-india-2016/"
 categories: ["Asia Pacific", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f4401fc5ea54c477a476d41a443b0f51042115909d04366dd6ba72a22c476f80
 canonical: 4514-edelweiss-financial-best-corporate-governance-india-2016.json
 ---

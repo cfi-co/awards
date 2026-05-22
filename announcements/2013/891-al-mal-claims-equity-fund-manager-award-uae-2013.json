@@ -12,8 +12,21 @@
         "Finance",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-892\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/Al-Mal-Capital.jpeg\" alt=\"Al Mal Capital\" width=\"258\" height=\"110\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel confirms the award Best Equity Fund Manager, UAE to Dubai-based Al Mal Capital.</strong> The judges compliment the firm on its extensive range of asset management products; the consistently high quality of its analysis; and its team of exceptionally talented investment advisers.</p>\r\n<p style=\"text-align: justify;\">Al Mal’s equity funds have performed extraordinarily well over recent years. The firm has now been recognised by many commentators as best in class. The CFI.co panel commented on the, “High level of service Al Amal is dedicated to and the firm’s sharp focus on corporate governance.” The judges furthermore welcomed Al-Mal’s partnership with Standard Chartered which was announced in September this year.</p>",
     "content_sha256": "a71f59ea60daedde5e4c453e4a0601b69592942cf5663abd10091ff697cceb5a",
-    "record_sha256": "13ae0cabf447fbfcc4249882f4f4e41a11df03433a7051a1e2c1e4d1f6f7374a"
+    "record_sha256": "3f17a836b000f8b629b249f710d840e4ffa93f1d46b14e98fa9b8519dce74b70"
 }

@@ -7,6 +7,15 @@ published_gmt: 2026-01-19 15:14:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/earth-active-excellence-in-esg-risk-investment-advisory-uk-2025/"
 categories: ["Best Practice", "Consultancies", "Europe", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0258405c37afbfe1bb3d7409ee6dd074342e115da29087577b590d92e6dd7d5e
 canonical: 13264-earth-active-excellence-in-esg-risk-investment-advisory-uk-2025.json
 ---

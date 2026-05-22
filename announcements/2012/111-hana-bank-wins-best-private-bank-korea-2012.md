@@ -7,6 +7,15 @@ published_gmt: 2012-09-07 17:38:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2012/hana-bank-wins-best-private-bank-korea-2012/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e4ccb79271a87e1b1a9e0fe417442b4273d3d5eb8f249197976fd77d7c54c261
 canonical: 111-hana-bank-wins-best-private-bank-korea-2012.json
 ---

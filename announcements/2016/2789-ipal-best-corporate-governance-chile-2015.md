@@ -7,6 +7,15 @@ published_gmt: 2016-01-29 09:57:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/ipal-best-corporate-governance-chile-2015/"
 categories: ["Best Practice", "Corporate Governance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b33b786803bf6aaf8865aee3150bd24a1d19e64402976dcf33ba6a60387ca930
 canonical: 2789-ipal-best-corporate-governance-chile-2015.json
 ---

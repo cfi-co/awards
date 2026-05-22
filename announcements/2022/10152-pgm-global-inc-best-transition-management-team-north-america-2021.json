@@ -12,8 +12,21 @@
         "North America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10891\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/PGM-Global.jpg\" alt=\"PGM Global\" width=\"159\" height=\"95\" />\r\n<p style=\"text-align: justify;\">PGM Global has taken the final steps of the journey towards full independence since the acquisition of its former parent. The company, once called Pavilion Global Markets, has made a subtle name change — but it still maintains the same strong identity and principles. PGM Global embraces change, one of the few constants in life. It stays on top of ever-evolving capital markets to provide global macro research that facilitates informed investment decisions. Its trading desk is staffed 24 hours a day, five days a week, allowing investors to seize opportunities as they arise. PGM’s transition management team helps clients manage financial changes, altering allocation mix or rebalancing portfolios. The team continues to grow in the US and the Middle East. The Covid-19 pandemic brought numerous challenges, international travel being one of the more minor, but PGM Global has weathered the storm well. Long-running investments in tech infrastructure paved the way for a smooth transition to digital workflows. Over the last two years, PGM Global secured considerable transition management business in equities as well as fixed income. The team is proud of the revenue — and reputational advances — earned over the past year. The CFI.co judging panel presents repeat programme winner PGM Global with the 2021 award Best Transition Management Team (North America).</p>",
     "content_sha256": "889f0f4d51b2f05efc0a0e01ea3ebb2ffea0e345248edd5f4e4080f332c52e51",
-    "record_sha256": "55c6e59de3cfe4a204c22e58d94fd714e39151fa58e907e7438ae001c901356f"
+    "record_sha256": "1dbcfc9976199b6cb8b217274cfa1c337536e62332867711d3346e8000e21ea1"
 }

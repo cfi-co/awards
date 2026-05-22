@@ -7,6 +7,15 @@ published_gmt: 2024-10-21 12:25:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/asset-management/2024/nbg-asset-management-pioneer-in-innovative-fund-solutions-greece-2024/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e9884f5ab18b7ca414264482c72f32376ff8d7a705c70e8ede9283f3473db9b9
 canonical: 12666-nbg-asset-management-pioneer-in-innovative-fund-solutions-greece-2024.json
 ---

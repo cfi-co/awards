@@ -7,6 +7,15 @@ published_gmt: 2015-11-19 10:08:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/credit-mutuel-best-esg-risk-management-team-france-2015/"
 categories: ["Banking", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c9986e025410f83799e02249ce475fdd89dd1027750e2d0c79a75ff1a8ba1ce0
 canonical: 6314-credit-mutuel-best-esg-risk-management-team-france-2015.json
 ---

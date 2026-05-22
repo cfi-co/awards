@@ -11,8 +11,21 @@
         "Industries",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6817\" src=\"https://cfi.co/awards/wp-content/uploads/2019/07/B2B.jpg\" alt=\"\" width=\"235\" height=\"109\" />\r\n<p style=\"text-align: justify;\">Malta — based B2B GAMING SERVICES was founded some 20 years ago as betting and gaming migrated to a dynamic new frontier — the world wide web. The impetus was the need to establish a revolutionary business model that would provide end-customers with an entertaining gaming experience and safeguard their interests. The industry-leading company achieved its mission, and now boasts a lengthy and loyal list of top-tier clients, who adopted B2B’s best-of-breed platform, world-class sportsbook, and unparalleled in-play betting. B2B GAMING SERVICES approaches corporate social responsibility from an ethical perspective. It has developed a 360-degree preventative and proactive model to address responsible gambling and protect players. The system processes large volumes of data history to effectively detect and address irresponsible gambling and minimise security risks. B2B GAMING SERVICES understands the power of big data to deliver relevant insights, and sees technology as a means of cultivating valid pathways for development and effecting positive change. The company is a powerhouse of possibilities, offering modular and scalable solutions for flexible and sustainable business growth. B2B Gaming Services foresaw a shift in the gaming landscape — with the line between business providers, aggregators, and operators blurring — and it has strategically positioned itself to capitalise upon that evolution. B2B operations are centred across the gaming spectrum as a platform provider, diversified aggregator, and licensed operator. In the future, B2B anticipates a rise in social gaming, with players eager to share experiences in the increasingly overlapping worlds of “online” and “offline”. The CFI.co judging panel is willing to bet on that future, and declares B2B Gaming Services the winner of the 2019 award for Best Online Gaming Platform Solutions (Europe).</p>",
     "content_sha256": "a03681bb58e592d13f9d54d853f93f62fc7c61f8b3dc1412cc294a792f8afa59",
-    "record_sha256": "f58818fa223dc0b8842b5fb65bdc01535c1b4b70d4010983cf45d94ca838b48c"
+    "record_sha256": "a0c90f1acc1d3a2d5ec3b18aff18e1ad1de48c57b7ba7d7461822492616b749a"
 }

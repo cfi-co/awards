@@ -7,6 +7,15 @@ published_gmt: 2013-07-01 14:40:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/cfi-award-winner-cirrus-oil-and-corporate-community-engagement-in-ghana/"
 categories: ["Africa", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f28b83c2cadf72e31866bfe4c54d00165adc9d00ab83fa215ed3527192b6394e
 canonical: 636-cfi-award-winner-cirrus-oil-and-corporate-community-engagement-in-ghana.json
 ---

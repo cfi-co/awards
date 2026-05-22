@@ -7,6 +7,15 @@ published_gmt: 2022-05-04 06:45:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/bedrock-group-best-investment-portfolio-manager-uk-2022/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e337a8ac2040ed20db14fe32801ffaf22766ecd5e2263e4e0743f58eef88ce8d
 canonical: 10364-bedrock-group-best-investment-portfolio-manager-uk-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:34:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/toledo-capital-ag-best-wealth-management-services-switzerland-2019/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad45838d9b167bb015e3ba3a7023bdad0b5aa90d9d59f9073f2f6c8d2b3c7131
 canonical: 7952-toledo-capital-ag-best-wealth-management-services-switzerland-2019.json
 ---

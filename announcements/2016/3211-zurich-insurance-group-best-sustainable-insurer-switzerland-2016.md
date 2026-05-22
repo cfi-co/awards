@@ -7,6 +7,15 @@ published_gmt: 2016-03-23 11:43:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/sustainability/2016/zurich-insurance-group-best-sustainable-insurer-switzerland-2016/"
 categories: ["Best Practice", "Europe", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4e7666f35403e416fb1f8f1e3d19e9be10b404c205268c0a998f02546c13a0dc
 canonical: 3211-zurich-insurance-group-best-sustainable-insurer-switzerland-2016.json
 ---

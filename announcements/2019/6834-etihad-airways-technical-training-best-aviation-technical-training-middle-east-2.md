@@ -7,6 +7,15 @@ published_gmt: 2019-08-02 08:24:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/etihad-airways-technical-training-best-aviation-technical-training-middle-east-2019/"
 categories: ["Industries", "Middle East", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e194e04947c06742106aad4ccb5bf91255da130c65b342d5222b944fb79f28e
 canonical: 6834-etihad-airways-technical-training-best-aviation-technical-training-middle-east-2.json
 ---

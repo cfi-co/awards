@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 15:10:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/italtile-limited-best-value-creation-retailer-south-africa-2021/"
 categories: ["Africa", "Industries", "Retail"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2f3b8ded61a3b714a64f00b50c7a96be8d21dee1e604ab5029f732d590b30d57
 canonical: 10066-italtile-limited-best-value-creation-retailer-south-africa-2021.json
 ---

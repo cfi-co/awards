@@ -7,6 +7,15 @@ published_gmt: 2020-02-05 12:01:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/sid-bank-best-regional-development-bank-southeast-europe-2019/"
 categories: ["Banking", "Development", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e738999284ef0ad7345d5f1a018392d280392b351de70861b70e2bd464ca429c
 canonical: 7232-sid-bank-best-regional-development-bank-southeast-europe-2019.json
 ---

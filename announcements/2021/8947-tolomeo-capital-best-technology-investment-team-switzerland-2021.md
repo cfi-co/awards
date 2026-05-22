@@ -7,6 +7,15 @@ published_gmt: 2021-03-17 08:37:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/tolomeo-capital-best-technology-investment-team-switzerland-2021/"
 categories: ["Europe", "Finance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff6c5a4503c49c83e3ae8349c9ceba8a0675cbaf379c9b61f9e446b7b2dadd24
 canonical: 8947-tolomeo-capital-best-technology-investment-team-switzerland-2021.json
 ---

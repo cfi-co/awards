@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:46:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/china-banking-corporation-best-bank-governance-philippines-2016/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d60e2a230e0293be59fba9f77932600cc6d5cc7e67dcbd4564af35f763c7d66c
 canonical: 4071-china-banking-corporation-best-bank-governance-philippines-2016.json
 ---

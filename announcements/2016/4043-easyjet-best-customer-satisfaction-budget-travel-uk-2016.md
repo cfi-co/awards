@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:28:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/easyjet-best-customer-satisfaction-budget-travel-uk-2016/"
 categories: ["Customer Satisfaction", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6f16bf7122226a294b03ff5f76dae8c42fcaeebc1c4ec3b4db92dc9f33d7425a
 canonical: 4043-easyjet-best-customer-satisfaction-budget-travel-uk-2016.json
 ---

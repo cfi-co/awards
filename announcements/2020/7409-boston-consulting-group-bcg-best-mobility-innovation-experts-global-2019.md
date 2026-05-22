@@ -7,6 +7,15 @@ published_gmt: 2020-06-08 08:50:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2020/boston-consulting-group-bcg-best-mobility-innovation-experts-global-2019/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b745f347f9d183230e02b2991484f85a16b28a51dce14ea7cd9eab8ff6b2ced3
 canonical: 7409-boston-consulting-group-bcg-best-mobility-innovation-experts-global-2019.json
 ---

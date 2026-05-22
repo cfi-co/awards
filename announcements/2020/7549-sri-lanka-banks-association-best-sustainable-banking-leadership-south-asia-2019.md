@@ -7,6 +7,15 @@ published_gmt: 2020-03-01 10:47:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/sri-lanka-banks-association-best-sustainable-banking-leadership-south-asia-2019/"
 categories: ["Asia Pacific", "Banking", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4db3add25902dc621d0c4e81f4970d5e7d5a2fea80c278b94462647cb77235f1
 canonical: 7549-sri-lanka-banks-association-best-sustainable-banking-leadership-south-asia-2019.json
 ---

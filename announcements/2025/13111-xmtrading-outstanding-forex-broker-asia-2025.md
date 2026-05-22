@@ -7,6 +7,15 @@ published_gmt: 2025-09-29 12:15:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2025/xmtrading-outstanding-forex-broker-asia-2025/"
 categories: ["Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9b9c2aabfd820d6909b90a1eb43373a007c9525c56346e8e78ed63be27733ca
 canonical: 13111-xmtrading-outstanding-forex-broker-asia-2025.json
 ---

@@ -14,8 +14,21 @@
         "Industries",
         "Mining"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7453\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Roxgold.jpg\" alt=\"Roxgold\" width=\"600\" height=\"194\" />\r\n<p style=\"text-align: justify;\">Gold is one of the most sought-after minerals on Earth. It once underpinned national monetary systems and has ever-increasing uses in the modern world, from smartphone componentry to space travel. Roxgold strives to meet this growing global demand in the most responsible manner possible. The company is based in Canada, with mining assets in Burkina Faso and Côte d'Ivoire. The Yaramoko Mine Complex in Burkina Faso boasts high-grade annual gold production, and the Séguéla Gold Project in Côte d'Ivoire shows high potential. Roxgold acquired Séguéla in April 2019 for $20m. Following a favourable environmental impact assessment, a mining permit was granted in December last year. Early construction work has begun, building infrastructure for a project that will create over 500 jobs for locals in the Séguéla area. Roxgold has been busy over the past year, developing the new mine while keeping production on-pace. With pandemic safeguards put swiftly in place, Roxgold was able to protect its people while also exceeding production expectations for 2020. The company reserved an entire hotel for expatriate workers and stockpiled consumables for staff. It made provisions for local contractors to reside on-site during month-long shifts and facilitated the reskilling and upskilling of local workers. Roxgold donations helped to fund educational campaigns and support health professionals in local communities. The CFI.co judging panel recognises a company with the noble aim of creating sustainable value for all stakeholders. The judges present Roxgold, a repeat programme winner, with the 2021 award for Best Mining CSR Strategy (West Africa).</p>",
     "content_sha256": "ea4cf0cd24ada3270de10b04b40472df2f5ed9f3e0ca936559c28bed3d5be7fc",
-    "record_sha256": "dcdaaab390f04f8df431c8e7836c6785193cdcb97e3d9f25487345400b03ee84"
+    "record_sha256": "ad8195c320a77e4ae559954b784ed3977649fc4f18e7a234e107dc33041d7a77"
 }

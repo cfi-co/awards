@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:33:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/idfc-first-bank-most-transformed-new-bank-india-2020/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2557f39dcec820dd85d1096eb2e996b24e05d8f291703fdc771925ab8edec6fe
 canonical: 8758-idfc-first-bank-most-transformed-new-bank-india-2020.json
 ---

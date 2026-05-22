@@ -10,8 +10,21 @@
     "categories": [
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7252\" src=\"https://cfi.co/awards/wp-content/uploads/2020/02/Phoenician-Funds.jpg\" alt=\"Phoenician Funds\" width=\"342\" height=\"100\" />\r\n<p style=\"text-align: justify;\">Over the past five years, Phoenician Funds has built a portfolio comprising 20 promising seed and early-stage companies across the Middle East and Africa (MENA). Team members who are anchored in regional expertise form close relationships with the key managers in its portfolio companies as well as the World Bank and the International Finance Corporation. Phoenician Funds scours sectors ripe for disruption, searching for early-stage companies with a visionary founding team and an innovative and scalable product that addresses prevalent needs. It sits down with founders to fine-tune growth strategies that will drive the business forward. It helps start-ups set targets for scalability and recruit top talent. It forges tight bonds with founders, offering them strategic guidance and assisting in value creation across the investment lifecycle. The Phoenician Funds ecosystem connects an expansive geographic region — including Lebanon, Egypt, Saudi Arabia, and the United Arab Emirates — through linkage to its proprietary networks. The fund manager aims to bring international companies into the region and promote cross-border collaborations. Phoenician Funds is launching a new international investment fund through its existing platform for foreign companies who are looking to set up shop in the MENA region and who meet the fund’s investment criteria. The CFI.co judging panel declares Phoenician Funds the 2019 winner of the Best Seed Capital Fund Manager (Middle East) award.</p>",
     "content_sha256": "120f95448ba954df0362bb94f2d7e05b8296b8b2ef26ae03e148eb06a454e4d8",
-    "record_sha256": "e0e136a890e449465824e7ac9379826ea267dd21b29a6a37a94e51889cc11b14"
+    "record_sha256": "c7238b12c0caf0f3173c1378b809d3ab8f3b0ab34efd1521f5915439c5004afc"
 }

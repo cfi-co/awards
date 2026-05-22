@@ -7,6 +7,15 @@ published_gmt: 2021-04-22 10:06:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/peel-hunt-llp-best-equity-research-team-uk-2021/"
 categories: ["Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c09b983597c3c93db2d4cc1e2672c5de26a527c11b36632a00621e5b161c606
 canonical: 9068-peel-hunt-llp-best-equity-research-team-uk-2021.json
 ---

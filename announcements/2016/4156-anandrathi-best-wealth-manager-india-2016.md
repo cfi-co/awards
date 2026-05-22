@@ -7,6 +7,15 @@ published_gmt: 2016-04-11 09:34:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/anandrathi-best-wealth-manager-india-2016/"
 categories: ["Asia Pacific", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dd799dadd6e52dd55e5fba9b220d707fb6b5e8cece74a089ef42b7c9d0e153ab
 canonical: 4156-anandrathi-best-wealth-manager-india-2016.json
 ---

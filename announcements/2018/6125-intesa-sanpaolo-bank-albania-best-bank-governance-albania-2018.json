@@ -8,8 +8,21 @@
     "published_gmt": "2018-10-16 13:56:42",
     "modified_gmt": "2018-10-16 13:56:51",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6127\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Intesa.png\" alt=\"\" width=\"349\" height=\"67\" />\r\n<p style=\"text-align: justify;\">Recognising the bank’s dedication to creating opportunity and fostering sustainable economic growth in its country and communities, leading by example and following strictly its Code of Ethics and its CSR strategy focused in the Sustainable Development Goals, the CFI.co judging panel presents Intesa Sanpaolo Bank Albania with the 2018 award for Best Bank Governance Albania. Some of the factors taken into consideration were: Value creation and innovation, Customer service, Corporate governance, Executive leadership, Use of technology, Regulatory compliance, Risk management team, Social responsibility, Financial stability and performance. With a network of nearly 6,000 branches throughout the world, the Intesa Sanpaolo Group is well positioned to serve its customers, and to support its subsidiary, Intesa Sanpaolo Bank Albania. The Albanian bank has a proven track record of playing by the rules, and playing well with others. Respect is a recurring theme in its code of ethics, governing how it interacts with all stakeholders, the environment, and the communities in which it operates. Corporate Social Responsibility (CSR) reports for Albanian financial institutions show that Intesa Sanpaolo Bank Albania is committed to upholding CSR standards and leads by example. The bank strictly adheres to environmental legislation throughout its operations and prioritises choices that take sustainability into account. It grants “green loans” for renewable energy projects and has become a key lender for SMEs guided by principles of sustainability. The bank has further strengthened its internal regulatory framework and issued new guidelines for managing risk. It tackles gender inequality through proactive hiring processes, finance and support for businesswomen, and awareness campaigns against domestic abuse. Socially, it supports educational goals through student work-experience programmes and financial literacy campaigns, while it advances employee education through continuous professional development. The bank has been using high governance standards to help drive long term sustainability.</p>",
     "content_sha256": "bf03a6d670b36414af6a4f5fc55061e7c95e92ba03237837a1fa2d3fd21db88d",
-    "record_sha256": "e44a6eae59c56ae441ff61aef7b8e1c7c2abbac76e1f1035a9b70dbfd07b71be"
+    "record_sha256": "434e2894f2a0b83918adf8c7a2cc823e2ced662c0d58bc45e432807fb592b19a"
 }

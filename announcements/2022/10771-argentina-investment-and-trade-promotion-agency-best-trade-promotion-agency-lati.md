@@ -7,6 +7,15 @@ published_gmt: 2022-09-19 14:52:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/fdi-agencies/2022/argentina-investment-and-trade-promotion-agency-best-trade-promotion-agency-latin-america-2022/"
 categories: ["Development", "FDI Agencies", "Government", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 41a72d8b3f2084d732190c6dae8e696a577a4aea1a8a9bdde171167b658d0a4e
 canonical: 10771-argentina-investment-and-trade-promotion-agency-best-trade-promotion-agency-lati.json
 ---

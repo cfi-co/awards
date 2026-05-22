@@ -7,6 +7,15 @@ published_gmt: 2023-01-12 09:19:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/societe-generale-guinee-best-business-bank-best-corporate-banking-team-guinea-2022/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce342c4113f9a302b1c1130faee76aa799cdedcc38995e5b64feca0cfadf80e4
 canonical: 11058-societe-generale-guinee-best-business-bank-best-corporate-banking-team-guinea-20.json
 ---

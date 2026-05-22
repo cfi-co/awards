@@ -11,8 +11,21 @@
         "Africa",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-12238 size-full\" title=\"Inside Capital Partners\" src=\"https://cfi.co/awards/wp-content/uploads/2024/01/Inside-jpg.webp\" alt=\"Inside Capital Partners\" width=\"500\" height=\"192\" />\r\n<p style=\"text-align: justify;\">Inside Capital is one of the top private equity players on the continent and diligently seeks out exceptional businesses then helps them reach their full potential. Its approach to identifying the right projects is highly disciplined, with a focus on ethical investing. Transparency is key to their solid relationships with autonomous partners. Inside Capital is active (and faces little competition) in the “missing middle” — SMEs looking for support in the $2m-$10m mark: businesses that are so often overlooked by others, yet can have a positive impact on local communities, the economy and environment. The company has offices in Mauritius, Zambia and Madagascar. Its first investment fund, established in 2017, has assets of $34.5m. The team is about to reach the first close of its second fund — targeting a fund size of $100m. Jerome Lagesse, formerly Accenture and Adenia, founded Inside Capital to satisfy his vision of operating with a sustainable investment approach. He is champion of the circular economy and the environment. Co-CIO Rushil Patel, a PwC alumnus manages deal flow and keeps a keen eye on Inside’s portfolio. Basil Nundwe coordinates ESG activities with aplomb and his contribution includes a great network and deep understanding of industries and transactions throughout the region. According to the judging panel, “this constitutes a powerful and successful team that is well placed to support SMEs and has a record of spotting young talent. The leadership offers strong and effective coaching opportunities for SME partners.” Without hesitation, the panel confirms Inside Capital Partners as winner of the 2023 award Best SME Investment Strategy (Southern Africa).</p>",
     "content_sha256": "1d02c53810b9465f87e904408bc2d2d47dcd23f44553b5a02ac91513ed977c66",
-    "record_sha256": "5cac7b736b7bf2a0ef6cf7b7236c7430f936f74f09300f7e68768dfcd68b66b5"
+    "record_sha256": "dc17270d0d2da196964665a816f09d29b44064a77528b290c042def052c996dd"
 }

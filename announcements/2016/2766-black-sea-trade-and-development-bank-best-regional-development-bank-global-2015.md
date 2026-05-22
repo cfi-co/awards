@@ -7,6 +7,15 @@ published_gmt: 2016-01-18 16:39:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2016/black-sea-trade-and-development-bank-best-regional-development-bank-global-2015/"
 categories: ["Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ef212dee47803fa3599e8868e6dc569b834021041e9b2a635976266f3b40e4f9
 canonical: 2766-black-sea-trade-and-development-bank-best-regional-development-bank-global-2015.json
 ---

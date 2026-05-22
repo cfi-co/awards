@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9400\" src=\"https://cfi.co/awards/wp-content/uploads/2021/07/Bedford-Row-Capital.jpg\" alt=\"Bedford Row Capital\" width=\"400\" height=\"234\" />\r\n<p style=\"text-align: justify;\">The UK’s Bedford Row Capital partners with businesses to give new investors access to listed bonds. The firm takes a holistic approach to capital raising by first ensuring that the business — and cash flow — is efficiently managed. It specialises in global structured securities, a focus that has forged a reputation as a leading non-bank originator — among the top 100 in the country. Bedford Row Capital issues high-yield bonds, senior-secured debt, short-dated notes, delta-one trackers, and Shariah-compliant certificates. Bedford works with business leaders to develop bond solutions in the market, and in the moment. It elevates standard settlement infrastructure by combining proprietary information systems with high levels of transparency and security. Its streamlined process for single- or multi-issuance debt programmes work over a 12-week period between commencement and launch of issuance. On the primary market side, Bedford offers assistance with issuance structuring, preparation of legal documentation, liaising with transaction counterparties and stock exchanges, book-building support, and communication with regulatory news services (RNS) upon launch. It acts as a calculation and settlement agent on the secondary market and handles subsequent RNS releases. The Bedford Row Capital team has the expertise to cut to the heart of client questions and address them — even before they are voiced. Advisors perform due diligence to lay a solid foundation for new projects with ongoing preparedness. The CFI.co judging panel presents Bedford Row Capital with the 2021 award for Most Innovative Fixed Income Solutions (UK).</p>",
     "content_sha256": "377204b9b38c03ae8c7996684ef18669bd65148d9045fe206d3781b62090633d",
-    "record_sha256": "a6576b6e0eb529e34a58bb41ff1d2da3ccacb4fc4defcc5f5c01e5ea78748d8a"
+    "record_sha256": "a0d1555572f83a5930e2f666e1c46d3743cc18258015289acd2a7d514cff55b0"
 }

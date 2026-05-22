@@ -7,6 +7,15 @@ published_gmt: 2023-07-17 08:00:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/tge-polish-power-exchange-best-commodities-exchange-esg-strategy-europe-2023/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance", "Industries", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: eac3f532c4c21206d0fd303c643ad70d7d90988d31c79dfaac90e0fc505642fb
 canonical: 11635-tge-polish-power-exchange-best-commodities-exchange-esg-strategy-europe-2023.json
 ---

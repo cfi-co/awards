@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:13:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/first-registrars-investor-services-best-registrar-services-nigeria-2022/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 465d75110d80c81695a38177a8f93a0664d16f62e3b25c1086edeaa09c368b0b
 canonical: 10667-first-registrars-investor-services-best-registrar-services-nigeria-2022.json
 ---

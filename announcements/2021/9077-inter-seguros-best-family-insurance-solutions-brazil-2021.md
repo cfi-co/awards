@@ -7,6 +7,15 @@ published_gmt: 2021-04-26 16:05:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/inter-seguros-best-family-insurance-solutions-brazil-2021/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a0a40f2e987e5d79966a3dfb6b79f955eed8ee97c87999e2b821bc83d333643
 canonical: 9077-inter-seguros-best-family-insurance-solutions-brazil-2021.json
 ---

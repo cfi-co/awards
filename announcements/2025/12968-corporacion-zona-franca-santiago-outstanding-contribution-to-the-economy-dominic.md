@@ -7,6 +7,15 @@ published_gmt: 2025-05-29 11:46:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2025/corporacion-zona-franca-santiago-outstanding-contribution-to-the-economy-dominican-republic-2025/"
 categories: ["Development", "FDI Agencies", "Government", "Industries", "Latin America", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5939d459d737e44467a44a051e485b7bba956b6792e9bd6db60b16b90b46c904
 canonical: 12968-corporacion-zona-franca-santiago-outstanding-contribution-to-the-economy-dominic.json
 ---

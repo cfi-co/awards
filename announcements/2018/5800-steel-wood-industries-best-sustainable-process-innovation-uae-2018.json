@@ -13,8 +13,21 @@
         "Middle East",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5801\" src=\"https://cfi.co/awards/wp-content/uploads/2018/07/SteelWood.jpg\" alt=\"\" width=\"600\" height=\"596\" />\r\n<p style=\"text-align: justify;\"><strong>By researching wood sources that can be harvested and used – without cutting a single tree, Steel Wood Industries launched a gamechanging revolutionary product – Steel Wood Density Board (SDB) – a new type of composite wood panel that is set to change the wooden furniture and associated industries in the region. SDB is a highly engineered 100% recycled wooden board having premium quality features by using a constant density gradient, revolutionary internal bonds, elasticity and compressed core creation processes to ensure flawless uniformity. The result is a balanced panel with a premium face, an edge screw-holding capacity and very low associated emissions.</strong></p>\r\n<p style=\"text-align: justify;\">The company is now set to launch its disruptive Gusolid-PCS (PCS: Precast) line of construction materials which have the tensile strength of reinforced concrete at a significantly lower specific weight. All Gusolid products are made out of recycled green material and, as such, represent the building blocks of the future. This could produce a 100% recycled building from columns to beams, floorings, ceilings and the like.</p>\r\n<p style=\"text-align: justify;\">In addition, a palm tree can generate up to 10kg of fibrous wood leaves per year, for instance. The UAE has more than 50,000,000 palms which produce 500,000 tons of leaves, an abundance of natural sustainable material which can be used and reused to cover the demand for wood. Aside from SDB, Akmam is one of the innovative products which is specifically made from palm leaves.</p>\r\n<p style=\"text-align: justify;\">The company founded by a US-trained Lebanese scientist, takes particular pride in manufacturing environmentally-friendly products and the flame-inhibitors called Bardan. As part of its corporate social responsibility initiative, Steel Wood Industries actively promotes fire safety awareness in GCC.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that density board manufacturers all too often downplay the risks associated with their products. Steel Wood Industries places safety at the top of its priority list. Having R&amp;D as its starting nuclei, the company is also recognized for its dedication to both quality and innovation. Moreover, Steel Wood Industries is the only wood panel manufacturer in the GCC and the first in the Middle East to put its entire production line on an environmentally-friendly footing. The judges are pleased to name Steel Wood Industries winner of the 2018 Best Sustainable Process Innovation UAE Award.</p>",
     "content_sha256": "46e01da12c705ef4e55ef92ca4e363572a0a9d6c7d89f7ce2952b4a28a061ef4",
-    "record_sha256": "4243a87788e1fb1a402553081e7161881f5b48dee7184c17c59d05acc69049ab"
+    "record_sha256": "7d41a102d1bbcc05860497dd0e2b03bb711ae51355f96930b7262b5785bd2383"
 }

@@ -7,6 +7,15 @@ published_gmt: 2018-07-30 13:11:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/guinea-alumina-corporation-gac-best-esg-mining-project-west-africa-2018/"
 categories: ["Africa", "CSR", "Corporate Governance", "Industries", "Mining", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aace47c058bb9ec111f15e5018b4f164f1287c7d8b1ab00a84d223356925b519
 canonical: 5836-guinea-alumina-corporation-gac-best-esg-mining-project-west-africa-2018.json
 ---

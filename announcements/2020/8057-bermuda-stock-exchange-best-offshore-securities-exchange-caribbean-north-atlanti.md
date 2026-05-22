@@ -7,6 +7,15 @@ published_gmt: 2020-08-10 16:16:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/bermuda-stock-exchange-best-offshore-securities-exchange-caribbean-north-atlantic-region-2020/"
 categories: ["Exchanges &amp; Brokers", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c10b72479906a546610c52cfa49ebabef061e2d840bc80d29d7dbfcccd3a6c4
 canonical: 8057-bermuda-stock-exchange-best-offshore-securities-exchange-caribbean-north-atlanti.json
 ---

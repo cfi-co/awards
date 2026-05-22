@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:18:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/corporacion-zona-franca-industrial-de-santiago-best-esg-industrial-free-zone-latam-caribbean-2019/"
 categories: ["Development", "Government", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd76967c6a9628726037df3e741742a5e2d5879c2753ce30e819014b3d0c8266
 canonical: 7932-corporacion-zona-franca-industrial-de-santiago-best-esg-industrial-free-zone-lat.json
 ---

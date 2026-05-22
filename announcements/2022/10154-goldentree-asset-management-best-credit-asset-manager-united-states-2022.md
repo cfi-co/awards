@@ -7,6 +7,15 @@ published_gmt: 2022-02-02 16:41:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/goldentree-asset-management-best-credit-asset-manager-united-states-2022/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0253d1f0ccc600403ac3d0b279aad909056d4c8250b15ee581a841fbae6fe866
 canonical: 10154-goldentree-asset-management-best-credit-asset-manager-united-states-2022.json
 ---

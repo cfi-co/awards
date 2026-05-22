@@ -7,6 +7,15 @@ published_gmt: 2020-01-21 16:10:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/grieg-group-best-maritime-sustainability-strategy-europe-2019/"
 categories: ["Europe", "Industries", "Sustainability", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3629a6789e07c8407b73368556036f40cff591853122fbecbb775522db3cbaa6
 canonical: 7196-grieg-group-best-maritime-sustainability-strategy-europe-2019.json
 ---

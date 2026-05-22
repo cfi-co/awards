@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 15:06:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/artico-partners-best-quantitative-equity-asset-management-team-switzerland-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a41b7af5b5aa6186a46aa9e407a794428838b4eb0e6caef7ba5e73667639cc54
 canonical: 6429-artico-partners-best-quantitative-equity-asset-management-team-switzerland-2018.json
 ---

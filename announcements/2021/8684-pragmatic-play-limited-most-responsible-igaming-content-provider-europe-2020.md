@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 15:16:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/pragmatic-play-limited-most-responsible-igaming-content-provider-europe-2020/"
 categories: ["Best Practice", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a47d9697ed0ae8c1ae9d96a3ca700883f6862ba0e42ddb14a4689da50d1470c0
 canonical: 8684-pragmatic-play-limited-most-responsible-igaming-content-provider-europe-2020.json
 ---

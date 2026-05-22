@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:34:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/koin-best-payment-solutions-provider-brazil-2017/"
 categories: ["Industries", "Latin America", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1540807614777026a6456b212448280135c5949f0014c50b46a48b2e64325ad2
 canonical: 4904-koin-best-payment-solutions-provider-brazil-2017.json
 ---

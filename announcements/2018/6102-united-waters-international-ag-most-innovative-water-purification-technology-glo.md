@@ -7,6 +7,15 @@ published_gmt: 2018-10-16 12:32:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/technology/2018/united-waters-international-ag-most-innovative-water-purification-technology-global-2018/"
 categories: ["Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 08ff3ea38e569b417e8d02f80d3d0a62ac22727d6d11e51118210ed229484735
 canonical: 6102-united-waters-international-ag-most-innovative-water-purification-technology-glo.json
 ---

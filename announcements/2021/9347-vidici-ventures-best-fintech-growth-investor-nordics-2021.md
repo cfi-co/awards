@@ -7,6 +7,15 @@ published_gmt: 2021-07-07 15:31:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/vidici-ventures-best-fintech-growth-investor-nordics-2021/"
 categories: ["Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a3939ab512fc28309c0e614e9aa83ccdd5440021fa542970b365395ff34c1e6
 canonical: 9347-vidici-ventures-best-fintech-growth-investor-nordics-2021.json
 ---

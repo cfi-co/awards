@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 12:35:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/mining/2022/barrick-gold-most-innovative-esg-mining-solutions-global-2022/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Mining", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 84f71bb02589683adb03621871cfda7773e7875eeb4629cae6fa4e2763ff94cd
 canonical: 10845-barrick-gold-most-innovative-esg-mining-solutions-global-2022.json
 ---

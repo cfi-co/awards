@@ -7,6 +7,15 @@ published_gmt: 2024-06-13 09:50:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/banca-widiba-best-digital-bank-italy-2024/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 19e697053a0cdf22538c292d0a737f462515bda5f1f0638417dd241a63ccf576
 canonical: 12416-banca-widiba-best-digital-bank-italy-2024.json
 ---

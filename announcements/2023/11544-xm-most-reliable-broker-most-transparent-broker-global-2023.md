@@ -7,6 +7,15 @@ published_gmt: 2023-06-06 06:49:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/xm-most-reliable-broker-most-transparent-broker-global-2023/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b503f81a0e262c06b73202df414f9c47ccfa7ab5db111ddb72f37d64f1cce7a7
 canonical: 11544-xm-most-reliable-broker-most-transparent-broker-global-2023.json
 ---

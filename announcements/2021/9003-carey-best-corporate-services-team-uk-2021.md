@@ -7,6 +7,15 @@ published_gmt: 2021-03-31 08:07:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/carey-best-corporate-services-team-uk-2021/"
 categories: ["Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 41aaf21716d9b8c74e8b7ad7d3e73596017b88858c8c7c8c3621f6ddc764ffd7
 canonical: 9003-carey-best-corporate-services-team-uk-2021.json
 ---

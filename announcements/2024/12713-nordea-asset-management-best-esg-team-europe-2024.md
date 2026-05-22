@@ -7,6 +7,15 @@ published_gmt: 2024-11-20 13:15:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/nordea-asset-management-best-esg-team-europe-2024/"
 categories: ["Asset Management", "Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 17b50ca4b812c74ea0a29c5d705b6101652439e0bd20d9de18bd3e3c2499b7e7
 canonical: 12713-nordea-asset-management-best-esg-team-europe-2024.json
 ---

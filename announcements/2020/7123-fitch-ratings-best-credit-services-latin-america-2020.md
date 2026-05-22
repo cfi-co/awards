@@ -7,6 +7,15 @@ published_gmt: 2020-01-13 16:14:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2020/fitch-ratings-best-credit-services-latin-america-2020/"
 categories: ["Finance", "Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5eb8fc3af16152fb41dc4a8d449070ddf888683a9d51b25ee10dca06431ae850
 canonical: 7123-fitch-ratings-best-credit-services-latin-america-2020.json
 ---

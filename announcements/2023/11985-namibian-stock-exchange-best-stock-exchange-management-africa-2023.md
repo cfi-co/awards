@@ -7,6 +7,15 @@ published_gmt: 2023-10-11 11:57:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2023/namibian-stock-exchange-best-stock-exchange-management-africa-2023/"
 categories: ["Africa", "Best Practice", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 49b26b1e2717ae8bf388d6be912262e14607f108278522b5618e43ff4e60e6a3
 canonical: 11985-namibian-stock-exchange-best-stock-exchange-management-africa-2023.json
 ---

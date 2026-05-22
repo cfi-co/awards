@@ -7,6 +7,15 @@ published_gmt: 2015-04-13 14:17:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2015/corporate-properties-best-industrial-park-turnkey-services-solutions-provider-mexico-2015/"
 categories: ["Industries", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 96cd44f4b2ac3c92defddabcc4d28c79f99fe828f117f96ad88ecdf92c2d5c65
 canonical: 2625-corporate-properties-best-industrial-park-turnkey-services-solutions-provider-me.json
 ---

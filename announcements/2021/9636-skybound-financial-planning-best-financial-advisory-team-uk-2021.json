@@ -12,8 +12,21 @@
         "Finance",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-12048 size-full\" title=\"Skybound Financial Planning\" src=\"https://cfi.co/awards/wp-content/uploads/2023/11/SkyboundFinancialPlanning-jpg.webp\" alt=\"Skybound Financial Planning\" width=\"500\" height=\"123\" />\r\n<p style=\"text-align: justify;\">Skybound Financial Planning (SFP) was founded in 1999 to serve the financial planning needs of <a href=\"https://cfi.co/countries/united-kingdom/\">UK</a> solicitors. Their clientele has expanded to accountants together with numerous referrals from clients who are happy to recommend SFP to friends and family. The firm favours an organisational structure that differs from the industry norm, with a set up that is similar to the arrangement favoured by many law firms.</p>\r\n<p style=\"text-align: justify;\">SFP is a Firm of Chartered Financial Planners with a value system based on the highest ethical standards. The firm favours a horizontal approach that focuses on engagement and transparency. It offers an exceptional client experience and a healthy work-life balance for employees. Quality service depends on quality staff and the recruitment team ensures the best candidates are onboarded. SFP comprises 30 professionals, over half of them women. The Paraplanners play a key role in enabling the Financial Planners to focus on building close client relationships and are fully supported by the firm’s administrative team. SFP has invested to strengthen both departments and together they drive forward the Company’s service criteria. The members work in tandem to create opportunities for clients by offering innovative products and unbiased, well-researched advisory services. They size-up investment intentions and let technology help to guide allocation — motivated by the interests of clients, not commission-driven sales. SFP provides spot-on analysis and efficient back-office support to help realise financial goals.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel announces Skybound Financial Planning as winner of the 2021 award for Best Financial Advisory Team (UK).</p>",
     "content_sha256": "35745872beae604c6d77e1322ee712bb5544c576f3ce454a7f213180bfdcb3c6",
-    "record_sha256": "bc2790852afe534fd76bb28ba0ed30503ab0759e701d2994947a2bf77314f2ec"
+    "record_sha256": "d01e35dd88ab3d57a6c8181d4299fff43518262b91b09c415092708f69f2e997"
 }

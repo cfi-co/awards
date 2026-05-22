@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 11:37:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/old-mutual-investment-group-best-esg-responsible-investor-africa-2021/"
 categories: ["Africa", "Best Practice", "CSR", "Corporate Governance", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c5e1d5e2ace673a3b949e86a57d14a6d0bb926eac6fc9d9fe31a9dd1e36e2d2b
 canonical: 9427-old-mutual-investment-group-best-esg-responsible-investor-africa-2021-2.json
 ---

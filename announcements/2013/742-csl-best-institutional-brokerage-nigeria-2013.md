@@ -7,6 +7,15 @@ published_gmt: 2013-09-11 09:14:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/csl-best-institutional-brokerage-nigeria-2013/"
 categories: ["Africa", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a16dee01b0d24436f6169a060bbc3203849854c9cd5e0a306b31fb6d8aa3f4b0
 canonical: 742-csl-best-institutional-brokerage-nigeria-2013.json
 ---

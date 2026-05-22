@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 13:06:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/ghana-international-bank-ghib-best-africa-international-trade-finance-united-kingdom-2017/"
 categories: ["Africa"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 780a49b2f5bce242b44a06282c024ec37410915f2cb0471a4150e21f9b25f198
 canonical: 4311-ghana-international-bank-ghib-best-africa-international-trade-finance-united-kin.json
 ---

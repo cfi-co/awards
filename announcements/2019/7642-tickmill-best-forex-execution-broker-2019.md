@@ -7,6 +7,15 @@ published_gmt: 2019-06-24 11:03:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2019/tickmill-best-forex-execution-broker-2019/"
 categories: ["Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 509e6a72374a01288c0d8d21eb58d0e2ee0fe72661e536f54ba6e41f5078e60e
 canonical: 7642-tickmill-best-forex-execution-broker-2019.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:42:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/fair-finance-most-socially-responsible-pension-fund-central-europe-2020/"
 categories: ["Best Practice", "CSR", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3baa3a3710995638a7ac297a4c0303610153be569328ef8b39b50e8dded591c9
 canonical: 7844-fair-finance-most-socially-responsible-pension-fund-central-europe-2020.json
 ---

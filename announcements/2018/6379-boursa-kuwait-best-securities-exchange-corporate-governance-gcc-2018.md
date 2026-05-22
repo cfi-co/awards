@@ -7,6 +7,15 @@ published_gmt: 2018-12-01 14:36:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/boursa-kuwait-best-securities-exchange-corporate-governance-gcc-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c7b4c6dfc9578a3284a382892f5c971905da8d591118c65d060d2948e8c7186
 canonical: 6379-boursa-kuwait-best-securities-exchange-corporate-governance-gcc-2018.json
 ---

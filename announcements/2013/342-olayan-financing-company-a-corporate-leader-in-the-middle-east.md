@@ -7,6 +7,15 @@ published_gmt: 2013-01-18 14:19:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/olayan-financing-company-a-corporate-leader-in-the-middle-east/"
 categories: ["Corporate Leadership", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f776d2beb27912af6610d93275f91c1f3cf9556f14585f251f8f6ae075b3370
 canonical: 342-olayan-financing-company-a-corporate-leader-in-the-middle-east.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 13:17:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/evertec-best-payment-processing-provider-latin-america-2017/"
 categories: ["Latin America", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 177af21444d30b0fff3dca13918357451c6c5e4f2b46543b36b84cf96b6df16e
 canonical: 4327-evertec-best-payment-processing-provider-latin-america-2017.json
 ---

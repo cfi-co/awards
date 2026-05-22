@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6765\" src=\"https://cfi.co/awards/wp-content/uploads/2019/06/Deutsche_Oppenheim_FO_logo.jpg\" alt=\"Deutsche Oppenheim FO\" width=\"564\" height=\"90\" />\r\n<p style=\"text-align: justify;\">Decades of experience in capital markets have made the Deutsche Oppenheim Family Office a trusted ally in wealth creation and preservation. Its experts draw on long career experience to help clients make the most of their money, now, and in the future. As the multi-family office and asset manager arm of Deutsche Oppenheim Bank, clients benefit from the group’s international network. Deutsche Oppenheim Family Office works with high-net-worth individuals, entrepreneurs, churches, foundations and institutional investors to tailor strategies that reflect individual objectives and circumstances. The strategic asset allocation (SAA) team performs the crucial initial step, quantifying opportunities and risks for liquid and illiquid assets with reliable, research-backed models and market indicators. The SAA team has created an award-winning proprietary simulation model, the Monte Carlo, which takes into account a range of stylised empirical facts, including “black swans” (unpredictable events) and yield curve smoothing. The team applies a “PassivPlus” concept to fund management to cover the SAA-defined liquid benchmarks and market indices with a mix of passive exchange-traded and actively managed target funds. This approach plots an investment roadmap using academically researched and market-proven concepts as guideposts. It harnesses the power of big data algorithms and factor-based modelling to reduce human error and remove emotion from the equation. For its data-driven and customer-centric approach, the CFI.co judging panel declares Deutsche Oppenheim Family Office as the winner of the 2020 award for Best Strategic Asset Allocation Team (Germany).</p>",
     "content_sha256": "48fb54f7840b2d2eb91e4e7c755791579460db0d4cc629e9a0b9bbc38000304d",
-    "record_sha256": "56488dfbd5a0adaefe3779654c8ad46b91c5bfa1d6dc7928a0a9b73a7a75d61d"
+    "record_sha256": "defa9e4f877921e7a422574e95d0bbc1165fecc7b92a7c5f7fd4694213f1ac24"
 }

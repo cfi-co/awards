@@ -7,6 +7,15 @@ published_gmt: 2022-05-10 14:03:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/applied-science-private-university-best-university-internationalisation-strategy-middle-east-2022/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9513f27dd02115d4905d6ddf68be1cbfa792ae4282e1ad976db0fa2ab407516f
 canonical: 10377-applied-science-private-university-best-university-internationalisation-strategy.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2018-07-16 14:40:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/image-nation-abu-dhabi-outstanding-contribution-to-regional-media-uae-2018/"
 categories: ["Community Engagement", "Customer Satisfaction", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 59c375d491e25ea48a64157e235c2ac24780dff0c9a8ad6c4cf0ee1cb06342fd
 canonical: 5796-image-nation-abu-dhabi-outstanding-contribution-to-regional-media-uae-2018.json
 ---

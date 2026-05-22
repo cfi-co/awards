@@ -7,6 +7,15 @@ published_gmt: 2018-02-20 08:34:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/gcc-board-directors-institute-outstanding-contribution-to-corporate-governance-gcc-2017/"
 categories: ["Best Practice", "Corporate Governance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f25ea5324986be1bf12a277077ba9fff075dc217ff512d38c7afeefe5adddd41
 canonical: 5326-gcc-board-directors-institute-outstanding-contribution-to-corporate-governance-g.json
 ---

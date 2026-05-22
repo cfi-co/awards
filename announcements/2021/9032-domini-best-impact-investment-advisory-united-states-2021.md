@@ -7,6 +7,15 @@ published_gmt: 2021-04-14 14:42:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/domini-best-impact-investment-advisory-united-states-2021/"
 categories: ["Consultancies", "Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0b95998c1f98b19197d5cb7f8e61ed41d0e78a2823170d8c25be1cb7ed6b5681
 canonical: 9032-domini-best-impact-investment-advisory-united-states-2021.json
 ---

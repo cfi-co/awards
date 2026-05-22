@@ -7,6 +7,15 @@ published_gmt: 2018-09-07 14:10:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/banco-del-chubut-best-social-impact-retail-bank-argentina-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1760b73f1ec32457a3e8e7c7481bcab9bcde6f547eb08ac0694f473caaea30b3
 canonical: 6006-banco-del-chubut-best-social-impact-retail-bank-argentina-2018.json
 ---

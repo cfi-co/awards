@@ -13,8 +13,21 @@
         "Best Practice",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6752\" src=\"https://cfi.co/awards/wp-content/uploads/2019/05/BIATnew.jpg\" alt=\"\" width=\"600\" height=\"266\" />\r\n<p style=\"text-align: justify;\">Banque Internationale Arabe de Tunisie (BIAT) was founded in 1976, and has developed a solid reputation for its business performance and corporate governance. BIAT had banking products with a net worth of $270m (834.5 m TND) in 2018, and boasts a leading position in the Tunisian financial markets. BIAT employs more than 2,000 dedicated team members to support the business development needs of clients in national and international markets. The bank’s network has more than doubled in size over the past decade, with 204 agencies across Tunisia. BIAT has developed a strategic roadmap for success, and it starts with good governance. The plan is determined by a separation of powers and is regularly updated to maintain its relevance. BIAT partners with an independent international rating agency to provide transparency in its social responsibility and performance. The bank leads by example in terms of good corporate citizenship, and has created a supportive and rewarding work environment for its employees. It has developed a comprehensive code of corporate social responsibility that reflects its commitment to driving economic growth and social progress. It offers investment funds to SMEs across various industries to fuel development in Tunisia’s interior regions. The <a href=\"https://cfi.co/menu/corporate/2022/05/biat-supporting-clients-thriving-in-challenging-era/\">BIAT</a> Foundation For Youth, founded in 2014, manages outreach programmes that provide cultural, educational, and entrepreneurial activities for young Tunisians. The foundation aims to reduce social inequalities, and to encourage academic excellence, build skills and foster creativity. The CFI.co judging panel is pleased to recognise a financial institution with strong market performance and an outstanding commitment to civic responsibility. The judges present Banque Internationale Arabe de Tunisie with the 2019 award for Best Bank Governance (Tunisia).</p>",
     "content_sha256": "72996a25ccd680cb1871a5ea1931fcba6b4f468600076833607efe388da24851",
-    "record_sha256": "f2b95c61415660a3a1179fdcf9b18a20d6e677a5fe685c6b3cfa90f9c4e54485"
+    "record_sha256": "5a9cdabb50d64a9ee188135d9854ff05667b836f006b51998e16231a9e02b11d"
 }

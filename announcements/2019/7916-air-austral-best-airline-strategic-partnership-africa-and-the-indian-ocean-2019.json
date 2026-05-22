@@ -13,8 +13,21 @@
         "Industries",
         "Transport"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7917\" src=\"https://cfi.co/awards/wp-content/uploads/2020/07/Air-Austral.jpg\" alt=\"Air Austral\" width=\"400\" height=\"185\" />\r\n<p style=\"text-align: justify;\">A strategic alliance can convert competitors into colleagues – as well as maximising profits and expanding operations. Air Austral, based on the island of Reunion, off the coast of Madagascar, has signed a Privileged Partnership Agreement (PPA) with Kenya Airways and Air Madagascar. The partnership aims to strengthen each individual airline, as well as the co-operative alliance, with plans to share technical and training resources. Each carrier can now offer customers a wider slice of the globe to explore, and each gains access to its partners’ destinations through code-sharing pacts. Air Austral’s established network includes direct flights to destinations in Europe, Asia, and the Indian Ocean, and the partnership opens new destinations for the airline by establishing Nairobi as an African mainland hub. Air Austral and its partners expect the co-operative exercise to optimise operations through improvements in flight scheduling and capacity exchange. Air Austral has owned an equity stake in Air Madagascar since late 2017, further solidifying the link between the two airlines. The CFI.co judging panel believes that the alliance creates ample room for commercial and operational synergies, and congratulates Air Austral on winning the 2019 award for Best Airline Strategic Partnership (Africa and the Indian Ocean). This is the second 2019 CFI.co award win for Air Austral.</p>",
     "content_sha256": "c48d3a8ca12501a9bf7120ae2d2aef4a6804f996f7717199975ad1e47732fbcd",
-    "record_sha256": "cca935cbbfe6a566e0e9374c30d6b136678c35e3581980106cc519ea8b004d8f"
+    "record_sha256": "bd27a48c7e43f6df6eef38ab298c4b6c69bf333a0fd506b67b28878d134a2cba"
 }

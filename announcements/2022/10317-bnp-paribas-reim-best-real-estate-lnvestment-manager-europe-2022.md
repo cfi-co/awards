@@ -7,6 +7,15 @@ published_gmt: 2022-04-19 11:56:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/bnp-paribas-reim-best-real-estate-lnvestment-manager-europe-2022/"
 categories: ["Europe", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1610ca4e654d6c88b0702ab31fdffbbe7b2b403e8e74708651f48687c7f94151
 canonical: 10317-bnp-paribas-reim-best-real-estate-lnvestment-manager-europe-2022.json
 ---

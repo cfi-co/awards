@@ -7,6 +7,15 @@ published_gmt: 2015-06-09 11:26:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2015/bank-of-new-york-mellon-best-wealth-manager-united-states-2015/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de143e625ee720cf94420c5c82f8d517464641945d454d5bc7d444b3e95396df
 canonical: 2284-bank-of-new-york-mellon-best-wealth-manager-united-states-2015.json
 ---

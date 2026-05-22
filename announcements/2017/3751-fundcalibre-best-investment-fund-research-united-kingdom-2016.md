@@ -7,6 +7,15 @@ published_gmt: 2017-01-19 10:33:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2017/fundcalibre-best-investment-fund-research-united-kingdom-2016/"
 categories: ["Consultancies", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc5e149750a772e8286a352bf03f2d3c50cea612d998d495f6bd645b4c5b5022
 canonical: 3751-fundcalibre-best-investment-fund-research-united-kingdom-2016.json
 ---

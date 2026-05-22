@@ -11,8 +11,21 @@
         "Africa",
         "Best Practice"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4582\" src=\"https://cfi.co/awards/wp-content/uploads/2017/07/TrustBond.jpg\" alt=\"\" width=\"345\" height=\"94\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The promotion of home ownership is considered a shortcut to attaining sustainable economic growth, giving people a tangible stake in their country’s development and adding to overall societal stability. The emergence of a solid mortgage industry is, thus, a precursor of improved living standards and an indicator of a market’s ability to focus on the long-term.</strong></p>\r\n<p style=\"text-align: justify;\">In Nigeria, TrustBond Mortgage Bank is a pioneer in the development of home loan products that further financial inclusion. The bank has introduced a number of innovative mortgage and real estate finance solutions that unlock access to long-term capital. In particular, TrustBond developed innovative products that address specific financial and mortgage needs such as those of bereaved families facing eviction and the millennials – the future generation of Nigerians that accounts for over 70% of the country’s population. With collaborations and partnerships, this would go a long way in contributing to the achievement of the UN’s Sustainable Development Goals in Nigeria – the most populous country and largest economy in Africa.</p>\r\n<p style=\"text-align: justify;\">The bank maintains an array of corporate social responsibility initiatives with a view to helping people gain stability through home ownership. TrustBond also supports the government in designing policies that help solidify the mortgage industry.</p>\r\n<p style=\"text-align: justify;\">Thanks to its adherence to strict standards of corporate governance, the bank has been able to tap into long-term funds at reduced interest rates, driving down the price of its products. With a national housing deficit of over 17 million, TrustBond has ample room for growth.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that accessible mortgage products are of crucial importance in countries such as Nigeria that have embarked on an accelerated development drive. The judges are pleased to offer TrustBond Mortgage Bank the 2017 Outstanding Contribution to Home Ownership Nigeria Award.</p>",
     "content_sha256": "3b801c47906db858f55920f909655772ded5c11d1943b3a28ed8580be0f39320",
-    "record_sha256": "9a48a1c79174980af9cb0eb4f8e1ba2120d9ca31bb6bf4879b3f478fda78eb15"
+    "record_sha256": "bc2b97592fb0d46a5844ef0ada0da5003266d0bdc6b1cfc76e82777766ea6cc1"
 }

@@ -7,6 +7,15 @@ published_gmt: 2013-07-12 14:27:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/marina-securities-win-cfi-nigeria-brokerage-award-2013/"
 categories: ["Africa", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50cc604db18962d8c8d38a6e7c5fecd47ed65bbf0f68a1916e7f1ff912ea9d65
 canonical: 653-marina-securities-win-cfi-nigeria-brokerage-award-2013.json
 ---

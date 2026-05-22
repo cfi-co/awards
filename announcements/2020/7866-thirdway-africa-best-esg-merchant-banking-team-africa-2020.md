@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 11:05:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/thirdway-africa-best-esg-merchant-banking-team-africa-2020/"
 categories: ["Africa", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad1e1c8d0ae65e99f52fe59f2f68c2aa8a0f5c0f18653d8ceec238f1a13d1a06
 canonical: 7866-thirdway-africa-best-esg-merchant-banking-team-africa-2020.json
 ---

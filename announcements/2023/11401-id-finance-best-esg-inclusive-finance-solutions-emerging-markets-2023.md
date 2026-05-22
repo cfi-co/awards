@@ -7,6 +7,15 @@ published_gmt: 2023-04-21 12:19:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2023/id-finance-best-esg-inclusive-finance-solutions-emerging-markets-2023/"
 categories: ["Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 22987673c3d36e1dca2c399cb4de19d0d0fe1165a97dc47f87d9184b2dd772e1
 canonical: 11401-id-finance-best-esg-inclusive-finance-solutions-emerging-markets-2023.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2018-10-16 17:04:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/bank-of-mauritius-best-central-bank-governance-indian-ocean-2018/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c31859d7ba117319ca14b9faba89226f7597ef06e08dab0096c5fc0508b746b8
 canonical: 6145-bank-of-mauritius-best-central-bank-governance-indian-ocean-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 11:46:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/ascential-best-global-digital-growth-solutions-uk-2020/"
 categories: ["Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc5596a0d3464eba0014ec18188ffe85286d92c2c85e4fe5f94c3151e01ffe65
 canonical: 8069-ascential-best-global-digital-growth-solutions-uk-2020.json
 ---

@@ -18,8 +18,21 @@
         "Government",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8522\" src=\"https://cfi.co/awards/wp-content/uploads/2020/12/Public-Investment-Corporation-PIC.jpg\" alt=\"Public Investment Corporation PIC Africa\" width=\"229\" height=\"203\" />\r\n<p style=\"text-align: justify;\"><strong>As the largest asset manager in Africa, the Public Investment Corporation (PIC), wields huge economic influence. In respect of this responsibility, the South African state-owned asset manager strives to advance transformation and equilibrium in economic and social considerations, as well as in terms of gender and racial balance.</strong></p>\r\n<p style=\"text-align: justify;\">The PIC predominantly works with public sector clients such as government social investment funds and pension funds. It has developed governance codes that are aligned with international best-practice and tailored for emerging markets. High levels of economic disparity have historically been a problem in South Africa, but PIC is striving to change that.</p>\r\n<p style=\"text-align: justify;\">The corporation is determined to help the country achieve financial integration, inclusivity and empowerment. The UN’s Sustainable Development Goals (SDGs) provide a framework for measuring the impact of the PIC portfolio. The PIC does not waver in its commitment to the SDGs — and if anything, the COVID-19 pandemic has re-invigorated this approach. COVID-19 has highlighted and exacerbated socio-economic disparities on the African continent, and the PIC believes its operations can contribute to sustainable returns for clients whilst contributing to infrastructure and business development, and job creation though its impact investing initiatives.</p>\r\n<p style=\"text-align: justify;\">Ms Rubeena Solomon, Executive Head for Investment Management, ESG and Portfolio Monitoring and Valuations, explains the PIC investment philosophy: “The PIC is committed to sustainable investing and to create inclusive opportunities that generate long-term financial and social returns. Investments have an impact – not only on investee companies with respect to the ethical conduct and sound corporate governance that the PIC expects, but also for communities in which investments are made, and from which the country at large benefits. Investments by the PIC thus strive to facilitate job creation and - preservation and to contribute to expanding economic infrastructure and social services.”</p>\r\n<p style=\"text-align: justify;\">Some of the outcomes delivered by the PIC portfolio include the financing of 64,935 residences, the funding of 41 farms, support for 3,353 SMEs and facilitating 138,334 direct jobs. PIC clients have invested $248.7m in the country’s transport and logistics sector and generated 2,420 megawatts of renewable energy.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to recognise PIC with the 2020 award for Most Responsible ESG Investor (Africa).</p>",
     "content_sha256": "f195f33f422408decd9e7d007e17b4102903413356cf60f60a3d2d25943a836f",
-    "record_sha256": "bc186892684034f86afe0e37e0e4df9799b00723cc0d3511ba4859a3abc2682d"
+    "record_sha256": "a47475fc4198a37d34ee67b78b1586b8458e4300ec5763bf9eb9ea3cd1009dc1"
 }

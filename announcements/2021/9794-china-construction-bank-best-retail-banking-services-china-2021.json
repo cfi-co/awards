@@ -10,8 +10,21 @@
     "categories": [
         "Asia Pacific"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-1878\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/ccb.jpg\" alt=\"China Construction Bank\" width=\"506\" height=\"86\" />\r\n<p style=\"text-align: justify;\">Over the past 67 years, China Construction Bank Corporation (CCB) has evolved into a comprehensive financial service-provider with 346,671 employees, 14,741 domestic branches, and hundreds of overseas subsidiaries. CCB serves hundreds of millions of customers around the world and ranks as the fourth-largest listed bank in terms of market capitalisation — and second in Tier 1 capital. CCB’s “New Finance” approach focuses on home rental, inclusive finance, and fintech. The state-owned bank expands its user base via digitalisation initiatives. At the end of Q1 this year, CCB’s housing rental platform covered 328 cities and 34 million registered users. Inclusive finance loans have radically increased, helping to tackle poverty and revitalise rural areas. Fintech has been harnessed to facilitate the sharing of data and to improve agricultural livelihoods. CCB targets five regions, helping to lift 750,000 people in 2,486 villages out of poverty. Inclusive finance solutions expand through an online-offline financial services system that prioritises lower-tier cities and rural areas. CCB’s brand, Yunongtong, covers the nation with 527,000 service points, providing services to 41 million rural residents through the Rural Revitalisation campaign. The bank has built 2,022 schools and organised 45,000 training sessions, including several geared to financial literacy and poverty reduction. Over three million rural residents have benefitted from the programme. The CFI.co judging panel recognises the inclusive momentum of China Construction Bank with the 2021 award for Best Retail Banking Services (China).</p>",
     "content_sha256": "8643ef3f95c3076ebbef3adaec818b208403ec3a6ef903bdc658dc7bd77b636c",
-    "record_sha256": "d06517ccba0e115ee030d1e8f281ac452dbbfc03ddd5e00e2fe7156fee1ce7a4"
+    "record_sha256": "2d85f92f32c2597d4b26e0843a96833eb92cd0b6c4cff9b932c15db016e5c85e"
 }

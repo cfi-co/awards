@@ -7,6 +7,15 @@ published_gmt: 2021-04-12 07:52:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/national-commercial-bank-jamaica-limited-ncb-best-digital-banking-services-caribbean-2020/"
 categories: ["Banking", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f1caf7f1c4022bc7f74a321ae25b0a4ea41f669001a1de552cd6ef1668a01881
 canonical: 9195-national-commercial-bank-jamaica-limited-ncb-best-digital-banking-services-carib.json
 ---

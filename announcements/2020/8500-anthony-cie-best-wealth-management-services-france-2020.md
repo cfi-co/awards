@@ -7,6 +7,15 @@ published_gmt: 2020-11-24 07:00:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/anthony-cie-best-wealth-management-services-france-2020/"
 categories: ["Asset Management", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa3d6fcd077c87dcd691f830c97b593b10630c482704e8d3eab5ec6d9497bb86
 canonical: 8500-anthony-cie-best-wealth-management-services-france-2020.json
 ---

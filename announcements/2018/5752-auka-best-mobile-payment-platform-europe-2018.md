@@ -7,6 +7,15 @@ published_gmt: 2018-07-05 08:57:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/auka-best-mobile-payment-platform-europe-2018/"
 categories: ["Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7ef63df448d699351f55834d6460abb5f73bae7a1f151a466032d9db78f6af4e
 canonical: 5752-auka-best-mobile-payment-platform-europe-2018.json
 ---

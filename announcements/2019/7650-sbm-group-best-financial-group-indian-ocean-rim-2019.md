@@ -7,6 +7,15 @@ published_gmt: 2019-06-24 11:07:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/sbm-group-best-financial-group-indian-ocean-rim-2019/"
 categories: ["Asia Pacific", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 667ea23dc9ac8809a4aa56c5761568a65dbbfdb529cbe7fcafc2349e8c135394
 canonical: 7650-sbm-group-best-financial-group-indian-ocean-rim-2019.json
 ---

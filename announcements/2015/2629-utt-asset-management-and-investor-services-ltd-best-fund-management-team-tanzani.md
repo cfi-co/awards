@@ -7,6 +7,15 @@ published_gmt: 2015-05-20 08:24:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/utt-asset-management-and-investor-services-ltd-best-fund-management-team-tanzania-2015/"
 categories: ["Africa", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 70880f716fd8c89b1aab0d9718b61045a2eaec3d09527cec1b2f1c43801a87e0
 canonical: 2629-utt-asset-management-and-investor-services-ltd-best-fund-management-team-tanzani.json
 ---

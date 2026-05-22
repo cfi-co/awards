@@ -7,6 +7,15 @@ published_gmt: 2013-11-05 15:37:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/ezentis-group-brilliant-corporate-turnaround-and-inclusion-in-the-cfi-top-100-list-for-2013/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ac4c03b3d93160d0f7d13d3c79f3daf86dad066ec2c50f81a329ba396253c6f1
 canonical: 874-ezentis-group-brilliant-corporate-turnaround-and-inclusion-in-the-cfi-top-100-li.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-12-13 14:13:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/edelmann-group-best-sustainable-packaging-solutions-germany-2021/"
 categories: ["Best Practice", "CSR", "Europe", "Industries", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2bbe48673e9147f7bcf9242cea4a51d62e462c097fc243dda36d9d0d16674788
 canonical: 9877-edelmann-group-best-sustainable-packaging-solutions-germany-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 16:18:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/arthaland-best-eco-property-developer-philippines-2018/"
 categories: ["Asia Pacific", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d728d533ea92cfecb28e32bfb0499134119c4e6c7bda8f22fb5bfebe1fc25f03
 canonical: 6484-arthaland-best-eco-property-developer-philippines-2018.json
 ---

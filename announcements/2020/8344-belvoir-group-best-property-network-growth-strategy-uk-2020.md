@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 14:28:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/belvoir-group-best-property-network-growth-strategy-uk-2020/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 004b63e0bd8d8120a8e012dd30ca7d0fe197a7f028e0150c88292ebe11bf9798
 canonical: 8344-belvoir-group-best-property-network-growth-strategy-uk-2020.json
 ---

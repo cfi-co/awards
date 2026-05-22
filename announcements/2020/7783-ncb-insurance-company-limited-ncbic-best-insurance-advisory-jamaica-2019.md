@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 15:46:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2020/ncb-insurance-company-limited-ncbic-best-insurance-advisory-jamaica-2019/"
 categories: ["Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bef2d501508653548676a9f16aee11fe0a915ddac6e2b7d7ab31c3c83119ffb9
 canonical: 7783-ncb-insurance-company-limited-ncbic-best-insurance-advisory-jamaica-2019.json
 ---

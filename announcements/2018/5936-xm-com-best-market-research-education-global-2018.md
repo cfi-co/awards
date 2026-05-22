@@ -7,6 +7,15 @@ published_gmt: 2018-09-04 10:03:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/xm-com-best-market-research-education-global-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7d575d0d6f73d56e7b6e0a09d7851a6ae03d1ae87dd6de2cb879e535a419487b
 canonical: 5936-xm-com-best-market-research-education-global-2018.json
 ---

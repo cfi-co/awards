@@ -7,6 +7,15 @@ published_gmt: 2018-10-24 13:13:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/batelco-group-most-digitally-inclusive-telecom-mena-2018/"
 categories: ["Industries", "Middle East", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b90ce00146e8928b77f230965b49944a47d0c866726c394d21465a34d80228f4
 canonical: 6249-batelco-group-most-digitally-inclusive-telecom-mena-2018.json
 ---

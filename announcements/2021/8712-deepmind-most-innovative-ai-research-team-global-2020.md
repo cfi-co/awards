@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:02:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/deepmind-most-innovative-ai-research-team-global-2020/"
 categories: ["Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9f374386dcf22021081eb4a0fc99386d42d36bd889198912528b05e701429273
 canonical: 8712-deepmind-most-innovative-ai-research-team-global-2020.json
 ---

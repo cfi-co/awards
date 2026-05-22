@@ -7,6 +7,15 @@ published_gmt: 2023-06-16 09:30:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2023/klavi-best-open-finance-solutions-provider-brazil-2023/"
 categories: ["Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ae786e19b37ad6310f87c877e15c06287247e760e5710726a41b77080e8da58
 canonical: 11559-klavi-best-open-finance-solutions-provider-brazil-2023.json
 ---

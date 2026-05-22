@@ -7,6 +7,15 @@ published_gmt: 2013-12-01 15:47:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/cfi-announces-arab-bank-as-2013-award-winner-in-jordan/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 385bc0b48c50fe9ee34c6842fc741b8429b4c33566bf067292bb9c2128c6ecdb
 canonical: 1001-cfi-announces-arab-bank-as-2013-award-winner-in-jordan.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 15:14:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/swedbank-best-green-bank-sweden-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fa87665902cfea96d15178f0e813d28a5e1fa9b6c85ae6a0cf6d826464d87190
 canonical: 6445-swedbank-best-green-bank-sweden-2018.json
 ---

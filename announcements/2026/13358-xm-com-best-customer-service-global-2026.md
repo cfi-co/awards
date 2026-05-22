@@ -7,6 +7,15 @@ published_gmt: 2026-03-18 11:17:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/customer-satisfaction/2026/xm-com-best-customer-service-global-2026/"
 categories: ["Customer Satisfaction", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b8642f6b29d9ef88cd6b06326ecd6ce2140b1192d66c42d61af940535c4dcc6a
 canonical: 13358-xm-com-best-customer-service-global-2026.json
 ---

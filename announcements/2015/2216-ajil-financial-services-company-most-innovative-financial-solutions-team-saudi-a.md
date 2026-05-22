@@ -7,6 +7,15 @@ published_gmt: 2015-05-06 14:35:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2015/ajil-financial-services-company-most-innovative-financial-solutions-team-saudi-arabia-2014/"
 categories: ["Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca513e70f37a7a01d384f02c33e2013b31c607b8dad06cb10075e6d0f4a7f1bb
 canonical: 2216-ajil-financial-services-company-most-innovative-financial-solutions-team-saudi-a.json
 ---

@@ -11,8 +11,21 @@
         "Middle East",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10787\" src=\"https://cfi.co/awards/wp-content/uploads/2022/10/STS-Pay-One.jpg\" alt=\"STS PayOne\" width=\"500\" height=\"101\" />\r\n<p style=\"text-align: justify;\"><strong>One of the stand-out providers in the payment gateway service field is STS PayOne, a leading fintech company which is helping to revolutionise the sector. The business has proven specialism in digital payment acceptance, and is enterprise-centric. Based in the Jordanian capital Amman, with offices in Istanbul, Riyadh and Dubai, the company follows a unique business model making its operations more agile and cost-effective in a highly competitive sector.</strong></p>\r\n<p style=\"text-align: justify;\">STS PayOne has built a reseller network and a broad client base across the Middle East and Africa, helping businesses to boost sales, offering a fast and secure online payment experience. It utilised technology which has been developed in-house, to cater for the specific needs of clients and launch products at the right time. The company is providing cutting-edge solutions for merchants who need to accept digital payments across eCommerce websites, mobile applications, POS machines and the pay-by-link mechanism.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to present the company with the 2022 award, Best Digital Payment Transformation Partner GCC.</p>",
     "content_sha256": "7adefd557979ae27eae273b9c4f91c5e85ca6946853d9743625fca55c1930bc3",
-    "record_sha256": "257bb548650eed8c11c7cad4f13b967a4ccfc86711d457fd748083f74bd0f97f"
+    "record_sha256": "1b929992d24df9ab02bfb2ebdc8bcc9718600df7ae516351cf7d9d553de52e40"
 }

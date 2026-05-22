@@ -7,6 +7,15 @@ published_gmt: 2026-02-16 12:59:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2026/enso-gmbh-best-hydro-power-and-renewable-energies-investment-partner-europe-2025/"
 categories: ["Development", "Europe", "Finance", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a0c8c0764bf6dd15b889132dc42cf9e27d45fb56fe857ca458f8e50c21a537a1
 canonical: 13326-enso-gmbh-best-hydro-power-and-renewable-energies-investment-partner-europe-2025.json
 ---

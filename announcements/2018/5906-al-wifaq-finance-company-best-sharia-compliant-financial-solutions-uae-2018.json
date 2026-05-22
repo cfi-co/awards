@@ -8,8 +8,21 @@
     "published_gmt": "2018-08-30 11:41:16",
     "modified_gmt": "2021-07-05 10:50:38",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5907\" src=\"https://cfi.co/awards/wp-content/uploads/2018/08/AlWifaq.jpg\" alt=\"\" width=\"349\" height=\"78\" />\r\n<p style=\"text-align: justify;\"><strong>A wholly-owned subsidiary of Union National Bank Group (UNB), one of the leading financial services providers in the United Arab Emirates and the wider Middle East, Al Wifaq Finance Company offers a comprehensive range of Sharia-compliant banking products and services to both individual clients and businesses. Eminently customer-centric, Al Wifaq ensures proximity to its account holders via a network of ten branches. The company also maintains its own counters at UNB branches.</strong></p>\r\n<p style=\"text-align: justify;\">Al Wifaq has established a solid reputation for excellence and expediency in customer-facing operations. The company implemented a set of streamlined procedures in order to quickly unlock access to its products, speed up decision-making processes, and optimise customer satisfaction. Successive annual surveys show that Al Wifaq account holders feel exceptionally well-served and would gladly recommend the finance company to friends and family.</p>\r\n<p style=\"text-align: justify;\">Al Wifaq is also dedicated to empowering small and medium-sized enterprises (SMEs) with a full suite of products tailored to meet the need of businesses as they seek to expand their reach. The finance company also supports start-up companies and families longing to buy their first home. As part of a larger bank group, Al Wifaq has the ability to help its clients reach their personal or business goals.</p>\r\n<p style=\"text-align: justify;\">The finance company is considered the Islamic banking arm of its parent company. To ensure compliance with Sharia Law, Al Wifaq maintains a supervisory board of prominent Islamic scholars which regularly reviews the company’s products and services.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel recognises the growing importance of Islamic finance and the effort of Al Wifaq to design products and implement policies that meet the strict criteria its customers demand. The judges declare Al Wifaq Finance Company winner of the 2018 Best Sharia-Compliant Financial Solutions UAE Award.</p>",
     "content_sha256": "8d53754f4f2f652e8d7596ee4c14d58c1f2119a3fbb95b6937b6cb8ffafb7c55",
-    "record_sha256": "3215a8722bc470e35cd9b8e04e3536ac3cd5a0ac350f972389298d367ed39880"
+    "record_sha256": "1196b0e9daf0ff1d083d46a9429976b156e84a65cb8da779d8fdcf5ffd95a8ac"
 }

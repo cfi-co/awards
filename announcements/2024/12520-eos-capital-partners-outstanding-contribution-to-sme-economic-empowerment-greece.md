@@ -7,6 +7,15 @@ published_gmt: 2024-08-27 12:57:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/eos-capital-partners-outstanding-contribution-to-sme-economic-empowerment-greece-2024/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 211c1e62d66362fee469cd70df5109071fea544727c3da53cc82d5c056869cb1
 canonical: 12520-eos-capital-partners-outstanding-contribution-to-sme-economic-empowerment-greece.json
 ---

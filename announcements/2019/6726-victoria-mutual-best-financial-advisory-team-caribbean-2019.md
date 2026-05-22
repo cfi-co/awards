@@ -7,6 +7,15 @@ published_gmt: 2019-06-01 18:22:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/consultancies/2019/victoria-mutual-best-financial-advisory-team-caribbean-2019/"
 categories: ["Consultancies"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f70a1fc3aa326c334ede706f933077098054f63d4ec8c6fbbf30590b7177ac47
 canonical: 6726-victoria-mutual-best-financial-advisory-team-caribbean-2019.json
 ---

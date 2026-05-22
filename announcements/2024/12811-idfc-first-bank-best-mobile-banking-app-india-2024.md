@@ -7,6 +7,15 @@ published_gmt: 2024-07-27 08:21:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2024/idfc-first-bank-best-mobile-banking-app-india-2024/"
 categories: ["Asia Pacific", "Banking", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f5f36e73c4a73d58376b2c2aa2c05778fe46e543cbdcd2aecf2b77d64abb3862
 canonical: 12811-idfc-first-bank-best-mobile-banking-app-india-2024.json
 ---

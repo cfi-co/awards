@@ -7,6 +7,15 @@ published_gmt: 2013-04-02 14:47:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2013/the-ip-award-for-the-united-states-goes-to-loeb-loeb/"
 categories: ["Legal", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f29d4324ae36cc8185bb29a32f446dfdc457e6be4415d5005880a79ec5de6f78
 canonical: 433-the-ip-award-for-the-united-states-goes-to-loeb-loeb.json
 ---

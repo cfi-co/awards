@@ -11,8 +11,21 @@
         "Latin America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9486\" src=\"https://cfi.co/awards/wp-content/uploads/2021/08/Delta.jpg\" alt=\"Delta\" width=\"400\" height=\"151\" />\r\n<p style=\"text-align: justify;\">Founded in 2010 in Panama, Reaseguradora Delta Internacional is a client-centric operation that aims to help insurance companies to measure risks and support informed decision-making. The company is owned by shareholders from the insurance and investment industries, and the network includes offices in Panama, the US and Venezuela. Reaseguradora Delta began operations in 1963 with just two employees. Today, the group is a leading reinsurer in the Venezuelan market and a prominent regional player with broad international projection. Delta Reinsurance, located in Miami, focuses on the underwriting lines of its partners. The group is unified behind the motto “SER DELTA”, a Spanish-language acronym which stands for service, excellence, profitability and talent development. It offers consulting services, supported by years of industry experience, as well as technical training. It also provides backing for contractual and facultative reinsurance business. Backing services give insurance companies stability and solvency by covering part of assumed risks and reducing the economic impact of policy pay-outs. Facultative products range from vehicles, boats and general liability to bonds, industry, commerce, and the transport of goods. Contractual products cover non-proportional, excess-of-loss treaties or proportional, automatic treaties. Reaseguradora Delta Internacional conducts its own due diligence, evaluating the business portfolios of prospective partners to determine risk coverage and capabilities, and adapting services and products to fit. The CFI.co judging panel presents Reaseguradora Delta Internacional with the 2021 award for Best Reinsurance Solutions (Central America).</p>",
     "content_sha256": "a74c5ffbc5de9d276b3836f7b556d050e3012ced9dd63f06765217fe8ce2454c",
-    "record_sha256": "fd36e6f1fdf8512ec7884160eaa976782c6a284856c4970e3792819383c60747"
+    "record_sha256": "cb7aa271ab557262e70b225424cad522b5fba994df4bf1bf96c80e5aa2508c3b"
 }

@@ -7,6 +7,15 @@ published_gmt: 2016-08-26 12:31:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2016/fitch-ratings-best-global-rating-service-2016/"
 categories: ["Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9d318a076e7bafa9f595829c45c3073614e2acc1dc9cc69d43468425dbee43f
 canonical: 3431-fitch-ratings-best-global-rating-service-2016.json
 ---

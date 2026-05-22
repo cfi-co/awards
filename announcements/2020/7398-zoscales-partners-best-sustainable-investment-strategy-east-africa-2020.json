@@ -10,8 +10,21 @@
     "categories": [
         "Africa"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7399\" src=\"https://cfi.co/awards/wp-content/uploads/2020/05/Zoscales-Partners.jpg\" alt=\"Zoscales-Partners\" width=\"500\" height=\"89\" />\r\n<p style=\"text-align: justify;\">Zoscales Partners, based in Addis Ababa, has crafted win-win solutions with its impact investment. It launched a $75m fund three years ago which has since created some 300 jobs in East Africa. A second fund is expected for 2020, and the firm anticipates another 800 jobs will be created. The private equity manager ensures profit-seeking never comes at the expense of positive outcomes for society. Zoscales targets SMEs with the potential for high community impact as well as strong growth and investor return. It then takes a majority shareholder or preferred shareholding role to provide the expertise and funding to take the business to the next level. East Africa offers the convergence of healthy economies and a wealth of skilled workers, and strong corporate governance ensures investor protection. Fair taxation schemes support FDI, and the Zoscales portfolio includes the consumer goods, healthcare and materials sectors. The firm focuses on these core industries for their growth potential (projected at over 15 percent CAGR) and promising exit paths: trade sales and secondary buyouts. Its teams have the international experience and local knowledge to deliver results-driven progress. Zoscales Partners was born from the friendship of founders Ashenafi Alemu, of Ethiopia, and Jacop Rentschler, of Denmark, who met during a foreign exchange programme. The firm honours that heritage with a biennial scholarship to the Copenhagen Business School. The CFI.co judging panel presents <a href=\"https://cfi.co/menu/corporate/2021/08/zoscales-partners-invest-where-it-matters/\">Zoscales Partners</a> with the 2020 award for Best Sustainable Investment Strategy (East Africa).</p>",
     "content_sha256": "a2afd28896f0707e50a99f527e72d2e9ce75935f7152bd77d56bf21b7d41d494",
-    "record_sha256": "7b511f6d710461576671ac94daa51456824499fbbe110e1419465fc313c35ccd"
+    "record_sha256": "f7834eb2b5acb29a9a0c7d61f7226ca774fcaca4899da2ced392d321f2c4d287"
 }

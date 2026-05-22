@@ -7,6 +7,15 @@ published_gmt: 2020-10-20 08:37:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/jaggaer-best-smart-eprocurement-platform-global-2020/"
 categories: ["Industries", "North America", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 204040a4496d583729384b4106d5d36cd27aa3bc3a71743a6313cb9a32f4170f
 canonical: 8262-jaggaer-best-smart-eprocurement-platform-global-2020.json
 ---

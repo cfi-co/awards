@@ -7,6 +7,15 @@ published_gmt: 2019-12-09 16:51:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/european-energy-exchange-eex-best-energy-commodities-trading-house-global-2019/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance", "Industries", "Mining", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3a0e7485db1f639c401cd658607e6f0abe961f864062c3333f5ca38d97ddfc83
 canonical: 7037-european-energy-exchange-eex-best-energy-commodities-trading-house-global-2019.json
 ---

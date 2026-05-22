@@ -7,6 +7,15 @@ published_gmt: 2013-11-04 09:00:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2013/armani-hotels-resorts-best-luxury-hotel-experience-global-2013/"
 categories: ["Industries", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8d9667b80bbf5e604c6707d38a7aa99f4d9e4d7bb2f85b5aa24029031727ec99
 canonical: 1075-armani-hotels-resorts-best-luxury-hotel-experience-global-2013.json
 ---

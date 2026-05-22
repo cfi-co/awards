@@ -7,6 +7,15 @@ published_gmt: 2020-06-08 08:47:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/belfius-best-digital-bank-belgium-2020/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5ddff0ac33a439c83f8cfb33aecd959bff1794c1a23dcc13ae43326192d01c88
 canonical: 7408-belfius-best-digital-bank-belgium-2020.json
 ---

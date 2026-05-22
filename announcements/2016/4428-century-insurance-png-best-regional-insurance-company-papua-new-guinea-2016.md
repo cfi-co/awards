@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 14:15:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/century-insurance-png-best-regional-insurance-company-papua-new-guinea-2016/"
 categories: ["Asia Pacific", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b52dd7ff3168ff3642da4886742315c31bda52426201be3867ab3123aadf4cf1
 canonical: 4428-century-insurance-png-best-regional-insurance-company-papua-new-guinea-2016.json
 ---

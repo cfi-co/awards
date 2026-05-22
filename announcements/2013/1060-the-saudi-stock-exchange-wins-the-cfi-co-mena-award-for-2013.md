@@ -7,6 +7,15 @@ published_gmt: 2013-12-12 15:00:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/the-saudi-stock-exchange-wins-the-cfi-co-mena-award-for-2013/"
 categories: ["Africa", "Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 607fde02b32052a8fc5426773e1ce59ea7e1d43e882ede3e7d46c74a4f4933c0
 canonical: 1060-the-saudi-stock-exchange-wins-the-cfi-co-mena-award-for-2013.json
 ---

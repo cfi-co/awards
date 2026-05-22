@@ -7,6 +7,15 @@ published_gmt: 2025-05-29 11:45:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2025/corporacion-zona-franca-santiago-best-esg-industrial-free-zone-latam-caribbean-2025/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Latin America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a2c0635cf3a1562e1abb001868687dee3a9c618107b6dd778097d4386a0d6fb
 canonical: 12966-corporacion-zona-franca-santiago-best-esg-industrial-free-zone-latam-caribbean-2.json
 ---

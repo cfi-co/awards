@@ -7,6 +7,15 @@ published_gmt: 2018-05-23 12:52:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/banque-de-developpement-de-guinee-best-socio-economic-impact-bank-west-africa-2018/"
 categories: ["Africa", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0966d5defd9b12b71249c457aac0082199a222c8bc0df9fe3c88ca5250083c0d
 canonical: 5856-banque-de-developpement-de-guinee-best-socio-economic-impact-bank-west-africa-20.json
 ---

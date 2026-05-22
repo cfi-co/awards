@@ -7,6 +7,15 @@ published_gmt: 2026-05-20 15:14:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2026/pillarstone-excellence-in-transformative-impact-investments-europe-2026/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 91b0574f80da1e29cbeb87e6b8c1487b9058e17d9c7cd2b654e60fab4786cbc8
 canonical: 13433-pillarstone-excellence-in-transformative-impact-investments-europe-2026.json
 ---

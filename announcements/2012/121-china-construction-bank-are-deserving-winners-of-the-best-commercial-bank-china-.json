@@ -12,8 +12,21 @@
         "Banking",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1878\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/ccb.jpg\" alt=\"ccb\" width=\"506\" height=\"86\" /></p>\r\n<p style=\"text-align: justify;\"><strong>CCB delivers strong online, telephone and mobile banking. </strong></p>\r\n<p style=\"text-align: justify;\">Corporate governance at the organisation is good – with an understanding that this is the key to improved international competitiveness and more efficient modern banking. The judges consider the Bank’s corporate social responsibility as exemplary given its material support to a great number of good causes and its stated aim of helping whenever possible to improve lives.</p>",
     "content_sha256": "6a386bbe6fa9fe2c7e0f508b564a7cac8c363615a514df21b89a20a0570e3d77",
-    "record_sha256": "559788b23250dfb834cd3f86a31557760da6c255349f42173ce52d6bf3031f1d"
+    "record_sha256": "acd4412b34ab37af7d2f2e862909783adfc14293575b96dc484fe154279afe55"
 }

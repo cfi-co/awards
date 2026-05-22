@@ -7,6 +7,15 @@ published_gmt: 2022-01-09 10:12:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/stc-kuwait-outstanding-achievements-in-corporate-governance-stakeholder-protection-kuwait-2021/"
 categories: ["Best Practice", "Corporate Governance", "Development", "Government", "Middle East", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0cce9eac83978c80c9d2c86a2124bd87f1c5d13df5839fa846cba9581e3ac804
 canonical: 9936-stc-kuwait-outstanding-achievements-in-corporate-governance-stakeholder-protecti.json
 ---

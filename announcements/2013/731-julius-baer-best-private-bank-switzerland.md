@@ -7,6 +7,15 @@ published_gmt: 2013-01-15 09:00:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/julius-baer-best-private-bank-switzerland/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 062042260c5007e82479e36a7319ecd4224d41598b75eedd30f0ec104c85a757
 canonical: 731-julius-baer-best-private-bank-switzerland.json
 ---

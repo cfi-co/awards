@@ -7,6 +7,15 @@ published_gmt: 2015-05-12 15:50:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/ih-group-best-corporate-finance-team-zimbabwe-2015/"
 categories: ["Africa", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7772ad27ceb42ea6568eeed8fd94d4e4152eb392ea1cd4cf323d7f15b62812f8
 canonical: 2228-ih-group-best-corporate-finance-team-zimbabwe-2015.json
 ---

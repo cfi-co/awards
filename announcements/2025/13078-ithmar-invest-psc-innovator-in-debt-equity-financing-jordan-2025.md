@@ -7,6 +7,15 @@ published_gmt: 2025-08-22 15:12:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2025/ithmar-invest-psc-innovator-in-debt-equity-financing-jordan-2025/"
 categories: ["Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2509db6bfc862c6c0dab4f48e4ed52f6069819490f2ec082fd07387000ac413
 canonical: 13078-ithmar-invest-psc-innovator-in-debt-equity-financing-jordan-2025.json
 ---

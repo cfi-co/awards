@@ -7,6 +7,15 @@ published_gmt: 2023-08-09 09:15:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/transport/2023/air-austral-best-airline-customer-satisfaction-indian-ocean-2023/"
 categories: ["Africa", "Asia Pacific", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c164603cb04032cf24e0128f65202fc02c787f41be37c9cb83d4ce787cbb528d
 canonical: 11748-air-austral-best-airline-customer-satisfaction-indian-ocean-2023.json
 ---

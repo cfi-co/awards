@@ -7,6 +7,15 @@ published_gmt: 2021-01-21 17:23:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/suez-uk-best-sustainable-management-solutions-united-kingdom-2020/"
 categories: ["Best Practice", "Consultancies", "Europe", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 94707ca2bc5cf353820348b8d062be0b34527ddc79d96899dece472598b35346
 canonical: 8618-suez-uk-best-sustainable-management-solutions-united-kingdom-2020.json
 ---

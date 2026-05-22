@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 12:05:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2019/grupo-interbrok-best-independent-insurance-broker-brazil-2019/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 413cd90ed94e074df1338ea6a4aa6519192dd37a46b1831cf7920611f0d86bb1
 canonical: 7674-grupo-interbrok-best-independent-insurance-broker-brazil-2019.json
 ---

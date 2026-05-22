@@ -7,6 +7,15 @@ published_gmt: 2021-12-07 08:25:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/sydinvest-best-investment-fund-manager-denmark-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c97f80613bd066c2d985fd543269cc06c599214fed0672240b8eb680700c9669
 canonical: 9862-sydinvest-best-investment-fund-manager-denmark-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-06-10 17:05:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/snr-denton-named-best-corporate-commercial-team-oman/"
 categories: ["Legal", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a7a57740016f12790ff17a50bf6397bf5ca3a480110f5f5a753767a227396a0b
 canonical: 509-snr-denton-named-best-corporate-commercial-team-oman.json
 ---

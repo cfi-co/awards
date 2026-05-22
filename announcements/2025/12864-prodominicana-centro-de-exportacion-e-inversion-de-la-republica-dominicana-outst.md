@@ -7,6 +7,15 @@ published_gmt: 2025-01-31 09:45:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/fdi-agencies/2025/prodominicana-centro-de-exportacion-e-inversion-de-la-republica-dominicana-outstanding-contribution-to-sustainable-economic-growth-caribbean-2024/"
 categories: ["Development", "FDI Agencies", "Government", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c0516275f21278d4495a8d959cc295d12e7f0e5b02a7b8a46ad01c59a7297a0
 canonical: 12864-prodominicana-centro-de-exportacion-e-inversion-de-la-republica-dominicana-outst.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-04-20 15:28:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/bankfacil-best-secured-consumer-lending-bank-brazil-2016/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8b7b192437b9d6b0ef97effcc83e0d3591592e1c67e34f7109a91ab6feb2fc63
 canonical: 3864-bankfacil-best-secured-consumer-lending-bank-brazil-2016.json
 ---

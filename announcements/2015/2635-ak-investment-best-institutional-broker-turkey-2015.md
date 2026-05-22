@@ -7,6 +7,15 @@ published_gmt: 2015-01-06 13:49:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/ak-investment-best-institutional-broker-turkey-2015/"
 categories: ["Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 14e147c11699ec4ee6e060aa77d325667edceb68f0299fea60ddbef53bf69f85
 canonical: 2635-ak-investment-best-institutional-broker-turkey-2015.json
 ---

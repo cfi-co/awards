@@ -11,8 +11,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1322\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/s.jpg\" alt=\"s\" width=\"456\" height=\"110\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co judging panel is delighted to recognise Banco Santander’s outstanding efforts to support education. </strong></p>\r\n<p style=\"text-align: justify;\">The Santander University programme stands out as an example of how well thought out support can help foster better education and provide real world business experience for students. Since 1996, this banking group has allocated in excess of one billion euros to universities and research centres and last year the figure topped 140 million euros.</p>\r\n<p style=\"text-align: justify;\">The panel comments that, ‘Santander listens to feedback from the academic institutions it partners with and the vision of the Bank’s dynamic Chairman Emilio Botín has made a very real impact on education in Europe.  We feel that this extremely shrewd banker has hit upon a highly desirable symbiotic relationship with universities. Who knows how many students now have accounts with Santander rather than rival banks as a result of this programme? It seems likely the support that the bank is giving to universities will move from strength to strength and that Santander’s financial stakeholders will also do rather well out of the initiative – thus ensuring that the Santander University Programme is truly sustainable’.</p>",
     "content_sha256": "c552b61ccbfa898a16756b066a5918db3a821307e9c5f86891059da49b15ceee",
-    "record_sha256": "4c7be190d07b35574d115ccf0c7d8d7a8e12249f81f497786c0e8502214d6490"
+    "record_sha256": "1b60f9804bb12391bed8f6c679101e98069aa19022aedc53c7c2710e9f2a1ff4"
 }

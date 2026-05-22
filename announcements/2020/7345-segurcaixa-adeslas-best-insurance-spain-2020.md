@@ -7,6 +7,15 @@ published_gmt: 2020-05-13 13:55:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/segurcaixa-adeslas-best-insurance-spain-2020/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c10e2bbc9bfa6dd20832db0946990b70c2fe765795b65733188f85962f82fde9
 canonical: 7345-segurcaixa-adeslas-best-insurance-spain-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-05-29 15:25:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2025/jp-morgan-chase-most-innovative-investment-banking-services-usa-2025/"
 categories: ["Banking", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: daaf2372d6b0ecdc9e00bc32bf4cff1c7a85592fe57f132bf72e6a584854d16d
 canonical: 12976-jp-morgan-chase-most-innovative-investment-banking-services-usa-2025.json
 ---

@@ -12,8 +12,21 @@
         "Community Engagement",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-797 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/dragon.jpg\" alt=\"dragon\" width=\"123\" height=\"106\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Dragon Oil is one of the largest investors in Turkmenistan as a result of a 25-year renewable production sharing agreement negotiated for the Chelekan Contract Area in 1999. The company operates out of the United Arab Emirates (UAE) where its head office is located.</strong></p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel considers Dragon Oil is prime example of – and indeed a model for – corporate responsibility as it pertains to community engagement. One of the judges remarked that Dragon Oil is a “most generous and committed supporter of its host community needs.”</p>\r\n<p style=\"text-align: justify;\">The judges were impressed by the company’s construction of a desalination plant which not only serves its own operations but also provides a safe source of drinking water to local people. Dragon Oil also pays close attention to local healthcare and education needs and provides sports and recreational facilities.</p>\r\n<p style=\"text-align: justify;\">Dragon Oil ensures that these benefits derived from developing hydrocarbon resources in the area reach local communities. In the city of Hazar, on the shores of the Caspian Sea, Dragon Oil had a polyclinic built and performed refurbishment works at a school and a nursery.</p>\r\n<p style=\"text-align: justify;\">It is for these activities, that go well beyond its contractual obligations, that the CFI.co Judging Panel considers Dragon Oil to be a most deserving recipient of the Best Community Engagement, Turkmenistan Award.</p>",
     "content_sha256": "01b38c02ae215c5eceef5ad5e3020d53135e83a1da71a85033c2ba46e17f62a4",
-    "record_sha256": "41d32558d555502ff5d0f7e3f659d42d7bb15bb0677542d5746559940b3d0b87"
+    "record_sha256": "ff2e139a198d7f192ea61a4abb6e73bea5bfcec204f75a073f6c267852993a4a"
 }

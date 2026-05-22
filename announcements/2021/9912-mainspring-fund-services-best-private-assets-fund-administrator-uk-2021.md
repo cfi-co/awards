@@ -7,6 +7,15 @@ published_gmt: 2021-12-20 11:49:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/mainspring-fund-services-best-private-assets-fund-administrator-uk-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 18111350b1ff050b1554924a3c75787fcf956846c6fbe79f26bbcec42f6bfab9
 canonical: 9912-mainspring-fund-services-best-private-assets-fund-administrator-uk-2021.json
 ---

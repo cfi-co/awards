@@ -7,6 +7,15 @@ published_gmt: 2021-09-13 11:27:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/pac-capital-best-investment-banking-team-nigeria-2021/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 30e7b36f9b24f4067550a6deb9d5e5402a84b2cf0c999d7c33aed01ed7aab234
 canonical: 9577-pac-capital-best-investment-banking-team-nigeria-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-09-07 13:33:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/alpari-best-binary-options-broker-asia-2016/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 43192feea3085851c644b1d61dce5451fa9cf9c3089962b54db50ea2ebd0200a
 canonical: 3454-alpari-best-binary-options-broker-asia-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-08-08 07:42:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2022/canpack-group-best-sustainable-packaging-solutions-cee-2022/"
 categories: ["Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a5dc3edb04643051eba8d59549203286ac11d83d5d2fa91bee402d3fe49de86a
 canonical: 10609-canpack-group-best-sustainable-packaging-solutions-cee-2022.json
 ---

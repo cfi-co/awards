@@ -7,6 +7,15 @@ published_gmt: 2023-12-19 09:12:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2023/smit-moroccan-agency-for-tourism-development-best-tourism-investment-promotion-team-north-africa-2023/"
 categories: ["Africa", "Development", "Government", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff23d6f2b003ddeaaa37b5c36bf5beb8fbb06267bfdbd791acf27bc822080349
 canonical: 12150-smit-moroccan-agency-for-tourism-development-best-tourism-investment-promotion-t.json
 ---

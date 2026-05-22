@@ -7,6 +7,15 @@ published_gmt: 2020-10-26 08:00:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2020/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Industries", "Retail", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 67bcb9bfca43da3a196c279064d193b91cf17e199929af56c1738da566b1b3d8
 canonical: 8402-reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2020.json
 ---

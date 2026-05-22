@@ -7,6 +7,15 @@ published_gmt: 2021-10-16 14:47:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2021/qatar-development-bank-qdb-outstanding-socio-economic-impact-initiatives-global-2021/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f465d9ac9d9455fd71dd2754e00ee5c9b0f4346b687ae8c293abe8ff379a2ac
 canonical: 9655-qatar-development-bank-qdb-outstanding-socio-economic-impact-initiatives-global-.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-11-21 09:07:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/beer-young-best-sme-growth-capital-solutions-uk-2022/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 705acfe8d4e5ccad40c58e61ca84a0772ac87e61b76962eb9fcafaeef5b7d3ca
 canonical: 10917-beer-young-best-sme-growth-capital-solutions-uk-2022.json
 ---

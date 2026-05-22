@@ -7,6 +7,15 @@ published_gmt: 2021-11-08 16:29:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/azimut-group-best-independent-asset-manager-italy-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 134242ea4d21cd4a57c93e199defee68392bd823aa2b3ca68764ac7a0b0afc95
 canonical: 9816-azimut-group-best-independent-asset-manager-italy-2021.json
 ---

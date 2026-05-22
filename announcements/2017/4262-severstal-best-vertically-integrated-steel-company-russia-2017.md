@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 11:42:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/severstal-best-vertically-integrated-steel-company-russia-2017/"
 categories: ["Asia Pacific", "Industries", "Manufacturing", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4e0f400b71bbf6729406f3331f3cb936c35d828fcd81d6dc1816e4b29988246
 canonical: 4262-severstal-best-vertically-integrated-steel-company-russia-2017.json
 ---

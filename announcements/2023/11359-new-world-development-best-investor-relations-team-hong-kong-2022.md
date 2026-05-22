@@ -7,6 +7,15 @@ published_gmt: 2023-04-18 15:19:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2023/new-world-development-best-investor-relations-team-hong-kong-2022/"
 categories: ["Asia Pacific", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c155a359ba3208d44a77fb3368e19ba8030e11636fb9e495a83f399f6181225
 canonical: 11359-new-world-development-best-investor-relations-team-hong-kong-2022.json
 ---

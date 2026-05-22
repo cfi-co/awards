@@ -7,6 +7,15 @@ published_gmt: 2022-12-01 13:46:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/banca-generali-best-sustainable-private-bank-italy-2022/"
 categories: ["Banking", "Best Practice", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 885f75d69e829e4bad80bd59464b209b7608b70aaba965270bfdae1a363fe588
 canonical: 10945-banca-generali-best-sustainable-private-bank-italy-2022.json
 ---

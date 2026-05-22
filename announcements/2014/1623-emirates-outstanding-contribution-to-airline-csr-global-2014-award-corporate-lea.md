@@ -7,6 +7,15 @@ published_gmt: 2014-12-24 10:25:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/emirates-outstanding-contribution-to-airline-csr-global-2014-award-corporate-leadership-uae-2014-award/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Corporate Leadership", "Industries", "Middle East", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 002a3ed2349f951a78755b11cc0d86b4e9c430b5201afc01eaf5c70beff6d91f
 canonical: 1623-emirates-outstanding-contribution-to-airline-csr-global-2014-award-corporate-lea.json
 ---

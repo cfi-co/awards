@@ -11,8 +11,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11154\" src=\"https://cfi.co/awards/wp-content/uploads/2023/02/Atom-Bank-jpg.webp\" alt=\"Atom Bank\" width=\"500\" height=\"127\" />\r\n<p style=\"text-align: justify;\">Founded in 2014, Atom Bank was the first app-based and digital-only bank in the UK to be granted a regulatory licence. The bank doesn’t attempt to cover all financial services, as that avenue only breeds mediocrity. Instead, it chooses to specialise in a few select services — savings, mortgages and business loans — and delivers them with speed, efficiency and at a competitive price. Atom Bank pays market-leading rates on savings accounts, passing along 85 to 86 percent of the market base rate to customers. The bank aspires to get mortgage applicants the best deal possible — even if that means they don’t go with Atom. The bank works with independent brokers that recommend the best mortgage loans through an intermediated process that promises impartial advice and assistance with the application. Atom offers mortgage products for first-time buyers, less-than-perfect credit scores, new purchases, remortgages and product transfers. The bank has earned a five-star rating from Trustpilot, an independent reviews platform, making it one of the highest rated banks in the UK, far above the majority of its competitors. Atom has also earned a five-star rating for its IOS and Android banking app. The bank enjoys excellent word-of-mouth marketing from satisfied customers who would recommend the business, as evidenced by its Net Promoter Score of 86 percent. Atom’s employee engagement score reaches nearly as high, at 84 percent. The CFI.co judging panel announces Atom Bank as the 2023 award winner for Best Mortgage Solutions Provider (UK).</p>",
     "content_sha256": "1e81c3292a14ebb82271818e69ff5d5dd0ed5609f3a0764e6c65f0787981a836",
-    "record_sha256": "39415def0341c8b06ae69bb20f6e5183b3c52038119c946c7d3d9d91bf83bf41"
+    "record_sha256": "857aa9eb75bfeb16d63a9104e9b9a339b8c92c53201f3eeb3f43138973c8d4c4"
 }

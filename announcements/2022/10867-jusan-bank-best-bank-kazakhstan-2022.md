@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 13:06:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/jusan-bank-best-bank-kazakhstan-2022/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dde42c6073a81a1ea70e6f8b0bdfd4285a6f9d8d5dcd0dd097ce83e67fb0e137
 canonical: 10867-jusan-bank-best-bank-kazakhstan-2022.json
 ---

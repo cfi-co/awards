@@ -7,6 +7,15 @@ published_gmt: 2016-01-18 16:55:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2016/kuwait-international-bank-kib-best-sharia-compliant-bank-middle-east-2015/"
 categories: ["Banking", "Best Practice", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 700cb740b7d537a92c46ee414651f4649920402720d7bb263da7a8c8769e45b4
 canonical: 2772-kuwait-international-bank-kib-best-sharia-compliant-bank-middle-east-2015.json
 ---

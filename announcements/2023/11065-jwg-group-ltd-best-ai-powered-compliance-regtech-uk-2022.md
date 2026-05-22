@@ -7,6 +7,15 @@ published_gmt: 2023-01-17 15:00:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/jwg-group-ltd-best-ai-powered-compliance-regtech-uk-2022/"
 categories: ["Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0743975d1b9478b68f07d8a8625d7d677592cb68488fd62cc74d8a96c58153a8
 canonical: 11065-jwg-group-ltd-best-ai-powered-compliance-regtech-uk-2022.json
 ---

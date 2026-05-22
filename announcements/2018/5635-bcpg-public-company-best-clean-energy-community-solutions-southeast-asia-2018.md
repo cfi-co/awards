@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:06:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/bcpg-public-company-best-clean-energy-community-solutions-southeast-asia-2018/"
 categories: ["Asia Pacific", "CSR", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b80588365e619b1ff473ef946784bd65fd55bd258f112fbedf248510de7ef85
 canonical: 5635-bcpg-public-company-best-clean-energy-community-solutions-southeast-asia-2018.json
 ---

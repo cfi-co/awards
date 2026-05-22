@@ -7,6 +7,15 @@ published_gmt: 2018-12-02 15:52:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2018/nasdaq-buy-side-compliance-most-innovative-compliance-management-system-global-2018/"
 categories: ["Best Practice", "Exchanges &amp; Brokers", "Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 542d8c5543c204d132f209ede0d8cda53b7c8891b00c89758a983aedf91368b8
 canonical: 5493-nasdaq-buy-side-compliance-most-innovative-compliance-management-system-global-2.json
 ---

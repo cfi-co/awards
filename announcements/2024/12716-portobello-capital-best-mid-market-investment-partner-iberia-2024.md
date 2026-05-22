@@ -7,6 +7,15 @@ published_gmt: 2024-11-26 15:26:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/portobello-capital-best-mid-market-investment-partner-iberia-2024/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8d046d68cb3fee1007880e4caf10c3d8bd32258cbf8e28f1a85a252a2d83855e
 canonical: 12716-portobello-capital-best-mid-market-investment-partner-iberia-2024.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-06-24 10:19:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/first-qatar-real-estate-development-company-most-innovative-real-estate-development-team-middle-east-2020/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 12565b2859e051965339aa7bb384ac19f32d0fe8059819733ecdd458241e71ea
 canonical: 7579-first-qatar-real-estate-development-company-most-innovative-real-estate-developm.json
 ---

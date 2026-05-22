@@ -7,6 +7,15 @@ published_gmt: 2019-05-13 13:22:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/biat-banque-internationale-arabe-de-tunisie-best-bank-governance-tunisia-2019/"
 categories: ["Africa", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72996a25ccd680cb1871a5ea1931fcba6b4f468600076833607efe388da24851
 canonical: 6693-biat-banque-internationale-arabe-de-tunisie-best-bank-governance-tunisia-2019.json
 ---

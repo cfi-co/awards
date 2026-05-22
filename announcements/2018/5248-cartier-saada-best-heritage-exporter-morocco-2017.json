@@ -11,8 +11,21 @@
         "Africa",
         "Industries"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-5253\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/Cartier-1.jpg\" alt=\"\" width=\"352\" height=\"275\" />\r\n<p style=\"text-align: justify;\"><strong>Cartier Saâda sits, quite literally, at the top of Morocco’s food chain. The company brings more than half a century’s worth of knowhow and experience to the table in the production, packaging, and marketing of superior quality fruits and vegetables.</strong></p>\r\n<p style=\"text-align: justify;\">Cartier Saâda is based in Marrakesh – one of the country’s four fabled Cities of Kings. Here, crops are grown on the fertile crescent of plains and hills that is sheltered by the Atlas Mountains rising to the east. Home to an exceptionally rich variety in plant life, the region is known as Morocco’s garden and produces a year-round bounty of exquisite fruits and vegetables.</p>\r\n<p style=\"text-align: justify;\">Cartier Saâda was founded in 1947 as a family business – it is now listed on the Casablanca Stock Exchange – with a view to professionalising the countless artisan canneries and processors of the district and establishing a regional hallmark of quality. From its earliest beginnings, the company has displayed a remarkable sensitivity to social issues, offering jobs and training to disadvantaged people and promoting a growing number of initiatives to improve the local community.</p>\r\n<p style=\"text-align: justify;\">Cartier Saâda’s expanding range of products includes canned olives and apricots, teas and infusions, and condiments, amongst others. The company also produces ready-made tapenades and taktouka and eggplant salads in addition to canned couscous legumes. Cartier Saâda is known and appreciated for the superior quality of its products which enabled the company to become one of Morocco’s top processed food exporters.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel congratulates Cartier Saâda on its corporate trajectory, tapping into Marrakesh’s cornucopia of riches and offering consumers wide and far a taste of Morocco. The judges are pleased to offer Cartier Saâda the 2017 Best Heritage Exporter Morocco Award.</p>",
     "content_sha256": "be72aa88e32d37fedd403e70dcc752bc67a0442659d20cdf59bb7a17783b2075",
-    "record_sha256": "da05c1ddeb3a651ceec0cc6fddca38299a79a29fa3561b66be1c7f43c3169a17"
+    "record_sha256": "345b71e19893413dd4601a81537a915bf6fff6e17ed660897cb2a0bd20c5be81"
 }

@@ -7,6 +7,15 @@ published_gmt: 2020-07-14 05:00:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/wisekey-best-iot-semiconductor-innovator-global-2020/"
 categories: ["Europe", "Industries", "Technology", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fe9c238859066440535906ac006916e1ecc0ec8e10c982e9956c88aef241089c
 canonical: 7999-wisekey-best-iot-semiconductor-innovator-global-2020.json
 ---

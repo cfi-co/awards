@@ -7,6 +7,15 @@ published_gmt: 2019-06-04 15:37:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2019/heliatek-gmbh-best-innovation-led-clean-tech-growth-germany-2019/"
 categories: ["Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: be9174e1dba5e48dc5e24d5cadc444368e151fc1d4775fe8b40efcead160ed27
 canonical: 6755-heliatek-gmbh-best-innovation-led-clean-tech-growth-germany-2019.json
 ---

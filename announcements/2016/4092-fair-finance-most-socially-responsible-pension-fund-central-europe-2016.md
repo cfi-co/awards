@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:58:57
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2016/fair-finance-most-socially-responsible-pension-fund-central-europe-2016/"
 categories: ["Best Practice", "CSR", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e2b885b9c7a3faa0bfe4e41231b2ec474dd352635f16ce4475bdcfe2d1d0b39f
 canonical: 4092-fair-finance-most-socially-responsible-pension-fund-central-europe-2016.json
 ---

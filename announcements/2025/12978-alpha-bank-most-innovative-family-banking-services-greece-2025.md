@@ -7,6 +7,15 @@ published_gmt: 2025-05-29 15:35:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2025/alpha-bank-most-innovative-family-banking-services-greece-2025/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 00cd00745f85cb493792c0d7badaab9e7dd7d3d00bdba008edbb3745af815803
 canonical: 12978-alpha-bank-most-innovative-family-banking-services-greece-2025.json
 ---

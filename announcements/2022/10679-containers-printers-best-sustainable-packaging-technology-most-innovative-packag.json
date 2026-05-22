@@ -15,8 +15,21 @@
         "Sustainability",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10680\" src=\"https://cfi.co/awards/wp-content/uploads/2022/08/Containers-Printers-new-logo.jpg\" alt=\"Containers-Printers-new-logo\" width=\"400\" height=\"70\" />\r\n<p style=\"text-align: justify;\">Founded in 1981, Containers Printers has evolved from a Singaporean producer of square tins into a diversified packaging partner of nutrition, food and medical brands in over 30 countries. The company keeps pace with changing market winds to maintain a competitive edge. Containers Printers has weathered the past few challenging years by focusing on sustainability and scaling up digital capacities. The company established data-driven processes to track energy usage and monitor performance. It collaborated with the National Environment Agency and energy service partners to implement sustainability projects that have been delivering considerable gains in energy savings and environmental impacts. Industrial IoT technologies are helping the company to transition analogue and manual methods to a fully digitised system with extended analysis capabilities, including real-time monitoring and reporting. Containers Printers cites the strength of its staff as a key factor to its success. It hires people with proven potential and gives them the training, support and space to achieve significant professional growth. It promotes from within whenever possible and has established an in-house training programme to help employees develop the technical, leadership and project management skills required for upper-level roles. Continuous investments to build the team and tech infrastructure have led to increased revenue and corporate credibility. For the sixth consecutive year, Containers Printers has found favour with the CFI.co judging panel and claimed 2022 awards for Best Sustainable Packaging Technology and Most Innovative Packaging Team in Southeast Asia.</p>",
     "content_sha256": "60c094dec9342be6a1c0847c72efa9b5a4a8c4171f0d331d3ad46c6f1dec152d",
-    "record_sha256": "eb4b2476759ce131731962db1cc46855b8896372c3207825877400eb1041f377"
+    "record_sha256": "006ecdc27c55be57a5c320244f307fab8bf912db6f7caa45c9827ba93299fe80"
 }

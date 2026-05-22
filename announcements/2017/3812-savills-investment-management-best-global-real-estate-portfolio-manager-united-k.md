@@ -7,6 +7,15 @@ published_gmt: 2017-02-02 15:31:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/savills-investment-management-best-global-real-estate-portfolio-manager-united-kingdom-2016/"
 categories: ["Europe", "Finance", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f719db7dde52b23d1b2f77224bbfce7c512acff6d2b2a42a51520cd60cf7fc13
 canonical: 3812-savills-investment-management-best-global-real-estate-portfolio-manager-united-k.json
 ---

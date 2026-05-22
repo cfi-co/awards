@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-3756\" src=\"https://cfi.co/awards/wp-content/uploads/2017/01/HSBC-300x68.jpg\" alt=\"hsbc\" width=\"300\" height=\"68\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Offering highly innovative financial solutions for large corporates, institutional clients, and investors, HSBC Germany facilitates access to a wide array of services that build upon the bank’s global reach, its heritage, and vast reservoirs of local expertise.</strong></p>\r\n<p style=\"text-align: justify;\">HSBC Germany was an early adopter – if not pioneer – of a holistic style of banking that bundles the strengths of relationship managers and product specialists to design custom solutions for both domestic and international clients.</p>\r\n<p style=\"text-align: justify;\">Taking the long view, the bank attaches great importance to the forging of lasting relationships that allow its professionals to gain a thorough understanding of clients’ present and future needs. HSBC offers a range of trade and supply chain services in addition to payments and cash management solutions, securities services, amongst others.</p>\r\n<p style=\"text-align: justify;\">The bank’s Capital Financing Division ties in seamlessly with a client’s capital structure to provide integrated solutions that span the financial universe from equity and debt capital markets to leveraged and acquisition finance, and asset-backed finance.</p>\r\n<p style=\"text-align: justify;\">HSBC Germany is one of the leading debt houses for all issuances in Germany, Austria and Switzerland. Due to the strong  domestic roots and the group’s unrivalled global distribution capabilities, HSBC offers an extremely competitive mix of granular private placements in all formats, local currencies and sizable benchmark issuances in all currencies combined with the whole spectrum of derivate and liability management solutions The CFI.co judging panel commends HSBC Germany for its comprehensive support of Germany’s export-oriented economy by serving issuers with the most global and broadest debt capital markets platforms in Germany. HSBC has made a significant progress in the last 12 months in terms of client relations’ depth and breadth with leading league table positions in EUR, USD, and GBP as well as PP products, especially German Schuldschein.</p>\r\n<p style=\"text-align: justify;\">The judges are pleased to extend the 2016 Best Debt Origination Team DACH (Germany, Austria, Switzerland) Award to HSBC Germany.</p>",
     "content_sha256": "665a36eb89479447c266cf8497b04f4b33526357953d283c70811e71a4221b65",
-    "record_sha256": "469a663fe6467d7bdfa46d46124235dcdfaa7878f944dfc9fd6c436352d514f9"
+    "record_sha256": "3c265fcaa733b054ff75a5c977b21a6b6d75e24c9aec40c06518343516f733e1"
 }

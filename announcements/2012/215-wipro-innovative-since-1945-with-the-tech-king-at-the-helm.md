@@ -7,6 +7,15 @@ published_gmt: 2012-09-27 21:16:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2012/wipro-innovative-since-1945-with-the-tech-king-at-the-helm/"
 categories: ["Asia Pacific", "Corporate Leadership", "Industries", "Technology", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65334f4a34ca9c50921a8a4a7a3ab0c8f67efef9bcd3e06f0de479db96691fa3
 canonical: 215-wipro-innovative-since-1945-with-the-tech-king-at-the-helm.json
 ---

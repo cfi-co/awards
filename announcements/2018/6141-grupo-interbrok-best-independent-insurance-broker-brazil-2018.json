@@ -11,8 +11,21 @@
         "Latin America",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6143\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Interbrok.gif\" alt=\"\" width=\"349\" height=\"119\" />\r\n<p style=\"text-align: justify;\"><strong>To be truly independent requires financial independence.</strong> This is something Grupo Interbrok has understood for over 100 years. In private ownership, Interbrok has ensured it subjects its accounts to the same level of scrutiny expected of public companies with its financials audited by PwC. Independence on its own is not enough. Interbrok has consistently incorporated best practice and technology into the business and has a very efficient and well-integrated back office. But none of this excellence would work without an efficient and ethical staff culture that is constantly maintained through effective staff training that gives clients the time they deserve and delivers best solutions. This combination of independence and best practice has allowed Interbrok to put clients’ needs first. The consistency Interbrok has shown over the past 100 years has made putting the client first part of their DNA. The CFI.co judging plan had no hesitation in declaring Interbrok Best Independent Insurance Broker Brazil 2018.</p>",
     "content_sha256": "03bdd4578427264f19382ff0a55160ecdff63377f8d0a26f13f8412ad42cb9af",
-    "record_sha256": "39e10de8d38fbcb5d9ccd43956d4e912aabf5935586a38d7b6058ea8fe8e24de"
+    "record_sha256": "708b042ac89cfa68163b21a20a517a92e41f9cb5b49237a3d7c546aca931be91"
 }

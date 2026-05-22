@@ -12,8 +12,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-780\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/logo1.jpg\" alt=\"logo\" width=\"286\" height=\"73\" /></p>\r\n<p style=\"text-align: justify;\"><strong>This year looks set to be a very good one indeed for privately-owned Citygate Securities in Mauritius: The company’s achievements include a well-deserved award from the CFI.co Judging Panel as Best Institutional Broker, Mauritius.</strong></p>\r\n<p style=\"text-align: justify;\">Citygates’ client base is mainly offshore. The company takes pride in the excellence and efficiency of it services offered mostly institutional investors and high net worth individuals.</p>\r\n<p style=\"text-align: justify;\">Onshore, the firm reaps the benefits from its broad client diversity. The judging panel pointed out that Citygate’s management and personnel are seen to be in relentless pursuit innovation and quality. The judges also remarked that the company boasts a vast range of expertise and counts on highly experienced professionals to offer prime grade investment services across a wide range of sectors.</p>",
     "content_sha256": "490547e05d20842b6a50848e3613f6837906ede820cc0edd2e8231aecd2417f6",
-    "record_sha256": "e80636c4a18ea24e52cf35c5c431649fccc5c68a23347b6d7226da49793ec7d8"
+    "record_sha256": "f6b3feb198bbb987a8c978fc7904aabb471fbf7de9d253c62a28cd54666b8f0d"
 }

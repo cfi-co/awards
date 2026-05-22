@@ -16,8 +16,21 @@
         "Finance",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-3932\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Nordea.jpg\" alt=\"Nordea Asset Management\" width=\"329\" height=\"118\" />\r\n<p style=\"text-align: justify;\">Nordea Asset Management (NAM) forms part of a group with roots dating back to 1820. As the investment arm of Nordea Group, NAM integrates ESG commitments throughout the decision-making process to deliver returns with responsibility. Sustainability ranks high among Nordic values, and NAM levers its global reach and strong capital position to create positive impacts and drive change. As of March 2022, responsible investments (RI) make up 64 percent of NAM’s total AUM — €175bn of €273bn — representing a five percent jump over a one-year span. The company has a dedicated RI team with 27 ESG analysts. NAM practices active asset ownership and engages with investees to support and encourage their sustainability journey. In 2021, NAM initiated 1,033 engagement topics and voted at over 4,200 general meetings. It has a perfect track record voting in favour of climate resolutions. NAM recently introduced a Global Climate Engagement fund to target companies that could contribute to energy transition despite having a less-than-ideal carbon footprint. The company is currently collaborating on 36 RI initiatives, including seven projects or pledges that it joined in 2021. It’s a founding member of the Net-Zero Asset Managers initiative and helped to co-develop a framework for net-zero investments alongside other members of the Institutional Investor Group on Climate Change. NAM first registered on the CFI.co judging panel radar in 2014, and the jury has been impressed with its progress ever since. Repeat winner Nordea Asset Management claims the 2022 Best ESG Team (Europe) award.</p>",
     "content_sha256": "52b7aed530340ba70f5e530307bc3ba8dc8e8652449fc4a1f2d2ad51e9c2d360",
-    "record_sha256": "bd745e221c196895df1d284bbabeaf2f4f14e7cb0df0dfbd2b8143439d9d80ac"
+    "record_sha256": "60bef4f9646b710b386d292e544d96a9dc9cb7b285d1b7e52a9b89f844f9c262"
 }

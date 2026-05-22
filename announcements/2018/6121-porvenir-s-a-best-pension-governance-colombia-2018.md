@@ -7,6 +7,15 @@ published_gmt: 2018-10-16 12:51:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/porvenir-s-a-best-pension-governance-colombia-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 76c96a3bc4dee130c2b6c86c8c12077765ae6ada814e5720dcf3119606c31c8d
 canonical: 6121-porvenir-s-a-best-pension-governance-colombia-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:32:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/bermuda-business-development-agency-bda-best-direct-investment-partner-north-america-2020/"
 categories: ["Development", "FDI Agencies", "Government", "North America", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e034ea1e4798e3e7d3d6b689b27cfbc9b60f2316aa77b8caa8b13ea11202f6f9
 canonical: 7828-bermuda-business-development-agency-bda-best-direct-investment-partner-north-ame.json
 ---

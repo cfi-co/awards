@@ -7,6 +7,15 @@ published_gmt: 2014-02-10 19:31:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2014/cfi-co-legal-awards-2014-baker-botts-wins-us-energy-team-award/"
 categories: ["Legal", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cd672d5431ee7003d759d392851fbb6affd46114c4b6a66b86a9e999712ead58
 canonical: 1156-cfi-co-legal-awards-2014-baker-botts-wins-us-energy-team-award.json
 ---

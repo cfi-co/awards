@@ -7,6 +7,15 @@ published_gmt: 2023-07-06 11:18:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2023/ptg-energy-best-esg-responsible-executive-team-thailand-2023/"
 categories: ["Asia Pacific", "Oil &amp; Gas"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f7abbaf48e39b05970ba7ecdc306e26c86bb9c9318ecc0d9d387b38d900c194f
 canonical: 11617-ptg-energy-best-esg-responsible-executive-team-thailand-2023.json
 ---

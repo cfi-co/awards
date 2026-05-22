@@ -11,8 +11,21 @@
         "Middle East",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_5631\" align=\"aligncenter\" width=\"800\"]<img class=\"wp-image-5631 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2018/05/Yousif-Mirza.jpg\" alt=\"\" width=\"800\" height=\"533\" /> <strong>CEO:</strong> Yousif Mirza[/caption]\r\n<p style=\"text-align: justify;\"><strong>CrediMax is the first and leading Credit Card Issuer and Acquirer in the Kingdom of Bahrain, providing high quality products and services for its Cardholders and Merchants. CrediMax continuously ensures the application of effective processes and procedures across the company, maintaining compliance and protects the company’s assets as well as obtain advanced technology and security systems to protect its customer database and sustain trusting and lasting partnership with its Cardholders and Merchants.</strong></p>\r\n<p style=\"text-align: justify;\">CrediMax has grown from a mere card centre unit within one of the largest commercial banks in Bahrain, branching out to a full service card and payment management company with a diversified line of products that enable shoppers and merchants alike to conveniently – and smoothly – complete their transactions in a minimum of time. As the company grew its business, CrediMax adopted an organisational structure that ensures lean operational processes whilst keeping in place a robust framework of risk policies and tools. Over the years, CrediMax has accumulated a vast reservoir of knowledge that now allows the company to expand the scope and depth of its business without sacrificing the operational nimbleness for which it is known.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel congratulates CrediMax on the launch of MaxWallet, its ground-breaking digital wallet – a QR-enabled mobile payment solution that gives user a quick and secure way to complete face-to-face transactions. The judges agree that CrediMax has been particularly successful in adapting to the new digital and mobile payments environment. The panel declares CrediMax winner of the 2018 Best Digital Wallet GCC Award.</p>",
     "content_sha256": "f5e9adb66445f19c12e97891377506919abdde959c60b487bb068aba2d8e94e9",
-    "record_sha256": "c1133d1cacda7b1a8b8f1c68d5b739018f9cdcb335e5697da2cfa3d2af913d2a"
+    "record_sha256": "0f19323543dcef9b166f85c30443759de427595e3421242ce78bb7cacca05c28"
 }

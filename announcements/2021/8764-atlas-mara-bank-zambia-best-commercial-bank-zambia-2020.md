@@ -7,6 +7,15 @@ published_gmt: 2021-01-27 16:37:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2021/atlas-mara-bank-zambia-best-commercial-bank-zambia-2020/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e72414578df4808f5a4a815bafd310b7da1e847ee530650856b94ef5003bfc0
 canonical: 8764-atlas-mara-bank-zambia-best-commercial-bank-zambia-2020.json
 ---

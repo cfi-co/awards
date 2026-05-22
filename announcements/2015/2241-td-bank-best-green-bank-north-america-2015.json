@@ -11,8 +11,21 @@
         "Banking",
         "North America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2242\" src=\"https://cfi.co/awards/wp-content/uploads/2015/05/TD.jpg\" alt=\"TD\" width=\"196\" height=\"178\" /></p>\r\n<p style=\"text-align: justify;\"><strong>While elsewhere in the world forests are cleared by the football field, in Canada they become protected at a similar clip. Since 2012, TD Forests – an initiative of TD Bank (Toronto-Dominion Bank) – has been working with The Nature Conservancy and Nature Conservancy of Canada to protect a wooded area equivalent to 2.5 football fields each and every day from developers and urban sprawl.</strong></p>\r\n<p style=\"text-align: justify;\">The bank has set aside C$13m to help protect forest ecosystems and habitats, and increase urban tree cover. To date, TD Forests has managed to extend protection to well over 33,000 acres of woodlands.</p>\r\n<p style=\"text-align: justify;\">The initiative runs parallel to the TD Friends of the Environment Foundation – set up in 1990 long before corporate conservancy efforts became trendy – which has offered support to more than 20,000 environmental projects across Canada. However, TD Forests doesn’t stop at protecting woodlands; the programme also aims to manage – and reduce – the bank’s paper usage by shifting to electronic documents, digitising internal processes, and enhancing e-banking services.</p>\r\n<p style=\"text-align: justify;\">Though the paperless bank may still be some time in coming, TD Bank is committed to expediting its arrival by cutting paper consumption by at least 20% and ensuring that the paper it does use is sourced from forests that are sustainably managed. The drive was inspired by TD Bank’s own clients who – when asked how the bank could further improve its environmental performance – requested the paperwork be reduced to a bare minimum.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel noted that, according to a recent poll, close to 90% of TD Bank’s 86,000-plus employees agree that the company is an environmental leader. In fact, the bank was recently named one of Canada’s greenest employers. TD Bank also maintains the Green Nation Programme, a web-based tool that allows employees to start, or take part in, environmental initiatives in their own communities.</p>\r\n<p style=\"text-align: justify;\">Already in 2008, the bank announced its intention to become carbon neutral, buying carbon offset credits to neutralise its remaining emissions and ensuring that new branch offices are housed in fully LEED (Leadership in Energy and Environmental Design) certified buildings which typically reduce energy usage by 50% or more.</p>\r\n<p style=\"text-align: justify;\">In North America, TD Bank was the first of its kind to firmly commit to becoming carbon neutral. Since 2010, all the bank’s operations – including those in the United States and other international jurisdictions – are completely carbon neutral.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judges conclude that TD Bank has not just painted its corporate DNA green, but has successfully managed to modify its genetic makeup to embrace the full array of sustainability principles. Thus all the bank’s operations and processes were rigorously analysed, and subsequently retuned, to minimise their impact on the environment.</p>\r\n<p style=\"text-align: justify;\">Steadfastly resisting the lure of shortcuts and half-measures, TD Bank became the greenest of North America’s large financial services providers. The CFI.co judges now hand TD Bank the award to match: Best Green Bank North America 2015.</p>",
     "content_sha256": "7e8940534df6a6ac5dc568c8db6b86166e82e3699cc11c92a57cc859df0fa5eb",
-    "record_sha256": "1cce64343b36c755ec6cb396a8571f2bd9d8d6e0912ae339e80ac71fe24831f9"
+    "record_sha256": "43cdb0a6360fa344cdba54ff7a6f3484c66968e62443b171f4a7bb8606746fa2"
 }

@@ -14,8 +14,21 @@
         "Mining",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8373\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Barrick-Gold.jpg\" alt=\"Barrick-Gold\" width=\"400\" height=\"62\" />\r\n<p style=\"text-align: justify;\">Barrick Gold aims for the gold standard of sustainable mining — and is increasingly hitting its target. The Canadian-owned company has 11 gold mining operations across the Americas and Africa, and three copper operations. It is ranked in the 95th percentile in the Dow Jones Sustainability Index, achieving industry-leading scores in environmental reporting, water related risks, social reporting and human rights. It believes in the primacy of community partnerships and inclusivity. It took over the Acacia assets in Tanzania and engaged with locals to reduce illegal mining by 75 percent. It worked in partnership with the Acacia community, assisting with the land and infrastructure, to establish a poultry project that provides employment and nourishment. The project sells about $8,000 of poultry and eggs per month to the mining kitchens. Barrick Gold spearheaded efforts to curtail the spread of Covid, administering some 10,000 Moderna vaccines and introducing rapid testing onsite. It has provided more than $30m in Covid support to host countries and communities. It has established Community Development Committees at all operational sites and spent more than $4.5bn with host country suppliers. It aims to cut costs, reduce emissions and empower communities by installing renewable energy systems, like hydro power in the Congo and solar panels in Mali and Saudi Arabia. It underscores the link between biodiversity and climate change by pursuing decarbonisation opportunities to conserve woodlands and enforce antipoaching laws. The CFI.co judging panel presents Barrick Gold, a repeat programme winner, with the 2021 Best Sustainable Mining Strategy (Africa) award.</p>",
     "content_sha256": "a4b1134d124948161111415fe083f92b6f6b3d0d6f6b07661c62e7eb41eae07e",
-    "record_sha256": "3487cf87d1f8db59a0442592ff86869c657607edaf71208eff3eb2ee0fe248f2"
+    "record_sha256": "9d4ba5ae98a1a5a9195c88535e3490939e1c5c17e8321bef5e35507c203dbad7"
 }

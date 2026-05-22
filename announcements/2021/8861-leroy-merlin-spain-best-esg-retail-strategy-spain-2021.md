@@ -7,6 +7,15 @@ published_gmt: 2021-02-25 07:29:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2021/leroy-merlin-spain-best-esg-retail-strategy-spain-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e791c5bc261411d57545760c2414ce65d83b8417e9d0bb258c9988839d3e5b3b
 canonical: 8861-leroy-merlin-spain-best-esg-retail-strategy-spain-2021.json
 ---

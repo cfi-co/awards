@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 10:58:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/ubx-best-digital-community-impact-initiative-southeast-asia-2020/"
 categories: ["Asia Pacific", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1c9fde74f0766771de7f00e644dd3282b456940d561e532728178b35c3e6e893
 canonical: 7860-ubx-best-digital-community-impact-initiative-southeast-asia-2020.json
 ---

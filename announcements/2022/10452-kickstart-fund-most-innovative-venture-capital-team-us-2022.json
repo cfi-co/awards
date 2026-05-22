@@ -12,8 +12,21 @@
         "North America",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10453\" src=\"https://cfi.co/awards/wp-content/uploads/2022/05/KickStart.jpg\" alt=\"KickStart\" width=\"400\" height=\"154\" />\r\n<p style=\"text-align: justify;\">Kickstart Fund is a seed-stage venture capital firm based in Salt Lake City, UT. Started during the Great Recession of 2008, Kickstart took an innovative approach from the start. Led by visionary leader and seed investment specialist Gavin Christensen, Kickstart has a laser-like focus on backing the best early stage companies and founders in the Mountain West. The Kickstart team builds relationships with scrappy, resilient founders even before companies are fundraising. After investment, Kickstart plugs their portfolio companies into their community, helping to strengthen both the companies and individuals leading them. Kickstart’s mission is to help build great companies in the Wild West by backing the boldest entrepreneurs with capital, community, and expertise for the journey. Kickstart has even sponsored a student-run VC fund called Campus Founders Fund. Initial investment amounts are typically between $250k - $2M with reserved capital for follow on investments as part of the long-term commitment. Kickstart’s portfolio consists of 150+ companies who have raised over $2.7B combined. Alumni companies include the unicorns Podium and Lucid. The CFI.co judging panel is pleased to present Kickstart Fund with the 2022 award for Most Innovative Venture Capital Team (US).</p>",
     "content_sha256": "7271e6810d9bcd5d2392762cb8bad6116b7ec18ff393c8480bd854ecb219717f",
-    "record_sha256": "f680648e29cff1247fbd2cec49eac0bee8e9d59154c0ea89326cdeaa25177b0f"
+    "record_sha256": "cd9a1a96009347f2506772287a571e62c08ee9c30cfd1c0d4effdfb004dcd19a"
 }

@@ -13,8 +13,21 @@
         "Middle East",
         "Real Estate"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1200\" src=\"https://cfi.co/awards/wp-content/uploads/2014/04/Sultan.jpg\" alt=\"Sultan\" width=\"400\" height=\"129\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Sultan Properties has been declared winner of the CFI.co award ‘Best Real Estate Agent, UAE’ in our 2014 Real Estate Awards Programme.</strong></p>\r\n<p style=\"text-align: justify;\">The Judging Panel was very impressed by the consistently good quality of advice provided by Sultan. Their clients were protected substantially during the crisis of 2008 and are benefiting from their outstanding market wisdom in these much happier days.</p>\r\n<p style=\"text-align: justify;\">According to the Judges, ‘Sultan Properties has reaped the benefits of a realistic view of the market and this has translated into good results including those for 2013. The market is moving forward very well and management expects even better results this year. We share their confidence.’</p>",
     "content_sha256": "2caeea2a7d38abcf1cc7031b17902b02fb68957b9f7065f9abba9556a59f549c",
-    "record_sha256": "e8a88e7faf37ff77fa04f533853212076e8cc08d814cf7a6ac4016a8609111a3"
+    "record_sha256": "0ee483b663577307dbc43eee980618de6e006792a3f1823575fb7e0dc91ccb6a"
 }

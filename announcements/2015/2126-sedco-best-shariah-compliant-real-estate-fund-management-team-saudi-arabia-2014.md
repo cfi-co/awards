@@ -7,6 +7,15 @@ published_gmt: 2015-03-10 12:03:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2015/sedco-best-shariah-compliant-real-estate-fund-management-team-saudi-arabia-2014/"
 categories: ["Asset Management", "Best Practice", "Finance", "Middle East", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0392611c049e6d796f24d3bab8b57cbd0080c1485e4d908741953b2d2c95af03
 canonical: 2126-sedco-best-shariah-compliant-real-estate-fund-management-team-saudi-arabia-2014.json
 ---

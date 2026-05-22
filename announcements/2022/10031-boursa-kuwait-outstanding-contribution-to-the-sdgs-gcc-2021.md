@@ -7,6 +7,15 @@ published_gmt: 2022-02-01 09:51:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/boursa-kuwait-outstanding-contribution-to-the-sdgs-gcc-2021/"
 categories: ["Best Practice", "Exchanges &amp; Brokers", "Finance", "Government", "Middle East", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e5cf5e67d07d243576315006cf6cda6645e951b0fab91bfb2506af5748baee95
 canonical: 10031-boursa-kuwait-outstanding-contribution-to-the-sdgs-gcc-2021.json
 ---

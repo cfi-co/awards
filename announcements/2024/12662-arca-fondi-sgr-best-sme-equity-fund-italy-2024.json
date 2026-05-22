@@ -11,8 +11,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5464\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/Arca.jpg\" alt=\"Arca\" width=\"400\" height=\"135\" />\r\n<p style=\"text-align: justify;\">Arca Fondi SGR continues its outstanding CFI.co award winning streak. The judging panel recognises and applauds the company's dedication to fostering the growth of Italy's dynamic small and medium-sized enterprises (SMEs). The firm seeks out and invests in Italy's most promising SMEs, focusing on businesses with innovative ideas and strong growth potential. This approach drives economic vitality and positions Arca Fondi SGR at the forefront of supporting Italy's entrepreneurial ecosystem. The talented and dedicated Arca team has profound understanding of the SME landscape. Their experience and meticulous due diligence processes ensure investments are well-placed for long-term success. Tailoring solutions to each client's specific objectives remains of paramount importance. By meticulously assessing risk tolerance and investment horizons, Arca Fondi SGR empowers clients to participate in the exciting world of Italian SMEs, recognising the sector as the backbone of the national economy.  Arca Fondi SGR's unwavering focus on innovation, expert guidance, and client-centricity solidify its position as a leading player in the Italian SME investment arena. Promising clients and partners five-star service, CEO Ugo Loeser has pointed out that Arca’s award successes over the years vindicate its management approach and he believes that the firm’s long experience, commitment to clients, and drive for innovation are key elements in its success story. The judging panel agrees, and confirms Arca Fondi SGR, whose major shareholders are BPER Banca and Banca di Sondrio, as worthy 2024 winner of the award Best SME Equity Fund (Italy).</p>",
     "content_sha256": "49de728aba5b0cfeede64c5006c547209fb1e74eace0a519b5f0f0f1351e5dc5",
-    "record_sha256": "a9cfd47636b83d8776d0b933e6e72dc34b719c785b635f71be763d83ad9be7d4"
+    "record_sha256": "b01790656fad662604bac54935bdbf0d5a6e1ccc070ffc484f2faa764e9043d8"
 }

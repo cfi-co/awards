@@ -7,6 +7,15 @@ published_gmt: 2015-01-05 10:48:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/yatirim-finansman-best-securities-broker-turkey-2015/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 05f53230b4e71b95194ea14305631865573bd5e96428d00273888c9f54b6ea59
 canonical: 2646-yatirim-finansman-best-securities-broker-turkey-2015.json
 ---

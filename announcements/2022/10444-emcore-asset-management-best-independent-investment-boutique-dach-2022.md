@@ -7,6 +7,15 @@ published_gmt: 2022-05-13 10:53:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/emcore-asset-management-best-independent-investment-boutique-dach-2022/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e321708f217f6ebdfa0846c4d84a96f6703748f9342a8293e1114f2678ea3f4
 canonical: 10444-emcore-asset-management-best-independent-investment-boutique-dach-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 14:29:36
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/herald-land-best-uk-property-investments-advisory-uae-2017/"
 categories: ["Middle East", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8422af78babf5a9f1c8deda3c4f5ae8682cddf46442791fa6b9c30fc6029e610
 canonical: 4355-herald-land-best-uk-property-investments-advisory-uae-2017.json
 ---

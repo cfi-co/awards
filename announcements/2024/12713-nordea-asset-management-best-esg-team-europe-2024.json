@@ -16,8 +16,21 @@
         "Finance",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12055\" src=\"https://cfi.co/awards/wp-content/uploads/2023/11/NordeaAssetManagement-jpg.webp\" alt=\"Nordea Asset Management\" width=\"500\" height=\"167\" />\r\n<p style=\"text-align: justify;\">Nordea Asset Management (NAM) has championed responsible investment for over three decades, beginning in 1988 with the launch of its first sector-screened fund. As of September 2024, NAM’s Responsible Investment (RI) assets under management (AUM) reached €196bn, representing 73 percent of its total AUM. NAM’s Responsible Investments Team, formed in 2009 and among Europe’s most seasoned, includes 28 analysts across Stockholm and Copenhagen who work closely with portfolio managers to deliver ESG-enhanced strategies, such as the ESG STARS family, sustainability-themed solutions, and active engagement initiatives. NAM leverages its proprietary data platform, which aggregates information from various sources and uses AI-driven models to generate ESG scores for more than 120,000 securities. These insights support NAM’s ESG STARS strategies, which aim to exceed benchmarks through selective investment in quality companies with strong ESG credentials and a focus on decarbonisation. NAM also offers sustainability-themed solutions, including the Global Climate and Environment Strategy—one of Europe’s largest actively managed sustainable funds—and the Global Diversity Engagement Strategy. NAM’s commitment to active ownership drives impactful engagements, including its flagship methane reduction campaign, which seeks to curb methane emissions with 63 oil, gas, and utility companies. This campaign won the PRI’s 2024 Recognition for Action – Climate award. NAM’s dedication to responsible investing has made it a leader in sustainable finance. The CFI.co Judging Panel congratulates Nordea Asset Management on winning the 2024 award for Best ESG Team (Europe).</p>",
     "content_sha256": "17b50ca4b812c74ea0a29c5d705b6101652439e0bd20d9de18bd3e3c2499b7e7",
-    "record_sha256": "3e0edab9acd407d8ff2a4ef01b2e9970d5375a3aee85a47d00497390863b95a1"
+    "record_sha256": "d61d85a254326d57328a79bd22478916f68cbcb5bebcacd36c3837aabe05ecf0"
 }

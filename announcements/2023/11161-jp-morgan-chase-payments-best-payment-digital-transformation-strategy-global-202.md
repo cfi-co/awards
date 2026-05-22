@@ -7,6 +7,15 @@ published_gmt: 2023-02-16 13:32:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2023/jp-morgan-chase-payments-best-payment-digital-transformation-strategy-global-2023/"
 categories: ["Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d5030f74cc2a87baa637db381bc221b0996ad8f04e3aca9f060ff1b3f04fb7c
 canonical: 11161-jp-morgan-chase-payments-best-payment-digital-transformation-strategy-global-202.json
 ---

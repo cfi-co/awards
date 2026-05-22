@@ -7,6 +7,15 @@ published_gmt: 2020-09-18 08:35:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/bankinvest-best-esg-responsible-investor-denmark-2020/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f1d391e858eb4efa9ab55e5bc11205ef7ae742887f3672f5074d8376a6feed7
 canonical: 8211-bankinvest-best-esg-responsible-investor-denmark-2020.json
 ---

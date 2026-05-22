@@ -7,6 +7,15 @@ published_gmt: 2015-05-25 11:40:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2015/commonwealth-bank-best-retail-banking-team-bahamas-2015/"
 categories: ["Banking", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7223e29450365c95005e14f22854271a78680ac875e67da6a5baa190da520398
 canonical: 3230-commonwealth-bank-best-retail-banking-team-bahamas-2015.json
 ---

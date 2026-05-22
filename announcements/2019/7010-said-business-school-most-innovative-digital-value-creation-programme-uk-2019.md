@@ -7,6 +7,15 @@ published_gmt: 2019-12-03 18:59:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/said-business-school-most-innovative-digital-value-creation-programme-uk-2019/"
 categories: ["Development", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 325ae3f0892fae7ee5f01ea4e4866a1c182f0b3010ad73aded15111d5cc466f7
 canonical: 7010-said-business-school-most-innovative-digital-value-creation-programme-uk-2019.json
 ---

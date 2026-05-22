@@ -7,6 +7,15 @@ published_gmt: 2021-06-29 07:36:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/wec-energy-group-best-esg-growth-strategy-united-states-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "North America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd04e2979f20483a605e2b48465d0124cd137945a96f4ff0d0a5483e8c82f8b6
 canonical: 9295-wec-energy-group-best-esg-growth-strategy-united-states-2021.json
 ---

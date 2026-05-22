@@ -7,6 +7,15 @@ published_gmt: 2021-10-12 08:50:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/accountability-best-esg-strategy-development-partner-global-2021/"
 categories: ["Consultancies", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d3af82fd184df68b5931f0f43d94ad679cd132f0c9338edbd1815ec3d5a028f
 canonical: 9647-accountability-best-esg-strategy-development-partner-global-2021.json
 ---

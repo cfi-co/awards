@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 10:31:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/unity-best-sustainable-insurance-solutions-team-central-america-2016/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5a68bdc043474e942a3caad4be8089b834383d2936bb5d8bc4384dee50dc400a
 canonical: 4492-unity-best-sustainable-insurance-solutions-team-central-america-2016.json
 ---

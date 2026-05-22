@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 12:40:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/wing-bank-cambodia-plc-best-social-impact-bank-cambodia-2022/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "CSR", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 57df5444a321e27ddba1a36f079ea038301b84a4c71bab4b34b56008c1ce10c1
 canonical: 10847-wing-bank-cambodia-plc-best-social-impact-bank-cambodia-2022.json
 ---

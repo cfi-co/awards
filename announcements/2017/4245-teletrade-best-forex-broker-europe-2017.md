@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 11:16:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/teletrade-best-forex-broker-europe-2017/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da5bc66dfc4306b41ab09cabb11658603d38a04ec503cb233dd11ebd92952a69
 canonical: 4245-teletrade-best-forex-broker-europe-2017.json
 ---

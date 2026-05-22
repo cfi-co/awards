@@ -14,8 +14,21 @@
         "Professional Services",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-8619\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/SUEZ.jpg\" alt=\"SUEZ\" width=\"400\" height=\"100\" /></p>\r\n<p style=\"text-align: justify;\"><strong>There’s an air of optimism in the offices of SUEZ recycling and recovery UK. SUEZ Group is a worldwide leader of sustainable water and waste solutions with a 150-year history and a presence on five continents. UK operations are spread across over 300 facilities specialising in energy-from-waste and water treatment solutions. In the UK, the SUEZ team — more than 5,000 professionals from diverse backgrounds — are a key asset in advancing the circular economy movement and partners with clients to close loops in production and operational processes for the efficient and sustainable management of resources.</strong></p>\r\n<p style=\"text-align: justify;\">The company collaborates with international research centres and pioneering start-ups to foster innovation and sustainable growth. SUEZ sees circular economies as the norm of the future, as they have been proven to create true social value and environmental benefits.</p>\r\n<p style=\"text-align: justify;\">The company has developed innovative technologies to purify water and to transform waste into valuable secondary raw materials. It supports climate action with a product portfolio that can reduce clients’ greenhouse gas emissions by optimising energy consumption and expanding the use of renewables. It provides digital tools to maximise resource management and collaboration among treatment facilities. Customers trust SUEZ to advance their sustainability agenda, because this company practices what it preaches. It prioritises sustainability at every level and leads by example.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel presents SUEZ recycling and recovery UK with the 2020 award for Best Sustainable Management Solutions.</p>",
     "content_sha256": "94707ca2bc5cf353820348b8d062be0b34527ddc79d96899dece472598b35346",
-    "record_sha256": "e7da5b586463c06df956b88cbcb3b8f32816663b4ff3f1287fc98bff841d24e1"
+    "record_sha256": "b7b695709fb7f1c21175ba778e5dbfc3771dd7a63ea4e85b29d31163f05b00fb"
 }

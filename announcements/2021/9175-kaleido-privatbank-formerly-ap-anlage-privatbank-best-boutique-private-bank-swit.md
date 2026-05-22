@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:42:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/kaleido-privatbank-formerly-ap-anlage-privatbank-best-boutique-private-bank-switzerland-2021/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3c4d24b3ad4bbea580b1c9a9e14bf9e03118faf58f48bdd580a50fd22fbf0b62
 canonical: 9175-kaleido-privatbank-formerly-ap-anlage-privatbank-best-boutique-private-bank-swit.json
 ---

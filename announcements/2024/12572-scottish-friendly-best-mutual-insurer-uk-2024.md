@@ -7,6 +7,15 @@ published_gmt: 2024-09-13 11:40:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2024/scottish-friendly-best-mutual-insurer-uk-2024/"
 categories: ["Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 116fab9545f5ce8fbc84e386d6a41a4837fc1d326453b031ba21e7bfcd595350
 canonical: 12572-scottish-friendly-best-mutual-insurer-uk-2024.json
 ---

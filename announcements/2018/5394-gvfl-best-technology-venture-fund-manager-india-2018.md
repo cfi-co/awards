@@ -7,6 +7,15 @@ published_gmt: 2018-04-16 13:10:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/gvfl-best-technology-venture-fund-manager-india-2018/"
 categories: ["Asia Pacific", "Finance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 33117411cf5f2b43b29dbd52b99fd7782d038e3035c54caa22cf9fc55a8f0c64
 canonical: 5394-gvfl-best-technology-venture-fund-manager-india-2018.json
 ---

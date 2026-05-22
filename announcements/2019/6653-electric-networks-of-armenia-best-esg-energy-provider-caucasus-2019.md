@@ -7,6 +7,15 @@ published_gmt: 2019-04-26 09:03:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/electric-networks-of-armenia-best-esg-energy-provider-caucasus-2019/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cac721fdfeba6a26f54b99f289255e71c788d6eba540c846fe80ee50f75ffa93
 canonical: 6653-electric-networks-of-armenia-best-esg-energy-provider-caucasus-2019.json
 ---

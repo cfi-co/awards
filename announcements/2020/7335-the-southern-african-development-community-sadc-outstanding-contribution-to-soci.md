@@ -7,6 +7,15 @@ published_gmt: 2020-05-11 09:28:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/the-southern-african-development-community-sadc-outstanding-contribution-to-socio-economic-development-southern-africa-2020/"
 categories: ["Africa", "Best Practice", "Development", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 57c647fdbd42fb46656a19b07c6f07b2b8438213dc5c5eaa655c38e4e4cd03c0
 canonical: 7335-the-southern-african-development-community-sadc-outstanding-contribution-to-soci.json
 ---

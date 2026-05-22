@@ -12,8 +12,21 @@
         "Government",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-3549\" src=\"https://cfi.co/awards/wp-content/uploads/2016/10/SFZ.jpg\" alt=\"Corporación Zona Franca Industrial de Santiago\" width=\"400\" height=\"141\" />\r\n<p style=\"text-align: justify;\">By seeking progress and prosperity for the community as a whole, businesses can potentiate the economic and social development of the regions in which they operate. In the Dominican Republic, the Free Zone Corporation of Santiago (CZFS) attracts major international brands keen to take advantage of the park’s accommodating regulatory framework. Companies can engineer a financial boost for themselves, and improve quality of life for communities, as well as the country. CZFS was founded in 1974, and its journey has been characterized by sustainable growth in scale and scope, as well as in production capacity and environmental and societal impacts. Over the years, the zone has doubled its manufacturing facilities – two million square-meters in area – and increased the scope of its community enrichment programs. CZFS opened the doors to a community clinic in January, and upcoming projects include a housing complex, a commercial and business center, and an industrial garden. These developments serve the entire community, not just those linked to the free zone. CZFS is a strong advocate of educational opportunity and environmental responsibility, and invests in initiatives to empower the population and safeguard the planet. The CFI.co judging panel recognizes the zone’s robustness of service, and the sound nature of its environmental, social, and governance (ESG) policies. The judges had no hesitation in naming the Corporación Zona Franca Industrial de Santiago as winner of the 2019 award for the Best ESG Industrial Free Zone (LatAm &amp; Caribbean).</p>",
     "content_sha256": "fd76967c6a9628726037df3e741742a5e2d5879c2753ce30e819014b3d0c8266",
-    "record_sha256": "169d6a49c7c9bb3a575152ff4a09384f2575f31df97a2cdf55a2fb50b1d48cf6"
+    "record_sha256": "a24a48fb6c51e20fd51ba0f0699602b163b1687a418f7b134b183a30c5a252ad"
 }

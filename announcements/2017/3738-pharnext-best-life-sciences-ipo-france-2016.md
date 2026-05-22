@@ -7,6 +7,15 @@ published_gmt: 2017-01-16 07:00:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/pharnext-best-life-sciences-ipo-france-2016/"
 categories: ["Europe", "Finance", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5b0e3a9e85ae46fbe38266d540b56ff47c61d7a13f4979915aa6b86c0fbea12
 canonical: 3738-pharnext-best-life-sciences-ipo-france-2016.json
 ---

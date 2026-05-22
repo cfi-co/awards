@@ -7,6 +7,15 @@ published_gmt: 2014-10-01 12:14:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2014/eex-wins-the-cfi-co-2014-award-for-transparency-europe/"
 categories: ["Best Practice", "Corporate Governance", "Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 64246cdfce0281ac7191f63d2b525b6838a7fac9b64861ca72d4eafbdf00cad8
 canonical: 1360-eex-wins-the-cfi-co-2014-award-for-transparency-europe.json
 ---

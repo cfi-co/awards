@@ -7,6 +7,15 @@ published_gmt: 2013-06-19 15:09:37
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/holland-farming-the-cfi-corporate-community-engagement-winner-in-sierra-leone/"
 categories: ["Africa", "Community Engagement"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e9716889b98b19dfd5e8709822f411619e39c92913dacc14f700df24bba49cac
 canonical: 618-holland-farming-the-cfi-corporate-community-engagement-winner-in-sierra-leone.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-11-02 09:41:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2016/great-american-insurance-group-best-pc-insurer-north-america-2016/"
 categories: ["Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ad2a9de27785f7eb76c7d5e02781fff8f6fa0a8303f224c5838eb712b42d6da9
 canonical: 4130-great-american-insurance-group-best-pc-insurer-north-america-2016.json
 ---

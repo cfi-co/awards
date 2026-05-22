@@ -7,6 +7,15 @@ published_gmt: 2022-11-10 15:33:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/the-co-operative-bank-most-ethical-bank-uk-2022/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fb11fc4259ea86833120f2dc2efa972adc92c448dfeb4a2c6bab74b04d9e65b9
 canonical: 10899-the-co-operative-bank-most-ethical-bank-uk-2022.json
 ---

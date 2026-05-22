@@ -7,6 +7,15 @@ published_gmt: 2021-04-14 13:00:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2021/hemisferio-sul-investimentos-hsi-best-real-estate-private-equity-investor-brazil-2021/"
 categories: ["Finance", "Latin America", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c4985f63ac4fdb14d996b5db1a34b5ebf0dfbf0e033b0c6d8a30f5e71f3e7072
 canonical: 9027-hemisferio-sul-investimentos-hsi-best-real-estate-private-equity-investor-brazil.json
 ---

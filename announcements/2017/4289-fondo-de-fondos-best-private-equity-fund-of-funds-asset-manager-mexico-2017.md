@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 12:47:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2017/fondo-de-fondos-best-private-equity-fund-of-funds-asset-manager-mexico-2017/"
 categories: ["Asset Management", "Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1758a3528d1c776cae0e2d2acf0b76e5b43746b9a9fc4acadf531dfbf60c5b5b
 canonical: 4289-fondo-de-fondos-best-private-equity-fund-of-funds-asset-manager-mexico-2017.json
 ---

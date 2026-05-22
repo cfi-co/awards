@@ -7,6 +7,15 @@ published_gmt: 2019-05-15 10:01:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/corporacion-nacional-de-desarrollo-best-infrastructure-development-partner-latin-america-2019/"
 categories: ["Industries", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d71bf1a27a3355cb9ff3d66125d93cb43146c8080cb414ab7b7eed97062201c7
 canonical: 6703-corporacion-nacional-de-desarrollo-best-infrastructure-development-partner-latin.json
 ---

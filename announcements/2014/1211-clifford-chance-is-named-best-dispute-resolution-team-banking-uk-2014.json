@@ -13,8 +13,21 @@
         "Legal",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-830\" src=\"https://cfi.co/awards/wp-content/uploads/2013/10/Clifford-Chance.jpg\" alt=\"Clifford Chance\" width=\"318\" height=\"159\" />\r\n<p style=\"text-align: justify;\"><strong>Clifford Chance is of course a massively strong firm across many disciplines but the Judging Panel has singled out its work in Dispute Resolution, Banking, for recognition in the 2014 Legal Awards Programme. </strong></p>\r\n<p style=\"text-align: justify;\">The firm has 500 lawyers around the world available for dispute resolution and litigation work. The team in London has worked on some very interesting banking matters and is described as one of great litigators with sound strategic thinking. The Judging Panel congratulates Clifford Chance on outstanding performance in this area.</p>",
     "content_sha256": "0472f9f8575b99c84dd1b459ddbe70938db137b152281ccca5692fce4f0a7aab",
-    "record_sha256": "80eed590844fd60075ad7bb4f8c73cfc4f035e50d11e90743179c5b4f7b90bab"
+    "record_sha256": "d20185f410b510e03e00fe1798877741b89ef2f41980431a0170367be99074f1"
 }

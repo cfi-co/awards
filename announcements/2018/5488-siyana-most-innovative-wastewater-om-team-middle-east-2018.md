@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:10:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/siyana-most-innovative-wastewater-om-team-middle-east-2018/"
 categories: ["Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4b9ead865bcf5a4689d2fcb138c87223514efb4a02cc0ab084f419c78a109ad
 canonical: 5488-siyana-most-innovative-wastewater-om-team-middle-east-2018.json
 ---

@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4437\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/ICM.jpg\" alt=\"\" width=\"600\" height=\"395\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Reducing chance to the bare minimum and providing constant vigilance to ensure optimum performance, Liechtenstein-based International Capital Management (ICM) consistently succeeds in serving investors with best-in-class products, fine-tuned to fit a wide spectrum of risk-tolerance profiles.</strong></p>\r\n<p style=\"text-align: justify;\">The firm has been an early – and successful – adopter of the risk mitigation strategies first developed and proposed by Professor Harry Markowitz, winner of the 1990 Nobel Memorial Prize in Economic Sciences, in a ground-breaking paper on modern portfolio management. ICM has taken the Markowitz approach one step further, adding both traditional and bespoke diversification elements to enhance an already formidable risk protection framework.</p>\r\n<p style=\"text-align: justify;\">ICM has established a solid reputation as an asset manager by applying its mastery of financial theory to everyday situations, proving time and again that academic research into the behaviour of markets can be made to pay off. ICM is extremely particular in its selection of products or asset classes considered for investment. As an independent firm, ICM is not held back by vested interests other than its iron-clad mandate to safeguard the long-term well-being of its clients.</p>\r\n<p style=\"text-align: justify;\">After carefully considering both ICM’s offerings and its unique approach to portfolio management, the CFI.co judging panel concludes that the multi-pronged methodology put in place by International Capital Management to detect long-term trends and benefit from momentary swings indeed constitutes a recipe for enduring success. ICM is a worthy winner of the 2016 Best Interdisciplinary Investment Process Central Europe Award.</p>",
     "content_sha256": "40f54bfabcc0e47c4e298663aa6cf384bb1f4ea9652c14bb2db00fd23365ca0a",
-    "record_sha256": "e25310b079c4810c839a01d3c6ecec748f089d07cd462975ff1711cf97dab77d"
+    "record_sha256": "874c8b01a976a333c8ed83ee9008ee76014da28d5fb44f0ada70decbc77da3b4"
 }

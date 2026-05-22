@@ -13,8 +13,21 @@
         "Middle East",
         "Oil &amp; Gas"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9728\" src=\"https://cfi.co/awards/wp-content/uploads/2021/11/SATORP.jpg\" alt=\"SATORP\" width=\"400\" height=\"264\" />\r\n<p style=\"text-align: justify;\">SATORP, established in 2014, has been described as the Rolls Royce of refineries. Situated in Jubail, Saudi Arabia, it has a capacity up to 460,000 bpd and its production is sold to shareholders Saudi Aramco and Total. According to the panel, SATORP’s recent factoring within a corporate finance deal deserves a similar comparison to the famous car maker. SATORP’s Treasury main aim was to improve cash flow. Factoring (much cheaper than other working capital facilities) offered a brilliant solution, but the arrangement was no walk in the park. SATORP’s senior debtors are a dozen regional and international banks. According to a spokesman at investment bank Natixis, similar schemes had been tried elsewhere but would end in failure. Here the lenders were confident because SATORP was appropriately organised and negotiated well. Natixis plans to try this scheme out with other clients. Legal advisers at Allen &amp; Overy were similarly impressed. Time was of the essence as receivables have a limited shelf-life, and there had to be a seamless process to deal with the complicated paperwork. According to the law firm, there have been no dramas, shouts for help, or complaints from any parties. This arrangements allow for significant savings and factoring will be crucial going forward. The panel applauds SATORP for a job well done and is delighted to confirm the award: Most Innovative Project Finance Deal GCC 2021.</p>",
     "content_sha256": "3f74648a8ab2045a1d71941003b9bf20cf89d8b71a40d8480e2c1efcc67cb068",
-    "record_sha256": "7af88f8e071ee310e1de84edd7950aab38fd9399924ee2619d401ceef7d45716"
+    "record_sha256": "0d16a736a95dade8afba70fb8fde10b371f53364ef886da834f86bb1ac685e0e"
 }

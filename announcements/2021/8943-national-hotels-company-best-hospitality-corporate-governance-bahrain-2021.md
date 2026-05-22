@@ -7,6 +7,15 @@ published_gmt: 2021-03-16 08:04:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/national-hotels-company-best-hospitality-corporate-governance-bahrain-2021/"
 categories: ["Best Practice", "Corporate Governance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1959a8b227361f5347ba196742ca734243b4603ce00e32553c1bef60376a202b
 canonical: 8943-national-hotels-company-best-hospitality-corporate-governance-bahrain-2021.json
 ---

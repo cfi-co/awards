@@ -7,6 +7,15 @@ published_gmt: 2022-03-07 14:32:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/pib-group-best-specialist-insurance-broker-uk-2021/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c14a481998893c7b84e7bea700f166128824c6b8fcf7a8dcebe50b0ab27ebbf6
 canonical: 10217-pib-group-best-specialist-insurance-broker-uk-2021.json
 ---

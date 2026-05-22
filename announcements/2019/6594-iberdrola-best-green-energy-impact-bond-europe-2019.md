@@ -7,6 +7,15 @@ published_gmt: 2019-03-19 14:59:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2019/iberdrola-best-green-energy-impact-bond-europe-2019/"
 categories: ["Industries", "Projects", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 452f08e36f0fe2bff925182751e2aea2d3d721dc8856abaa9a4bc1787ef20d82
 canonical: 6594-iberdrola-best-green-energy-impact-bond-europe-2019.json
 ---

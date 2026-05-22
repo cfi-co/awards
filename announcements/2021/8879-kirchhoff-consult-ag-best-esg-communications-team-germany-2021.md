@@ -7,6 +7,15 @@ published_gmt: 2021-03-01 13:28:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/kirchhoff-consult-ag-best-esg-communications-team-germany-2021/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Professional Services", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7f3c4757e5afe6b3975444cfbd3e830d156371b8c78359454e1f9359d84e148a
 canonical: 8879-kirchhoff-consult-ag-best-esg-communications-team-germany-2021.json
 ---

@@ -14,8 +14,21 @@
         "Latin America",
         "Projects"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-3549\" src=\"https://cfi.co/awards/wp-content/uploads/2016/10/SFZ.jpg\" alt=\"Corporación Zona Franca Industrial de Santiago\" width=\"400\" height=\"141\" />\r\n<p style=\"text-align: justify;\">Corporación Zona Franca Santiago (CZFS) is a trailblazer, encouraging good Environmental, Social, and Governance (ESG) practices within Latin America and the Caribbean's industrial free zones. The judging panel applauds the CZFS commitment to sustainability, noting many worthy initiatives in environmental protection, social responsibility, and ethical governance. CZFS prioritises responsible waste management through efficient programmes for recycling and proper disposal. It actively promotes energy efficiency by encouraging tenant companies to adopt sustainable practices and make use of renewable energy sources. Additionally, it invests in green infrastructure projects such as parks and water conservation measures, fostering a healthier environment for employees and the surrounding community. Our winner fosters a positive social impact through its commitment to employee well-being, is dedicated to worker safety with robust training programmes and CZFS adheres to strict safety regulations. CZFS supports initiatives for community development, promoting education and healthcare access in the surrounding areas. CZFS upholds strong ethical principles in its operations, ensuring transparency through clear communication with stakeholders and adherence to international regulations and best practice. A commitment to fair labour practices ensures a positive working environment for all employees within the free zone. By proactively addressing ESG concerns, CZFS attracts environmentally and socially conscious businesses, solidifying its position as a leader in sustainable industrial development within Latin America and the Caribbean. The judging panel commends Corporación Zona Franca Santiago and confirms the 2024 award Best ESG Industrial Free Zone (LatAm &amp; Caribbean).</p>",
     "content_sha256": "4847afcb3f144f49784995158cc8465fd9dcbf3ad83c83b93d72a5cc22f2c225",
-    "record_sha256": "e8a34d7ee502aea8254b2ce047f87fcec87308f46c360a56811774345ff26763"
+    "record_sha256": "9ca4b18f61e42571793595b338d21390077ee3d3f0369d46e422946c5329e51d"
 }

@@ -7,6 +7,15 @@ published_gmt: 2017-12-04 13:20:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2017/peabody-best-esg-responsible-mining-company-global-2017/"
 categories: ["Industries", "Mining", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2d7b967905c1ac0aea9b54c7205601336c0b768bd31e2d9ebdf289b5ac0dd08c
 canonical: 5076-peabody-best-esg-responsible-mining-company-global-2017.json
 ---

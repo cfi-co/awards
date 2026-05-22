@@ -7,6 +7,15 @@ published_gmt: 2020-09-08 05:00:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/evenord-bank-eg-kg-best-sustainable-regional-bank-germany-2020/"
 categories: ["Banking", "Best Practice", "CSR", "Corporate Governance", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 199da5da122faab55ce457a4036e3376fe4e6fc51ed8b93021a4aa61eec1fe72
 canonical: 8205-evenord-bank-eg-kg-best-sustainable-regional-bank-germany-2020.json
 ---

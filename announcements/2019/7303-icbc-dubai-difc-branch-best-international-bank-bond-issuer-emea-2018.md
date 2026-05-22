@@ -7,6 +7,15 @@ published_gmt: 2019-01-01 10:11:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2019/icbc-dubai-difc-branch-best-international-bank-bond-issuer-emea-2018/"
 categories: ["Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9c465a78507a323bc3d44779fd7c5045fa09b0895cca007014ca8a036c28710
 canonical: 7303-icbc-dubai-difc-branch-best-international-bank-bond-issuer-emea-2018.json
 ---

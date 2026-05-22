@@ -7,6 +7,15 @@ published_gmt: 2019-01-15 15:02:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2019/meeza-best-it-security-gcc-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e671d203e7030417055604c8d63278e120a6085d78464f4374116bc9beabea7b
 canonical: 6421-meeza-best-it-security-gcc-2018.json
 ---

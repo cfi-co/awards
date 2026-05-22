@@ -7,6 +7,15 @@ published_gmt: 2021-03-29 11:57:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/cimb-bank-ph-best-digital-banking-solutions-philippines-2021/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: efaf96c06b079a91ecafb64779ecb8b140ab4de2cad0b5655d444c9078084e6e
 canonical: 8989-cimb-bank-ph-best-digital-banking-solutions-philippines-2021.json
 ---

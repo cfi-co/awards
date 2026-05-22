@@ -11,8 +11,21 @@
         "Best Practice",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3894\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/AsiaPlantationCapital.jpg\" alt=\"\" width=\"495\" height=\"120\" /></p>\r\n<p style=\"text-align: justify;\"><strong>For all the trees it manages – around eight million – Asia Plantation Capital (APC) has not lost view of the forest. The company manages no less than 126 plantations on four continents and is both a global leader and trendsetter in sustainable forestry. APC has recently branched out into the production of essential oils, organics, and various bamboo by-products.</strong></p>\r\n<p style=\"text-align: justify;\">Earlier this year, APC subsidiary Eco Tech Asia launched a line of bamboo-based travel bags and light-weight bicycles to complement its range of bamboo flooring products. The APC Scientific Advisory Board has now joined China’s Institute of Tropical Bioscience to explore the medicinal benefits of oud oil obtained from agarwood. Fragrance Du Bois, another APC sibling, already uses oud oil for its premium perfume line which is marketed through exclusive concept boutiques in Singapore, Kuala Lumpur, Bangkok, and soon in Geneva, London, Paris, and Dubai.</p>\r\n<p style=\"text-align: justify;\">More than just a forestry management company, Asia Plantation Capital is a full-service, vertically-integrated stewardship business that aims to bring sustainable forestry out of its niche and into the mainstream. As such, APC is fully committed to adhere to global best practices of corporate governance in order to facilitate access to the buoyant forestry industry by institutional investors and others looking to underwrite large-scale sustainable initiatives.</p>\r\n<p style=\"text-align: justify;\">According to Forest Financing, a recent PwC report, the sector can no longer be absent from any well-balanced investment portfolio. One of the fastest-growing forestry management companies in the world, Asia Plantation Capital already has over $600m in assets under management. APC expects to pass the billion-dollar mark before long.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to note that Asia Plantation Capital continues on a growth path without relaxing its compliance with ESG (environmental, social, and governance) standards. The judges are therefore happy to confirm, for a second consecutive year, the Best Sustainable Forestry Management Team Global Award to Asia Plantation Capital.</p>",
     "content_sha256": "76faf91814fb08e8076f845208af87e91251b13d5eff251a7b07df3b5df2c080",
-    "record_sha256": "8b4c149ba459116a8011690d226d321512f9b49182e67f40bbb76a16aeb0f658"
+    "record_sha256": "fcb0c16be9b71f906ed7f4693bd7587a6688c6eab3527ba504493fb1de480804"
 }

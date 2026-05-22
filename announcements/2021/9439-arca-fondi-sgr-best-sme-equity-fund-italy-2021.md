@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 12:38:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/arca-fondi-sgr-best-sme-equity-fund-italy-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5dc9935c9db505b4336fcf094fbc8188543bf7302ec6f386b851a991680d5ccd
 canonical: 9439-arca-fondi-sgr-best-sme-equity-fund-italy-2021.json
 ---

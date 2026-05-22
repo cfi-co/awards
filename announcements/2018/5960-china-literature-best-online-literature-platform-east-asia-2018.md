@@ -7,6 +7,15 @@ published_gmt: 2018-09-04 12:31:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/china-literature-best-online-literature-platform-east-asia-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc0439eebe533c3190686b7cafed4c6cb45f2f2c2c4fd2e7f9ca1b0711a94c6b
 canonical: 5960-china-literature-best-online-literature-platform-east-asia-2018.json
 ---

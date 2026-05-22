@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 10:22:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2016/fxpro-group-best-fx-execution-global-2016/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a308aabf660725d6e1010eb55ff82c23449193b435d01642d12fdba1bcbf1561
 canonical: 4480-fxpro-group-best-fx-execution-global-2016.json
 ---

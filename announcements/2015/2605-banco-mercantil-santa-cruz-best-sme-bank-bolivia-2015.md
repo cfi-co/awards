@@ -7,6 +7,15 @@ published_gmt: 2015-04-02 13:36:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2015/banco-mercantil-santa-cruz-best-sme-bank-bolivia-2015/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1e37e4cdd763e74d51d52fee6a43c4bd1b9b50a084927e07b4142321464c5760
 canonical: 2605-banco-mercantil-santa-cruz-best-sme-bank-bolivia-2015.json
 ---

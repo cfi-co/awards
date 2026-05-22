@@ -7,6 +7,15 @@ published_gmt: 2018-01-12 10:02:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/dubai-electricity-and-water-authority-dewa-best-energy-demand-strategy-gcc-2017/"
 categories: ["Government", "Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c20c2dc0a64ae809b94d54ce7a11719b162e091c8dec0ac206f0e5090156751
 canonical: 5363-dubai-electricity-and-water-authority-dewa-best-energy-demand-strategy-gcc-2017.json
 ---

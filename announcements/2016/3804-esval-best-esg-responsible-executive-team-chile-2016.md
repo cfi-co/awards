@@ -7,6 +7,15 @@ published_gmt: 2016-08-01 14:17:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/esval-best-esg-responsible-executive-team-chile-2016/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Industries", "Latin America", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c89a62cdb39c10848c76eb4c3bcd3815e5c57b74b4369fc87da35b50bf666c40
 canonical: 3804-esval-best-esg-responsible-executive-team-chile-2016.json
 ---

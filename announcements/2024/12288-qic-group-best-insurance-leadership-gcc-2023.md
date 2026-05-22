@@ -7,6 +7,15 @@ published_gmt: 2024-02-12 13:59:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2024/qic-group-best-insurance-leadership-gcc-2023/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5112735dcdf58c0709bc23a95ad315216b73740cdf31394a3e19edf8af492f8
 canonical: 12288-qic-group-best-insurance-leadership-gcc-2023.json
 ---

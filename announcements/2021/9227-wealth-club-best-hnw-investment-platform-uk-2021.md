@@ -7,6 +7,15 @@ published_gmt: 2021-05-20 05:40:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/wealth-club-best-hnw-investment-platform-uk-2021/"
 categories: ["Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ee5cc4647303afacf335a9901a9bd70a5365d131b2fe348787df31924100760
 canonical: 9227-wealth-club-best-hnw-investment-platform-uk-2021.json
 ---

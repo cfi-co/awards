@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12347\" src=\"https://cfi.co/awards/wp-content/uploads/2024/04/BakerTilly-jpg.webp\" alt=\"BakerTilly\" width=\"500\" height=\"170\" />\r\n<p style=\"text-align: justify;\">In the competitive landscape of Moroccan investment banking, Baker Tilly Burj Finance stands out for innovation and excellence. As an independent entity within the Baker Tilly Morocco network, the firm has cemented its position by offering bespoke and comprehensive corporate finance solutions. Specialising in mergers and acquisitions, financial restructuring, investment advisory, and more, Baker Tilly Burj Finance has become synonymous with robust and insightful financial strategies that propel businesses forward. The essence of its success lies in a deep-seated understanding of market intricacies, combined with the agility to craft and implement customised solutions that transcend conventional financial approaches. This independence not only allows for unparalleled confidentiality but also ensures that the advisory is genuinely objective, catering precisely to the unique needs and strategic goals of clients. Commitment to excellence is further exemplified by its contribution to raising more than 10 billion MAD for clients across various sectors, demonstrating a formidable and truly impressive presence in the industry. The affiliation with the Baker Tilly International network expands its reach and resource pool, enhancing the capability to support clients on both a local and global scale. Through a culture that robustly prioritises excellence, innovation, and unwavering professional ethics, Baker Tilly Burj Finance has indubitably shaped the Moroccan investment banking sector. It is this distinctive blend of local expertise and global reach, underpinned by a commitment to tailor-made financial solutions, that rightfully earns Baker Tilly Burj Finance the 2024 award Best Investment Bank (Morocco).</p>",
     "content_sha256": "2a7a26a08252ec8f337dae5adbc86ccff0387f1cbc39a4c48e8d6d995d0042fe",
-    "record_sha256": "0a3fc181e013e413e93005cffb01ecb56f4bc771ac13bfea3249807f0ec9bbcd"
+    "record_sha256": "3a4e56ea03abe4f9df6c1b8ac728f07576fe1c59fc58a6cb5fa653d7479f841a"
 }

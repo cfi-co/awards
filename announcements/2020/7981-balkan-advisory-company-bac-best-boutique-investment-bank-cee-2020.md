@@ -7,6 +7,15 @@ published_gmt: 2020-07-09 08:01:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/balkan-advisory-company-bac-best-boutique-investment-bank-cee-2020/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 85fe71fb3f984670d90fbadd5b0e7a15081d96a0799e787cbb13add23b539342
 canonical: 7981-balkan-advisory-company-bac-best-boutique-investment-bank-cee-2020.json
 ---

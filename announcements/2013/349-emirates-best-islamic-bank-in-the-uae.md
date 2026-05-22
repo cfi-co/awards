@@ -7,6 +7,15 @@ published_gmt: 2013-02-11 12:28:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/emirates-best-islamic-bank-in-the-uae/"
 categories: ["Banking", "Finance", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7027a15848524532a0b5635323f327c3ebd3a00211b126535831f032bc0e2242
 canonical: 349-emirates-best-islamic-bank-in-the-uae.json
 ---

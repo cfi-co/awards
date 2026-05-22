@@ -7,6 +7,15 @@ published_gmt: 2024-03-15 14:28:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2024/aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023/"
 categories: ["Asia Pacific", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b6aade28c280a5ffaa4c3e06b6a0a7ec78361f9450812b619a90a21e36416c4
 canonical: 12480-aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023.json
 ---

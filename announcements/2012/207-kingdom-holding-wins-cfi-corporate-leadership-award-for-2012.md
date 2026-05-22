@@ -7,6 +7,15 @@ published_gmt: 2012-09-27 15:19:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2012/kingdom-holding-wins-cfi-corporate-leadership-award-for-2012/"
 categories: ["Corporate Leadership", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5f238519df0e2d938bbfd7815fc01ae8e2602a4bcf121cdc16c872a9c2292a91
 canonical: 207-kingdom-holding-wins-cfi-corporate-leadership-award-for-2012.json
 ---

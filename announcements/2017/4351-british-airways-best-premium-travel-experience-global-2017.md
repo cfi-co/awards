@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 14:27:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/british-airways-best-premium-travel-experience-global-2017/"
 categories: ["Customer Satisfaction", "Europe", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0494ad081f0c3d375b434a4ef66ee6f7cae7b6ea42fea4014d3da5a7c5a03ac1
 canonical: 4351-british-airways-best-premium-travel-experience-global-2017.json
 ---

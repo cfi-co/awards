@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:04:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/farazad-investments-fi-best-private-equity-real-estate-group-global-2020/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1f532b03f0f66f4e7c0c69b51ace2603114c07911b27d3b77118a820eea8fe86
 canonical: 9135-farazad-investments-fi-best-private-equity-real-estate-group-global-2020.json
 ---

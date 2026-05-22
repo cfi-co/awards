@@ -13,8 +13,21 @@
         "Best Practice",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-4072\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Chinabank-300x65.jpg\" alt=\"\" width=\"300\" height=\"65\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Nearing its first centennial as one of the Philippines’ most respected financial institutions, the China Banking Corporation (CBC) owes its longevity and solid performance to accountability, transparency, and good governance. Long before these became buzzwords, the bank had already firmly committed to the pursuit of “profit with honour.” This deceptively simple approach to banking has allowed CBC to help generations of Philippine families and entrepreneurs underpin their dreams with solid financials.</strong></p>\r\n<p style=\"text-align: justify;\">The businessmen who started China Banking Corporation in 1920 understood the importance of trust. Their word was as good as – if not better than – a bond. The bank considers the creation of wealth for clients as its primary mission and offers support to those who seek to climb up the social ladder via hard work, discipline, integrity, and business savvy. As such, CBC aims to establish lasting long-term relationships with clients – both private individuals and corporates large and small.</p>\r\n<p style=\"text-align: justify;\">The approach yields remarkable results and showcases the power of proper banking. CBC helped small-time scrap metal dealer and rice seller John Gokongwei become a large industrialist and empowered street pedlar Henry Sy to build a business empire.</p>\r\n<p style=\"text-align: justify;\">Offering a broad array of products and services, carefully tailored to meet the diverse needs of its clients, CBC sticks to the corporate slogan that served it so well: Your Success Is Our Business.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel wishes to congratulate China Banking Corporation with its win of the 2016 Best Bank Governance Philippines Award.</p>",
     "content_sha256": "d60e2a230e0293be59fba9f77932600cc6d5cc7e67dcbd4564af35f763c7d66c",
-    "record_sha256": "0b5957ea8c4b8dc7f4c8d8183d3a0d8ab996b505f954b0e3e5e49790877bc737"
+    "record_sha256": "3eef87c262e9744a068e19ba427ffaf5715edd345818f466d0cf3be0d187db25"
 }

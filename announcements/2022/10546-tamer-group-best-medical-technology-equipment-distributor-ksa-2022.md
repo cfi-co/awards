@@ -7,6 +7,15 @@ published_gmt: 2022-06-02 05:00:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/tamer-group-best-medical-technology-equipment-distributor-ksa-2022/"
 categories: ["Industries", "Middle East", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8c758c31e283b0538499309029756dc965204f13f79bda65e348aaaf6a97f47e
 canonical: 10546-tamer-group-best-medical-technology-equipment-distributor-ksa-2022.json
 ---

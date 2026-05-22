@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:40:06
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2017/cedrus-invest-bank-best-bank-governance-lebanon-2017/"
 categories: ["Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 19da4b66f6e0b0acfef0ff6bd69353bf6cd12d8cdb6532a427a2e3b6c615832c
 canonical: 4704-cedrus-invest-bank-best-bank-governance-lebanon-2017.json
 ---

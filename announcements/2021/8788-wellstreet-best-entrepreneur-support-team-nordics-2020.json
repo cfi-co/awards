@@ -10,8 +10,21 @@
     "categories": [
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8789\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/Wellstreet.jpg\" alt=\"Wellstreet\" width=\"400\" height=\"58\" />\r\n<p style=\"text-align: justify;\">Founded in 2016, Wellstreet operates with a forever-forward mentality. The group has established an ecosystem of support for entrepreneurs who are making a difference — and making money in the process. Wellstreet takes great ideas and helps make them a sustainable reality. It takes great start-ups and makes them better. Wellstreet is an investment firm that has in its ecosystem everything an early-stage start-up might need, which includes physical space, strategic advisory and two venture building programs, to which the start-ups have access once they become part of the portfolio. Wellstreet employees are an international skilled team with expertise spanning over 20+ years of entrepreneurship and fundraising projects. Their operational hands-on approach means that the entire staff works seamlessly together to help promising companies reach their full potential. The group has served as a bridge to market scalability for over 30 companies since its launch. The Wellstreet team takes the time to vet prospective portfolio companies and only invests when, beyond money, the startup will benefit from the Wellstreet’s particular set of experiences. In addition, they must have the right mindset and bright leadership. Wellstreet measures success, not in portfolio size or profits earned, but in the calibre of the businesses it has helped build. Wellstreet recently inaugurated the biggest innovation and tech hub in the Nordics: The Factory by Wellstreet, a glittering glass building outside of Stockholm totalling more than 14,000 square metres. A special “Makerzone” encourages people of all ages to set their imaginations free and start creating. In partnership with 140 teachers, some 12,000 people have access to services, ranging from Lego projects to programming courses. CFl.co recognises a company moving the needle on sustainability, one start-up at a time. The judges present Wellstreet with the 2020 award for Best Entrepreneur Support Team (Nordics).</p>",
     "content_sha256": "41f77900664e32480d8b01fa5029a222032f731524419b512cfa3ade155480ed",
-    "record_sha256": "5b29c31b939c1d841af47305f583072f5e9780eb9430a004ba5857be6cdb8a39"
+    "record_sha256": "17c93cb3b92a21cf81f29f3823a223c2d1f0e14a8d94501fcaea7413c5c1127d"
 }

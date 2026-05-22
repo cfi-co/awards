@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2018/the-simpsons-most-societal-impact-television-series-global-2017/"
 categories: ["CSR", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d48e6d7d9eb8cd62bad3c91b172a172b397afb60d43e7dd33427bb83294b661
 canonical: 5262-the-simpsons-most-societal-impact-television-series-global-2017.json
 ---

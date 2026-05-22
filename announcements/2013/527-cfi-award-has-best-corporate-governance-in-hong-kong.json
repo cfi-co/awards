@@ -12,8 +12,21 @@
         "Best Practice",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"  wp-image-528 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/hkex.jpg\" alt=\"hkex\" width=\"135\" height=\"135\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Hong Kong Exchanges and Clearing Limited (HKEx) is recognised by CFI’s award panel for ‘Best Corporate Governance, Hong Kong, 2013’.</strong></p>\r\n<p style=\"text-align: justify;\">With the aim of being the global exchange of choice for Chinese clients and internationals seeking exposure to China, it is critical that HKEx corporate governance is of the highest possible standard and the management of HKEx have taken this prerequisite to heart. Given the transparent approach to corporate governance, the judging panel were not surprised by the number of nominations HKEx received. The panel felt that HKEx were going well beyond the statutory requirements with all stakeholder interests being fairly taken into account.</p>",
     "content_sha256": "2f4c050df18ec8c9ab8954ce2845087193ff0e732ddb2cfd35672a2741b69275",
-    "record_sha256": "4529d07e4d0ec99d85a80a67194fe4f02e9ec01cd9360822617183596fc28328"
+    "record_sha256": "24226e83a56e8c9afd8fa0184979aed88c2dcdfc611d58e755b401118840d2ca"
 }

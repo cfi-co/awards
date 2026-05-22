@@ -7,6 +7,15 @@ published_gmt: 2018-12-14 10:36:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/stoxx-most-innovative-index-provider-global-2018/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7986cb005a8610f79df6119677aa5cf6815f5b6dcf289c076776072e69f440a4
 canonical: 6365-stoxx-most-innovative-index-provider-global-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-05-10 11:23:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2023/bank-of-baghdad-best-bank-iraq-2023/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 03340c36367a4a16f29053f154e98b40f3c8ebb8de255b183d3daf9025b3f3da
 canonical: 11490-bank-of-baghdad-best-bank-iraq-2023.json
 ---

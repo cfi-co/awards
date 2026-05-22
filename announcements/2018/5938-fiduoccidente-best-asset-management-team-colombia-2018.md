@@ -7,6 +7,15 @@ published_gmt: 2018-09-04 10:08:59
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2018/fiduoccidente-best-asset-management-team-colombia-2018/"
 categories: ["Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: db1338945964059c4a3ccdf26bb68b7f7f856548bfafe120ce684bd602a52cb0
 canonical: 5938-fiduoccidente-best-asset-management-team-colombia-2018.json
 ---

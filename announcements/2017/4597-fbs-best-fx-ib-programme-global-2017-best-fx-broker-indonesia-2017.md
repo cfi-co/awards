@@ -7,6 +7,15 @@ published_gmt: 2017-08-04 11:56:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/fbs-best-fx-ib-programme-global-2017-best-fx-broker-indonesia-2017/"
 categories: ["Asia Pacific", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 78286eba01a2162fd50f5a38732e107c1fe85dc6e50a07fae2fd959e4a36a6fa
 canonical: 4597-fbs-best-fx-ib-programme-global-2017-best-fx-broker-indonesia-2017.json
 ---

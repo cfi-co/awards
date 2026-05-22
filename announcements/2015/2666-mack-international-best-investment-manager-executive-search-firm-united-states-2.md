@@ -7,6 +7,15 @@ published_gmt: 2015-05-20 10:01:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2015/mack-international-best-investment-manager-executive-search-firm-united-states-2015/"
 categories: ["Finance", "North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e08b064c856b8540d9e0097a6403edb366b46aebcd0c91d1555e5e1328f012c7
 canonical: 2666-mack-international-best-investment-manager-executive-search-firm-united-states-2.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-10-27 09:57:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2025/banco-interatlantico-visionary-in-regional-economic-empowerment-cape-verde-2025/"
 categories: ["Africa", "Banking", "Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4b9081e24017b455629373964d4aa5d157004402c3098502229eb5cb0bea7910
 canonical: 13157-banco-interatlantico-visionary-in-regional-economic-empowerment-cape-verde-2025.json
 ---

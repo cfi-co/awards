@@ -7,6 +7,15 @@ published_gmt: 2016-08-04 14:39:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/bankaool-best-sme-bank-mexico-2016/"
 categories: ["Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e0f39f4d9341f52dc98902ecf97e2ed9621c62b0f5cc101d4b6ecb1ce07b537a
 canonical: 3279-bankaool-best-sme-bank-mexico-2016.json
 ---

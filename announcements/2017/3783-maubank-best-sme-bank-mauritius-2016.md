@@ -7,6 +7,15 @@ published_gmt: 2017-01-26 13:24:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2017/maubank-best-sme-bank-mauritius-2016/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfe2fd6614b9e1b1f5deb020ed79600f35113e7024b3338481206d33c0e06fb3
 canonical: 3783-maubank-best-sme-bank-mauritius-2016.json
 ---

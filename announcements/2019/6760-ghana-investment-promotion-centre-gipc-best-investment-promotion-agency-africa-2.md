@@ -7,6 +7,15 @@ published_gmt: 2019-06-05 10:05:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/ghana-investment-promotion-centre-gipc-best-investment-promotion-agency-africa-2019/"
 categories: ["Africa", "Development", "FDI Agencies", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f102ba168ffff1124a23edace9bff4aad726ac1a8a751a943abf803494e04f1e
 canonical: 6760-ghana-investment-promotion-centre-gipc-best-investment-promotion-agency-africa-2.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-11-02 11:30:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/asset-management/2023/taurus-asset-management-sa-lugano-best-fixed-income-investment-strategy-switzerland-2023/"
 categories: ["Asset Management", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 232f9128bd5a6757fcf3f9812747861b5f046d3be8b333bab32742d8b8916abd
 canonical: 12036-taurus-asset-management-sa-lugano-best-fixed-income-investment-strategy-switzerl.json
 ---

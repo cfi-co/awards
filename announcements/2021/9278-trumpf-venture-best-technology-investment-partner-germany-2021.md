@@ -7,6 +7,15 @@ published_gmt: 2021-06-23 13:09:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/trumpf-venture-best-technology-investment-partner-germany-2021/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1cd0a1b6e3fb2d4aa778d7ea17fd3620116e2feea7bfc66e7f938c787b14137c
 canonical: 9278-trumpf-venture-best-technology-investment-partner-germany-2021.json
 ---

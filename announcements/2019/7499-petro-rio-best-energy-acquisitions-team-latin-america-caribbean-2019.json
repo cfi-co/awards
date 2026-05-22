@@ -12,8 +12,21 @@
         "Latin America",
         "Oil &amp; Gas"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7500\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/PetroRio.jpg\" alt=\"PetroRio\" width=\"262\" height=\"75\" />\r\n<p style=\"text-align: justify;\">When Petro Rio acquired the Chevron Brasil Upstream Frade in March 2019, it also acquired a nearly 52 percent stake in the Frade Field, which added to the 18 percent it has agreed to purchase from the Japanese companies Inpex and Sojitz Corporation five months earlier. The takeover represented a considerable step in the execution of the company´s growth strategy, which is to acquire and redevelop oil fields that are already producing. Petro Rio´s output, now that it has successfully completed this transaction, will rise by 11,000 barrels a day and an impressive 43 million barrels will be added to 2P (Proven and Probable) reserves. Economies of scale inevitably means that costs will come down and that will enable the company to plan for the redevelopment of Frade, including drilling campaigns and water injections; it has proved particularly successful in drilling activity over the last 15 months with 66% of its drilling bearing fruit (the average rate in the oil industry being between 35 and 40). Petro Rio has a preference for producing fields that generate cash and maintains a healthy balance sheet . The company is now the largest Brazil-based independent oil producer in the country and fully expects to replicate the success of the neighbouring Polvo Field, extending its economic life by more than ten years. This investment means that Petro Rio is now a participant in the Brazilian pre-salt oil region and the company already has new drilling initiatives planned for 2020. The cfi.co judging panel applauds Petro Rio´s growth strategy and its implementation and is delighted to present the company with the award for Best Energy Acquisitions Team – Latin America &amp; Caribbean 2019.</p>",
     "content_sha256": "72d4e02270a7031f42edbd37c23f9a2a6fd367dc49ad0645260b8ac6ed7a8c01",
-    "record_sha256": "3a7ff43eb6253be538744943bbadb5f8d632404383cf72012fddae9d885c33d4"
+    "record_sha256": "6a7f6943c4ba620d962bcce7f48ea371c3ef4ed5b11fa82912a2158662c2cc36"
 }

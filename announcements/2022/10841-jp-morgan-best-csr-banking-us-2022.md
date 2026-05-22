@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 12:31:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/jp-morgan-best-csr-banking-us-2022/"
 categories: ["Banking", "Best Practice", "CSR", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3450f099aa3a84b923356fc5f79b8cf867565ea3b6667f19d125298da191a8c8
 canonical: 10841-jp-morgan-best-csr-banking-us-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-03-08 13:44:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/cessatech-a-s-best-medical-treatment-ipo-nordics-2020/"
 categories: ["Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7a0ae2056905c9bc246d41367641a9b56622c834bb46b4d2dde199fc5158fdc7
 canonical: 8914-cessatech-a-s-best-medical-treatment-ipo-nordics-2020.json
 ---

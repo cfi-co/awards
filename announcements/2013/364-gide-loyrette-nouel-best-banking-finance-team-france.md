@@ -7,6 +7,15 @@ published_gmt: 2013-04-02 12:00:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/gide-loyrette-nouel-best-banking-finance-team-france/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 261ea21bc73255c04b4fb76afb29ecdb51df1959a2668145a934557e53c3416d
 canonical: 364-gide-loyrette-nouel-best-banking-finance-team-france.json
 ---

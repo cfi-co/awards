@@ -7,6 +7,15 @@ published_gmt: 2017-07-18 15:07:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/innovia-security-most-innovative-banknote-technology-global-2017/"
 categories: ["Asia Pacific", "Banking", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 2daa723467b31a1bb5d7a4ad0c1cd463617601322d04ad190a3858a1cc8ad61f
 canonical: 4585-innovia-security-most-innovative-banknote-technology-global-2017.json
 ---

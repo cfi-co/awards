@@ -7,6 +7,15 @@ published_gmt: 2019-10-31 10:29:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/accendo-banco-best-fintech-bank-in-mexico-2019/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3f1f358c4de0e40692aac64e9ac68a2c94644981d68686a4bfc4f3e6b6e8efdd
 canonical: 6967-accendo-banco-best-fintech-bank-in-mexico-2019.json
 ---

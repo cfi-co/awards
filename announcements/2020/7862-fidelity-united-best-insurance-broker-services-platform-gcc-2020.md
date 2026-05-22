@@ -7,6 +7,15 @@ published_gmt: 2020-06-26 11:02:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/fidelity-united-best-insurance-broker-services-platform-gcc-2020/"
 categories: ["Exchanges &amp; Brokers", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 58c781a70e213de520df32415c70e5e16b7192e7e455b2c790afc87fec6fe45f
 canonical: 7862-fidelity-united-best-insurance-broker-services-platform-gcc-2020.json
 ---

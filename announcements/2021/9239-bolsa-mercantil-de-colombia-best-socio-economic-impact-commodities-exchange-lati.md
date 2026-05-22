@@ -7,6 +7,15 @@ published_gmt: 2021-05-26 10:11:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2021/bolsa-mercantil-de-colombia-best-socio-economic-impact-commodities-exchange-latin-america-2021/"
 categories: ["Best Practice", "Community Engagement", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c67c0c6d7e93df1eac9146a02dbc00f6dc8363ed380afc998c76486526cb32fc
 canonical: 9239-bolsa-mercantil-de-colombia-best-socio-economic-impact-commodities-exchange-lati.json
 ---

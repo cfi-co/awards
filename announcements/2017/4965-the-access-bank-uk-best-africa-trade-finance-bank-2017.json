@@ -12,8 +12,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4966\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/AccessBank.jpg\" alt=\"\" width=\"324\" height=\"53\" />\r\n<p style=\"text-align: justify;\"><strong>Deploying the power of technological innovation to attain and maintain both operational and customer service excellence has allowed The Access Bank UK to build up a commanding lead in trade finance.</strong></p>\r\n<p style=\"text-align: justify;\">Though acting on a global scale, the bank enjoys a particular edge in supporting business activities focused on Sub-Saharan Africa. The Access Bank UK is a wholly-owned subsidiary of Access Bank, one of Nigeria’s leading financial services providers and a confirming bank for the Global Trade Finance Programme set up by the International Finance Corporation (IFC, part of the World Bank Group). The Access Bank UK is also the first Nigerian bank to be appointed London correspondent to the Central Bank of Nigeria. The bank has sustained high growth rates whilst adhering to solid fundamentals.</p>\r\n<p style=\"text-align: justify;\">The Access Bank UK maintains a full suite of trade finance and ancillary services delivered by a staff of seasoned professionals. The bank is recognised for its extensive knowledge of the Sub-Saharan business environment and is able to offer specialised technical support and guidance to importers and exporters at both ends of trade corridors. Its relationship-based model ensures short lines of communication with customers and allows the bank to quickly respond to market dynamics.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel has followed the bank’s growth trajectory for a number of years. The judges feel confident that The Access Bank UK merits recognition as winner of the 2017 Best Africa Trade Finance Bank Award.</p>",
     "content_sha256": "cb3a9200f4befddadeb0d3323c3406bd17c0cfddc03a2117273b7936afa573ac",
-    "record_sha256": "fff50b37b85f6044c38cfbef24c760795f7dc49444b0e73e799798d6a42bff1d"
+    "record_sha256": "b8284578c9e675e7d333442e06ca1424f4af293ba7f7756e2154882bf992bf07"
 }

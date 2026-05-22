@@ -13,8 +13,21 @@
         "Manufacturing",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2268\" src=\"https://cfi.co/awards/wp-content/uploads/2015/06/bayer.jpg\" alt=\"bayer\" width=\"348\" height=\"145\" /></p>\r\n<p style=\"text-align: justify;\"><strong>With global sales up by close to 15% and now standing at just over €12bn, Bayer AG is forging full-steam ahead. The German pharmaceutical giant now employs in excess of 12,000 people worldwide. The company, perhaps best known as the inventor of aspirin, has over the years diversified its operations to become a truly global chemical group – present on six continents – with a large stake in agricultural products and a materials science division, in addition to its long-standing pharmaceutical operations. Bayer is presently in the process of expanding its business in the Asia Pacific Region.</strong></p>\r\n<p style=\"text-align: justify;\">SyncForce, the world’s premier brand data management consultancy, ranks Bayer third on its regularly updated list of strongest brands in the United States. Bayer scores particularly high in terms of both brand awareness and positive perception. The company is only trumped – albeit barely so – by Apple and Walt Disney.</p>\r\n<p style=\"text-align: justify;\">In its ongoing quest to further improving its social, economic, and environmental impact, Bayer has joined the Pharmaceutical Supply Chain Initiative Group (PSCI). This group aims to involve all stakeholders to fine-tune business practices and thus ensure optimal performance in key areas such as ethics, labour relations, health and safety standards, and environment and management systems.</p>\r\n<p style=\"text-align: justify;\">PSCI members adhere to a carefully defined code of conduct that includes the continuous evaluation of processes, internal and external audits, and immediate adjustments in case suppliers that do not (yet) pass muster.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judges have taken note of Bayer’s excellent graduate training programme in Europe for supply chain management professionals. The in-depth courses and workshops extend across the company’s healthcare, crop science, business services and technology services divisions.</p>\r\n<p style=\"text-align: justify;\">The programme takes two years to compete and involves hands-on study in Germany and elsewhere. The outcome has been most impressive, resulting in consistently outstanding supply chain management which benefits Bayer in a number of ways. The judging panel wishes to acknowledge this accomplishment and congratulate the company on it.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judges are therefore pleased to confirm that their 2014 award for Best Supply Chain Management Europe goes to Bayer.</p>",
     "content_sha256": "055c49cb1b65fbd124333c6b3cf5080b626620d5ea214a4e01ef181cda39b2db",
-    "record_sha256": "986e4b8aed69e3a76824d7fa7372778ab356018f5d6655600db1801b5a57b63e"
+    "record_sha256": "039e81333fd5c4a25c84f12c1cfd57196eafef7612c286ac2b201ca7032250e6"
 }

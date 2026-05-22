@@ -7,6 +7,15 @@ published_gmt: 2013-11-05 16:02:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2013/schlumberger-our-2013-sustainability-award-winner-in-nigeria/"
 categories: ["Africa", "Best Practice", "Industries", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d28e6da31b78f4b51f60ac081ba74d66781145bbdcaa3db0a779eccfc12bd5b7
 canonical: 887-schlumberger-our-2013-sustainability-award-winner-in-nigeria.json
 ---

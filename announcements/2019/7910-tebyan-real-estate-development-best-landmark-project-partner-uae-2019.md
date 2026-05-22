@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:05:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/tebyan-real-estate-development-best-landmark-project-partner-uae-2019/"
 categories: ["Development", "Middle East", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8f13bdde75eb8dc980f9526cc9a828d6b9e06d550b50faf9badaf1f8d79670d0
 canonical: 7910-tebyan-real-estate-development-best-landmark-project-partner-uae-2019.json
 ---

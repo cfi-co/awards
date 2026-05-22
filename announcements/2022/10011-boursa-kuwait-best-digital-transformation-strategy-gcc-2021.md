@@ -7,6 +7,15 @@ published_gmt: 2022-01-27 09:34:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2022/boursa-kuwait-best-digital-transformation-strategy-gcc-2021/"
 categories: ["Exchanges &amp; Brokers", "Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 60fe17a3ec449bad8b8e83723615b676c63deff29208de6cdc61f90af9f315ac
 canonical: 10011-boursa-kuwait-best-digital-transformation-strategy-gcc-2021.json
 ---

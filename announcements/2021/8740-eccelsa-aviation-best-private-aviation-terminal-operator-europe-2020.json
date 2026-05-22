@@ -12,8 +12,21 @@
         "Industries",
         "Transport"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7780\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Ecclesa.jpg\" alt=\"Ecclesa\" width=\"400\" height=\"128\" />\r\n<p style=\"text-align: justify;\">Eccelsa Aviation considers itself privileged to call the Mediterranean island of Sardinia home — and it does everything within its power to make the travellers who pass through its terminal feel just as special. The handling company has operated a private and business aviation terminal at Olbia Costa Smeralda Airport since 2003. Eccelsa Aviation wins people over with its willingness to accommodate individual requests and its attention to detail in service delivery. Travellers are escorted between aircraft and terminal in a sleek, recently renewed fleet of cars. Porter service takes care of luggage, and complimentary valet parking is available. Visitors can sample the region’s wines and culinary specialities in the terminal, while Eccelsa’s catering service takes airline food to fine-dining level. Concierge services connect travellers with indulgences such as Italian sportscar rentals, chartered yachts and island-hopping by helicopter. Eccelsa Aviation tempts visitors with premium shopping opportunities for Italian fashion, eyewear and jewellery. Passengers can even peruse personalised corporate jets at the terminal’s Bombardier boutique. Eccelsa Aviation has designed the terminal for passengers and crew, dedicating a lounge and outdoor space for each and providing a snooze room for crew to relax and reboot. A team of certified technicians is on-hand to carry out maintenance checks or routine repairs. The CFI.co judging panel is pleased to present <a href=\"https://cfi.co/menu/corporate/2020/01/eccelsa-aviation-at-olbia-costa-smeralda-airport-this-sardinian-airport-is-worth-a-visit/\">Eccelsa Aviation</a> — a repeat winner in the awards programme — with the 2020 award for Best Private Aviation Terminal Operator (Europe).</p>",
     "content_sha256": "6370ab44ed89a03d103a7599782aabf81f774a1e27db74123aaa422ced51b7fb",
-    "record_sha256": "43e0d4898db82d3274c0c4a1e596ce2552e0f262dc4b99b58f37fe30fa1afbf9"
+    "record_sha256": "5fa96272dda9cfdddff83239f3b3c2abc9f3726c8bf1a01578c502245ace3898"
 }

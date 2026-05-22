@@ -7,6 +7,15 @@ published_gmt: 2021-10-21 10:38:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/le-groupe-la-poste-best-transformational-strategic-plan-france-2021/"
 categories: ["Corporate Leadership", "Development", "Europe", "Government", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5d5ba1801ed1f26928eafc0c3ef1434d5c5d5f5cda3b3a52428be1fee382616
 canonical: 9677-le-groupe-la-poste-best-transformational-strategic-plan-france-2021.json
 ---

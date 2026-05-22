@@ -8,8 +8,21 @@
     "published_gmt": "2019-01-01 14:42:22",
     "modified_gmt": "2019-01-16 17:07:26",
     "categories": [],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-5316 size-medium\" src=\"https://cfi.co/awards/wp-content/uploads/2018/02/PreferencePass-300x300.jpg\" alt=\"\" width=\"300\" height=\"300\" />\r\n<p style=\"text-align: justify;\"><strong>The marketing focus of Preference Pass has been to create a generic and customisable product enabling the company to sell similar products globally whilst shaping an environment which allows for bespoke branding for resorts to present as an exclusive offer to their guests. This approach has been very well received by resorts and hotels and has enabled the company to create unique tours and activity packages. These offers maintain the same philosophy but are built knowing the specific characteristics of the resort’s customers. The resort market these offers directly to customers at check in or before.</strong></p>\r\n<p style=\"text-align: justify;\">The benefits to the resorts are increased customer satisfaction, significant cost savings, and an opportunity for the business to generate a new source of income.</p>\r\n<p style=\"text-align: justify;\">Preference Pass plans to create new markets in 2019 such as the yet uncovered regions of the Mexican Caribbean and other important tourist destinations in the country. Regions will be set up in a franchise format, ensuring that a local partner, who has both contacts and expertise, develops the business, using the tools and knowledge Preference Pass has acquired to date. The company plans on starting its international expansion in 2019, targeting the Caribbean and the main tourist destinations of South America, before going global.</p>",
     "content_sha256": "abac0413159d0e043778787243f6544fc084ecb49ed0eb69ffb3091bd48a822e",
-    "record_sha256": "600f22fffbc9a81b04ca5040b9eece7ee7bed5c34653f6609436ee758a9d9aad"
+    "record_sha256": "609593b54f9f8f3e56c88141833d360402088243fdb836209c53af9618ed45a9"
 }

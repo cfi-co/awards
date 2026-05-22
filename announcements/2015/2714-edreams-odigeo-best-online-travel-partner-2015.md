@@ -7,6 +7,15 @@ published_gmt: 2015-11-24 14:23:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/edreams-odigeo-best-online-travel-partner-2015/"
 categories: ["Customer Satisfaction", "Europe", "Industries", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01ff94792c3c290f01504c38e6eb28f670795d96a7ed89948598d73fbabdfc68
 canonical: 2714-edreams-odigeo-best-online-travel-partner-2015.json
 ---

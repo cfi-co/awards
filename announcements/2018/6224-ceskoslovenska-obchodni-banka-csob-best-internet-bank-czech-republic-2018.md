@@ -7,6 +7,15 @@ published_gmt: 2018-10-23 11:29:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2018/ceskoslovenska-obchodni-banka-csob-best-internet-bank-czech-republic-2018/"
 categories: ["Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4a8ca2797d8b384bcb057b84b8d1458db3493093c98baddc9e6af16d509353de
 canonical: 6224-ceskoslovenska-obchodni-banka-csob-best-internet-bank-czech-republic-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2021-10-11 14:50:22
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/casinos-austria-international-outstanding-contribution-to-responsible-gaming-europe-2021/"
 categories: ["Best Practice", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b2b8021dd4334294bec67c7b591f060acd5e8cf76b6aaf227def035d474431bd
 canonical: 9627-casinos-austria-international-outstanding-contribution-to-responsible-gaming-eur.json
 ---

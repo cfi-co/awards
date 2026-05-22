@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 13:58:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/snam-rete-gas-best-bond-issuer-corporate-governance-italy-2017/"
 categories: ["Best Practice", "Corporate Governance", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5b196dab30e53ea5e1e77f5a84d460b70f0dc7c9be27b39bc5b84c0f65ba9157
 canonical: 5191-snam-rete-gas-best-bond-issuer-corporate-governance-italy-2017.json
 ---

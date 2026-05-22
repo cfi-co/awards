@@ -7,6 +7,15 @@ published_gmt: 2016-08-02 16:21:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/asset-management/2016/atrevida-partners-best-multi-strategy-offshore-fund-us-2016/"
 categories: ["Asset Management"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 90f5d3e30144196091a63e34eb556abbdafbc02dfc7e0acd491b5eb9c29e9634
 canonical: 3251-atrevida-partners-best-multi-strategy-offshore-fund-us-2016.json
 ---

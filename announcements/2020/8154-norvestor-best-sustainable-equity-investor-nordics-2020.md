@@ -7,6 +7,15 @@ published_gmt: 2020-08-24 09:03:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/norvestor-best-sustainable-equity-investor-nordics-2020/"
 categories: ["Best Practice", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 80b6deef63db0624b186e7ab3a4f2d05b60e89b1ebc8ce5e0ef1766a39c69c5c
 canonical: 8154-norvestor-best-sustainable-equity-investor-nordics-2020.json
 ---

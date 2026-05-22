@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:15:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2018/oman-india-fertiliser-company-omifco-best-sustainable-agribusiness-oman-2018/"
 categories: ["Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f5a692170c3c05a33aa0e24aa7187002496f0a46934237ddc56c1bbe608e08ea
 canonical: 5601-oman-india-fertiliser-company-omifco-best-sustainable-agribusiness-oman-2018.json
 ---

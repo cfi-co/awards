@@ -7,6 +7,15 @@ published_gmt: 2012-09-10 19:48:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2012/trust-merchant-bank-in-the-drc-wins-multiple-awards/"
 categories: ["Africa", "Banking", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 55db0234607a892f715d7a2ee08a2b9d660178941105fdc0fe732649e95c69be
 canonical: 181-trust-merchant-bank-in-the-drc-wins-multiple-awards.json
 ---

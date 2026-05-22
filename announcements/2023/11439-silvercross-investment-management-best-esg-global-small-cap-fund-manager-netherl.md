@@ -7,6 +7,15 @@ published_gmt: 2023-04-27 07:01:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/silvercross-investment-management-best-esg-global-small-cap-fund-manager-netherlands-2023/"
 categories: ["Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 76176daedfe3a6bd7c499773fa25f239b040e8c0cec8746c58056b4319c2d8df
 canonical: 11439-silvercross-investment-management-best-esg-global-small-cap-fund-manager-netherl.json
 ---

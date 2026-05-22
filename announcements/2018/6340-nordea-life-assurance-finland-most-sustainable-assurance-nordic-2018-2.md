@@ -7,6 +7,15 @@ published_gmt: 2018-11-30 16:03:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/nordea-life-assurance-finland-most-sustainable-assurance-nordic-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b9a27908eb52d390f63359be1125f290b1f5ef211f20dd07e15e3fb435442ce3
 canonical: 6340-nordea-life-assurance-finland-most-sustainable-assurance-nordic-2018-2.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2023-12-15 09:14:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/asset-management/2023/levendi-investment-management-best-defined-return-investment-advisory-firm-uk-2023/"
 categories: ["Asset Management", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4fdb1c3165d35dbd7f9f25954ccf569122eec62271a03da3bfb0a13b2a79e2fa
 canonical: 12144-levendi-investment-management-best-defined-return-investment-advisory-firm-uk-20.json
 ---

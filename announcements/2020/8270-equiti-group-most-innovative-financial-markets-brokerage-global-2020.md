@@ -7,6 +7,15 @@ published_gmt: 2020-10-21 06:00:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/equiti-group-most-innovative-financial-markets-brokerage-global-2020/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6aec50794598277cb28a96e49ae996349263f3156805a80a7cbc48c15e15a8a3
 canonical: 8270-equiti-group-most-innovative-financial-markets-brokerage-global-2020.json
 ---

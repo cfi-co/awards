@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 15:10:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2017/akerton-partners-best-corporate-finance-advisory-team-spain-2016/"
 categories: ["Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1dd09e4a6c953b1482d878ff8e4d1458fac4e09447d1b913c515f3984828a2a8
 canonical: 4029-akerton-partners-best-corporate-finance-advisory-team-spain-2016.json
 ---

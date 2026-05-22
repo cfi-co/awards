@@ -13,8 +13,21 @@
         "Finance",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6315\" src=\"https://cfi.co/awards/wp-content/uploads/2018/11/CreditMutuel.jpg\" alt=\"\" width=\"474\" height=\"73\" />\r\n<p style=\"text-align: justify;\"><strong>Partners rather than mere clients. Crédit Mutuel, one of France’s major financial services providers with over seven million account holders, is a bank that listens. As such, Crédit Mutuel has managed to elevate its interaction with the public to that of a mutually beneficial partnership.</strong></p>\r\n<p style=\"text-align: justify;\">In line with its well-established corporate philosophy, Crédit Mutuel also maintains a solid ESG (environmental, social, and governance) framework and offers a number of products and services tailored to further worthy causes. Crédit Mutuel boasts a range of socially responsible investment products that incorporate ESG values and parameters. The bank’s analysts are trained to identify investment opportunities at companies whose operations do not infringe upon human rights or harm the environment.</p>\r\n<p style=\"text-align: justify;\">Crédit Mutuel also offers green loans to private individuals, professionals, farmers, and others to finance environmentally sound improvements to homes, offices, and business processes. People who have hit on hard times and struggle with unemployment or subsist on minimal income are welcomed at Crédit Mutuel. The bank has proactively joined the fight against financial marginalisation and exclusion and sustains a number of initiatives aimed at preventing or remedying precarious situations.</p>\r\n<p style=\"text-align: justify;\">Crédit Mutuel works jointly with over a hundred associations, foundations, and organisations towards helping relieve social pressures on those unable to withstand them. The bank provides microcredits to people and small businesses who cannot otherwise access loans. Crédit Mutuel cooperates with other major microcredit providers to help starting entrepreneurs with skills training programmes.</p>\r\n<p style=\"text-align: justify;\">By expanding its reach to all strata of society and offering its services and expertise to the entire nation, Crédit Mutuel has broken new ground. The bank thus offers living proof that financial services may be leveraged to further economic integration and bring a measure of hope in even the most challenging of situations. As such, the CFI.co judging panel considers that Crédit Mutuel constitutes an example both rare and welcome of an inclusive financial services provider. The judges are pleased to offer Crédit Mutuel the 2015 Best ESG Risk Management Team Award.</p>",
     "content_sha256": "c9986e025410f83799e02249ce475fdd89dd1027750e2d0c79a75ff1a8ba1ce0",
-    "record_sha256": "6f6f441763ab8d041fb609fd2bc2e7d30e78de485614ebb3bb15f39ff4e9f3fb"
+    "record_sha256": "14db75d1e9947447a3c9b901632342a4ae8c49ce90386e4f894f0b6e59654ae5"
 }

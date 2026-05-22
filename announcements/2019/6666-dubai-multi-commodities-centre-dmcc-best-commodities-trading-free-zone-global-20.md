@@ -7,6 +7,15 @@ published_gmt: 2019-04-29 12:49:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/dubai-multi-commodities-centre-dmcc-best-commodities-trading-free-zone-global-2019/"
 categories: ["Industries", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 940a4da20c24067348436cc3af894be694df7d10b7e739f038cf09a0d645fabb
 canonical: 6666-dubai-multi-commodities-centre-dmcc-best-commodities-trading-free-zone-global-20.json
 ---

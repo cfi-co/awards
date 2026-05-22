@@ -7,6 +7,15 @@ published_gmt: 2019-10-22 11:11:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2019/etihad-engineering-best-mro-services-provider-middle-east-2019/"
 categories: ["Industries", "Manufacturing", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f0c5cf716f8239d7ed284d152191bca8de42f799c504900961b94a8f2fdc3d08
 canonical: 6935-etihad-engineering-best-mro-services-provider-middle-east-2019.json
 ---

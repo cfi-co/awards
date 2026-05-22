@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:04:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/btg-pactual-best-investment-bank-colombia-2022/"
 categories: ["Banking", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bc6c08db9418aa1dacfc2283ca2a1231c6d6814ee3efc4ca974c7040f679af1d
 canonical: 10649-btg-pactual-best-investment-bank-colombia-2022.json
 ---

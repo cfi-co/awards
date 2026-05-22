@@ -7,6 +7,15 @@ published_gmt: 2018-09-07 14:18:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/front/2018/amac-aerospace-best-private-aviation-services-emea-2018/"
 categories: []
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a58c1b3a56c84f28c258ae35f203f967460184cb1e5c12b6e7c237f4ccd6b376
 canonical: 6010-amac-aerospace-best-private-aviation-services-emea-2018.json
 ---

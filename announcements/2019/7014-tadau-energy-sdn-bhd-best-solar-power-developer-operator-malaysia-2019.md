@@ -7,6 +7,15 @@ published_gmt: 2019-12-03 19:05:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/tadau-energy-sdn-bhd-best-solar-power-developer-operator-malaysia-2019/"
 categories: ["Asia Pacific", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50f18b79bf5cc6e0ca4f6b8947933c02fe578b2fd30c368b3b21a6f9dbdca852
 canonical: 7014-tadau-energy-sdn-bhd-best-solar-power-developer-operator-malaysia-2019.json
 ---

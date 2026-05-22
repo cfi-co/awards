@@ -7,6 +7,15 @@ published_gmt: 2025-11-26 10:06:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2025/qnb-egypt-best-sme-bank-and-best-retail-bank-egypt-2025/"
 categories: ["Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ccb2c3ab0374cc69a23e6b65c93d79ca8956b06a1c17fa316e5c553b98398774
 canonical: 13224-qnb-egypt-best-sme-bank-and-best-retail-bank-egypt-2025.json
 ---

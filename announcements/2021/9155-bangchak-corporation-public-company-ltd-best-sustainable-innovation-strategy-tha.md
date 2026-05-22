@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:29:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/bangchak-corporation-public-company-ltd-best-sustainable-innovation-strategy-thailand-2021/"
 categories: ["Asia Pacific", "Best Practice", "Community Engagement", "Development", "Industries", "Manufacturing", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d81497cb46b1da1b833824d7fc3489e7e05292600a8cb2152bb66dc87c961d12
 canonical: 9155-bangchak-corporation-public-company-ltd-best-sustainable-innovation-strategy-tha.json
 ---

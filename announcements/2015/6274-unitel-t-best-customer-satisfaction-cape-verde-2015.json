@@ -12,8 +12,21 @@
         "Industries",
         "Telecom"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6275\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/UnitelTPlus.jpg\" alt=\"\" width=\"500\" height=\"95\" />\r\n<p style=\"text-align: justify;\"><strong>Young, dynamic, open, and socially aware: Unitel T+, the newest telecom operator in Cape Verde, offers a breath of fresh air. The company deploys the latest technology and does so with a wink and a smile. Unitel T+ succeeds in bringing people together via its broad range of telecom services. The firm aims for the top and is moving ahead at top speed as well, powered by a resolute dedication to world class excellence in the delivery of its services.</strong></p>\r\n<p style=\"text-align: justify;\">While top-notch service may be a given in most markets, Cape Verde was perceived as lagging slightly behind. That presented Unitel T+ with a golden opportunity to cash in on the nation’s thirst for prompt telecom services, delivered efficiently and courteously. With a booming economy and recently upgraded by the United Nations to the category of Small Island Developing State, Cape Verde is experiencing a growth spurt. Already near the very top of per capita income in Africa, the country is now cosying up to the European Union. Sponsored by former colonial power Portugal and the other islands of Macaronesia (Canary Islands, Madeira, and Azores), Cape Verde is now being considered for a special status within the EU, just short of full membership. The island nation ranks significantly higher on development indices than do some of the other countries being considered for EU membership.</p>\r\n<p style=\"text-align: justify;\">Against this dynamic backdrop, the demand for telecom services has skyrocketed. Unitel T+ has filled the gap and done so with a keen sense of business and an exceptional acumen for local conditions. Adopting a customer-centric approach and offering upto- date voice and data services to both private individuals and business, the company has already claimed a significant market share thatis still expanding at a brisk pace. Tapping into a vast reservoir of pent-up demand for modern telecom services, Unitel T+ has, in fact, changed\r\nthe sector’s landscape pioneering new products and emphasising convenience and ease of use to grateful customers.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel finds the approach taken by Unitel T+ both refreshing and praiseworthy. The company operates an efficient network and markets its products in novel ways, using multiple channels and social media to spread the news of its business. By doggedly adhering to a customer and demanddriven model, Unitel T+ is reshaping the Cape Verdean telecom sector in its own image. Unitel T+ is a most worthy winner of the 2015 Best Customer Satisfaction Cape Verde Award.</p>",
     "content_sha256": "3e4fa51fdfcc0992e2702fa0e403cf64aef976b7c1dbbf89bc0f892a9feb50a9",
-    "record_sha256": "4f23749fb66ffbde25af46d0cd1cb200d24e1463df4148cd9a0df7a8d027ac3d"
+    "record_sha256": "4c9688e3ebce1326abf1af54e56787b6ea8b57996b2504e32435053ce58c8bdd"
 }

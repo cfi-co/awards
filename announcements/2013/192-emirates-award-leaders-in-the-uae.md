@@ -7,6 +7,15 @@ published_gmt: 2013-04-02 09:01:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2013/emirates-award-leaders-in-the-uae/"
 categories: ["Best Practice", "CSR", "Industries", "Middle East", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a4034cf7b6a4c943d45574fa4d99ba11ec2d5aa116f59aa12e5ec51826d9ecf3
 canonical: 192-emirates-award-leaders-in-the-uae.json
 ---

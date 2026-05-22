@@ -7,6 +7,15 @@ published_gmt: 2022-01-19 11:03:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/vattanac-bank-most-responsible-bank-cambodia-2021/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "CSR"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ec0ef525982dc3d0824a86f1427f8533e47ba8ff2abf854cdb2d46c041539ecf
 canonical: 9985-vattanac-bank-most-responsible-bank-cambodia-2021.json
 ---

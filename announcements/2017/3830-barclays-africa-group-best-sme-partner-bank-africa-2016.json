@@ -11,8 +11,21 @@
         "Africa",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3831\" src=\"https://cfi.co/awards/wp-content/uploads/2017/02/Barclays.jpg\" alt=\"\" width=\"332\" height=\"147\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Small and often tiny businesses are responsible for generating around a third of Africa’s GDP. Include medium-sized businesses, and fully half of the continent’s economy is accounted for. SMEs create more jobs than any other sector and employ over half of the continent’s workforce. Finally, SMEs are recognised for pushing economic diversification and strengthening their markets’ resilience to external shocks.</strong></p>\r\n<p style=\"text-align: justify;\">Barclays Africa Group has long assumed a leadership role in championing the cause of small businesses, providing support and helping improve both efficiencies and economies of scale. The group maintains a range of initiatives that aim to empower business owners via learning programmes and networks that facilitate access to markets, amongst others.</p>\r\n<p style=\"text-align: justify;\">Barclays Africa Group offers a range of financial products and services tailored to the needs of SMEs. The bank is actively engaged in the promotion of business development and provides entrepreneurs with the tools that enable them to start and grow their businesses. The group’s Enterprise Development Centres complement incubator, accelerator, and supply chain development programmes designed to help entrepreneurs aim for, and attain, success.</p>\r\n<p style=\"text-align: justify;\">Via its innovative online procurement portal, Barclays Africa Group helps SMEs connect with opportunities offered by corporate and government buyers.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends the group on its proactive approach to helping small businesses succeed and prosper. The judges wish to recognise the sustained efforts of Barclays Africa Group, a repeat winner, by offering it the 2016 Best SME Partner Bank Africa Award.</p>",
     "content_sha256": "b6a460979a8efd81abdce7c4c0f43f78f8e7fc1dce41a220c46ba9f51053f268",
-    "record_sha256": "3031cb20428ef43663c21d1988e04bc395bcc91aa9f03013670b940aaacca599"
+    "record_sha256": "27407a402dc93ad2dcf04aa7e947063727e5766e8a7e1137a20d66a366958df6"
 }

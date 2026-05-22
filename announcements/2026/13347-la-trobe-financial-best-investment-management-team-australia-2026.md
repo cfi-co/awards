@@ -7,6 +7,15 @@ published_gmt: 2026-03-05 13:04:30
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2026/la-trobe-financial-best-investment-management-team-australia-2026/"
 categories: ["Asia Pacific", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 467cc1c2128847a51c21dfd4f5c8e6012f5ff2dc5b58a5367795efa3d8a4a3b8
 canonical: 13347-la-trobe-financial-best-investment-management-team-australia-2026.json
 ---

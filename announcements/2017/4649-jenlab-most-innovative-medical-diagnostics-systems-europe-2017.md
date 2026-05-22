@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:59:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2017/jenlab-most-innovative-medical-diagnostics-systems-europe-2017/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 50d1167f3cc71e2192579248e25b05dd5ee1553a3d0e3620ece92978afa41aec
 canonical: 4649-jenlab-most-innovative-medical-diagnostics-systems-europe-2017.json
 ---

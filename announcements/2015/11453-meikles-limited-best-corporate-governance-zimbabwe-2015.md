@@ -7,6 +7,15 @@ published_gmt: 2015-07-19 10:51:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2015/meikles-limited-best-corporate-governance-zimbabwe-2015/"
 categories: ["Africa", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6c8c3d90bab04244fd27d1ae36c55fdaf9a40a9005450cd8050404e1177e5328
 canonical: 11453-meikles-limited-best-corporate-governance-zimbabwe-2015.json
 ---

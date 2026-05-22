@@ -7,6 +7,15 @@ published_gmt: 2016-02-16 13:02:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2016/3-step-innovative-technology-leasing-solutions-europe-2016/"
 categories: ["Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1af0b8e0e6970a58722d18187e7459e34585ee759b31ea36901ab3faec638cf8
 canonical: 3207-3-step-innovative-technology-leasing-solutions-europe-2016.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-10-14 11:44:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/banco-bpi-excellence-in-sustainable-banking-initiative-portugal-2024/"
 categories: ["Banking", "Best Practice", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 957c789ea62ed5a3d860cedac9ee7d0ff94c24a93bd7b5a094999f3c4fa162ed
 canonical: 12639-banco-bpi-excellence-in-sustainable-banking-initiative-portugal-2024.json
 ---

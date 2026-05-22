@@ -7,6 +7,15 @@ published_gmt: 2023-12-18 09:13:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/wealins-best-wealth-insurance-solutions-europe-2023/"
 categories: ["Customer Satisfaction", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c9f5f385f2147e9d21d9c89aa21624f030125e5d3e2700eaffbbf61019d8e31b
 canonical: 12148-wealins-best-wealth-insurance-solutions-europe-2023.json
 ---

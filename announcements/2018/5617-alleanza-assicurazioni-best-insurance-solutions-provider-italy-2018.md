@@ -7,6 +7,15 @@ published_gmt: 2018-05-09 08:18:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/alleanza-assicurazioni-best-insurance-solutions-provider-italy-2018/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 952b05569fdef9e0d6ddcf5434dffee121e6ba955b2935d5405f88a2382987c6
 canonical: 5617-alleanza-assicurazioni-best-insurance-solutions-provider-italy-2018.json
 ---

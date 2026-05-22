@@ -7,6 +7,15 @@ published_gmt: 2024-10-29 13:59:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/projects/2024/ratch-group-esg-financing-champion-for-renewable-energy-projects-apac-2024/"
 categories: ["Asia Pacific", "Best Practice", "Development", "Industries", "Projects", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9dab6c2e2b4350c2ad8bdfa58e7fec38216bf0ea39613811db078fa9df5a8d4f
 canonical: 12687-ratch-group-esg-financing-champion-for-renewable-energy-projects-apac-2024.json
 ---

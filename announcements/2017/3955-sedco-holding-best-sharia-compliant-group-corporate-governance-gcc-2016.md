@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 13:30:07
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/sedco-holding-best-sharia-compliant-group-corporate-governance-gcc-2016/"
 categories: ["Best Practice", "Corporate Governance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: de1a3cce251b98b001d372e86ca4ab4ca53767468b1b8f301c098ee632a673ac
 canonical: 3955-sedco-holding-best-sharia-compliant-group-corporate-governance-gcc-2016.json
 ---

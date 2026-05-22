@@ -7,6 +7,15 @@ published_gmt: 2022-05-10 14:16:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2022/omnia-holdings-best-sustainable-diversified-chemicals-group-africa-2022/"
 categories: ["Africa", "Best Practice", "Industries", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ce26c7c4a57c9a8588e8f82944bd06e3da2f83e522d4a8152a569bfa4155b3da
 canonical: 10379-omnia-holdings-best-sustainable-diversified-chemicals-group-africa-2022.json
 ---

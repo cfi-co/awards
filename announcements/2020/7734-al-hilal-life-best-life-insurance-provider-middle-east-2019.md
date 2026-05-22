@@ -7,6 +7,15 @@ published_gmt: 2020-01-24 14:16:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/al-hilal-life-best-life-insurance-provider-middle-east-2019/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 75aa08488f63e8190f64026b3a93b112aefba2e5cbd07e5a0df9fa0f07c6aaf2
 canonical: 7734-al-hilal-life-best-life-insurance-provider-middle-east-2019.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-07-19 12:50:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2022/nepal-sbi-bank-ltd-best-corporate-banking-solutions-nepal-2022/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 712390e8b7a080e60903ed2492df11049ac05ebccb04d26f642a31fc29ac4c2d
 canonical: 10596-nepal-sbi-bank-ltd-best-corporate-banking-solutions-nepal-2022.json
 ---

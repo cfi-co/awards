@@ -7,6 +7,15 @@ published_gmt: 2018-07-04 14:44:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/kaiserwetter-energy-asset-management-best-renewable-energy-asset-manager-germany-2018/"
 categories: ["Asset Management", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 161aac98459de55da196b54b7db4be80fdaf75c7ae0f78198597304de3e4345e
 canonical: 5746-kaiserwetter-energy-asset-management-best-renewable-energy-asset-manager-germany.json
 ---

@@ -14,8 +14,21 @@
         "Retail",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6442\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/MaxBurger.jpg\" alt=\"MaxBurger\" width=\"494\" height=\"310\" />\r\n<p style=\"text-align: justify;\">Max Burger continues to set a pioneering example in the European restaurant industry through its deep-rooted commitment to sustainability and social responsibility. Operating across Sweden, Norway, Denmark and Poland, the company has sustained momentum in reducing its carbon footprint, achieving a further one percent reduction this year. In a significant stride towards a more climate-conscious menu, 50 of its 200 restaurants now ensure that every second meal served is meat-free. Alongside its environmental initiatives, Max Burger has broadened its internal engagement  and strengthened internal governance for sustainability . The company has notably reduced sugar content in its beverages and food offerings, reflecting a comprehensive approach to wellbeing and satisfaction. Leadership evolution has also marked the year, with Martin Oppenheimer assuming the role of Chief Executive Officer while Richard Bergfors, the former CEO, remains Executive Chairman, ensuring continuity of the brand’s founding ethos. Under its parent company Fair Distribution, Max Burger demonstrates a robust social conscience, with nine percent of profits directed to poverty alleviation programmes; the foundation has received a   SEK300m (approximately €30m) since it was founded in 2009. Max Burger first came to the CFI.co Judging Panel’s attention in 2018, and the panel believes it is this deep-rooted ethos—making sustainability and social responsibility part of Max Burger’s DNA—that helps the group continually thrive and achieve even greater impact. The Capital Finance International (CFI.co) Judging Panel congratulates Max Burger on winning the 2025 Best Sustainable Restaurant Chain Award (Europe).</p>",
     "content_sha256": "c96697d24a4afbce0cd068af5cd74740b9fb72dc69fd2ce50c2d3c7fa6ddd00c",
-    "record_sha256": "d896f1202e331eb02ea07916b4344c797e4aea19183599ff4d9dc77c2b75cff1"
+    "record_sha256": "d64163b60a9e1283f22eee5d6a47f92b358e71d6fa51c8cc4b0ee88668a32855"
 }

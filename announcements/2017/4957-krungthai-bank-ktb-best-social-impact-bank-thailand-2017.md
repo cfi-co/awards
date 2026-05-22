@@ -7,6 +7,15 @@ published_gmt: 2017-11-11 13:35:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/krungthai-bank-ktb-best-social-impact-bank-thailand-2017/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c9bf249ffb41e110f024ed1c5ed434288e1df010c11c77c321f6614d90766efe
 canonical: 4957-krungthai-bank-ktb-best-social-impact-bank-thailand-2017.json
 ---

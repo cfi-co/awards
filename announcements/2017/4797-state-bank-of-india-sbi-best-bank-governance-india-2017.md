@@ -7,6 +7,15 @@ published_gmt: 2017-09-10 11:21:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/state-bank-of-india-sbi-best-bank-governance-india-2017/"
 categories: ["Asia Pacific", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a504c75ac40a5ade0b7b828813dcbc6286619714072c7402f8348ee7f3aa2a9d
 canonical: 4797-state-bank-of-india-sbi-best-bank-governance-india-2017.json
 ---

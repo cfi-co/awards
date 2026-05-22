@@ -13,8 +13,21 @@
         "Corporate Governance",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5259\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/BAC.jpg\" alt=\"\" width=\"500\" height=\"108\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Recently repositioned as an international financial services provider, San Marino’s Banca Agricola Commerciale (BAC) now allows individual and corporate clients from outside the mountaintop republic to benefit from the expertise accumulated during almost a century of banking. Founded in 1920, Banca Agricola Commerciale has long been recognised as San Marino’s bank of reference for its adherence to standards of governance that far exceed those considered part of global best practices.</strong></p>\r\n<p style=\"text-align: justify;\">In both its day-to-day operations and long-term performance, BAC inspires an unusually high level of trust. As a result, the bank boasts a client retention rate that has repeatedly raised industry-wide benchmarks. BAC maintains a comprehensive array of products and services for both retail and corporate customers. The bank enjoys a reputation for closely engaging with its clients in order to gauge – and promptly meet – their needs as well as any future requirements.</p>\r\n<p style=\"text-align: justify;\">With a tightly integrated branch network, BAC keeps in close proximity to its clients. The bank’s up-to-date technological backbone and its operational efficiency ensures that international BAC clients may now enjoy the same excellence in the delivery of financial services. The bank squarely aims to build long-term relationships with its clients based on trust, simplicity, and transparency.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends Banco Agricola Commerciale for its consistency. For BAC, good corporate governance is not a pursuit of a passing nature. Instead, good governance forms part of its corporate DNA. The judges are pleased to offer Banca Agricola Commerciale the 2017 Best Bank Governance San Marino Award.</p>",
     "content_sha256": "56de3f4a9b9300be1d1ac8c06a3e3465fabc6ccab36c865ee8d6bd1242e9a15e",
-    "record_sha256": "30c616e10681fcd27f9651b9152b4f632bfbb49fc883dcd7e4fcacd3fd418ef7"
+    "record_sha256": "7a44b5f29b3630ad0aacc3578ba876a13714fca3f565b90bcd0080f5ef29568d"
 }

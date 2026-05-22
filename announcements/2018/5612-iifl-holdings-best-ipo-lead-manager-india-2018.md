@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:05:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2018/iifl-holdings-best-ipo-lead-manager-india-2018/"
 categories: ["Asia Pacific", "Asset Management", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3d9bf68318b861261f7a916e4033d1d61a5a40dd165e5a7d113f7c4957bf5746
 canonical: 5612-iifl-holdings-best-ipo-lead-manager-india-2018.json
 ---

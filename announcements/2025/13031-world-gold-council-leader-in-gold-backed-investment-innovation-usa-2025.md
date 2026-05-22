@@ -7,6 +7,15 @@ published_gmt: 2025-07-22 11:46:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2025/world-gold-council-leader-in-gold-backed-investment-innovation-usa-2025/"
 categories: ["Finance", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e29a350e979d69d27211146f817558861dbb53db21dc1d280994a4d96d2bff26
 canonical: 13031-world-gold-council-leader-in-gold-backed-investment-innovation-usa-2025.json
 ---

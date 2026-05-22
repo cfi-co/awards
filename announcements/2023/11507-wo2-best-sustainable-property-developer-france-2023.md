@@ -7,6 +7,15 @@ published_gmt: 2023-05-12 11:02:50
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2023/wo2-best-sustainable-property-developer-france-2023/"
 categories: ["Best Practice", "Europe", "Industries", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3aa1d9aa73b1f7ac24586c18cc646206473439a9f1d6d970ad92854d92fdcdc6
 canonical: 11507-wo2-best-sustainable-property-developer-france-2023.json
 ---

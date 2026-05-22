@@ -7,6 +7,15 @@ published_gmt: 2018-05-24 11:07:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2018/guaranty-trust-bank-ghana-best-digital-banking-ghana-2018/"
 categories: ["Africa", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e1302f2f9fbb4b2b5887b148c929129134412a4f7c0c931d67f84389cba19e0d
 canonical: 5649-guaranty-trust-bank-ghana-best-digital-banking-ghana-2018.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2013-06-10 15:13:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/the-dispute-resolution-team-award-for-malta-goes-to-camilleri-preziosi/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: bdea7891a39cc1b2f76809ede72ce911b8f868700fe48405acf4add3b975d0bd
 canonical: 539-the-dispute-resolution-team-award-for-malta-goes-to-camilleri-preziosi.json
 ---

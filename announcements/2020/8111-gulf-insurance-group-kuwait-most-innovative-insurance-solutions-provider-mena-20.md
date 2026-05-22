@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:22:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/gulf-insurance-group-kuwait-most-innovative-insurance-solutions-provider-mena-2020/"
 categories: ["Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f35426d47df4b3a83038e4687e0a3cb178a584737c08b315852a1c9da64e14ac
 canonical: 8111-gulf-insurance-group-kuwait-most-innovative-insurance-solutions-provider-mena-20.json
 ---

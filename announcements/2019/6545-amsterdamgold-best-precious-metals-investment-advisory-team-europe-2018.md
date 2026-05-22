@@ -7,6 +7,15 @@ published_gmt: 2019-02-15 14:23:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2019/amsterdamgold-best-precious-metals-investment-advisory-team-europe-2018/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5e7640704dd4fb62522ab4a2485a794994719800a0f1015e8aa4b9eaffd30752
 canonical: 6545-amsterdamgold-best-precious-metals-investment-advisory-team-europe-2018.json
 ---

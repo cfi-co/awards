@@ -7,6 +7,15 @@ published_gmt: 2020-03-24 11:39:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/arca-fondi-sgr-best-pension-fund-scheme-italy-2020/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f843558bff361abf5ca2d0b9c9b57fee981c617c54b3c62e229a34ffbe45af8d
 canonical: 7615-arca-fondi-sgr-best-pension-fund-scheme-italy-2020.json
 ---

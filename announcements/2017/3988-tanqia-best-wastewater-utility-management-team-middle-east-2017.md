@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 14:17:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/tanqia-best-wastewater-utility-management-team-middle-east-2017/"
 categories: ["Best Practice", "Industries", "Middle East", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 579f04a21f2e7d807266cb61c5d902c8c310db4dc2669cea815bcf865541795e
 canonical: 3988-tanqia-best-wastewater-utility-management-team-middle-east-2017.json
 ---

@@ -12,8 +12,21 @@
         "Best Practice",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<h3><strong>Best Practice Pension Funds South Africa 2017</strong>\r\n<strong>Best Pension Fund Stakeholder Benefits South Africa 2017</strong>\r\n<strong>Best Corporate Governance Pension Funds South Africa 2017</strong></h3>\r\n<img class=\"aligncenter size-full wp-image-4237\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/NJMPF.jpg\" alt=\"\" width=\"156\" height=\"242\" />\r\n<p style=\"text-align: justify;\"><strong> Founded well over seventy years ago, and recognised as a pioneer in the non-banking financial services industry, the Natal Joint Municipal Pension Fund (NJMPF) has built not only a strong brand but a peerless reputation for excellence in governance and dependability. Always a forerunner, the NJMPF leverages the power of state-of-the-art technology to offer its members a full suite of retirement services.</strong></p>\r\n<p style=\"text-align: justify;\">The fund, a previous CFI.co award winner, has sustained its already considerable momentum with the launch of its revamped website which allows both members and pensioners improved ease of access and helps the NJMPF add to the transparency of its corporate governance. The fund also opened additional communication channels in order to keep close to all stakeholders. Simultaneously, the NJMPF debuted a cross-platform mobile app that allows members to keep abreast of developments and access information on the fund’s performance and their benefits.</p>\r\n<p style=\"text-align: justify;\">The fund also stepped up its efforts to trace beneficiaries of unclaimed pay-outs. The NJMPF has a long-standing policy of tracing beneficiaries and has managed to keep its stock of unclaimed benefits to a minimum. A testament to its stellar performance, the fund has consistently managed to provide benefits that significantly outpace inflation – offering pensioners peace of mind.</p>\r\n<p style=\"text-align: justify;\">In an unusual move, the CFI.co judging panel has decided to offer the Natal Joint Municipal Pension Fund a triple award in recognition of the fund’s benchmark-setting performance: 2017 Best Practice Pension Funds South Africa Award; 2017 Best Pension Fund Stakeholder Benefits South Africa Award; 2017 Best Corporate Governance Pension Funds South Africa Award.</p>",
     "content_sha256": "5da82572f96743813006665af56b73e1012f6c5cb382ff8dbc91e6d698c65d0f",
-    "record_sha256": "c33ab2e7ee71d308aa6cf7d1087c05f97b83cf70aecc247956636546cb451a29"
+    "record_sha256": "a409384ac88d189b2b1344d67088aac84c635d38b3c523387c96b492191b4d76"
 }

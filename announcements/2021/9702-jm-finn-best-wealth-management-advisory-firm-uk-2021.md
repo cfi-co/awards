@@ -7,6 +7,15 @@ published_gmt: 2021-10-27 17:50:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/jm-finn-best-wealth-management-advisory-firm-uk-2021/"
 categories: ["Consultancies", "Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65718ee1ba9407905ebfe3ce7eba663f7c63cf1886062120168cd7c8619355a7
 canonical: 9702-jm-finn-best-wealth-management-advisory-firm-uk-2021.json
 ---

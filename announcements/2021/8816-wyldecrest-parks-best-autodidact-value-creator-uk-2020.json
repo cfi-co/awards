@@ -12,8 +12,21 @@
         "Industries",
         "Transport"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8817\" src=\"https://cfi.co/awards/wp-content/uploads/2021/02/Wyldecrest-Parks.jpg\" alt=\"Wyldecrest Parks\" width=\"500\" height=\"500\" />\r\n<p style=\"text-align: justify;\">Alfie Best is a relentless force, who rose from humble beginnings to become a successful business tycoon. He grew up in a caravan in the Traveller community and his first business was selling cars at age 14. Best went on to acquire a bankrupt mobile home company in 2001 and turned it into a business with a net profit of £1.1m in 2020. This self-made millionaire is the owner and CEO of Wyldecrest Parks, the largest residential park operator in Europe with around 450 employees and over 80 parks across Britain. Wyldecrest is home to some 13,000 retired and semi-retired residents. They appreciate the safety and pleasant surroundings of the gated community and take pride in the ownership of their homes. The move to Wyldecrest is a hassle-free experience with a removal service and part-exchange scheme for existing property. The company has software solutions that allow potential customers to virtually explore the various home models and parks. It maintains excellent relationships across the home manufacturing industry and delivers quality products at affordable prices. Customers get an energy-efficient, custom-ordered home for half the cost of a conventional brick-and-mortar building. Best presents Wyldecrest Parks as an attractive affordable-housing solution. The philanthropist has long supported educational and youth initiatives and has set up a charity whereby Wyldecrest Parks absorbs all administrative costs. The CFI.co judging panel celebrates the inspiring story of Alfie Best, CEO of Wyldecrest Parks, with the 2020 award for Best Autodidact Value Creator (UK).</p>",
     "content_sha256": "406dd812b8463b8c98cf21c0ea9adc369f0e8205d427589c60efb99705a579d1",
-    "record_sha256": "95dd5053abea68fcae9101b252ac6330341bdadc474983599dd234451890cf65"
+    "record_sha256": "c1e5809fe3002bdc0877bddafd24c3eacede4b93bf6aaccb7dff59d90a94525f"
 }

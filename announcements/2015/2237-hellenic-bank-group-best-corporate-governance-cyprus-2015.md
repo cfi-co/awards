@@ -7,6 +7,15 @@ published_gmt: 2015-05-20 09:38:09
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2015/hellenic-bank-group-best-corporate-governance-cyprus-2015/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: daaa055ebf17b542389adbeda2b4a641fa5e2baf8aa61034866de27ac05f7acd
 canonical: 2237-hellenic-bank-group-best-corporate-governance-cyprus-2015.json
 ---

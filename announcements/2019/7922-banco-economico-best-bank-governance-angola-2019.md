@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:13:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2019/banco-economico-best-bank-governance-angola-2019/"
 categories: ["Africa", "Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fd17c56017a195d07fc5425a558bc157a4f8300f01ceca46a9acf830a5975aad
 canonical: 7922-banco-economico-best-bank-governance-angola-2019.json
 ---

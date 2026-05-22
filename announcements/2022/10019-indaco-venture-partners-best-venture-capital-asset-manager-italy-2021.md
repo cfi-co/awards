@@ -7,6 +7,15 @@ published_gmt: 2022-01-28 11:32:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/indaco-venture-partners-best-venture-capital-asset-manager-italy-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e487b190356169b4c720b34e04710c17d25009138f01574270743fafe543fb6b
 canonical: 10019-indaco-venture-partners-best-venture-capital-asset-manager-italy-2021.json
 ---

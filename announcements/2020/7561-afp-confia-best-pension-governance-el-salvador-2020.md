@@ -7,6 +7,15 @@ published_gmt: 2020-06-24 09:56:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2020/afp-confia-best-pension-governance-el-salvador-2020/"
 categories: ["Best Practice", "Corporate Governance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e68d4345d4b813d1c073b62f8378d1555f2d225cdb688b7788b20a033d0d859f
 canonical: 7561-afp-confia-best-pension-governance-el-salvador-2020.json
 ---

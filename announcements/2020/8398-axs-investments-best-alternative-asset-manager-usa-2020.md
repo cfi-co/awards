@@ -7,6 +7,15 @@ published_gmt: 2020-10-22 10:54:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/axs-investments-best-alternative-asset-manager-usa-2020/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d9e3b61a02ad71f13bbe60f6bc743e437a16e8cfd94b5997e27672edd01c0334
 canonical: 8398-axs-investments-best-alternative-asset-manager-usa-2020.json
 ---

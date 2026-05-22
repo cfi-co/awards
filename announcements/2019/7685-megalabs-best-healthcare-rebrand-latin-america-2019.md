@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 12:14:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2019/megalabs-best-healthcare-rebrand-latin-america-2019/"
 categories: ["Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6636f18e04cb1a58b1fcc8c29fb0df606a2a1de950c7329944b9c1c2885100c1
 canonical: 7685-megalabs-best-healthcare-rebrand-latin-america-2019.json
 ---

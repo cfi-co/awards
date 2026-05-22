@@ -13,8 +13,21 @@
         "Industries",
         "Middle East"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11196\" src=\"https://cfi.co/awards/wp-content/uploads/2023/03/Export-Bahrain-jpg.webp\" alt=\"Export Bahrain\" width=\"600\" height=\"116\" />\r\n<p style=\"text-align: justify;\">Since its launch in November 2018, Export Bahrain has helped national businesses to establish a growing foothold in global markets. The agency offers a range of credit and support solutions to unlock opportunities for active and aspiring exporters across Bahrain. Within the first two years of operation, Export Bahrain helped local businesses achieve $46m exporting products and services to 45 global markets. Nearly half of those exports went to new markets and almost a third were first-time exporters. It celebrated a new milestone in July 2021, helping home-grown start-ups, SMEs and microbusinesses to achieve over USD200 Million in export value since the agency’s inception. Products with the “Made in Bahrain” label have found their way into 55 markets across the US, Europe, Australia, Asia, Africa and the Gulf Cooperation Council region. It even managed to ramp up exports despite the challenging circumstances of Covid. The export value during the first half of 2021 surpassed the previous year’s total, while new exporters rose by 15 percent and new markets by 34 percent. First-time exporters could be eligible for a small grant covering up to 20 percent of their first export transaction. The agency is committed to gender empowerment and financial inclusion. From 2018 to 2020, it facilitated $10.2m in exports by women-owned Bahrain businesses. Future plans centre around national resiliency and global expansion. The CFI.co judging panel announces Export Bahrain as the 2022 award winner for Best SME Export Development Solutions (MENA).</p>",
     "content_sha256": "f835b0d56c4f50e008fb394987ec35d92a027dd300a91a4ca417f3815deb722b",
-    "record_sha256": "d8bdf82b7c8a9fdcf139625e4be36f7cc95baac8c1d30dfa40bb52efd93e0d36"
+    "record_sha256": "2ccf139e4a1e7329316a251b835a522207666665af95f7c14a9b56feec891bda"
 }

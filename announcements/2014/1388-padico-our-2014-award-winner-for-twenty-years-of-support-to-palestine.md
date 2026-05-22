@@ -7,6 +7,15 @@ published_gmt: 2014-11-12 14:44:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/padico-our-2014-award-winner-for-twenty-years-of-support-to-palestine/"
 categories: ["Community Engagement", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 54f41bb4b26d057d499e6334dc1e932d3be5eb3c87fcf7060a8f8dc62736b280
 canonical: 1388-padico-our-2014-award-winner-for-twenty-years-of-support-to-palestine.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-02-27 09:42:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2025/region-ile-de-france-best-green-bond-thought-leadership-team-global-2025-best-in-class-bond-issuer-global-2025/"
 categories: ["Development", "Europe", "Finance", "Government"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ebd70584e2422ea8faaf601629b3786b6b37aa285ac0a608f1da7a1a58de3c87
 canonical: 12887-region-ile-de-france-best-green-bond-thought-leadership-team-global-2025-best-in.json
 ---

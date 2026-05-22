@@ -7,6 +7,15 @@ published_gmt: 2013-06-10 15:40:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/best-law-firm-georgia-award-for-2013-goes-to-dla-piper/"
 categories: ["Asia Pacific", "Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e197d939582c4217b7bec8a6a8272e4a11704f623dfcb9f3edfe4186e13a672f
 canonical: 557-best-law-firm-georgia-award-for-2013-goes-to-dla-piper.json
 ---

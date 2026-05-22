@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:29:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/blkb-best-regional-sustainability-bank-switzerland-2020/"
 categories: ["Banking", "Best Practice", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 787e6d536f8fb95999a9200cc0d57a05d9c17ef19b3fe3c6da3160eb334d1de4
 canonical: 8121-blkb-best-regional-sustainability-bank-switzerland-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-10-19 09:54:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2025/kay-international-amea-limited-best-reinsurance-managing-general-agent-mena-2025/"
 categories: ["Africa", "Asia Pacific", "Middle East", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 04fefa81165492785e5dc2bb3cf38250b52f6e6eac04227ff563a38be5be2974
 canonical: 13429-kay-international-amea-limited-best-reinsurance-managing-general-agent-mena-2025.json
 ---

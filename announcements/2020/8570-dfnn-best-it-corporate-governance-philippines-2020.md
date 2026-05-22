@@ -7,6 +7,15 @@ published_gmt: 2020-12-14 18:11:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/dfnn-best-it-corporate-governance-philippines-2020/"
 categories: ["Asia Pacific", "Best Practice", "Corporate Governance", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0604696ac9a820b4acb1e835510c755f5081ee6313741b9891dff3b9055bb471
 canonical: 8570-dfnn-best-it-corporate-governance-philippines-2020.json
 ---

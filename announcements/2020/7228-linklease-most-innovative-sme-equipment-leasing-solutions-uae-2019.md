@@ -7,6 +7,15 @@ published_gmt: 2020-02-04 15:10:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2020/linklease-most-innovative-sme-equipment-leasing-solutions-uae-2019/"
 categories: ["Finance", "Industries", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 566a34684943863bf015a0dfbc6978d1a74a7c2fb6fbdc0ab60209d26a81ebb0
 canonical: 7228-linklease-most-innovative-sme-equipment-leasing-solutions-uae-2019.json
 ---

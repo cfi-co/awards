@@ -7,6 +7,15 @@ published_gmt: 2019-06-01 18:27:42
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2019/metlife-investments-limited-best-private-placement-team-emea-2019/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0d19cdbe1fc9adc54f3e2477b85663b6af28dc90fc7ea315da80fa497af024cc
 canonical: 6735-metlife-investments-limited-best-private-placement-team-emea-2019.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-05-19 12:06:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/mullenlowe-salt-best-sustainability-strategy-adviser-uk-2020/"
 categories: ["Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 695301cde44ccaaef573e664bb623c286a7b1f145e04ac71601bc541c59ce773
 canonical: 7372-mullenlowe-salt-best-sustainability-strategy-adviser-uk-2020.json
 ---

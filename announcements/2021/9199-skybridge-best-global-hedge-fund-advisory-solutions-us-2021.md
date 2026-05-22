@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:56:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/skybridge-best-global-hedge-fund-advisory-solutions-us-2021/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8d38f7a5e29b44379f622042e56bce93d53a176a43922cb96d8f3f8eb791eed7
 canonical: 9199-skybridge-best-global-hedge-fund-advisory-solutions-us-2021.json
 ---

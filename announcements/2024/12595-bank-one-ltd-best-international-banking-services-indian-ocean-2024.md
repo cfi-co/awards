@@ -7,6 +7,15 @@ published_gmt: 2024-09-18 15:06:28
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2024/bank-one-ltd-best-international-banking-services-indian-ocean-2024/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1e80621b6a3b5e93c12b59d0f1ed5c3e8297aef26fe1c18fcf94e486fc7824b1
 canonical: 12595-bank-one-ltd-best-international-banking-services-indian-ocean-2024.json
 ---

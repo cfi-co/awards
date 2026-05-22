@@ -7,6 +7,15 @@ published_gmt: 2019-12-27 10:30:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2019/sfo-group-best-real-estate-investment-team-middle-east-2019/"
 categories: ["Finance", "Middle East", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: fcce8e47fa89363a0bfe2784e4f16ee01b2ab121ec4bd77998d942351783b166
 canonical: 7078-sfo-group-best-real-estate-investment-team-middle-east-2019.json
 ---

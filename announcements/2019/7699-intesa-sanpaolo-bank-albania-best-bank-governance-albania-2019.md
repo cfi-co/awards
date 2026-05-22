@@ -7,6 +7,15 @@ published_gmt: 2019-10-24 12:29:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2019/intesa-sanpaolo-bank-albania-best-bank-governance-albania-2019/"
 categories: ["Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dc376656e4952a31882ed9d37004eb0d22f396f73f3c43c8eced3e2901608349
 canonical: 7699-intesa-sanpaolo-bank-albania-best-bank-governance-albania-2019.json
 ---

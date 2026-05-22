@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6878\" src=\"https://cfi.co/awards/wp-content/uploads/2019/08/JM-Finn-logo.jpg\" alt=\"\" width=\"400\" height=\"117\" />\r\n<p style=\"text-align: justify;\">UK wealth management firm JM Finn contradicts the “bigger is better” philosophy; it aims to be the best — not the biggest. JM Finn focuses on structuring and managing portfolios to meet each investor’s needs, and delivering solid long-term performance allowing for adaptability and responsiveness. Continuity is a key theme for the firm, and the low turnover and long tenure of staff has enabled it to cultivate client relationships that have endured generations. Even the CEO, who has been with the company since 1997, is considered a newbie in an establishment that has a 70-year-plus history of employee engagement and retention. Each JM Finn investment manager takes personal responsibility for client wealth strategies, soliciting regular feedback to determine direction and deliver rapid response and execution times. JM Finn has invested in infrastructure and technology over the years to give the firm, and its clients, a stable footing in the world’s constantly evolving financial markets. Its roots lie in private client broking, with expert investment managers delivering superior service and building relationships built on trust. Families have relied on JM Finn over generations to manage investment portfolios. Trust and success invariably translate to good word-of-mouth references, and JM Finn clients have reliably recommended the firm to others. The CFI.co judging panel cites the firm’s history of stability and expertise, and welcomes <a href=\"https://cfi.co/awards/europe/2021/jm-finn-best-wealth-management-advisory-firm-uk-2021/\">JM Finn</a> as winner of the 2019 award for Best Wealth Management Advisory Firm (UK).</p>",
     "content_sha256": "b1ea0a546aa38d00fa2c5470abda2d698a07fe2a3356b7b0a1225b8c05d1cff4",
-    "record_sha256": "9e4f8ed6cc10123d7fee395b15c022968482e5e9a9272a383fb360dd6adedb51"
+    "record_sha256": "1526c2615459d9fef9a1a0c4b415f06dae7fd94b180c76186026f3778643a5ad"
 }

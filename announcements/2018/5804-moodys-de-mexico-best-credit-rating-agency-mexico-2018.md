@@ -7,6 +7,15 @@ published_gmt: 2018-07-17 10:35:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2018/moodys-de-mexico-best-credit-rating-agency-mexico-2018/"
 categories: ["Latin America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 09bfa8b25ad905c5540853ac9e7088ac05e8d362ac96d52dc94359a3d6512a46
 canonical: 5804-moodys-de-mexico-best-credit-rating-agency-mexico-2018.json
 ---

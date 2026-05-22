@@ -12,8 +12,21 @@
         "Finance",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8850\" src=\"https://cfi.co/awards/wp-content/uploads/2021/02/CRC-Credut-Bureau.jpg\" alt=\"CRC Credit Bureau\" width=\"400\" height=\"59\" />\r\n<p style=\"text-align: justify;\">The pandemic has brought unparalleled destruction of lives and livelihoods. Nigeria has been hit hard, with high economic impacts and little lending. CRC Credit Bureau helps lenders make informed decisions with a nationwide repository of consumer and corporate credit information that covers more than 95 percent of the domestic credit industry. CRC has weathered Covid with steely resolve, achieving returns on par with expectations and is anticipating continued improvement. The bureau is grateful for lessons learned in 2020 and for the impetus to propel its digital transformation. It now serves clients more through digital channels than face-to-face, which has created greater market access. CRC wants people to stay on top of their credit history — and offers one free credit report per year. Some products are on a subscription basis, including a credit overview notification plan to monitor changes and ensure accuracy. It has developed a range of membership products to assist credit-granting clients with monitoring of their credit portfolios in the phase of the challenges posed by covid-19 and the screening of prospective customers, investors and employees. CRC Credit Bureau operates in association with Dun &amp; Bradstreet, a data, insights and analytics company with a 180-year legacy. CRC has become more data-focused with the ability to add value in multiple economic segments and drive markets with better products and stronger analytics. The CFI.co judging panel is pleased to present CRC Credit Bureau, a repeat winner, with the 2021 award for Best Credit Bureau (Nigeria).</p>",
     "content_sha256": "e13d0056cd457e6190f3511b02eaa549cd552d362f7cd929b5ab76adc6d24f6d",
-    "record_sha256": "7cbd8b388a4150bf816dbe77ecb18ca7daa8d74576a266b13e0b0bbf37878489"
+    "record_sha256": "59ddb37e296da996793671aa70883da5722e50927c2621d8d897255b3e4ba6e3"
 }

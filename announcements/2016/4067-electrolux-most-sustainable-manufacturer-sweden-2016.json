@@ -15,8 +15,21 @@
         "Sustainability",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-4068\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Electrolux-300x81.jpg\" alt=\"\" width=\"300\" height=\"81\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Swedish whitegoods manufacturer Electrolux has long been recognised as an industry leader; not just within manufacturing but also for sustainability.</strong></p>\r\n<p style=\"text-align: justify;\">A regularly featured member of the Dow Sustainability Index, Electrolux ardently defends its position through enacting its sustainability framework, split into three key areas: better solutions, better operations, and better society.</p>\r\n<p style=\"text-align: justify;\">Better Society is aimed at improving Electrolux as a global citizen. Initiatives include leveraging its international presence to influence policymaking, accelerating technology transfers between markets, and ensuring products are produced with the same care throughout its global supply chain. The company is also engaging EU legislators in order to directly influence the recycling industry.</p>\r\n<p style=\"text-align: justify;\">Better solutions and better operations refer to the company’s environmental footprint. From the water/electricity efficiency of the appliances the company produces, to recycling, and the management of potentially harmful chemicals used during the production process. The company’s most efficient refrigerator now consumes as much electricity as a small LED lightbulb – an impossible feat just a few years ago.</p>\r\n<p style=\"text-align: justify;\">Electrolux has a number of goals and initiatives within each of these three key areas and the company continues to surpass its own sustainability benchmarks. As of 2016, thirteen of its manufacturing plants are powered solely by renewable energy, helping to surpass the company’s 3% energy reduction target which it now plans to readjust accordingly.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel offers Electrolux the 2016 Most Sustainable Manufacturer Sweden Award.</p>",
     "content_sha256": "773caefc3aa5c7bad48e1dea0dd088fd2114d2d263612efa7d10bd8cfaa00568",
-    "record_sha256": "2804d7b5fcf2289759746a6839a362b03be5cc2543c06a50eb10e7228bb8bad5"
+    "record_sha256": "959607ff12e7ad627c3b7b2544c4d3a9752761bc8f58723ed80a216ce18d8220"
 }

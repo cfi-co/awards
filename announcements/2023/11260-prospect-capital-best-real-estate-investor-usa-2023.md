@@ -7,6 +7,15 @@ published_gmt: 2023-03-22 08:29:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2023/prospect-capital-best-real-estate-investor-usa-2023/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d75d58243a9eb84e8d68735d8ec7d0eda569ef477c140bf377b4efc16552bb71
 canonical: 11260-prospect-capital-best-real-estate-investor-usa-2023.json
 ---

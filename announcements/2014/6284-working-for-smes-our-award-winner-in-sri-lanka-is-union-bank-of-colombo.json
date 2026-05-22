@@ -11,8 +11,21 @@
         "Asia Pacific",
         "Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-6285\" src=\"https://cfi.co/awards/wp-content/uploads/2018/11/UnionBank.jpg\" alt=\"\" width=\"472\" height=\"125\" /></p>\r\n<p style=\"text-align: justify;\">The Union Bank of Colombo has grown its business magnificently since the civil war in Sri Lanka came to an end five years ago and the Bank now has a network of 61 branches servicing the country (versus seven branches just a few years ago). The Bank makes good use of modern technology to reach out to the more remote parts of the country mindful that the efforts of all Sri Lankans are required to make up for time lost through war. Union Bank is also correct in believing that small and medium enterprises are critical to the growth prospects of the island and for the past several years has been focusing very diligently on SME banking needs. The CFI.co Judging Panel comments that the commitment shown to SMEs by Union is obvious and very encouraging. The range of services and solutions is strong and Union can be relied upon for good advice and thoroughly professional support. The Panel is delighted to confirm Union Bank of Colombo as winner of the CFI.co award ‘Best SME Bank, Sri Lanka, 2014’.</p>",
     "content_sha256": "9a6d081c49756264446fd9cdb2effb38412766198e8bcc8c2fb8360fd6f0c184",
-    "record_sha256": "b4e363e13f1d72938983e550592b4cd1cde1fc6f870e9301422240d6354a3d83"
+    "record_sha256": "02a705962320293e38f64a932315916af09b8e7b4141cbd3b8a45a64783d06fa"
 }

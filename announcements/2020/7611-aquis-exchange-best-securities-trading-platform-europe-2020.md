@@ -7,6 +7,15 @@ published_gmt: 2020-06-24 10:37:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/aquis-exchange-best-securities-trading-platform-europe-2020/"
 categories: ["Europe", "Exchanges &amp; Brokers", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b8aa9161365fc205be782833b3275e03ede3734a292111eac086eb327dbdd388
 canonical: 7611-aquis-exchange-best-securities-trading-platform-europe-2020.json
 ---

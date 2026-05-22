@@ -7,6 +7,15 @@ published_gmt: 2013-09-18 11:05:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2013/the-year-of-the-dragon-award-best-community-engagement-turkmenistan/"
 categories: ["Asia Pacific", "Community Engagement", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 01b38c02ae215c5eceef5ad5e3020d53135e83a1da71a85033c2ba46e17f62a4
 canonical: 796-the-year-of-the-dragon-award-best-community-engagement-turkmenistan.json
 ---

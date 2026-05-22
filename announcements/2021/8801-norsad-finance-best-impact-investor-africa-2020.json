@@ -11,8 +11,21 @@
         "Africa",
         "Development"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8802\" src=\"https://cfi.co/awards/wp-content/uploads/2021/02/Norsad.jpg\" alt=\"Norsad\" width=\"500\" height=\"172\" />\r\n<p style=\"text-align: justify;\">Norsad Finance celebrated its 30<sup>th</sup> anniversary, reflecting a legacy of purpose-driven work alongside like-minded partners for the co-creation of a more resilient and sustainable Africa. Norsad’s purpose is to build a better Africa. The company provides tailored long-term financing solutions of between USD5m and USD10m to companies that are profit-oriented and contribute to the SDG’s in the region. The company is backed by a balanced mix of Nordic and African institutional investors. Norsad's international shareholders — European Development Finance Institutions: Finnfund, IFU, Norfund, and Swedfund — are ahead of the curve in ESG and responsible investing, and Norsad has benefitted from their industry knowledge and mentorship. Norsad's African shareholders provide strong support in commercially viable regional projects with desirable ESG impacts. Norsad has provided total financing in excess of $400m to over 140 businesses and projects across 12 Southern Africa countries. Norsad invests in impact projects — focused on clean and renewable energy, food and agribusiness, education, financial accessibility, and inclusion — and tracks such impact. In 2019, companies financed by Norsad employed more than 11,000 people, 30 percent of which were women and 14 percent youth. Norsad is a signatory of the UN-supported Principles for Responsible Investment (UNPRI) and reports its impact in line with PRI reporting requirements. In the 2020 PRI reporting and assessment cycle, Norsad outperformed peers in all categories and achieved the highest possible rating (A+) for strategy and governance. CFI.co also declared Norsad Finance as the worthy winner of the 2020 award for Best Impact Investor (Africa).</p>\r\n<span style=\"text-decoration: underline;\"><strong><a href=\"https://norsadfinance.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></strong></span> | <span style=\"text-decoration: underline;\"><strong><a href=\"https://www.linkedin.com/company/norsad-finance-limited/posts/?feedView=all\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a></strong></span>",
     "content_sha256": "7ffb868887aa803a42dfca995822d7c94c0ab4e05a02694b90e20ee58a01e9f0",
-    "record_sha256": "88cc3667aa7a2595f984107b44cee30cf1fa8628e68e33e033ce390e86a9332e"
+    "record_sha256": "f18a3f715696eee02b01d122dfd489c1934b783ee7de6561bc2ec01438b74f50"
 }

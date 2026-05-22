@@ -12,8 +12,21 @@
         "Middle East",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-988\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/dat.png\" alt=\"dat\" width=\"186\" height=\"146\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Dar Al Tamleek Company has a zero default record on its home loan portfolio for the past five years.</strong> The company was set up after the global financial crisis and according to the CFi.co Judging Panel has been smart enough to learn from the mistakes of others to create a fine business that now claims a 12% market share. This accolade is not the first of its kind as Dar Al Tamleek has long been recognised as a major mortgage market player in the kingdom. The prevailing attitude that guides the company’s business is “We Are Here to Help”. This is also the message Dar Al Tamleek delivers to its clients. In practical terms, this message aims to emphasize that the company matches the financial products offered to the specific and circumstances of clients ensuring their ability to repay loans is not compromised. The Company is our 2013 winner.</p>",
     "content_sha256": "41c6e29d34d6890130081812d72b035f1f4923789a3a9407e0823801ca7bf543",
-    "record_sha256": "29416bd2ec16f27fee98d42528a68c3d4658504eb323e695b93c93771b4c7a5e"
+    "record_sha256": "bd02b7de0c7c0d4a901ea94f6f0ae4440f22e048defa26c59611b4872c52b9c6"
 }

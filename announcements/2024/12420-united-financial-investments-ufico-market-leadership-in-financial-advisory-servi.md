@@ -7,6 +7,15 @@ published_gmt: 2024-06-13 13:26:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/professional-services/2024/united-financial-investments-ufico-market-leadership-in-financial-advisory-services-jordan-2024/"
 categories: ["Consultancies", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: da8a2ad484b7aef90096820724d9607ccbdcaf80dbe09e9542130a13b93a963d
 canonical: 12420-united-financial-investments-ufico-market-leadership-in-financial-advisory-servi.json
 ---

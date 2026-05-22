@@ -7,6 +7,15 @@ published_gmt: 2023-08-09 08:56:44
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/landesbank-baden-wurttemberg-lbbw-best-covered-bond-issuer-germany-2023/"
 categories: ["Banking", "Best Practice", "CSR", "Europe", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4e79c21668252babb623dd895c8d53a24e7648c49c63b434c0b7942367541d20
 canonical: 11740-landesbank-baden-wurttemberg-lbbw-best-covered-bond-issuer-germany-2023.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-10-20 06:40:48
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2025/idfc-first-bank-best-digital-bank-india-2025/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 9ef92293b371f9ff58901b309494eac97373ea04889cb8890dfad11c3d63f0bb
 canonical: 13134-idfc-first-bank-best-digital-bank-india-2025.json
 ---

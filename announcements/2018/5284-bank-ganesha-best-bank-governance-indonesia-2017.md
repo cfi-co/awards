@@ -7,6 +7,15 @@ published_gmt: 2018-01-11 14:07:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2018/bank-ganesha-best-bank-governance-indonesia-2017/"
 categories: ["Banking", "Best Practice", "Corporate Governance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1b1622ff30aae7480484b9c374cabb43f52df68f49f2bae0fc28e9f07569f776
 canonical: 5284-bank-ganesha-best-bank-governance-indonesia-2017.json
 ---

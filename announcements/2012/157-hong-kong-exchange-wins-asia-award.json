@@ -12,8 +12,21 @@
         "Exchanges &amp; Brokers",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2013/06/h.jpg\"><img class=\"aligncenter size-full wp-image-1842\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/h.jpg\" alt=\"h\" width=\"349\" height=\"218\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>HK Ex, listed in Hong Kong in 2000 is one of the world’s largest operators and the judging panel commented on the strength of recent developments. </strong></p>\r\n<p style=\"text-align: justify;\">The panel spoke too of the strong investor relations programmes at HK Ex and noted that the operator had received the ‘Caring Company’ award from the Hong Kong Council of Social Services for seven consective years up to 2011/12.</p>",
     "content_sha256": "9a3e9e276769a27ee5ca2b2da2a090f4373d784e7bea91b202cedfecffffdac2",
-    "record_sha256": "6b58ea25a4123dc95655545c10ff1481588d437fdc4405377b25bd2d06bdaf65"
+    "record_sha256": "2591971cfff664a1ce8a4dcd88391471ea0c552356f7752191d39ba8c7adf577"
 }

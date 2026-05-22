@@ -13,8 +13,21 @@
         "Best Practice",
         "Sustainability"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7682\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/IDFC.jpg\" alt=\"IDFC\" width=\"400\" height=\"141\" />\r\n<p style=\"text-align: justify;\">IDFC FIRST — born from the merger of IDFC Bank and Capital First in December 2018 — validates the theory that the whole is greater than the sum of its parts. It has built a business focusing on customer experience, solid corporate governance and preparedness. During its first financial year as a newly integrated entity, retail liabilities grew by 157 percent and retail loans were up 40 percent. Its net-interest margin rose from 1.56 percent (pre-merger) to 4.24 percent in Q4 FY 2020 — which is indicative of a strong Indian bank. IDFC FIRST serves clients from all walks of life — salaried and self-employed, small businesses and micro-enterprises — through an extensive national network and digital platform. The bank prioritises underserved segments and first-time borrowers. IDFC FIRST Bank takes pride in bringing more people into the financial mainstream and deploys analytics-backed credit risk assessments to expand lending capabilities. The bank ensures sustainable growth for present and future generations by rooting operations in responsibility, ethics, transparency, technology and human resources. It invests in digital technologies that increase customers’ convenience and reduce the bank’s carbon footprint. IDFC FIRST contributes to the creation of sustainable communities through CSR initiatives promoting education, skill and livelihood training, healthcare and hygiene, financial literacy and inclusion. IDFC FIRST Bank has attracted the attention of the CFI.co judging panel in several past awards programmes. This year the jury names IDFC FIRST Bank as 2021 winner of the award Best Sustainable Banking Strategy (India).</p>",
     "content_sha256": "c761ad956cdf7962ec330432a1355dd38958a69bce607a137862ddefa3d50031",
-    "record_sha256": "ab4888ee1836c964c7ce2cc2d89372088d78932462d0afb6fcd28701c80a1966"
+    "record_sha256": "8e3307536130776d6b07e4a0deb92d6b095e74d3ccc38245a7cbe066e0838590"
 }

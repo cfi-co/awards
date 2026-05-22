@@ -11,8 +11,21 @@
         "Banking",
         "Europe"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-medium wp-image-4975\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/Raifeisen-300x84.jpg\" alt=\"Raiffeisen\" width=\"300\" height=\"84\" />\r\n<p style=\"text-align: justify;\">Innovation is at the centre of the drive to expand business at Austria’s Raiffeisen Centrobank AG (RCB). The investment bank provides a range of products and services in the equities and derivatives sectors. It is a market leader in the field of structured products, and is striving to expand operations in its core markets of Austria, Central and Eastern Europe. It concentrates on maintaining a holistic approach to customer service, strengthening of its product portfolio, and ensuring clients have a clear understanding of opportunities available to them. The company, founded in Vienna in 1973, has recently expanded operations in Serbia and Belarus. Leveraging its experience in the field, RCB’s puts its attention on expansion and the strengthening of its market position. Having weathered the early challenges of the pandemic, the bank is now seeing a significant increase in business. Record numbers of clients, eager to take advantage of the opportunities presented by lower stock prices, are approaching RCB. The bank has earned an enviable reputation as a pioneer in the field of structured products. It is Austria’s largest issuer of certificates, and is seen as a major player in CEE markets. The CFI.co judging panel continues to be impressed by the performance of the bank — and presents it with its third award. Raiffeisen Centrobank AG takes the 2021 award for Best Structured Products Bank (CEE).</p>",
     "content_sha256": "0f2295530a3d6122377511ad6265b8d25946ce5b6c6b1c262991af923d57c3fb",
-    "record_sha256": "1dc4f7cb45eacb301311a6fef30e1520890e728a7e8c4221802f583d48ca6606"
+    "record_sha256": "9968e22c1dee530130068ecfde136ac0cd2e05fba715964f47c07d99d40cf130"
 }

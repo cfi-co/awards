@@ -7,6 +7,15 @@ published_gmt: 2021-08-06 12:56:52
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/toledo-capital-best-wealth-management-services-switzerland-2021/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4dfdfdf82b53a5c5822acd5a8cd2ffbd12ee5727a73f6b2ef79aa326ccba17d9
 canonical: 9451-toledo-capital-best-wealth-management-services-switzerland-2021.json
 ---

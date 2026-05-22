@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 14:52:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2017/nornickel-best-mining-corporate-governance-russia-2016/"
 categories: ["Best Practice", "Corporate Governance", "Industries", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 1e9d0e6ec08a34210f107a2ac06a952722cb4888d64853d21d225247e7eebef2
 canonical: 4009-nornickel-best-mining-corporate-governance-russia-2016.json
 ---

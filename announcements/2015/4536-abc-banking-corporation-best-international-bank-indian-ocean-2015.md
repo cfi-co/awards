@@ -7,6 +7,15 @@ published_gmt: 2015-10-17 11:00:12
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2015/abc-banking-corporation-best-international-bank-indian-ocean-2015/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f0ad65a848833d582c8cb4c460b41eb88735e0831cd646f933ddde193b9901fc
 canonical: 4536-abc-banking-corporation-best-international-bank-indian-ocean-2015.json
 ---

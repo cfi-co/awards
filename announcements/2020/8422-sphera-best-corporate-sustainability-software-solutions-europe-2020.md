@@ -7,6 +7,15 @@ published_gmt: 2020-11-03 07:00:10
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/sphera-best-corporate-sustainability-software-solutions-europe-2020/"
 categories: ["Best Practice", "Europe", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 43be7c75e58547d233cea20a6fc0e2d92f874b24a96b2a3a5712a6a84135f24e
 canonical: 8422-sphera-best-corporate-sustainability-software-solutions-europe-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2022-02-03 13:19:19
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/365-bank-best-bank-governance-slovakia-2021/"
 categories: ["Banking", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0341159da336973cb94f1657fca5c3702231c6facad76f43b97ed7132af85c0a
 canonical: 10166-365-bank-best-bank-governance-slovakia-2021.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2025-05-29 11:45:47
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/development/2025/corporacion-zona-franca-santiago-foreign-investment-business-competitiveness-champion-dominican-republic-2025/"
 categories: ["Development", "FDI Agencies", "Industries", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c89f34348463d931361b5c1dd27c8630584947a4d10ae28bb1bae25ec642a668
 canonical: 12967-corporacion-zona-franca-santiago-foreign-investment-business-competitiveness-cha.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-10-19 13:58:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2016/kommuninvest-best-green-bond-issuer-europe-2016/"
 categories: ["Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b239ac981bb09e539b5f8c0bbff6cbbd181e3abd912a5bec018aa9a2867d29b9
 canonical: 3544-kommuninvest-best-green-bond-issuer-europe-2016.json
 ---

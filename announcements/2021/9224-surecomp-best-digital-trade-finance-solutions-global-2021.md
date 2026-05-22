@@ -7,6 +7,15 @@ published_gmt: 2021-05-19 12:55:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2021/surecomp-best-digital-trade-finance-solutions-global-2021/"
 categories: ["North America", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7de51d28c98da3d67eb6639819bcdd37b2bbc62cca8880baf61ddb7e8afef526
 canonical: 9224-surecomp-best-digital-trade-finance-solutions-global-2021.json
 ---

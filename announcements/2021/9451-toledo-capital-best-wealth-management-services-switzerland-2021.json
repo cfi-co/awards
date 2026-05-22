@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-9452\" src=\"https://cfi.co/awards/wp-content/uploads/2021/08/Toledo-Capital.jpg\" alt=\"Toledo Capital\" width=\"400\" height=\"240\" /></p>\r\n<p style=\"text-align: justify;\"><strong>For over a decade, Toledo Capital has helped high-net-worth clients nurture multi-generational wealth by stepping away from short-term speculation and designing diversification strategies for the long game. Toledo’s philosophy is to always find the best solution for its clients. Toledo manages portfolios with $4m or more in bankable assets. It applies an absolute return approach to investments, and — despite Covid challenges — its flagship portfolio returned 16 percent in 2020. Toledo has added new asset classes to its services and strategically balanced the asset allocation between classes. The firm selects and recruits top asset managers and takes great care in assigning them to asset classes and client portfolios.</strong></p>\r\n<p style=\"text-align: justify;\">Toledo Capital recently began working with one of the largest data valuation companies in Europe, which feeds into its proprietary AI platform and supports informed decision-making by the experienced team. Through a novel, exclusive cooperation with ZWEI Wealth Experts, Toledo Capital allows its clients to select their asset manager based on the largest certified database of the best Swiss active asset managers. The firm has attracted new clients, increased assets under management, and recently launched a new website.</p>\r\n<p style=\"text-align: justify;\">Toledo Capital is licensed and regulated by FINMA, Switzerland’s independent financial markets authority, and adheres to the highest standards. The FINMA licensing process took six months and represents a major milestone for the firm. Toledo offers a corresponding level of guidance and oversight for clients by controlling and monitoring services, screening for inconsistencies across banking transactions, and studying markets for any potential risks.</p>\r\n<p style=\"text-align: justify;\">The CFl.co judging panel has again found just cause to present Toledo Capital, a repeat winner, with an award — this time for the Best Wealth Management Services of 2021 (Switzerland).</p>",
     "content_sha256": "4dfdfdf82b53a5c5822acd5a8cd2ffbd12ee5727a73f6b2ef79aa326ccba17d9",
-    "record_sha256": "3da133874b093507ec96184dd0781a4ff2c59a5b83dfa63761884ea8a419a7a5"
+    "record_sha256": "07f69c610fce3112e72193424ff5ba5d509523f493256bc5ff62cc92aaa02aef"
 }

@@ -7,6 +7,15 @@ published_gmt: 2021-11-04 07:34:32
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/ylg-group-most-responsible-gold-exporter-asia-2021/"
 categories: ["Asia Pacific", "CSR", "Industries", "Mining"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 52fe65e78ec5bc1bd172260d77c2e9690a03e702d2308f467fdce02e2eef4f2c
 canonical: 9759-ylg-group-most-responsible-gold-exporter-asia-2021.json
 ---

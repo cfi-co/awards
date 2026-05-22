@@ -7,6 +7,15 @@ published_gmt: 2012-09-07 17:50:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2012/morgan-stanleys-investment-in-staff-pays-off-as-they-win-the-award-for-best-commercial-bank-usa/"
 categories: ["Banking", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e1d72a2ad8c2e743807a5373cc6bbcb80fa694c4e5efd04c58fa36dc15cbf912
 canonical: 124-morgan-stanleys-investment-in-staff-pays-off-as-they-win-the-award-for-best-comm.json
 ---

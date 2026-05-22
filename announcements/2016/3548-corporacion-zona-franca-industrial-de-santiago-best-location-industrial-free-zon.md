@@ -7,6 +7,15 @@ published_gmt: 2016-10-19 14:03:23
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2016/corporacion-zona-franca-industrial-de-santiago-best-location-industrial-free-zone-caribbean-2016/"
 categories: ["Industries", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: a0fca1a17dbcd1b0c89bb1106078a1fff9748d53720f04a7836348199079e7a3
 canonical: 3548-corporacion-zona-franca-industrial-de-santiago-best-location-industrial-free-zon.json
 ---

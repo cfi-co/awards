@@ -7,6 +7,15 @@ published_gmt: 2018-01-25 12:23:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/eesti-energia-best-energy-saving-app-baltics-2017/"
 categories: ["Customer Satisfaction", "Europe", "Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f332e6ae238c02caf8d8703a04ecc3e75317ecd9842b5103eaa41a2fe4c10a9f
 canonical: 5165-eesti-energia-best-energy-saving-app-baltics-2017.json
 ---

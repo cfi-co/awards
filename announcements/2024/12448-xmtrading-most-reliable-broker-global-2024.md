@@ -7,6 +7,15 @@ published_gmt: 2024-07-02 09:40:18
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/exchanges-brokers/2024/xmtrading-most-reliable-broker-global-2024/"
 categories: ["Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b318a889905a61ea7c39598a5aae61f692e3ac6dcd3c8f1f14ba1fe99b7020a5
 canonical: 12448-xmtrading-most-reliable-broker-global-2024.json
 ---

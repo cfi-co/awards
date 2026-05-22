@@ -7,6 +7,15 @@ published_gmt: 2022-12-20 19:50:13
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2022/argumento-best-multimarket-fund-investment-strategy-brazil-2022/"
 categories: ["Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 32a398be70ab4b7735ea837f3c8e00e522151ab64e287b9b2c6b1ed80f465198
 canonical: 11020-argumento-best-multimarket-fund-investment-strategy-brazil-2022.json
 ---

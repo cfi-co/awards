@@ -7,6 +7,15 @@ published_gmt: 2018-04-25 09:49:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/cimco-marine-best-industrial-exporter-ipo-sweden-2017/"
 categories: ["Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f391edc3759b6b32d53576068b367eb8a8c9091cb942f1c5a5c0dcd4d0ba4eef
 canonical: 5505-cimco-marine-best-industrial-exporter-ipo-sweden-2017.json
 ---

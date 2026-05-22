@@ -7,6 +7,15 @@ published_gmt: 2017-08-17 13:56:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2017/xm-best-trading-support-europe-2017/"
 categories: ["Europe", "Exchanges &amp; Brokers"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ca173a8bfd29e0d25dcdb98809f76b3e2c1d972c13dc40d2ad0030794e151d6c
 canonical: 4667-xm-best-trading-support-europe-2017.json
 ---

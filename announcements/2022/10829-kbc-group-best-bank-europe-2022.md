@@ -7,6 +7,15 @@ published_gmt: 2022-10-26 11:52:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/kbc-group-best-bank-europe-2022/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e25efb51cac9162e8a3c275d6ba1e6e2d43afa65083d4b46d9b4be5079c04ce5
 canonical: 10829-kbc-group-best-bank-europe-2022.json
 ---

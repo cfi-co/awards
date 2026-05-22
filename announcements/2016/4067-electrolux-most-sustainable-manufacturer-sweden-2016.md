@@ -7,6 +7,15 @@ published_gmt: 2016-11-01 16:43:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/electrolux-most-sustainable-manufacturer-sweden-2016/"
 categories: ["Best Practice", "Industries", "Manufacturing", "Retail", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 773caefc3aa5c7bad48e1dea0dd088fd2114d2d263612efa7d10bd8cfaa00568
 canonical: 4067-electrolux-most-sustainable-manufacturer-sweden-2016.json
 ---

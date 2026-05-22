@@ -7,6 +7,15 @@ published_gmt: 2023-09-18 08:06:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2023/banque-misr-best-corporate-banking-team-egypt-2023/"
 categories: ["Banking", "Islamic Banking", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5118a1b964ce09e6341f535d8e437c1ad756c40a9297d22074452553f1d065c
 canonical: 11881-banque-misr-best-corporate-banking-team-egypt-2023.json
 ---

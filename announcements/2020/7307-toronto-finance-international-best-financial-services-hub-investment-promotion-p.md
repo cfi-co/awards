@@ -7,6 +7,15 @@ published_gmt: 2020-04-09 13:08:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/toronto-finance-international-best-financial-services-hub-investment-promotion-ppp-global-2020/"
 categories: ["Finance", "Government", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 409ed3cca63b1882d3e83bc609ddb0e5979057671a71086ad8eed5feacbd4ff7
 canonical: 7307-toronto-finance-international-best-financial-services-hub-investment-promotion-p.json
 ---

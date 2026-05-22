@@ -7,6 +7,15 @@ published_gmt: 2020-10-28 11:30:11
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/fci-best-trade-finance-innovator-global-2020/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 83b136e95c6c0a475ed989ca8ddb98aad5a2bd7c4ebb5a22a6dbdb33f89b1127
 canonical: 8348-fci-best-trade-finance-innovator-global-2020.json
 ---

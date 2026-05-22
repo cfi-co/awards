@@ -7,6 +7,15 @@ published_gmt: 2016-03-30 09:10:51
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2016/affirmative-investment-management-partners-best-green-bond-team-united-kingdom-2016-2/"
 categories: ["Asset Management", "Best Practice", "Europe", "Finance", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 5d01b5e98f224e22abdf8ec7f5a8700c8c5a6140645f7a759e91bb925d4108b6
 canonical: 3166-affirmative-investment-management-partners-best-green-bond-team-united-kingdom-2.json
 ---

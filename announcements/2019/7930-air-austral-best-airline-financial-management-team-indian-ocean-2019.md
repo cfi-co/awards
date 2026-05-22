@@ -7,6 +7,15 @@ published_gmt: 2019-03-02 11:17:31
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2019/air-austral-best-airline-financial-management-team-indian-ocean-2019/"
 categories: ["Asia Pacific", "Finance", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c2c79e971d9d749f492048a93175540d1819b0721644744817789062e62258a1
 canonical: 7930-air-austral-best-airline-financial-management-team-indian-ocean-2019.json
 ---

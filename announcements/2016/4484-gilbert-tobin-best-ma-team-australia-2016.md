@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 10:25:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2016/gilbert-tobin-best-ma-team-australia-2016/"
 categories: ["Asia Pacific", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8e238a30055bed9f7ec9bdf42b74b0dcb31e8bed3d55a793223610fccfd48ba3
 canonical: 4484-gilbert-tobin-best-ma-team-australia-2016.json
 ---

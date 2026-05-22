@@ -7,6 +7,15 @@ published_gmt: 2022-01-31 17:59:16
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/via-optronics-best-technology-innovation-value-creation-strategy-germany-2021/"
 categories: ["Europe", "Industries", "Manufacturing", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 09714afb2b329fb6dd40d8bda3b65c071d7c3345f39b576f353c5bdebcd88700
 canonical: 10027-via-optronics-best-technology-innovation-value-creation-strategy-germany-2021.json
 ---

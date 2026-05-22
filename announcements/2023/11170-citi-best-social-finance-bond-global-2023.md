@@ -7,6 +7,15 @@ published_gmt: 2023-02-16 13:47:38
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/csr/2023/citi-best-social-finance-bond-global-2023/"
 categories: ["Banking", "CSR"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e1b4200bab8e59695d61ae2d57e697d94f20c900824b8baa486fe270eb2c8b77
 canonical: 11170-citi-best-social-finance-bond-global-2023.json
 ---

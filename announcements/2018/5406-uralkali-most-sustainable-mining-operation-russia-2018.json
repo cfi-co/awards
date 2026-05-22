@@ -12,8 +12,21 @@
         "Industries",
         "Mining"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-5407\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/URALKALI.jpg\" alt=\"\" width=\"400\" height=\"255\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The looming worldwide potash shortage following the collapse of a mine in Belarus, has prompted investors to take a second look at large producers of the potassium-rich salts used in the manufacture of fertilisers. One of the world’s largest potash companies is Russia’s Uralkali – based in Perm near the Ural Mountains – which sells a number of high-purity standard and granular potash type used in both direct-application compound fertilisers.</strong></p>\r\n<p style=\"text-align: justify;\">Uralkali, listed on the Moscow Stock Exchange and one of its unsung heroes, is responsible for almost 18% of global potash production. The company is recognised at home and abroad for its long-standing dedication to excellence in corporate governance. In Russia, Uralkali was an early adopter of ESG (environmental, social, and governance) standards, putting the corporation on a sustainable footing.</p>\r\n<p style=\"text-align: justify;\">Uralkali operates five potash mines in Perm Krai, six processing facilities, and one carnallite plant. Interestingly, the company also possesses three additional permits to mine the rich Verkhnekamskoye potash deposits – ensuring its continued access to vast reserves and allowing plenty room for corporate growth. Uralkali maintains an ice-free shipping terminal on the Baltic Sea with a capacity to handle more than six million tonnes annually.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that Uralkali Trading has a network of seven overseas offices and clients in over seventy countries. A vertically-integrated company – in control of the entire production chain – Uralkali’s potash helps farmers on five continents grow the crops that feed the world. The judges are pleased to offer Uralkali the 2018 Most Sustainable Mining Operation Russia Award.</p>",
     "content_sha256": "c7bc27429986bf5625195b94629531ff9292063bc8a94917826f3d114b35c8de",
-    "record_sha256": "191c4201bd9a4d7c55dbb888cb1ddc6fed8013f97b5a82eacf8a2f0100972071"
+    "record_sha256": "18ccf13aa2ec6d1a4d501a88b7afd5a52db83b61607776c26fa4fdd691705d9f"
 }

@@ -7,6 +7,15 @@ published_gmt: 2023-03-16 12:47:03
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2023/caixa-economica-federal-best-socially-responsible-bank-brazil-2022/"
 categories: ["Banking", "Best Practice", "CSR", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7e213cd3a17ae216e6e33dedd4e3aba2f676ce5c81a12da8fd43307e7cce3eef
 canonical: 11242-caixa-economica-federal-best-socially-responsible-bank-brazil-2022.json
 ---

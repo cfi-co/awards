@@ -13,8 +13,21 @@
         "CSR",
         "Corporate Governance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4242\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/ARC.jpg\" alt=\"\" width=\"326\" height=\"156\" /></p>\r\n<p style=\"text-align: justify;\"><strong>African Risk Capacity (ARC), a specialised agency set up by the African Union, deploys high-tech to increase the continent’s food security by creating comprehensive climate response systems and procedures that pool and transfer risk, thus </strong><strong>allowing member states to protect vulnerable populations and offer effective help to those harmed by natural disasters.</strong></p>\r\n<p style=\"text-align: justify;\">ARC also assists member states plan for emergencies and put the resources in place that enable a swift and targeted response to extreme weather events. The entity attaches great importance to transparency, governance, and efficiency. It uses Africa RiskView, an advanced satellite-based weather surveillance system, and software developed by the UN World Food Programme to continuously monitor continent-wide risk.</p>\r\n<p style=\"text-align: justify;\">ARC is structured to provide a fast response to any emergency in order to reduce the loss of both lives and assets. By adding a risk pooling and transfer layer to traditional disaster relief mechanisms, the agency has been able to reduce the punitive costs usually associated with humanitarian assistance programmes. ARC also helps the continent reduce its reliance on outside help which is often funded on an ad hoc basis. By offering member states a permanent yet pliable structure that can absorb shocks and manage risk, ARC aims to strengthen the resilience of governments in the face of adversity.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to note ARC’s continued progress. A repeat winner, African Risk Capacity is offered the 2017 Most Innovative ESG Risk Protection Provider Africa Award.</p>",
     "content_sha256": "359e245b2ad24bf5b465bf7ce5b64aaaee1e4e1933b30a7c06fcc0290a99b2a9",
-    "record_sha256": "7afd2bb59d6ec27a4f137662c7c92f05ab81d2458f7998735fb35fad78a7951b"
+    "record_sha256": "e9f0ff3fa5e24904981c3262a7ccbb412b783a50cb5f668d0a5a83fa829ddeb4"
 }

@@ -7,6 +7,15 @@ published_gmt: 2013-04-02 10:37:04
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2013/arntzen-de-besches-energy-team-wins-2013-legal-award/"
 categories: ["Europe", "Industries", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b10269feebcd9b4f3a8584fb78b3ece395f26bdeba5d67a5e43e2e0f956269c
 canonical: 370-arntzen-de-besches-energy-team-wins-2013-legal-award.json
 ---

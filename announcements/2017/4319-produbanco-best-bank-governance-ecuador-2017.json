@@ -13,8 +13,21 @@
         "Corporate Governance",
         "Latin America"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4320\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/Produbanco.jpg\" alt=\"\" width=\"401\" height=\"117\" /></p>\r\n<p style=\"text-align: justify;\"><strong>One of the largest banks in Ecuador, Banco de la Producción SA, Produbanco moved into its new corporate headquarters as it concluded a major rebranding exercise that emphasises the institution’s excellence in customer service and dedication to innovative solutions.</strong></p>\r\n<p style=\"text-align: justify;\">Part of Ecuador’s largest financial services provider Grupo Promerica, Produbanco maintains a well-established reputation for operational efficiency. Founded in 1978, the bank has a wide regional footprint via Grupo Promerica’s presence in Costa Rica, El Salvador, Guatemala, Honduras, Cayman Islands, Nicaragua, Panama, the Dominican Republic and, through its subsidiary Terrabank, the United States.</p>\r\n<p style=\"text-align: justify;\">Specialised in serving the corporate sector, Produbanco offers a full range of products and services that helps businesses reach their full potential. The bank constitutes a valuable reservoir of knowledge and experience in the Ecuadorian business sector and, as such, represents an essential resource for corporates, entrepreneurs, and investors.</p>\r\n<p style=\"text-align: justify;\">Both a retail bank and commercial bank, Produbanco is recognised for its support of small and medium-sized enterprises (SMEs). The bank has set up a number of facilities aimed at boosting the performance of smaller businesses which are considered the principal drivers of the country’s development.</p>\r\n<p style=\"text-align: justify;\">The sustained growth of Produbanco is derived from its stalwart adherence to the highest standards of corporate governance, taking into account the interests of all stakeholders.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that Produbanco enjoys a solid reputation for transparency and received Triple A ratings from a number of credit agencies. The judges are pleased to offer Banco de la Producción SA – Produbanco – the 2017 Best Bank Governance Ecuador Award.</p>",
     "content_sha256": "ed9ec6cbc224824a691d48a2aae0a31944b316ea0eac05d49749b1d761848836",
-    "record_sha256": "8070adeef3c50f8a087f02fdeedeb0030e21e30ffe9bbdb4d07bd54b77d33652"
+    "record_sha256": "fa5098195ea14ecb1700b9cae05c3d2f5bd58c345038b46ef6b7b70a4b81b68d"
 }

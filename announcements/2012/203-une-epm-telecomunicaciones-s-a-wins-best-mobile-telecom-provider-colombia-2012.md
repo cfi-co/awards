@@ -7,6 +7,15 @@ published_gmt: 2012-09-11 09:36:54
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2012/une-epm-telecomunicaciones-s-a-wins-best-mobile-telecom-provider-colombia-2012/"
 categories: ["Industries", "Latin America", "Telecom"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 45597a6f03c61543bfccd641ffbd1fc57c2b53ae181a14d8186e2ad0454dd156
 canonical: 203-une-epm-telecomunicaciones-s-a-wins-best-mobile-telecom-provider-colombia-2012.json
 ---

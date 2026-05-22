@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:49:27
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2021/tanqia-best-sustainable-growth-strategy-middle-east-2021/"
 categories: ["Best Practice", "Industries", "Middle East", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 65da555a4c65ca762e861c13d53c7aab5b8dae2fe49274cf9159ed68b4b45a9e
 canonical: 9191-tanqia-best-sustainable-growth-strategy-middle-east-2021.json
 ---

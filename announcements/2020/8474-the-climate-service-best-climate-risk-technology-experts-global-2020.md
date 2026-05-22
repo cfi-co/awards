@@ -7,6 +7,15 @@ published_gmt: 2020-11-16 13:49:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/the-climate-service-best-climate-risk-technology-experts-global-2020/"
 categories: ["Industries", "North America", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 993976c515fa88d160f31268f62c2a79326066e8fab13392283c424f4b689f67
 canonical: 8474-the-climate-service-best-climate-risk-technology-experts-global-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-12-09 10:55:45
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2020/cedacri-spa-best-banking-it-outsourcing-services-italy-2020/"
 categories: ["Industries", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6d0502c2c802fac17f03774d0b6b15dc001fa2de47b3c594387ab51ff7e5a927
 canonical: 8553-cedacri-spa-best-banking-it-outsourcing-services-italy-2020.json
 ---

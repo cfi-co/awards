@@ -13,8 +13,21 @@
         "North America",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10791\" src=\"https://cfi.co/awards/wp-content/uploads/2022/10/APG-Neuros.jpg\" alt=\"APG Neuros\" width=\"400\" height=\"141\" />\r\n<p style=\"text-align: justify;\">There are few better examples of how innovation and technological advancement can transform ageing industrial processes than the performance of APG-Neuros, the Canadian technology firm which is revolutionising traditional industry. The company was founded in 2005 with the single-minded aim of modernising wastewater treatment. Its headquarters are in Quebec, with manufacturing and testing facilities in New York State. The company’s products are now used in a variety of industrial applications, with more than 6,500 units installed across the world. APG-Neuros is constantly innovating, creating technologically advanced products to achieve maximum energy efficiency and operational flexibility. It describes itself as an environment innovator. Built into the company’s culture is a determination to change the world for the better, working with like-minded partners to develop tailored solutions, product knowledge and mission advice. The APG-Neuros specialists work with individual companies to map out their requirements from drawing board to completion. Included in the equation is artificial intelligence (AI). The company’s products are self-learning, using highly sophisticated simulations to find the most sustainable and efficient answers. During the Covid-19 hiatus, its technicians were able to concentrate on developing new products which are now in operation. The company is determined to maintain a focus on innovation, constantly looking to the next level, listening to customers and the challenges they face, and dealing with issues “beyond the machine”. The CFI.co judging panel, recognising APG-Neuros leadership in the field, has no hesitation in presenting the company with the 2022 award, Best Water Treatment Leadership Global.</p>",
     "content_sha256": "f266fae348fa67fe01de5dee2055205ac36dc336d02e644cab2c418ab1ac57ad",
-    "record_sha256": "e76f23d2e488df14851fbc66f4c4ca1d6551d37d6494ffa4fc43da80f2084351"
+    "record_sha256": "eea69c8dacc23e045812e6570d809ade348f0ae376b0e4ae3eca677beb4434bf"
 }

@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 14:02:29
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2022/teb-private-banking-best-private-banking-services-turkey-2022/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 427ea2e66edf5c700537d9feb264aa88d4607f72bbf1d066a5533d2b777c6ce0
 canonical: 10643-teb-private-banking-best-private-banking-services-turkey-2022.json
 ---

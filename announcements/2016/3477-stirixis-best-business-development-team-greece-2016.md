@@ -7,6 +7,15 @@ published_gmt: 2016-10-17 15:22:56
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/stirixis-best-business-development-team-greece-2016/"
 categories: ["Best Practice"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: e3c6b322e228fe5ac9bfecb17e13010109f662aa00ccfac93ca73914b1600fd9
 canonical: 3477-stirixis-best-business-development-team-greece-2016.json
 ---

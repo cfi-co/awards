@@ -7,6 +7,15 @@ published_gmt: 2022-08-09 13:41:15
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/slaughter-may-best-corporate-commercial-legal-team-united-kingdom-2022/"
 categories: ["Europe", "Legal", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: ff07cf2cd4270a147f80f5c02b1c446f3943f83e93f64419d7681f0fa0fc5116
 canonical: 10625-slaughter-may-best-corporate-commercial-legal-team-united-kingdom-2022.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2016-01-19 13:05:24
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2016/2iq-research-best-investment-tool-europe-2015/"
 categories: ["Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 31dfceeac0a8b995e9c221e1ee4cf3c61218bb81bda47918bc1d69cc0c518c3f
 canonical: 3617-2iq-research-best-investment-tool-europe-2015.json
 ---

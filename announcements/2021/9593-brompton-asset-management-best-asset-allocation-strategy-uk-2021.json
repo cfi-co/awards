@@ -12,8 +12,21 @@
         "Europe",
         "Finance"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9594\" src=\"https://cfi.co/awards/wp-content/uploads/2021/09/Brompton-Asset-Management.jpg\" alt=\"Brompton Asset Management\" width=\"500\" height=\"90\" />\r\n<p style=\"text-align: justify;\">Brompton is a young multi-asset investment management firm staffed by experienced people committed to offering outstanding risk-adjusted returns over the long term. The firm was founded in 2009 by John Duffield and senior colleagues who worked with him in his previous companies, Jupiter Asset Management and New Star Asset Management. It provides investment services to mutual fund investors, private clients and institutions. Brompton describes its investment approach as dynamic asset allocation. The starting point in its investment process is to determine an asset allocation to reflect its prevailing views on economic trends and market valuations. Secondly, the team selects the best fund managers it can find. Lastly, the team blends those managers into portfolios designed to meet investors’ needs. This dynamic asset allocation approach gives Brompton the flexibility to invest globally across all major asset classes, selecting the specialist fund managers that it considers to be the best in each particular asset class. In constructing portfolios, the team manages the risks in clients’ portfolios by diversifying across a range of asset classes, regions, currencies and investment themes, with the aim of ensuring that performance is not narrowly dependent on one central outcome. The team takes a long-term approach while monitoring performance daily and making regular and timely adjustments. The investment team is led by Gill Lakin, who has more than 30 years’ investment experience including 11 years as Brompton’s chief investment officer, providing the firm’s investors with continuity and a consistent investment approach over many years. Gill is supported by colleagues with many years of investment experience between them, specialising in such areas as portfolio construction, fund selection and risk. The benefits of the Brompton multi-asset investment approach were demonstrated in the challenging investment climate of 2020, a year in which four of the six EF Brompton Multi-Manager OEIC funds were in the top quartile and two were in the second. From launch until the end of 2020, five of the six funds had outperformed their sector average and half were in the top quartile. The CFI.co judging panel is impressed by the emphasis on real returns balanced by a healthy respect for risk management. Asset classes include equities, bonds, commercial property and alternative investments such as commodities and hedge funds. Brompton is dedicated to high levels of customer service. The CFI.co judging panel awards Brompton Asset Management winner of the 2021 Best Asset Allocation Strategy (UK).</p>\r\n<p style=\"text-align: justify;\"><em>For details of the funds and their risks please refer to the prospectus or key investor information and supplementary information documents, which can be found on the <span style=\"text-decoration: underline;\"><a href=\"https://www.bromptonam.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Brompton website</a></span>. The value of assets and income generated from them may fall as well as rise. Investors may not get a steady income flow and, on disposal, may not receive all their capital back. Past performance is not an indicator of future performance. Fund performance data sourced from Lipper at 01.01.21. Brompton is not authorised to give investment advice. Please obtain professional advice before making an investment decision.</em></p>",
     "content_sha256": "93f5f49f40651952433f6f1a4c6e5e0c55e233e93b9181368be3e258b19937d0",
-    "record_sha256": "19620bf1a65d3a5e458b1e3a20850e780ea1576a339710a674c93622a2cecbec"
+    "record_sha256": "c1b8f3565a80771200f06484084ef3c313eb20d621ad006dcd4b0c2ffcf5fd59"
 }

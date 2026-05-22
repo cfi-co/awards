@@ -13,8 +13,21 @@
         "Finance",
         "Professional Services"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9993\" src=\"https://cfi.co/awards/wp-content/uploads/2022/01/Finsbury.jpg\" alt=\"Finsbury\" width=\"500\" height=\"139\" />\r\n<p style=\"text-align: justify;\"><strong>Finsbury Growth &amp; Income Trust has found that well-established companies run by conscious and diligent management teams deliver superior returns over the long-term. The Finsbury Growth &amp; Income Trust Board believes responsible ownership of investments to be the most material method of creating ESG impacts and generating long-term, sustainable returns. The Trust invests in high-quality companies with similar ethos. As of October 2021, Finsbury Growth &amp; Income Trust has a £2bn portfolio with a net yield of two percent.</strong></p>\r\n<p style=\"text-align: justify;\">Finsbury Growth &amp; Income Trust has outsourced management of its portfolio to Lindsell Train Limited, a signatory of the UK Stewardship Code and the UN Principles for Responsible Investment. Due diligence is conducted before every investment and ongoing engagement encourages investee companies towards higher ESG standards. The Portfolio Manager evaluates ESG factors throughout the investment lifecycle, looking at risks and issues facing the business, including, but not limited to, corporate strategy, operating performance, competitive positioning, climate action, remuneration, deployment of capital and regulation.</p>\r\n<p style=\"text-align: justify;\">The long-term focus of the portfolio — and its strong governance and performance — inspires trust with institutional investors and wealth managers. The Finsbury Growth &amp; Income Trust Board does not impose quantitative ESG targets but discusses ESG at every Board Meeting with the Portfolio Manager. Finsbury Growth &amp; Income Trust and Lindsell Train have built strong credibility in the ESG and sustainability space.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel presents Finsbury Growth &amp; Income Trust with the 2021 Best ESG Portfolio Management Strategy (UK) Award.</p>",
     "content_sha256": "db0d96767cfe88c7bd965ec0ca73e52ce34d55b055928a48dbf30596c47d0e20",
-    "record_sha256": "9c2c51c433fbe64188f4e1cf31c845f7ac90faa16bb73f4092567d5f21b97927"
+    "record_sha256": "62d2c4d369e582af0d2b24886f401139d3693807aa20db589a5cc96bf880283e"
 }

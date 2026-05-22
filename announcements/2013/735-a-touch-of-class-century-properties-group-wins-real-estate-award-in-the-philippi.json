@@ -12,8 +12,21 @@
         "Finance",
         "Real Estate"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-736\" src=\"https://cfi.co/awards/wp-content/uploads/2013/08/century.png\" alt=\"century\" width=\"284\" height=\"72\" /></p>\r\n<p style=\"text-align: justify;\"><strong>With a passion for quality in both service and product plus an uncannily keen sense for offering the right deal at the right time, the Century Properties Group from the Philippines claims the Real Estate Awards. The CFI.co Judging Panel named the company ‘Best Premier Real Estate Developer, Philippines, 2013’.</strong></p>\r\n<p style=\"text-align: justify;\">The judges were particularly impressed by “the superb value proposition” Century Properties Group consistently offers. Examples cited were the New York-themed Gramercy Residences – currently the tallest building in the Philippines – and the Knightsbridge Building were affluent families may enjoy a taste of London.</p>\r\n<p style=\"text-align: justify;\">A successful and rather unique collaboration between Century Properties and iconic Italian fashion designer Versace has resulted in Milano Residences. This 52-storey building, soon to be opened, features a Versace-inspired façade and is part of Century City, a mega-development marketed as “a new urban experience” set to redefine the skyline of Makati, one of greater Manila’s sixteen cities.</p>\r\n<p style=\"text-align: justify;\">The Philippine economy is on a roll. Over the second quarter of 2013 the growth rate shot up 7.6%. With half its population of 100 million aged less than 26 and remittances from overseas workers totalling over $20 billion annually the market has places to go. The Century Properties Group is exceptionally well placed to take full advantage of both improving purchasing power and the new wealth being created. The Company recorded a 15% year-on-year growth and is set to power ahead in the stylish manner that it has carefully nurtured over the years.</p>",
     "content_sha256": "086fff5cb0ff60877d5481019aa6996d85a2b0ccc0e79c2eeb450d2fbdce2204",
-    "record_sha256": "c28a14b34ac3fc3e000968796c531478d2face3080519538796768a6c398ae33"
+    "record_sha256": "803ee20ba017704a50cd0b620f05635401c801c0d0e3cd54426d155696b1d5e8"
 }

@@ -7,6 +7,15 @@ published_gmt: 2018-05-23 12:55:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/vallstein-best-bank-relationship-management-solutions-global-2018/"
 categories: ["Banking", "Europe", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cb8e23e58c592bf8b8b2d29072f296933ebfeee72790fbcbe7cdab9015f980d4
 canonical: 5512-vallstein-best-bank-relationship-management-solutions-global-2018.json
 ---

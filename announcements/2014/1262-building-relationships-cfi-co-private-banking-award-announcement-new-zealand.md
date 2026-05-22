@@ -7,6 +7,15 @@ published_gmt: 2014-07-30 16:04:08
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2014/building-relationships-cfi-co-private-banking-award-announcement-new-zealand/"
 categories: ["Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7b08cea681690ca78eeef28c882e7ef29d9e65033b77a49df3604f9dea32e676
 canonical: 1262-building-relationships-cfi-co-private-banking-award-announcement-new-zealand.json
 ---

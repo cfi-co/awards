@@ -7,6 +7,15 @@ published_gmt: 2020-09-01 09:12:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/corticeira-amorim-best-raw-materials-sustainability-europe-2020/"
 categories: ["Best Practice", "Europe", "Industries", "Manufacturing", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 4d4541ec9b739c3ad9dfb97741f48361698dea41c00f38d9f764182573e955f9
 canonical: 8179-corticeira-amorim-best-raw-materials-sustainability-europe-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2026-02-24 10:41:40
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2026/africa-merchant-capital-most-impactful-african-private-markets-advisory-uk-2026/"
 categories: ["Africa", "Consultancies", "Europe", "Finance", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: cf7ad2511112c62882ea56fa09ec9c37f72a0943eca837b994bba01705cd9efc
 canonical: 13332-africa-merchant-capital-most-impactful-african-private-markets-advisory-uk-2026.json
 ---

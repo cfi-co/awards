@@ -7,6 +7,15 @@ published_gmt: 2020-08-12 12:09:05
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2020/bank-one-ltd-best-corporate-bank-indian-ocean-2020-best-international-banking-services-indian-ocean-2020/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d5e158249428f849b68a04c13f2911f2de6495073a196752d36f0b75031c88cd
 canonical: 8093-bank-one-ltd-best-corporate-bank-indian-ocean-2020-best-international-banking-se.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2024-09-18 10:43:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/banking/2024/bank-one-limited-best-custodian-bank-indian-ocean-2024/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 72ea12b2d5aefa523ca237edb2466a9d7c610f1e1f927b80a572368f6428946d
 canonical: 12591-bank-one-limited-best-custodian-bank-indian-ocean-2024.json
 ---

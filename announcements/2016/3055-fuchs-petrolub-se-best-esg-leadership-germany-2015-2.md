@@ -7,6 +7,15 @@ published_gmt: 2016-03-23 11:42:25
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/best-practice/2016/fuchs-petrolub-se-best-esg-leadership-germany-2015-2/"
 categories: ["Best Practice", "CSR", "Corporate Governance", "Europe", "Finance", "Industries", "Manufacturing", "Oil &amp; Gas", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7b50b4f962a6c8a35dfaad48baee2ffee0360de0e44278a5b0be777a51480d3
 canonical: 3055-fuchs-petrolub-se-best-esg-leadership-germany-2015-2.json
 ---

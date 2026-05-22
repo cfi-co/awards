@@ -7,6 +7,15 @@ published_gmt: 2015-01-06 13:43:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/finance/2015/mercury-capital-advisors-group-best-fund-raising-team-global-2014/"
 categories: ["Asset Management", "Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b5f9424e4152e0b9767df0f2d480f97e4516d00d8dd987cca39f576c257837df
 canonical: 1475-mercury-capital-advisors-group-best-fund-raising-team-global-2014.json
 ---

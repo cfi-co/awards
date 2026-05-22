@@ -7,6 +7,15 @@ published_gmt: 2020-07-29 14:51:14
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/grupo-ageas-portugal-best-insurance-group-portugal-2020/"
 categories: ["Europe", "Professional Services"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ccd43b11a56c412854ebf3cf8e12d6a4fc1b3f3c4d8a6f1bc67996c2aa785a7
 canonical: 8031-grupo-ageas-portugal-best-insurance-group-portugal-2020.json
 ---

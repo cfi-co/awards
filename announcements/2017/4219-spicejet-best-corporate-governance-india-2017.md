@@ -7,6 +7,15 @@ published_gmt: 2017-05-03 10:06:34
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2017/spicejet-best-corporate-governance-india-2017/"
 categories: ["Asia Pacific", "Best Practice", "Corporate Governance", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c7e859cc1d45e8dc7b1f5c9849901a35e15c8293459cb2bf432f1aa397ee9b7e
 canonical: 4219-spicejet-best-corporate-governance-india-2017.json
 ---

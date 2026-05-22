@@ -7,6 +7,15 @@ published_gmt: 2017-06-01 14:56:41
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/msheireb-properties-best-urban-sustainability-qatar-2017/"
 categories: ["Best Practice", "Industries", "Manufacturing", "Middle East", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: dfe3bfe4f14257b5211ce440cc2cf48bfc331d58eedf28238569027a79df4849
 canonical: 4460-msheireb-properties-best-urban-sustainability-qatar-2017.json
 ---

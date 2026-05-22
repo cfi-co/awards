@@ -7,6 +7,15 @@ published_gmt: 2020-01-21 10:35:55
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2020/the-walt-disney-company-best-corporate-treasury-management-team-united-states-2019/"
 categories: ["Finance", "North America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b931e33a45850ab9b4dccf55c9a8aed3d74ad76788ef3b545ee86085de01c9f0
 canonical: 7192-the-walt-disney-company-best-corporate-treasury-management-team-united-states-20.json
 ---

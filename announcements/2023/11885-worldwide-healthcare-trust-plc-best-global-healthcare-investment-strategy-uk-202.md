@@ -7,6 +7,15 @@ published_gmt: 2023-09-19 08:33:53
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2023/worldwide-healthcare-trust-plc-best-global-healthcare-investment-strategy-uk-2023/"
 categories: ["Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: c00e954c5af7b0d7ac931f1d3e4019222312efd5ceb5b8dc3ad25f10821828fb
 canonical: 11885-worldwide-healthcare-trust-plc-best-global-healthcare-investment-strategy-uk-202.json
 ---

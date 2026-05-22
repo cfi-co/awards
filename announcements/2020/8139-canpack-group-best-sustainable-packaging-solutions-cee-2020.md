@@ -7,6 +7,15 @@ published_gmt: 2020-08-17 08:08:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/canpack-group-best-sustainable-packaging-solutions-cee-2020/"
 categories: ["Europe", "Industries", "Manufacturing"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 8eddaa83a812ae8607fdaa9878b6c1e32cefd3d39f75383dbe07675f3859497b
 canonical: 8139-canpack-group-best-sustainable-packaging-solutions-cee-2020.json
 ---

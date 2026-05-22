@@ -7,6 +7,15 @@ published_gmt: 2018-10-11 13:07:17
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/blue-lagoon-outstanding-contribution-to-eco-tourism-global-2018/"
 categories: ["Best Practice", "Europe", "Projects"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 413defba88ccab97fdf7c49ca5033a3e17392b370a75268118233fb534c21001
 canonical: 5292-blue-lagoon-outstanding-contribution-to-eco-tourism-global-2018.json
 ---

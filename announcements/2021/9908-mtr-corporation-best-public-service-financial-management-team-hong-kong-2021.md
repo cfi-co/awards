@@ -7,6 +7,15 @@ published_gmt: 2021-12-18 05:37:20
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2021/mtr-corporation-best-public-service-financial-management-team-hong-kong-2021/"
 categories: ["Asia Pacific", "Development", "Finance", "Government", "Industries", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 506d3b3f277e2cbff39b1608ac77a754215ec3396caae133bc0f538b3d825339
 canonical: 9908-mtr-corporation-best-public-service-financial-management-team-hong-kong-2021.json
 ---

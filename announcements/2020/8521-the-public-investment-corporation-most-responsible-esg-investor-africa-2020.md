@@ -7,6 +7,15 @@ published_gmt: 2020-12-02 12:47:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/africa/2020/the-public-investment-corporation-most-responsible-esg-investor-africa-2020/"
 categories: ["Africa", "Best Practice", "CSR", "Community Engagement", "Corporate Governance", "Development", "Finance", "Government", "Sustainability"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: f195f33f422408decd9e7d007e17b4102903413356cf60f60a3d2d25943a836f
 canonical: 8521-the-public-investment-corporation-most-responsible-esg-investor-africa-2020.json
 ---

@@ -7,6 +7,15 @@ published_gmt: 2020-10-20 08:20:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/unicredit-best-social-impact-bank-europe-2020/"
 categories: ["Banking", "Best Practice", "Community Engagement", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6913e622fa58f37c8332eb8df2f0d5c8be7b168ab54b9d1b603ddf2f5510e071
 canonical: 8257-unicredit-best-social-impact-bank-europe-2020.json
 ---

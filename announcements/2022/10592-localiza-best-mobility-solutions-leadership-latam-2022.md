@@ -7,6 +7,15 @@ published_gmt: 2022-07-19 08:50:21
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/corporate-leadership/2022/localiza-best-mobility-solutions-leadership-latam-2022/"
 categories: ["Corporate Leadership", "Industries", "Latin America", "Transport"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 7139f88c8becc1c137e6f70fc7ece41bb0b3a8d328ba97a7ed5fb37bf2bab9f4
 canonical: 10592-localiza-best-mobility-solutions-leadership-latam-2022.json
 ---

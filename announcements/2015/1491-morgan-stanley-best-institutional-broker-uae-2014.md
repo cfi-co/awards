@@ -7,6 +7,15 @@ published_gmt: 2015-01-06 13:40:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2015/morgan-stanley-best-institutional-broker-uae-2014/"
 categories: ["Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: d588e66d92b07fd628f2f9aa1e0212e06f94f2c63a13b455e3c784de153242ac
 canonical: 1491-morgan-stanley-best-institutional-broker-uae-2014.json
 ---

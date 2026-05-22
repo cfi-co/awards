@@ -7,6 +7,15 @@ published_gmt: 2012-10-16 16:12:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/latin-america/2012/award-winner-optima-energia-mexico-delivering-energy-saving-solutions-without-up-front-costs/"
 categories: ["Best Practice", "Industries", "Latin America", "Sustainability", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 074b932f23105e076fd7e7c4771cf853a24e203ba39a514d100e05ef27821fd1
 canonical: 271-award-winner-optima-energia-mexico-delivering-energy-saving-solutions-without-up.json
 ---

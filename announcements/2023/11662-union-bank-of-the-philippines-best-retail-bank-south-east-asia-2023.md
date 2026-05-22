@@ -7,6 +7,15 @@ published_gmt: 2023-07-31 08:51:26
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/asia-pacific/2023/union-bank-of-the-philippines-best-retail-bank-south-east-asia-2023/"
 categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 766a964ad893916808e7e977aa14c2055ad55bd24cfc86d759352dad6cf473c0
 canonical: 11662-union-bank-of-the-philippines-best-retail-bank-south-east-asia-2023.json
 ---

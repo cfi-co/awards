@@ -7,6 +7,15 @@ published_gmt: 2017-01-05 14:33:00
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2017/middle-east-capital-group-mecg-best-client-tailored-financial-solutions-mena-2016/"
 categories: ["Finance", "Middle East"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 96fa3588c90f5636c876a169e432244573563ac3f9b9326f977b5af2b9533741
 canonical: 4001-middle-east-capital-group-mecg-best-client-tailored-financial-solutions-mena-201.json
 ---

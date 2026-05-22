@@ -13,8 +13,21 @@
         "Manufacturing",
         "Technology"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-10028\" src=\"https://cfi.co/awards/wp-content/uploads/2022/01/VIA-optronics.jpg\" alt=\"VIA-optronics\" width=\"600\" height=\"106\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Digital displays are a ubiquitous part of modern life. VIA optronics has developed a patented optical bonding process and is using state-of-the-art technology to create customised display, touch panel and camera solutions for clients worldwide.</strong></p>\r\n<p style=\"text-align: justify;\">Headquartered in Nuremberg, the company has production facilities in Germany, China and Japan, sales subsidiaries in Taiwan and the US as well as a subsidiary for design and development of camera solutions in the Philippines.</p>\r\n<p style=\"text-align: justify;\">VIA optronics has a global workforce of 800 employees, including R&amp;D. The company tailors solutions to each project’s needs, working with clients in the automotive, consumer electronics, and industrial markets. VIA optronics uses a proprietary silicon-based bonding material — that’s strong and durable — and copper-mesh touch-sensor technology to create displays and systems for high-demand applications, including extreme temperatures, bright sunlight and harsh environments. The company’s displays are easy to read even in bright sunlight and are rugged enough for rough environments.</p>\r\n<p style=\"text-align: justify;\">The company is a strategic partner of Corning, a materials science pioneer and glass manufacturer, for solutions leveraging Cornings Coldform&#x2122; Techology for automotive interior displays.</p>\r\n<p style=\"text-align: justify;\">VIA optronics has a growth strategy centered on continued investments in research and development to further enhance its solutions. The CFI.co judging panel points to the company’s next-generation technology, multidisciplinary team and farsighted management as factors in the selection of VIA optronics as the 2021 award winner for Best Technology Innovation Value Creation Strategy (Germany).</p>",
     "content_sha256": "09714afb2b329fb6dd40d8bda3b65c071d7c3345f39b576f353c5bdebcd88700",
-    "record_sha256": "9fbbcf617b6cfec44a75afe4f44ee6052b086279580b8cc67052b6861f2af2ec"
+    "record_sha256": "8c46fb1abb32d5bbdfed25ead624079b4b0991830cf0af4518474291681689c3"
 }

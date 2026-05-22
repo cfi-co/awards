@@ -10,8 +10,21 @@
     "categories": [
         "Consultancies"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6871\" src=\"https://cfi.co/awards/wp-content/uploads/2019/08/Radtac.jpg\" alt=\"Radtac\" width=\"400\" height=\"117\" />\r\n<p style=\"text-align: justify;\">Digitise or die — that’s the dilemma facing companies as the Fourth Industrial Revolution hits its stride. But for British business transformation consultant Radtac, it’s about evolution, not revolution. The company was founded in 1998, and has team bases in countries as diverse as America, Portugal, Pakistan and Finland. Radtac chooses its team members for brilliance and balance. It seeks capability and experience, and empowers its staff to act for the shared benefit of client, company, and community. Radtac differentiates itself from other global players by choosing bite-sized contracts over long-term commitments. Larger corporations tend to require two-year commitments for transformation services, but Radtac presents more nimble three-month plans that allow customers to measure and monitor progress. It tailors’ solutions for each client’s goals through its four practices areas addressing innovation, team and scaling agility and a wider business agility. For Radtac, agility and stability are not mutually exclusive. With mastery of both principles, companies can achieve a solid footing without losing that dynamic spark. The company unites thought-leaders, change-makers, and experts from around the world to push the boundaries of business transformation. The knowledge it has amassed through its research and experience is available via its website and blogs. Radtac also offers training courses, coaching and consulting services, and personnel sourcing. The firm’s clients report faster innovation and reduced time-to-market, plus improved customer experience, product quality, and employee morale. Radtac faced highly competent competitors for this award, but the CFI.co judging panel ultimately decided that the company’s nimble approach set it apart. Radtac is the winner of the 2019 award for Most Innovative Business Transformation Consultancy (UK).</p>",
     "content_sha256": "654de621a6288ee0454fa6b0000bb7d178372db179a5c56453bad4ddd54c030b",
-    "record_sha256": "fb4017f982f77501ba75f607930d52942d7689dab945a25f1cd7122a6fd4b3e3"
+    "record_sha256": "c2b112a3da24c174943a48d1141d573b999e49e9c8ab5d4a0f0a1378aef41787"
 }

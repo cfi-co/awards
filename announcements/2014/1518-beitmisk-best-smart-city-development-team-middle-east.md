@@ -7,6 +7,15 @@ published_gmt: 2014-12-24 10:24:39
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/middle-east/2014/beitmisk-best-smart-city-development-team-middle-east/"
 categories: ["Development", "Industries", "Middle East", "Real Estate"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 127b4eba0b63d3df2b38fd29a301224e6ac5223ae7ea05939a1a721570f512e0
 canonical: 1518-beitmisk-best-smart-city-development-team-middle-east.json
 ---

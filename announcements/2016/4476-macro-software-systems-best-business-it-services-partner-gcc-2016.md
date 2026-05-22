@@ -7,6 +7,15 @@ published_gmt: 2016-07-20 10:19:02
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/industries/2016/macro-software-systems-best-business-it-services-partner-gcc-2016/"
 categories: ["Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: aae5078451550df4b6652f0170b07f1f04655b7125b56eac4fe9c8648d9fa220
 canonical: 4476-macro-software-systems-best-business-it-services-partner-gcc-2016.json
 ---

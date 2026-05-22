@@ -12,8 +12,21 @@
         "Finance",
         "Islamic Banking"
     ],
+    "classification": {
+        "content_class": "award_rationale",
+        "editorial_lens": "constructive_positive_lens",
+        "independence_status": "independent_editorial",
+        "sponsor_disclosure": "none",
+        "sponsor_name": "",
+        "article_status": "published",
+        "historical_status": "current_at_publication",
+        "correction_status": "none",
+        "archive_policy": "no_delete",
+        "provenance_layer": "github_versioned",
+        "wayback_status": "pending_submission"
+    },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1100\" src=\"https://cfi.co/awards/wp-content/uploads/2014/01/Excellencia-IM.png\" alt=\"Excellencia-IM\" width=\"226\" height=\"84\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Excellencia Investment Management, Luxemburg, established in 2012, is CFI.co’s promising newcomer to the market. This firm focuses on long term investment in private companies according to the principles of Islamic finance.</strong></p>\r\n<p style=\"text-align: justify;\">The Judging Panel feels that they make have discovered a rising star as Excellencia is commencing operations as an Islamic bank in 2014. Management is clear that this bank will be offering products and services for non-Muslims as well as Muslim clients and staffed by professionals recruited in Europe.</p>\r\n<p style=\"text-align: justify;\">The judges commented that, ‘The management of this new bank can be relied upon as a responsible ambassador for Islamic banking. Their products and services are likely to attract a diverse client base and encourage the development of Islamic banking services in continental Europe’.</p>",
     "content_sha256": "7a21993fc5e86f2fcba4e53ebaf2653bce4ab04b7c109f18013bb2ced3bd7ede",
-    "record_sha256": "0a838616f14f067a9a20371b95869f4698619a864c23fc4531bc34354f229078"
+    "record_sha256": "6ba5b829cdb8f212b9f8cb41d748ebb638d321a8874dc68fe88d6b6695783e9d"
 }

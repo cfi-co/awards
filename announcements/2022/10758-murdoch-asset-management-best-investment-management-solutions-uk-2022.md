@@ -7,6 +7,15 @@ published_gmt: 2022-09-08 05:00:58
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2022/murdoch-asset-management-best-investment-management-solutions-uk-2022/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: b02b1add7d41f7dec1e69235268d82d724aa4a6557602f2e2c10ca1b8fdefb14
 canonical: 10758-murdoch-asset-management-best-investment-management-solutions-uk-2022.json
 ---

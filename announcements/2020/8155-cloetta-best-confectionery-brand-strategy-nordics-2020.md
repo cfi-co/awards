@@ -7,6 +7,15 @@ published_gmt: 2020-08-24 09:06:46
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2020/cloetta-best-confectionery-brand-strategy-nordics-2020/"
 categories: ["Europe", "Industries"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 6a2028339a30795ba9a280a9fe3199ca078bf97a0309a5e83566af2643cefa1c
 canonical: 8155-cloetta-best-confectionery-brand-strategy-nordics-2020.json
 ---

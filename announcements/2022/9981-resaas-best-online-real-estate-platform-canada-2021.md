@@ -7,6 +7,15 @@ published_gmt: 2022-01-18 09:48:35
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/north-america/2022/resaas-best-online-real-estate-platform-canada-2021/"
 categories: ["North America", "Professional Services", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 3ae88adbdfbcf41b9c452467a9642c6dc903b198a8fbd3725173d5a225609f1d
 canonical: 9981-resaas-best-online-real-estate-platform-canada-2021.json
 ---

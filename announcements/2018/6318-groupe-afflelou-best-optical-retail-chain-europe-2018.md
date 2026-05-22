@@ -7,6 +7,15 @@ published_gmt: 2018-11-19 12:35:43
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2018/groupe-afflelou-best-optical-retail-chain-europe-2018/"
 categories: ["Customer Satisfaction", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 309adac0776157e819c5dd89e6887308055869fcb23160c8d265f369cd2f283c
 canonical: 6318-groupe-afflelou-best-optical-retail-chain-europe-2018.json
 ---

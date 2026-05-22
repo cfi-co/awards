@@ -7,6 +7,15 @@ published_gmt: 2019-07-10 11:49:33
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2019/bawag-group-ag-best-banking-group-governance-dach-2019/"
 categories: ["Banking", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 0c500cb7c8a432c5783cd053a686bbccb80ec788045c6238fd61dea67134e09b
 canonical: 7440-bawag-group-ag-best-banking-group-governance-dach-2019.json
 ---

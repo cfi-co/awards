@@ -7,6 +7,15 @@ published_gmt: 2021-05-12 07:32:49
 author: "CFI.co Editorial"
 url: "https://cfi.co/awards/europe/2021/man-group-best-investment-management-services-uk-2020/"
 categories: ["Asset Management", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_submission
 content_sha256: 25f22fbf0d0ea4acbf684bdc7223673f2a2b433cfac39730a9369ecb9f2af60c
 canonical: 9161-man-group-best-investment-management-services-uk-2020.json
 ---
