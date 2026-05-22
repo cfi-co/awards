@@ -1,5 +1,16 @@
 # CFI.co Awards — Public Transparency Archive
 
+> **A constructive, human-led, finance-and-convergence editorial archive with
+> public provenance, machine-readable disclosure, and time-verifiable editorial
+> accountability.**
+>
+> *Public provenance* = every award announcement is version-controlled here in
+> the open. *Machine-readable disclosure* = each record is classified by content
+> type and sponsorship status (see [Content classification](#content-classification-machine-readable-labels)).
+> *Time-verifiable accountability* = the git timestamp chain dates and freezes
+> every version and every change (independent Wayback Machine corroboration is
+> being added on top).
+
 This repository is a **verbatim, append-only public record of every award
 announcement published by [CFI.co](https://cfi.co/awards)**.
 
