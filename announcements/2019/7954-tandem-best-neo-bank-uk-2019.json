@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20221203051627",
+        "wayback_snapshot_url": "http://web.archive.org/web/20221203051627/https://cfi.co/awards/europe/2019/tandem-best-neo-bank-uk-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7955\" src=\"https://cfi.co/awards/wp-content/uploads/2020/07/Tandem.jpg\" alt=\"Tandem\" width=\"400\" height=\"120\" />\r\n<p style=\"text-align: justify;\">When Tandem Money Ltd was founded six years ago its mission was twofold. Firstly, to improve its customers' lives by making banking more accessible therefore helping them to understand their money and make the best use of it. Secondly, to use highly sophisticated data models to connect with customers in whole new ways. The bank had a unique launch with 11,000 investors-cum-customers who it calls it “co-founders” to demonstrate the closeness of the relationship. Tandem differentiates itself from other banks in the way its people always consider how well a new initiative will work for the customer and how it helps to solve real money problems; that is something that has been embedded in its culture from day one. The app is particularly user-friendly and shows the customer their balance, upcoming bills and how much they can spend, it sends alerts when a bill increases, or a payment is received and helps reduce bills by finding better deals thereby saving them money. In January 2018, Tandem acquired Harrods Bank, gaining 10,000 new customers, a major coup for a 'challenger' bank and the following month it launched a credit card which guarantees the holder cashback on every purchase and no exchange fees when spending abroad. In April of the same year, it introduced a fixed term savings account with market-leading rates. Having enjoyed rapid growth, including a second acquisition, the money management app Pariti, Tandem is very much looking to the future with 500,000 customers in the UK and is currently expanding in Europe and Asia. The judging panel took all these factors into account when naming Tandem as Best Neo Bank UK 2019.</p>",
     "content_sha256": "6b9750717617567e458052ffea8229dd40f0f98f9e82ad30f145748b37d68e69",
-    "record_sha256": "f6b79761304484ef7d858ddc140114c6b61be6689b0772f8358a74ff002cf6cb"
+    "record_sha256": "feda6e57a578555cd8074eb521bb7534b2110a035a4da9afd3dca2ab1bf393e2"
 }

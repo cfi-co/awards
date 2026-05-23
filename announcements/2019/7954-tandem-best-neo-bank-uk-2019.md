@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203051627
+wayback_snapshot_url: "http://web.archive.org/web/20221203051627/https://cfi.co/awards/europe/2019/tandem-best-neo-bank-uk-2019/"
 content_sha256: 6b9750717617567e458052ffea8229dd40f0f98f9e82ad30f145748b37d68e69
 canonical: 7954-tandem-best-neo-bank-uk-2019.json
 ---
