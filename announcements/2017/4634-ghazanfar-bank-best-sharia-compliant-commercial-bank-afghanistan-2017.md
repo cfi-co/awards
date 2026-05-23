@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 71423648ca1a3a481e27de63ee3a913beb80c947baca9ba492b49b1202555713
 canonical: 4634-ghazanfar-bank-best-sharia-compliant-commercial-bank-afghanistan-2017.json
 ---
