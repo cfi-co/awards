@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b078899bfff9668fa87ebe824dbf8ef3190d27e3a4e5ffa089fa51a567db43cc
 canonical: 5135-emk-capital-best-esg-responsible-investment-team-uk-2017.json
 ---
