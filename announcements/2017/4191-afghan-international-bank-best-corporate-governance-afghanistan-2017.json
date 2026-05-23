@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921111009",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921111009/https://cfi.co/awards/asia-pacific/2017/afghan-international-bank-best-corporate-governance-afghanistan-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4192\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/AIIB.jpg\" alt=\"\" width=\"381\" height=\"56\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A reliable, efficient, and trusted partner to multilateral entities, businesses, and private individuals, Afghan International Bank (AIB) has gained a solid reputation for operational excellence. The bank adheres to international best practices which permeate throughout the organisation and provide the backdrop to, and framework for, AIB’s sustained success.</strong></p>\r\n<p style=\"text-align: justify;\">The bank has implemented best-in-class standards to fight money laundering and put in place comprehensive measures and processes that ensure full compliance with both domestic and global financial regulation. The full force of the board is applied to monitor and evaluate performance quarterly. The board is backed up by a risk committee which gauges the quality of operations on a day-to-day basis.</p>\r\n<p style=\"text-align: justify;\">In 2017, AIB expects to continue its drive to fine tune the organisation and upgrade the professional qualifications of staff members in order to create a local pool of expertise that, in time, may take over duties from expatriate professionals. A number of local professionals have already assumed leadership positions and are actively engaged in setting up new organisational structures that will support AIB’s dedication to excellence and customer service.</p>\r\n<p style=\"text-align: justify;\">AIB is no stranger to the CFI.co judging panel. The judges have closely followed the bank’s progress since 2013 and handed AIB three awards previously. This year, the judging panel again agrees that the sustained effort of the bank to excel in corporate governance merits recognition. The judges are pleased to offer Afghan International Bank the 2017 Best Corporate Governance Afghanistan Award.</p>",
     "content_sha256": "ab69cd48e7642c9e8ce4e85c96218d7a76693e9e4af1ff20d8bb47a215d0bcb5",
-    "record_sha256": "94551545ca543419d29071bc1adc63afe7a6ac24907440f89c2ee2868929d5a5"
+    "record_sha256": "9bb5edf219de9516c036bbe2442a05a9d76ff20ece8dc69872057ef82a6fbc17"
 }
