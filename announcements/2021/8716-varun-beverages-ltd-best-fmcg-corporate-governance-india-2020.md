@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104705
+wayback_snapshot_url: "http://web.archive.org/web/20210228104705/https://cfi.co/awards/asia-pacific/2021/varun-beverages-ltd-best-fmcg-corporate-governance-india-2020/"
 content_sha256: ca9e161eb047abb9ea011093f5963d208b68f0aeeaae7bd5aabd1d94f964472c
 canonical: 8716-varun-beverages-ltd-best-fmcg-corporate-governance-india-2020.json
 ---
