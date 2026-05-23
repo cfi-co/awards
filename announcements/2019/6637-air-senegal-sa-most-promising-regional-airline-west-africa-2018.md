@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507120950
+wayback_snapshot_url: "http://web.archive.org/web/20190507120950/https://cfi.co/awards/africa/2019/air-senegal-sa-most-promising-regional-airline-west-africa-2018/"
 content_sha256: ef5221e20b8f6b86a1f7075613c0451899c2cf3f490fb94906e13a0ddd4836cc
 canonical: 6637-air-senegal-sa-most-promising-regional-airline-west-africa-2018.json
 ---
