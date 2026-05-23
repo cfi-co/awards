@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190902131653
+wayback_snapshot_url: "http://web.archive.org/web/20190902131653/https://cfi.co/awards/africa/2014/positive-insights-in-africa-our-2014-market-research-winner/"
 content_sha256: 69cb0e69f3b3396cc9f09860c0820da59fd9c0e9dcf67139222c8906ee31c7b5
 canonical: 1524-positive-insights-in-africa-our-2014-market-research-winner.json
 ---
