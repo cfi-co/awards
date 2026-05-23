@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: db04eb5b530056ef98a1bbb2014690daa6d1d2abfd221573147f22709e2af30c
 canonical: 10146-fitch-ratings-best-credit-services-global-2022.json
 ---
