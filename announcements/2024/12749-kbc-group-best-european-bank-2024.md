@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124142338
+wayback_snapshot_url: "http://web.archive.org/web/20250124142338/https://cfi.co/awards/banking/2024/kbc-group-best-european-bank-2024/"
 content_sha256: 181ddd86c0fb36d13397bd11efa37ddcde857aaf202cb291a87dce7672e53500
 canonical: 12749-kbc-group-best-european-bank-2024.json
 ---
