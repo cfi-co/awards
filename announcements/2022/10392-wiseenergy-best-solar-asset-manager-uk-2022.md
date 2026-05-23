@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220514153618
+wayback_snapshot_url: "http://web.archive.org/web/20220514153618/https://cfi.co/awards/europe/2022/wiseenergy-best-solar-asset-manager-uk-2022/"
 content_sha256: a950c7f04f9b49c7e6c53d6e135380ffea3cf916276a50d83af9de5ea51ec224
 canonical: 10392-wiseenergy-best-solar-asset-manager-uk-2022.json
 ---
