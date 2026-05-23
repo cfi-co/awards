@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120075104
+wayback_snapshot_url: "http://web.archive.org/web/20210120075104/https://cfi.co/awards/europe/2021/kuber-ventures-best-alternative-investment-platform-uk-2020/"
 content_sha256: e0deb00c7460bf20326638a0dd39e78cc2143e4d4b020958ee8b93be81a06be2
 canonical: 8599-kuber-ventures-best-alternative-investment-platform-uk-2020.json
 ---
