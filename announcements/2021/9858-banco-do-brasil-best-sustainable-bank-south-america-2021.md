@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211230110058
+wayback_snapshot_url: "http://web.archive.org/web/20211230110058/https://cfi.co/awards/latin-america/2021/banco-do-brasil-best-sustainable-bank-south-america-2021/"
 content_sha256: ef4a01c1b63b523f8e30f30562fa84800ebe64ee3d5448d53b4de3b4b20c273b
 canonical: 9858-banco-do-brasil-best-sustainable-bank-south-america-2021.json
 ---
