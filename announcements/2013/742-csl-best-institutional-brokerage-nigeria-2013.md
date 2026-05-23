@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409053112
+wayback_snapshot_url: "http://web.archive.org/web/20140409053112/http://cfi.co/awards/africa/2013/csl-best-institutional-brokerage-nigeria-2013/"
 content_sha256: a16dee01b0d24436f6169a060bbc3203849854c9cd5e0a306b31fb6d8aa3f4b0
 canonical: 742-csl-best-institutional-brokerage-nigeria-2013.json
 ---
