@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: be72aa88e32d37fedd403e70dcc752bc67a0442659d20cdf59bb7a17783b2075
 canonical: 5248-cartier-saada-best-heritage-exporter-morocco-2017.json
 ---
