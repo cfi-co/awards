@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923190351
+wayback_snapshot_url: "http://web.archive.org/web/20230923190351/https://cfi.co/awards/best-practice/2023/containers-printers-best-sustainable-packaging-technology-most-innovative-packaging-team-global-2023/"
 content_sha256: 571fe8f5a1f8c13dd7fb0fb07af8296813d8ec31035e38c5a3b45878865af584
 canonical: 11702-containers-printers-best-sustainable-packaging-technology-most-innovative-packag.json
 ---
