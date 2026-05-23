@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120071310
+wayback_snapshot_url: "http://web.archive.org/web/20210120071310/https://cfi.co/awards/europe/2020/berkeley-energia-plc-outstanding-contribution-to-sustainable-mining-europe-2020/"
 content_sha256: 22d8c7856ab6b4e5169d63e7c88ebccaad519ab7b6a8c06603806c21710d6c79
 canonical: 8580-berkeley-energia-plc-outstanding-contribution-to-sustainable-mining-europe-2020.json
 ---
