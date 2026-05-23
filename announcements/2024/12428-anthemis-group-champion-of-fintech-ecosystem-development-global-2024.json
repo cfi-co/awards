@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250113031446",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250113031446/https://cfi.co/awards/development/2024/anthemis-group-champion-of-fintech-ecosystem-development-global-2024/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12429\" src=\"https://cfi.co/awards/wp-content/uploads/2024/06/Anthemis-jpg.webp\" alt=\"Anthemis\" width=\"500\" height=\"83\" />\r\n<p style=\"text-align: justify;\">Anthemis Group has been at the forefront of FinTech innovation, playing a pivotal role in shaping the financial services landscape. Founded in 2010, it has been instrumental in fostering the development of a dynamic and inclusive FinTech ecosystem. Anthemis has created a distinctive investment platform that focuses on nurturing startups poised to revolutionise financial services through digital technology. The firm’s commitment to diversity and inclusion is evident in its investment strategies, with significant capital directed towards companies led by women and people of colour. Anthemis’s unique approach combines capital deployment with strategic advisory services, enabling startups to not only receive financial backing but also benefit from expertise in scaling and navigating complex regulatory environments. The company’s deep-rooted belief in collaboration has led to strong partnerships with major financial institutions, facilitating a seamless integration of innovative FinTech solutions into the traditional financial sector. Anthemis’s influence extends beyond investment, actively contributing to thought leadership and policy discussions that shape the future of financial technology. Its vision of creating a more inclusive and innovative financial ecosystem is realised through a carefully curated portfolio of over 250 companies, each contributing to the transformation of the industry. Anthemis’s leadership in the FinTech space is underpinned by a steadfast commitment to sustainable and ethical investment practices, ensuring that its impact is not only transformative but also socially responsible. The CFI.co Judging Panel congratulates Anthemis Group on winning the 2024 award for Champion of FinTech Ecosystem Development (Global).</p>",
     "content_sha256": "abcc1fe64c2ec29174fd62aa26ea93ea4486d2d1b7b4c7fde0d3b90614a3229f",
-    "record_sha256": "f42ffd6a5b84e7b42926fe8daca83bb197fe4060cd2f49a101348f1963efcc55"
+    "record_sha256": "23d514b8a8c37035060a1902790191167a840eaa57ad33e1c8d74dd1738bb4d7"
 }
