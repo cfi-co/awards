@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200701223042
+wayback_snapshot_url: "http://web.archive.org/web/20200701223042/https://cfi.co/awards/europe/2020/axa-im-best-esg-global-asset-manager-france-2020/"
 content_sha256: e5dd957c05562ab4ca045a06949e1618fe91ea05838b5d8daeccdcf39a7aae48
 canonical: 7436-axa-im-best-esg-global-asset-manager-france-2020.json
 ---
