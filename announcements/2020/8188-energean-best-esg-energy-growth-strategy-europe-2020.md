@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200907102826
+wayback_snapshot_url: "http://web.archive.org/web/20200907102826/https://cfi.co/awards/europe/2020/energean-best-esg-energy-growth-strategy-europe-2020/"
 content_sha256: b313f682870dbb5f57437e86b295cf977c77a67795d2f5f9888273e3ecdb8448
 canonical: 8188-energean-best-esg-energy-growth-strategy-europe-2020.json
 ---
