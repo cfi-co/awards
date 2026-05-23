@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420132606
+wayback_snapshot_url: "http://web.archive.org/web/20240420132606/https://cfi.co/awards/latin-america/2023/klavi-best-open-finance-solutions-provider-brazil-2023/"
 content_sha256: 5ae786e19b37ad6310f87c877e15c06287247e760e5710726a41b77080e8da58
 canonical: 11559-klavi-best-open-finance-solutions-provider-brazil-2023.json
 ---
