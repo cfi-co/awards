@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614184652
+wayback_snapshot_url: "http://web.archive.org/web/20210614184652/https://cfi.co/awards/europe/2012/berenberg-bank-win-an-award-for-best-private-bank-in-germany-2012/"
 content_sha256: cc469cea6c0fda8a5914144f3c858c76ddcd137c24a4d20fb183c70f07c5b902
 canonical: 102-berenberg-bank-win-an-award-for-best-private-bank-in-germany-2012.json
 ---
