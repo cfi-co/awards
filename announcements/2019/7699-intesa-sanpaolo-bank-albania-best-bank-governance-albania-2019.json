@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6127\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Intesa.png\" alt=\"Intesa\" width=\"349\" height=\"67\" />\r\n<p style=\"text-align: justify;\">Intesa Sanpaolo Bank Albania is a financial institution that abides by strong ethical codes and uncompromising standards of corporate conduct. There are 35 bank branches strategically spread across Albania, providing clients with a suite of financial services and solutions. The bank’s improvement initiatives are dictated by cus-tomer demand, monitored via a programme entitled Listening 100%, customer surveys, and Instant Feedback Platform. The bank has identified key contributors to economic growth, including female entrepreneurism, agricultural business and eco-tourism, and offers special-rate lending to strengthen these sectors. Intesa Sanpaolo Bank Albania approved subsidised loans worth €2m in the last years through its Women in Business programme; in 2019, the credit line has been raised to €5m to be disbursed in the next 5 years. Internet and mobile banking services provide real-time account information and facilitate payments, even in foreign curren-cies. Customers can also opt for multi-term deposit accounts in Lek, Euros or US Dollars. The bank offers its staff flexible working options to boost motivation and productivity. Intesa Sanpaolo Bank Albania has come to the attention of the CFI.co judging panel in the past for its role in driving national economic development. The judges are pleased to see the trend continue, and Intesa Sanpaolo Bank Albania wins the 2019 award for Best Bank Governance (Albania).</p>",
     "content_sha256": "dc376656e4952a31882ed9d37004eb0d22f396f73f3c43c8eced3e2901608349",
-    "record_sha256": "61abdceca74ac338e52fb48b71af648bb72ee4ef4595e8860395a62e7148f750"
+    "record_sha256": "3bba99376708c4bf2b8885422ec0931fd951124fb2d8a29052f0e0ae535d4f5d"
 }
