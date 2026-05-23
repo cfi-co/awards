@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203234325
+wayback_snapshot_url: "http://web.archive.org/web/20201203234325/https://cfi.co/awards/europe/2020/banca-generali-best-esg-private-banking-solutions-italy-2020/"
 content_sha256: 28eb32846182e631b2024e2795e9898e2fa9726ae2f30aa97ee47580223fd9a0
 canonical: 8289-banca-generali-best-esg-private-banking-solutions-italy-2020.json
 ---
