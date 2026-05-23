@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330014632
+wayback_snapshot_url: "http://web.archive.org/web/20230330014632/https://cfi.co/awards/europe/2023/worthwhile-capital-partners-best-esg-specialist-fund-solutions-europe-2022/"
 content_sha256: 62bca78be270be5980ee7d5aad175cc1c37e4335f59e94205a23c8362fe1451c
 canonical: 11142-worthwhile-capital-partners-best-esg-specialist-fund-solutions-europe-2022.json
 ---
