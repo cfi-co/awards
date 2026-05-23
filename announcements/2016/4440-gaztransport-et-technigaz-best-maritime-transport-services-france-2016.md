@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190526193348
+wayback_snapshot_url: "http://web.archive.org/web/20190526193348/https://cfi.co/awards/industries/2016/gaztransport-et-technigaz-best-maritime-transport-services-france-2016/"
 content_sha256: 8eb9858ac034c81adccea626ab7a55f2343b2b2f6b0bc858e725b264aed56c2a
 canonical: 4440-gaztransport-et-technigaz-best-maritime-transport-services-france-2016.json
 ---
