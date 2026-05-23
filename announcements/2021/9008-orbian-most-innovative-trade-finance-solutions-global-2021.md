@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418053449
+wayback_snapshot_url: "http://web.archive.org/web/20210418053449/https://cfi.co/awards/north-america/2021/orbian-most-innovative-trade-finance-solutions-global-2021/"
 content_sha256: 3c2bbac212e54b85346c638940bd5722b9b5186aabe3dd6c573cd17d2d9372bf
 canonical: 9008-orbian-most-innovative-trade-finance-solutions-global-2021.json
 ---
