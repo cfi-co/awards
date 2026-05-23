@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260330162159
+wayback_snapshot_url: "http://web.archive.org/web/20260330162159/https://cfi.co/awards/finance/exchanges-brokers/2026/xm-com-best-gold-broker-2026/"
 content_sha256: 2517db080474dfeed56d0b6768f227a8ff55853c9b294b3ce5de8b9813277d4b
 canonical: 13359-xm-com-best-gold-broker-2026.json
 ---
