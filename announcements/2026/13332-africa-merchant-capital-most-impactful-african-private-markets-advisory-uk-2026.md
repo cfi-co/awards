@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315121006
+wayback_snapshot_url: "http://web.archive.org/web/20260315121006/https://cfi.co/awards/africa/2026/africa-merchant-capital-most-impactful-african-private-markets-advisory-uk-2026/"
 content_sha256: cf7ad2511112c62882ea56fa09ec9c37f72a0943eca837b994bba01705cd9efc
 canonical: 13332-africa-merchant-capital-most-impactful-african-private-markets-advisory-uk-2026.json
 ---
