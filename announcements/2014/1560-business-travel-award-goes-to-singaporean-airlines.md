@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 32607fdff699dc493cf60dfcc2a442f4571210d9c54915374225d5159336f8a9
 canonical: 1560-business-travel-award-goes-to-singaporean-airlines.json
 ---

@@ -19,10 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/sa.png\" alt=\"\" width=\"221\" height=\"228\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Singapore Airlines Business Class provides passengers pleasant entertainment, fine dining and a good night’s sleep in a very well thought out and spacious environment. </strong></p>\r\n<p style=\"text-align: justify;\">All in all, voters in our 2014 Customer Satisfaction Awards Programme make it clear that flying with Singapore is a wonderful experience with outstanding inflight services.</p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel is pleased to award this airline ‘Best Customer Satisfaction, Business Travel, 2014.’</p>",
     "content_sha256": "32607fdff699dc493cf60dfcc2a442f4571210d9c54915374225d5159336f8a9",
-    "record_sha256": "03f513ecc9bf83733645a313cd54dc28ad98362142992d05f4b0603b7f22876c"
+    "record_sha256": "6de7857bf7ee99ea9e50c0b66ba9c8277afb1ae1fbc02d064462f8c06166ad34"
 }
