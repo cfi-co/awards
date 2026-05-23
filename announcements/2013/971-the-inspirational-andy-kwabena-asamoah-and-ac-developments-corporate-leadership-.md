@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409003039
+wayback_snapshot_url: "http://web.archive.org/web/20140409003039/http://cfi.co/awards/africa/2013/the-inspirational-andy-kwabena-asamoah-and-ac-developments-corporate-leadership-award-ghana-2013/"
 content_sha256: dbfe0e99a8622c83f75ce483c66f0b9ecfbbc3da993e38d7080fb84a2c5d5df3
 canonical: 971-the-inspirational-andy-kwabena-asamoah-and-ac-developments-corporate-leadership-.json
 ---
