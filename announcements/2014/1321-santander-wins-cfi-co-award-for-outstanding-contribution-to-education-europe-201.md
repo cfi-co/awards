@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c552b61ccbfa898a16756b066a5918db3a821307e9c5f86891059da49b15ceee
 canonical: 1321-santander-wins-cfi-co-award-for-outstanding-contribution-to-education-europe-201.json
 ---
