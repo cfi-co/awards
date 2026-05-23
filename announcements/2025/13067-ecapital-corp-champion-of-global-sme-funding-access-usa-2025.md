@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251007001007
+wayback_snapshot_url: "http://web.archive.org/web/20251007001007/https://cfi.co/awards/north-america/2025/ecapital-corp-champion-of-global-sme-funding-access-usa-2025/"
 content_sha256: bebd98ca3fb48963f55517d0d499ee3f9e67de7851312a873fab18453364ec47
 canonical: 13067-ecapital-corp-champion-of-global-sme-funding-access-usa-2025.json
 ---
