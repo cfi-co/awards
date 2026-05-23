@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315120706
+wayback_snapshot_url: "http://web.archive.org/web/20260315120706/https://cfi.co/awards/europe/2026/enso-gmbh-best-hydro-power-and-renewable-energies-investment-partner-europe-2025/"
 content_sha256: a0c8c0764bf6dd15b889132dc42cf9e27d45fb56fe857ca458f8e50c21a537a1
 canonical: 13326-enso-gmbh-best-hydro-power-and-renewable-energies-investment-partner-europe-2025.json
 ---
