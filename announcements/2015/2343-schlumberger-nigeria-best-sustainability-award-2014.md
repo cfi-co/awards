@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150713023215
+wayback_snapshot_url: "http://web.archive.org/web/20150713023215/http://cfi.co/awards/africa/2015/schlumberger-nigeria-best-sustainability-award-2014/"
 content_sha256: 245c6c9c3e7cd7220001df638be6faab6117d28889df94422f58120eb71e343b
 canonical: 2343-schlumberger-nigeria-best-sustainability-award-2014.json
 ---
