@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f48ca2f94d68665f85f5bc5cbb57b0daf22a8083a9cc957c820976a8d7423a55
 canonical: 6441-max-burger-best-sustainable-restaurant-chain-europe-2018.json
 ---
