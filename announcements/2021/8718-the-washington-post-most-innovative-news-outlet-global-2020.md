@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228095939
+wayback_snapshot_url: "http://web.archive.org/web/20210228095939/https://cfi.co/awards/north-america/2021/the-washington-post-most-innovative-news-outlet-global-2020/"
 content_sha256: b6bc25bdd5726c8dd684ddadcf01df3e6ab1dd2eec8d80330ec330eb82625e6c
 canonical: 8718-the-washington-post-most-innovative-news-outlet-global-2020.json
 ---
