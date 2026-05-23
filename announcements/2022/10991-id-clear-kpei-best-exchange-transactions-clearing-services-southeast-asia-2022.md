@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230202025530
+wayback_snapshot_url: "http://web.archive.org/web/20230202025530/https://cfi.co/awards/finance/exchanges-brokers/2022/id-clear-kpei-best-exchange-transactions-clearing-services-southeast-asia-2022/"
 content_sha256: 8578baf3c475b73591f394673a04acf3f95d632b6ed0904ba53d3ec9673e66d1
 canonical: 10991-id-clear-kpei-best-exchange-transactions-clearing-services-southeast-asia-2022.json
 ---
