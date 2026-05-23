@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723012900
+wayback_snapshot_url: "http://web.archive.org/web/20190723012900/https://cfi.co/awards/middle-east/2018/batelco-group-most-digitally-inclusive-telecom-mena-2018/"
 content_sha256: b90ce00146e8928b77f230965b49944a47d0c866726c394d21465a34d80228f4
 canonical: 6249-batelco-group-most-digitally-inclusive-telecom-mena-2018.json
 ---
