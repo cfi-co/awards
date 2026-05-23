@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124141131
+wayback_snapshot_url: "http://web.archive.org/web/20250124141131/https://cfi.co/awards/finance/2024/nbg-securities-s-a-excellence-in-equity-and-bond-trading-greece-2024/"
 content_sha256: fd3b7afe6d4686c8797cf20d53fc51083e5447090b0743baefaeffdd616e2647
 canonical: 12696-nbg-securities-s-a-excellence-in-equity-and-bond-trading-greece-2024.json
 ---
