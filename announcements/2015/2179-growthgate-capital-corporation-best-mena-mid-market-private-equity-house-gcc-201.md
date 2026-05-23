@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160122202053
+wayback_snapshot_url: "http://web.archive.org/web/20160122202053/http://cfi.co/awards/middle-east/2015/growthgate-capital-corporation-best-mena-mid-market-private-equity-house-gcc-2015/"
 content_sha256: 81cdac495482e0538c442893435ca2f898fee351fd16c9a7930311487d23a202
 canonical: 2179-growthgate-capital-corporation-best-mena-mid-market-private-equity-house-gcc-201.json
 ---
