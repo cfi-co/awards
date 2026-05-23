@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250620154156
+wayback_snapshot_url: "http://web.archive.org/web/20250620154156/https://cfi.co/awards/europe/2024/gallagher-re-best-reinsurance-broker-global-2023/"
 content_sha256: bce4c70c6f908a4ff77e0b85f3da106a6fb5448b97a3ee1f15957146a1787e8d
 canonical: 12305-gallagher-re-best-reinsurance-broker-global-2023.json
 ---

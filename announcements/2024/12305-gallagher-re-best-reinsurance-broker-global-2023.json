@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250620154156",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250620154156/https://cfi.co/awards/europe/2024/gallagher-re-best-reinsurance-broker-global-2023/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12306\" src=\"https://cfi.co/awards/wp-content/uploads/2024/03/Gallagher-Re-jpg.webp\" alt=\"Gallagher Re\" width=\"600\" height=\"79\" />\r\n<p style=\"text-align: justify;\">It’s been about two years since Gallagher Re closed on the acquisition of Willis Towers Watson’s treaty reinsurance business and since then, the business has gone from strength to strength. The deal resulted in one Gallagher Re with more than 70 offices across 31 countries, making it the third-largest reinsurance brokerage in the world. The past year has been spent in a comprehensive integration of systems, technologies and personnel — allowing the company to retain top talent, provide seamless client services and achieve double-digit growth. Gallagher Re has maintained a workforce with proven capabilities of closing strong transactions in turbulent times. The company takes pride in its people and the positive impacts generated from its activities. It brokered a parametric programme, covering the Moroccan non-insured population against the peril of earthquake, resulting in a loss estimate within 24 hours and a $275m payout within two weeks. Gallagher Re continues to be a trailblazer in the cyber sphere. It structured and launched the market’s first cyber catastrophe bonds for specialist insurer Beazley; $81.5M across three bonds in 2023 on a private-agency basis (“Cairney”), then $140M in 2024 in underwritten-Rule 144A (“public”) format (“PoleStar Re”), which closed at almost double Beazley’s initial capital target (the largest increase of any cyber bond).” Gallagher Re is prioritising strategic advisory services to increase engagements with the underwriting side of clients’ business. The strategic reinvestment of free cash flow has set up the company for even more forward-looking and dynamic growth in the future. The CFI.co judging panel announces Gallagher Re as the 2023 global award winner for Best Reinsurance Broker.</p>",
     "content_sha256": "bce4c70c6f908a4ff77e0b85f3da106a6fb5448b97a3ee1f15957146a1787e8d",
-    "record_sha256": "d53973aa0f672980a45ad9f05e3fcf9015216c6f41ad3e83557cf9bbcd6ac490"
+    "record_sha256": "ed7bcbf01cfc0d5d6b48204bce9d8b0c77a621da4cbca67d150322dc3325f9f7"
 }
