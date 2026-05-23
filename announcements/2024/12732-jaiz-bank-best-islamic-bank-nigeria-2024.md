@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124140123
+wayback_snapshot_url: "http://web.archive.org/web/20250124140123/https://cfi.co/awards/africa/2024/jaiz-bank-best-islamic-bank-nigeria-2024/"
 content_sha256: 883ae5983a69bb38dcc64579d5d688ed85e7a32341239f4e6182ec53296e15ab
 canonical: 12732-jaiz-bank-best-islamic-bank-nigeria-2024.json
 ---
