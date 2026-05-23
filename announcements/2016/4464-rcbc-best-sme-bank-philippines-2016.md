@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d3130588061bdef7acb6948a8f4f723f15c041e726910dd3cd19a6e8b335337c
 canonical: 4464-rcbc-best-sme-bank-philippines-2016.json
 ---
