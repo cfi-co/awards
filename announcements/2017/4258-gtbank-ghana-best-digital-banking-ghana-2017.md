@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921115837
+wayback_snapshot_url: "http://web.archive.org/web/20210921115837/https://cfi.co/awards/africa/2017/gtbank-ghana-best-digital-banking-ghana-2017/"
 content_sha256: 87bb500ae2f85dd67d500f7ec961e5d70e6548294bc541b3ae77ce3c18f6a158
 canonical: 4258-gtbank-ghana-best-digital-banking-ghana-2017.json
 ---
