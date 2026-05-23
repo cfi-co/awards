@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5c06fbd229be51460ad8156ef1082cbf918bb3c45ea2e140442bc8ab4d16a4df
 canonical: 13425-moodys-ratings-best-credit-rating-agency-latam-2026.json
 ---
