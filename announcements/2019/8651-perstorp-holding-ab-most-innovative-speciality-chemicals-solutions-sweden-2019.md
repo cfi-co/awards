@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 784380753bed06278c48e85fbd3315e7c086e2e10d6d722b542d646b7cc9626d
 canonical: 8651-perstorp-holding-ab-most-innovative-speciality-chemicals-solutions-sweden-2019.json
 ---
