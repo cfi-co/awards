@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180909075334
+wayback_snapshot_url: "http://web.archive.org/web/20180909075334/https://cfi.co/awards/asia-pacific/2018/multibank-exchange-group-best-forex-ecn-platform-europe-and-asia-2018/"
 content_sha256: f9fae399d613254d5bbdc60b585fcd53e329d59b6d62fcddb232d3444d8d5aa5
 canonical: 5580-multibank-exchange-group-best-forex-ecn-platform-europe-and-asia-2018.json
 ---
