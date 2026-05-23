@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723012946
+wayback_snapshot_url: "http://web.archive.org/web/20190723012946/https://cfi.co/awards/europe/2018/valentino-best-fashion-corporate-governance-italy-2018/"
 content_sha256: 8e8e71a79384bae78c4b498b78bfde807d03ff500d0a5b6d0926ff5142cfd48a
 canonical: 5467-valentino-best-fashion-corporate-governance-italy-2018.json
 ---
