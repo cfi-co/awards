@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20181021151409
+wayback_snapshot_url: "http://web.archive.org/web/20181021151409/https://cfi.co/awards/middle-east/2018/credimax-best-digital-wallet-gcc-2018/"
 content_sha256: f5e9adb66445f19c12e97891377506919abdde959c60b487bb068aba2d8e94e9
 canonical: 5575-credimax-best-digital-wallet-gcc-2018.json
 ---
