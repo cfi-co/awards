@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104946
+wayback_snapshot_url: "http://web.archive.org/web/20210228104946/https://cfi.co/awards/europe/2021/wellstreet-best-entrepreneur-support-team-nordics-2020/"
 content_sha256: 41f77900664e32480d8b01fa5029a222032f731524419b512cfa3ade155480ed
 canonical: 8788-wellstreet-best-entrepreneur-support-team-nordics-2020.json
 ---
