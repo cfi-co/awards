@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120073518
+wayback_snapshot_url: "http://web.archive.org/web/20210120073518/https://cfi.co/awards/africa/2020/the-public-investment-corporation-most-responsible-esg-investor-africa-2020/"
 content_sha256: f195f33f422408decd9e7d007e17b4102903413356cf60f60a3d2d25943a836f
 canonical: 8521-the-public-investment-corporation-most-responsible-esg-investor-africa-2020.json
 ---
