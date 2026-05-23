@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505111030
+wayback_snapshot_url: "http://web.archive.org/web/20160505111030/http://cfi.co/awards/middle-east/2014/emirates-outstanding-contribution-to-airline-csr-global-2014-award-corporate-leadership-uae-2014-award/"
 content_sha256: 002a3ed2349f951a78755b11cc0d86b4e9c430b5201afc01eaf5c70beff6d91f
 canonical: 1623-emirates-outstanding-contribution-to-airline-csr-global-2014-award-corporate-lea.json
 ---
