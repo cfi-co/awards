@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ebc24635bf0a5e4c0a8ec9b4823394b6418057135b63e1b87eab7bfcefad7aa5
 canonical: 6280-ndb-investment-bank-leaders-in-sri-lanka-and-cfi-co-award-winner.json
 ---
