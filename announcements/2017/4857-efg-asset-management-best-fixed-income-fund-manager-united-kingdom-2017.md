@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921114026
+wayback_snapshot_url: "http://web.archive.org/web/20210921114026/https://cfi.co/awards/europe/2017/efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2017/"
 content_sha256: e55e1531340ffb7915064dfa73cf0b59ad00b8344b73445762ba6759c2fc7410
 canonical: 4857-efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2017.json
 ---
