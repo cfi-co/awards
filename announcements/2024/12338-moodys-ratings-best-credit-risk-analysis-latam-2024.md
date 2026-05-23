@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240503073917
+wayback_snapshot_url: "http://web.archive.org/web/20240503073917/https://cfi.co/awards/finance/2024/moodys-ratings-best-credit-risk-analysis-latam-2024/"
 content_sha256: 83f83d1708bb30f98d249ab39d3488c0d052b6b951ffe1fd6930eb853e3ea29d
 canonical: 12338-moodys-ratings-best-credit-risk-analysis-latam-2024.json
 ---
