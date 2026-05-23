@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201203235117",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203235117/https://cfi.co/awards/north-america/2020/mackay-shields-best-esg-fixed-income-investor-united-states-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8325\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/MacKay-Shields.jpg\" alt=\"MacKay-Shields\" width=\"400\" height=\"120\" />\r\n<p style=\"text-align: justify;\">MacKay Shields follows the mantra: \"Big enough to matter, small enough to make a difference.\" As of September 2020, the firm has a workforce of 211 professionals and manages approximately $144bn. MacKay Shields considers ESG at every level of its operations, aiming to create long-term value for its clients. Each investment team utilizes its own distinct philosophy, processes and expertise to add value across capital markets. As such, each investment team integrates material ESG considerations in its own manner which reflects the character of its respective asset class and investment style. Further, each investment team has developed a team-specific ESG policy, which serves as the cornerstone of the team’s ESG integration process. Within the results-orientated firm, MacKay Shields’ teams have developed proprietary scoring systems to evaluate prospective or current investments against ESG performance. MacKay Shields believes engagement is an integral part of managing ESG risks. Each team has developed its own approach to engagement consistent with its philosophy and process. Firmwide, investment teams and their strategy-specific policies are united through MacKay Shields' Responsible Investment Advisory Committee (RI Committee). The RI Committee, which features the firm's ESG &amp; Sustainability Initiatives director, senior representatives of portfolio management teams, its General Counsel and members of the risk team, is charged with overseeing firm-wide ESG efforts. MacKay Shields takes pride in its growing reputation for disciplined, ESG-focused investment research, recently earning an A+ rating for the PRI Strategy &amp; Governance module. The CFI.co judges announce MacKay Shields as the 2020 winner of the award for Best ESG Fixed Income Investor (United States).</p>",
     "content_sha256": "33314ce349f79b92303cba898fa121fefd5d85b9b1290a04063be5dadf999bdd",
-    "record_sha256": "32d479ff87933f20152ed7d615b76365fc8330585d3fa7fa42b6f3113de043df"
+    "record_sha256": "c47ae4acf30079b9dc7b44e7c333beba32b99722b6ab581c9032f86b13afc96e"
 }
