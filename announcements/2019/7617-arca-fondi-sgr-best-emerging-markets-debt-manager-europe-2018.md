@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 556aa2cb7ac5f9e707703da3216fde619710cd801ca58d319f58d2357a048851
 canonical: 7617-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2018.json
 ---
