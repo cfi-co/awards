@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200630224155
+wayback_snapshot_url: "http://web.archive.org/web/20200630224155/https://cfi.co/awards/north-america/2020/kount-best-ai-powered-chargeback-protection-global-2020/"
 content_sha256: 2fc8777a943c07ac59c59ef8356e09d7de743c769ae83108391465f6b2f4fd6f
 canonical: 7402-kount-best-ai-powered-chargeback-protection-global-2020.json
 ---

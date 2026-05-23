@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200630224155",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200630224155/https://cfi.co/awards/north-america/2020/kount-best-ai-powered-chargeback-protection-global-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7403\" src=\"https://cfi.co/awards/wp-content/uploads/2020/05/Kount.jpg\" alt=\"Kount\" width=\"500\" height=\"144\" />\r\n<p style=\"text-align: justify;\">Digital innovations are opening a realm of possibilities once confined to science fiction – but sometimes accompanied by risk. US-based firm Kount develops comprehensive fraud-prevention solutions powered by AI and machine learning. The company has deep domain expertise, with 30+ patents granted over its 13-year history. Kount combines four defensive elements to ensure solid protection and a seamless fit with customer needs. Kount’s Identity Trust Global Network compiles data from multiple verticals and geographies to empower informed, real-time decision-making. Its machine-learning models harness predictive capabilities that isolate and flag behavioural anomalies, while a control centre allows clients to customise options. Analytics processes winnow business performance to uncover new revenue streams and strengthen marketing strategies. Based in Boise, Idaho, Kount serves a global market of 6,500 businesses in 250 countries and territories, across 75 industries. It crafts cyber-armour to combat “friendly” fraud associated with consumer chargebacks, providing peace-of-mind for merchants and retailers with the all-in-one Kount Complete package. Payment processors can integrate Kount Central into their platforms, and the company offers a chargeback guarantee to stabilise costs and promote growth. The CFI.co judging panel is pleased to present Kount with the 2020 award for Best AI-Powered Chargeback Protection (Global).</p>",
     "content_sha256": "2fc8777a943c07ac59c59ef8356e09d7de743c769ae83108391465f6b2f4fd6f",
-    "record_sha256": "ee7c22fe0c75c4d33b0fe75a3df248b4155ab9ab06fbc88ba76c32db6d2b1c16"
+    "record_sha256": "4a47fe6abc30f98c956dfdac58630a482d9de041b91000d4b6808b9faed985b4"
 }
