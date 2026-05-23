@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208104244
+wayback_snapshot_url: "http://web.archive.org/web/20230208104244/https://cfi.co/awards/asia-pacific/2022/mtr-corporation-best-public-service-financial-management-team-hong-kong-2022/"
 content_sha256: 1993e6fefeba0c2d076d3ff265f956efae3af796acb1e51758c8085b2ab54073
 canonical: 10979-mtr-corporation-best-public-service-financial-management-team-hong-kong-2022.json
 ---
