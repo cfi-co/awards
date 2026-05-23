@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140731073157
+wayback_snapshot_url: "http://web.archive.org/web/20140731073157/http://cfi.co/awards/europe/2014/clifford-chance-is-named-best-dispute-resolution-team-banking-uk-2014/"
 content_sha256: 0472f9f8575b99c84dd1b459ddbe70938db137b152281ccca5692fce4f0a7aab
 canonical: 1211-clifford-chance-is-named-best-dispute-resolution-team-banking-uk-2014.json
 ---
