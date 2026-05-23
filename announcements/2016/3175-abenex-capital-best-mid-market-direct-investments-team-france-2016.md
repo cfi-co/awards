@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924115759
+wayback_snapshot_url: "http://web.archive.org/web/20210924115759/https://cfi.co/awards/europe/2016/abenex-capital-best-mid-market-direct-investments-team-france-2016/"
 content_sha256: 49d8834c57062726258cf0cc30a1c3b2a7b7208e9d91effa0e427553b88d94d3
 canonical: 3175-abenex-capital-best-mid-market-direct-investments-team-france-2016.json
 ---
