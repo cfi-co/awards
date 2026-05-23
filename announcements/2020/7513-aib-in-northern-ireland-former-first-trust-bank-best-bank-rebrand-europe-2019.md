@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203050724
+wayback_snapshot_url: "http://web.archive.org/web/20221203050724/https://cfi.co/awards/europe/2020/aib-in-northern-ireland-former-first-trust-bank-best-bank-rebrand-europe-2019/"
 content_sha256: 03345cf45fccca686f8e175bf9ba74dee9b5c0b4be0b13dba6e6e26d90d731a5
 canonical: 7513-aib-in-northern-ireland-former-first-trust-bank-best-bank-rebrand-europe-2019.json
 ---
