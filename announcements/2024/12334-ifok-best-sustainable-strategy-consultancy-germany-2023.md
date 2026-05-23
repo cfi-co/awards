@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623201522
+wayback_snapshot_url: "http://web.archive.org/web/20240623201522/https://cfi.co/awards/europe/2024/ifok-best-sustainable-strategy-consultancy-germany-2023/"
 content_sha256: 4499dacce7a2b95112cb256d8ff8420b2a5d2553d89dd4c5ebfe65a4ca377d31
 canonical: 12334-ifok-best-sustainable-strategy-consultancy-germany-2023.json
 ---
