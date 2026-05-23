@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 2c5807011023d805359366de8df1399c06a4581c5e92220ff312f95d81a4a75e
 canonical: 7757-atlas-mara-bank-zambia-best-commercial-bank-zambia-2019.json
 ---
