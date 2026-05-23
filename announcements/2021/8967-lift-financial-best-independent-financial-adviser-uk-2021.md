@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418053852
+wayback_snapshot_url: "http://web.archive.org/web/20210418053852/https://cfi.co/awards/europe/2021/lift-financial-best-independent-financial-adviser-uk-2021/"
 content_sha256: 29f8064295340f787ae81a559141646ac4dd346bfffe7ef453ec1899643a52bd
 canonical: 8967-lift-financial-best-independent-financial-adviser-uk-2021.json
 ---
