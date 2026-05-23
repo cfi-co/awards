@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: cc396b1445f821763cbf15ced3eac80f803bd285276e42715ebcf046710a7745
 canonical: 12726-maldives-islamic-bank-best-business-bank-indian-ocean-2023.json
 ---
