@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 30297a247d9ce8a6e61b39dacbc9fdde2844199cb58d4ccf393914c07be18728
 canonical: 13390-citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026.json
 ---
