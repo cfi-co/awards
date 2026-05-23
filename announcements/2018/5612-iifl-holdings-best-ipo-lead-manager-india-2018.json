@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20191119061954",
+        "wayback_snapshot_url": "http://web.archive.org/web/20191119061954/https://cfi.co/awards/asia-pacific/2018/iifl-holdings-best-ipo-lead-manager-india-2018/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5614\" src=\"https://cfi.co/awards/wp-content/uploads/2018/05/IIFL.png\" alt=\"\" width=\"400\" height=\"132\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>India’s largest independent financial services provider, IIFL Holdings is also the preferred partner of businesses and investors seeking to maximise their exposure to the country’s buoyant economy. Set up in 1995, IIFL has established a peerless reputation for its in-depth knowledge of India’s corporate environment. The firm’s research department regularly produces ground breaking sectoral studies that unearth gems particularly valued by domestic and overseas investors. IIFL closely monitors and evaluates well over 350 publicly listed companies and counts more than 300 of the world’s largest institutional investors amongst its clients.</strong></p>\r\n<p style=\"text-align: justify;\">The firm has helped a large number of companies on their way to a public listing and is without equal when it comes to designing and implementing a successful IPO strategy. A testament to the quality of its services, IIFL generates a significant number of repeat business and referrals – the firm has become the go-to place for business owners desirous of going public and entering the corporate major league. Over the past 12 months, the firm has been involved in some of the most marquee and unique capital market transactions out of India, a testimony to strong corporate and investor relationships.</p>\r\n<p style=\"text-align: justify;\">With a nationwide network of over 2,200 service points, IIFL is without equal when it comes to placement and distribution as well. However, the CFI.co judging panel considers that IIFL’s dedication to transparency, efficiency and excellence in the delivery of services forged the company’s greatest asset – the trust of the market. The judges note that IIFL now is a hallmark of quality. The judging panel agrees to name IIFL Holdings winner of the 2018 Best IPO Lead Manager India Award.</p>",
     "content_sha256": "3d9bf68318b861261f7a916e4033d1d61a5a40dd165e5a7d113f7c4957bf5746",
-    "record_sha256": "c88cd63641032df185a520b1bb5d3c0ea5d4fbc6d6bc17d8543ccaded306792c"
+    "record_sha256": "c1e3df5dec15ccdb12ba22c63f2f1b0a02d77b18d7b29ba272a6e6aa2ae3fe70"
 }
