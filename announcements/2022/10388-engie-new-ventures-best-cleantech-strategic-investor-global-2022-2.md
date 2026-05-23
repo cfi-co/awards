@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 945ab1d519009e0d75515f80c67aef5d74b119925b2026629848d82c8e06b569
 canonical: 10388-engie-new-ventures-best-cleantech-strategic-investor-global-2022-2.json
 ---
