@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823045718
+wayback_snapshot_url: "http://web.archive.org/web/20190823045718/https://cfi.co/awards/europe/2015/marks-spencer-best-retail-franchise-gcc-2014/"
 content_sha256: dd7ccebd37a281f1ea5284dc62712a15df6d8e7c8228f10e49cd88a34e2b0790
 canonical: 1619-marks-spencer-best-retail-franchise-gcc-2014.json
 ---
