@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190924103832
+wayback_snapshot_url: "http://web.archive.org/web/20190924103832/https://cfi.co/awards/europe/2018/euro-exim-bank-best-global-trade-services-bank-2018/"
 content_sha256: abebd1bf29817ae5e07afe9b2600dfe23ea1cb162b784290b95cf58c91b043c8
 canonical: 5847-euro-exim-bank-best-global-trade-services-bank-2018.json
 ---
