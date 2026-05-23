@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9d67dc87f5a8c39b84f363ea0abd2952465cd678c710eeb7a91815b2302b5311
 canonical: 7695-korta-best-turnkey-payment-services-europe-2019.json
 ---
