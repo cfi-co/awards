@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603023146
+wayback_snapshot_url: "http://web.archive.org/web/20230603023146/https://cfi.co/awards/europe/2023/fortem-capital-best-alternative-growth-fund-manager-europe-2022/"
 content_sha256: 1dacd511c900d4b88c9734e4c62f7cf98482dbe9bf8690b195ba91d620ce2127
 canonical: 11272-fortem-capital-best-alternative-growth-fund-manager-europe-2022.json
 ---
