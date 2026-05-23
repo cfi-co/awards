@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211015232315
+wayback_snapshot_url: "http://web.archive.org/web/20211015232315/https://cfi.co/awards/middle-east/2019/suez-industrial-development-company-sidc-best-industrial-park-operator-mena-2019/"
 content_sha256: bab39eb92d041a03783f280dd0498c13de20e703a7113aaf2ec1a603d2464b63
 canonical: 7638-suez-industrial-development-company-sidc-best-industrial-park-operator-mena-2019.json
 ---
