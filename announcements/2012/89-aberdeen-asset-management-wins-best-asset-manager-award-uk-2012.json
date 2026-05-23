@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2085\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/a.jpg\" alt=\"a\" width=\"349\" height=\"218\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Based in Scotland, Aberdeen Asset Management PLC was managing assets in excess of $280 billion in June 2012. </strong></p>\r\n<p style=\"text-align: justify;\">As a global investment management group it manages assets for both institutional and retail clients from offices around the world. Under Martin Gilbert's leadership the approach to leveraging local decision making within the framework of the group has produced excellent long term sustainable value for clients.</p>",
     "content_sha256": "337a6d599b7f7ca65fe1eb5b9fc0f1ae15c3628241c58461012cd5d2873deb0a",
-    "record_sha256": "37e9a22acde29782b5c3f88c69e724c2cce2397c0a0503199f8262cf74c2c0ea"
+    "record_sha256": "4e7c7b9eb22145ccc580f2677f100b5eca6a6c295e7540242bb1317cbc5186d1"
 }
