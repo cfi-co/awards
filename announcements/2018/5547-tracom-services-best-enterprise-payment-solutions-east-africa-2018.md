@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5f1bcdccb73ea2c44e836eaef7874ecac7cecf9d7bed44a156933fc94e5db65e
 canonical: 5547-tracom-services-best-enterprise-payment-solutions-east-africa-2018.json
 ---
