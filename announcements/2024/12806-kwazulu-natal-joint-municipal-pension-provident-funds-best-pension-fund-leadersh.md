@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250424100647
+wayback_snapshot_url: "http://web.archive.org/web/20250424100647/https://cfi.co/awards/africa/2024/kwazulu-natal-joint-municipal-pension-provident-funds-best-pension-fund-leadership-south-africa-2024/"
 content_sha256: 25fc9a2ad5174033ab22916d2f6170fa0d0650ff92b02c657f815b606514efdf
 canonical: 12806-kwazulu-natal-joint-municipal-pension-provident-funds-best-pension-fund-leadersh.json
 ---
