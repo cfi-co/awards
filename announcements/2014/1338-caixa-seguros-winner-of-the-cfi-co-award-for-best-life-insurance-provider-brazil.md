@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724022718
+wayback_snapshot_url: "http://web.archive.org/web/20210724022718/https://cfi.co/awards/latin-america/2014/caixa-seguros-winner-of-the-cfi-co-award-for-best-life-insurance-provider-brazil-2014/"
 content_sha256: d39508bdaeb19c0af0f07521376b8eb9f250532ae65b41908d8873a42d8ea19e
 canonical: 1338-caixa-seguros-winner-of-the-cfi-co-award-for-best-life-insurance-provider-brazil.json
 ---

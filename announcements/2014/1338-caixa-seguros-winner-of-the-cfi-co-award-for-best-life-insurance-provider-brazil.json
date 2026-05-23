@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210724022718",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210724022718/https://cfi.co/awards/latin-america/2014/caixa-seguros-winner-of-the-cfi-co-award-for-best-life-insurance-provider-brazil-2014/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1339\" src=\"https://cfi.co/awards/wp-content/uploads/2014/09/cs.jpg\" alt=\"cs\" width=\"354\" height=\"142\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Despite operating in a very competitive market place, Caixa Seguros has been delivering magnificently throughout the years. This year the company has won the CFI.co award for ‘Best Life Insurance Provider, Brazil’ which comes with the hearty congratulations of the CFI.co Judging Panel.</strong></p>\r\n<p style=\"text-align: justify;\">According to the panel, ‘Caixa Seguros is a leader in Brazil with a fifteen year history of good profitability and overall consistently strong performance. Product quality and technical skills are very high at CS and the Company has very good awareness of risk. With Life one of their core offerings, we have no hesitation in naming this company as our worthy winner in Brazil.’</p>",
     "content_sha256": "d39508bdaeb19c0af0f07521376b8eb9f250532ae65b41908d8873a42d8ea19e",
-    "record_sha256": "411be047703361b4f6bd6437be7ecaa78ee52d049c034e754d9a8618267a4efd"
+    "record_sha256": "7dcb72ca6e788b7d4d8c0965f32e8373b9432db2319791205e1be0f9db177aa8"
 }
