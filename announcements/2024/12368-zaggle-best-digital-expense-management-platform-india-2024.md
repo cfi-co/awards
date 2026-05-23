@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623210215
+wayback_snapshot_url: "http://web.archive.org/web/20240623210215/https://cfi.co/awards/asia-pacific/2024/zaggle-best-digital-expense-management-platform-india-2024/"
 content_sha256: 5b6830a16a743120a14e43318c2ecc43ac2eca68f3e696e6685141f3dee3f7f4
 canonical: 12368-zaggle-best-digital-expense-management-platform-india-2024.json
 ---
