@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724085823
+wayback_snapshot_url: "http://web.archive.org/web/20190724085823/https://cfi.co/awards/finance/exchanges-brokers/2019/xm-com-best-customer-service-global-2019-and-best-market-research-education-global-2019/"
 content_sha256: 65175b0936573273f3e451d941cb0372e0c746411043c1c64ee8295acdbb973d
 canonical: 6699-xm-com-best-customer-service-global-2019-and-best-market-research-education-glob.json
 ---
