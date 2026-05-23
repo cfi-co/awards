@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d6c42c47fe68cdca0542b540a4f93feb75dbb882d44a6d4228c260ade27f0910
 canonical: 4159-payment-express-ltd-best-card-payment-services-provider-mauritius-2015.json
 ---
