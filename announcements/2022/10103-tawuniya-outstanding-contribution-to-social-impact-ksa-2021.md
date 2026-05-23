@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250424090418
+wayback_snapshot_url: "http://web.archive.org/web/20250424090418/https://cfi.co/awards/middle-east/2022/tawuniya-outstanding-contribution-to-social-impact-ksa-2021/"
 content_sha256: 19ee849eee4e99cfc72bdd46dd57f225a99267c28792f612a93fe9336ab71a2d
 canonical: 10103-tawuniya-outstanding-contribution-to-social-impact-ksa-2021.json
 ---
