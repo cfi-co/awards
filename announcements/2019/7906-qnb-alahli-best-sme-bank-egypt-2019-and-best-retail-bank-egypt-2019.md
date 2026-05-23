@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 620190f702c1e174b69679d01004e99a536c04f341773ddfe96d3f3e79429e7d
 canonical: 7906-qnb-alahli-best-sme-bank-egypt-2019-and-best-retail-bank-egypt-2019.json
 ---
