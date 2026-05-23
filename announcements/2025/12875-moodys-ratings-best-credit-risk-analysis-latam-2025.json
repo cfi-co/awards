@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250322092448",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250322092448/https://cfi.co/awards/finance/2025/moodys-ratings-best-credit-risk-analysis-latam-2025/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12342\" src=\"https://cfi.co/awards/wp-content/uploads/2024/04/Moodys-jpg.webp\" alt=\"Moodys\" width=\"500\" height=\"167\" />\r\n<p style=\"text-align: justify;\">Moody’s Ratings is a globally recognised leader in credit ratings, research and risk analysis, with a legacy spanning over 115 years. The firm’s experience in evaluating creditworthiness enables issuers to create timely, go-to-market debt strategies which may capture wider investor focus and provides investors with a comprehensive view of global debt markets through our credit ratings and research. With over three decades dedicated to Latin America, Moody’s Ratings has consistently enhanced market transparency and contributed valuable analysis to the region’s financial landscape. It established its first Latin American office in Brazil in 1997, followed by Mexico City in 2000 and Buenos Aires in 2003. In 2020, the firm launched Moody’s Local, delivering domestic credit ratings across Latin America. By the end of 2024, Moody’s Ratings had rated 75 percent of the total debt issued by corporate, financial institutions, and infrastructure issuers, covering more than 380 organisations and over $1tb of rated debt outstanding in the region. Its thought leadership is reflected in the publication of over 800 reports relating to the LATAM region in 2024, generating over 15,000 views from industry professionals, policymakers and other market participants. The firm also provides key insights into private credit markets, and transition finance. IssuerFocus, Moody’s Ratings digital platform, provides issuers a single point of access for ratings, research, select peer information within their sector, and an insight into investor interest. Through independent assessment and cutting-edge research, Moody’s Ratings continues to shape the Latin American credit landscape with a strong focus on innovation and financial stability. The CFI.co Judging Panel congratulates Moody’s Ratings on winning the 2025 award for Best Credit Risk Analysis (LATAM).</p>",
     "content_sha256": "f5f72ba90f8f4bd22cb609168a4f397a0df03778e40937cd2b4c41e09c76c537",
-    "record_sha256": "e634d5864bfb06774efc1dae2763b6cc637ef1e29d70e86e4f36e4173ca64392"
+    "record_sha256": "78657ad69c4df2bb96f050416cd1866014aeabdab087101355af2f0ab731f7ad"
 }
