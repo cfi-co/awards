@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923181456
+wayback_snapshot_url: "http://web.archive.org/web/20230923181456/https://cfi.co/awards/europe/2023/dtidz-best-free-economic-zone-leadership-balkans-2023/"
 content_sha256: 591b2370609a4656b5b114d6555c5d6b3de59e630f7b14e5153a74341a855a6c
 canonical: 11730-dtidz-best-free-economic-zone-leadership-balkans-2023.json
 ---
