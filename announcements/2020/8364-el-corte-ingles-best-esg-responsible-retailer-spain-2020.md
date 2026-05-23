@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120072528
+wayback_snapshot_url: "http://web.archive.org/web/20210120072528/https://cfi.co/awards/europe/2020/el-corte-ingles-best-esg-responsible-retailer-spain-2020/"
 content_sha256: 000055e178f096e21952cd15ebba2f36ea9c6f365b9ecc3f331c1d8bb8726b6c
 canonical: 8364-el-corte-ingles-best-esg-responsible-retailer-spain-2020.json
 ---
