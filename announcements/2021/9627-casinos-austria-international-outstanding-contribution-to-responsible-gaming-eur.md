@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016000642
+wayback_snapshot_url: "http://web.archive.org/web/20211016000642/https://cfi.co/awards/europe/2021/casinos-austria-international-outstanding-contribution-to-responsible-gaming-europe-2021/"
 content_sha256: b2b8021dd4334294bec67c7b591f060acd5e8cf76b6aaf227def035d474431bd
 canonical: 9627-casinos-austria-international-outstanding-contribution-to-responsible-gaming-eur.json
 ---
