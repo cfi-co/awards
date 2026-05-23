@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: dae325c68f94678b3ac4b115c405bd8b38043b9b75b814bdbefd2966974b3d1f
 canonical: 3838-kpmg-best-tax-team-germany-2016.json
 ---
