@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207055640
+wayback_snapshot_url: "http://web.archive.org/web/20241207055640/https://cfi.co/awards/africa/2014/engineering-2014-drilling-team-award-goes-to-spectrum/"
 content_sha256: 35fac7de8541b7c49dc14983d6d77b28e26aaac9d1199190c383be544971a86e
 canonical: 1270-engineering-2014-drilling-team-award-goes-to-spectrum.json
 ---
