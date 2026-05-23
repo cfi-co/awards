@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240815053129
+wayback_snapshot_url: "http://web.archive.org/web/20240815053129/https://cfi.co/awards/front/2024/boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2023/"
 content_sha256: 700f74aaf3b29f024843d185bd82bd80dca8ac130d8446f068157055a5043c9a
 canonical: 12466-boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2023.json
 ---
