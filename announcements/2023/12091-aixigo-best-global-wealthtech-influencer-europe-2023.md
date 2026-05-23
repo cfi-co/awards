@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225141629
+wayback_snapshot_url: "http://web.archive.org/web/20240225141629/https://cfi.co/awards/europe/2023/aixigo-best-global-wealthtech-influencer-europe-2023/"
 content_sha256: eb392d834220e49d4ddb31d95b31000b81da4b48543da595d09346e5e0f4e26c
 canonical: 12091-aixigo-best-global-wealthtech-influencer-europe-2023.json
 ---
