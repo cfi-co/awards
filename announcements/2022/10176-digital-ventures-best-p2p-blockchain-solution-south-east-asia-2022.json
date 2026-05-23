@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220820015740",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220820015740/https://cfi.co/awards/asia-pacific/2022/digital-ventures-best-p2p-blockchain-solution-south-east-asia-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10177\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/Digital-Ventures.jpg\" alt=\"Digital Ventures\" width=\"300\" height=\"398\" />\r\n<p style=\"text-align: justify;\">Digital Ventures aims to simplify domestic and cross-border trades through the creative deployment of Distributed Ledger Technology (DLT). It’s striving to eradicate inefficiencies blocking the free flow of commerce, goods and services. An estimated $1.3tn of working capital is tied up in the supply chain, with around 55 million people involved in the invoice approval process. Traditional trade has relied on paper systems and third-party authorities, namely banks and government agencies, but DLT allows for the decentralised storage and synchronisation of secure data. This means suppliers get paid at shipment, buyers enjoy streamlined orders and banks avoid collection risks. Secured transactions can be exchanged through the internet with global scalability. Blockchain supports the industry’s need for air-tight records and easy integration. Digital Ventures was established in 2016 as a subsidiary of Siam Commercial Bank (SCB), Thailand’s largest bank in terms of assets, profit and market cap. It was the first to graduate from SCB’s venture builder programme and obtained approval to spinout as a fintech start-up in January 2020. SCB — Digital Ventures’ first client — used its B2P platform (blockchain for procure-to-pay) to onboard thousands of suppliers, helping the bank to slash trade processing time in half and reduce costs by 70 percent. Digital Ventures is looking at global expansion via partnerships with banks in the APAC region, UK, US and Brazil. The CFI.co judging panel declares Digital Ventures as the 2022 award winner for Best P2P Blockchain Solution (South East Asia).</p>",
     "content_sha256": "3988f173353dd33fa1f3a076489d1a1378281d08597f9a0d0a90162fe0298071",
-    "record_sha256": "65234424f8ee68401de8af2254dc327f04005c09bf714cd57d5a33b14f39e49f"
+    "record_sha256": "0dc657f45e628f2822b063927ed8e668f01ff931854a328c17426fb1352c6176"
 }
