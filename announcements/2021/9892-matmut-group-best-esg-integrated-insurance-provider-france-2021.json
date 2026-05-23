@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220119084959",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220119084959/https://cfi.co/awards/europe/2021/matmut-group-best-esg-integrated-insurance-provider-france-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9893\" src=\"https://cfi.co/awards/wp-content/uploads/2021/12/Matmut.jpg\" alt=\"Matmut\" width=\"228\" height=\"186\" />\r\n<p style=\"text-align: justify;\">Matmut set out, in 1961, as a French mutualist with 278 members. Now the group manages 7.6 million insurance contracts for some four million members. It offers personal and property insurance products for individual and corporate clients. It also provides financial and savings services, including car loans, borrower insurance, savings book and life insurance. Matmut recently joined the UNEP’s Net-Zero Insurance Alliance and became a signatory of the Principles for Sustainable Insurance. This underscores the company’s commitment — as insurer and institutional investor — to accelerating the transition towards carbon neutrality. It sets five-year objectives, with annual monitoring and reporting. For Matmut’s 60th anniversary, the company defined its <em>raison d'être</em> around the pillars of sustainable development, inclusion and well-being. Matmut provides for, supports, protects and is committed to its members, who are both the insured and the insurer in a mutualist business model. It’s working to combat plastic waste by gifting employees reusable water bottles, gradually phasing out single-use plastic items and installing recycling points onsite. It collaborates with Circul'R and Plastic Odyssey on waste reduction initiatives. It has implemented a responsible purchasing policy and systematically questions suppliers about ESG factors during tenders. Matmut subsidiary OFI manages 74 percent of its asset portfolio. More than 85 percent of those assets are covered under ESG analysis, but Matmut intends to integrate Socially Responsible Investment criteria across the entire portfolio. The CFI.co jury presents Matmut with the 2021 Best ESG Integrated Insurance Provider (France) award.</p>",
     "content_sha256": "35df14b77e038eec9380d98868556273a45c163057952b98164e7c69930e36f2",
-    "record_sha256": "01377b5b0d3ba1a96c60b32c7a8aef4b0949823909cefeec1dd833e2ad5b69d7"
+    "record_sha256": "3059485106335c111648cf83bac1b632fe08b372cc0638f38730e70e5a2524dc"
 }
