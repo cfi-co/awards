@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250424100154
+wayback_snapshot_url: "http://web.archive.org/web/20250424100154/https://cfi.co/awards/middle-east/2025/dubai-world-trade-centre-champion-of-global-business-and-trade-ecosystems-emea-2025/"
 content_sha256: a52371356b0e6d53a6572fcf65dd0911c77938725e2c347efa8a1b3dd9dfcda6
 canonical: 12905-dubai-world-trade-centre-champion-of-global-business-and-trade-ecosystems-emea-2.json
 ---
