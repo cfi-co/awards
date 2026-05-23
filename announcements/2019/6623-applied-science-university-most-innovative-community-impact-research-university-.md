@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e46abe0dbb00677b059666e4b89bcfffe4fcfda7e5907fde195e9753dcc6207a
 canonical: 6623-applied-science-university-most-innovative-community-impact-research-university-.json
 ---
