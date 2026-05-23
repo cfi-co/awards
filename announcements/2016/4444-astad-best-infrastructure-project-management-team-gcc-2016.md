@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250614235658
+wayback_snapshot_url: "http://web.archive.org/web/20250614235658/https://cfi.co/awards/middle-east/2016/astad-best-infrastructure-project-management-team-gcc-2016/"
 content_sha256: b9b817a256993f818250258fa681386bc7ef2ca8673e45527f1b6ce48efab640
 canonical: 4444-astad-best-infrastructure-project-management-team-gcc-2016.json
 ---
