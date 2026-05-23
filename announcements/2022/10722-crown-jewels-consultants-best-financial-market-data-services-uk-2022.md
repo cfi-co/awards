@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 2c44559a0fe4b8dacff7f84672da5c03f386f790659b96b83c5ce35c72a0c25a
 canonical: 10722-crown-jewels-consultants-best-financial-market-data-services-uk-2022.json
 ---
