@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: aace47c058bb9ec111f15e5018b4f164f1287c7d8b1ab00a84d223356925b519
 canonical: 5836-guinea-alumina-corporation-gac-best-esg-mining-project-west-africa-2018.json
 ---
