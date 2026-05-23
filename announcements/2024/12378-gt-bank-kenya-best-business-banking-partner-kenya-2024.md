@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240713115712
+wayback_snapshot_url: "http://web.archive.org/web/20240713115712/https://cfi.co/awards/banking/2024/gt-bank-kenya-best-business-banking-partner-kenya-2024/"
 content_sha256: 655b9652887ddb2be858fe6863c08c324d752f3a40878d1962741e0125048676
 canonical: 12378-gt-bank-kenya-best-business-banking-partner-kenya-2024.json
 ---
