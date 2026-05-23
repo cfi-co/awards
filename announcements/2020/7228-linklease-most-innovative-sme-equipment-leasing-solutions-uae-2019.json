@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200612233054",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200612233054/https://cfi.co/awards/middle-east/2020/linklease-most-innovative-sme-equipment-leasing-solutions-uae-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7229\" src=\"https://cfi.co/awards/wp-content/uploads/2020/02/Linklease.jpg\" alt=\"Linklease\" width=\"600\" height=\"134\" />\r\n<p style=\"text-align: justify;\">Despite being the backbone of regional and national economies, the full potential of SMEs (small and medium-sized enterprises) is often blocked by hurdles to equipment financing. Founded in 2014, Emirati company Linklease champions asset leasing as an alternative to costly ownership finance. In Dubai, SMEs represent 95 percent of all the Emirate's registered establishments, and a new financial leasing law underscores the government's commitment to supporting the sector. Linklease pioneers leasing solutions to a wide range of industries across the United Arab Emirates (UAE) and Saudi Arabia; now it's looking to expand its presence across the Middle East and Africa. A team of specialists with over 25 years of experience in the asset-based finance industry has custom-crafted conventional and Shariah-compliant leasing solutions for clients in the construction, healthcare, logistics, manufacturing, and printing sectors, amongst other. The Linklease team excels at client anda sset assessment as well as asset managementand asset recovery. In addition to providing new and used equipment leasing, Linklease offers sale and lease-back agreements as well as equipment management services. The company has implemented a robust tech framework that gives an omnipotent view of assets, able to monitor location and movement with the latest GPS tracking and RFID tagging technology - or even immobilise assets if ever necessary. Recognising a worthy partner of businesses big or small, the CFl.co judging panel presents Linklease with the 2019 award for Most Innovative SME Equipment Leasing Solutions (UAE).</p>",
     "content_sha256": "566a34684943863bf015a0dfbc6978d1a74a7c2fb6fbdc0ab60209d26a81ebb0",
-    "record_sha256": "789aa3264ae1693dec997b9b8047cf9f13e35f727e6197764f906b105b6655f4"
+    "record_sha256": "af988c997cf6def90da90ae441e512f6f66df519da0a99b9e66e582234a8d863"
 }
