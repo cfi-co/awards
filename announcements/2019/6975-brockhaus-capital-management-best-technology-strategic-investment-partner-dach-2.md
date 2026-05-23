@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191215002911
+wayback_snapshot_url: "http://web.archive.org/web/20191215002911/https://cfi.co/awards/finance/2019/brockhaus-capital-management-best-technology-strategic-investment-partner-dach-2019/"
 content_sha256: 9289e18980cab09ee3b3f9d6adeccf48e9f28e94f7c2445d045ec6ba015cbbff
 canonical: 6975-brockhaus-capital-management-best-technology-strategic-investment-partner-dach-2.json
 ---
