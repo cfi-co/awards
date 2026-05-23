@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200907105032
+wayback_snapshot_url: "http://web.archive.org/web/20200907105032/https://cfi.co/awards/europe/2020/aiyo-best-financial-institutions-transformation-partner-france-2020/"
 content_sha256: 9d9546c232a3f77665e688b947be9727e043ca735ccddbcc6701d2e3fa445b4d
 canonical: 8192-aiyo-best-financial-institutions-transformation-partner-france-2020.json
 ---
