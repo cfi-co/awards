@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923105214
+wayback_snapshot_url: "http://web.archive.org/web/20200923105214/https://cfi.co/awards/europe/2020/norvestor-best-sustainable-equity-investor-nordics-2020/"
 content_sha256: 80b6deef63db0624b186e7ab3a4f2d05b60e89b1ebc8ce5e0ef1766a39c69c5c
 canonical: 8154-norvestor-best-sustainable-equity-investor-nordics-2020.json
 ---
