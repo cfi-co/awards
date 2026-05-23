@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140409053746",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409053746/http://cfi.co/awards/north-america/2013/the-ip-award-for-the-united-states-goes-to-loeb-loeb/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-434\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/L-and-L.jpg\" alt=\"L-and-L\" width=\"132\" height=\"132\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Loeb &amp; Loeb takes the 2013 award for Best Intellectual Property Team in the United States.</strong></p>\r\n<p style=\"text-align: justify;\">This firm has a well-deserved reputation for litigation and the negotiation of licencing agreements in the entertainment industry. The judging panel congratulates John Frankenheimer, chair of the Music Industry Practice Group, who was named on Billboard’s 100 Power List of music business notables.</p>",
     "content_sha256": "f29d4324ae36cc8185bb29a32f446dfdc457e6be4415d5005880a79ec5de6f78",
-    "record_sha256": "db53c94a01e0b5846d1b30df5062508386b5a8f0fc245855b79750863eb53bb8"
+    "record_sha256": "91fa48c048be2d083a40ed61402d04e688edcabd4c210bb494e8df49a5dd58ff"
 }
