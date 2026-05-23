@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094357
+wayback_snapshot_url: "http://web.archive.org/web/20190426094357/https://cfi.co/awards/latin-america/2017/the-central-american-bank-for-economic-integration-cabei-best-green-bond-issuer-latin-america-2017/"
 content_sha256: 4ff73435c2714baf3bbe3d03a882ac016f3081c47be25044e4a9f5031e1d3b85
 canonical: 5704-the-central-american-bank-for-economic-integration-cabei-best-green-bond-issuer-.json
 ---
