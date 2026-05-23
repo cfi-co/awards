@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 30e6b058ef1f71fd26c04dd67c0af2d4b02dd7eb1e3f7a4da50dd840da8c952f
 canonical: 11094-access-bank-sa-best-business-banking-solutions-south-africa-2022.json
 ---
