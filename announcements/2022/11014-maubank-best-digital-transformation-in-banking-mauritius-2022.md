@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208093642
+wayback_snapshot_url: "http://web.archive.org/web/20230208093642/https://cfi.co/awards/africa/2022/maubank-best-digital-transformation-in-banking-mauritius-2022/"
 content_sha256: b5d712e07a6493451acbbebc7fa8bf9a26ba2706979ace5e44357e35a5d7a553
 canonical: 11014-maubank-best-digital-transformation-in-banking-mauritius-2022.json
 ---
