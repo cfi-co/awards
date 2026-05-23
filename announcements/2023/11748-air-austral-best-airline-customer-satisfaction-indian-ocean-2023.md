@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923174926
+wayback_snapshot_url: "http://web.archive.org/web/20230923174926/https://cfi.co/awards/industries/transport/2023/air-austral-best-airline-customer-satisfaction-indian-ocean-2023/"
 content_sha256: c164603cb04032cf24e0128f65202fc02c787f41be37c9cb83d4ce787cbb528d
 canonical: 11748-air-austral-best-airline-customer-satisfaction-indian-ocean-2023.json
 ---
