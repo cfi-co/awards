@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094505
+wayback_snapshot_url: "http://web.archive.org/web/20190426094505/https://cfi.co/awards/asia-pacific/2018/gvfl-best-technology-venture-fund-manager-india-2018/"
 content_sha256: 33117411cf5f2b43b29dbd52b99fd7782d038e3035c54caa22cf9fc55a8f0c64
 canonical: 5394-gvfl-best-technology-venture-fund-manager-india-2018.json
 ---
