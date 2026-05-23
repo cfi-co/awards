@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190216035430
+wayback_snapshot_url: "http://web.archive.org/web/20190216035430/https://cfi.co/awards/banking/2018/delen-private-bank-best-digital-private-bank-belgium-2018/"
 content_sha256: 60e204242620ca5d92b490b3e8c3177e35526931763ec739eacb3cff2c4b24a2
 canonical: 6167-delen-private-bank-best-digital-private-bank-belgium-2018.json
 ---
