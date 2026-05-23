@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924113329
+wayback_snapshot_url: "http://web.archive.org/web/20210924113329/https://cfi.co/awards/europe/2016/rothschild-cie-gestion-best-institutional-asset-manager-europe-2016/"
 content_sha256: 7994b447b0cc701a78d7a24a615f0692df233bc73943b554f40901821219e260
 canonical: 3581-rothschild-cie-gestion-best-institutional-asset-manager-europe-2016.json
 ---
