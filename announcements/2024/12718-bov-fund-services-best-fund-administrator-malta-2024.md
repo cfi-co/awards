@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: fee9d30e7f1bbcec0f74a20ae7dc38d4624252b00aca136f0a0896ccd3c47ff3
 canonical: 12718-bov-fund-services-best-fund-administrator-malta-2024.json
 ---
