@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200727202709
+wayback_snapshot_url: "http://web.archive.org/web/20200727202709/https://cfi.co/awards/middle-east/2016/meeza-best-it-security-gcc-2016/"
 content_sha256: 6dace9336027639d2bbc48166b824735de5156de453dedcee622f15d44eb24e5
 canonical: 3915-meeza-best-it-security-gcc-2016.json
 ---
