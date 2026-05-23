@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203230803
+wayback_snapshot_url: "http://web.archive.org/web/20201203230803/https://cfi.co/awards/europe/2020/fci-best-trade-finance-innovator-global-2020/"
 content_sha256: 83b136e95c6c0a475ed989ca8ddb98aad5a2bd7c4ebb5a22a6dbdb33f89b1127
 canonical: 8348-fci-best-trade-finance-innovator-global-2020.json
 ---
