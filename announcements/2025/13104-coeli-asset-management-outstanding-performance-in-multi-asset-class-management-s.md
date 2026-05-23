@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 19b064328926b5c37334017406f0cfd75457287a11b7c8f69f697bd313dfdbba
 canonical: 13104-coeli-asset-management-outstanding-performance-in-multi-asset-class-management-s.json
 ---
