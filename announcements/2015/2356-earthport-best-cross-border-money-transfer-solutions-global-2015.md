@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160122123453
+wayback_snapshot_url: "http://web.archive.org/web/20160122123453/http://cfi.co/awards/europe/2015/earthport-best-cross-border-money-transfer-solutions-global-2015/"
 content_sha256: 6189f964702dbe0df0eda29847e78a9a0ea4cd3fc7245946fbc47b35a29f1e5b
 canonical: 2356-earthport-best-cross-border-money-transfer-solutions-global-2015.json
 ---
