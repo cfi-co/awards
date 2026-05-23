@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 418e2568139cc5b4a39b40fd132d4f11dbcf6c87516d6acaa289f064da81854e
 canonical: 13262-bedrock-group-best-investment-portfolio-manager-united-kingdom-2025.json
 ---
