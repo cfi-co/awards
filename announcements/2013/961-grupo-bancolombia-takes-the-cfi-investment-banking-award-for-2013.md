@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209121947
+wayback_snapshot_url: "http://web.archive.org/web/20140209121947/http://cfi.co/awards/latin-america/2013/grupo-bancolombia-takes-the-cfi-investment-banking-award-for-2013/"
 content_sha256: b74e44f3a6e6776404082293b1048e8fd37d41ebd23d7785c294f07388127f6e
 canonical: 961-grupo-bancolombia-takes-the-cfi-investment-banking-award-for-2013.json
 ---
