@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210729133353
+wayback_snapshot_url: "http://web.archive.org/web/20210729133353/https://cfi.co/awards/industries/2017/united-waters-international-most-innovative-water-purification-technology-global-2017/"
 content_sha256: a0f3a077c61a854155752f5d12dad669c34c98809682b5ba875268d871f80bc1
 canonical: 4250-united-waters-international-most-innovative-water-purification-technology-global.json
 ---
