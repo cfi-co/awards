@@ -19,10 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6244\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/NewBridge.jpg\" alt=\"\" width=\"349\" height=\"155\" />\r\n<p style=\"text-align: justify;\">Pharmaceutical markets in the Middle East and Africa (MENA) are some of the fastest growing in the world: emerging markets are introducing mass health insurance, improving infrastructure, and attracting the attention of private investors. Institutionally backed and with a strong local presence and network of international partnerships, NewBridge Pharmaceuticals is perfectly poised to “bridge the access gap” between global healthcare innovation and successful market reach throughout the MENA region. NewBridge Pharmaceuticals is the regional partner of choice for healthcare companies looking to market and license their products in the region. The company employs a diverse team with years of professional international experience, ranging from commercial sales and marketing to healthcare and regulatory compliance. There are urgent medical needs in the region, and NewBridge focuses on the areas of oncology, immunology, neuroscience, metabolic, and rare diseases. The company’s product portfolio promises to improve the health and quality of life of its patients while also bringing value to its partners and shareholders. The CFI.co judging panel applauds the company’s mission to address unmet medical needs in the MENA region through strategic joint-ventures and partnerships, naming NewBridge Pharmaceuticals the 2018 winner of the Most Innovative Pharmaceutics Commercialisation Partner MENA award.</p>",
     "content_sha256": "ba28fb4be8ba7ede9194c3eb13c97dc1f9f387e1c489b148bf7281a8ba48ce6d",
-    "record_sha256": "9178f23e36c2f51c2a94bc26f7846dc43e6b62e89dd8e4bbe6bd90edf9b90c32"
+    "record_sha256": "9f724478639ce1bc7e15ee2d6a63d7d78f757862aa0ac8fc8fcb83868ef27cfe"
 }

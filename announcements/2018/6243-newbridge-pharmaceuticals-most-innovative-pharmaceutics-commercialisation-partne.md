@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ba28fb4be8ba7ede9194c3eb13c97dc1f9f387e1c489b148bf7281a8ba48ce6d
 canonical: 6243-newbridge-pharmaceuticals-most-innovative-pharmaceutics-commercialisation-partne.json
 ---
