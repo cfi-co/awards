@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240815055256
+wayback_snapshot_url: "http://web.archive.org/web/20240815055256/https://cfi.co/awards/europe/2024/turkiye-kalkinma-ve-yatirim-bankasi-green-finance-innovator-award-turkiye-2024/"
 content_sha256: 4d64097b8cef1f2a4005f1455ef9fd1ca28b3bd58c17b03b6b62b53a1039454a
 canonical: 12494-turkiye-kalkinma-ve-yatirim-bankasi-green-finance-innovator-award-turkiye-2024.json
 ---
