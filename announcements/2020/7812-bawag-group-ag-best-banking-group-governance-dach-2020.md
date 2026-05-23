@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810083835
+wayback_snapshot_url: "http://web.archive.org/web/20200810083835/https://cfi.co/awards/europe/2020/bawag-group-ag-best-banking-group-governance-dach-2020/"
 content_sha256: 3c46766ec9fbaab7433d74defeca349e40b7337929d29aa07eeb9956ed133b84
 canonical: 7812-bawag-group-ag-best-banking-group-governance-dach-2020.json
 ---
