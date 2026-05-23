@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810090009
+wayback_snapshot_url: "http://web.archive.org/web/20200810090009/https://cfi.co/awards/europe/2020/cordet-best-alternative-credit-investor-united-kingdom-2020/"
 content_sha256: 5a99032e0f359c4520fd0fcc484e6b30835eb0796a36438444e1c7eb3f3c5882
 canonical: 7820-cordet-best-alternative-credit-investor-united-kingdom-2020.json
 ---
