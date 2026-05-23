@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104204
+wayback_snapshot_url: "http://web.archive.org/web/20210228104204/https://cfi.co/awards/middle-east/2021/al-hilal-life-best-life-insurance-provider-middle-east-2020/"
 content_sha256: 480ca2f526252150e7acc089e1d96798a4c434ff9865118b340abbfda8cb839b
 canonical: 8748-al-hilal-life-best-life-insurance-provider-middle-east-2020.json
 ---
