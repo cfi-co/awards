@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201203233252",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203233252/https://cfi.co/awards/asia-pacific/2020/varun-beverages-ltd-best-fmcg-corporate-governance-india-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7739\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/VarunBeverages.jpg\" alt=\"VarunBeverages\" width=\"400\" height=\"352\" />\r\n<p style=\"text-align: justify;\">As a licensed affiliate of PepsiCo, Varun Beverages is the second largest franchisee in the world outside of the United States. Varun Beverages produces and distributes carbonated and non-carbonated beverages to be sold under the PepsiCo trademark in 6 countries in South Asia and Africa (India (except Andhra Pradesh, J&amp;K and Ladakh), Nepal, Sri Lanka, Morocco, Zambia and Zimbabwe). Varun operates 32 manufacturing plants across India as well as two in Nepal and four more in Sri Lanka, Morocco, Zambia, and Zimbabwe. Varun’s operations are managed with independence and professionalism to deliver a product portfolio that includes some of PepsiCo’s most iconic brands. For companies in the fast-moving consumer goods (FMCG) industry, good governance and compliance are integral aspects of daily business. Varun Beverages ensures that lines of communication remain open and everyone works according to the same objectives with monthly “checklist” and quarterly board meetings. Varun’s executive board advocates for accountability, responsibility, and transparency throughout its operations. Half of the 10-member board are independent directors, and this helps balance the management structure. Compliance is key at Varun Beverages, and it publishes periodic reports demonstrating a long track record of good corporate citizenship. Varun’s thought leadership stays ahead of time and the company has effectively addressed environmental concerns by partnering with government registered bodies across India to manage post-consumption packaging waste and optimise recycling processes. The CFI.co judges are pleased to present Varun Beverages with the 2019 Best FMCG Corporate Governance (India) award.</p>",
     "content_sha256": "77f8a993ad0cc3fcb5f455c9371d2d413ca89fc9cc5de81e30786d0a8ee94b08",
-    "record_sha256": "7d51b0957c7cd9ca195b74db17e59428890f1c9d0db451fcde4935d2b6dd6202"
+    "record_sha256": "817823c44f04720c8ff2df57c37afd36bc854997977b69184e579f14e76cbaf3"
 }
