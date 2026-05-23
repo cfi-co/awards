@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418060742
+wayback_snapshot_url: "http://web.archive.org/web/20210418060742/https://cfi.co/awards/north-america/2021/applied-systems-best-cloud-based-insurance-software-provider-us-2021/"
 content_sha256: 86886328368cb1c1f78fa0f4b6dd9b3a34a55075e8b1b52b01d53b30cb9f26bb
 canonical: 8985-applied-systems-best-cloud-based-insurance-software-provider-us-2021.json
 ---

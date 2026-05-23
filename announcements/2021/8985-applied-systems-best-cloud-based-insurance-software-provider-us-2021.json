@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210418060742",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210418060742/https://cfi.co/awards/north-america/2021/applied-systems-best-cloud-based-insurance-software-provider-us-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8986\" src=\"https://cfi.co/awards/wp-content/uploads/2021/03/Applied.jpg\" alt=\"Applied\" width=\"400\" height=\"84\" />\r\n<p style=\"text-align: justify;\">Founded in 1983, Applied Systems has cornered the market for cloud-based insurance software. The multinational company has offices in the US, Canada, the UK and Ireland, and employs 1,600 people. Applied Systems has cultivated a work culture that inspires camaraderie and collaboration, and encourages innovation. Applied Systems partners with insurance agencies and brokerages to help protect consumers. According to independent assessment, half of all property and casualty insurance agencies use Applied Systems’ tech, as do almost all independent agencies and brokers in America. Applied Systems software solutions increase information exchange, automate workflows and enhance communication. The firm helps to unlock and analyse raw data to support informed decision-making. It has developed a broker management system, Applied Epic, to meet the specific regulatory and market needs of different countries. Applied Systems believes that the pandemic spurred the insurance industry to pack three years of digital transition into a three-month period. The pioneering company has contributed to the growth of the global industry. Insurers, agencies and brokers know that Applied Systems has the technology covered, allowing them to focus on growing the business and serving clients. Applied Systems received a nine-figure investment in 2018 from CapitalG, Google’s growth equity investment fund, which has fuelled research into AI and machine-learning. The CFI.co judging panel presents Applied Systems with the 2021 award for Best Cloud-Based Insurance Software Provider (US).</p>",
     "content_sha256": "86886328368cb1c1f78fa0f4b6dd9b3a34a55075e8b1b52b01d53b30cb9f26bb",
-    "record_sha256": "ea94608f0fdb1d581eece287df5537c6360a54d56c81e0a9bb21b2e8f8e8f551"
+    "record_sha256": "37f758cd0d40547459cb372c78da839b387e54c736731c3f72c2f8a1b4179bfe"
 }
