@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20180409094856",
+        "wayback_snapshot_url": "http://web.archive.org/web/20180409094856/http://cfi.co/awards/banking/2017/vallstein-best-bank-relationship-management-solutions-global-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4179\" src=\"https://cfi.co/awards/wp-content/uploads/2017/04/Vallstein.jpg\" alt=\"\" width=\"418\" height=\"96\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Getting value for money from banks is sometimes an uphill battle. Vallstein, however, helps corporates leverage their relationships with financial service providers in order to gain access to the best deals, service, and conditions. Looking beyond treasury management, Vallstein favours a holistic approach that aims to provide for a seamless match between corporates and their banks.</strong></p>\r\n<p style=\"text-align: justify;\">Vallstein derives pride from its independence: the firm does not work for, or act on behalf of, financial services providers. Focused on charting and meeting the clients’ needs, Vallstein relentlessly pursues value for its corporate clients by facilitating understanding and streamlining workflows.</p>\r\n<p style=\"text-align: justify;\">Launched in 2000, Vallstein counts on the expertise of a multinational team of seasoned professionals. The firm has developed a suite of bank relationship management software which allows users an instant overview of their banking costs, including indirect expenses such as margins on forex and credit operations. WalletSizing, a registered trademark, incorporates the latest updates to the Basel III global regulatory framework. The software also offers corporates insights into the return on solvency banks are earning on their business.</p>\r\n<p style=\"text-align: justify;\">Armed with this data, corporates can better evaluate proposals put forward by banks and negotiate better conditions.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends Vallstein on tapping into markets thus far underserved. The firm’s products and services essentially pay for themselves many times over via the savings it offers users. The judges recognise Vallstein’s value-proposition and declare the firm winner of the 2017 Best Bank Relationship Management Solutions Global Award.</p>",
     "content_sha256": "e1a17ab00bb4758820fa83f51fde54325501e686b09a96bbeebdba557231ca0e",
-    "record_sha256": "1cec18c4e570bb8d3b03d5ae737b6dd45357b9f7d36b9be8fc7567c8839dfcec"
+    "record_sha256": "3cdacec32bdbaf85358189d0085d1e232f44eaae46fc96bf04172a82b634f3a5"
 }
