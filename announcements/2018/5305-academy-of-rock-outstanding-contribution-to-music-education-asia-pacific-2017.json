@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter wp-image-5307\" src=\"https://cfi.co/awards/wp-content/uploads/2018/02/AoR.jpg\" alt=\"\" width=\"232\" height=\"229\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>South East Asia is about to rock and it’s not just the economy that is moving and shaking. The Singapore-based Academy of Rock, set up in 2007 and now recognised as the region’s premier music education venue, offers a whole raft of qualifications not previously available to aspiring rock stars. The institution has implemented a comprehensive and well-structured curriculum that gives contemporary music students an educational grounding similar to those enjoyed by classical music performers.</strong></p>\r\n<p style=\"text-align: justify;\">The academy works in close cooperation with the music industry in order to provide students with a maximum of opportunities. The Academy of Rock recently opened its own state-of-the-art recording studio to expand its programme with courses on creative music production techniques. The academy organises and hosts a large number of masterclasses and clinics with internationally-renowned artists. Students are prepared for graded music exams and diplomas which are fully accredited by UK regulators and include UCAS points.</p>\r\n<p style=\"text-align: justify;\">True to its motto that it’s never too early (or too late) to rock, the academy launched Jungle Jam, a series of books designed for 0-5 year olds. Jungle Jam is slated to expand into an online music platform for young children and will provide a seamless transition to the academy’s Early Years Programme which is set to be launched next January.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel noted that the Academy of Rock is currently pursuing deals with Netflix and Disney, and has also embarked on regional expansion with franchises in a number of countries. The judges are pleased to offer the Academy of Rock the 2017 Outstanding Contribution to Music Education Asia Pacific Award.</p>",
     "content_sha256": "fa047766112278c75b6c6935a0dd93109de37d48e7ca0537b96673127b342bd2",
-    "record_sha256": "a79bc818703908e5ee54eeae4f2aefcf9ee386754cbec4ed612296f74915b2d1"
+    "record_sha256": "edd72acbab519523587f75fe92f382a320a5c005cef2517e1f85b9c79cf75071"
 }
