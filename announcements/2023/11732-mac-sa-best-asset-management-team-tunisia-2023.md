@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923173110
+wayback_snapshot_url: "http://web.archive.org/web/20230923173110/https://cfi.co/awards/africa/2023/mac-sa-best-asset-management-team-tunisia-2023/"
 content_sha256: 15605096482dc597dcfcd907741e8a8b21c3938eada385dc9b4bd860fcbc5046
 canonical: 11732-mac-sa-best-asset-management-team-tunisia-2023.json
 ---
