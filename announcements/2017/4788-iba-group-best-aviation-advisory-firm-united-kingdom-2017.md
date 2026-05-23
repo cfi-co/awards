@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 65eee3763455afdafa248b3e90337691757a73e9652f414b721c357f4465c615
 canonical: 4788-iba-group-best-aviation-advisory-firm-united-kingdom-2017.json
 ---
