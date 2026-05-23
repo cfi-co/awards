@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409123602
+wayback_snapshot_url: "http://web.archive.org/web/20140409123602/http://cfi.co/awards/europe/2012/childrens-rights-concerns-of-award-winner-norges/"
 content_sha256: 6757db95549e890477433dd56219edd0a9ad775fc0f77af53c5409fca90d9f51
 canonical: 188-childrens-rights-concerns-of-award-winner-norges.json
 ---
