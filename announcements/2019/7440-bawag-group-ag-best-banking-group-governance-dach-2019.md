@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0c500cb7c8a432c5783cd053a686bbccb80ec788045c6238fd61dea67134e09b
 canonical: 7440-bawag-group-ag-best-banking-group-governance-dach-2019.json
 ---
