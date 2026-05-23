@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124132508
+wayback_snapshot_url: "http://web.archive.org/web/20250124132508/https://cfi.co/awards/industries/2024/parque-industrial-duarte-outstanding-industrial-park-caribbean-2024/"
 content_sha256: c5884ea4858f507505016763384a01bf3c56efc22d3e3fafc0a8defb97e88aac
 canonical: 12471-parque-industrial-duarte-outstanding-industrial-park-caribbean-2024.json
 ---
