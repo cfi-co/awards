@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920104037
+wayback_snapshot_url: "http://web.archive.org/web/20210920104037/https://cfi.co/awards/europe/2021/eagle-technology-as-best-sustainable-technology-value-creation-europe-2021/"
 content_sha256: 8cbc5af9eeadba526ab26ed9fb2b2b428a5809c3e04eab9d80763069dc6febfd
 canonical: 9581-eagle-technology-as-best-sustainable-technology-value-creation-europe-2021.json
 ---
