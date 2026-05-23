@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630132125
+wayback_snapshot_url: "http://web.archive.org/web/20220630132125/https://cfi.co/awards/north-america/2022/pgm-global-inc-best-global-portfolio-strategy-team-north-america-2021/"
 content_sha256: 5fa2c63b03c5041e390440091edf0c6bdf5f2280a645e23fae9ceda184904602
 canonical: 10150-pgm-global-inc-best-global-portfolio-strategy-team-north-america-2021.json
 ---
