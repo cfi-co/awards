@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: e197d939582c4217b7bec8a6a8272e4a11704f623dfcb9f3edfe4186e13a672f
 canonical: 557-best-law-firm-georgia-award-for-2013-goes-to-dla-piper.json
 ---
