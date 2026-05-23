@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170809171808
+wayback_snapshot_url: "http://web.archive.org/web/20170809171808/http://cfi.co/awards/asia-pacific/2017/gvk-bio-best-life-sciences-qhse-leadership-india-2017/"
 content_sha256: 2eb496de0203c8456a78a22b3aee5fc462d3145b78de111555b69ab2b64e9770
 canonical: 4331-gvk-bio-best-life-sciences-qhse-leadership-india-2017.json
 ---
