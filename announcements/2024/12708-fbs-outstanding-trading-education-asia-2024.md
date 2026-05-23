@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250522160815
+wayback_snapshot_url: "http://web.archive.org/web/20250522160815/https://cfi.co/awards/asia-pacific/2024/fbs-outstanding-trading-education-asia-2024/"
 content_sha256: 1990e977c3782196ba05d1779387c61cf830aa79ac05fe68c3dc3fa65c6b831d
 canonical: 12708-fbs-outstanding-trading-education-asia-2024.json
 ---
