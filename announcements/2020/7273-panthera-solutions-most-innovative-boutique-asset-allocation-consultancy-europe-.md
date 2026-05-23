@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200326234506
+wayback_snapshot_url: "http://web.archive.org/web/20200326234506/https://cfi.co/awards/europe/2020/panthera-solutions-most-innovative-boutique-asset-allocation-consultancy-europe-2019/"
 content_sha256: 181c3297296f2ccf00ef3b370ee18041b5115ab1368b4209a8e897e74d0ea321
 canonical: 7273-panthera-solutions-most-innovative-boutique-asset-allocation-consultancy-europe-.json
 ---
