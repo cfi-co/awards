@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208100816
+wayback_snapshot_url: "http://web.archive.org/web/20230208100816/https://cfi.co/awards/industries/2022/nextenergy-capital-best-clean-energy-transformation-leader-uk-2022/"
 content_sha256: 46a4c6abd29e9adde373d3da0e1a105471030458066cb3fae1fae2491a6474fb
 canonical: 11024-nextenergy-capital-best-clean-energy-transformation-leader-uk-2022.json
 ---
