@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409064043
+wayback_snapshot_url: "http://web.archive.org/web/20140409064043/http://cfi.co/awards/north-america/2013/metlife-150-years-of-service-in-the-united-states-and-winner-of-the-cfi-insurance-award-2013/"
 content_sha256: 99c3b41c6436fb30f1d8509ecc8b580ac65c2413f12953e958c5bdb21d16e03b
 canonical: 924-metlife-150-years-of-service-in-the-united-states-and-winner-of-the-cfi-insuranc.json
 ---
