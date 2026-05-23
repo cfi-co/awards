@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200511005741
+wayback_snapshot_url: "http://web.archive.org/web/20200511005741/https://cfi.co/awards/europe/2020/24storage-ab-most-promising-value-creation-ipo-nordics-2020/"
 content_sha256: ed79c705ba30a18493bd5cee7f8249652e043142679a3f31b49d7b88077f27aa
 canonical: 7327-24storage-ab-most-promising-value-creation-ipo-nordics-2020.json
 ---
