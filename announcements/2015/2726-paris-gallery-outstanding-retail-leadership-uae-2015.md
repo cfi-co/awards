@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20181029030729
+wayback_snapshot_url: "http://web.archive.org/web/20181029030729/https://cfi.co/awards/middle-east/2015/paris-gallery-outstanding-retail-leadership-uae-2015/"
 content_sha256: 1236d8e9abb5a091eab14300b302d3aea53c27ba11e599476ca0f9c806ac71f2
 canonical: 2726-paris-gallery-outstanding-retail-leadership-uae-2015.json
 ---
