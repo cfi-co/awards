@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230528033154",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230528033154/https://cfi.co/awards/asia-pacific/2013/ashurst-in-australia-wins-2013-legal-award/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-475 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/05/ashurst.jpg\" alt=\"ashurst\" width=\"258\" height=\"66\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>The strong Intellectual Property team at Ashurst is acting for Samsung in its dispute with Apple.</strong> The lawyers here are very experienced and led by a highly effective litigator.  The IP group in Australia provides a full range of services and the firm rightly prides itself on its global presence and impressive industry sector coverage. Ashurst LLP is our award for ‘Best IP Team’, Australia, 2013.</p>",
     "content_sha256": "00bedb399e4564f70097cff8e790e28c6a8accaac7a81cc516b6578549c49a87",
-    "record_sha256": "0be0b7dbafc5bdaff1a49b6b711ccfa78ba6f35a274610d98b2c771858cdf4a4"
+    "record_sha256": "d35aa45e5eb11d50ba32e347c16dcb977e4232bf5c4f88ca31657bcc6241a4c3"
 }
