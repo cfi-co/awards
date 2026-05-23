@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614190639
+wayback_snapshot_url: "http://web.archive.org/web/20210614190639/https://cfi.co/awards/europe/2021/atkins-best-sustainable-engineering-design-partner-global-2021/"
 content_sha256: a390b4960beba89d32956bec1a5829848f200f8074283af8662b60a1dcac6869
 canonical: 9187-atkins-best-sustainable-engineering-design-partner-global-2021.json
 ---
