@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409010325
+wayback_snapshot_url: "http://web.archive.org/web/20140409010325/http://cfi.co/awards/europe/2013/the-virtues-of-prudence-winner-best-insurance-company-uk-2013-is-confirmed-by-the-panel/"
 content_sha256: f989e2a244a493463e4a047d345483a4d76fc69a3b0fea662900a57f2b55aa1b
 canonical: 928-the-virtues-of-prudence-winner-best-insurance-company-uk-2013-is-confirmed-by-th.json
 ---

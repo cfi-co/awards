@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140409010325",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409010325/http://cfi.co/awards/europe/2013/the-virtues-of-prudence-winner-best-insurance-company-uk-2013-is-confirmed-by-the-panel/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-929\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/Prudential.gif\" alt=\"Prudential\" width=\"283\" height=\"57\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The Prudential Assurance Company was founded in 1848 and within fifty years became the leading life assurance company in the United Kingdom.</strong> During World War One, the Company settled policies on the lives of one third of the British service personnel killed in action. ‘The Pru’ (so named to encourage the virtue of prudence) now has 7 million policy holders in the UK out of a total of 26 million customers worldwide.</p>\r\n<p style=\"text-align: justify;\">According to the CFI Judging Panel, ‘The Prudential has emerged from the Global Economic Crisis in robust good health and with a clear strategy for the future development of the business. UK policy holders should be happy to know that the Company’s investment returns are consistently outperforming the market. The top ‘Man from the Pru’ is now a woman. Jackie Hunt, formerly at Standard Life, became the insurer’s CEO, UK and Europe in April 2013. We wish her all success.’</p>",
     "content_sha256": "f989e2a244a493463e4a047d345483a4d76fc69a3b0fea662900a57f2b55aa1b",
-    "record_sha256": "ecdfb6bdc54a8f6fae6842a8824fd9ccd3ac509b8ef5b662c8cb1fbad2ca956d"
+    "record_sha256": "0ae5d438ecf73a90e3a055069a90f368ff8343c6636ead912c265f86893f8f0c"
 }
