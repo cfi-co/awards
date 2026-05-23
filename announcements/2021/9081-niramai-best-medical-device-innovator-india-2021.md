@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210509103109
+wayback_snapshot_url: "http://web.archive.org/web/20210509103109/https://cfi.co/awards/asia-pacific/2021/niramai-best-medical-device-innovator-india-2021/"
 content_sha256: dee4cb4a15119015e050efd02dd7139938f53f70c0035c72ed61633c08eb40f5
 canonical: 9081-niramai-best-medical-device-innovator-india-2021.json
 ---
