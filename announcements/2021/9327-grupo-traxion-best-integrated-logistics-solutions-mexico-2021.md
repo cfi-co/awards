@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016003601
+wayback_snapshot_url: "http://web.archive.org/web/20211016003601/https://cfi.co/awards/latin-america/2021/grupo-traxion-best-integrated-logistics-solutions-mexico-2021/"
 content_sha256: d81f773ef0c603553d739e9c8d20149f1c671a4e2339cc50674cd0fbf92a9473
 canonical: 9327-grupo-traxion-best-integrated-logistics-solutions-mexico-2021.json
 ---
