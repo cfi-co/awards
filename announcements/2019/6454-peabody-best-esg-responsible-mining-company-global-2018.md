@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 70497c841e9367e719d2aa875e4632a02505873a97e762df3dc12203251b103f
 canonical: 6454-peabody-best-esg-responsible-mining-company-global-2018.json
 ---
