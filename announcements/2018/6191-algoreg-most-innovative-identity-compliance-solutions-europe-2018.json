@@ -21,10 +21,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190825094641",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190825094641/https://cfi.co/awards/professional-services/2018/algoreg-most-innovative-identity-compliance-solutions-europe-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6192\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/algoreg.jpg\" alt=\"\" width=\"195\" height=\"57\" />\r\n<p style=\"text-align: justify;\"><strong>Think opening an account and verifying identity is a long and frustrating process?</strong> So did the founders of algoreg, the Luxembourg-based regtech (regulatory technology) company that’s reshaping customer integration. For some industries, such as payment service providers and digital assets, opening an account requires a lengthy due diligence process — Know Your Customer (KYC) — to verify customer identity and assess the risk of fraudulent or criminal activity. For other industries, the requirements for customer identity verification may not be as strict, but they’re often cumbersome and tedious. Identity compliance regulations vary greatly by industry and region, but algoreg has streamlined the process to meet compliance requirements with innovative tech solutions. Founded by experts with more than 20 years of professional experience in the compliance and payment industry, algoreg knows the business inside and out. The company team has a wide range of expertise, from anti-money laundering (AML) and counter-terrorism financing (CTF) to information security and software development. It integrates technology to provide bespoke customer solutions. The algoreg solution is an innovative end-to-end solution to automate customer on-boarding — whenever, wherever. Key features that include a one-of-a-kind video ID verification system that uses an intuitive video-bot that speaks over 100 languages and works day and night — to face-match customers with IDs and check for forgeries, an intuitive name-screening product powered by a Dow Jones partnership, and a customisable risk-scoring solution. For its fully compliant product line-up and a pain-free user experience, algoreg takes the 2018 award win for Most Innovative Identity Compliance Solutions Europe.</p>",
     "content_sha256": "dddca544b5a8c3368726a654247f864494bc1076166bf0ceffbaea49a687c471",
-    "record_sha256": "ee7bcf03fbb42799feef01a4241c4047c2a1256e2f74ef0acf5dcbb146ab84a8"
+    "record_sha256": "dd14f045a4704430cb71c47f24b828aad251b86f0adb41b57705058d7b08e6cc"
 }
