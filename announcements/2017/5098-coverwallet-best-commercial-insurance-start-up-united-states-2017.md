@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426113403
+wayback_snapshot_url: "http://web.archive.org/web/20190426113403/https://cfi.co/awards/north-america/2017/coverwallet-best-commercial-insurance-start-up-united-states-2017/"
 content_sha256: 1cc2899654af10267dab4af5b35b162b3d6f3a740afc4d37038f952267c79500
 canonical: 5098-coverwallet-best-commercial-insurance-start-up-united-states-2017.json
 ---
