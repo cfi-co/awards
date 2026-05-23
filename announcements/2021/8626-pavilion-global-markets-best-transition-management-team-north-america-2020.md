@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210130191206
+wayback_snapshot_url: "http://web.archive.org/web/20210130191206/https://cfi.co/awards/finance/2021/pavilion-global-markets-best-transition-management-team-north-america-2020/"
 content_sha256: 0e8b93eaf307468b2621b3bfdae3073fd686e6e26c3df9d482049f7c8bee3493
 canonical: 8626-pavilion-global-markets-best-transition-management-team-north-america-2020.json
 ---
