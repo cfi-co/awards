@@ -19,10 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190216035452",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190216035452/https://cfi.co/awards/front/2018/lienvietpostbank-best-retail-bank-vietnam-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6172\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/LienViet.jpg\" alt=\"\" width=\"349\" height=\"62\" />\r\n<p style=\"text-align: justify;\">As the economy in Vietnam continues its rapid development, the banking sector is expanding quickly to meet demand and help ensure that the new opportunities created reach the entire population. To be the best retail bank is about far more than serving easy to reach individuals and businesses in the major population centres. LienVietPostBank certainly does provide those clients with excellent services for both their personal and corporate business (and is able to boast of some of Vietnam’s largest corporates as clients) but it has also been expanding its use of postal transaction offices to help bring prosperity throughout the entire country. The bank is continuously revising its offering to customers and has incorporated the latest technology, while remembering that technology has to make the customer’s life easier – not just the bank’s. The CFI.co judging panel are delighted to declare LienVietPostBank winner of the CFI.co award Best Retail Bank - Vietnam 2018.</p>",
     "content_sha256": "03404a891423a2066e4d8591fa4cbcfe5779919df74c57d0ce9b11f5dc57b450",
-    "record_sha256": "932670713a488edfd456ecd708cc98ad8cadc4057f00e206c5d8888cde7c3d40"
+    "record_sha256": "51de11fd072501ba724d5071fa60583801384b8b2f5d051c57bb3c4198242e15"
 }
