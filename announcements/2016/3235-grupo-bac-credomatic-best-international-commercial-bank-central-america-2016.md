@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250710141236
+wayback_snapshot_url: "http://web.archive.org/web/20250710141236/https://cfi.co/awards/banking/2016/grupo-bac-credomatic-best-international-commercial-bank-central-america-2016/"
 content_sha256: f579eca20f7f504c8e75bd585a9393155ed7df51b0cbef964be7e7f65af46694
 canonical: 3235-grupo-bac-credomatic-best-international-commercial-bank-central-america-2016.json
 ---
