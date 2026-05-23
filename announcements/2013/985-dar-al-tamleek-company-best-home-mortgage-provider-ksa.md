@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409003404
+wayback_snapshot_url: "http://web.archive.org/web/20140409003404/http://cfi.co/awards/middle-east/2013/dar-al-tamleek-company-best-home-mortgage-provider-ksa/"
 content_sha256: 41c6e29d34d6890130081812d72b035f1f4923789a3a9407e0823801ca7bf543
 canonical: 985-dar-al-tamleek-company-best-home-mortgage-provider-ksa.json
 ---
