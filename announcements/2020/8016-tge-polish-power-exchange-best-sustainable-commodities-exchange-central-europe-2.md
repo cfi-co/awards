@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0009a6241fa54122868196e3ef324cf49d1f7c6fce76dfb9d1ca99584610c147
 canonical: 8016-tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2.json
 ---
