@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409184049
+wayback_snapshot_url: "http://web.archive.org/web/20140409184049/http://cfi.co/awards/middle-east/2013/al-mal-claims-equity-fund-manager-award-uae-2013/"
 content_sha256: a71f59ea60daedde5e4c453e4a0601b69592942cf5663abd10091ff697cceb5a
 canonical: 891-al-mal-claims-equity-fund-manager-award-uae-2013.json
 ---
