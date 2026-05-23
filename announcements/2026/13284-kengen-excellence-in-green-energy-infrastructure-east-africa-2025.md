@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315120358
+wayback_snapshot_url: "http://web.archive.org/web/20260315120358/https://cfi.co/awards/africa/2026/kengen-excellence-in-green-energy-infrastructure-east-africa-2025/"
 content_sha256: c0e62026c53b371550675fdacfef3e41c7ae7dae9b9e75dc57eb677028878d8c
 canonical: 13284-kengen-excellence-in-green-energy-infrastructure-east-africa-2025.json
 ---
