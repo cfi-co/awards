@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4978\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/UMG.jpg\" alt=\"\" width=\"138\" height=\"161\" />\r\n<p style=\"text-align: justify;\"><strong>Established in 1998 to help Myanmar implement large-scale projects aimed at accelerating growth and fast-tracking national development, the UMG group of companies pursues excellence across its numerous business lines. A diversified conglomerate with its head office in Yangon, UMG is active in nine sectors: financial services, education, healthcare, logistics, food, entertainment, property and infrastructure development, mining, and telecommunications and IT.</strong></p>\r\n<p style=\"text-align: justify;\">The company has become a depository of expertise and experience. Thanks to its stellar reputation, UMG attracts the brightest graduates from Myanmar’s universities who seek to embark not only on a promising career, but also to gain access to corporate knowledge. As such, UMG is also recognised as a fertile breeding ground of successful managers and entrepreneurs. UMG dedicates considerable resources to continuous skills development.</p>\r\n<p style=\"text-align: justify;\">Growing from a start-up with six people selling generators, UMG managed to attain critical corporate mass in under a decade with an unequalled growth trajectory. The company is now recognised as one of Myanmar’s top companies and employs well over 2,500 people.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends UMG on its achievements and agrees that investing in people – either employees or other stakeholders via corporate social responsibility initiatives – is an essential part of any corporate success formula. The company helps shape the Myanmar brand which is set to become the latest addition to a string of South East Asian success stories.</p>\r\n<p style=\"text-align: justify;\">The judges are pleased to offer UMG the 2017 Outstanding Contribution to Socio-Economic Development Myanmar Award.</p>",
     "content_sha256": "e6851b07dd5f1b21f97f76f1af86b485a5d1a9257d18e2332c1b2875637f26f4",
-    "record_sha256": "ed03cb36066b04525644ab18101f757ba8c612739097a5a5c07572603c472c92"
+    "record_sha256": "62ed1eb0852989e46ae854f7a21f44c928951dd6524d93eae7da3e1ecbd66501"
 }
