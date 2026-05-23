@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e3eaa00e79c9a5f61e7cffc25fa1a0aecbac0f736e16534d04901b46bf41a032
 canonical: 6263-zurich-insurance-best-sustainable-insurer-switzerland-2018.json
 ---
