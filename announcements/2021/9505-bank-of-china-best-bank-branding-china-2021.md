@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920103536
+wayback_snapshot_url: "http://web.archive.org/web/20210920103536/https://cfi.co/awards/asia-pacific/2021/bank-of-china-best-bank-branding-china-2021/"
 content_sha256: 2c146c3cafb8a8a5b38a192db91d7eff9f5011b622ca164acab87583ea6fbc50
 canonical: 9505-bank-of-china-best-bank-branding-china-2021.json
 ---
