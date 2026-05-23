@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211207204907",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211207204907/https://cfi.co/awards/middle-east/2021/gulf-insurance-group-kuwait-most-innovative-insurance-solutions-provider-mena-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8113\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/GIG-Kuwait.jpg\" alt=\"Gulf Insurance Group GIG Kuwait\" width=\"343\" height=\"400\" />\r\n<p style=\"text-align: justify;\">Gulf Insurance Group Kuwait (GIG-Kuwait) has been protecting people and property since 1962. The company is an insurance pioneer and was the first to introduce online policy procurement and claims approval in Kuwait. GIG-Kuwait implements advanced technology to enhance operations, increase efficiencies and improve client care. It has upgraded core systems to support the full insurance life cycle: underwriting, claims, reinsurance, finance and enterprise resource planning. It installed a human resources management system that has automated certain processes, like payroll, appraisals, hiring, onboarding and offboarding. Pharmacy benefits are managed through an automated process that can detect invalid claims based on solid medical and pharmaceutical rules, which has resulted in operational efficiencies, cost savings and quality enhancements. GIG-Kuwait is always looking to improve customer experiences and is revamping a cross-channel portal that unifies products, service and communication. Clients stay connected through multiple channels, including the website and app, where policies are purchased and claims approved. GIG-Kuwait is the largest insurer in the country, protecting 70 percent of the population. A 300-person team serves more than 54,000 customers, including 10,000 companies, through a national network of 9 branches. There are more than 200 health service providers working with GIG-Kuwait. Apart from health and life insurance, GIG-Kuwait also offers auto, marine, travel and property insurance. The CFI.co judging panel is pleased to present Gulf Insurance Group Kuwait, a repeat programme winner, with the 2021 award for Most Innovative Insurance Solutions Provider (MENA).</p>",
     "content_sha256": "b5f3a4cf0ba197d3aa9041f1898dc415094ccf020c2085c3658149e53fa303fc",
-    "record_sha256": "7330f55433ea6dc2669e19835065270e9405800ea24d81aa577cd14c6daaa5b8"
+    "record_sha256": "76fab6ff485fa975785c66e06585e94110ccb09fbad06777b0e9c613515ce6e6"
 }
