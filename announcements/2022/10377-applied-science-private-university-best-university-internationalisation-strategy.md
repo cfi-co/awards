@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630130144
+wayback_snapshot_url: "http://web.archive.org/web/20220630130144/https://cfi.co/awards/middle-east/2022/applied-science-private-university-best-university-internationalisation-strategy-middle-east-2022/"
 content_sha256: 9513f27dd02115d4905d6ddf68be1cbfa792ae4282e1ad976db0fa2ab407516f
 canonical: 10377-applied-science-private-university-best-university-internationalisation-strategy.json
 ---
