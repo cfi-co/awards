@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211207221854",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211207221854/https://cfi.co/awards/africa/2021/eqdom-maroc-best-digital-consumer-finance-north-africa-2021/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-9808\" src=\"https://cfi.co/awards/wp-content/uploads/2021/11/EQDOM.jpg\" alt=\"EQDOM\" width=\"400\" height=\"141\" /></p>\r\n<p style=\"text-align: justify;\">Eqdom Maroc has been offering consumer credit solutions to Moroccan households for almost 50 years. The company is a subsidiary of French multinational retail investment banking and financial services giant Groupe Société Générale. Eqdom Maroc is undergoing a rebrand that sees a new logo, motto, and action plan unfurl. Digital transformation is a key pillar in the process. The global pandemic accelerated the need for action and propagated a rapid change to the company’s online offering. Before Covid, the Eqdom website served mainly as a lead generator of new clients. Through a data-driven, user experience-focused overhaul, Eqdom has developed a best-in-class website with loan simulation tools and online credit application. The company prioritises digital security and data processing. A physical visit to a branch is still required to finalise an approval, but as soon as national regulations allow, the process will be completely digital. Eqdom has seen a rebound in business activity since the start of the pandemic. It has introduced an online feature allowing clients to apply to defer loan payments. The company’s business model has evolved from traditional to modern, a transition marked by digital progress and aimed at customer satisfaction. This has boosted the growth trajectory and operational efficiency of Eqdom, and enhanced customer service and feedback. The CFI.co judging panel presents Eqdom Maroc, a repeat programme winner, with the 2021 award for Best Digital Consumer Finance (North Africa).</p>",
     "content_sha256": "ae954a7599a94f83de1e330e3121732eebd9802ad5db4b551ce74ad59d3a6081",
-    "record_sha256": "72f8f7ba533a1e0f55fd1585fb5f8996eedb3ef579b75c2ca638c883fc11bf1d"
+    "record_sha256": "174752fe54733d7c57bfb8c16ed677467f30b38bf1d4729c6cf8adfc71312fbd"
 }
