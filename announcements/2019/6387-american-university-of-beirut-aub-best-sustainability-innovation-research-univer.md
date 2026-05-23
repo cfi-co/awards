@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717205619
+wayback_snapshot_url: "http://web.archive.org/web/20190717205619/https://cfi.co/awards/front/2019/american-university-of-beirut-aub-best-sustainability-innovation-research-university-middle-east-2018/"
 content_sha256: 9fe2e077b5dbbdb578f4cebfcf1be3e9b314e9a4c0e5d2887b793164c0433ff4
 canonical: 6387-american-university-of-beirut-aub-best-sustainability-innovation-research-univer.json
 ---
