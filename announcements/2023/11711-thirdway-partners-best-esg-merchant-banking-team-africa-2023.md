@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923180356
+wayback_snapshot_url: "http://web.archive.org/web/20230923180356/https://cfi.co/awards/africa/2023/thirdway-partners-best-esg-merchant-banking-team-africa-2023/"
 content_sha256: b13037e9a990d6f5773b6a4fc3223b3789a4ab485a588224c803ac01b6746e41
 canonical: 11711-thirdway-partners-best-esg-merchant-banking-team-africa-2023.json
 ---
