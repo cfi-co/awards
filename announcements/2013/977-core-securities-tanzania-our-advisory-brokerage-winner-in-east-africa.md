@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209123926
+wayback_snapshot_url: "http://web.archive.org/web/20140209123926/http://cfi.co/awards/africa/2013/core-securities-tanzania-our-advisory-brokerage-winner-in-east-africa/"
 content_sha256: c3254a8ffa472f58332e5716825bd0b98183fdb4aa8127eb1d419c2f4088e428
 canonical: 977-core-securities-tanzania-our-advisory-brokerage-winner-in-east-africa.json
 ---
