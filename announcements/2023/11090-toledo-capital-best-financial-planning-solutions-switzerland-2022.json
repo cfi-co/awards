@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230208105758",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230208105758/https://cfi.co/awards/europe/2023/toledo-capital-best-financial-planning-solutions-switzerland-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-9452 size-full\" title=\"Toledo Capital\" src=\"https://cfi.co/awards/wp-content/uploads/2021/08/Toledo-Capital.jpg\" alt=\"Toledo Capital\" width=\"400\" height=\"240\" />\r\n\r\nToledo Capital levers a decade of experience in wealth management and financial planning. The firm caters to high-net-worth individuals, tailoring solutions to cover their needs &amp; long-term financial objectives.\r\n\r\nIt is one of the few multi-family offices fully regulated by the Swiss Financial Market Supervisory Authority (FINMA) and one of the first to offer to their clients access to a unique operating Investment Ecosystem with their Real Estate and Innovation scouting group companies.\r\n\r\nToledo’s ecosystem introduces its clients to exclusive private deals, giving them the opportunity of diversifying their portfolio. Thanks to their professional approach to wealth management &amp; financial planning, Toledo has been able to maintain their clients trust for more than 10 years. The CFI.co judging panel presents repeat winner Toledo Capital with the 2022 award for Best Financial Planning Solutions (Switzerland).",
     "content_sha256": "7e0957e42b34a359434d08ed88b698c8273964b2caf46f8f9257fabdfa1600b7",
-    "record_sha256": "fccf78f0119c38b63eba00aab866dcca74d3f06f8dd78f8c9ea3a5b2e40df5b3"
+    "record_sha256": "7e8e052f95b44744cc67d6d665cd5a11627f738d26bfe1119a076afb21d84b7c"
 }

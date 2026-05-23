@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208105758
+wayback_snapshot_url: "http://web.archive.org/web/20230208105758/https://cfi.co/awards/europe/2023/toledo-capital-best-financial-planning-solutions-switzerland-2022/"
 content_sha256: 7e0957e42b34a359434d08ed88b698c8273964b2caf46f8f9257fabdfa1600b7
 canonical: 11090-toledo-capital-best-financial-planning-solutions-switzerland-2022.json
 ---
