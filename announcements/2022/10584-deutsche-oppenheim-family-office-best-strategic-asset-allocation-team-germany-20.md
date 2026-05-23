@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5cb044e3e00acbb4128207bc98d39a0cd785e088b1d17c865d35b6ca0038834b
 canonical: 10584-deutsche-oppenheim-family-office-best-strategic-asset-allocation-team-germany-20.json
 ---
