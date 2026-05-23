@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921115556",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921115556/https://cfi.co/awards/asia-pacific/2015/quippo-oil-and-gas-infrastructure-best-onshore-oil-gas-drilling-team-india-2015/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2184\" src=\"https://cfi.co/awards/wp-content/uploads/2015/04/quippo.jpg\" alt=\"\" width=\"349\" height=\"218\" /></p>\r\n<p style=\"text-align: justify;\"><strong>With the second largest proven oil reserves in the Asia-Pacific Region and a new legal framework for exploration now firmly in place, India is gearing up to further reduce its dependency on imported hydrocarbons. Providing state-of-the art hardware for this push, Quippo Oil and Gas Infrastructure Limited (QOGIL) has become one of the fastest growing suppliers of drilling rigs and associated services.</strong></p>\r\n<p style=\"text-align: justify;\">The company offers its clients comprehensive one-stop solutions for onshore drilling. Its highly efficient rigs are skid-mounted for enhanced mobility and come equipped with brand-new top drives. In order to optimise operations, QOGIL’s highly-trained and experienced professionals assist clients from the well planning stage onwards to ensure the smooth delivery of a full suite of services.</p>\r\n<p style=\"text-align: justify;\">Responding to increased demand, QOGIL is currently in the process of doubling its fleet of drilling rigs and has solidified strategic partnerships with key players to expand the scope of its operations. The company maintains over 300 qualified engineers, roughnecks, derrickhands, and other personnel on its payroll who collectively strive to maintain QOGIL’s best-in-class performance.</p>\r\n<p style=\"text-align: justify;\">Team members are subjected to continuous and rigorous training programmes in order to keep skill levels up to date. The CFI.co judges considered it a pleasure to evaluate QOGIL’s operations, and the complex processes that drive them, finding a company dedicated to achieving excellence across the board and investing in the human resources necessary to maintain peak performance. The judging panel is therefore happy to bestow its Best Onshore Oil &amp; Gas Drilling Team India 2015 Award on Quippo Oil and Gas Infrastructure Limited.</p>",
     "content_sha256": "f129b85c9052ac80bac3d1d756769f076293d4b2f5be0ac57dab1d8b4490b58a",
-    "record_sha256": "3842d82c57608a045560a6f1b01ad6ba779e8202cd840d9ff4811a5e416b2379"
+    "record_sha256": "0fe9f9b80948aa461f4eda1576bd798265c09a7869549d880df16770900b46c1"
 }
