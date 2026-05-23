@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20130820190312
+wayback_snapshot_url: "http://web.archive.org/web/20130820190312/http://cfi.co/awards/africa/2013/orlean-invest-west-africa-cfi-community-engagement-award-winner-2013/"
 content_sha256: fd873542361b51da6a59896342b8cfc8ad1f59c6c7a9e8db48fd3e75bbe9dc44
 canonical: 649-orlean-invest-west-africa-cfi-community-engagement-award-winner-2013.json
 ---
