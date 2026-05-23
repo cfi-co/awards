@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203052718
+wayback_snapshot_url: "http://web.archive.org/web/20221203052718/https://cfi.co/awards/middle-east/2022/sabic-best-esg-responsible-petrochemical-company-global-2021/"
 content_sha256: d1188a0e836c7b2c033bd2ba08357049311a6cde8aea29d6bdf0f4b81a0acbc5
 canonical: 10048-sabic-best-esg-responsible-petrochemical-company-global-2021.json
 ---
