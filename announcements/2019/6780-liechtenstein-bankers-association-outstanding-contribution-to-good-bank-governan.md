@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190720032509
+wayback_snapshot_url: "http://web.archive.org/web/20190720032509/https://cfi.co/awards/banking/2019/liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governance-liechtenstein-2019/"
 content_sha256: 9ce8cff76b11077ec8b317a04b0bddabf40dbbd9a98fc9dde499fd6a3cfd0da2
 canonical: 6780-liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governan.json
 ---
