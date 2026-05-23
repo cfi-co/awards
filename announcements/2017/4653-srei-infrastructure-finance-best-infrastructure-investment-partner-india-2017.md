@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191119063144
+wayback_snapshot_url: "http://web.archive.org/web/20191119063144/https://cfi.co/awards/asia-pacific/2017/srei-infrastructure-finance-best-infrastructure-investment-partner-india-2017/"
 content_sha256: 276f672d85dfd681b882d51d518ab3409798f8e6e6368b7c917ac2c18929cfc2
 canonical: 4653-srei-infrastructure-finance-best-infrastructure-investment-partner-india-2017.json
 ---
