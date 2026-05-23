@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120073934
+wayback_snapshot_url: "http://web.archive.org/web/20210120073934/https://cfi.co/awards/asia-pacific/2020/dfnn-best-it-corporate-governance-philippines-2020/"
 content_sha256: 0604696ac9a820b4acb1e835510c755f5081ee6313741b9891dff3b9055bb471
 canonical: 8570-dfnn-best-it-corporate-governance-philippines-2020.json
 ---
