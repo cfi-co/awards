@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211015230911
+wayback_snapshot_url: "http://web.archive.org/web/20211015230911/https://cfi.co/awards/middle-east/2015/oman-uae-exchange-best-foreign-currency-services-oman-2015/"
 content_sha256: 9bdc73ac4d6b1cc81390cec962760d80e6cbf453ecb318c499b41c6371545570
 canonical: 3035-oman-uae-exchange-best-foreign-currency-services-oman-2015.json
 ---
