@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220528102639",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220528102639/https://cfi.co/awards/industries/2016/tenerife-free-zone-zft-best-free-trade-zone-partner-atlantic-corridor-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3574\" src=\"https://cfi.co/awards/wp-content/uploads/2016/11/TFZ.jpg\" alt=\"tfz\" width=\"784\" height=\"584\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Launched in 2012 to revive the Canary Islands’ historic condition as a free trade haven, the Tenerife Free Zone (ZFT – Zona Franca Tenerife) is home to a growing number of manufacturing and trading businesses. The area, part of the Santa Cruz de Tenerife port, offers full exemption from tariffs and direct and indirect taxation on imported goods. Streamlined procedures ensure that businesses encounter a bare minimum of red tape. Additionally, plant operators installed in the ZFT may also benefit from other fiscal instruments in the Canary Islands such as a reduced corporate income tax rate of only 4%). Businesses need only generate five full time jobs in order to benefit from the exceptionally advantageous fiscal regime.</strong></p>\r\n<p style=\"text-align: justify;\">The Tenerife Free Zone is a key component, and a driver, of the string of free zones that unites the Iberian Peninsula with the Caribbean and South America, enabling the establishment of smooth-running value chains spanning the Mid-Atlantic.</p>\r\n<p style=\"text-align: justify;\">The ZFT has been particularly successful in welcoming shipyards and associated businesses such as machine repair facilities, parts suppliers, and others.</p>\r\n<p style=\"text-align: justify;\">Located at a crossroads of shipping lanes, the ZFT is poised for significant expansion. These characteristics have allowed the FT to create and lead the Mid Atlantic Free Zone Corridor Initiative which seeks to unify free zones from the Americas, Europe, and West Africa with Tenerife becoming the corridor’s pivotal point.</p>\r\n<p style=\"text-align: justify;\">For its trade corridor initiative, the CFI.co judging panel is pleased to extend the 2016 Best Free Trade Zone Partner Atlantic Corridor Award to the Tenerife Free Zone.</p>",
     "content_sha256": "3aa75263ee38bce87cca049343f08aa4bb94ef7c92e1653220edca47775cedcf",
-    "record_sha256": "3e437599f9db6b064caca88278e050eaff8b354d3b0d9332c982140b609640a7"
+    "record_sha256": "49366cc69b0547ef2686cdb695962ba86a2ff47ff5b4b58fddfe8080e72b4148"
 }
