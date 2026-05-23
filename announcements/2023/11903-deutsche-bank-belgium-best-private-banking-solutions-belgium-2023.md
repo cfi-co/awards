@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206170446
+wayback_snapshot_url: "http://web.archive.org/web/20231206170446/https://cfi.co/awards/banking/2023/deutsche-bank-belgium-best-private-banking-solutions-belgium-2023/"
 content_sha256: 201e05e61f3a59837de485dc387fc3951138b0fe420e23782b8cb0f79b58ffb1
 canonical: 11903-deutsche-bank-belgium-best-private-banking-solutions-belgium-2023.json
 ---
