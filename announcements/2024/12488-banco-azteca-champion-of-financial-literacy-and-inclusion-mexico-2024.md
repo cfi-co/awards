@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241104204112
+wayback_snapshot_url: "http://web.archive.org/web/20241104204112/https://cfi.co/awards/banking/2024/banco-azteca-champion-of-financial-literacy-and-inclusion-mexico-2024/"
 content_sha256: 28c6910163f7a3d27c967e74800ca6846d15af3e455cd3dca0a2210b089d301a
 canonical: 12488-banco-azteca-champion-of-financial-literacy-and-inclusion-mexico-2024.json
 ---
