@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921112137",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921112137/https://cfi.co/awards/asia-pacific/2017/severstal-best-vertically-integrated-steel-company-russia-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4263\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/Severstal.jpg\" alt=\"\" width=\"267\" height=\"103\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Working the massive iron ore deposits of the Kola Peninsula in the sparsely-populated northwest corner of Russia, Severstal traces its origins as a major steelmaker to 1940 and the onset of the Great Patriotic War. The company is now the country’s largest steelmaker. Privatised and rebranded in 1993, Severstal has expanded overseas with mines and processing facilities in Kazakhstan, France, Italy, the Ukraine, and a number of African countries. In Italy, the company acquired Gruppo Lucchini renowned for its premier long and specialised carbon steel products.</strong></p>\r\n<p style=\"text-align: justify;\">The company is traded on the Moscow Exchange, where it forms a constituent part and bellwether of the MICEX Index, with cross-listings in London and Frankfurt. Severstal is recognised for its holistic approach to steelmaking. The company successfully integrated the full scope of its operations from mining and ore processing to a comprehensive suite of finished steel products such as pipes and heavy load-bearing rebar for large construction projects.</p>\r\n<p style=\"text-align: justify;\">Severstal developed a new generation of mini-mills to manufacture long products for civil engineering projects. The company’s steel has built Moscow’s skyline and numerous other landmarks such as the graceful fittings of the Western Rapid Diameter Motorway circling St Petersburg.\r\nThe CFI.co judging panel applauds Severstal’s dedication to vertically-integrated industrial operations. By securing its own supply of raw material the company is no longer subjected to the vagaries of global market for its inputs. The judges declare Severstal winner of the 2017 Best Vertically-Integrated Steel Company Russia Award.</p>",
     "content_sha256": "c4e0f400b71bbf6729406f3331f3cb936c35d828fcd81d6dc1816e4b29988246",
-    "record_sha256": "32fe572295e5269f4c9cbfbfe2494b5b59d9f2ccf3b46d83bee0e13d0e706dca"
+    "record_sha256": "f40aea54832a8b50efdaa530e3b8d0d72a476b7121aaf4128ca0189774dca6ef"
 }
