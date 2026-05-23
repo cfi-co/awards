@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724015329
+wayback_snapshot_url: "http://web.archive.org/web/20210724015329/https://cfi.co/awards/front/2018/nice-actimize-best-compliance-regtech-global-2018/"
 content_sha256: f7b52c1cebf106d3c78db2a7e50c5e83e0a06eae56eb759e75e9e47c973c378d
 canonical: 6228-nice-actimize-best-compliance-regtech-global-2018.json
 ---
