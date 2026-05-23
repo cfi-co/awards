@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418045449
+wayback_snapshot_url: "http://web.archive.org/web/20210418045449/https://cfi.co/awards/north-america/2021/alaska-permanent-fund-best-swf-investment-team-the-americas-2021/"
 content_sha256: 028342a719eeff37dfb9c4a30a1c9f580bdcd0683d171bb03f84e74d9a26f474
 canonical: 8963-alaska-permanent-fund-best-swf-investment-team-the-americas-2021.json
 ---
