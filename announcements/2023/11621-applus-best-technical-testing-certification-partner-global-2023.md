@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d36fd570c6dac2ebd5c9227b7eacea33c26f54cc9e3ceff8a1f910956ffdfe66
 canonical: 11621-applus-best-technical-testing-certification-partner-global-2023.json
 ---

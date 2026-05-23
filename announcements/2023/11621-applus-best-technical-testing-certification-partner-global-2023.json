@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11619\" src=\"https://cfi.co/awards/wp-content/uploads/2023/07/Applus-jpg.webp\" alt=\"Applus\" width=\"500\" height=\"159\" />\r\n\r\nApplus+ is a Madrid-based multinational company trusted by blue-chip companies and manufacturing partners worldwide to provide the testing, inspection and certification services required to safeguard and enhance client operations. It has built a loyal client base across 65 countries and 10 industrial sectors, particularly among automotive and energy partners. The company continues to reduce fossil fuel energy exposure and drive investments towards renewables. Since November 2021, Applus+ has invested more than €140m in acquisitions and minority stakes to shift the portfolio and service offering towards more sustainable, higher growth and better margin businesses. It adheres to rigorous sustainability standards in order to generate sustainable returns for investors and positive impacts for communities. Innovation has been a key propellent of the company’s development and will continue to light the path moving forward. Applus+ strives to accelerate the energy transition as a thought leader and technological expert in the fields of biomass, biofuel, onshore and offshore wind energy, photovoltaic energy and green hydrogen. From 2022 through 2024, Applus+ plans to spend between €300m and €400m on M&amp;As that align with its value-additive capital allocation strategy. Renewables are expected to claim a sizable chunk of allocated investments. The company has assembled a global workforce of over 25,000 skilled employees to help clients mitigate risks by evaluating the quality and safety of products, assets and operations. The CFI.co judging panel announces Applus+ as the 2023 global award winner for Best Technical Testing and Certification Partner.",
     "content_sha256": "d36fd570c6dac2ebd5c9227b7eacea33c26f54cc9e3ceff8a1f910956ffdfe66",
-    "record_sha256": "3e2c7ef0ca5cb96d553ff9e622010609f3ef93506802be8f048d05c15c2180c9"
+    "record_sha256": "54133bb8621cd75f08fb0820c49df8a48a3cb56de09d9742ec3c238212803428"
 }
