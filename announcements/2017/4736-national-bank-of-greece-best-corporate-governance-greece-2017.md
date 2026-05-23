@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 2331812a9ce75c137a6303a2b4cff4bf15e45d88d5171989d0c4e4a4728fd60f
 canonical: 4736-national-bank-of-greece-best-corporate-governance-greece-2017.json
 ---
