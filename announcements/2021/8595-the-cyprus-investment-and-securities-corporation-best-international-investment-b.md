@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120075230
+wayback_snapshot_url: "http://web.archive.org/web/20210120075230/https://cfi.co/awards/europe/2021/the-cyprus-investment-and-securities-corporation-best-international-investment-banking-team-cyprus-2020/"
 content_sha256: 36e68c2df02bbc8e5e184ee6bfd338c3c983dc917519a1f62e8b7a7bbd9311b7
 canonical: 8595-the-cyprus-investment-and-securities-corporation-best-international-investment-b.json
 ---
