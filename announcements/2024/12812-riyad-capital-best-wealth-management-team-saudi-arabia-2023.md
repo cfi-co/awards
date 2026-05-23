@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250424093141
+wayback_snapshot_url: "http://web.archive.org/web/20250424093141/https://cfi.co/awards/finance/2024/riyad-capital-best-wealth-management-team-saudi-arabia-2023/"
 content_sha256: 1c771573f39f37e4040a2de10fd58462f2821eff3dcc9de33443ab5ebbb05d6c
 canonical: 12812-riyad-capital-best-wealth-management-team-saudi-arabia-2023.json
 ---
