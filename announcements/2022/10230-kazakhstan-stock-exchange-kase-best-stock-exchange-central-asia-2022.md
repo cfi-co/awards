@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220820020618
+wayback_snapshot_url: "http://web.archive.org/web/20220820020618/https://cfi.co/awards/asia-pacific/2022/kazakhstan-stock-exchange-kase-best-stock-exchange-central-asia-2022/"
 content_sha256: fda2abd0a6642bbffff005f8ca4c4bab79c58d4a47c108212b73ea442d6e9cbb
 canonical: 10230-kazakhstan-stock-exchange-kase-best-stock-exchange-central-asia-2022.json
 ---
