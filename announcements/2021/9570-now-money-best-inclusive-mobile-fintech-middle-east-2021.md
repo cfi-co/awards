@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210912112610
+wayback_snapshot_url: "http://web.archive.org/web/20210912112610/https://cfi.co/awards/middle-east/2021/now-money-best-inclusive-mobile-fintech-middle-east-2021/"
 content_sha256: b88004a4d1c5453386d790e24f6655f930341e139a850f78a20f641efd9d1c21
 canonical: 9570-now-money-best-inclusive-mobile-fintech-middle-east-2021.json
 ---
