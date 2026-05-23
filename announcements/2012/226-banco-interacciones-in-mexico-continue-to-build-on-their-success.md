@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614185515
+wayback_snapshot_url: "http://web.archive.org/web/20210614185515/https://cfi.co/awards/latin-america/2012/banco-interacciones-in-mexico-continue-to-build-on-their-success/"
 content_sha256: 6aa56d9fa38cfa62bd4df763a017b56cbe4312a9c6f8831ba413590f354dbf61
 canonical: 226-banco-interacciones-in-mexico-continue-to-build-on-their-success.json
 ---
