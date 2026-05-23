@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: cb1acd5fe8413036293637dcd9510a75bd104331557b4764b8d3b74811dac0e8
 canonical: 4684-petroleum-development-oman-pdo-outstanding-contribution-to-management-excellence.json
 ---
