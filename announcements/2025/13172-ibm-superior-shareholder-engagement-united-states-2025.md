@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251108153948
+wayback_snapshot_url: "http://web.archive.org/web/20251108153948/https://cfi.co/awards/north-america/2025/ibm-superior-shareholder-engagement-united-states-2025/"
 content_sha256: c3488f864f1680cf467154a6708f069578b1731d16b7c117426a8c24f09cbcb1
 canonical: 13172-ibm-superior-shareholder-engagement-united-states-2025.json
 ---
