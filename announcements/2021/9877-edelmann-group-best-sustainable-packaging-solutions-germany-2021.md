@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 2bbe48673e9147f7bcf9242cea4a51d62e462c097fc243dda36d9d0d16674788
 canonical: 9877-edelmann-group-best-sustainable-packaging-solutions-germany-2021.json
 ---
