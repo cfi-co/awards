@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120075604
+wayback_snapshot_url: "http://web.archive.org/web/20210120075604/https://cfi.co/awards/north-america/2020/abbott-capital-management-best-private-equity-portfolio-manager-united-states-2020/"
 content_sha256: d9ac90ca4e1c6cd3e1480856212b54c88042f99b4e2917968d65d0604f339b97
 canonical: 8509-abbott-capital-management-best-private-equity-portfolio-manager-united-states-20.json
 ---
