@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724013323
+wayback_snapshot_url: "http://web.archive.org/web/20210724013323/https://cfi.co/awards/europe/2018/siaci-saint-honore-best-insurance-brokerage-france-2018/"
 content_sha256: 1b5bf1c30ca314ec7e966da4d9991b24280e4a485dbf8f59e1eb9be750992477
 canonical: 5564-siaci-saint-honore-best-insurance-brokerage-france-2018.json
 ---
