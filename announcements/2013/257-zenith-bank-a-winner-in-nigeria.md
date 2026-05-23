@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 2d92feb9a5085f55146d2a193ee66a3942455c5b191de858664dbb0b3994c7fb
 canonical: 257-zenith-bank-a-winner-in-nigeria.json
 ---
