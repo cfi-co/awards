@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221208004340
+wayback_snapshot_url: "http://web.archive.org/web/20221208004340/https://cfi.co/awards/development/2022/export-import-bank-of-thailand-best-product-innovation-for-sustainable-development-thailand-2022/"
 content_sha256: 75c7ce42562d8b6cc70b7c143e6d4f3e936f83179df4fbbeaa5db18f81a1c187
 canonical: 10855-export-import-bank-of-thailand-best-product-innovation-for-sustainable-developme.json
 ---
