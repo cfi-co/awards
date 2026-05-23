@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209132135
+wayback_snapshot_url: "http://web.archive.org/web/20140209132135/http://cfi.co/awards/europe/2014/best-islamic-corporate-finance-boutique-europe-award-is-announced/"
 content_sha256: 7a21993fc5e86f2fcba4e53ebaf2653bce4ab04b7c109f18013bb2ced3bd7ede
 canonical: 1099-best-islamic-corporate-finance-boutique-europe-award-is-announced.json
 ---
