@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d27c94c68dd6bf4e63eb88b93a04ca39cf6528c36371d6c196220978cfcfba01
 canonical: 5523-colombo-land-development-company-best-real-estate-corporate-governance-sri-lanka.json
 ---
