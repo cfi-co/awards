@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c515012ca6291072b6b29ae342e79a4df53e2746a604c1ff1fef4e2eb77ab4d7
 canonical: 10327-s4-capital-best-digital-marketing-solutions-global-2022.json
 ---
