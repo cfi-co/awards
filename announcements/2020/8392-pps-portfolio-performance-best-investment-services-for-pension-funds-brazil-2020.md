@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9a9ca030ad888c57e47f2fee74c100dec1d087e1c5e14d33b5d212b6e86cd01b
 canonical: 8392-pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2020.json
 ---
