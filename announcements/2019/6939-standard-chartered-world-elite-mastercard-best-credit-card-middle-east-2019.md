@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191119063213
+wayback_snapshot_url: "http://web.archive.org/web/20191119063213/https://cfi.co/awards/middle-east/2019/standard-chartered-world-elite-mastercard-best-credit-card-middle-east-2019/"
 content_sha256: 081194f415b62509e5a6cc325251495c0468d655e617d949dcea300150b7e302
 canonical: 6939-standard-chartered-world-elite-mastercard-best-credit-card-middle-east-2019.json
 ---
