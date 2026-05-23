@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315103017
+wayback_snapshot_url: "http://web.archive.org/web/20260315103017/https://cfi.co/awards/europe/2026/servac-excellence-in-actuarial-communication-services-france-2025/"
 content_sha256: 859c9baf6c06e24a50864c6be9fb635d6a305b80fda0ff5384da54f03e1330dd
 canonical: 13288-servac-excellence-in-actuarial-communication-services-france-2025.json
 ---
