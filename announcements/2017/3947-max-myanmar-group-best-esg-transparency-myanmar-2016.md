@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924130159
+wayback_snapshot_url: "http://web.archive.org/web/20210924130159/https://cfi.co/awards/best-practice/2017/max-myanmar-group-best-esg-transparency-myanmar-2016/"
 content_sha256: 29638ec9cf3079c3cf888578ebddd54592dc30984a4a5b4bfdc3818186182646
 canonical: 3947-max-myanmar-group-best-esg-transparency-myanmar-2016.json
 ---
