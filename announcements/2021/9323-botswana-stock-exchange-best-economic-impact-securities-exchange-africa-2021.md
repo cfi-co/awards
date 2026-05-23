@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210711195920
+wayback_snapshot_url: "http://web.archive.org/web/20210711195920/https://cfi.co/awards/africa/2021/botswana-stock-exchange-best-economic-impact-securities-exchange-africa-2021/"
 content_sha256: 05323fb0175a2454ffd45445649d279a5bb28eee210ea5315304380eeb46f648
 canonical: 9323-botswana-stock-exchange-best-economic-impact-securities-exchange-africa-2021.json
 ---
