@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724022433
+wayback_snapshot_url: "http://web.archive.org/web/20210724022433/https://cfi.co/awards/middle-east/2013/emirates-best-islamic-bank-in-the-uae/"
 content_sha256: 7027a15848524532a0b5635323f327c3ebd3a00211b126535831f032bc0e2242
 canonical: 349-emirates-best-islamic-bank-in-the-uae.json
 ---
