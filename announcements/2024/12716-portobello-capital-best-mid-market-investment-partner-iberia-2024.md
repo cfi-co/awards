@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 8d046d68cb3fee1007880e4caf10c3d8bd32258cbf8e28f1a85a252a2d83855e
 canonical: 12716-portobello-capital-best-mid-market-investment-partner-iberia-2024.json
 ---
