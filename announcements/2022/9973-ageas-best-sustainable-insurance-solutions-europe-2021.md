@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220202065609
+wayback_snapshot_url: "http://web.archive.org/web/20220202065609/https://cfi.co/awards/europe/2022/ageas-best-sustainable-insurance-solutions-europe-2021/"
 content_sha256: 89b842597d56b78b98d32b0ceb9e0d4adc35111e65d78dd45c18e3ed695987ea
 canonical: 9973-ageas-best-sustainable-insurance-solutions-europe-2021.json
 ---
