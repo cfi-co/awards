@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235738
+wayback_snapshot_url: "http://web.archive.org/web/20201203235738/https://cfi.co/awards/europe/2020/cq-investment-group-best-esg-international-investment-solutions-austria-2020/"
 content_sha256: 9479b7680e5f0400955d44f374b51c9ebb05cc2bf4ad0075ea19503cf2e2537e
 canonical: 8384-cq-investment-group-best-esg-international-investment-solutions-austria-2020.json
 ---
