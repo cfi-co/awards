@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923174753
+wayback_snapshot_url: "http://web.archive.org/web/20230923174753/https://cfi.co/awards/finance/exchanges-brokers/2023/mac-sa-best-stockbroker-tunisia-2023/"
 content_sha256: 0122e0019675018e62e5c59d618478c7463d1caa1c04b4bd5cd8f3d59ca09d4f
 canonical: 11734-mac-sa-best-stockbroker-tunisia-2023.json
 ---
