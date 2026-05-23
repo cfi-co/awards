@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bccd7f003493309ac1bf11164a25758986387c08ec9989188b24a2c8e3a7e240
 canonical: 12203-h-farm-pioneer-in-digital-transformation-europe-2023.json
 ---
