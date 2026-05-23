@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20191119064042",
+        "wayback_snapshot_url": "http://web.archive.org/web/20191119064042/https://cfi.co/awards/latin-america/2019/berkley-international-latinoamerica-best-insurance-solutions-latin-america-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6981\" src=\"https://cfi.co/awards/wp-content/uploads/2019/11/Berkley-Latinoamerica-logo.jpg\" alt=\"Berkley-Latinoamerica-logo\" width=\"608\" height=\"103\" />\r\n<p style=\"text-align: justify;\">Berkley International Latinoamerica exhibits the reach of a global brand with the know-how of a supra­regional. Berkley International Latinoamerica traces its roots to the acquisition of two venerable Argentine insurers. In 1994/5, it purchased 80% of Independencia Cia de Seguros of Argentina and a controlling interest in La Union Gremial Cia de Seguros S.A.. Its understanding of Argentina's insurance market needs has helped the company to support regional insurance market growth. As a member of Berkley, one of the largest U.S. commercial insurance providers, Berkley International Latinoamerica operates autonomously and fosters long-term relationships to better respond to local needs. The network extends to 8 insurance and reinsurance companies in Argentina, Brazil, Colombia, Mexico, and Uruguay, an insurance agency in Puerto Rico and one Facultative Reinsurance operating unit. The companies comprising Berkley International Latinoamerica offer a wide spectrum of specialty commercial, workers’ compensation and personal insurance solutions. Workers’ compensation solutions cover accidents, disability, and death, while corporate insurance provides coverage for a range of commercial risks. People are the cornerstone of the business, and the insurance provider demonstrates that commitment through its corporate conduct, employee engagement, and community initiatives. Berkley International Latinoamerica counts its team as its key differentiator. With the resources of a global corporation and the expertise of a long-term local player, the CFl.co judging panel can imagine no more fitting recipient than Berkley International Latinoamerica for the 2019 Best Insurance Solutions (Latin America) award.</p>",
     "content_sha256": "a2dd88b59613bd1795e2a66030a67efd412dcfb9bb509e3088cc40ac5e3b64a1",
-    "record_sha256": "625b8937519c0a0942775c5dbc42fa10f0516f5850d49165dd30bcb1d7bf9b4f"
+    "record_sha256": "cb1730b8d30cc494f65ba6a9c7e4566a617bdcbe04263fe29f1e351fcefe7959"
 }

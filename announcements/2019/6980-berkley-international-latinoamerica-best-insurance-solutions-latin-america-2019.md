@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191119064042
+wayback_snapshot_url: "http://web.archive.org/web/20191119064042/https://cfi.co/awards/latin-america/2019/berkley-international-latinoamerica-best-insurance-solutions-latin-america-2019/"
 content_sha256: a2dd88b59613bd1795e2a66030a67efd412dcfb9bb509e3088cc40ac5e3b64a1
 canonical: 6980-berkley-international-latinoamerica-best-insurance-solutions-latin-america-2019.json
 ---
