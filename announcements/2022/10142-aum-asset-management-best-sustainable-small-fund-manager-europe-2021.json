@@ -25,10 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10143\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/AUM-Asset-Management.jpg\" alt=\"AUM Asset Management\" width=\"500\" height=\"160\" />\r\n<p style=\"text-align: justify;\">AUM Asset Management Ltd. is an independent investment management company that provides investment solutions, asset management, fund management and advisory services to institutional investor and family office clients around the world. AUM Management was founded in 2015 by financier and investor Jean-Francois de Clermont-Tonnerre and has its primary offices in Malta, London and Miami. AUM Asset Management serves institutional investors and family offices, delivering high-value traditional, alternative and real asset investment solutions through the firm's expansive international network in Europe and North America. The firm is domiciled in Malta, in part due to the country's strong sustainability framework created by Maltese regulators. AUM is a results-driven investment manager that seeks consistent growth of clients' wealth, while having a positive impact on the planet and society. AUM's multi-faceted investment approach offers investors access to a diversified set of strategies, markets, geographies and asset classes in a flexible and nimble investment framework, with the goal of delivering absolute returns and wealth creation over the long term. Investments included in AUM's portfolios are determined by their potential return profile and specific ESG factors. The firm then applies global macro, quantitative, fundamental and technical analyses to their investment theses to provide another layer of informed decision making prior to allocating to their portfolios. Investors are increasingly demanding investment solutions that meet social and environmental factors and deliver positive outcomes for communities and the environment. AUM considers all actions from a sustainability standpoint and takes pride in contributing towards sustainable development through its thoughtful, ESG-centric investment approach. The CFI.co judging panel presents AUM Asset Management with the 2021 Best Sustainable Small Fund Manager (Europe) award.</p>",
     "content_sha256": "fbcaafc8993a6862f3af06342d1630910532f846f347c84686000e256b93de08",
-    "record_sha256": "381845fef9e1da2fbe2b7e91e038b33856ecd6224e0ab3f8bcd575a9f22caf1d"
+    "record_sha256": "213236e9d90a31f36afb215bcd3e82e55e69dce7d7b675a35e8d6640cd465241"
 }
