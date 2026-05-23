@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250320092744",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250320092744/https://cfi.co/awards/europe/2024/scottish-friendly-best-mutual-insurer-uk-2024/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6723\" src=\"https://cfi.co/awards/wp-content/uploads/2019/06/Scottish-Friendly.jpg\" alt=\"Scottish Friendly\" width=\"400\" height=\"250\" />\r\n<p style=\"text-align: justify;\">Emerging from a year marked by economic turbulence, Scottish Friendly stands out for its unwavering commitment to core purpose: empowering customers and their families to achieve financial wellbeing. Its dedication is evident across multiple facets of operation. Firstly, its mutual status ensures a focus on customer value, not shareholder profits. This is reflected in the \"Special Members' Share\" profit distribution, directly benefiting policyholders. Furthermore, Scottish Friendly actively invests in creating user-friendly digital tools that equip customers with the knowledge to make informed financial decisions. Recognising the evolving needs of its customers, Scottish Friendly recently undertook a comprehensive strategic review, reaffirming existing strengths and identifying growth opportunities. A key focus is expanding offerings through strategic partnerships, with the Unisure deal demonstrating commitment to this goal. An agreement in April 2023 confirmed Scottish friendly as mutual insurer for Unisure’s UK Group Life division (alongside Allianz). Additionally, Scottish Friendly pursues complementary acquisitions. Understanding that positive customer experience is paramount, Scottish Friendly invests heavily in improving digital services and fostering employee development, achieving \"Very Good Company to Work For\" status. This recognition speaks to its commitment to creating a supportive environment, translating into a superior customer experience. Beyond financial metrics, Scottish Friendly shows a strong commitment to social good, investing in initiatives such as supporting children's mental health. Combining resilient financial performance with strategic focus and a customer service ethos, Scottish Friendly, a repeat winner, is declared 2024 winner of the award for Best Mutual Insurer (UK).</p>",
     "content_sha256": "116fab9545f5ce8fbc84e386d6a41a4837fc1d326453b031ba21e7bfcd595350",
-    "record_sha256": "9b46dcdda81d0fd896287bca720cbb621fa30bfdb4ddba8aefcf47c1e751dbc4"
+    "record_sha256": "0267200ef3993b82c7e71eb4f32b6d8c6311631bb5e48dcf80a6349eb3e40eba"
 }

@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250320092744
+wayback_snapshot_url: "http://web.archive.org/web/20250320092744/https://cfi.co/awards/europe/2024/scottish-friendly-best-mutual-insurer-uk-2024/"
 content_sha256: 116fab9545f5ce8fbc84e386d6a41a4837fc1d326453b031ba21e7bfcd595350
 canonical: 12572-scottish-friendly-best-mutual-insurer-uk-2024.json
 ---
