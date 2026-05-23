@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623221428
+wayback_snapshot_url: "http://web.archive.org/web/20240623221428/https://cfi.co/awards/asia-pacific/2024/alta-best-alternative-asset-exchange-asia-2024/"
 content_sha256: 5bcefd7cd1e5ff24d1449d38c7d03810e260acdb23308130cdedb299ee7933c5
 canonical: 12330-alta-best-alternative-asset-exchange-asia-2024.json
 ---
