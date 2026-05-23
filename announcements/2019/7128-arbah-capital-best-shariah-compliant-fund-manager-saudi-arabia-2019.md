@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200806014624
+wayback_snapshot_url: "http://web.archive.org/web/20200806014624/https://cfi.co/awards/middle-east/2019/arbah-capital-best-shariah-compliant-fund-manager-saudi-arabia-2019/"
 content_sha256: be7e192fbb32de6165a867f4de4713556b376ed5d48f540d78ef21ebf9b72bdb
 canonical: 7128-arbah-capital-best-shariah-compliant-fund-manager-saudi-arabia-2019.json
 ---

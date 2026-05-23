@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200806014624",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200806014624/https://cfi.co/awards/middle-east/2019/arbah-capital-best-shariah-compliant-fund-manager-saudi-arabia-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7129\" src=\"https://cfi.co/awards/wp-content/uploads/2020/01/Arbah-Capital.jpg\" alt=\"Arbah Capital\" width=\"500\" height=\"202\" />\r\n<p style=\"text-align: justify;\">According to Shariah principles, wealth is one of the five fundamentals of human existence that must be preserved and protected. Islamic wealth management (IWM) has become increasingly popular with investors worldwide, Muslim and non-Muslim. Over the past decade, Saudi Arabian boutique investment firm Arbah Capital has committed to realising clients’ financial ambitions through careful consideration of each investment profile, with strict adherence to IWM processes. Arbah Capital takes the time to thoroughly understand clients’ circumstances and investment goals, and to create solutions designed to deliver long-term, risk-adjusted returns. The firm establishes enduring relationships with clients ranging from large corporates to high-net-worth individuals, providing discretionary and advisory investment services geared to creating a financially secure future. Arbah Capital offers a spectrum of investment services: wealth and asset management, real estate investment, private equity and corporate finance, as well as brokerage, custody, and advisory services. The firm manages two Shariah-compliant funds. The GCC Liquidity Fund aims for consistent short- to medium-term capital growth, and allows for daily liquidity requests; the Arbah Saudi Equity Fund seeks medium to long-term capital growth through Saudi equities investments. Arbah Capital started out with a focus on traditional Saudi financial markets, and expanded business internationally — most recently with the $76m acquisition of the UK’s historic Sauchiehall building. The CFI.co judging panel applauds the firm’s blend of traditional values, market expertise and client focus, and declares Arbah Capital the winner of the 2019 award for Best Shariah-Compliant Fund Manager (Saudi Arabia).</p>",
     "content_sha256": "be7e192fbb32de6165a867f4de4713556b376ed5d48f540d78ef21ebf9b72bdb",
-    "record_sha256": "fb54fdbb249b9056659b5df940d5ba29c1d060e8b952a8209afa5aa70b81fb0c"
+    "record_sha256": "c254eda06f3ee3a5d5cff9b97d7d1362e16b6878fd8186fc210b1f2946a897df"
 }
