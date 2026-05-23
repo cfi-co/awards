@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603004650
+wayback_snapshot_url: "http://web.archive.org/web/20230603004650/https://cfi.co/awards/europe/2023/ing-wholesale-banking-best-sustainable-banking-solutions-bulgaria-2023/"
 content_sha256: 8a7a346d17c80c356525daa9c84d911766caf7a833e02cec32722748f5bbc36f
 canonical: 11520-ing-wholesale-banking-best-sustainable-banking-solutions-bulgaria-2023.json
 ---
