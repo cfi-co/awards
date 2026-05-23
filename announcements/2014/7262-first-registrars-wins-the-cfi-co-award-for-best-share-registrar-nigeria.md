@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813172916
+wayback_snapshot_url: "http://web.archive.org/web/20200813172916/https://cfi.co/awards/africa/2014/first-registrars-wins-the-cfi-co-award-for-best-share-registrar-nigeria/"
 content_sha256: 583419925e87132e57f4fc38787fa4df900d1a269a8159e7355261e9ffc94a42
 canonical: 7262-first-registrars-wins-the-cfi-co-award-for-best-share-registrar-nigeria.json
 ---
