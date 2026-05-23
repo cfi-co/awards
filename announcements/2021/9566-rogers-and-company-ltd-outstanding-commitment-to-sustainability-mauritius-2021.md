@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920113603
+wayback_snapshot_url: "http://web.archive.org/web/20210920113603/https://cfi.co/awards/africa/2021/rogers-and-company-ltd-outstanding-commitment-to-sustainability-mauritius-2021/"
 content_sha256: 59aa960164210cab196e1b0bf2e1594e15364ae27fd8a2d21cf0c00d95caa2b1
 canonical: 9566-rogers-and-company-ltd-outstanding-commitment-to-sustainability-mauritius-2021.json
 ---
