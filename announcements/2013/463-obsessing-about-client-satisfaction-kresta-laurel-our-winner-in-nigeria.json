@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200918204018",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200918204018/https://cfi.co/awards/africa/2013/obsessing-about-client-satisfaction-kresta-laurel-our-winner-in-nigeria/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright size-full wp-image-465\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/CustomerSatisfactionAwards2013.jpg\" alt=\"CustomerSatisfactionAwards2013\" width=\"160\" height=\"160\" />Kresta Laurel Limited, the winner of CFI’s Customer Satisfaction Award, Nigeria, 2013 started operations in 1990 and offers total engineering services in vertical and horizontal transportation systems (elevators, cranes hoists etc.), power systems and similar electro-mechanical equipment.</strong> The judging panel was impressed by the outstanding sales and after sales service offered at a company where customer expectations are exceeded routinely and word of mouth recommendations significantly boost business. KLL set out to deliver world class technical solutions in a market that had been dominated by foreign firms and multinationals and has done so very successfully. The panel commented that, ‘Management is obsessively concerned with the realisation of the very highest levels of customer satisfaction and have a plan in place that delivers to international standards. Kresta Laurel has a roster of international affiliations – well-known brands that they work with very happily and on an exclusive basis in Nigeria.’</p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-464\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/kll.jpg\" alt=\"kll\" width=\"317\" height=\"75\" /></p>",
     "content_sha256": "f26361559e2a92426065128f5d0d880d84b2a83ea9fb00315eca89d2f6c0bd36",
-    "record_sha256": "d63eb53263af2803e55a33e542295ff90ed1b0d8647ef531b13f1ea884cee300"
+    "record_sha256": "38933c9903ec3b26b75a63c83f360705cca3aa48b59ceac86427e46ae142c696"
 }

@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200918204018
+wayback_snapshot_url: "http://web.archive.org/web/20200918204018/https://cfi.co/awards/africa/2013/obsessing-about-client-satisfaction-kresta-laurel-our-winner-in-nigeria/"
 content_sha256: f26361559e2a92426065128f5d0d880d84b2a83ea9fb00315eca89d2f6c0bd36
 canonical: 463-obsessing-about-client-satisfaction-kresta-laurel-our-winner-in-nigeria.json
 ---
