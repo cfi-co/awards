@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230125145422
+wayback_snapshot_url: "http://web.archive.org/web/20230125145422/https://cfi.co/awards/banking/2015/ubs-best-green-bank-switzerland-2014/"
 content_sha256: 4ae79d0e54ea1c542334bdca87234e4fd9cc1a6249b87ef7724efc812c0bc732
 canonical: 1531-ubs-best-green-bank-switzerland-2014.json
 ---
