@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180412184332
+wayback_snapshot_url: "http://web.archive.org/web/20180412184332/http://cfi.co/awards/middle-east/2017/ffa-private-bank-best-private-bank-middle-east-2017/"
 content_sha256: b772e80303b2411f2b51e2aceca573c4db42e8475a603b05d4dc97b27a776a70
 canonical: 4869-ffa-private-bank-best-private-bank-middle-east-2017.json
 ---
