@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207204544
+wayback_snapshot_url: "http://web.archive.org/web/20211207204544/https://cfi.co/awards/africa/2021/maubank-best-sme-banking-services-mauritius-2021/"
 content_sha256: ae5e397734f3abb959e5ce1a6d19814fc7ea610c7af5f96fd988111d62b1f0fd
 canonical: 9683-maubank-best-sme-banking-services-mauritius-2021.json
 ---
