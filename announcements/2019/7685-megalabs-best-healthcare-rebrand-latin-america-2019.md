@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921105430
+wayback_snapshot_url: "http://web.archive.org/web/20210921105430/https://cfi.co/awards/latin-america/2019/megalabs-best-healthcare-rebrand-latin-america-2019/"
 content_sha256: 6636f18e04cb1a58b1fcc8c29fb0df606a2a1de950c7329944b9c1c2885100c1
 canonical: 7685-megalabs-best-healthcare-rebrand-latin-america-2019.json
 ---
