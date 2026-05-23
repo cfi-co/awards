@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150807005802
+wayback_snapshot_url: "http://web.archive.org/web/20150807005802/http://cfi.co/awards/asia-pacific/2014/xacbank-our-corporate-governance-winner-in-mongolia-2014/"
 content_sha256: b673c85603f4ef6fd5aea1469d56fc0a542075be0650be84d2122bc1279be450
 canonical: 1220-xacbank-our-corporate-governance-winner-in-mongolia-2014.json
 ---

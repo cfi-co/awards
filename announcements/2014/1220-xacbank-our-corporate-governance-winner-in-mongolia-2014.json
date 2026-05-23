@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20150807005802",
+        "wayback_snapshot_url": "http://web.archive.org/web/20150807005802/http://cfi.co/awards/asia-pacific/2014/xacbank-our-corporate-governance-winner-in-mongolia-2014/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1222\" src=\"https://cfi.co/awards/wp-content/uploads/2014/05/xb.jpg\" alt=\"xb\" width=\"400\" height=\"119\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel has named XacBank as winner of the 2014 award for Best Corporate Governance, Mongolia. </strong></p>\r\n<p style=\"text-align: justify;\">The judges commented that, ‘this winner had the foresight to plan for good governance from an early stage in the life of the business. XacBank started out with a small project 16 years ago, has grown magnificently and now boasts assets of $1 billion. The XacBank motto is ‘People, Planet, Profit’ and this organisation is moving forward with confidence and a desire to always do the right thing. We wish XacBank well and congratulate management on this well-deserved accolade.</p>",
     "content_sha256": "b673c85603f4ef6fd5aea1469d56fc0a542075be0650be84d2122bc1279be450",
-    "record_sha256": "2bc4b5ffc640dcfe02f19f111213373b8894ec938efa92602abb66d0204bdf05"
+    "record_sha256": "579c107afe81675b9c8e2ad83dece09159c8f0336fa3684010713e6943171212"
 }
