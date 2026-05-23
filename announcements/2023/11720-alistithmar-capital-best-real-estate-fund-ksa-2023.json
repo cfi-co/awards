@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230923184302",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230923184302/https://cfi.co/awards/middle-east/2023/alistithmar-capital-best-real-estate-fund-ksa-2023/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-10482 size-full\" title=\"Alistithmar Capital\" src=\"https://cfi.co/awards/wp-content/uploads/2022/05/Alistithmar-Capital.jpg\" alt=\"Alistithmar Capital\" width=\"400\" height=\"128\" />\r\n<p style=\"text-align: justify;\">Alistithmar for Financial Securities and Brokerage Company (“Alistithmar Capital”), a closed joint stock subsidiary of The Saudi Investment Bank, has followed a client-centric, value-investing philosophy since its launch in 2008. The company helps clients in the <a href=\"https://cfi.co/countries/saudi-arabia/\">Kingdom of Saudi Arabia</a> (KSA) to make the most of their money with a service suite covering advising, arranging, custody, dealing, fund operation and investment management. It recently celebrated the completion and exit of a landmark transaction through its Kaden Alistithmar Fund. Alistithmar Capital established the fund in 2021 with the primary purpose of acquiring prime mixed-use real estate in Riyadh — and was able to raise the amount needed to operate the fund within 24 hours. Alistithmar Capital marshalled an experienced team to fast-track the purchase and manage the investment to ensure sustainable performance and long-term value creation. In only 18 months, Alistithmar Capital had achieved all investment objectives and exited the assets with a significant return on equity: 56 percent net of all expenses and fees, which is equal to a compound annual growth rate of 34.5 percent. The substantial performance of the Kaden Alistithmar real estate fund over such a short period underscores the company’s ability to exceed expectations. Alistithmar Capital, with $66.7m in paid-up capital, is licensed and regulated by the <a href=\"https://cma.org.sa/en/Pages/default.aspx\" target=\"_blank\" rel=\"noopener\">Saudi Capital Market Authority</a>. The CFI.co judging panel presents Alistithmar Capital — a repeat programme winner — with the 2023 award for Best Real Estate Fund (KSA).</p>",
     "content_sha256": "92c1597341094b3cf7b2e50e3b8a462da93011bce23d795437e01c274556a1c2",
-    "record_sha256": "0298d7d7073bcfb950837431a72a42352b2cf5db6fcc1dcedac332976b2a6d4d"
+    "record_sha256": "36d66122a8e72b42f5f749228eeaf7958c59fd7de3c13759804120eeeff80495"
 }

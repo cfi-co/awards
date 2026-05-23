@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923184302
+wayback_snapshot_url: "http://web.archive.org/web/20230923184302/https://cfi.co/awards/middle-east/2023/alistithmar-capital-best-real-estate-fund-ksa-2023/"
 content_sha256: 92c1597341094b3cf7b2e50e3b8a462da93011bce23d795437e01c274556a1c2
 canonical: 11720-alistithmar-capital-best-real-estate-fund-ksa-2023.json
 ---
