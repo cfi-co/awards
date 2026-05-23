@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 76b83473c2f5eed28ed02d909f538ff61a76611d4dee03235aae21345f356fd4
 canonical: 7824-trumpf-venture-best-technology-investment-partner-germany-2020.json
 ---
