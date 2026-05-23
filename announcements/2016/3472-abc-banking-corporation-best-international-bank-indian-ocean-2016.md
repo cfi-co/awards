@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d0f82f3cb78f760dda55cb842613e154c1198ed45164be87b2ae2d32be0004ed
 canonical: 3472-abc-banking-corporation-best-international-bank-indian-ocean-2016.json
 ---
