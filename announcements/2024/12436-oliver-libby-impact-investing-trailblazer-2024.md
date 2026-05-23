@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241009034144
+wayback_snapshot_url: "http://web.archive.org/web/20241009034144/https://cfi.co/awards/corporate-leadership/2024/oliver-libby-impact-investing-trailblazer-2024/"
 content_sha256: ab6d0889557ed9e7bc753218696c1d50ba91ea4b158f2b19a3540efbed1e5901
 canonical: 12436-oliver-libby-impact-investing-trailblazer-2024.json
 ---

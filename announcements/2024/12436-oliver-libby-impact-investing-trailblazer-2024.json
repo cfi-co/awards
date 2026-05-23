@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20241009034144",
+        "wayback_snapshot_url": "http://web.archive.org/web/20241009034144/https://cfi.co/awards/corporate-leadership/2024/oliver-libby-impact-investing-trailblazer-2024/"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_12437\" align=\"aligncenter\" width=\"900\"]<img class=\"size-large wp-image-12437\" src=\"https://cfi.co/awards/wp-content/uploads/2024/06/oliver-libby-1010x1024.webp\" alt=\"Oliver Libby\" width=\"900\" height=\"912\" /> Oliver Libby[/caption]\r\n<p style=\"text-align: justify;\"><a href=\"https://www.oliverlibby.com/\">Oliver Libby</a>, Co-Founder and Managing Partner of <a href=\"https://h-l.vc/\">H/L Ventures</a> has profoundly influenced impact investing. Since founding H/L Ventures in 2009, Oliver has been instrumental in championing high-growth entrepreneurs, often from underrepresented backgrounds, who aspire to create ventures that benefit both people and the planet. With a commitment to diversity, the executive teams of H/L Ventures' portfolio companies are among the most diverse in the venture capital industry, reflecting Oliver’s dedication to inclusive entrepreneurship. Under his leadership, H/L Ventures has developed a distinctive approach of Daily Active Engagement, which involves providing continuous support to portfolio companies, facilitating business development, talent acquisition, and strategic advice. This hands-on methodology, supported by a core team of nearly 70 professionals and an expert network of approximately 300, has set a new standard in venture capital, fostering deep connections that enhance potential success and returns. Notable companies within H/L’s portfolio include Automotus, Group Black, and Sealed, each exemplifying the firm’s ethos of impactful and sustainable growth. Additionally, Oliver co-founded The Resolution Project in 2007, a non-profit that has launched over 700 young social entrepreneurs across 85 countries. The project supports student entrepreneurs with initial funding and mentorship, contributing to a significant positive impact on over six million people globally. Furthermore, Oliver's foresight and commitment have made H/L Ventures a leader in the field of impact investing, continuously setting new benchmarks for socially responsible entrepreneurship. The CFI.co Judging Panel congratulates Oliver Libby on winning the 2024 award for Impact Investing Trailblazer.</p>",
     "content_sha256": "ab6d0889557ed9e7bc753218696c1d50ba91ea4b158f2b19a3540efbed1e5901",
-    "record_sha256": "c2403d4220e1652b7b696c54cb09cd82a8dc8676da8073ba83147d4deec4ec4d"
+    "record_sha256": "9d8dcb1ea89440e21ffa52b42ea8fa102d744ab8f93279426f942c2de7e82f11"
 }
