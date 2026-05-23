@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250522224554
+wayback_snapshot_url: "http://web.archive.org/web/20250522224554/https://cfi.co/awards/europe/2013/arntzen-de-besches-energy-team-wins-2013-legal-award/"
 content_sha256: 7b10269feebcd9b4f3a8584fb78b3ece395f26bdeba5d67a5e43e2e0f956269c
 canonical: 370-arntzen-de-besches-energy-team-wins-2013-legal-award.json
 ---
