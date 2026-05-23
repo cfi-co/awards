@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923172320
+wayback_snapshot_url: "http://web.archive.org/web/20230923172320/https://cfi.co/awards/europe/2022/saarlb-best-cross-border-sustainable-banking-strategy-france-germany-2021/"
 content_sha256: 913e7b18e14306e0b7eb2598ff95b5415c04ae96f5cdefd97ee136dd216b8273
 canonical: 10131-saarlb-best-cross-border-sustainable-banking-strategy-france-germany-2021.json
 ---
