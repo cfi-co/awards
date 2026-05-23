@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228105204
+wayback_snapshot_url: "http://web.archive.org/web/20210228105204/https://cfi.co/awards/middle-east/2021/trojan-holding-most-innovative-infrastructure-leadership-uae-2020/"
 content_sha256: 7f43c247a3bae3897b37ddec73933303ad41cfdb50362b43395e65f16df9108f
 canonical: 8728-trojan-holding-most-innovative-infrastructure-leadership-uae-2020.json
 ---
