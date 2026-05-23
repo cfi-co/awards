@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 1ed0232521859f6c36428325f20044444bf6bebd928b174f0047ea7b3a3722e3
 canonical: 9317-cordet-best-alternative-credit-investor-united-kingdom-2021.json
 ---
