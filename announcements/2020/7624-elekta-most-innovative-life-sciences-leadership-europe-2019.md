@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 6441e0e40f91ec17f742d8fd3de3fd9ef8536e6b53025ba3aced1ba932a0ef58
 canonical: 7624-elekta-most-innovative-life-sciences-leadership-europe-2019.json
 ---
