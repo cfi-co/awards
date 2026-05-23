@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180110174620
+wayback_snapshot_url: "http://web.archive.org/web/20180110174620/http://cfi.co/awards/europe/2017/teletrade-best-forex-broker-europe-2017/"
 content_sha256: da5bc66dfc4306b41ab09cabb11658603d38a04ec503cb233dd11ebd92952a69
 canonical: 4245-teletrade-best-forex-broker-europe-2017.json
 ---
