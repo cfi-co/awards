@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230330013407",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230330013407/https://cfi.co/awards/banking/2023/jp-morgan-chase-payments-best-payment-digital-transformation-strategy-global-2023/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-11164 size-full\" title=\"JP Morgan Chase logo\" src=\"https://cfi.co/awards/wp-content/uploads/2023/02/JPMorganChase-jpg.webp\" alt=\"JP Morgan Chase logo\" width=\"500\" height=\"155\" />\r\n<p style=\"text-align: justify;\">JP Morgan Chase &amp; Company can trace its roots back to the combination of more than 1,200 predecessor institutions over the past 224 years. JP Morgan Chase Payments is a vital part of the group’s global network, processing $9.6tn in daily payments across more than 160 countries and 120 currencies. It offers corporate treasury, trade finance, card and merchant services. The company likens payments to a language that speaks volumes about the growth trajectory, trustworthiness and innovation of a business, from MSMEs to multinational corporations. It looks at global trends and predicts that the next decade will be transformational for the payments ecosystem. Harnessing key innovations could unlock up to $54bn in new opportunities for businesses — and JP Morgan Chase Payments is partnering with powerful players to accelerate these changes. In September 2022, it announced an agreement to acquire Renovite Technologies, a leading cloud-native payments technology company. The move will help to modernise JP Morgan Chase Payments’ infrastructure and increase the flexibility of merchant acquiring capabilities worldwide. Renovite has been supplying services to JP Morgan since 2021, and its integration with the group will bolster clients’ capacity to accept more methods of payments and support their business growth. This acquisition complements the company’s strategic investment in Viva Wallet, a European cloud-based neobank, and its partnership with Volkswagen Financial Services. The CFI.co judging panel announces JP Morgan Chase Payments as the 2023 global award winner for Best Payment Digital Transformation Strategy.</p>",
     "content_sha256": "0d5030f74cc2a87baa637db381bc221b0996ad8f04e3aca9f060ff1b3f04fb7c",
-    "record_sha256": "7ed4b667445f8dff67da9c3192a6ad23d3d599ba14d8b4e9272d00fa3625251d"
+    "record_sha256": "2938c59232c2ea004413ee2ae333c553e2aada63cd1cb9007013c8c4b2652074"
 }
