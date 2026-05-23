@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418045149
+wayback_snapshot_url: "http://web.archive.org/web/20210418045149/https://cfi.co/awards/middle-east/2021/national-hotels-company-best-hospitality-corporate-governance-bahrain-2021/"
 content_sha256: 1959a8b227361f5347ba196742ca734243b4603ce00e32553c1bef60376a202b
 canonical: 8943-national-hotels-company-best-hospitality-corporate-governance-bahrain-2021.json
 ---
