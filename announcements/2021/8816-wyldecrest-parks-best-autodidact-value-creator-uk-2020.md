@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228095219
+wayback_snapshot_url: "http://web.archive.org/web/20210228095219/https://cfi.co/awards/europe/2021/wyldecrest-parks-best-autodidact-value-creator-uk-2020/"
 content_sha256: 406dd812b8463b8c98cf21c0ea9adc369f0e8205d427589c60efb99705a579d1
 canonical: 8816-wyldecrest-parks-best-autodidact-value-creator-uk-2020.json
 ---
