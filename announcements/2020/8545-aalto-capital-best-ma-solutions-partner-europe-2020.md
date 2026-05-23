@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120080031
+wayback_snapshot_url: "http://web.archive.org/web/20210120080031/https://cfi.co/awards/europe/2020/aalto-capital-best-ma-solutions-partner-europe-2020/"
 content_sha256: a8ebec3872b6babdc1f82b89257e820c6e1f5791f9311bfb7cb5dffaa3ff19e7
 canonical: 8545-aalto-capital-best-ma-solutions-partner-europe-2020.json
 ---
