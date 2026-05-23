@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920104520
+wayback_snapshot_url: "http://web.archive.org/web/20210920104520/https://cfi.co/awards/africa/2021/the-state-investment-corporation-limited-outstanding-support-to-entrepreneurs-mauritius-2021/"
 content_sha256: 696e29901d5d653e7cdc370a3daa68cfb610e85a732836e2832681c3be27a25d
 canonical: 9417-the-state-investment-corporation-limited-outstanding-support-to-entrepreneurs-ma.json
 ---
