@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426100107
+wayback_snapshot_url: "http://web.archive.org/web/20190426100107/https://cfi.co/awards/middle-east/2016/arab-financial-services-company-best-payment-processing-services-solutions-provider-middle-east-2016/"
 content_sha256: 887435cbe2993aa349bda7fda1a9b7b7d0769f722241069a3c17922ce698f6d3
 canonical: 3435-arab-financial-services-company-best-payment-processing-services-solutions-provi.json
 ---
