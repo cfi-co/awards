@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 30509f9b84e0061a9d54174982481a76607c54e2739bd5ccbd9b7489922bb377
 canonical: 4613-glownet-best-event-payment-systems-global-2016.json
 ---
