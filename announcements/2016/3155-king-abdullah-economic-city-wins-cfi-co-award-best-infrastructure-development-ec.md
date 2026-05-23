@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505062716
+wayback_snapshot_url: "http://web.archive.org/web/20160505062716/http://cfi.co/awards/middle-east/2015/king-abdullah-economic-city-kaec-wins-cfi-co-award-best-infrastructure-development-for-economic-growth-in-the-middle-east-2015/"
 content_sha256: aef4c00a529193c88dfadb3b2801714451ca9535c85a6cfe411f234cd45a6966
 canonical: 3155-king-abdullah-economic-city-wins-cfi-co-award-best-infrastructure-development-ec.json
 ---
