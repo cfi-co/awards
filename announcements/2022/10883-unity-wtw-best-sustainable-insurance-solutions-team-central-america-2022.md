@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330014019
+wayback_snapshot_url: "http://web.archive.org/web/20230330014019/https://cfi.co/awards/best-practice/sustainability/2022/unity-wtw-best-sustainable-insurance-solutions-team-central-america-2022/"
 content_sha256: 99d222f4bac8bc5078ba9244c2586c40561c827de02388fcae9c3d51b4d9d814
 canonical: 10883-unity-wtw-best-sustainable-insurance-solutions-team-central-america-2022.json
 ---
