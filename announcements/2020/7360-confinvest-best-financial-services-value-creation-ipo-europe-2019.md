@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200629210654
+wayback_snapshot_url: "http://web.archive.org/web/20200629210654/https://cfi.co/awards/europe/2020/confinvest-best-financial-services-value-creation-ipo-europe-2019/"
 content_sha256: 632a2700dea09d601277ecee3fe3e4294c5fa659b0b311ef459035219b921363
 canonical: 7360-confinvest-best-financial-services-value-creation-ipo-europe-2019.json
 ---
