@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20241207062406",
+        "wayback_snapshot_url": "http://web.archive.org/web/20241207062406/https://cfi.co/awards/africa/2014/innovation-in-insurance-custodian-wins-our-award-in-nigeria/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3890\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Custodian.jpg\" alt=\"\" width=\"198\" height=\"189\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Custodian and Allied PLC, winner of the 2014 CFI.co award for ‘Most Innovative Insurance Company, Nigeria’, provides good evidence of this important characteristic with the recent launch of a mobile application that guides the customer through the complexities of the complete insurance cycle. </strong></p>\r\n<p style=\"text-align: justify;\">Innovation in risk management is evidence too and the insurer has a good response time record in respect of claims payment.</p>\r\n<p style=\"text-align: justify;\">There is an attitude at Custodian of seeking out innovation to drive the best possible methods of service delivery.</p>\r\n<p style=\"text-align: justify;\">The Judging Panel was also impressed with this company’s highly innovative approach and intelligent actions to encourage sustainability and described Custodian as a most thoughtful corporate citizen.</p>",
     "content_sha256": "15020f7942f58fccfa8b4890a41b24bed107a6813e69f488bdb98a31d9f9ada8",
-    "record_sha256": "bfdab3589e4fed7588ef8c1aa47b2d48a0d635739d359565c56b06b2acc574f2"
+    "record_sha256": "ee3cd51a9e760a7e840312d8287536337dfbc9665414a3fbd76c3a54a7642ce1"
 }

@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207062406
+wayback_snapshot_url: "http://web.archive.org/web/20241207062406/https://cfi.co/awards/africa/2014/innovation-in-insurance-custodian-wins-our-award-in-nigeria/"
 content_sha256: 15020f7942f58fccfa8b4890a41b24bed107a6813e69f488bdb98a31d9f9ada8
 canonical: 3889-innovation-in-insurance-custodian-wins-our-award-in-nigeria.json
 ---
