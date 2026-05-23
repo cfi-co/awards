@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426104635
+wayback_snapshot_url: "http://web.archive.org/web/20190426104635/https://cfi.co/awards/europe/2018/auka-best-mobile-payment-platform-europe-2018/"
 content_sha256: 7ef63df448d699351f55834d6460abb5f73bae7a1f151a466032d9db78f6af4e
 canonical: 5752-auka-best-mobile-payment-platform-europe-2018.json
 ---
