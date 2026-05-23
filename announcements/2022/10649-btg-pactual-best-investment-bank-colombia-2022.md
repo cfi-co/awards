@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928191139
+wayback_snapshot_url: "http://web.archive.org/web/20220928191139/https://cfi.co/awards/banking/2022/btg-pactual-best-investment-bank-colombia-2022/"
 content_sha256: bc6c08db9418aa1dacfc2283ca2a1231c6d6814ee3efc4ca974c7040f679af1d
 canonical: 10649-btg-pactual-best-investment-bank-colombia-2022.json
 ---
