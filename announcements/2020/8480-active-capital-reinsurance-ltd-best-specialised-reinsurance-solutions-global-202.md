@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235307
+wayback_snapshot_url: "http://web.archive.org/web/20201203235307/https://cfi.co/awards/latin-america/2020/active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-2020-best-reinsurer-emerging-markets-2020/"
 content_sha256: 11617f9edbf2128e2855dbb46f76e0cb56a5d2fa3bb3dd1e4d4107617c1f252b
 canonical: 8480-active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-202.json
 ---
