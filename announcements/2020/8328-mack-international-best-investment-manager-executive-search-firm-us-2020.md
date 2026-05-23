@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235602
+wayback_snapshot_url: "http://web.archive.org/web/20201203235602/https://cfi.co/awards/north-america/2020/mack-international-best-investment-manager-executive-search-firm-us-2020/"
 content_sha256: a95fd59036ee3acbda9c9a2e841940e34e593175145f589a45be955274af04ac
 canonical: 8328-mack-international-best-investment-manager-executive-search-firm-us-2020.json
 ---
