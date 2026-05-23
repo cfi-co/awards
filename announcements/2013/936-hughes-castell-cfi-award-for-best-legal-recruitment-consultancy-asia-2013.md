@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150614191245
+wayback_snapshot_url: "http://web.archive.org/web/20150614191245/http://cfi.co/awards/asia-pacific/2013/hughes-castell-cfi-award-for-best-legal-recruitment-consultancy-asia-2013/"
 content_sha256: be147713d8dfdcc022ba6d3101fcb6daf314934a0c5cf6953a96cb28b58c8c5b
 canonical: 936-hughes-castell-cfi-award-for-best-legal-recruitment-consultancy-asia-2013.json
 ---
