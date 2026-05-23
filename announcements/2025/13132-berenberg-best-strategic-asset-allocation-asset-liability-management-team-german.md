@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251006233328
+wayback_snapshot_url: "http://web.archive.org/web/20251006233328/https://cfi.co/awards/banking/2025/berenberg-best-strategic-asset-allocation-asset-liability-management-team-germany-austria-2025/"
 content_sha256: a8d3cc54fc7b62987701dd7f3d8c42a5f6bd8388fa28fc298e73b45ce0d02413
 canonical: 13132-berenberg-best-strategic-asset-allocation-asset-liability-management-team-german.json
 ---
