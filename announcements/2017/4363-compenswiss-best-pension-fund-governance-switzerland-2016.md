@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921110258
+wayback_snapshot_url: "http://web.archive.org/web/20210921110258/https://cfi.co/awards/europe/2017/compenswiss-best-pension-fund-governance-switzerland-2016/"
 content_sha256: f35304e24fbe26bda97bf583458e19f0772f3c39c044b15f3476333dd26b7c8d
 canonical: 4363-compenswiss-best-pension-fund-governance-switzerland-2016.json
 ---

@@ -25,10 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921110258",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921110258/https://cfi.co/awards/europe/2017/compenswiss-best-pension-fund-governance-switzerland-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4364\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/CompenSwiss.jpg\" alt=\"\" width=\"390\" height=\"157\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The Swiss Compensation Funds (Fonds de compensation) comprise three entities that jointly manage the surplus monies of the country’s social security system – i.e. the difference between incoming contributions and benefits paid out. The Fonds are managed by an independent entity, and, as such, are not part of the Swiss federal administration. However, the Swiss Federal Council – the central government – does appoint the Fonds’ directors and approves the yearly accounts.</strong></p>\r\n<p style=\"text-align: justify;\">Recognised for its strength in corporate governance, the Fonds aim to adhere to the principles and guidelines established by the Committee of Sponsoring Organisations of the Treadway Commission (COSO) – an entity formed in 1985 to combat corporate fraud.</p>\r\n<p style=\"text-align: justify;\">The Fonds engage private auditors to annually assess internal control systems and processes and report the findings directly to the board of directors which bears responsibility for governance and strategy. An external controller, also reporting to the board, monitors the implementation of board decisions regarding strategy and assesses performance.</p>\r\n<p style=\"text-align: justify;\">Additionally, the Fonds’ general secretary is charged with ensuring full compliance with all relevant rules and regulations, and adherence to best practices. A strong risk management division ensures that both financial and non-financial risks are identified and quantified early-on. The division is also responsible for the development of up-to-date risk management processes.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to note that Compenswiss – the common denominator for the Fonds de compensation – has pushed the envelope of corporate governance. The judges are pleased to offer Compenswiss the 2017 Best Pension Fund Governance Switzerland Award.</p>",
     "content_sha256": "f35304e24fbe26bda97bf583458e19f0772f3c39c044b15f3476333dd26b7c8d",
-    "record_sha256": "abd365ba5e765a0af61dcc8a781d35be1f7f3be4cacd12750e9cef3951b7cf5d"
+    "record_sha256": "2a1d3f3da1c43be01490cac20d7bb33bebea6cb71fa4c457a5979a177f3d54bd"
 }
