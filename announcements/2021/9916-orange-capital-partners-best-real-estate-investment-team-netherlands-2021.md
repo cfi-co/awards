@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211224102952
+wayback_snapshot_url: "http://web.archive.org/web/20211224102952/https://cfi.co/awards/finance/2021/orange-capital-partners-best-real-estate-investment-team-netherlands-2021/"
 content_sha256: 5a7e1d17b4d734555f6963d8fa3028ed1074bfbf8b22c6aca9e5f142c5b99df1
 canonical: 9916-orange-capital-partners-best-real-estate-investment-team-netherlands-2021.json
 ---
