@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920111612
+wayback_snapshot_url: "http://web.archive.org/web/20200920111612/https://cfi.co/awards/europe/2018/blue-lagoon-outstanding-contribution-to-eco-tourism-global-2018/"
 content_sha256: 413defba88ccab97fdf7c49ca5033a3e17392b370a75268118233fb534c21001
 canonical: 5292-blue-lagoon-outstanding-contribution-to-eco-tourism-global-2018.json
 ---
