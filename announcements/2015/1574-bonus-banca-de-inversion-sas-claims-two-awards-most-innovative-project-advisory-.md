@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724023040
+wayback_snapshot_url: "http://web.archive.org/web/20210724023040/https://cfi.co/awards/latin-america/2015/bonus-banca-de-inversion-sas-claims-two-awards-most-innovative-project-advisory-team-latin-america-2014-outstanding-deal-structuring-colombia-2014/"
 content_sha256: 1dfdbf3931d8f08e427e216584e4c1cb51f29a95ab04004eb42545d45522bb76
 canonical: 1574-bonus-banca-de-inversion-sas-claims-two-awards-most-innovative-project-advisory-.json
 ---
