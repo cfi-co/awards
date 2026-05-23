@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4010\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/Nornickel.jpg\" alt=\"\" width=\"400\" height=\"362\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Working the richest nickel, copper, and palladium deposits found anywhere, Russian mining giant Nornickel is the world’s largest producer of refined nickel and palladium. The company was established in 1935 and privatised in 1995. With mining operations in Russia, Nornickel’s bedrock remains centred on the Taymir Peninsula, home to Norilsk, the northernmost city in the world and scene of one of the largest volcanic events in the earth’s geological history which some 250 million years ago produced the Siberian Traps and with them the exceptionally rich mineral veins mined by Nornickel.</strong></p>\r\n<p style=\"text-align: justify;\">Aware that mining operations in Russia’s far north have not always been conducted in a sustainable fashion, Nornickel has now implemented a programme that aims to vastly reduce the environmental footprint of its smelters. With a view to appropriate all relevant environmental, social, and governance (ESG) standards Nornickel placed its entire operation on a sustainable footing.</p>\r\n<p style=\"text-align: justify;\">The company also adopted a thoroughly revised corporate policy that safeguards the interests of all stakeholders. Thus, Nornickel aims to strengthen its position as the world’s leading producer of nickel and palladium, and other base and precious metals.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel recognises that demand for nickel and palladium are set to rise dramatically as low and zero emissions vehicles are developed. The judges are pleased to note that Nornickel has moved into the pole position as a premier supplier of the critical materials required by the automotive industry. Nornickel is declared winner of the 2016 Best Mining Corporate Governance Russia Award.</p>",
     "content_sha256": "1e9d0e6ec08a34210f107a2ac06a952722cb4888d64853d21d225247e7eebef2",
-    "record_sha256": "915c54ef1f3bec41dcc111d241fc20206f5e087e0c426eabf3564f3de710cea8"
+    "record_sha256": "bfc76d71ec78e8b1c6dfaacebfe68c958d79b652c919645ba2c02aee1af7ca07"
 }
