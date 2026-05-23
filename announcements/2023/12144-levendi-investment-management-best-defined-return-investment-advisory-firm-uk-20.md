@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 4fdb1c3165d35dbd7f9f25954ccf569122eec62271a03da3bfb0a13b2a79e2fa
 canonical: 12144-levendi-investment-management-best-defined-return-investment-advisory-firm-uk-20.json
 ---
