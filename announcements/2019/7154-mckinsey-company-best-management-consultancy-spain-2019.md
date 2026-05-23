@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9a724b6d844da50ab1a1ac3c698ab91add09779f898bb0e7f32878552330e4f8
 canonical: 7154-mckinsey-company-best-management-consultancy-spain-2019.json
 ---

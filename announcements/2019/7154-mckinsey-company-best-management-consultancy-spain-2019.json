@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7155\" src=\"https://cfi.co/awards/wp-content/uploads/2020/01/McKinsey-and-Company.jpg\" alt=\"McKinsey-and-Company\" width=\"240\" height=\"98\" />\r\n<p style=\"text-align: justify;\">Professionals — globally, and across industries — trust McKinsey &amp; Company to provide thought-provoking and change-inspiring research. The firm has established regional offices to help private and public organisations tackle local challenges with a precise focus. McKinsey Spain was founded to extend the reach of the global firm, fuel the country’s reform and boost the economy. McKinsey has established a strong presence in Spain over the past four decades, undertaking upwards of 2,000 projects and serving more than half of the nation’s largest companies. McKinsey Spain clients come from a range of sectors, including finance, telecommunications, energy and consumer goods. McKinsey’s Madrid and Barcelona offices employ 160 consultants and 220 staff, conducting management research to develop long-term perspectives and influence public debate on the most critical economic challenges facing today’s businesses and economies. McKinsey Spain puts itself in the co-pilot’s seat for clients’ transformational journeys, turning ideas into reality and creating change that has a lasting impact. The CFI.co judging panel has seen McKinsey &amp; Company intelligently steer public debate with its insightful research publications, and finds that its locally tailored client services are of equally high calibre. The judges declare McKinsey as the winner of the 2019 award for Best Management Consultancy (Spain).</p>",
     "content_sha256": "9a724b6d844da50ab1a1ac3c698ab91add09779f898bb0e7f32878552330e4f8",
-    "record_sha256": "2c15c4a6c50d3053d11b9e7c8e69cad4f96aa449b0396a17d1f79e88bfa92dd8"
+    "record_sha256": "00e32963100ac7d81cdef62eac2f91f2f3f756f709d0982b933a9a3e7d66f7e1"
 }
