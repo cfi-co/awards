@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170623193341
+wayback_snapshot_url: "http://web.archive.org/web/20170623193341/http://cfi.co/awards/latin-america/2017/chilean-metals-best-wealth-creation-mining-management-chile-2017/"
 content_sha256: 015b2f417aec9d7e99b99576556cca54529a25654f82de9b257ecd8ac2dbce79
 canonical: 4505-chilean-metals-best-wealth-creation-mining-management-chile-2017.json
 ---
