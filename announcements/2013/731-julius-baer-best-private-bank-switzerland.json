@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210614184734",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210614184734/https://cfi.co/awards/europe/2013/julius-baer-best-private-bank-switzerland/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"></p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter  wp-image-1496\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/jb.png\" alt=\"jb\" width=\"448\" height=\"111\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Assets under management amounted to CHF 187 billion at the end of October 2012 (up 10 per cent from the end of 2011) while total assets grew to CHF 274 billion (up 9 per cent).</strong></p>\r\n<p style=\"text-align: justify;\">Julius Baer prides itself in making extra efforts to get to know their clients so to better advise them. The CFI.co judging panel noted JB’s acquisition of Merrill Lynch’s international wealth management business (outside the United States). Julius Baer takes the 2012 award for private banking.</p>",
     "content_sha256": "062042260c5007e82479e36a7319ecd4224d41598b75eedd30f0ec104c85a757",
-    "record_sha256": "2336c8bf96d5c3bb6b64edbab43499c7f401251e893b3e369389dc8bbe10fd1b"
+    "record_sha256": "f5eb5b2d41e62110300918a1f9b5e6141c13d0c8fb7cadecdb0426706127a99a"
 }
