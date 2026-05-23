@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207213434
+wayback_snapshot_url: "http://web.archive.org/web/20211207213434/https://cfi.co/awards/europe/2021/exim-hungary-best-cross-border-financing-bank-hungary-2021/"
 content_sha256: 94d1ea13b820a9637a6e4074f7653da469516459912e8d557bbb12d1f6152735
 canonical: 9652-exim-hungary-best-cross-border-financing-bank-hungary-2021.json
 ---
