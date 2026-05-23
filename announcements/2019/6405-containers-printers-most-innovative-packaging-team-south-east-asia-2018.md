@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717205710
+wayback_snapshot_url: "http://web.archive.org/web/20190717205710/https://cfi.co/awards/front/2019/containers-printers-most-innovative-packaging-team-south-east-asia-2018/"
 content_sha256: fa46a5a56c2d2dc89542bbddbe856543a594c5bc39f45c8cf59c354b99b35410
 canonical: 6405-containers-printers-most-innovative-packaging-team-south-east-asia-2018.json
 ---
