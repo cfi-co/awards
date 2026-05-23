@@ -28,10 +28,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2012/09/lukoil.jpg\"><img class=\" wp-image-223 aligncenter\" title=\"lukoil\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/lukoil-300x89.jpg\" alt=\"\" width=\"210\" height=\"62\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>According the CFI judging panel, LUKOIL, Russia is a model of transparency and good governance and an obvious choice as a Corporate Leader in Europe. </strong></p>\r\n<p style=\"text-align: justify;\">LUKOIL generates a mass of favourable statistics. It ranks as the 40<sup>th</sup> largest company in the world by sales and sits five places higher on the list in terms of profitability. The Company (with a current market capitalisation of close to $50 billion) is responsible for around 17 per cent of Russia’s oil production and refining activity.  LUKOIL delivered $38.4 billion to the Russian government in tax for the year 2011. CSR activities focus on education, support to orphans and the funding of museums. The judges commented favourably on the LUKOIL Pension Fund, pointing out that the Company matches employee contributions in all countries in which it is represented. This was one of the first non-government pension funds in Russia and it is properly audited and very well run. The CFI panel congratulates LUKOIL as an example of a very large oil and gas company that truly promises benefits to all stakeholders – and delivers handsomely.</p>",
     "content_sha256": "022a885fdbd3e4ed2b55e991712e6964fe686a456e2efcfb6e34529e69560408",
-    "record_sha256": "52e06cd8a938f53a859e45fe393b252266492eab5c4737b058404d6853b3bee9"
+    "record_sha256": "0b8b52f12febf291fd6f1e2ec4836842df921b34aa943db8d6292f1b43ef2b80"
 }

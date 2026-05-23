@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 022a885fdbd3e4ed2b55e991712e6964fe686a456e2efcfb6e34529e69560408
 canonical: 217-lukoil-russia-obvious-choice-as-corporate-leader-2012.json
 ---
