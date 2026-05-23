@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614181711
+wayback_snapshot_url: "http://web.archive.org/web/20210614181711/https://cfi.co/awards/middle-east/2021/the-arab-petroleum-investments-corporation-apicorp-best-multilateral-development-bank-emea-2021/"
 content_sha256: 62470abfc3495aff585f476937fc12d0475f7455b62c090a29d0d25b75b89500
 canonical: 9179-the-arab-petroleum-investments-corporation-apicorp-best-multilateral-development.json
 ---
