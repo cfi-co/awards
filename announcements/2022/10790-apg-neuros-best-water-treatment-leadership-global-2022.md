@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221208003621
+wayback_snapshot_url: "http://web.archive.org/web/20221208003621/https://cfi.co/awards/industries/2022/apg-neuros-best-water-treatment-leadership-global-2022/"
 content_sha256: f266fae348fa67fe01de5dee2055205ac36dc336d02e644cab2c418ab1ac57ad
 canonical: 10790-apg-neuros-best-water-treatment-leadership-global-2022.json
 ---
