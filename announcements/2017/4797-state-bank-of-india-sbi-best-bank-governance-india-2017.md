@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191119063528
+wayback_snapshot_url: "http://web.archive.org/web/20191119063528/https://cfi.co/awards/asia-pacific/2017/state-bank-of-india-sbi-best-bank-governance-india-2017/"
 content_sha256: a504c75ac40a5ade0b7b828813dcbc6286619714072c7402f8348ee7f3aa2a9d
 canonical: 4797-state-bank-of-india-sbi-best-bank-governance-india-2017.json
 ---
