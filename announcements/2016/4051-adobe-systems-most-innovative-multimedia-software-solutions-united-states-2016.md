@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 68ca5aef38452b53e0d69add6c8766a13d3032a6f186b101ad586e625cc8e50b
 canonical: 4051-adobe-systems-most-innovative-multimedia-software-solutions-united-states-2016.json
 ---
