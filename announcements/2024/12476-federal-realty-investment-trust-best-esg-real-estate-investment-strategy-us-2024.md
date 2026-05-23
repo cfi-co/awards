@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241111232433
+wayback_snapshot_url: "http://web.archive.org/web/20241111232433/https://cfi.co/awards/finance/2024/federal-realty-investment-trust-best-esg-real-estate-investment-strategy-us-2024/"
 content_sha256: 5de2e7142ec742cdc29d64ddd08935a838927d262c8f50c752e889fdf03143ec
 canonical: 12476-federal-realty-investment-trust-best-esg-real-estate-investment-strategy-us-2024.json
 ---
