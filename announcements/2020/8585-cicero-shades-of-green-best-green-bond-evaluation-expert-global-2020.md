@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201221152542
+wayback_snapshot_url: "http://web.archive.org/web/20201221152542/https://cfi.co/awards/europe/2020/cicero-shades-of-green-best-green-bond-evaluation-expert-global-2020/"
 content_sha256: cea8f4b93325ebe4dbfdecd006ea6e32de673361dee96b9125a2bb717923fd11
 canonical: 8585-cicero-shades-of-green-best-green-bond-evaluation-expert-global-2020.json
 ---
