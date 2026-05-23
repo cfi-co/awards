@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 8ae3d7f79179e91888b0b92de31f6bae83e694f157ccbbd927bb54573bcdb770
 canonical: 7705-powergas-africa-ltd-best-natural-gas-value-creation-africa-2019.json
 ---
