@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923173732
+wayback_snapshot_url: "http://web.archive.org/web/20230923173732/https://cfi.co/awards/europe/2023/region-ile-de-france-best-green-bond-thought-leadership-team-global-2023/"
 content_sha256: be73d0d55e901c5de6cf687019fa5a63c9f6aa2a43603226c3e158928176858c
 canonical: 11728-region-ile-de-france-best-green-bond-thought-leadership-team-global-2023.json
 ---
