@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426101651
+wayback_snapshot_url: "http://web.archive.org/web/20190426101651/https://cfi.co/awards/asia-pacific/2017/bank-of-mauritius-best-central-bank-governance-indian-ocean-2017/"
 content_sha256: 5476c0d541d6ade36163f865fe5ec7cf17396b55558f1f56b446dee52dd95997
 canonical: 4920-bank-of-mauritius-best-central-bank-governance-indian-ocean-2017.json
 ---
