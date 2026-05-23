@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630125434
+wayback_snapshot_url: "http://web.archive.org/web/20220630125434/https://cfi.co/awards/asia-pacific/2022/jusan-invest-best-investment-solutions-kazakhstan-2021/"
 content_sha256: 37015a4abe8b3afeca6157e69692526e370ac7ce964aaa00000034c7a910a4b4
 canonical: 10249-jusan-invest-best-investment-solutions-kazakhstan-2021.json
 ---
