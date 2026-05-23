@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207204815
+wayback_snapshot_url: "http://web.archive.org/web/20211207204815/https://cfi.co/awards/asia-pacific/2021/china-life-insurance-group-company-best-life-insurance-services-china-2021/"
 content_sha256: 54ecc0f715c3978fe6c5c79de75762a87a10720f7f137a310cb98aeef52f9f0f
 canonical: 9799-china-life-insurance-group-company-best-life-insurance-services-china-2021.json
 ---
