@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7c5821a1d79215bcd0ec054e5a1b74a3a53cf27797ba69d6914f0e3be29e53d6
 canonical: 6933-mack-international-best-investment-manager-executive-search-firm-united-states-2.json
 ---
