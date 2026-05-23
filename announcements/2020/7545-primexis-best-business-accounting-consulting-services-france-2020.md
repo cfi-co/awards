@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: be1cafd000a2e7cacd91780571da7b17a774c9eb8c45f165285e34ee88bbedc2
 canonical: 7545-primexis-best-business-accounting-consulting-services-france-2020.json
 ---
