@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5dd1446022678c901c00cc6fca871d47740c2d3708676817f48d54f7081c9d56
 canonical: 7565-dlm-capital-group-best-structured-finance-securitisation-team-west-africa-2020.json
 ---
