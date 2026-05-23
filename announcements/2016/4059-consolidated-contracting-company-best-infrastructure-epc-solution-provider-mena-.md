@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221027144849
+wayback_snapshot_url: "http://web.archive.org/web/20221027144849/https://cfi.co/awards/middle-east/2016/consolidated-contracting-company-best-infrastructure-epc-solution-provider-mena-2016/"
 content_sha256: 07176b515cd9641e6a34a50712fa9735e8031d32072af8b2cfb6549ddee7ece9
 canonical: 4059-consolidated-contracting-company-best-infrastructure-epc-solution-provider-mena-.json
 ---
