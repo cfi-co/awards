@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420142433
+wayback_snapshot_url: "http://web.archive.org/web/20240420142433/https://cfi.co/awards/middle-east/2022/boursa-kuwait-best-digital-transformation-strategy-gcc-2021/"
 content_sha256: 60fe17a3ec449bad8b8e83723615b676c63deff29208de6cdc61f90af9f315ac
 canonical: 10011-boursa-kuwait-best-digital-transformation-strategy-gcc-2021.json
 ---
