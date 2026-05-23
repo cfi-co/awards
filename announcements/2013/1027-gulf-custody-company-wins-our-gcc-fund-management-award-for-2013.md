@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409053247
+wayback_snapshot_url: "http://web.archive.org/web/20140409053247/http://cfi.co/awards/middle-east/2013/gulf-custody-company-wins-our-gcc-fund-management-award-for-2013/"
 content_sha256: 50a91c4ff39884de377dca7b1eaf28e9e45f6db62dba7acdb5bfe025057db334
 canonical: 1027-gulf-custody-company-wins-our-gcc-fund-management-award-for-2013.json
 ---
