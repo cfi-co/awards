@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 03bdd4578427264f19382ff0a55160ecdff63377f8d0a26f13f8412ad42cb9af
 canonical: 6141-grupo-interbrok-best-independent-insurance-broker-brazil-2018.json
 ---
