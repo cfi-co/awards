@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921112715
+wayback_snapshot_url: "http://web.archive.org/web/20210921112715/https://cfi.co/awards/middle-east/2013/snr-denton-named-best-corporate-commercial-team-oman/"
 content_sha256: a7a57740016f12790ff17a50bf6397bf5ca3a480110f5f5a753767a227396a0b
 canonical: 509-snr-denton-named-best-corporate-commercial-team-oman.json
 ---
