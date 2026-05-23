@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "submitted_pending",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-480\" src=\"https://cfi.co/awards/wp-content/uploads/2013/05/Drew-Napier.jpg\" alt=\"Drew &amp; Napier\" width=\"294\" height=\"54\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Drew &amp; Napier continues to lead the Intellectual Property field in Singapore and is the well-deserved 2013 CFI award winner in this category.</strong></p>\r\n<p style=\"text-align: justify;\">The IP department at D&amp;P accounts for a quarter of all patents filed in the country and the firm represents high profile clients across a broad range of industries.  The firm and its talented lawyers are regularly recommended as leaders in their field.  The judging panel pointed to the firm’s skills in biomedical science.</p>",
     "content_sha256": "d8d777317bd88607516b67cd7dddf22be067ab567f11880b717c152e9701a8a6",
-    "record_sha256": "a68e8c6ac15867a0c083f8b05735765316ba3bcbbe86eedc9f720c974c5d9cc1"
+    "record_sha256": "edefa356637e6337349f4c2d68bbebe59ccecd2121e43be03b3a2712445d7db7"
 }
