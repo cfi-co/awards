@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20130616104030
+wayback_snapshot_url: "http://web.archive.org/web/20130616104030/http://cfi.co/awards/africa/2013/greenwich-trust-best-investment-bank-nigeria/"
 content_sha256: bcf9e9d9f21b86e7ee651a339b51678f468e79be7b52e13a8f7726f91ab3b3ef
 canonical: 336-greenwich-trust-best-investment-bank-nigeria.json
 ---
