@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813165059
+wayback_snapshot_url: "http://web.archive.org/web/20200813165059/https://cfi.co/awards/best-practice/sustainability/2020/worldfavor-best-digital-sustainability-management-solutions-global-2020/"
 content_sha256: 1aad0bf914194dfee4956fd3e84d15a22e0e87617caeaebc38c64768c0910980
 canonical: 7432-worldfavor-best-digital-sustainability-management-solutions-global-2020.json
 ---
