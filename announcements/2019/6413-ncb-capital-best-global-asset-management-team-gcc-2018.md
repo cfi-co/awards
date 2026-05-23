@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 639fd852c1d155b1841594c7bce34e830722814193111784e8e7c334d47cc15a
 canonical: 6413-ncb-capital-best-global-asset-management-team-gcc-2018.json
 ---
