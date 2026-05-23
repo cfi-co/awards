@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724085958
+wayback_snapshot_url: "http://web.archive.org/web/20190724085958/https://cfi.co/awards/north-america/2018/the-simpsons-most-societal-impact-television-series-global-2017/"
 content_sha256: 0d48e6d7d9eb8cd62bad3c91b172a172b397afb60d43e7dd33427bb83294b661
 canonical: 5262-the-simpsons-most-societal-impact-television-series-global-2017.json
 ---
