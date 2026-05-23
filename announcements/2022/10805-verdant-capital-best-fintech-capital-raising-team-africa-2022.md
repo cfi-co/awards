@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207231629
+wayback_snapshot_url: "http://web.archive.org/web/20221207231629/https://cfi.co/awards/africa/2022/verdant-capital-best-fintech-capital-raising-team-africa-2022/"
 content_sha256: 91cd98d10cfe075702dfd6315d3fd368e8eef6d5de20385f56df7dfa5f5d60e8
 canonical: 10805-verdant-capital-best-fintech-capital-raising-team-africa-2022.json
 ---
