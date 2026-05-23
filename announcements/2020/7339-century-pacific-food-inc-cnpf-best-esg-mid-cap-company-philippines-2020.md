@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200703041646
+wayback_snapshot_url: "http://web.archive.org/web/20200703041646/https://cfi.co/awards/asia-pacific/2020/century-pacific-food-inc-cnpf-best-esg-mid-cap-company-philippines-2020/"
 content_sha256: 0b916b37a3b7ae57bd67b052b3da844a301873543f98f512c686856932c59100
 canonical: 7339-century-pacific-food-inc-cnpf-best-esg-mid-cap-company-philippines-2020.json
 ---
