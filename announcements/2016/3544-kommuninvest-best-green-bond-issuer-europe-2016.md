@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200727191658
+wayback_snapshot_url: "http://web.archive.org/web/20200727191658/https://cfi.co/awards/finance/2016/kommuninvest-best-green-bond-issuer-europe-2016/"
 content_sha256: b239ac981bb09e539b5f8c0bbff6cbbd181e3abd912a5bec018aa9a2867d29b9
 canonical: 3544-kommuninvest-best-green-bond-issuer-europe-2016.json
 ---
