@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: db0d96767cfe88c7bd965ec0ca73e52ce34d55b055928a48dbf30596c47d0e20
 canonical: 9992-finsbury-growth-income-trust-best-esg-portfolio-management-strategy-uk-2021.json
 ---
