@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b81443bf59e521d02165c8c670bc407ed9707772bae3d140daf5e1023ac54ee9
 canonical: 9977-kirstein-best-strategic-international-manager-advisory-scandinavia-2021.json
 ---
