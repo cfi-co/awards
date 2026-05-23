@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 3a03d3dcb0617938171fcd182094eee3ad7074a0e0a3681b9a47f91a91d7651b
 canonical: 4144-sn-power-best-esg-renewable-energy-operations-emerging-markets-2016.json
 ---
