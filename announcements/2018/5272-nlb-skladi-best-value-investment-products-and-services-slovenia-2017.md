@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 93f8c0e78037553f49515a3ec36dc7f05f6eacceb32c22fc95c0d47965eafe49
 canonical: 5272-nlb-skladi-best-value-investment-products-and-services-slovenia-2017.json
 ---
