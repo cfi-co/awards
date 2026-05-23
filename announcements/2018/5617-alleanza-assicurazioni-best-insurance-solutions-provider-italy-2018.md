@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20181225030757
+wayback_snapshot_url: "http://web.archive.org/web/20181225030757/https://cfi.co/awards/europe/2018/alleanza-assicurazioni-best-insurance-solutions-provider-italy-2018/"
 content_sha256: 952b05569fdef9e0d6ddcf5434dffee121e6ba955b2935d5405f88a2382987c6
 canonical: 5617-alleanza-assicurazioni-best-insurance-solutions-provider-italy-2018.json
 ---
