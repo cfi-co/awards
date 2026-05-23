@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614171350
+wayback_snapshot_url: "http://web.archive.org/web/20210614171350/https://cfi.co/awards/africa/2021/convergence-partners-best-tmt-impact-investment-strategy-africa-2021/"
 content_sha256: 1db7ca3578751bc6e13d8ddae17df5406256c9ad0a9e2968e9a8aec7296fa204
 canonical: 9147-convergence-partners-best-tmt-impact-investment-strategy-africa-2021.json
 ---
