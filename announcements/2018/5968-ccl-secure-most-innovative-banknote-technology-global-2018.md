@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 186d6d1afb5e02ccdd8ce9b794bac58cecd3a94817560e89efdf5ee3199e5abb
 canonical: 5968-ccl-secure-most-innovative-banknote-technology-global-2018.json
 ---
