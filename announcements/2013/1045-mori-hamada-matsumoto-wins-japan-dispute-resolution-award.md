@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150807014322
+wayback_snapshot_url: "http://web.archive.org/web/20150807014322/http://cfi.co/awards/asia-pacific/2013/mori-hamada-matsumoto-wins-japan-dispute-resolution-award/"
 content_sha256: 5afa256e09f84e9b4af11c390f3d6e4a196953e3afd1191a113d40300e79ad57
 canonical: 1045-mori-hamada-matsumoto-wins-japan-dispute-resolution-award.json
 ---
