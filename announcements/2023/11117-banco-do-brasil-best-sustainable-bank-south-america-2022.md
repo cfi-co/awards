@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330012035
+wayback_snapshot_url: "http://web.archive.org/web/20230330012035/https://cfi.co/awards/banking/2023/banco-do-brasil-best-sustainable-bank-south-america-2022/"
 content_sha256: 15fb65e0020bba4f8bd30c12cfcedfccbf676488d729ccb8f6d6b3ef4acbf36d
 canonical: 11117-banco-do-brasil-best-sustainable-bank-south-america-2022.json
 ---
