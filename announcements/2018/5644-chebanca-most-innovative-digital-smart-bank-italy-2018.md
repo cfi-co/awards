@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005633
+wayback_snapshot_url: "http://web.archive.org/web/20190723005633/https://cfi.co/awards/europe/2018/chebanca-most-innovative-digital-smart-bank-italy-2018/"
 content_sha256: c57fd2025cf84ca9226a9227ccbea9816e193ba4326a8562c7a4881b509c08f0
 canonical: 5644-chebanca-most-innovative-digital-smart-bank-italy-2018.json
 ---
