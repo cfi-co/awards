@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505101803
+wayback_snapshot_url: "http://web.archive.org/web/20160505101803/http://cfi.co/awards/middle-east/2015/morgan-stanley-best-institutional-broker-uae-2014/"
 content_sha256: d588e66d92b07fd628f2f9aa1e0212e06f94f2c63a13b455e3c784de153242ac
 canonical: 1491-morgan-stanley-best-institutional-broker-uae-2014.json
 ---
