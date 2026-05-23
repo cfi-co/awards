@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 20b38b69d3c0c63878864e9a61f9d6db36a2ac01e3e533c0a3ad5dc5b8f06e2b
 canonical: 7791-umr-corem-best-mutual-pension-provider-france-2019.json
 ---
