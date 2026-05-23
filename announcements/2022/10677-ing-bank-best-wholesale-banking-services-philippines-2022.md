@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928195022
+wayback_snapshot_url: "http://web.archive.org/web/20220928195022/https://cfi.co/awards/asia-pacific/2022/ing-bank-best-wholesale-banking-services-philippines-2022/"
 content_sha256: e5dc718ecc9305580060708a2e72f14b3d87432df5714edb3782ff33871346b9
 canonical: 10677-ing-bank-best-wholesale-banking-services-philippines-2022.json
 ---
