@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 467cc1c2128847a51c21dfd4f5c8e6012f5ff2dc5b58a5367795efa3d8a4a3b8
 canonical: 13347-la-trobe-financial-best-investment-management-team-australia-2026.json
 ---
