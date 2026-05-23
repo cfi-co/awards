@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140409153753",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409153753/http://cfi.co/awards/middle-east/2013/olayan-financing-company-a-corporate-leader-in-the-middle-east/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-343 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/01/olayan.gif\" alt=\"\" width=\"135\" height=\"100\" />The Olayan Group was established in 1947 by Suliman Olayan.</strong></p>\r\n<p style=\"text-align: justify;\">It is a private multinational enterprise that engages in distribution, manufacturing, services and investment. Olayan Financing Company is responsible for the Group’s business in Saudia Arabia and the Middle East (including JVs with major multinationals). The CFI judging panel takes the view that the founder’s values of dedication, integrity, teamwork and continual improvement inform the present management of the business and are as important to the Olayan family now as they ever were. In many ways the progress made by Olayan over these long years mirrors that of the Kingdom of Saudi Arabia itself. The name Olayan has been associated with major international brands and some of these relationships having been in place for over fifty years. Lubna Olayan is a champion of women in the work place and the firm is a good corporate citizen and a thriving business with strong momentum.</p>",
     "content_sha256": "1f776d2beb27912af6610d93275f91c1f3cf9556f14585f251f8f6ae075b3370",
-    "record_sha256": "1082ec9f657aa6ef6fcb69a9f186dcedfe7455d55fff146580907c9851fd6689"
+    "record_sha256": "7c758e4a89ac8aae23311767a7a2074cc038f0a030c78de8df5e5f1af0c41f38"
 }
