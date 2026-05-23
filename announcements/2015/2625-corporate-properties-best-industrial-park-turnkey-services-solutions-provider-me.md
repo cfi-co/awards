@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 96cd44f4b2ac3c92defddabcc4d28c79f99fe828f117f96ad88ecdf92c2d5c65
 canonical: 2625-corporate-properties-best-industrial-park-turnkey-services-solutions-provider-me.json
 ---
