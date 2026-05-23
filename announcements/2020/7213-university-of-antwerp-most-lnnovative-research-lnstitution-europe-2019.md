@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 80278eb81cae864c6869aa27d0f49fa6bdc092c9eb141efd43c0ea8dda954c56
 canonical: 7213-university-of-antwerp-most-lnnovative-research-lnstitution-europe-2019.json
 ---
