@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928181308
+wayback_snapshot_url: "http://web.archive.org/web/20220928181308/https://cfi.co/awards/customer-satisfaction/2013/bentley-powers-ahead-in-customer-satisfaction-cfi-co-award-winner-middle-east-2013/"
 content_sha256: 78efd468c9b5da13639c37be870f9a4910d6fbec65530caf5ee03c17211f4c34
 canonical: 1120-bentley-powers-ahead-in-customer-satisfaction-cfi-co-award-winner-middle-east-20.json
 ---
