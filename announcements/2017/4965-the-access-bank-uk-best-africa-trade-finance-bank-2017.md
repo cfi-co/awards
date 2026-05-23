@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: cb3a9200f4befddadeb0d3323c3406bd17c0cfddc03a2117273b7936afa573ac
 canonical: 4965-the-access-bank-uk-best-africa-trade-finance-bank-2017.json
 ---
