@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203234822
+wayback_snapshot_url: "http://web.archive.org/web/20201203234822/https://cfi.co/awards/north-america/2020/axs-investments-best-alternative-asset-manager-usa-2020/"
 content_sha256: d9e3b61a02ad71f13bbe60f6bc743e437a16e8cfd94b5997e27672edd01c0334
 canonical: 8398-axs-investments-best-alternative-asset-manager-usa-2020.json
 ---
