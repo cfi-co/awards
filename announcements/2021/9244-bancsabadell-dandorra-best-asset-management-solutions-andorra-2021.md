@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614185349
+wayback_snapshot_url: "http://web.archive.org/web/20210614185349/https://cfi.co/awards/europe/2021/bancsabadell-dandorra-best-asset-management-solutions-andorra-2021/"
 content_sha256: ecbad0d0b5bacdbb79f2693e723e6f4013f5322a5df744e755ccfbefe325c8a5
 canonical: 9244-bancsabadell-dandorra-best-asset-management-solutions-andorra-2021.json
 ---
