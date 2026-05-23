@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505060338
+wayback_snapshot_url: "http://web.archive.org/web/20160505060338/http://cfi.co/awards/latin-america/2015/credicorp-capital-best-securities-brokerage-mila-2015/"
 content_sha256: 81af942d6343472c133eb3eba77c64cd8bd44038ad0130b5b9cea1cb6364fe45
 canonical: 3136-credicorp-capital-best-securities-brokerage-mila-2015-2.json
 ---
