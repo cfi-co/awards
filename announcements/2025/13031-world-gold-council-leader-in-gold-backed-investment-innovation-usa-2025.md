@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250812125421
+wayback_snapshot_url: "http://web.archive.org/web/20250812125421/https://cfi.co/awards/north-america/2025/world-gold-council-leader-in-gold-backed-investment-innovation-usa-2025/"
 content_sha256: e29a350e979d69d27211146f817558861dbb53db21dc1d280994a4d96d2bff26
 canonical: 13031-world-gold-council-leader-in-gold-backed-investment-innovation-usa-2025.json
 ---
