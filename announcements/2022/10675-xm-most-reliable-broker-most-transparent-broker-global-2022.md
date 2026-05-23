@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928201255
+wayback_snapshot_url: "http://web.archive.org/web/20220928201255/https://cfi.co/awards/europe/2022/xm-most-reliable-broker-most-transparent-broker-global-2022/"
 content_sha256: 9e7590328a0aa85123462b1ffb37f422bf8dff9daebc96f36161df041e84cad1
 canonical: 10675-xm-most-reliable-broker-most-transparent-broker-global-2022.json
 ---
