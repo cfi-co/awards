@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211015232451
+wayback_snapshot_url: "http://web.archive.org/web/20211015232451/https://cfi.co/awards/middle-east/2015/sedco-best-shariah-compliant-real-estate-fund-management-team-saudi-arabia-2014/"
 content_sha256: 0392611c049e6d796f24d3bab8b57cbd0080c1485e4d908741953b2d2c95af03
 canonical: 2126-sedco-best-shariah-compliant-real-estate-fund-management-team-saudi-arabia-2014.json
 ---
