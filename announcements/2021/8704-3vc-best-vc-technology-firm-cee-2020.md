@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210629104919
+wayback_snapshot_url: "http://web.archive.org/web/20210629104919/https://cfi.co/awards/europe/2021/3vc-best-vc-technology-firm-cee-2020/"
 content_sha256: 1234b141ddafa9dd97549f6216c95e4d791385825ff091ce1efc62605109188d
 canonical: 8704-3vc-best-vc-technology-firm-cee-2020.json
 ---
