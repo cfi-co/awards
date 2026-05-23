@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "submitted_pending",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "&nbsp;\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1958\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/d1.jpg\" alt=\"d\" width=\"240\" height=\"25\" /></p>\r\n<p style=\"text-align: justify;\"><strong>According to the CFI judging panel, Dr. Klagsbald &amp; Co. Law Offices is an extraordinarily successful boutique law firm.</strong></p>\r\n<p style=\"text-align: justify;\">Headed by the man whose name appears above the door, this firm of strong and talented litigators handles demanding civil and commercial dispute work on behalf of major Israeli and foreign corporations and business leaders. Dr Klagsbald, who has represented three Israeli prime ministers as well as several high profile members of the Knesset, brings his 25 years of experience into play each working day as he takes the lead on all cases. He has brought together a small group of highly effective lawyers and the panel has no hesitation in naming the firm Best Dispute Resolution Team, Israel, 2013.</p>",
     "content_sha256": "8340e15fbcf97dd4513c7d10affa2c800b3f2dbc387ffd02392d020e6b6fe385",
-    "record_sha256": "43f60a3daacdd99a04c2b7c261c1734ffaca5337ce42454f72064abfb4e5465a"
+    "record_sha256": "c7b73f05d89a8630e48609af81968d9da3f72ee3d442e9277f84bda7b430e359"
 }
