@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220501131440
+wayback_snapshot_url: "http://web.archive.org/web/20220501131440/https://cfi.co/awards/europe/2022/ceconomy-best-esg-retailer-germany-2022/"
 content_sha256: 9088eecd1738e2393466006d1ecba7ad70c26292cf3d075defddbd5707a518e4
 canonical: 10234-ceconomy-best-esg-retailer-germany-2022.json
 ---
