@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210724023752",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210724023752/https://cfi.co/awards/north-america/2012/morgan-stanleys-investment-in-staff-pays-off-as-they-win-the-award-for-best-commercial-bank-usa/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2037\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/ms.jpg\" alt=\"ms\" width=\"521\" height=\"97\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Morgan Stanley’s inevitable move into commercial banking after the 2008 crisis was well thought out and has been a great success. </strong></p>\r\n<p style=\"text-align: justify;\">The Bank is a concerned employer who year by year is ranked highly on lists of best places to work. The panel applauds Morgan Stanley’s efforts to support – among other groups – working mothers, African Americans and Hispanics.</p>",
     "content_sha256": "e1d72a2ad8c2e743807a5373cc6bbcb80fa694c4e5efd04c58fa36dc15cbf912",
-    "record_sha256": "eb04aca6b9cb8aeb6bccd10410db3c519be06df298d411f24311d0ced4e9948c"
+    "record_sha256": "49b3028c3a934481b721c13f91b4f97d08d6f93418802fde4b906eea69b68ad2"
 }
