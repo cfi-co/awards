@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200711052402
+wayback_snapshot_url: "http://web.archive.org/web/20200711052402/https://cfi.co/awards/professional-services/2017/eurohold-best-ma-advisory-boutique-spain-2017/"
 content_sha256: d6e4d4e3615b5f625d9d6a73148dac7eda049c0af51ab6e196eb829d3dabb9a5
 canonical: 4301-eurohold-best-ma-advisory-boutique-spain-2017.json
 ---
