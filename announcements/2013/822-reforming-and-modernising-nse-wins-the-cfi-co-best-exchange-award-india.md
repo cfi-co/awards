@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150807002729
+wayback_snapshot_url: "http://web.archive.org/web/20150807002729/http://cfi.co/awards/asia-pacific/2013/reforming-and-modernising-nse-wins-the-cfi-co-best-exchange-award-india/"
 content_sha256: c97a55597a4b65bc590e99652e914816186fa3905f4beb4c86cfccce72fe96c3
 canonical: 822-reforming-and-modernising-nse-wins-the-cfi-co-best-exchange-award-india.json
 ---
