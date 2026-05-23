@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426100056
+wayback_snapshot_url: "http://web.archive.org/web/20190426100056/https://cfi.co/awards/europe/2018/edreams-odigeo-best-online-travel-partner-global-2018/"
 content_sha256: 1ff5e8377afa19f43ccd728a49e7cf4d4eaea92c95e6a72b8a62dcca9388d11e
 canonical: 5845-edreams-odigeo-best-online-travel-partner-global-2018.json
 ---
