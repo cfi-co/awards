@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426104606
+wayback_snapshot_url: "http://web.archive.org/web/20190426104606/https://cfi.co/awards/middle-east/2018/gcc-board-directors-institute-outstanding-contribution-to-corporate-governance-gcc-2017/"
 content_sha256: e108281473a86bec71ee835dc3d9db6718c89ded6c58b790b4f330c2ed2b11fe
 canonical: 6348-gcc-board-directors-institute-outstanding-contribution-to-corporate-governance-g.json
 ---
