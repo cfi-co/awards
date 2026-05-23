@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160122082307
+wayback_snapshot_url: "http://web.archive.org/web/20160122082307/http://cfi.co/awards/europe/2015/finecobank-best-european-financial-advisory-team-2015/"
 content_sha256: c12d75f95d2df08964dd8498f276853c7c825fd398404436164f7ec54037a83b
 canonical: 2661-finecobank-best-european-financial-advisory-team-2015.json
 ---
