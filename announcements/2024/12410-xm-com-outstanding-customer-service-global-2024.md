@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 48b866809ddc8bc963bd7c1a3eb9ec1a3c785422e5e90fe3723c3ec1e1f60aa2
 canonical: 12410-xm-com-outstanding-customer-service-global-2024.json
 ---
