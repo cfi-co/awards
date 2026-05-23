@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c89b8d823ad1220d8c8c875c0b64737af1db87f47e19724d71f295b6c2863b01
 canonical: 118-goldman-sachs-win-best-investment-bank-usa-2012.json
 ---

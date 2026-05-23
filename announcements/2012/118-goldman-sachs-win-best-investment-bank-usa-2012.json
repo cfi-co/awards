@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "&nbsp;\r\n\r\n<img class=\"aligncenter size-full wp-image-2088\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/gs1.jpg\" alt=\"gs\" width=\"225\" height=\"225\" />\r\n\r\n<strong>Despite significantly reduced revenues in 2011, the judging panel was overall highly supportive of Goldman’s recent investment banking activities and termed the Bank’s corporate social responsibility programmes as ‘inspirational’. </strong>\r\n\r\nThe panel commented favourably on risk management at Goldman Sachs as well as referring to their ‘sterling work in M&amp;A advisory and strong  revenue generation through equities trading.’",
     "content_sha256": "c89b8d823ad1220d8c8c875c0b64737af1db87f47e19724d71f295b6c2863b01",
-    "record_sha256": "fd60900a2b8cefdbde789cccd1609d404495dc0e4cf9d8f58cc05e862d4de4ad"
+    "record_sha256": "132fbcd6e1e32a625a74d571ca1187f0f80a636dff469d0d821cae22f49d1100"
 }
