@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bfe2342a7569cbcecd12023a3d6dc6adca0b14349de164a754bd1cf6691f0f63
 canonical: 7410-health-at-hand-best-telemedicine-services-uae-2020.json
 ---
