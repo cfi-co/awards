@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104731
+wayback_snapshot_url: "http://web.archive.org/web/20210228104731/https://cfi.co/awards/asia-pacific/2021/insurance-corporation-of-afghanistan-best-insurance-company-afghanistan-2020/"
 content_sha256: 0b9068dca24f362cf2c346c61fe3da7462a5676ddf2b64cb8641e60f2ed30472
 canonical: 8774-insurance-corporation-of-afghanistan-best-insurance-company-afghanistan-2020.json
 ---
