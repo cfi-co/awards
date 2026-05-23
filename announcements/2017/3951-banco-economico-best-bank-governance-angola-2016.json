@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3952\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/BancoEconomico.jpg\" alt=\"\" width=\"359\" height=\"116\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A Commercial and Investment bank charged with financially underpinning development projects in Angola, Banco Económico squarely aims to become the bank of choice for all Angolans. It does so by offering a client-centric approach to the provision of financial services and pursuing excellence in corporate governance. Both internal and external processes have been updated to allow for greater transparency and compliance with international best practices and regulations.</strong></p>\r\n<p style=\"text-align: justify;\">After a successfully concluded rebranding exercise, and a revamping of the shareholder structure, Banco Económico has been thoroughly reinvigorated. The bank draws on its vast operational expertise to offer clients an exceptionally broad array of financial products and services. In Angola, Banco Económico is recognised as an early adopter of corporate social responsibility, supporting a number of programmes set up to broaden access to education, healthcare, and culture.</p>\r\n<p style=\"text-align: justify;\">The bank has also put its considerable weight behind initiatives that promote financial inclusion and the overall development of the economy. Maintaining a number of specialised divisions, Banco Económico offers differentiated lines of products and services that dovetail with the specific needs of the oil and gas industry, traders, smaller businesses, and other sectors of vital importance to the country.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is pleased to note that Banco Económico emphasises the need to adhere to the strictest standards of corporate governance and, indeed, has placed compliance at the core of its business model. The judges declare Banco Económico winner of the 2016 Best Bank Governance Angola Award.</p>",
     "content_sha256": "898c1e86f1f11a1e7cf5af7f6b06b9ffeaf861660560cedaeb3c323fd74c05db",
-    "record_sha256": "5b31beeebddb655b10c1f311ce957798a5738905e9591440bf8a4008f99bbb79"
+    "record_sha256": "5562cd675ee2448453401cf08e7553a2576e6aca298782e6bc75908f37655ef8"
 }

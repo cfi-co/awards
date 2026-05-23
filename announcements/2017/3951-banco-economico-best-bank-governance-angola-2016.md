@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 898c1e86f1f11a1e7cf5af7f6b06b9ffeaf861660560cedaeb3c323fd74c05db
 canonical: 3951-banco-economico-best-bank-governance-angola-2016.json
 ---
