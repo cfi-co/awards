@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 03bb578e697e9775ce18ccc995f3b8e7619d4282756a4706d201e200daac2126
 canonical: 11547-xm-best-customer-support-global-2023.json
 ---
