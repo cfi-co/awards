@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094409
+wayback_snapshot_url: "http://web.archive.org/web/20190426094409/https://cfi.co/awards/middle-east/2018/capital-bank-of-jordan-best-sme-bank-services-jordan-2017/"
 content_sha256: 1fc2e8fcd96efefb306d64b0b2fac5c99f1743c4d19a4d04519a7cf046174f9d
 canonical: 5183-capital-bank-of-jordan-best-sme-bank-services-jordan-2017.json
 ---

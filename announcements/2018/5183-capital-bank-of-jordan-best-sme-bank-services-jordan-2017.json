@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190426094409",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190426094409/https://cfi.co/awards/middle-east/2018/capital-bank-of-jordan-best-sme-bank-services-jordan-2017/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5184\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/CapitalBankOfJordan.jpg\" alt=\"\" width=\"331\" height=\"238\" />\r\n<p style=\"text-align: justify;\"><strong>One of the country’s main financial services providers, Capital Bank of Jordan caters to both retail and corporate customers and maintains a dedicated division to serve small and medium-sized enterprises (SMEs) with a full range of products and services tailored to meet the specific needs of this most dynamic sector.</strong></p>\r\n<p style=\"text-align: justify;\">Recognising the difficulties many promising SMEs used to experience in accessing financial services, Capital Bank of Jordan tapped into the market with a full suite of flexible and scalable services that are designed to allow smaller businesses to seize opportunities and expand operations.</p>\r\n<p style=\"text-align: justify;\">Capital Bank of Jordan was established in 1995 as Export &amp; Finance Bank and is particularly well-equipped to help facilitate cross-border trade. . The bank has since registered robust growth and is now able to help SMEs broach new markets and make full use of its international experience. Moreover, Capital Bank of Jordan partners with a number of multilateral finance organisations that allow the bank to extend its reach.</p>\r\n<p style=\"text-align: justify;\">A domestic network of eleven full-service branches helps the bank maintain close proximity to its customers. Capital Bank of Jordan also holds a majority stake in National Bank of Iraq (NBI) and established a presence in the Dubai International Financial Centre (DIFC).</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that sustainable economic growth calls for a strong SME sector. The judges are pleased to offer Capital Bank of Jordan the 2017 Best SME Bank Services Jordan Award.</p>",
     "content_sha256": "1fc2e8fcd96efefb306d64b0b2fac5c99f1743c4d19a4d04519a7cf046174f9d",
-    "record_sha256": "f350cf963297d8760089c811b8fc598f82ee858a1151c16f65186688e425cad4"
+    "record_sha256": "4f6e27a585bcc5dab719f452c254e1cb3b49d4c664fc5228b799fb46752c6509"
 }
