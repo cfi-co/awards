@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250614235129
+wayback_snapshot_url: "http://web.archive.org/web/20250614235129/https://cfi.co/awards/finance/2025/schafer-cullen-capital-management-innovators-in-long-term-value-equity-strategies-usa-2025/"
 content_sha256: dacee072c9fff94af9d6c447be6d667b7af12130f7c988775e545bb1daccbe67
 canonical: 12977-schafer-cullen-capital-management-innovators-in-long-term-value-equity-strategie.json
 ---
