@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f6fba3074ddbf098e2ba59187c9254cdac3f1a912fed161e50a8a54b244ea473
 canonical: 10440-dpm-finanzas-best-independent-financial-advisory-team-spain-2022.json
 ---
