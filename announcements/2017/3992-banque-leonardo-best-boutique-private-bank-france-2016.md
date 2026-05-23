@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921102457
+wayback_snapshot_url: "http://web.archive.org/web/20210921102457/https://cfi.co/awards/banking/2017/banque-leonardo-best-boutique-private-bank-france-2016/"
 content_sha256: 4676578fceea68cc0acb02146690f8efe6099d88d19f5e420ec2432586b86f7a
 canonical: 3992-banque-leonardo-best-boutique-private-bank-france-2016.json
 ---
