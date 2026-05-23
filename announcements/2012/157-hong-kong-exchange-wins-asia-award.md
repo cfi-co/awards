@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230528023537
+wayback_snapshot_url: "http://web.archive.org/web/20230528023537/https://cfi.co/awards/asia-pacific/2012/hong-kong-exchange-wins-asia-award/"
 content_sha256: 9a3e9e276769a27ee5ca2b2da2a090f4373d784e7bea91b202cedfecffffdac2
 canonical: 157-hong-kong-exchange-wins-asia-award.json
 ---
