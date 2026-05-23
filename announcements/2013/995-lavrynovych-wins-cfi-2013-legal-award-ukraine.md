@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409004031
+wayback_snapshot_url: "http://web.archive.org/web/20140409004031/http://cfi.co/awards/europe/2013/lavrynovych-wins-cfi-2013-legal-award-ukraine/"
 content_sha256: fdb6a97346a190d09422e5b492947f803921d9fb06baa1d131b7701439a60165
 canonical: 995-lavrynovych-wins-cfi-2013-legal-award-ukraine.json
 ---
