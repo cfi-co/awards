@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-11047 size-full\" title=\"Byblos Bank Europe\" src=\"https://cfi.co/awards/wp-content/uploads/2023/01/BBE-jpg.webp\" alt=\"Byblos Bank Europe\" width=\"500\" height=\"85\" />\r\n\r\n&nbsp;\r\n<p style=\"text-align: justify;\">Byblos Bank Group is a full-service financial institution with roots stretching back over seven decades. Headquartered in <a href=\"https://cfi.co/countries/lebanon/\">Lebanon</a>, the group has established a solid international presence through a network of branches, representatives and subsidiaries in 10 countries and three continents. Byblos Bank Europe (BBE) has been helping clients make the most of their finances since 1976. Byblos Bank Europe offers a wide range of individual and corporate banking solutions. International trade finance represents a significant portion of the business, as Byblos Bank Europe pulls from the group’s expansive presence and expertise to connect clients with opportunities in emerging markets across Asia, Africa and the <a href=\"https://cfi.co/regions/middle-east/\">Middle East</a>. It specialises in trade finance instruments like letters of credit, documentary collections and guarantees. It can also tailor structured trade finance products to include standby, back-to-back or transferable letters of credit as well as proceeds assignment or business forfeiture. The bank has brought together a multicultural and multilingual team across its Brussels, London and Paris offices. The workforce represents 25 nationalities and various languages. The breadth of the team’s language capabilities and international experience has proven a boon as the bank continues to expand into new markets and deal with ever-evolving regulations across different jurisdictions. Byblos Bank Europe is in the process of upgrading the IT infrastructure and exploring AI-powered tools to increase efficiency and efficacy. The CFI.co judging panel presents Byblos Bank Europe — a repeat programme winner — with the 2023 award for Best International Trade Finance Bank (Europe).</p>\r\n[video width=\"1920\" height=\"1080\" mp4=\"https://cfi.co/awards/wp-content/uploads/2023/12/ByblosBankEurope.mp4\"][/video]",
     "content_sha256": "09992ca921c0eee2658f6b91d9af7aa0375ab96e54d08671b96d62f4c2b1e683",
-    "record_sha256": "633705329c9b0247ad82468d875df85d72179820dc89ea51fc99d9d8ad261dbe"
+    "record_sha256": "7829018a8b8948d3cd6e728b0ee826da0577301563963a25d1ed256d20fe7062"
 }
