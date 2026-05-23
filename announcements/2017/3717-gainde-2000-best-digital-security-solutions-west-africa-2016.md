@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190902131551
+wayback_snapshot_url: "http://web.archive.org/web/20190902131551/https://cfi.co/awards/africa/2017/gainde-2000-best-digital-security-solutions-west-africa-2016/"
 content_sha256: 1937a9a45245360ee4beb53c84dfc9987c114ea950ca4b81ec0d915c5a959ad7
 canonical: 3717-gainde-2000-best-digital-security-solutions-west-africa-2016.json
 ---
