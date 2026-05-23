@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221121091921
+wayback_snapshot_url: "http://web.archive.org/web/20221121091921/https://cfi.co/awards/europe/2022/beer-young-best-sme-growth-capital-solutions-uk-2022/"
 content_sha256: 705acfe8d4e5ccad40c58e61ca84a0772ac87e61b76962eb9fcafaeef5b7d3ca
 canonical: 10917-beer-young-best-sme-growth-capital-solutions-uk-2022.json
 ---
