@@ -21,10 +21,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201203235445",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203235445/https://cfi.co/awards/africa/2020/crc-credit-bureau-ltd-best-credit-bureau-nigeria-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-1486\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/crc.jpg\" alt=\"crc\" width=\"512\" height=\"101\" />\r\n<p style=\"text-align: justify;\">Nigeria’s CRC Credit Bureau was established by 10 regional financial institutions and Dun &amp; Bradstreet, a world player with over 170 years of credit bureau experience. CRC is the largest credit reporting agency in Nigeria, responsible for over 95 percent of the nation’s recorded credit data from commercial banks, non-bank institutions, utility companies, and retailers. This impressive market share is the result of a well-designed organisational structure, fine-tuned processes, and highly principled governance. CRC creates a database of risk profiles deploying diligent research and data mining. Credit providers and borrowers alike rely on CRC Credit Bureau to facilitate informed lending and borrowing decisions with fast, hard facts. Creditors can access the CRC database to check a prospective borrower’s creditworthiness or tailor new credit products using its tech-driven development tools. Catch-22 that it is, accessing a credit line requires a good credit history, whether private person or corporate entity, and CRC foresees fintech partnerships filling the gap in financial inclusion. In partnership with the Fair Isaac Corporation (FICO), a worldwide leader of credit analytics, CRC has developed a methodology to standardise credit scoring across the Nigerian market. Its latest partnership with Nova enables Nigerians who emigrate to the US to take their good credit history with them. The CFI.co judging panel agrees that sustainable retail lending is fuelled by digitalisation and data-driven decisions and confirms CRC Credit Bureau as the obvious choice for the 2020 Best Credit Bureau (Nigeria) award.</p>",
     "content_sha256": "f53020de87cf9d36181fed2364fddd35ec9d746c9db97d3a5b6b67184d9d5a60",
-    "record_sha256": "7a741a6ffbcafc664e6b064469f8f8334b2fc2a182e887b8d621ef19c516b487"
+    "record_sha256": "1e038c979d2d18bf99fcd297e0508833e576fb04a08e73be26cc100ff9e18d5e"
 }
