@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724015822
+wayback_snapshot_url: "http://web.archive.org/web/20210724015822/https://cfi.co/awards/latin-america/2021/agrocortex-best-redd-expert-latin-america-2020/"
 content_sha256: 051e1cabb96f8ae43ebf14b2018117a008a488461b5ac5ae526b9e02135ae1b8
 canonical: 9139-agrocortex-best-redd-expert-latin-america-2020.json
 ---
