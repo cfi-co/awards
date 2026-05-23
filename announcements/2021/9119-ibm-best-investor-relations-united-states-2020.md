@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614174406
+wayback_snapshot_url: "http://web.archive.org/web/20210614174406/https://cfi.co/awards/north-america/2021/ibm-best-investor-relations-united-states-2020/"
 content_sha256: eba0110f1fc8cdc1bb27e4b18c22a58b6972abcf25bbe6ee912c3d2a1831c169
 canonical: 9119-ibm-best-investor-relations-united-states-2020.json
 ---
