@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b8b8d5064efdc1b902398bfff7c1f374735cf90592e0557b9fcd9be4bd8bbf95
 canonical: 7749-first-pension-custodian-best-pension-fund-services-team-nigeria-2019.json
 ---
