@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250730044718",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250730044718/https://cfi.co/awards/asia-pacific/2025/fbs-markets-inc-excellence-in-social-responsibility-within-the-forex-industry-asia-2025/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12710\" src=\"https://cfi.co/awards/wp-content/uploads/2024/11/FBS-jpg.webp\" alt=\"\" width=\"300\" height=\"300\" />\r\n<p style=\"text-align: justify;\">FBS has demonstrated unwavering commitment to social responsibility through a comprehensive programme of philanthropic and community-focused initiatives across Asia and beyond. In 2024, the company delivered 16 CSR projects in seven countries, positively impacting over 14,000 individuals. Its efforts spanned education, humanitarian aid, and disaster relief, underscoring FBS’s dedication to creating tangible, long-term benefits for communities. In South Africa, the company partnered with Education Africa to enhance learning conditions at Masibambane College, while in Indonesia, FBS supported the Peduli Anak Foundation by upgrading classroom environments. In Malaysia, FBS collaborated with SUKA Society to resource six preschools for Orang Asli children, enhancing access to early education. FBS also addressed urgent humanitarian needs; in Thailand, its partnership with Save the Children benefitted more than 8,500 refugee children, and following severe flooding in the country’s north, FBS provided aid to over 430 affected households. Seasonal campaigns such as the Ramadan initiative in Malaysia and the Christmas Gift-A-Meal programme, run with the Dignity for Children Foundation, brought comfort to over 1,250 families. Collectively, these efforts were backed by donations exceeding $50,000 and implemented in cooperation with seven organisations. FBS captured these moments in a video to raise awareness and encourage participation. The company’s approach to CSR reflects a growing ethos of engagement, firmly embedded in its values. CFI.co Judging Panel congratulates FBS Markets Inc on winning the 2025 award for Excellence in Social Responsibility within the Forex Industry (Asia).</p>",
     "content_sha256": "5334aac08fe645d09de893f7e34ec62f4d7aa2337253b049faa0551b071fd1d6",
-    "record_sha256": "020b2fee202ef497d72f104a006dac9cc90701430cf8a2dbb7a7a91ff1d0d91b"
+    "record_sha256": "94d3d84d2544fd4f30030465101d30cb3155d5996ab534db9fb1ea150a7bb905"
 }
