@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315105516
+wayback_snapshot_url: "http://web.archive.org/web/20260315105516/https://cfi.co/awards/best-practice/2026/sustainability-excellence-management-consulting-limited-leader-in-sustainability-reporting-transparency-middle-east-2025/"
 content_sha256: e650908d08f641b8b5c50562c6691db7dd7a3c72647c9a2e94f86bf5cf46fad9
 canonical: 13316-sustainability-excellence-management-consulting-limited-leader-in-sustainability.json
 ---
