@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505084615
+wayback_snapshot_url: "http://web.archive.org/web/20160505084615/http://cfi.co/awards/asia-pacific/2015/clyde-co-hong-kong-best-aviation-finance-advisory-team-for-emerging-markets-2015/"
 content_sha256: 213217c813e02079172b04a6ca17dbed23c27f3e99aedf2c38e3716d05c5ddca
 canonical: 2375-clyde-co-hong-kong-best-aviation-finance-advisory-team-for-emerging-markets-2015.json
 ---
