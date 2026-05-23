@@ -26,10 +26,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201203224732",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203224732/https://cfi.co/awards/north-america/2020/invesco-best-esg-responsible-investment-expert-united-states-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8312\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Invesco.jpg\" alt=\"Invesco\" width=\"400\" height=\"70\" />\r\n<p style=\"text-align: justify;\">Independent investment company Invesco celebrates the energy and advancements building in ESG. The firm views the stewardship of clients’ assets as sacrosanct — and uses ESG as a focus to amplify returns while creating positive impacts for people and planet. Responsible investing is embedded throughout Invesco’s global network, from its headquarters in Atlanta to 50 locations across North America, Europe, Asia Pacific, the Middle East and Africa. Invesco ensures that its practice-what-you-preach ethos can be verified through transparent and documented resources. ESG performance is reported across asset classes to help clients align investment with a desire for positive change in the world. The metrics enable them to recognise the best opportunities, using ESG performance as a reliable indicator of growth and adaptive evolution. Stakeholders in the Invesco community understand the logic and longevity of sustainability, and investors increasingly look to future-proof their portfolios with proven ESG strategies. Invesco’s 8,000-strong global workforce in 25 countries manages client assets worth $1.2tn. The firm engages with investees through an active ownership approach that promotes open dialogue and continuous improvement. Invesco is an active member in a variety of global trade associations. For the fourth consecutive year, Invesco was awarded an A-plus rating in strategy and governance by the UN-sponsored Principles for Responsible Investment. The CFI.co judging panel presents Invesco with the 2020 award for Best ESG Responsible Investment Expert (United States).</p>",
     "content_sha256": "5f8070d216df2203c42f4a5d74828eaa73c6418a4bc48c14db7e5c84d69086e5",
-    "record_sha256": "abaff758326296fdb8fc9d1f2b93b11b334b25b4f3af76239d288a8760a4a817"
+    "record_sha256": "bcf5b78378547f0737bf1bc3167092d7639b32a7b1fff6a65a8f2d5d65f3b9d7"
 }

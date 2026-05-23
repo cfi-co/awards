@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203224732
+wayback_snapshot_url: "http://web.archive.org/web/20201203224732/https://cfi.co/awards/north-america/2020/invesco-best-esg-responsible-investment-expert-united-states-2020/"
 content_sha256: 5f8070d216df2203c42f4a5d74828eaa73c6418a4bc48c14db7e5c84d69086e5
 canonical: 8311-invesco-best-esg-responsible-investment-expert-united-states-2020.json
 ---
