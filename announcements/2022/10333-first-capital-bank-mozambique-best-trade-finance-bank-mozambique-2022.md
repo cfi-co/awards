@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630133818
+wayback_snapshot_url: "http://web.archive.org/web/20220630133818/https://cfi.co/awards/africa/2022/first-capital-bank-mozambique-best-trade-finance-bank-mozambique-2022/"
 content_sha256: 80981713a92fb00023e08e3159b77e5e3db13016e49eeae5906d8f5e3ca5f052
 canonical: 10333-first-capital-bank-mozambique-best-trade-finance-bank-mozambique-2022.json
 ---
