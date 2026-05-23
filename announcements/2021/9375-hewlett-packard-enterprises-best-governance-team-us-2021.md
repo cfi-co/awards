@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210725065506
+wayback_snapshot_url: "http://web.archive.org/web/20210725065506/https://cfi.co/awards/north-america/2021/hewlett-packard-enterprises-best-governance-team-us-2021/"
 content_sha256: 511b4ff87c9f4358760787c4d06dbd9f658f68147ee44607623310e38bbc8811
 canonical: 9375-hewlett-packard-enterprises-best-governance-team-us-2021.json
 ---
