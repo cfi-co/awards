@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ba6f1100a996aff3c3dccdfd3579dfcc7e0a9854a79695d36a13a584270d8503
 canonical: 8732-sustainability-accounting-standards-board-outstanding-contribution-to-esg-respon.json
 ---
