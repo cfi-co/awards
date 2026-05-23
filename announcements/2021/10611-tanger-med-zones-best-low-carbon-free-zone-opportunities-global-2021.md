@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7780c345bab6c795d8f9d8f0ea0aec8e7a98350e7512ef93115b809872a3f6a9
 canonical: 10611-tanger-med-zones-best-low-carbon-free-zone-opportunities-global-2021.json
 ---
