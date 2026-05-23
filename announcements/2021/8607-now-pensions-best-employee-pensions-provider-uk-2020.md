@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921120434
+wayback_snapshot_url: "http://web.archive.org/web/20210921120434/https://cfi.co/awards/europe/2021/now-pensions-best-employee-pensions-provider-uk-2020/"
 content_sha256: b87e241c21d040b7083e02896599951744a309ebf4d5e779029a8266112a591a
 canonical: 8607-now-pensions-best-employee-pensions-provider-uk-2020.json
 ---
