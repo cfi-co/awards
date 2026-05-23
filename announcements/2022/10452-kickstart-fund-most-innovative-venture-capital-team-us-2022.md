@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220811140155
+wayback_snapshot_url: "http://web.archive.org/web/20220811140155/https://cfi.co/awards/finance/2022/kickstart-fund-most-innovative-venture-capital-team-us-2022/"
 content_sha256: 7271e6810d9bcd5d2392762cb8bad6116b7ec18ff393c8480bd854ecb219717f
 canonical: 10452-kickstart-fund-most-innovative-venture-capital-team-us-2022.json
 ---
