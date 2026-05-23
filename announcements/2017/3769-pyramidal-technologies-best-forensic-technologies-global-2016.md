@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200713212516
+wayback_snapshot_url: "http://web.archive.org/web/20200713212516/https://cfi.co/awards/europe/2017/pyramidal-technologies-best-forensic-technologies-global-2016/"
 content_sha256: 5758be44b9c6b79f7266ec7890a68a5471e5fd9cdf3071bf6004e8ea4d06b3f2
 canonical: 3769-pyramidal-technologies-best-forensic-technologies-global-2016.json
 ---
