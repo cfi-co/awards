@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200810090027",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200810090027/https://cfi.co/awards/africa/2015/crc-credit-bureau-receives-award-as-best-loan-application-services-provider-nigeria-2014/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1486\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/crc.jpg\" alt=\"crc\" width=\"512\" height=\"101\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The availability of reliable credit information is the cornerstone of business. Without it, no company – large or small – can expect to avoid risk or, indeed, expand its customer base. CRC Credit Bureau specialises in facilitating lending to consumers and small and medium-sized enterprises. In Nigeria, and elsewhere, SMEs are the drivers of progress. Any business empowering SMEs deserves accolades.</strong></p>\r\n<p style=\"text-align: justify;\">In Nigeria, CRC Credit Bureau provides outstanding services as a credit bureau. The company was set up by eleven leading domestic financial institutions and Dun &amp; Bradstreet – one of the world’s oldest and most respected credit information providers. Its enviable heritage and impeccable credentials have allowed CRC Credit Bureau to claim the top spot in its sector.</p>\r\n<p style=\"text-align: justify;\">Focused on providing credit information to the financial services companies and other lenders, CRC Credit Bureau is a key partner to banks and consumer credit companies as well. The company has developed processes that produce quick decisions in order to keep in tune with Nigeria’s business dynamics, and indeed help set the pace. The CFI.co judges applaud CRC Credit Bureau for its peerless standard of service and feel confident in granting the Best Loan Application Services Provider Nigeria Award 2014 to the company.</p>",
     "content_sha256": "46c527f2b1be6183e64029d8d952886ea73b81b0e4ee8b1ec6bfbe3cf3156bed",
-    "record_sha256": "19979de03c9438a7e21e51cda9f6386db158770d4c47ddcee2ea047664b7298d"
+    "record_sha256": "015e70c362a0dc824421c70e581fc934cd6156c944256cc6d7d310b7323624fa"
 }
