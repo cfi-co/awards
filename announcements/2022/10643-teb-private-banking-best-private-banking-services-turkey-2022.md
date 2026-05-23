@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928195517
+wayback_snapshot_url: "http://web.archive.org/web/20220928195517/https://cfi.co/awards/banking/2022/teb-private-banking-best-private-banking-services-turkey-2022/"
 content_sha256: 427ea2e66edf5c700537d9feb264aa88d4607f72bbf1d066a5533d2b777c6ce0
 canonical: 10643-teb-private-banking-best-private-banking-services-turkey-2022.json
 ---
