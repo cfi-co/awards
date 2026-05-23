@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924121612
+wayback_snapshot_url: "http://web.archive.org/web/20210924121612/https://cfi.co/awards/europe/2018/vallstein-best-bank-relationship-management-solutions-global-2018/"
 content_sha256: cb8e23e58c592bf8b8b2d29072f296933ebfeee72790fbcbe7cdab9015f980d4
 canonical: 5512-vallstein-best-bank-relationship-management-solutions-global-2018.json
 ---
