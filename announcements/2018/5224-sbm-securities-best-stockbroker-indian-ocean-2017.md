@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211015230146
+wayback_snapshot_url: "http://web.archive.org/web/20211015230146/https://cfi.co/awards/asia-pacific/2018/sbm-securities-best-stockbroker-indian-ocean-2017/"
 content_sha256: 0fa26f279e0c913402517e93e71c23ac951379307a5220748ee6f19a59cc8198
 canonical: 5224-sbm-securities-best-stockbroker-indian-ocean-2017.json
 ---
