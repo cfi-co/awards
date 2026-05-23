@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210610140148
+wayback_snapshot_url: "http://web.archive.org/web/20210610140148/https://cfi.co/awards/asia-pacific/2013/a-good-year-for-citygate-securities-institutional-brokerage-award-mauritius/"
 content_sha256: 490547e05d20842b6a50848e3613f6837906ede820cc0edd2e8231aecd2417f6
 canonical: 779-a-good-year-for-citygate-securities-institutional-brokerage-award-mauritius.json
 ---
