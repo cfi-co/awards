@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005813
+wayback_snapshot_url: "http://web.archive.org/web/20190723005813/https://cfi.co/awards/north-america/2018/carnival-corporation-best-cruise-experience-global-2017/"
 content_sha256: a2f9a2e15f56064bae1f477724161c4a7b7a078270e80b756a377cfb4ffa0807
 canonical: 4826-carnival-corporation-best-cruise-experience-global-2017.json
 ---
