@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235100
+wayback_snapshot_url: "http://web.archive.org/web/20201203235100/https://cfi.co/awards/north-america/2020/umpqua-bank-best-community-bank-usa-2020/"
 content_sha256: 8b2f7a7749cc3b255c042c790530d07b8d18d7002965492c940ca4c9e5c48b69
 canonical: 8466-umpqua-bank-best-community-bank-usa-2020.json
 ---
