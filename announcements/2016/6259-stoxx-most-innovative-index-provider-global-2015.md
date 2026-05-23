@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921104240
+wayback_snapshot_url: "http://web.archive.org/web/20210921104240/https://cfi.co/awards/europe/2016/stoxx-most-innovative-index-provider-global-2015/"
 content_sha256: 2c71d9c91ab747b1d21b9ec36e667560c2cafc96405cfaceab96e732a3cf2e37
 canonical: 6259-stoxx-most-innovative-index-provider-global-2015.json
 ---
