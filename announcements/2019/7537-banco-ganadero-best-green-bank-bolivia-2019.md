@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921105924
+wayback_snapshot_url: "http://web.archive.org/web/20210921105924/https://cfi.co/awards/latin-america/2019/banco-ganadero-best-green-bank-bolivia-2019/"
 content_sha256: 5cea37c279dc18d3e1ac0b048732c4fadcc70a6c57d95f5f6718b855d5cb330d
 canonical: 7537-banco-ganadero-best-green-bank-bolivia-2019.json
 ---
