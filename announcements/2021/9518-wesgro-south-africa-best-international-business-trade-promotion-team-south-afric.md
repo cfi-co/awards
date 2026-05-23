@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210812122728
+wayback_snapshot_url: "http://web.archive.org/web/20210812122728/https://cfi.co/awards/africa/2021/wesgro-south-africa-best-international-business-trade-promotion-team-south-africa-2021/"
 content_sha256: 3556e124305cd115e21f6e57f4faa8b6bec2ed51001c15e208803520e0c4a033
 canonical: 9518-wesgro-south-africa-best-international-business-trade-promotion-team-south-afric.json
 ---
