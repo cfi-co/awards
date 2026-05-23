@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 571ed94fbe253501c38f2a3deeb4a0f5339c8bc1e37c3308473f3ecd7eae6e13
 canonical: 6531-professional-traders-group-best-capital-market-trading-services-gcc-2015.json
 ---
