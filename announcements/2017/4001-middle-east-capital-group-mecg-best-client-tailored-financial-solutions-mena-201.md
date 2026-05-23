@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 96fa3588c90f5636c876a169e432244573563ac3f9b9326f977b5af2b9533741
 canonical: 4001-middle-east-capital-group-mecg-best-client-tailored-financial-solutions-mena-201.json
 ---
