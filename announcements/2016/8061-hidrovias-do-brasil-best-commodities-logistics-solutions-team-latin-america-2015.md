@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623201126
+wayback_snapshot_url: "http://web.archive.org/web/20240623201126/https://cfi.co/awards/latin-america/2016/hidrovias-do-brasil-best-commodities-logistics-solutions-team-latin-america-2015/"
 content_sha256: c8524e7c34fec2d43f3ba68639df29d840485fbe3a8c2147c4ba943207597cb8
 canonical: 8061-hidrovias-do-brasil-best-commodities-logistics-solutions-team-latin-america-2015.json
 ---
