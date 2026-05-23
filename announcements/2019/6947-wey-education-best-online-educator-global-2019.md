@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191119063024
+wayback_snapshot_url: "http://web.archive.org/web/20191119063024/https://cfi.co/awards/europe/2019/wey-education-best-online-educator-global-2019/"
 content_sha256: ee735bc7984f7e3007c7c0171b5ddc8a7d2cfc916677bcf8c9a72aa2ec25b001
 canonical: 6947-wey-education-best-online-educator-global-2019.json
 ---
