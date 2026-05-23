@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724013753
+wayback_snapshot_url: "http://web.archive.org/web/20210724013753/https://cfi.co/awards/latin-america/2018/banco-finca-best-social-impact-bank-ecuador-2017/"
 content_sha256: b9ceb6e69cfb298bf35ef2ba55d64efdb6e604e3984cde6dac08684a07d80f3c
 canonical: 5195-banco-finca-best-social-impact-bank-ecuador-2017.json
 ---
