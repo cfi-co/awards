@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207205953
+wayback_snapshot_url: "http://web.archive.org/web/20211207205953/https://cfi.co/awards/north-america/2021/banco-santander-mexico-most-innovative-banking-services-mexico-2021/"
 content_sha256: 70bb64d33e18a9bc48ff01a5951e92e8394ce611850146cc6c94de8b2468637c
 canonical: 9788-banco-santander-mexico-most-innovative-banking-services-mexico-2021.json
 ---
