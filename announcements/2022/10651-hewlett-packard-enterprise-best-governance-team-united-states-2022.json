@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220928201656",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220928201656/https://cfi.co/awards/best-practice/corporate-governance/2022/hewlett-packard-enterprise-best-governance-team-united-states-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9376\" src=\"https://cfi.co/awards/wp-content/uploads/2021/07/HP.jpg\" alt=\"Hewlett Packard Enterprise\" width=\"400\" height=\"167\" />\r\n<p style=\"text-align: justify;\">Hewlett Packard Enterprise (HPE) was among the first global IT companies to sever ties with Russia following its invasion of Ukraine - no surprise for a company built on solid ethical principles. HPE, one of the world’s largest IT companies, insists that employees, partners and suppliers engage in ethical practices, and it responds quickly to violations. HPE will not tolerate corruption, and carries out regular “ethics roadshows” to business leaders worldwide and uses Transparency International’s Corruption Perceptions Index to identify countries at risk of corrupt activity. HPE, formed in 2015 as a result of the splitting of the Hewlett-Packard group, constantly monitors its performance against ESG goals. The Texas-based company is driving digital transformation towards a carbon neutral future for itself and its customers, helping protect human rights, and supporting communities through global catastrophes like the Covid-19 pandemic. HPE helps businesses to achieve environmental goals through the use of more efficient hardware. It also offers to collect “retired” technology, to be repurposed by HPE Technology Renewal Centres. In terms of its human rights goals, the company is top of the KnowTheChain’s (KTC) Information and Communication Technology benchmark. KTC, an international organisation dedicated to the eradication of forced labour, helps businesses adapt their global supply chains. HPE is also at the forefront of change in terms of diversity and inclusion, setting goals which have made it a world leader. For the second year running, the judging panel is pleased to present HPE with the 2022 award, Best Governance Team United States.</p>",
     "content_sha256": "3baf5d9b259987f8b73e435fa9f14044e7e939ad9434a236049bd299cd37fa4e",
-    "record_sha256": "052234fcdc6a957ef55951c26f3fc6b81d2dd3ffa889579ae93dcd1cd44ed412"
+    "record_sha256": "a244104bd28d91ba7a79709a3ee04a9ae233e3d6567f6461145dc286d3e5b631"
 }

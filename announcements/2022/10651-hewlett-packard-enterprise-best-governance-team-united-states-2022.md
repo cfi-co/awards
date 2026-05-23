@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928201656
+wayback_snapshot_url: "http://web.archive.org/web/20220928201656/https://cfi.co/awards/best-practice/corporate-governance/2022/hewlett-packard-enterprise-best-governance-team-united-states-2022/"
 content_sha256: 3baf5d9b259987f8b73e435fa9f14044e7e939ad9434a236049bd299cd37fa4e
 canonical: 10651-hewlett-packard-enterprise-best-governance-team-united-states-2022.json
 ---
