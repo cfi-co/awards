@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330005538
+wayback_snapshot_url: "http://web.archive.org/web/20230330005538/https://cfi.co/awards/europe/2023/first-marine-insurance-best-marine-insurance-broker-greece-italy-2022/"
 content_sha256: 507ba3a55ee61030ab70c4168a1eb7006eaa096563bfe6a37f8047369a411bff
 canonical: 11145-first-marine-insurance-best-marine-insurance-broker-greece-italy-2022.json
 ---
