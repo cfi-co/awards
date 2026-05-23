@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: dc313c325c1510979d5c661fafecfc142f358944af2817ce9dd6c9b2cda9cb6c
 canonical: 4873-maritime-bank-outstanding-contribution-to-smes-and-innovation-vietnam-2017.json
 ---
