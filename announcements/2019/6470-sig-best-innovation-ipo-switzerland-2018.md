@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 27c3e573aec8d5cfaaeed7015db24b47af5e9b798a644433f1417e306a559112
 canonical: 6470-sig-best-innovation-ipo-switzerland-2018.json
 ---
