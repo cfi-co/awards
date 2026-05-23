@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220811145422
+wayback_snapshot_url: "http://web.archive.org/web/20220811145422/https://cfi.co/awards/development/2022/imci-group-international-best-alternative-project-finance-solutions-global-2022/"
 content_sha256: 1b8539db865c1cf570917db4c2df14cf91fae60cc399af630724176938d078a8
 canonical: 10313-imci-group-international-best-alternative-project-finance-solutions-global-2022.json
 ---
