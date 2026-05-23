@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810081116
+wayback_snapshot_url: "http://web.archive.org/web/20200810081116/https://cfi.co/awards/north-america/2020/dorchester-wealth-management-best-investment-management-team-canada-2020/"
 content_sha256: 626db8927edf3d9d976927f89782d50e6f26ab510e02386afcee5508090190e2
 canonical: 7495-dorchester-wealth-management-best-investment-management-team-canada-2020.json
 ---
