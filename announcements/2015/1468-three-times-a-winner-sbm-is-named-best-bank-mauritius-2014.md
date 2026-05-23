@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813165446
+wayback_snapshot_url: "http://web.archive.org/web/20200813165446/https://cfi.co/awards/africa/2015/three-times-a-winner-sbm-is-named-best-bank-mauritius-2014/"
 content_sha256: f1482891a70d25447c76e0c124208df6dd00ebf4542185dceb99e6c4a6df5cee
 canonical: 1468-three-times-a-winner-sbm-is-named-best-bank-mauritius-2014.json
 ---
