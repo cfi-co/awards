@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250113192459
+wayback_snapshot_url: "http://web.archive.org/web/20250113192459/https://cfi.co/awards/north-america/2024/gracekennedy-financial-group-excellence-in-digital-financial-innovation-jamaica-2024/"
 content_sha256: 3a8d65fca7f927d43123557b8198497f4811db73d284c03523a8823fcbf39a2e
 canonical: 12501-gracekennedy-financial-group-excellence-in-digital-financial-innovation-jamaica-.json
 ---
