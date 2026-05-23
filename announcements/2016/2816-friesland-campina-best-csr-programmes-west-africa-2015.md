@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210509113923
+wayback_snapshot_url: "http://web.archive.org/web/20210509113923/https://cfi.co/awards/africa/2016/friesland-campina-best-csr-programmes-west-africa-2015/"
 content_sha256: 6ce3150594af535b5ad0331551829f655f1c01189f3a2a8ae3f68ee3d4d9c4cf
 canonical: 2816-friesland-campina-best-csr-programmes-west-africa-2015.json
 ---
