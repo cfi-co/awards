@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251108153204
+wayback_snapshot_url: "http://web.archive.org/web/20251108153204/https://cfi.co/awards/banking/2025/banca-dalba-excellence-in-financial-inclusivity-and-impact-italy-2025/"
 content_sha256: de00cf560445bc3216dbc64e6050b83aeb5aa98cc54cf7c83f49b6863fcb6ec2
 canonical: 13122-banca-dalba-excellence-in-financial-inclusivity-and-impact-italy-2025.json
 ---
