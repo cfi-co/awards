@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923171727
+wayback_snapshot_url: "http://web.archive.org/web/20230923171727/https://cfi.co/awards/middle-east/2022/hamraa-insurance-best-insurance-company-iraq-2021/"
 content_sha256: 48a1eae0f2eb0ae653474d3f173406ad5218e90492dd66e4a71341ac8b5e3fba
 canonical: 10088-hamraa-insurance-best-insurance-company-iraq-2021.json
 ---
