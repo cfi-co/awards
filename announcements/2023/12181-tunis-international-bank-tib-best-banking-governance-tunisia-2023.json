@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20240229190316",
+        "wayback_snapshot_url": "http://web.archive.org/web/20240229190316/https://cfi.co/awards/africa/2023/tunis-international-bank-tib-best-banking-governance-tunisia-2023/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-12179 size-full\" title=\"Tunis International Bank\" src=\"https://cfi.co/awards/wp-content/uploads/2023/12/TunisInternationalBank-jpg.webp\" alt=\"Tunis International Bank\" width=\"500\" height=\"99\" />\r\n<p style=\"text-align: justify;\"><strong>Tunis International Bank is a private commercial bank established in 1982 as the first banking corporation in <a href=\"https://cfi.co/countries/tunisia/\">Tunisia</a> licenced to deal primarily with non-residents. TIB main shareholder is <a href=\"https://cfi.co/awards/middle-east/2013/burgan-bank-wins-cfi-award-for-private-banking/\">Burgan Bank Kuwait</a> a subsidiary of the <a href=\"https://kipco.com/\" target=\"_blank\" rel=\"noopener\">Kuwait Projects Company</a> (Holding); one of the largest holding companies in the MENA region.</strong></p>\r\n<p style=\"text-align: justify;\">A repeat winner with CFI.co, TIB has been well recognised by other esteemed organizations too.</p>\r\n<p style=\"text-align: justify;\">Tunis International Bank has a strong reputation as a local provider of products and services for corporates, financial institutions, governments and individuals both in Tunisia and abroad.</p>\r\n<p style=\"text-align: justify;\">Tunis International Bank is committed to the highest standards of corporate governance and recognizes that good governance is pivotal in helping the business to deliver its strategies whilst meeting its obligations towards shareholders and other stakeholders. The adopted corporate governance ensures the responsible, value-driven management and control of the bank. The panel notes that TIB tends to go well beyond basic governance requirements. According to the judges, “TIB recognises that good governance is critical to its business success and fulfilment of obligations to stakeholders.” TIB appreciates that best practice and transparent management are fundamental requirements of the Bank. CFI is pleased to announce Tunis International Bank the 2023 winner of our award Best Banking Governance (Tunisia).</p>\r\n&nbsp;",
     "content_sha256": "09ae7feb9c9e97d88037e4df14c67ff7ead9866c1d0885c41ab91d34ec15cfa5",
-    "record_sha256": "b5315ceae05e7fa33f9e98950de94704bd28e5d612dd461b7b0d192d8a1709e1"
+    "record_sha256": "e4023783b0ee947fa9f25fcb6c9cc9864461c66fa26afe88e3bbe2d99e1e52d3"
 }

@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240229190316
+wayback_snapshot_url: "http://web.archive.org/web/20240229190316/https://cfi.co/awards/africa/2023/tunis-international-bank-tib-best-banking-governance-tunisia-2023/"
 content_sha256: 09ae7feb9c9e97d88037e4df14c67ff7ead9866c1d0885c41ab91d34ec15cfa5
 canonical: 12181-tunis-international-bank-tib-best-banking-governance-tunisia-2023.json
 ---
