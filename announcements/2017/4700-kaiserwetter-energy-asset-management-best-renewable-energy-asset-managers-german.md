@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924111422
+wayback_snapshot_url: "http://web.archive.org/web/20210924111422/https://cfi.co/awards/europe/2017/kaiserwetter-energy-asset-management-best-renewable-energy-asset-managers-germany-2017/"
 content_sha256: 4c6bf2b30da078f0d03f72fd6124e6607bc600b71adabc60b7ec9d5b5857cf3d
 canonical: 4700-kaiserwetter-energy-asset-management-best-renewable-energy-asset-managers-german.json
 ---
