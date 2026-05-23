@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f16250f3f9f1900ef4feb87cd81bf775b4030c5bd4a63889610f937e04f464de
 canonical: 3884-kps-consulting-best-rapid-innovation-transformation-management-germany-2016.json
 ---
