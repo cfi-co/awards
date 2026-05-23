@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928185851
+wayback_snapshot_url: "http://web.archive.org/web/20220928185851/https://cfi.co/awards/best-practice/2017/international-watch-company-iwc-best-csr-switzerland-2015/"
 content_sha256: 8b5b887abcd1b09e0f818050d956eb98429871a63b83794556b02f6d90acf25f
 canonical: 3026-international-watch-company-iwc-best-csr-switzerland-2015.json
 ---
