@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211016000559",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211016000559/https://cfi.co/awards/middle-east/2014/rak-insurance-is-top-of-the-tent-cfi-co-award-winner-2014/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1178\" src=\"https://cfi.co/awards/wp-content/uploads/2014/02/RAK.jpg\" alt=\"RAK\" width=\"500\" height=\"116\" /></p>\r\n<p style=\"text-align: justify;\"><strong>RAK Insurance has won the award for ‘Best Corporate Governance, GCC,’ in the CFI.co Insurance Awards for the year2014. RAK is the popular shortened name of one of the United Arab Emirates namely, Ras al-Khaimah (literal meaning of the Arabic: ‘Top of the Tent’). According to the CFI.co Judging Panel, the concern for good governance at RAK Insurance places this company securely at the top of the tent.</strong></p>\r\n<p style=\"text-align: justify;\">The judging panel is aware that RAK Insurance is operating beyond the letter and spirit of the regulatory system and is at the forefront of industry best practice. As management says, ‘The question that is always in mind here is this: What else can we do?’</p>\r\n<p style=\"text-align: justify;\">Our award winner is healthily obsessed with good corporate governance and the management style at RAK Insurance is that of a sincere concern for all stakeholders. RAK Insurance is a transparent organisation that is passionately concerned about business ethics and it shows.</p>",
     "content_sha256": "18df0af8eee016fca8d71032c327f60e8171aab0385795273e990d02be745b41",
-    "record_sha256": "c0d02a58c772006cb094db42719dde71d163cf210b5ad06d2617f60d254726df"
+    "record_sha256": "d9b26fd43b4ecb7da2022859a529502e321bd1554437a627b0b4845822264d88"
 }

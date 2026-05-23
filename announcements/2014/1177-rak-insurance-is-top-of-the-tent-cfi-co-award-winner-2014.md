@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016000559
+wayback_snapshot_url: "http://web.archive.org/web/20211016000559/https://cfi.co/awards/middle-east/2014/rak-insurance-is-top-of-the-tent-cfi-co-award-winner-2014/"
 content_sha256: 18df0af8eee016fca8d71032c327f60e8171aab0385795273e990d02be745b41
 canonical: 1177-rak-insurance-is-top-of-the-tent-cfi-co-award-winner-2014.json
 ---
