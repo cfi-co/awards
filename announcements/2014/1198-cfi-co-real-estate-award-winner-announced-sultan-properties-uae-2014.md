@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016000723
+wayback_snapshot_url: "http://web.archive.org/web/20211016000723/https://cfi.co/awards/middle-east/2014/cfi-co-real-estate-award-winner-announced-sultan-properties-uae-2014/"
 content_sha256: 2caeea2a7d38abcf1cc7031b17902b02fb68957b9f7065f9abba9556a59f549c
 canonical: 1198-cfi-co-real-estate-award-winner-announced-sultan-properties-uae-2014.json
 ---
