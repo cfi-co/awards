@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921121237
+wayback_snapshot_url: "http://web.archive.org/web/20210921121237/https://cfi.co/awards/latin-america/2019/petro-rio-best-energy-acquisitions-team-latin-america-caribbean-2019/"
 content_sha256: 72d4e02270a7031f42edbd37c23f9a2a6fd367dc49ad0645260b8ac6ed7a8c01
 canonical: 7499-petro-rio-best-energy-acquisitions-team-latin-america-caribbean-2019.json
 ---
