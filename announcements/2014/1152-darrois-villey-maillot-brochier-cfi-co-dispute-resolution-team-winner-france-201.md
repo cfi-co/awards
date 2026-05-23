@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924115201
+wayback_snapshot_url: "http://web.archive.org/web/20210924115201/https://cfi.co/awards/europe/2014/darrois-villey-maillot-brochier-cfi-co-dispute-resolution-team-winner-france-2014/"
 content_sha256: 6ebb32373d5ea357b9a1d1ce7256ea198b31c2759162fda7859b32dcc21b916e
 canonical: 1152-darrois-villey-maillot-brochier-cfi-co-dispute-resolution-team-winner-france-201.json
 ---

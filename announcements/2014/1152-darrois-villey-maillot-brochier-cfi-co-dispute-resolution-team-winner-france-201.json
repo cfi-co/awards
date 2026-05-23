@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210924115201",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210924115201/https://cfi.co/awards/europe/2014/darrois-villey-maillot-brochier-cfi-co-dispute-resolution-team-winner-france-2014/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1153\" src=\"https://cfi.co/awards/wp-content/uploads/2014/02/dvmb.gif\" alt=\"dvmb\" width=\"197\" height=\"61\" /></p>\r\n<p style=\"text-align: justify;\"><strong>This firm has won a deservedly strong reputation for its arbitration and litigation services since its establishment in Paris in 1987.</strong></p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel congratulates DVMB on its outstanding team of legal professionals and the services they offer saying that, ‘The respect accorded to the leading names at the firm is easy to understand. We have no hesitation in naming Darrios Villey Maillot Brochier as ‘Best Dispute Resolution Team, France’ in our 2014 Legal Awards Programme.’</p>",
     "content_sha256": "6ebb32373d5ea357b9a1d1ce7256ea198b31c2759162fda7859b32dcc21b916e",
-    "record_sha256": "4bba06947eba237127ff6b741b86ce942b4e3390d51b59190e64e5214f4499a5"
+    "record_sha256": "67f30bb1fcb0def015e448befe780e2b96ade35e130cc27a25a0018c1ba34cff"
 }
