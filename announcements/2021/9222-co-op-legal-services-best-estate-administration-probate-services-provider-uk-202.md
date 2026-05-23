@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7d5c73ab006d5706028996fed2f90589db1b14fd079b12ff49da02f92ef37209
 canonical: 9222-co-op-legal-services-best-estate-administration-probate-services-provider-uk-202.json
 ---
