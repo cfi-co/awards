@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220721080226
+wayback_snapshot_url: "http://web.archive.org/web/20220721080226/https://cfi.co/awards/europe/2022/accentro-real-estate-ag-best-residential-real-estate-strategy-germany-2022/"
 content_sha256: 32c2b7f991ec9d5e3e6f434a1b9d97dd3ccda858faa18d1c4cb1fc31a9756f2f
 canonical: 10600-accentro-real-estate-ag-best-residential-real-estate-strategy-germany-2022.json
 ---
