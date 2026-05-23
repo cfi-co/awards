@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 09ee421ccc6e8c61aa68b7c43c81a4c11aca56343daf5dccc0ad942b065e6731
 canonical: 7795-toledo-capital-ag-best-wealth-management-services-switzerland-2020.json
 ---
