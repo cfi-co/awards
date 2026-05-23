@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220630134921",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220630134921/https://cfi.co/awards/industries/technology/2022/international-biotechnology-trust-best-biotechnology-investment-strategy-uk-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10556\" src=\"https://cfi.co/awards/wp-content/uploads/2022/06/InternationalBiotechnologyTrust.jpg\" alt=\"International Biotechnology Trust\" width=\"400\" height=\"154\" />\r\n\r\nInternational Biotechnology Trust (IBT) backs companies striving to solve modern health challenges. Drug development is cash intensive, and companies have a limited window to recoup costs and redirect revenue into R&amp;D during the patent period. Afterwards, society benefits from generic versions of the drug — available for pennies in the pound in perpetuity. IBT is proud to be part of this crucial social contract. It has identified seven SDGs where its operations have the most impact and is committed to adhering to the Principles for Responsible Investment and the UN Global Compact. A comprehensive sustainability and ESG policy addresses IBT’s role as an investor, company and supply chain influencer. It has developed a proprietary ESG screening process for potential investments and engages with any companies falling short of expectations. The IBT board underscores the company’s commitment to diversity, which starts at the executive suite and ripples throughout the ranks. IBT requires the suppliers within its network to keep current ESG credentials. The board has found a responsible and proactive ESG approach to positively impact the performance and success of the trust and its portfolio companies. As at 30 April 2022, 88% percent of IBT investee companies were headquartered in the US and Canada, ten percent in Europe and the remainder were scattered around the world. The IBT portfolio comprised 80 companies — 102 counting those held through Venture Funds — and had a net asset value of £264.9m. The CFI.co judging panel presents International Biotechnology Trust with the 2022 award for Best Biotechnology Investment Strategy (UK).",
     "content_sha256": "b3ab5db6aab04cfe8a0d977627b4363a4c8a24b74abfb7029590a5e13ceba55a",
-    "record_sha256": "1dfd55d536a5a10302e4dfc7039a221cbbd267f8dfa531cb2716102946567bda"
+    "record_sha256": "0e7a46d04cc0dfe4e7028afc73b91ae5311f97ef2dfcff3b252c94067f14b8ae"
 }
