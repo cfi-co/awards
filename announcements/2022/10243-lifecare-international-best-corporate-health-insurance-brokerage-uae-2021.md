@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220317184002
+wayback_snapshot_url: "http://web.archive.org/web/20220317184002/https://cfi.co/awards/middle-east/2022/lifecare-international-best-corporate-health-insurance-brokerage-uae-2021/"
 content_sha256: a641a683b4221c17594c9503bc946a36f73364a6b9c030e79c35492ebf9e7861
 canonical: 10243-lifecare-international-best-corporate-health-insurance-brokerage-uae-2021.json
 ---
