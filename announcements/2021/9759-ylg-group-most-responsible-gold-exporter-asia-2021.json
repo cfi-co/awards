@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211207214413",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211207214413/https://cfi.co/awards/asia-pacific/2021/ylg-group-most-responsible-gold-exporter-asia-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9760\" src=\"https://cfi.co/awards/wp-content/uploads/2021/11/YLG-group.jpg\" alt=\"YLG-group\" width=\"400\" height=\"333\" />\r\n<p style=\"text-align: justify;\">Gold has been a cornerstone of commerce from the earliest civilisations. Since the minting of the first rude coins, the precious element has been the basis of trade across the planet. But this most ancient of industries is undergoing rapid change. The YLG Group of Thailand, established in Bangkok as the Yoo Lim Gold Factory only 20 years ago, has understood that speed and adaptability are the keys to success. The company, today the leading importer and exporter of gold bullion in Thailand, prides itself on reacting quickly to the needs of clients. YLG is a member of LBMA, the London-based organisation responsible for ensuring integrity and transparency in the global precious metals industry. YLG has established a secure online trading platform for the trading of bullion, and provides gold futures brokerage services for Thailand’s Futures Exchange Market (TFEX). It also runs a 24-hour online platform for gold investment. YLG has developed a one-stop solution for gold trading and investment, employing a team of experts to offer advice to clients across all sections of its business. The company also employs goldsmiths, designing and manufacturing a range of high quality jewellery. Every piece of work meets internationally-recognised standards. YLG is expanding internationally, having established, at the invitation of the Singaporean government, operations to help Singapore become an international hub in the gold trade. In recognition of the company’s dedication to quality and service, the judging panel has no hesitation in presenting the YLG Group the 2021 award, Most Responsible Gold Exporter Asia.</p>",
     "content_sha256": "52fe65e78ec5bc1bd172260d77c2e9690a03e702d2308f467fdce02e2eef4f2c",
-    "record_sha256": "23a94e56c0fb29475e26b66feb9093debcee8f3f6c3cd32ce1ce9cb92fbaddc9"
+    "record_sha256": "d5eaff2a8aea4366c3ca5864ff00d9d0665ca46a88cf3023c5b5456c61f65c4c"
 }

@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207214413
+wayback_snapshot_url: "http://web.archive.org/web/20211207214413/https://cfi.co/awards/asia-pacific/2021/ylg-group-most-responsible-gold-exporter-asia-2021/"
 content_sha256: 52fe65e78ec5bc1bd172260d77c2e9690a03e702d2308f467fdce02e2eef4f2c
 canonical: 9759-ylg-group-most-responsible-gold-exporter-asia-2021.json
 ---
