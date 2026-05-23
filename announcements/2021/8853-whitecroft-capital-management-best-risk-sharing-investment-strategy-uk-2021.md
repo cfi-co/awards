@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228094858
+wayback_snapshot_url: "http://web.archive.org/web/20210228094858/https://cfi.co/awards/europe/2021/whitecroft-capital-management-best-risk-sharing-investment-strategy-uk-2021/"
 content_sha256: f906ed562b31eadc3675ed1d44bdf91f5f88240c3b2b020a1b3c0b76fd504f83
 canonical: 8853-whitecroft-capital-management-best-risk-sharing-investment-strategy-uk-2021.json
 ---
