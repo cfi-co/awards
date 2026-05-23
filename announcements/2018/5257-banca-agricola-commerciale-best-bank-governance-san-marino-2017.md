@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724001909
+wayback_snapshot_url: "http://web.archive.org/web/20210724001909/https://cfi.co/awards/europe/2018/banca-agricola-commerciale-best-bank-governance-san-marino-2017/"
 content_sha256: 56de3f4a9b9300be1d1ac8c06a3e3465fabc6ccab36c865ee8d6bd1242e9a15e
 canonical: 5257-banca-agricola-commerciale-best-bank-governance-san-marino-2017.json
 ---
