@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 09283f65af2ee8ee1f7690c39173648a6ca7821623f966b568ec23124559bcec
 canonical: 13394-national-investment-trust-visionary-in-adaptive-fund-structuring-and-growth-maur.json
 ---
