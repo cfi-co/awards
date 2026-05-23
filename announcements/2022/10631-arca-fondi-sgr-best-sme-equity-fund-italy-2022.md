@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b638319e0da5c029c7c7d8c58d900f52ef2a517b358289a85b6042f6413cfd3d
 canonical: 10631-arca-fondi-sgr-best-sme-equity-fund-italy-2022.json
 ---
