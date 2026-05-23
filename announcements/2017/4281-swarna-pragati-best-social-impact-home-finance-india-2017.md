@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924132123
+wayback_snapshot_url: "http://web.archive.org/web/20210924132123/https://cfi.co/awards/asia-pacific/2017/swarna-pragati-best-social-impact-home-finance-india-2017/"
 content_sha256: 83ddd821234aad97c7a6f0602dd1febc83f6d2591da6797a2daf0ff112da07d4
 canonical: 4281-swarna-pragati-best-social-impact-home-finance-india-2017.json
 ---
