@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921114441
+wayback_snapshot_url: "http://web.archive.org/web/20210921114441/https://cfi.co/awards/europe/2016/enso-hydro-energy-best-hydroelectric-power-plant-operator-europe-2015/"
 content_sha256: b7abc2e0517b64590610e66cc0229cfe47538af34402701f617cb1ad2b4ccfc6
 canonical: 8201-enso-hydro-energy-best-hydroelectric-power-plant-operator-europe-2015.json
 ---
