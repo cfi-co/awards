@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920105835
+wayback_snapshot_url: "http://web.archive.org/web/20210920105835/https://cfi.co/awards/latin-america/2019/produbanco-banco-de-la-produccion-sa-best-bank-governance-ecuador-2019/"
 content_sha256: 810a37599c90647baa63b2fcb1a7fb7a908f182d5724140d9ac80ce1b602c7fd
 canonical: 7287-produbanco-banco-de-la-produccion-sa-best-bank-governance-ecuador-2019.json
 ---
