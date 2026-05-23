@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 21308f65406b19c81582cc51ef30fa40124237d3362fc95f0dcc5914218dfca9
 canonical: 10170-business-region-goteborg-best-business-value-creation-destination-scandinavia-20.json
 ---
