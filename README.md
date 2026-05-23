@@ -67,10 +67,21 @@ from a real signal or is a stated constant — none are guessed.** Rules live in
 | `article_status` | `published` | Only published items are archived |
 | `archive_policy` | `no_delete` | History is append-only and immutable |
 | `provenance_layer` | `github_versioned` | This repository |
-| `wayback_status` | `pending_submission` | Independent Wayback corroboration is being added; **not yet claimed as verified** |
+| `wayback_status` (+ `wayback_first_snapshot`, `wayback_snapshot_url`) | `archived` · `submitted_pending` · `not_found` · `pending_check` | Independent third-party corroboration. `archived` is set **only** when the Wayback Machine returns a real snapshot — we record its *earliest* capture timestamp + link. URLs with no snapshot are submitted to web.archive.org/save (→ `submitted_pending`). Never claimed without a real snapshot. |
 
 The `classification` block lives **inside** the hashed JSON record and the git
 history, so the labels are as tamper-evident and auditable as the content.
+
+### Schema-migration note (2026-05-23)
+
+The three `wayback_*` evidence fields were added to every record on **2026-05-23**.
+Because the daily sync flows through the per-record change-detection path, this
+produced **~2,375 individual `Update award announcement #… — metadata only
+(content unchanged)` commits on that single date**. The underlying
+`content_sha256` of every announcement was unaffected — only the classification
+metadata changed, exactly as the commit messages state. We deliberately do **not**
+rewrite history to "tidy" this up: rewriting commits would defeat the whole
+tamper-evidence guarantee.
 
 ## Verify it yourself
 
