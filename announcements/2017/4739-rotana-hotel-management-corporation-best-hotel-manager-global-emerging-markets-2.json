@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200920120734",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200920120734/https://cfi.co/awards/middle-east/2017/rotana-hotel-management-corporation-best-hotel-manager-global-emerging-markets-2017/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4741\" src=\"https://cfi.co/awards/wp-content/uploads/2017/08/Rotana.jpg\" alt=\"\" width=\"262\" height=\"125\" />\r\n\r\n<strong>Excellence always shines through and ensures success – sometimes almost immediately. Such it is that Rotana Hotel Management Corporation, just now celebrating its first quarter century in business, managed to claim a top spot amongst the world’s premier hospitality and leisure brands. The company debuted with the Beach Rotana Abu Dhabi, opened in 1993, and is now well underway to attain its corporate goal of reaching the one hundred properties milestone by 2020.</strong>\r\n\r\nThough rooted in the Middle East and representative of the region’s hospitality heritage, Rotana is expanding its footprint to include premier hotels and resorts in Africa, South Asia, and Eastern Europe. With a highly experienced management team in place and a corporate philosophy that embraces excellence to the smallest of details, Rotana has consistently registered solid growth across its diverse property lines. Apart from Rotana Hotels &amp; Resorts, the company maintains a suite of top brands including Rayhaan, Arjaan, Centro, and The Residences catering to different segments of the travel market.\r\n\r\nThe Rayhaan Hotel &amp; Resorts provide oases of both elegance and luxury in an alcohol-free environment – veritable havens of tranquillity. In contrast, Centro Hotels aim to provide comfort and convenience to the always-on-the-go executive.\r\n\r\nOffering its guests a superior experience has allowed Rotana to expand rapidly without diluting the brand’s dedication to quality. The CFI.co judging panel is pleased to declare Rotana Hotel Management Corporation winner of the 2017 Best Hotel Manager Global Emerging Markets Award.",
     "content_sha256": "f32cd2b9f30afdce96f18e62157f698a596978eeb2eee911453d252412f5f408",
-    "record_sha256": "bf2ab35212ec7ac6d04ce544abe63590811909e19851987d3a7d52b52d4a68fb"
+    "record_sha256": "039fd1f353d5611fc37d1a0d3d442d931998f32c0b1c032492d5573bb533c295"
 }

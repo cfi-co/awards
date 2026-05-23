@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920120734
+wayback_snapshot_url: "http://web.archive.org/web/20200920120734/https://cfi.co/awards/middle-east/2017/rotana-hotel-management-corporation-best-hotel-manager-global-emerging-markets-2017/"
 content_sha256: f32cd2b9f30afdce96f18e62157f698a596978eeb2eee911453d252412f5f408
 canonical: 4739-rotana-hotel-management-corporation-best-hotel-manager-global-emerging-markets-2.json
 ---
