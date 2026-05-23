@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200906095436
+wayback_snapshot_url: "http://web.archive.org/web/20200906095436/https://cfi.co/awards/europe/2020/kathrein-privatbank-best-private-banking-solutions-austria-2019/"
 content_sha256: da78713d59bbac271115f92a5ef87b44f7859e07103ecbed61e45902fb58efd3
 canonical: 7166-kathrein-privatbank-best-private-banking-solutions-austria-2019.json
 ---
