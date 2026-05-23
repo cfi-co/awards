@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 99b74bc18ec6bfd4e5d99251248df6bddafb5490eec860c8b9450b16ef312cde
 canonical: 5125-sapphire-wind-power-best-esg-power-producer-pakistan-2017.json
 ---
