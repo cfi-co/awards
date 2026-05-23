@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 8201d4898213da8278a8fa49656bbb8e9d320a4f0a21b3030937680e9c8b4d5b
 canonical: 8394-enso-gmbh-best-hydro-power-investment-partner-europe-2020.json
 ---
