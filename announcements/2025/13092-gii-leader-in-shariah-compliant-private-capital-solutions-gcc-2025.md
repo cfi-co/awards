@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251006234507
+wayback_snapshot_url: "http://web.archive.org/web/20251006234507/https://cfi.co/awards/best-practice/2025/gii-leader-in-shariah-compliant-private-capital-solutions-gcc-2025/"
 content_sha256: f3fc56eb851ab60e0fef0bfb5a811f9038cbc5c53a3d9c3a09d78835ab1eda78
 canonical: 13092-gii-leader-in-shariah-compliant-private-capital-solutions-gcc-2025.json
 ---
