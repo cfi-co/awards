@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d99ec4dab8764726dc2a4e59c7e21eff0f293808d2693b2ac0c09c203d1fe8c4
 canonical: 12842-axa-im-select-axa-investment-managers-ltd-best-multi-manager-investment-solution.json
 ---
