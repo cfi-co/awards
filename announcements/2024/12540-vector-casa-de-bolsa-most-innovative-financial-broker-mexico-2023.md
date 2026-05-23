@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250113040212
+wayback_snapshot_url: "http://web.archive.org/web/20250113040212/https://cfi.co/awards/finance/exchanges-brokers/2024/vector-casa-de-bolsa-most-innovative-financial-broker-mexico-2023/"
 content_sha256: f6f51fe8e290bc9c19c9d0c739f952ab9bdfa8fa7a76369e1dd4763cda489ed9
 canonical: 12540-vector-casa-de-bolsa-most-innovative-financial-broker-mexico-2023.json
 ---
