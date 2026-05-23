@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ef5f7c9b5a27dec05d2d89c2a3b42aeb91eaf5777c4304d3f1b1f2721cdfafde
 canonical: 4422-bmw-best-auto-innovation-excellence-global-2016.json
 ---
