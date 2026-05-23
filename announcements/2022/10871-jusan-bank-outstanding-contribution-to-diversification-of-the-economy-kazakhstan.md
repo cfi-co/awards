@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207232821
+wayback_snapshot_url: "http://web.archive.org/web/20221207232821/https://cfi.co/awards/development/2022/jusan-bank-outstanding-contribution-to-diversification-of-the-economy-kazakhstan-2022/"
 content_sha256: 397179f91b4b5f6128f6bce5e08d12b45fd0ddbb9b66338f18c626957e1e8306
 canonical: 10871-jusan-bank-outstanding-contribution-to-diversification-of-the-economy-kazakhstan.json
 ---
