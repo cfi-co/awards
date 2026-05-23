@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180205140911
+wayback_snapshot_url: "http://web.archive.org/web/20180205140911/http://cfi.co/awards/europe/2018/eesti-energia-best-energy-saving-app-baltics-2017/"
 content_sha256: f332e6ae238c02caf8d8703a04ecc3e75317ecd9842b5103eaa41a2fe4c10a9f
 canonical: 5165-eesti-energia-best-energy-saving-app-baltics-2017.json
 ---
