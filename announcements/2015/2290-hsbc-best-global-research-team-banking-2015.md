@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810084128
+wayback_snapshot_url: "http://web.archive.org/web/20200810084128/https://cfi.co/awards/asia-pacific/2015/hsbc-best-global-research-team-banking-2015/"
 content_sha256: 882ebdfd53b036d03699bfa58b9fa2ee5fd35a5af9bb4b75594e421773a9179a
 canonical: 2290-hsbc-best-global-research-team-banking-2015.json
 ---
