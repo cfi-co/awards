@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209182600
+wayback_snapshot_url: "http://web.archive.org/web/20250209182600/https://cfi.co/awards/europe/2025/beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-germany-2024/"
 content_sha256: 4eed99eebe4610e1988777eef1b0585a1957b39351f2b418778450b7513dcbf2
 canonical: 12789-beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-.json
 ---
