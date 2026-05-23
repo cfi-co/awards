@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921115232
+wayback_snapshot_url: "http://web.archive.org/web/20210921115232/https://cfi.co/awards/middle-east/2013/emirates-award-leaders-in-the-uae/"
 content_sha256: a4034cf7b6a4c943d45574fa4d99ba11ec2d5aa116f59aa12e5ec51826d9ecf3
 canonical: 192-emirates-award-leaders-in-the-uae.json
 ---
