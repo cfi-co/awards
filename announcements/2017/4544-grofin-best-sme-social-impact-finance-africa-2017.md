@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 62f15b8616f5a725da31d876be6b0db0cc6f9cae6d138509e16d6ae5874ad6a4
 canonical: 4544-grofin-best-sme-social-impact-finance-africa-2017.json
 ---
