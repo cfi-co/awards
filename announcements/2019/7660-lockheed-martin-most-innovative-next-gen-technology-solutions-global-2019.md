@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210521070123
+wayback_snapshot_url: "http://web.archive.org/web/20210521070123/https://cfi.co/awards/north-america/2019/lockheed-martin-most-innovative-next-gen-technology-solutions-global-2019/"
 content_sha256: a935a574edaf85ff4f0151ffb92ba9c9634c04f06f60c01098a154ab9df110a1
 canonical: 7660-lockheed-martin-most-innovative-next-gen-technology-solutions-global-2019.json
 ---
