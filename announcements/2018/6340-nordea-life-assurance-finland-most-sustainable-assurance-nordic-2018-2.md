@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426101550
+wayback_snapshot_url: "http://web.archive.org/web/20190426101550/https://cfi.co/awards/europe/2018/nordea-life-assurance-finland-most-sustainable-assurance-nordic-2018/"
 content_sha256: b9a27908eb52d390f63359be1125f290b1f5ef211f20dd07e15e3fb435442ce3
 canonical: 6340-nordea-life-assurance-finland-most-sustainable-assurance-nordic-2018-2.json
 ---
