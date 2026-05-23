@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200810073850",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200810073850/https://cfi.co/awards/europe/2020/medgate-best-global-telemedicine-provider-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7897\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/medgate.jpg\" alt=\"medgate\" width=\"400\" height=\"81\" />\r\n<p style=\"text-align: justify;\">Healthcare evolves with every new tech breakthrough — and digitalisation has ushered in an age of patient-centred personalisation. Swiss company Medgate is an industry influencer in this space. Over the past 20 years, Medgate has been developing secure and convenient telemedicine solutions. It advocates telemedicine as the future of healthcare and strives to spark a shift in mindsets and attitudes. Medgate estimates global usage to be about five percent, but the telemedicine service is recognised by all health insurers across Switzerland. Telemedicine creates a value proposition resulting in reductions in insurance premiums and efficiencies in patient care. There are more than 100 doctors in the Medgate network available anytime and anywhere to set up a consultation. Based on their symptoms, patients are advised to schedule a phone or video consultation with a Medgate doctor — or to seek assistance from the Medgate Partner Network of primary care providers, specialists, clinics, pharmacies, chiropractors and therapists. Medgate doctors provide more than telecon triage; they can write prescriptions, issue sick notes and give referrals for specialists. Medgate owns the copyright of the robust tech framework that it has developed inhouse. The company is an engine of innovation, implementing technology to enhance customer service. Advances in AI will help patients consider health co-factors to give a more holistic view of wellness. Medgate has established a strong presence in its home market and expanded operations with five locations worldwide. The CFI.co judging panel is pleased to present Medgate with the 2020 award for Best Global Telemedicine Provider.</p>",
     "content_sha256": "99f2f1e9e7c60f458b633ce81f408ea0eb337e256e8f9cef90d7d7a5038e0bc1",
-    "record_sha256": "a069e6c30dd957d4e8d6acbd7913699849dc5024d13401fc61917bd6fd0a4271"
+    "record_sha256": "952175d7e0257007f1259696fb0d20e46d2789e5913161d2b3b8378482a3427f"
 }
