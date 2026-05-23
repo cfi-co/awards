@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20171019215852",
+        "wayback_snapshot_url": "http://web.archive.org/web/20171019215852/http://cfi.co/awards/asia-pacific/2017/fbs-best-fx-ib-programme-global-2017-best-fx-broker-indonesia-2017/"
     },
     "excerpt": "",
     "content_html": "<img class=\"size-full wp-image-2750 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2016/01/fbs.jpg\" alt=\"\" width=\"261\" height=\"261\" />\r\n<p style=\"text-align: justify;\"><strong>Excellence in order execution and customer service has allowed online forex broker FBS to firmly establish itself as the preferred go-to place for investors looking to trade global markets. The company was founded in 2009 with a view to offering superior services, delivered via a single state-of-the-art platform, to novice and experienced traders alike. FBS adheres to a strict code of ethics to ensure full transparency. The firm also developed a network of partners to offer its products and services to clients across the globe. The FBS partnership programme is recognised for its generous terms and superior support. </strong></p>\r\n<p style=\"text-align: justify;\">Built on the back of client loyalty, FBS registered solid growth in its first years, signing up 100,000 traders by 2011. The firm has since expanded its worldwide client base to include over three million traders and 130,000 partners in 120 countries. In order to maintain in close touch with clients and partners, FBS organises, and participates in, numerous seminars and other events to showcase new trading technologies and discuss industry trends.</p>\r\n<p style=\"text-align: justify;\">FBS offers clients a wide choice of account options, each tailored to meet the requirements of specific segments.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel has followed the progress of FBS for well over three years and commends the firm on its achievements. The judges are pleased to offer FBS a twin win: the 2017 Best FX IB Programme Global Award and the 2017 Best FX Broker Indonesia Award.</p>",
     "content_sha256": "78286eba01a2162fd50f5a38732e107c1fe85dc6e50a07fae2fd959e4a36a6fa",
-    "record_sha256": "b14d9f520758b26d256b8bc5cc227391cc38ad8268ab89f6545994c7196ba714"
+    "record_sha256": "aad7461e34049224704ece61ed9ccd62a39e674f1c43d7c2338accab86184669"
 }
