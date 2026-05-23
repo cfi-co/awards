@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230528031206
+wayback_snapshot_url: "http://web.archive.org/web/20230528031206/https://cfi.co/awards/asia-pacific/2012/china-construction-bank-are-deserving-winners-of-the-best-commercial-bank-china-award/"
 content_sha256: 6a386bbe6fa9fe2c7e0f508b564a7cac8c363615a514df21b89a20a0570e3d77
 canonical: 121-china-construction-bank-are-deserving-winners-of-the-best-commercial-bank-china-.json
 ---

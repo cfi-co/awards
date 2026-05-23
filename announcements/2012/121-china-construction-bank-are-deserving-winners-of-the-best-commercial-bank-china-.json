@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230528031206",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230528031206/https://cfi.co/awards/asia-pacific/2012/china-construction-bank-are-deserving-winners-of-the-best-commercial-bank-china-award/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1878\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/ccb.jpg\" alt=\"ccb\" width=\"506\" height=\"86\" /></p>\r\n<p style=\"text-align: justify;\"><strong>CCB delivers strong online, telephone and mobile banking. </strong></p>\r\n<p style=\"text-align: justify;\">Corporate governance at the organisation is good – with an understanding that this is the key to improved international competitiveness and more efficient modern banking. The judges consider the Bank’s corporate social responsibility as exemplary given its material support to a great number of good causes and its stated aim of helping whenever possible to improve lives.</p>",
     "content_sha256": "6a386bbe6fa9fe2c7e0f508b564a7cac8c363615a514df21b89a20a0570e3d77",
-    "record_sha256": "acd4412b34ab37af7d2f2e862909783adfc14293575b96dc484fe154279afe55"
+    "record_sha256": "d982c72de945f8007ac6feafdd22feb6b5f11656c7228cc9bde6750a915262d1"
 }
