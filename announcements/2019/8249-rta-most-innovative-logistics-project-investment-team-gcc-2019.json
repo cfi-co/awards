@@ -25,10 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201024231412",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201024231412/https://cfi.co/awards/middle-east/2019/rta-most-innovative-logistics-project-investment-team-gcc-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-large wp-image-8250\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/RTA-Most-Innovative-Logistics-Project-Investment-Team-GCC-2019-1024x662.jpg\" alt=\"RTA: Most Innovative Logistics Project Investment Team GCC 2019\" width=\"900\" height=\"582\" />\r\n<p style=\"text-align: justify;\">To achieve its vision of safe and smooth transport for all, Dubai’s Roads and Transport Authority (RTA) keeps a pulse on the daily ebb and flow of its traffic and transit network with an eagle eye trained on the objectives outlined in Dubai’s 2030 plan. The RTA has created a comprehensive financial model to quantify, chart, and predict financial surpluses or deficiencies throughout its portfolio of potential infrastructure projects over the next 12 years. The overarching goal of RTA’s far-reaching plan is to gain full visibility on its financial performance over the coming years to ensure the long-term sustainability of its assets, operations, and finances. As a key government authority, the RTA has driven the infrastructural development of the city, steering Dubai to become one of the smartest cities in the world. The RTA has developed a business strategy to spur the commercial transformation of its scope. Although the RTA is part of the public sector, it’s taken a private-sector stance on financial sustainability, giving it priority as a crucial focus of the organisation. As such, the RTA is seeking to reduce its reliance on government funds by forging partnerships with private enterprises to source alternative financing for its infrastructure projects. It recently launched the first ever joint venture company within the RTA’s history — EHAIL, a digitally-enhanced taxi service company. The CFI.co judging panel was impressed with the RTA’s strategic mindset, mapping out a future trajectory of new collaborations and connections. The judges have no hesitation in presenting the Roads and Transport Authority (RTA) of Dubai with the 2019 award for Most Innovative Logistics Project Investment Team in the Gulf Cooperation Council (GCC).</p>",
     "content_sha256": "d449d11b72ad0529bf68854258588c716ba55e28a3a77c3ab8414f1259b80982",
-    "record_sha256": "ef312524d0605dd028d56c9b2fc1023986f2a2eab920510565fead0ea4258e4f"
+    "record_sha256": "e2da98f957c2652b9e7a3f93dcd9af0f097f2492fe72be3025395c0d9189b63b"
 }
