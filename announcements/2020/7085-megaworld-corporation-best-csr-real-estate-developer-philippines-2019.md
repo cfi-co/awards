@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203232336
+wayback_snapshot_url: "http://web.archive.org/web/20201203232336/https://cfi.co/awards/asia-pacific/2020/megaworld-corporation-best-csr-real-estate-developer-philippines-2019/"
 content_sha256: 11d240900e6f912e61772c850324b3c7399c1a1e267e18778c9b2331d0ba24d7
 canonical: 7085-megaworld-corporation-best-csr-real-estate-developer-philippines-2019.json
 ---
