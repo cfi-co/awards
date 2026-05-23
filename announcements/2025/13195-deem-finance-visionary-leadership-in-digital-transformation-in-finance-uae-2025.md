@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251206005615
+wayback_snapshot_url: "http://web.archive.org/web/20251206005615/https://cfi.co/awards/corporate-leadership/2025/deem-finance-visionary-leadership-in-digital-transformation-in-finance-uae-2025/"
 content_sha256: dd46c4e9064c0bf96d7e267e65a47b2fa3adf4d692885329292ea20005c0e0b7
 canonical: 13195-deem-finance-visionary-leadership-in-digital-transformation-in-finance-uae-2025.json
 ---

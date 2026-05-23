@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20251206005615",
+        "wayback_snapshot_url": "http://web.archive.org/web/20251206005615/https://cfi.co/awards/corporate-leadership/2025/deem-finance-visionary-leadership-in-digital-transformation-in-finance-uae-2025/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13197\" src=\"https://cfi.co/awards/wp-content/uploads/2025/11/Deem.jpg\" alt=\"Deem\" width=\"500\" height=\"149\" />\r\n<p style=\"text-align: justify;\">Deem Finance is a UAE non-bank finance company with a purpose to serve underserved and underbanked segments through agile, partnership-led innovation. Founded in 2008–09 and now owned by Gargash Group, the institution has doubled down on inclusive finance by collaborating with fintechs to accelerate transformation without the delay of building everything in-house. It deploys alternative data and closed-loop designs to extend responsible credit to low-income workers and micro and small enterprises while reducing cash frictions and risk. Retail initiatives include a nano loan proposition and earned-wage access delivered through various fintech partners, providing short-term liquidity for blue-collar workers earning around $1000 monthly. On the SME side, Deem Finance is digitising FMCG supply payments by embedding a commercial credit capability within a beverages app, offering up to 50-day terms and removing costly cash collection. It is developing merchant lending embedded with payment networks at point of sale, using live transaction feeds to inform risk and repayment. Internally, the firm has driven cultural change, prioritising small proofs of concept, senior cross-functional sponsorship, and pragmatic use of AI to monitor call quality and escalate issues, improving service while building confidence in new tools. Strategic funding partnerships, including with J.P. Morgan, support scale as Deem Finance targets leadership among UAE non-bank lenders while maintaining a focus on purpose and prudence. The Capital Finance International (CFI.co) Judging Panel congratulates Deem Finance on winning the 2025 Visionary Leadership in Digital Transformation in Finance Award (UAE).</p>",
     "content_sha256": "dd46c4e9064c0bf96d7e267e65a47b2fa3adf4d692885329292ea20005c0e0b7",
-    "record_sha256": "0aff51b4feb11c471559bd301c0e7ec5abff298c64bbcabb0f90e1a1c137f259"
+    "record_sha256": "2105c23fc949f1684efedbbe366931bc416fe1c03469a89fae0a103994b42348"
 }
