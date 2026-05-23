@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190526193353
+wayback_snapshot_url: "http://web.archive.org/web/20190526193353/https://cfi.co/awards/latin-america/2016/vantrust-capital-best-securities-brokerage-chile-2016/"
 content_sha256: 9c97d53012668ad399eb7c4a9991aec0a2809c0c1d36eafc71ee1dc48fae6e0b
 canonical: 4432-vantrust-capital-best-securities-brokerage-chile-2016.json
 ---
