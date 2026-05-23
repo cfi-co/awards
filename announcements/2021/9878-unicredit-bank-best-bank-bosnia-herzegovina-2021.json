@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9882\" src=\"https://cfi.co/awards/wp-content/uploads/2021/12/UniCredit-Bank.jpg\" alt=\"UniCredit Bank\" width=\"400\" height=\"52\" />\r\n<p style=\"text-align: justify;\">UniCredit Bank boasts a five-year track record of the highest bank assets, net profit and market share in Bosnia. The bank credits its success to a stellar team and strong group with a focus on customer satisfaction and business stability. The group originated in Italy and it has the strongest brand awareness in the market of Bosnia Herzegovina. UniCredit Bank was prepared to deal with the challenges caused by Covid thanks to a rock solid business continuity plan that was in tune with local needs and featured an increasing mix of online services. The bank launched a new version of a mobile app in 2020 that provides customers with the tools to stay on top of their finances and conduct business as usual. The bank pulls from group resources to pioneer international advancements to fit the local market. It prioritises diversity and benefits from the leadership of three women at the C-suite level. UniCredit Bank values its human capital and has earned the loyalty of its people by supporting their personal and professional development. The bank has achieved the highest index of employee engagement. UniCredit Bank supports educational initiatives, strengthens SMEs and protects the environment. The group is one of Europe’s most active ESG advocates, and UniCredit Bank is proud to lead Bosnia’s journey towards compliance in this crucial area. The CFI.co judging panel presents UniCredit Bank with the 2021 award for Best Bank (Bosnia &amp; Herzegovina).</p>",
     "content_sha256": "4b2d85419ba5c96ab41347e325c07351e0790b3a04524a0e015b2ebd5c897384",
-    "record_sha256": "9f8ea70917e5ce347baedf66f869ea0766680b1e95034169d873e0a9b52924d3"
+    "record_sha256": "c488e0711c84c230c11b812120a8e5496b1f5edc712a60550f05a08ef7284c3f"
 }
