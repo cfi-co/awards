@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124125242
+wayback_snapshot_url: "http://web.archive.org/web/20250124125242/https://cfi.co/awards/industries/technology/2024/trading-com-highly-transparent-broker-eu-uk-2024/"
 content_sha256: a9778be4d5dc5a66ec2aaa4925e8df57df7588132691f1d1e0efeaea3ecd44f7
 canonical: 12739-trading-com-highly-transparent-broker-eu-uk-2024.json
 ---
