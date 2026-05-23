@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140731053212
+wayback_snapshot_url: "http://web.archive.org/web/20140731053212/http://cfi.co/awards/middle-east/2014/best-financial-comparison-site-middle-east-2014-souqalmal-com/"
 content_sha256: 82c38e22d4d94a0eaa626781c03bce1cb2c0ac7200a4052fd7f4c66fc8dec865
 canonical: 1225-best-financial-comparison-site-middle-east-2014-souqalmal-com.json
 ---

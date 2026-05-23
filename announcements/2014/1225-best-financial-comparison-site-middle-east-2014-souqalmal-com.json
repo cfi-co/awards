@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140731053212",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140731053212/http://cfi.co/awards/middle-east/2014/best-financial-comparison-site-middle-east-2014-souqalmal-com/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1226\" src=\"https://cfi.co/awards/wp-content/uploads/2014/05/s.jpg\" alt=\"s\" width=\"208\" height=\"53\" /></p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel considers Souqalmal.com to be a highly credible and accomplished site noting that, ‘this award winner clearly has integrity and is doing a superb job. Souqalmal.com is a young company that has grown phenomenally since its establishment two years ago and its site is available in the English language as well as Arabic.’</p>",
     "content_sha256": "82c38e22d4d94a0eaa626781c03bce1cb2c0ac7200a4052fd7f4c66fc8dec865",
-    "record_sha256": "a8b79291649db30dab4e835ec5affa77671afa50cebefa59350ee63f628f3a55"
+    "record_sha256": "d92f9bc55615e1bd7adce2efc2b751c9cbe8b030c264c151ba055d53fa137632"
 }
