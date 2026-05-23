@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220125081555
+wayback_snapshot_url: "http://web.archive.org/web/20220125081555/https://cfi.co/awards/front/2021/qatar-development-bank-qdb-outstanding-socio-economic-impact-initiatives-global-2021/"
 content_sha256: 5f465d9ac9d9455fd71dd2754e00ee5c9b0f4346b687ae8c293abe8ff379a2ac
 canonical: 9655-qatar-development-bank-qdb-outstanding-socio-economic-impact-initiatives-global-.json
 ---
