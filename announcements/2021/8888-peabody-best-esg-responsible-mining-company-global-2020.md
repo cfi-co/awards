@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418043740
+wayback_snapshot_url: "http://web.archive.org/web/20210418043740/https://cfi.co/awards/north-america/2021/peabody-best-esg-responsible-mining-company-global-2020/"
 content_sha256: fb35e3dd2f86bed933d56708bc052b4cd26f968d05dbfaf5cf04ffb7b2d226b8
 canonical: 8888-peabody-best-esg-responsible-mining-company-global-2020.json
 ---
