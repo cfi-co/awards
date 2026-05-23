@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211015235835",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211015235835/https://cfi.co/awards/africa/2013/dateline-energy-moving-forward-confidently-in-nigeria/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-658\" src=\"https://cfi.co/awards/wp-content/uploads/2013/07/dateline-LOGO.jpg\" alt=\"dateline LOGO\" width=\"480\" height=\"232\" />\r\n\r\n<strong>The CFI judging panel congratulates Dateline Energy Services on its recent restructuring and the creation of new platforms to ensure competitiveness in a tough market place.</strong> Dateline has a good record of working for a major international player having created a scope of work that is resulting in significant new business. This company is well placed to achieve significantly improved results for its stakeholders. Dateline wins our award for ‘Best Oil &amp; Gas Project Support Services, Nigeria, 2013.’",
     "content_sha256": "901603feb8555bd115547b1c45e6a2ad23792b22f5f5a2a8161f29a03cd84319",
-    "record_sha256": "8ec92906cdfabc6d9fd280be3c9492a1174092e823502e63d3b22a71e29df495"
+    "record_sha256": "c9908424870f9cc86ea149b0e97c5bd14b6d25c1bb041c5462d73f346ea1cd9b"
 }
