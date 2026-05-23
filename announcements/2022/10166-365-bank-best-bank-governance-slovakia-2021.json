@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10167\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/365.bank_.jpg\" alt=\"365.bank\" width=\"400\" height=\"204\" />\r\n<p style=\"text-align: justify;\">Slovakia’s 365.bank, founded in 1993, serves nearly a million clients through a nationwide network including 62 branches and over 7,000 cash-withdrawal points. It supplements standard banking services with an offer of insurance products, mutual funds and pension savings. The bank is led by a board of directors and a supervisory board. 365.bank benefits from close government connections and has long-standing professional relationships with the heads of several European states. Other firms rarely compare to 365.bank in terms of government access. This allows the bank to keep a finger on the pulse of regulatory developments, helping the team to make smarter investments and better shepherd portfolio companies. Digital advancements are opening new avenues of commerce and bringing previously unbanked populations into the financial fold — challenging government bodies to draft regulations that keep pace with the development. 365.bank’s close connections with start-ups and EU governments enable it to interpret the headwinds of the industry and help both sides work together. It collaborates with governments to identify trends in the digital financial ecosystem and helps fintech partners to navigate evolving regulatory environments. The bank harnesses digital advancements to bring added value to daily banking, using AI and machine learning to analyse data to support better decision making. The CFI.co judging panel announces 365.bank as the 2021 winner in the award category of Best Bank Governance (Slovakia).</p>",
     "content_sha256": "0341159da336973cb94f1657fca5c3702231c6facad76f43b97ed7132af85c0a",
-    "record_sha256": "d65c6baaa3559a4e26e33983ee365fa2d68e07a53d02693128cb49ffa1e84ced"
+    "record_sha256": "3c1eef85a45d8868962927437a42f08ab9e47a12f0d78b954af88df409ec53a6"
 }

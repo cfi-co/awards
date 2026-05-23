@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0341159da336973cb94f1657fca5c3702231c6facad76f43b97ed7132af85c0a
 canonical: 10166-365-bank-best-bank-governance-slovakia-2021.json
 ---
