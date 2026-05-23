@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228102912
+wayback_snapshot_url: "http://web.archive.org/web/20210228102912/https://cfi.co/awards/middle-east/2021/image-nation-outstanding-contribution-to-regional-media-uae-2020/"
 content_sha256: 875b8fae6538c902cdc7c776f700f9a47b312f758d31612910c11e12f3fe23ef
 canonical: 8766-image-nation-outstanding-contribution-to-regional-media-uae-2020.json
 ---
