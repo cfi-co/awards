@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207055502
+wayback_snapshot_url: "http://web.archive.org/web/20241207055502/https://cfi.co/awards/africa/2014/best-green-bank-cape-verde-2014-banco-interatlantico/"
 content_sha256: de0d81317624e4d67e80abf585597d54a32df6e4bfded65e4769c733dad96def
 canonical: 1555-best-green-bank-cape-verde-2014-banco-interatlantico.json
 ---
