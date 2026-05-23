@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241112193124
+wayback_snapshot_url: "http://web.archive.org/web/20241112193124/https://cfi.co/awards/europe/2024/fondo-pensione-eurofer-outstanding-pension-fund-performance-italy-2024/"
 content_sha256: 0b00d694b6dbae7f169e1734c60eb63d5200b74f86963ad545b71c2d21e7aeb6
 canonical: 12644-fondo-pensione-eurofer-outstanding-pension-fund-performance-italy-2024.json
 ---
