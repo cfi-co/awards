@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170109015155
+wayback_snapshot_url: "http://web.archive.org/web/20170109015155/http://cfi.co/awards/africa/2015/pricewaterhousecoopers-best-corporate-advisory-services-nigeria-2015/"
 content_sha256: 5ac227ce9b6125b0bf1b0190422cbbe8d5d6a7a37ca4ce3bda7f312272879f9d
 canonical: 2274-pricewaterhousecoopers-best-corporate-advisory-services-nigeria-2015.json
 ---
