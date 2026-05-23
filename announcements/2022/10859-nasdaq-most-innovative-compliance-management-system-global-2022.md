@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221027144953
+wayback_snapshot_url: "http://web.archive.org/web/20221027144953/https://cfi.co/awards/finance/exchanges-brokers/2022/nasdaq-most-innovative-compliance-management-system-global-2022/"
 content_sha256: 2b92f718a62a5aea9d66f2f360b772b0f4411ebcae6520f3f89aa280473813fe
 canonical: 10859-nasdaq-most-innovative-compliance-management-system-global-2022.json
 ---
