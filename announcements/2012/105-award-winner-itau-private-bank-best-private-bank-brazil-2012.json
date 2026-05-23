@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20240522235800",
+        "wayback_snapshot_url": "http://web.archive.org/web/20240522235800/https://cfi.co/awards/latin-america/2012/award-winner-itau-private-bank-best-private-bank-brazil-2012/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2042\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/i.jpg\" alt=\"i\" width=\"160\" height=\"160\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Without question a major force for private banking in Latin America, Itau also boasts a very strong international network which the judging panel considers to a have ‘a </strong><strong>good and secure future’.</strong></p>\r\n<p style=\"text-align: justify;\">Investor relations are well thought out and very effective. This winner also scores high in terms of sustainability and is a responsible and generous corporate citizen.</p>",
     "content_sha256": "16d5d0a7ba36fe5f86b889fd89c37625949348efbfb59e3c2409adf2fd868c48",
-    "record_sha256": "08c9d19dec46f9efd3fb19d71d25c3d42ae062002a0deb7c255afa7c6756d981"
+    "record_sha256": "caf8d326704815b8bead779f227ed5da29fedadcb8d1a6d295ba1704a4317ffb"
 }
