@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 03d816200cb728f77c48ec578734db07ff60b194d37af6d6fbb938752978ae01
 canonical: 6181-gatehouse-bank-best-shariah-compliant-home-finance-bank-uk-2018.json
 ---
