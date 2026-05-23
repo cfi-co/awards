@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150616080139
+wayback_snapshot_url: "http://web.archive.org/web/20150616080139/http://cfi.co/awards/africa/2015/the-2014-cfi-co-award-for-best-hse-standards-west-africa-goes-to-mobil-oil-nigeria-plc/"
 content_sha256: e194a0f5e753e3fee492ddf697e8837b11e6b4eeb0477f8232192738bf40c0a4
 canonical: 2113-the-2014-cfi-co-award-for-best-hse-standards-west-africa-goes-to-mobil-oil-niger.json
 ---
