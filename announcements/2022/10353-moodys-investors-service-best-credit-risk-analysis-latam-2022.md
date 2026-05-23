@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220504140135
+wayback_snapshot_url: "http://web.archive.org/web/20220504140135/https://cfi.co/awards/latin-america/2022/moodys-investors-service-best-credit-risk-analysis-latam-2022/"
 content_sha256: 8d5a074050bc22c22771fb05d8045d0380527149564232268d0dc744037dff61
 canonical: 10353-moodys-investors-service-best-credit-risk-analysis-latam-2022.json
 ---
