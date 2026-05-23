@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207230141
+wayback_snapshot_url: "http://web.archive.org/web/20221207230141/https://cfi.co/awards/development/projects/2022/atlas-infrastructure-best-climate-impact-responsible-investor-uk-2022/"
 content_sha256: a1f4547a42212c9a33ac3fc1915c081992f52015ad3403e301288b83b3c15ed9
 canonical: 10839-atlas-infrastructure-best-climate-impact-responsible-investor-uk-2022.json
 ---
