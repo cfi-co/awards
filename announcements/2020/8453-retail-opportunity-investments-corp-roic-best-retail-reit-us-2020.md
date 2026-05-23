@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235111
+wayback_snapshot_url: "http://web.archive.org/web/20201203235111/https://cfi.co/awards/north-america/2020/retail-opportunity-investments-corp-roic-best-retail-reit-us-2020/"
 content_sha256: 18bc506470643abe51c8d180e2c20817129271193b56f58923bb26ce3c070069
 canonical: 8453-retail-opportunity-investments-corp-roic-best-retail-reit-us-2020.json
 ---
