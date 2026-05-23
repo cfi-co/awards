@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 31d045ffc2c000bb6421949c9e198c2dd4b68682ef977cd29faef0c18d87285d
 canonical: 10941-appian-capital-advisory-best-esg-mining-investment-strategy-global-2022.json
 ---
