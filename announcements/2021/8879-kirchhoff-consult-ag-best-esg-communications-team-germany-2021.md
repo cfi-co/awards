@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210301141806
+wayback_snapshot_url: "http://web.archive.org/web/20210301141806/https://cfi.co/awards/europe/2021/kirchhoff-consult-ag-best-esg-communications-team-germany-2021/"
 content_sha256: 7f3c4757e5afe6b3975444cfbd3e830d156371b8c78359454e1f9359d84e148a
 canonical: 8879-kirchhoff-consult-ag-best-esg-communications-team-germany-2021.json
 ---
