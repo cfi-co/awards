@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203063826
+wayback_snapshot_url: "http://web.archive.org/web/20221203063826/https://cfi.co/awards/europe/2019/toledo-capital-ag-best-wealth-management-services-switzerland-2019/"
 content_sha256: ad45838d9b167bb015e3ba3a7023bdad0b5aa90d9d59f9073f2f6c8d2b3c7131
 canonical: 7952-toledo-capital-ag-best-wealth-management-services-switzerland-2019.json
 ---
