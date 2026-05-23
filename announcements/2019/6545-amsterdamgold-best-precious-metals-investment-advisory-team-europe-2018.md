@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200130233420
+wayback_snapshot_url: "http://web.archive.org/web/20200130233420/https://cfi.co/awards/finance/2019/amsterdamgold-best-precious-metals-investment-advisory-team-europe-2018/"
 content_sha256: 5e7640704dd4fb62522ab4a2485a794994719800a0f1015e8aa4b9eaffd30752
 canonical: 6545-amsterdamgold-best-precious-metals-investment-advisory-team-europe-2018.json
 ---
