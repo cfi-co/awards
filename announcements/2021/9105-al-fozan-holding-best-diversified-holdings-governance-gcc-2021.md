@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614183410
+wayback_snapshot_url: "http://web.archive.org/web/20210614183410/https://cfi.co/awards/middle-east/2021/al-fozan-holding-best-diversified-holdings-governance-gcc-2021/"
 content_sha256: 9df9edf80023a191d8fa8fb200b0fe02b752f2aa106594e668e6732274052520
 canonical: 9105-al-fozan-holding-best-diversified-holdings-governance-gcc-2021.json
 ---
