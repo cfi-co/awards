@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20251206002352",
+        "wayback_snapshot_url": "http://web.archive.org/web/20251206002352/https://cfi.co/awards/europe/2025/solar-ventures-excellence-in-utility-scale-solar-execution-europe-2025/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13202\" src=\"https://cfi.co/awards/wp-content/uploads/2025/11/Solar-Ventures.jpg\" alt=\"Solar Ventures\" width=\"500\" height=\"244\" />\r\n<p style=\"text-align: justify;\">Solar Ventures is recognised for its outstanding leadership and technical precision in the execution of utility-scale solar projects across Europe, combining deep industry foresight with disciplined, risk-managed delivery and a passion for sustainable innovation and measurable environmental impact. Founded by an entrepreneur with a background in venture capital and engineering, the company has consistently applied a strategic mindset rooted in competitiveness rather than subsidy dependence. Its evolution mirrors the broader trajectory of the solar industry, from early experimentation to today’s high-efficiency, data-driven deployment. Solar Ventures stands out for its disciplined approach to market entry, choosing jurisdictions such as Italy and Spain where it demonstrates exceptional understanding of regulatory frameworks and grid integration. Its projects, including pioneering developments in Jordan and large-scale portfolios exceeding 1GW in Spain, exemplify its ability to anticipate market shifts and seize opportunity in complex environments. The firm’s commitment to technological maturity — prioritising proven silicon-based systems while closely tracking next-generation materials and AI-enhanced plant management — underpins both performance reliability and investor confidence. In its next phase, Solar Ventures is expanding into distributed generation and behind-the-meter self-consumption, reflecting an agile adaptation to Europe’s decentralising energy landscape. Its unwavering belief in solar as the inevitable backbone of global energy transition, combined with operational excellence and an entrepreneurial spirit, positions the company at the forefront of Europe’s renewable energy future. The Capital Finance International (CFI.co) Judging Panel congratulates Solar Ventures on winning the 2025 Excellence in Utility-Scale Solar Execution Award (Europe).</p>",
     "content_sha256": "c3e07a83c39f49a9cf5477b6285642a205c2b0e9baca273dfd6412df9e3954f7",
-    "record_sha256": "88fa7164f39cd9e06789018a2727017b071516d98695ff9007e3d66427490d02"
+    "record_sha256": "7dd46368b8f5a7c9ca6418b47169c5d993ec30163607401fd788d859daf59765"
 }
