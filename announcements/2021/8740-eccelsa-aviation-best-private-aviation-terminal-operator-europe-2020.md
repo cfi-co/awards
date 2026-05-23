@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228090954
+wayback_snapshot_url: "http://web.archive.org/web/20210228090954/https://cfi.co/awards/europe/2021/eccelsa-aviation-best-private-aviation-terminal-operator-europe-2020/"
 content_sha256: 6370ab44ed89a03d103a7599782aabf81f774a1e27db74123aaa422ced51b7fb
 canonical: 8740-eccelsa-aviation-best-private-aviation-terminal-operator-europe-2020.json
 ---
