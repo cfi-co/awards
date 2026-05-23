@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210809180803
+wayback_snapshot_url: "http://web.archive.org/web/20210809180803/https://cfi.co/awards/north-america/2021/public-sector-pension-investment-board-best-sustainable-pension-fund-manager-canada-2021/"
 content_sha256: c2e597cb394559f3c3ce4ac88aa5616df785abd25794984e468fdada5898a31e
 canonical: 9412-public-sector-pension-investment-board-best-sustainable-pension-fund-manager-can.json
 ---
