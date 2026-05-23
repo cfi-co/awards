@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 1217b210f0bb1e47ac31a2c0af2575c550d5af684df3fdc800add00871c9da82
 canonical: 8603-sail-ventures-best-esg-emerging-markets-investor-team-netherlands-2020.json
 ---
