@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920114325
+wayback_snapshot_url: "http://web.archive.org/web/20210920114325/https://cfi.co/awards/latin-america/2017/costa-rican-investment-development-board-cinde-best-international-high-tech-investment-promotion-team-latin-america-2016/"
 content_sha256: ff824ef0dc069b80e2236c44e56af0533491e480d116220ff2005bf0347f3357
 canonical: 4005-costa-rican-investment-development-board-cinde-best-international-high-tech-inve.json
 ---
