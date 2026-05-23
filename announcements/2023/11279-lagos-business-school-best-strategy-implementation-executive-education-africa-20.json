@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230326145612",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230326145612/https://cfi.co/awards/africa/2023/lagos-business-school-best-strategy-implementation-executive-education-africa-2023/"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_11280\" align=\"aligncenter\" width=\"754\"]<img class=\"wp-image-11280 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2023/03/Lagos-Business-School-jpg.webp\" alt=\"CFI.co Chairman Lord Waverley and Professor Chris Ogbechie\" width=\"754\" height=\"516\" /> CFI.co Chairman Lord Waverley and Professor Chris Ogbechie[/caption]\r\n<p style=\"text-align: justify;\">Since Lagos Business School (LBS) inaugurated its campus in 1991, the management development institution has continued to build upon a reputation for quality education by preparing high-calibre professionals to excel in the corporate world. LBS offers several study programmes, including MBA degrees, a doctorate of business administration, executive education programmes as well as open-enrolment and company-customised courses. From the internal working of the private university to the structuring of its educational programmes, everything at LBS revolves around the central pillars of business ethics and sustainability. LBS aims to shape responsible leaders capable of managing ethical and profitable businesses, whether on a local or globe scale. The university has attained some top-tier accreditations, including the Association of MBAs (AMBA) and Association to Advance Collegiate Schools of Business (AACSB). LBS is among only two percent of business schools in 70 countries to obtain AMBA accreditation and among less than five percent of business schools globally to be accredited by AACSB. The graduate business school forms part of the Pan-Atlantic University and is inspired by principles from Opus Dei, an institution of the Catholic Church. It adheres to a values system rooted in integrity, professionalism, service, mutual respect and community. LBS MBA graduates enjoy high prospects in the labour market, 92 percent of which secure positions at top companies within a year of graduation. The CFI.co judging panel announces Lagos Business School as the 2023 award winner for Best Strategy Implementation Executive Education (Africa).</p>",
     "content_sha256": "4fb63bdf7d02e401947a0ab7a6cede274da8680f633f1bc1d6aa3f0ac824bb8e",
-    "record_sha256": "f9a8208f72ca320f64142164512fc794118941bd2033a05a60c6c95ad9b5355e"
+    "record_sha256": "fd4af596f08d3aca90460aa1f2013048cfc4e0a5749d940e09a0af94af715cce"
 }
