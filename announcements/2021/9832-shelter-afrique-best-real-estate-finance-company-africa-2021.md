@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207204724
+wayback_snapshot_url: "http://web.archive.org/web/20211207204724/https://cfi.co/awards/africa/2021/shelter-afrique-best-real-estate-finance-company-africa-2021/"
 content_sha256: f66501b2cae63672479f0f137190f044eb1c335d18f883132e19030c47abe186
 canonical: 9832-shelter-afrique-best-real-estate-finance-company-africa-2021.json
 ---
