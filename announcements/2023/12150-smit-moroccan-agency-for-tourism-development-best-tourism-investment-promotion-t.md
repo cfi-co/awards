@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ff23d6f2b003ddeaaa37b5c36bf5beb8fbb06267bfdbd791acf27bc822080349
 canonical: 12150-smit-moroccan-agency-for-tourism-development-best-tourism-investment-promotion-t.json
 ---
