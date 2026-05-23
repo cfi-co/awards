@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 669f9f999e7cb12ef204c555d53744d00d0f0a49b232b78a91511f2b1d752934
 canonical: 4096-qatar-foundation-outstanding-contribution-to-sustainability-of-the-knowledge-bas.json
 ---

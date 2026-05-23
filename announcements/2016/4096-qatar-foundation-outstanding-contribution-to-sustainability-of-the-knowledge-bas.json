@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter  wp-image-4097\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/QatarFoundation.jpg\" alt=\"\" width=\"303\" height=\"286\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Few countries blessed with abundant natural resources have the foresight, or political will, to invest in their long-term future by committing the proceeds of their windfall towards sustainable development. Norway comes to mind, as does Qatar. Boasting the highest per capita income in the world thanks to its vast reserves of oil and natural gas, the Planning Council of Qatar and the Qatar Foundations (QF) have asked the World Bank to lend its expertise in designing a policy framework to transform the country into a knowledge-based economy.</strong></p>\r\n<p style=\"text-align: justify;\">The Qatar Foundation for Education, Science and Community Development was set up in 1995 and tasked with unlocking the country’s human potential. A semi-private and not-for-profit entity, the Qatar Foundation was instrumental in attracting eight world-class universities to the country, including London’s University College and Carnegie Mellon University. Interestingly, courses and research are not limited to exact sciences and include a vast array of humanities studies including highly acclaimed archaeology and art programmes.</p>\r\n<p style=\"text-align: justify;\">The QF has also succeeded in reinvigorating Qatar’s K-12 education system, now geared to deliver a growing stream of freshmen (and women) to the country’s universities. The large education drive is part of Qatar’s National Vision 2025 which forms the bedrock of the knowledge-based economy taking shape. The CFI.co judging panel congratulates QF on its many accomplishments and is very pleased to offer the Qatar Foundation their 2016 Outstanding Contribution to Sustainability of the Knowledge-Based Economy GCC Award.</p>",
     "content_sha256": "669f9f999e7cb12ef204c555d53744d00d0f0a49b232b78a91511f2b1d752934",
-    "record_sha256": "ef1cec96a5ca1ff6e5cb77aadfaaa193d289b32297f5be4e77fa337bdf04389f"
+    "record_sha256": "46c083edc615c80c0f4452c75f3605ac52d7f8f29f22da0e5d619416c68d0afb"
 }
