@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210731063436
+wayback_snapshot_url: "http://web.archive.org/web/20210731063436/https://cfi.co/awards/middle-east/2021/mashreq-bank-best-smart-retail-bank-middle-east-2021/"
 content_sha256: 03628665d17b2126f4b799f32e4295fe3d13badea269f247324c46611066b8ee
 canonical: 9398-mashreq-bank-best-smart-retail-bank-middle-east-2021.json
 ---
