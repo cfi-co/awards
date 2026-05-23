@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203045617
+wayback_snapshot_url: "http://web.archive.org/web/20221203045617/https://cfi.co/awards/middle-east/2022/boursa-kuwait-outstanding-contribution-to-the-sdgs-gcc-2021/"
 content_sha256: e5cf5e67d07d243576315006cf6cda6645e951b0fab91bfb2506af5748baee95
 canonical: 10031-boursa-kuwait-outstanding-contribution-to-the-sdgs-gcc-2021.json
 ---
