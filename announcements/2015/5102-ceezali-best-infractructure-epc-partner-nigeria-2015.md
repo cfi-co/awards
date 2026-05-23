@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0d167bc6604054c660e4189f8932c52dd6425200cafacd779cee5d6d5c65a6a9
 canonical: 5102-ceezali-best-infractructure-epc-partner-nigeria-2015.json
 ---
