@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094653
+wayback_snapshot_url: "http://web.archive.org/web/20190426094653/https://cfi.co/awards/finance/2016/openwork-best-financial-adviser-support-services-united-kingdom-2016/"
 content_sha256: 23ea9e381456ceda372a42a513102f5a7bb160c9a9ff5267fa8d8dcb75944d4a
 canonical: 4088-openwork-best-financial-adviser-support-services-united-kingdom-2016.json
 ---
