@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207235420
+wayback_snapshot_url: "http://web.archive.org/web/20221207235420/https://cfi.co/awards/finance/2022/nordea-finance-most-innovative-climate-impact-sme-finance-scandinavia-2022/"
 content_sha256: 97161b4d8ab1343030cad9c7ae955898be84b8b2c1abe2a0a43a9eede63ab577
 canonical: 10905-nordea-finance-most-innovative-climate-impact-sme-finance-scandinavia-2022.json
 ---
