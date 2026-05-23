@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240713121043
+wayback_snapshot_url: "http://web.archive.org/web/20240713121043/https://cfi.co/awards/africa/2024/infracredit-best-esg-infrastructure-finance-solutions-west-africa-2024/"
 content_sha256: 902c7f38f2e4bab5380c2f15994af2ea07767376d978478a032a484771cacce7
 canonical: 12359-infracredit-best-esg-infrastructure-finance-solutions-west-africa-2024.json
 ---
