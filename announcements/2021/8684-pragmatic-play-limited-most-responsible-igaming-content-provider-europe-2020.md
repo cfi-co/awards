@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207220232
+wayback_snapshot_url: "http://web.archive.org/web/20211207220232/https://cfi.co/awards/europe/2021/pragmatic-play-limited-most-responsible-igaming-content-provider-europe-2020/"
 content_sha256: a47d9697ed0ae8c1ae9d96a3ca700883f6862ba0e42ddb14a4689da50d1470c0
 canonical: 8684-pragmatic-play-limited-most-responsible-igaming-content-provider-europe-2020.json
 ---
