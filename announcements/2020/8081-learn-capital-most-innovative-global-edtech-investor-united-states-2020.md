@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c6fac32ea80af075b1af7120fbfd7dc8d469c68636d1d459e87dfe50b14f6f70
 canonical: 8081-learn-capital-most-innovative-global-edtech-investor-united-states-2020.json
 ---
