@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221027144953
+wayback_snapshot_url: "http://web.archive.org/web/20221027144953/https://cfi.co/awards/best-practice/corporate-governance/2022/national-bank-of-greece-best-corporate-governance-greece-2022/"
 content_sha256: 8df711fe30ab55ee59489ed7d99d8a8dd07cb98cf75574c278cec256c556af4f
 canonical: 10837-national-bank-of-greece-best-corporate-governance-greece-2022.json
 ---
