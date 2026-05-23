@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251108154352
+wayback_snapshot_url: "http://web.archive.org/web/20251108154352/https://cfi.co/awards/banking/2025/abn-amro-meespierson-innovator-in-entrepreneurial-wealth-strategy-excellence-belgium-2025/"
 content_sha256: 1c20ccc88d285a2a865ddd56aa166eee4f3a5b2ac9658ca161096d011a3e0e9e
 canonical: 13139-abn-amro-meespierson-innovator-in-entrepreneurial-wealth-strategy-excellence-bel.json
 ---
