@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 6f750411ae980ecb1f868cdf46b7c783504f2f41c098f88aa2168b88176a5669
 canonical: 4712-kgh-border-services-best-border-management-consultancy-partner-global-2017.json
 ---
