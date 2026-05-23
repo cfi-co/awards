@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603003907
+wayback_snapshot_url: "http://web.archive.org/web/20230603003907/https://cfi.co/awards/front/2023/king-abdulaziz-center-for-world-culture-outstanding-contribution-to-cultural-development-middle-east-2022/"
 content_sha256: 1bf2b63b9d62127c9b8957dd66dc8e56784392b2c81ef534e68b654ea174ef71
 canonical: 11301-king-abdulaziz-center-for-world-culture-outstanding-contribution-to-cultural-dev.json
 ---
