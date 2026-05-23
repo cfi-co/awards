@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180409103730
+wayback_snapshot_url: "http://web.archive.org/web/20180409103730/http://cfi.co/awards/finance/2017/catalyst-partners-best-sme-growth-investment-partner-mena-2017/"
 content_sha256: 0ec0367b26946aea94b499b6559b00f80a557f7390de78aa8d52fcabf298ad3a
 canonical: 4169-catalyst-partners-best-sme-growth-investment-partner-mena-2017.json
 ---
