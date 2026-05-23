@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0daa63d3cbc73eb97f57abe41a92542a45d77d478194fbcb84a7aa4f4368b6d0
 canonical: 5119-dubai-electricity-and-water-authority-dewa-outstanding-contribution-to-sustainab.json
 ---
