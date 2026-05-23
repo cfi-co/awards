@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ed0d73f82b9bc0bb40f20af2b5324ef458a481947dd7ebe5e056c1eef7363ab1
 canonical: 7934-dexi-io-best-data-extraction-solutions-global-2019.json
 ---
