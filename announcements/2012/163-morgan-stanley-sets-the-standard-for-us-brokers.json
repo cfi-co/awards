@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210724010808",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210724010808/https://cfi.co/awards/north-america/2012/morgan-stanley-sets-the-standard-for-us-brokers/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2037\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/ms.jpg\" alt=\"ms\" width=\"521\" height=\"97\" /></p>\r\n<p style=\"text-align: justify;\"><strong>According to the judging panel, ‘An industry leader that sets the standards’.</strong></p>\r\n<p style=\"text-align: justify;\">Morgan Stanley has outstanding expertise and highly experienced advisers. The Morgan Stanley Foundation is deeply concerned about children’s health and specifically failure to thrive – often as a result of poverty.</p>",
     "content_sha256": "ff8b2e9fd93cf631f779b0b846fe881cbfb92cb91da3fdc95bc3547e1bd448d6",
-    "record_sha256": "5f7f45aa4fdaef930c821a32fc9628a4a3e60d59075600c9cad3cd35197d18be"
+    "record_sha256": "f302ad4cfafcb7dfb96c49d38fb986a3308d0f4637c476b2d5fc9cfc5a6cea60"
 }
