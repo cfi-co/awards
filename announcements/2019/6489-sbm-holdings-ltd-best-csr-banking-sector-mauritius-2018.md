@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f036049ac773046ebd3c3d9eafc644e073efe485e273d9b2652e553b31d2174e
 canonical: 6489-sbm-holdings-ltd-best-csr-banking-sector-mauritius-2018.json
 ---
