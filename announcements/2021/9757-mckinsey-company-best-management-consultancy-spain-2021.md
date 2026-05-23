@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207214152
+wayback_snapshot_url: "http://web.archive.org/web/20211207214152/https://cfi.co/awards/europe/2021/mckinsey-company-best-management-consultancy-spain-2021/"
 content_sha256: 616a2f191c808cc9061458cafce490f3021dbbede40d0b1025d9254d054ee8d9
 canonical: 9757-mckinsey-company-best-management-consultancy-spain-2021.json
 ---
