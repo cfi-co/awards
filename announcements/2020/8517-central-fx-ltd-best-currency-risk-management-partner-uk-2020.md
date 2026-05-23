@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120080256
+wayback_snapshot_url: "http://web.archive.org/web/20210120080256/https://cfi.co/awards/europe/2020/central-fx-ltd-best-currency-risk-management-partner-uk-2020/"
 content_sha256: 532cccc9138edf55354000dd48423536be97ce343b6e4e1ed070a0833595e470
 canonical: 8517-central-fx-ltd-best-currency-risk-management-partner-uk-2020.json
 ---
