@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921113730
+wayback_snapshot_url: "http://web.archive.org/web/20210921113730/https://cfi.co/awards/banking/2017/banque-transatlantique-best-private-bank-france-2016/"
 content_sha256: b7972cce65366a6cb7b6344e0a95499750f629861d595bb2eed9d5f8e6dcd1d6
 canonical: 4017-banque-transatlantique-best-private-bank-france-2016.json
 ---
