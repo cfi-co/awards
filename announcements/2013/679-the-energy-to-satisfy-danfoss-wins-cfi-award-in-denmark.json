@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140409004435",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409004435/http://cfi.co/awards/europe/2013/the-energy-to-satisfy-danfoss-wins-cfi-award-in-denmark/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-680\" src=\"https://cfi.co/awards/wp-content/uploads/2013/07/Danfoss-e1375285098330.jpg\" alt=\"Danfoss\" width=\"207\" height=\"110\" />Danfoss, a family-owned Danish business founded in 1933 now employs 23,000 people and is a major player throughout the world in the production and sales of energy-efficient solutions.</strong> The CFI judging panel considers the Danfoss efforts to ensure customer satisfaction as exemplary. CFI has no hesitation in recognising the Company as providing ‘Best Customer Satisfaction, Denmark, 2013.</p>",
     "content_sha256": "b425c7008f81c25168bd5a9bcc97c7bfa80ed15d85c92777f6ceca4c7be39dd3",
-    "record_sha256": "a6b2578c0420e9202d9d1c89b0309c3864bec015c4d1115709cfa9b08edf92c9"
+    "record_sha256": "c86d2c319c5383262ac9fc020c761231b35bb7ecff4c08d7e5b1609c93a1b1bc"
 }
