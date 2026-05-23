@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923105354
+wayback_snapshot_url: "http://web.archive.org/web/20200923105354/https://cfi.co/awards/europe/2020/tavistock-wealth-best-investment-fund-manager-uk-2020/"
 content_sha256: 0302d71c79289c358bb9376298d66b3cdabcfc10553ac0dedcc0575b8d993c6a
 canonical: 8129-tavistock-wealth-best-investment-fund-manager-uk-2020.json
 ---
