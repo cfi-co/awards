@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ca76144bebf1850e77e26e469f0407f3860b3081c248ba38f0b6e40b2fe96022
 canonical: 7904-tracom-services-best-enterprise-payment-solutions-and-best-ecommerce-payment-sol.json
 ---
