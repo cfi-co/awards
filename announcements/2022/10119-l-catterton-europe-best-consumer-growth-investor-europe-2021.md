@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240523003235
+wayback_snapshot_url: "http://web.archive.org/web/20240523003235/https://cfi.co/awards/europe/2022/l-catterton-europe-best-consumer-growth-investor-europe-2021/"
 content_sha256: fc9ba447bb40f7d6619c69a9d01263557da96f7f3f194af2fe205eb90821fef2
 canonical: 10119-l-catterton-europe-best-consumer-growth-investor-europe-2021.json
 ---
