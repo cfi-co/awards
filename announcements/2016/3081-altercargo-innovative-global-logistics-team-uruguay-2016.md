@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 3689289a70af6763a8d7acfcde016c6089c8588f4c45e98e09773c1988671849
 canonical: 3081-altercargo-innovative-global-logistics-team-uruguay-2016.json
 ---
