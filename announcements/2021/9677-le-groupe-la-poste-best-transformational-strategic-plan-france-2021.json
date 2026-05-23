@@ -25,10 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211021110246",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211021110246/https://cfi.co/awards/europe/2021/le-groupe-la-poste-best-transformational-strategic-plan-france-2021/"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_9678\" align=\"aligncenter\" width=\"900\"]<img class=\"size-large wp-image-9678\" src=\"https://cfi.co/awards/wp-content/uploads/2021/10/La-Poste-1024x694.jpg\" alt=\"La Poste Director of Strategy: Diane Abrahams\" width=\"900\" height=\"610\" /> <strong>La Poste Director of Strategy:</strong> <a href=\"https://cfi.co/menu/corporate/2021/11/diane-abrahams-a-bold-approach-have-taken-le-groupe-la-poste-ahead/\">Diane Abrahams</a>[/caption]\r\n<p style=\"text-align: justify;\">French postal service Le Groupe La Poste this year announced a strategic plan to develop sustainable sources of growth. The self-supporting business model consolidates traditional activities and public service missions, accelerates growth-producing activities, and develops models for the future. The group has been carbon-neutral since 2012 and is moving towards carbon-free delivery solutions in 225 cities across Europe. The group has distinguished itself in the finance field, with La Banque Postale ranking number one with several sustainability rating agencies and aiming to become Europe's premiere positive-impact bank. Here, too, internal operations are carbon-neutral — they have been since 2018 — and there is a target of net-zero emissions across all banking activities by 2040. The financial institution operates in line with the Paris Accord, and as a fund manager selects only socially responsible investments. It has pledged to double financing for energy transition projects by 2023. Le Groupe La Poste aims to become the first European exchange and link platform, serving clients and community with a focus on digital, green, and civic transformation. It benefits from its impressive physical presence and commercial network, serving over a million customers each day across 17,000 retail outlets nationwide. Two shareholders own the group: 66 percent is held by the Caisse des Dépôts et Consignations, the remainder by the French government. The CFI.co judging panel salutes a forward-thinking service provider, and declares Le Groupe La Poste winner of the 2021 award for Best Transformational Strategic Plan (France).</p>",
     "content_sha256": "b5d5ba1801ed1f26928eafc0c3ef1434d5c5d5f5cda3b3a52428be1fee382616",
-    "record_sha256": "55b0f586de00c286ffe5e9eb04ebe94c6b5c69bb21a7c19531e1e2d8f06fb8a1"
+    "record_sha256": "b379e54ee56c1cf4f559318d35f0d20ed8f2380817a0db23818d679686d69e73"
 }
