@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924112503
+wayback_snapshot_url: "http://web.archive.org/web/20210924112503/https://cfi.co/awards/europe/2018/nordea-asset-management-best-esg-investment-process-europe-2017/"
 content_sha256: cdeaf2b621dcdee83e96e7e83bd5f05219d5262242c91c953a0b7cad226a0cb7
 canonical: 5215-nordea-asset-management-best-esg-investment-process-europe-2017.json
 ---
