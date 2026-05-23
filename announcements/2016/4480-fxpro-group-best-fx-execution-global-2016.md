@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: a308aabf660725d6e1010eb55ff82c23449193b435d01642d12fdba1bcbf1561
 canonical: 4480-fxpro-group-best-fx-execution-global-2016.json
 ---
