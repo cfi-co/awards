@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724010714
+wayback_snapshot_url: "http://web.archive.org/web/20210724010714/https://cfi.co/awards/europe/2014/cfi-co-trade-finance-award-goes-to-commerzbank/"
 content_sha256: 008026c0d58c1aeacb2ad19f0ef131dd6b7c4aaa132cdbc2377484782d1d29ac
 canonical: 1303-cfi-co-trade-finance-award-goes-to-commerzbank.json
 ---
