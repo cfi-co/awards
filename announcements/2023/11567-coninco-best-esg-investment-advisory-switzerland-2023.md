@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231004102032
+wayback_snapshot_url: "http://web.archive.org/web/20231004102032/https://cfi.co/awards/europe/2023/coninco-best-esg-investment-advisory-switzerland-2023/"
 content_sha256: a26c74ec9b57e8a5081e038efdb77ea730db251828e824a99e11a618c2176e74
 canonical: 11567-coninco-best-esg-investment-advisory-switzerland-2023.json
 ---
