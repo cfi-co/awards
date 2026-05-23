@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20180409103744",
+        "wayback_snapshot_url": "http://web.archive.org/web/20180409103744/http://cfi.co/awards/latin-america/2017/radix-best-engineering-it-solutions-brazil-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4184\" src=\"https://cfi.co/awards/wp-content/uploads/2017/04/radix.jpg\" alt=\"\" width=\"393\" height=\"152\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Designing, implementing, and maintaining industrial strength and mission-critical digital systems, Brazilian tech company Radix is one of only a handful that manages to seamlessly integrate IT engineering and operational technology – offering clients access to a vast universe of efficiencies and synergies.</strong></p>\r\n<p style=\"text-align: justify;\">Radix helps clients find solutions to common issues, bypasses to bottlenecks, and ways to brings ideas and concepts to full fruition. The company’s unique approach to IT is grounded in the recognition that technological innovation needs to address specific problems or open venues previously closed or unimagined.</p>\r\n<p style=\"text-align: justify;\">Empowering clients with bespoke IT systems and moving from niche to mainstream, Radix has established itself as the go-to company for corporations looking to gain a technological edge and extract a maximum of benefits from innovation. Radix boasts a roster of large clients – both domestic and multinational corporations in addition to government entities.</p>\r\n<p style=\"text-align: justify;\">The Brazilian company taps into the large pool of exceptional talent cultivated and produced at the country’s leading universities and research centres. The company aims to underpin Brazil’s economic and social transformation with locally developed technology.\r\nRadix establishes long-term relationships with clients in order to gain a thorough understanding of their business. This enables Radix engineers to dovetail solutions to the needs of the clients.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel fully agrees that Radix stands at – or very close to – the apex of IT development in Brazil. The judges are happy to offer the company the 2017 Best Engineering IT Solutions Brazil Award.</p>",
     "content_sha256": "f251a9c8c1151ead7620dc179cc31b35115ded0ab46a93727ecfa51edd90f217",
-    "record_sha256": "da7be21db4211206ad4d157d3e5fa85c09eac7fc284a70453d357454cdbdb91e"
+    "record_sha256": "eb01e004e5dcd4d9b940ba486b759707094c3c4b54da38ae6c7550bfab3a6409"
 }

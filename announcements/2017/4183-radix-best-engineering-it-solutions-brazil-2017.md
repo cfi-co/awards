@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180409103744
+wayback_snapshot_url: "http://web.archive.org/web/20180409103744/http://cfi.co/awards/latin-america/2017/radix-best-engineering-it-solutions-brazil-2017/"
 content_sha256: f251a9c8c1151ead7620dc179cc31b35115ded0ab46a93727ecfa51edd90f217
 canonical: 4183-radix-best-engineering-it-solutions-brazil-2017.json
 ---
