@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050107
+wayback_snapshot_url: "http://web.archive.org/web/20190823050107/https://cfi.co/awards/europe/2018/boxx-global-expat-solutions-best-mobility-value-creation-services-europe-2018/"
 content_sha256: 7d62ef6e7086e9579394a4f5cfb85474264c037bd64ab8d735a656dc6787053a
 canonical: 5902-boxx-global-expat-solutions-best-mobility-value-creation-services-europe-2018.json
 ---
