@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221122094152
+wayback_snapshot_url: "http://web.archive.org/web/20221122094152/https://cfi.co/awards/best-practice/sustainability/2022/totalenergies-azerbaijan-outstanding-contribution-to-sustainable-transformation-azerbaijan-2022/"
 content_sha256: abb0a6edaaff13b9128ee40e959fa087ce56a462af8e28dd9a19f6e7ad55802c
 canonical: 10863-totalenergies-azerbaijan-outstanding-contribution-to-sustainable-transformation-.json
 ---
