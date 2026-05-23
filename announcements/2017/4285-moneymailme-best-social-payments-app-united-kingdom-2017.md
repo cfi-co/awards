@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20180316224217
+wayback_snapshot_url: "http://web.archive.org/web/20180316224217/http://cfi.co/awards/europe/2017/moneymailme-best-social-payments-app-united-kingdom-2017/"
 content_sha256: 34557932ff3d64579d1f77802a995113bb218587667431927b656601c5f6fd4e
 canonical: 4285-moneymailme-best-social-payments-app-united-kingdom-2017.json
 ---
