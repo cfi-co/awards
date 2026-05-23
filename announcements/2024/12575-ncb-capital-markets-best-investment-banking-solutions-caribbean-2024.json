@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20241005091322",
+        "wayback_snapshot_url": "http://web.archive.org/web/20241005091322/https://cfi.co/awards/banking/2024/ncb-capital-markets-best-investment-banking-solutions-caribbean-2024/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12577\" src=\"https://cfi.co/awards/wp-content/uploads/2024/09/NCB-Capital-Markets-jpg.webp\" alt=\"NCB Capital Markets\" width=\"500\" height=\"61\" />\r\n<p style=\"text-align: justify;\">NCB Capital Markets provides investment products and services for institutions and individual clients. This firm is one of the major stockbrokers in Jamaica and offers outstanding wealth advisory and asset management services. Off-shore facilities are available via related companies in the Cayman Islands. Core values include transparency, client satisfaction, team entrepreneurism, and respecting the dignity of all clients. The efficient geographical spread of activities, and depth of understanding is quite amazing. The Trinidad office also handles the firm’s business in the Dutch Caribbean. Similarly, the Guyana office reaches out in South America. In each hub it operates, NCB Capital Markets has been responsible for major transactions. No other financial institution in the Caribbean can lay claim to a more impressive record. The firm has developed capabilities to operate at every layer of capital markets, often in contrast to the competition. NCB Capital Markets sponsors major industry conferences in Jamaica, Trinidad, and Guyana. The Guyan gathering – in October 2023 – was the first such conference to be held in that country. With its leading role in Caribbean capital markets, the firm’s presence ensures greater sophistication, improved overall efficiency and commendable transparency. In an often-troubled world, the stability of the Caribbean is a key factor in the success of our winner. The firm, which has such a secure hold on English-speaking Caribbean will be seeking further growth in South and Central America. NCB Capital Markets receives the 2024 award Best Investment Banking Solutions (Caribbean).</p>",
     "content_sha256": "216ee5ab7fa5ab63ac43927f0fd04e4a010e45d8990aeff7b5bc9b7ca34a777c",
-    "record_sha256": "5ed80ddde40748ab4ebc15f7f63b8bda8cdfb03ec6fea2e0733dc731dbadc23d"
+    "record_sha256": "b81832c95bf2b46e75c1f15a7bdaeac18e42a27333364d297a26a8d1a2a915f9"
 }

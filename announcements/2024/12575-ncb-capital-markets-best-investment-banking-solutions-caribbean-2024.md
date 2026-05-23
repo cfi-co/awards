@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241005091322
+wayback_snapshot_url: "http://web.archive.org/web/20241005091322/https://cfi.co/awards/banking/2024/ncb-capital-markets-best-investment-banking-solutions-caribbean-2024/"
 content_sha256: 216ee5ab7fa5ab63ac43927f0fd04e4a010e45d8990aeff7b5bc9b7ca34a777c
 canonical: 12575-ncb-capital-markets-best-investment-banking-solutions-caribbean-2024.json
 ---
