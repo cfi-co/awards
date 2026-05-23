@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210120075623",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210120075623/https://cfi.co/awards/africa/2019/assupol-best-life-assurer-southern-africa-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-2250\" src=\"https://cfi.co/awards/wp-content/uploads/2015/05/assupol.jpg\" alt=\"Assupol\" width=\"352\" height=\"64\" />\r\n<p style=\"text-align: justify;\">Caring has always been the cornerstone of Assupol operations. The South African insurance company was born more than a century ago, with a mission to provide funeral services for civil servants. Now it’s a household name for customer commitment and market-tailored insurance and savings offerings. Superior client service is a priority focus at Assupol, fuelling product innovation and positive market change. The company drives for sustainable growth, with exemplary leadership in equality and financial inclusion. From ownership and leadership to workforce and client base, Assupol stakeholders are diverse and well-represented. The group has empowerment at heart, from Assupol Life CEO Bridget Mokwena-Halala onwards: 38 percent of ownership, 55 percent of staff, 57 percent of financial advisors, and 62 percent of its client base are African women. The company is a steadfast community partner, investing in the country’s economic growth and social progress. Assupol sponsors Early Childhood Development (ECD) programmes, last year investing more than R30m (£1.62m) in more than 100 ECD centres, providing thousands of children with nutritious meals, and training some 80 ECD practitioners. Over the next five years, Assupol plans to equip 100 rural primary schools with improved sanitation — including the harvesting of rainwater for sustainability — with more programmes to follow. Its outreach initiatives protect consumers with information about debt dangers, recourse availability, and predatory lending practices. The CFI.co judging panel has followed the company’s growth over the years, and is delighted by its customer focus, community commitment, and financial performance. For the fifth year running, the judges declare Assupol a winner, this year for the 2019 award for the Best Life Assurer (Southern Africa).</p>",
     "content_sha256": "bb28aef77fdf91893f806d8e8abc061fdb778c47ee5d3d30aee019490fbbd679",
-    "record_sha256": "58129a1d94e714e7ca104eaf9a50e9aafdd9672ede122fbb08455a3f4b8f612d"
+    "record_sha256": "fd2c7ba1b7fbe5a03657dfa588d8326262c81bab4703733d4e281ccdc60ae9e4"
 }
