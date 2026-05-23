@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603004736
+wayback_snapshot_url: "http://web.archive.org/web/20230603004736/https://cfi.co/awards/industries/manufacturing/2023/vingroup-best-sustainable-development-strategy-vietnam-2023/"
 content_sha256: ab7199edd1b934ba3fb34a0f2cf51d2420920fc691148def1e919200dee6270b
 canonical: 11315-vingroup-best-sustainable-development-strategy-vietnam-2023.json
 ---
