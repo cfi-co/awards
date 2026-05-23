@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924121008
+wayback_snapshot_url: "http://web.archive.org/web/20210924121008/https://cfi.co/awards/europe/2020/xm-most-reliable-broker-global-2020-most-transparent-broker-global-2020/"
 content_sha256: a150274b5c3bdf08ed6a4a38b6b908cb3fdc930bb416b25f83c79abf98364bd8
 canonical: 8022-xm-most-reliable-broker-global-2020-most-transparent-broker-global-2020.json
 ---
