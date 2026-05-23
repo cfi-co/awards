@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20161011035426
+wayback_snapshot_url: "http://web.archive.org/web/20161011035426/http://cfi.co/awards/north-america/2016/fitch-ratings-best-global-rating-service-2016/"
 content_sha256: 39c0ecd3b81acf231a9dc5cdf6c64c127dbd4db333d1c847c04874ac3cd6139f
 canonical: 3439-fitch-ratings-best-global-rating-service-2016-2.json
 ---
