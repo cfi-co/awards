@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209182450
+wayback_snapshot_url: "http://web.archive.org/web/20250209182450/https://cfi.co/awards/banking/2024/central-reserve-bank-of-el-salvador-best-central-reserve-bank-central-america-2024/"
 content_sha256: f93f5da81f6a397fda31a39ec4350dffa8ed9a74122e77a6b81ce53408998e9e
 canonical: 12859-central-reserve-bank-of-el-salvador-best-central-reserve-bank-central-america-20.json
 ---
