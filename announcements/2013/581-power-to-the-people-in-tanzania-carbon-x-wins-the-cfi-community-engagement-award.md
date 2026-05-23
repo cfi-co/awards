@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209182142
+wayback_snapshot_url: "http://web.archive.org/web/20250209182142/https://cfi.co/awards/africa/2013/power-to-the-people-in-tanzania-carbon-x-wins-the-cfi-community-engagement-award/"
 content_sha256: 90a5fcd17c43af9d4fac22a5ccac7ee71abeeaf1bd562742b9466fae7a84c7e4
 canonical: 581-power-to-the-people-in-tanzania-carbon-x-wins-the-cfi-community-engagement-award.json
 ---
