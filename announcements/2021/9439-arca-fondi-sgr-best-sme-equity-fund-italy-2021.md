@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016001011
+wayback_snapshot_url: "http://web.archive.org/web/20211016001011/https://cfi.co/awards/europe/2021/arca-fondi-sgr-best-sme-equity-fund-italy-2021/"
 content_sha256: 5dc9935c9db505b4336fcf094fbc8188543bf7302ec6f386b851a991680d5ccd
 canonical: 9439-arca-fondi-sgr-best-sme-equity-fund-italy-2021.json
 ---
