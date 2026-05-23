@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409063159
+wayback_snapshot_url: "http://web.archive.org/web/20140409063159/http://cfi.co/awards/north-america/2013/america-is-more-than-satisfied-with-gillette/"
 content_sha256: f40fac3ac0fbfb047c186543b4f9b7b5d91710e05693f1013a0ad6e449946794
 canonical: 688-america-is-more-than-satisfied-with-gillette.json
 ---
