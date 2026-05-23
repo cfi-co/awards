@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614173058
+wayback_snapshot_url: "http://web.archive.org/web/20210614173058/https://cfi.co/awards/africa/2021/qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2021/"
 content_sha256: af03d448fd01148c6163115e0536919257e4c13cecad7832b9f52331862491b8
 canonical: 9129-qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2021.json
 ---
