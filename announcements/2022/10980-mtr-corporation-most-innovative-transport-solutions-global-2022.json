@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230208102349",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230208102349/https://cfi.co/awards/asia-pacific/2022/mtr-corporation-most-innovative-transport-solutions-global-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9909\" src=\"https://cfi.co/awards/wp-content/uploads/2021/12/MTR.jpg\" alt=\"MTR\" width=\"500\" height=\"136\" />\r\n<p style=\"text-align: justify;\">Since its launch in 1975, MTR Corporation has shown a penchant for strategic investments at the most opportune moment. From its base in Hong Kong, the multinational company aims to connect communities and foster growth through the provision of caring services and value creation for all stakeholders. MTR (Mass Transit Railway) Corporation invests in technology and infrastructure to support cities of the future. It continues to pursue digital transformation to bring customers smart mobility as well as smart operations and maintenance for better efficiency and environmental benefits, including carbon reductions. It combines these efforts to deliver smart city services to communities through ongoing property projects along railway lines. It partners with tech start-ups at home and abroad to create opportunities for young talent. These areas of key focus propel the company forward on its mission to keep cities moving. MTR Corporation and MTR Academy (a global training hub for railway management and operation) has announced a Memorandum of Understanding with The Hong Kong Polytechnic University to explore innovative solutions that advance the performance of railway assets, operations and maintenance using smart sensing technology. MTR Corporation collaborates with academia to amplify research impacts. The company has allocated over $38m for investment in start-ups over the next few years, with more funding reserved for similar projects in the future. The CFI.co judging panel has unanimously voted for MTR Corporation — a repeat programme winner — in the 2022 global award category for Most Innovative Transport Solutions.</p>",
     "content_sha256": "46596ca9a5ebe41984e3568db55406f14da262fe1c06f1eedfea51676fd9041c",
-    "record_sha256": "85425d9e7372bc6e03fb9133e92da0adbf107eee5996a43736adb72cfde1d566"
+    "record_sha256": "9b3197b5e0c50d0c0db8863f0329184e6c18decd7810bc5e529cbe7aefab2eb2"
 }

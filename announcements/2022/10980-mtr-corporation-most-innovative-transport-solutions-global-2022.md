@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208102349
+wayback_snapshot_url: "http://web.archive.org/web/20230208102349/https://cfi.co/awards/asia-pacific/2022/mtr-corporation-most-innovative-transport-solutions-global-2022/"
 content_sha256: 46596ca9a5ebe41984e3568db55406f14da262fe1c06f1eedfea51676fd9041c
 canonical: 10980-mtr-corporation-most-innovative-transport-solutions-global-2022.json
 ---
