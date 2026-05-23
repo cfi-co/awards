@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094341
+wayback_snapshot_url: "http://web.archive.org/web/20190426094341/https://cfi.co/awards/africa/2015/ih-group-best-corporate-finance-team-zimbabwe-2015/"
 content_sha256: 7772ad27ceb42ea6568eeed8fd94d4e4152eb392ea1cd4cf323d7f15b62812f8
 canonical: 2228-ih-group-best-corporate-finance-team-zimbabwe-2015.json
 ---
