@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: dfd95a85ba7cb6178dc83fe7024bc1c838f73ebb7941d19dcd166e165cdb0635
 canonical: 4025-cyprus-development-bank-best-corporate-bank-cyprus-2016.json
 ---
