@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228103116
+wayback_snapshot_url: "http://web.archive.org/web/20210228103116/https://cfi.co/awards/africa/2021/rokel-commercial-bank-best-bank-governance-sierra-leone-2020/"
 content_sha256: ec1e28d01ed5e8e00cd571542323cf6c224e1d8f670a2bc6d73edcb3e434828c
 canonical: 8694-rokel-commercial-bank-best-bank-governance-sierra-leone-2020.json
 ---
