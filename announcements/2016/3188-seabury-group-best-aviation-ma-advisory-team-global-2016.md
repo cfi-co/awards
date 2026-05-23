@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191013203544
+wayback_snapshot_url: "http://web.archive.org/web/20191013203544/https://cfi.co/awards/industries/2016/seabury-group-best-aviation-ma-advisory-team-global-2016/"
 content_sha256: 46d5be715cbbc9f88158ffe1b03dfdee539e6360a2224325857cfd5156c81d8d
 canonical: 3188-seabury-group-best-aviation-ma-advisory-team-global-2016.json
 ---
