@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 101bf38acc59d8b024dfec90eb5a4e2dec7225899c35e1f48a4b037aedf7f0fd
 canonical: 2742-abu-dhabi-securities-exchange-adx-most-innovative-exchange-gcc-2015.json
 ---
