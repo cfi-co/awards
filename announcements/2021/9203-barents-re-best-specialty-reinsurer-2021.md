@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614190719
+wayback_snapshot_url: "http://web.archive.org/web/20210614190719/https://cfi.co/awards/europe/2021/barents-re-best-specialty-reinsurer-2021/"
 content_sha256: 978fd65bab53c5eed860ca590cc1a71a9b81aeefe861e67e77946c433f085074
 canonical: 9203-barents-re-best-specialty-reinsurer-2021.json
 ---
