@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: d50441407d0740556e5208e9b8d4db74ad0a558700066f75346de3bf337e416c
 canonical: 13408-medirect-digital-savings-and-investing-platform-excellence-europe-2026.json
 ---
