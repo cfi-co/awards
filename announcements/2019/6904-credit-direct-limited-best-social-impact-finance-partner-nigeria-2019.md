@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190923113647
+wayback_snapshot_url: "http://web.archive.org/web/20190923113647/https://cfi.co/awards/africa/2019/credit-direct-limited-best-social-impact-finance-partner-nigeria-2019/"
 content_sha256: 6ce987d78a55c686d77e544fb6b8c8018a5c7ca31eedc8d2ed17a7c9bb631588
 canonical: 6904-credit-direct-limited-best-social-impact-finance-partner-nigeria-2019.json
 ---
