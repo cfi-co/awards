@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928184814
+wayback_snapshot_url: "http://web.archive.org/web/20220928184814/https://cfi.co/awards/asia-pacific/2022/janashakthi-life-best-insurance-services-sri-lanka-2022/"
 content_sha256: 3e99efc9001d90914aa15719961fa828b6fb5d6cf9145b395ec6628e6305f50b
 canonical: 10685-janashakthi-life-best-insurance-services-sri-lanka-2022.json
 ---
