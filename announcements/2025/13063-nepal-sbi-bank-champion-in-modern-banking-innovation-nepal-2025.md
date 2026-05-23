@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250731162835
+wayback_snapshot_url: "http://web.archive.org/web/20250731162835/https://cfi.co/awards/banking/2025/nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2025/"
 content_sha256: d72788b65e991454cb3c7eca62ef3d3386a1854a9488dc61f7754d0b3dd2fb83
 canonical: 13063-nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2025.json
 ---
