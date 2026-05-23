@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220119184358
+wayback_snapshot_url: "http://web.archive.org/web/20220119184358/https://cfi.co/awards/banking/2022/standard-chartered-usa-best-international-corporate-institutional-bank-us-2021/"
 content_sha256: dd3bb888318a10880b0ba811726ef3c94f00325f7370a8bfd7af8f26d757e1f9
 canonical: 9989-standard-chartered-usa-best-international-corporate-institutional-bank-us-2021.json
 ---
