@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250907050653
+wayback_snapshot_url: "http://web.archive.org/web/20250907050653/https://cfi.co/awards/africa/2015/stratlink-best-economic-research-team-kenya-2015/"
 content_sha256: c1dd208ed9b78ca11dd5b74ba5668d11a207848ad0a7c43e38901ada0b7757b0
 canonical: 2618-stratlink-best-economic-research-team-kenya-2015.json
 ---
