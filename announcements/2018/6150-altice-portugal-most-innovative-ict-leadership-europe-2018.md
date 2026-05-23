@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230530204815
+wayback_snapshot_url: "http://web.archive.org/web/20230530204815/https://cfi.co/awards/europe/2018/altice-portugal-most-innovative-ict-leadership-europe-2018/"
 content_sha256: d1f6e45bd8ea657deeb90acca925fce75af11c560fba231547ae0be5de5ff6c2
 canonical: 6150-altice-portugal-most-innovative-ict-leadership-europe-2018.json
 ---
