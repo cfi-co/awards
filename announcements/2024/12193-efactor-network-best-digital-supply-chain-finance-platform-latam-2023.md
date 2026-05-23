@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b9dc90365d18ce056b155950c95b9dd25f483fe1e9c6ccc1b1b8bf2cf08d7fda
 canonical: 12193-efactor-network-best-digital-supply-chain-finance-platform-latam-2023.json
 ---
