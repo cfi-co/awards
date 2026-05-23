@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20161011033721
+wayback_snapshot_url: "http://web.archive.org/web/20161011033721/http://cfi.co/awards/best-practice/sustainability/2016/zurich-insurance-group-best-sustainable-insurer-switzerland-2016/"
 content_sha256: 4e7666f35403e416fb1f8f1e3d19e9be10b404c205268c0a998f02546c13a0dc
 canonical: 3211-zurich-insurance-group-best-sustainable-insurer-switzerland-2016.json
 ---
