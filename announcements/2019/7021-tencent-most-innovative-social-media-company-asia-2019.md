@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200914134218
+wayback_snapshot_url: "http://web.archive.org/web/20200914134218/https://cfi.co/awards/asia-pacific/2019/tencent-most-innovative-social-media-company-asia-2019/"
 content_sha256: 30f535ef76887b4d2b0688005bbaadabd84fd12383329231f365f5000d23bb62
 canonical: 7021-tencent-most-innovative-social-media-company-asia-2019.json
 ---
