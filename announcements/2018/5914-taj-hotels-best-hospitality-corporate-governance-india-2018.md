@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191119064026
+wayback_snapshot_url: "http://web.archive.org/web/20191119064026/https://cfi.co/awards/asia-pacific/2018/taj-hotels-best-hospitality-corporate-governance-india-2018/"
 content_sha256: ab028eb54921cbabe7a22f7ae370bdd229fb7693636b5800f0411dcdda6dc1f6
 canonical: 5914-taj-hotels-best-hospitality-corporate-governance-india-2018.json
 ---

@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20191119064026",
+        "wayback_snapshot_url": "http://web.archive.org/web/20191119064026/https://cfi.co/awards/asia-pacific/2018/taj-hotels-best-hospitality-corporate-governance-india-2018/"
     },
     "excerpt": "",
     "content_html": "<a href=\"https://cfi.co/awards/wp-content/uploads/2018/08/Taj.jpg\"><img class=\"aligncenter size-full wp-image-6300\" src=\"https://cfi.co/awards/wp-content/uploads/2018/08/Taj.jpg\" alt=\"\" width=\"500\" height=\"209\" /></a>\r\n\r\n<strong>India’s Tata Group has come to represent a global hallmark of quality. The subcontinent’s largest corporate conglomerate, Tata Group is recognised both at home and abroad for its ethical and transparent business practices. The group is considered also a pioneer of sustainability and responsible investing. By putting in place a solid and comprehensive governance framework, Tata Group has mitigated risks and established a reputation for fairness in all its dealings.</strong>\r\n<p style=\"text-align: justify;\">Part of the Tata Group, Taj Hotels also belongs to a select group of Indian corporates which have been recognised by the Bombay Stock Exchange (BSE) for their excellence in governance. These A Group companies are selected on the basis of their market capitalisation, liquidity, compliance, and historic performance. Taj Hotels takes corporate governance to the next level by conducting its business involving all stakeholders and maintaining full transparency.</p>\r\n<p style=\"text-align: justify;\">Taj Hotels insists that suppliers adhere to the same high standards with respect to human rights, health and safety, gender equality, and corporate social responsibility, amongst others. Already 67 of the group’s 79 hotels possess the coveted Gold Certification for sustainability and environmental care. By the end of the current year, all hotels are expected to have obtained the certificate.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends Taj Hotels for pushing the envelope of corporate governance. The effort, now part of the company’s corporate DNA, has made Taj Hotels into India’s premier provider of hospitality services. The judges declare Taj Hotels winner of the 2018 Best Hospitality Corporate Governance India Award.</p>",
     "content_sha256": "ab028eb54921cbabe7a22f7ae370bdd229fb7693636b5800f0411dcdda6dc1f6",
-    "record_sha256": "31d3f4216a1b4061b7dd6f1598946afbf617f20a5d04504140b1c85bcef6dd84"
+    "record_sha256": "c6430f02a47d3dfa252f370dc3bd37ca0ab1704fa8dbbcbd123584774de788d0"
 }
