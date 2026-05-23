@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241112190939
+wayback_snapshot_url: "http://web.archive.org/web/20241112190939/https://cfi.co/awards/banking/2024/bnp-paribas-fortis-outstanding-contribution-to-sme-financing-benelux-2024/"
 content_sha256: 7a8e3d6429c075329fcc80bbde912e20e398c2aa5962481ec07e86b0952e51a9
 canonical: 12619-bnp-paribas-fortis-outstanding-contribution-to-sme-financing-benelux-2024.json
 ---
