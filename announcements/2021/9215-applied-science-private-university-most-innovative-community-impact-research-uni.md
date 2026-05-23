@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614192341
+wayback_snapshot_url: "http://web.archive.org/web/20210614192341/https://cfi.co/awards/middle-east/2021/applied-science-private-university-most-innovative-community-impact-research-university-middle-east-2021/"
 content_sha256: 4a6d92feaecd79cc610a127d2c59911efada5145503815c63cf9e5879342fc34
 canonical: 9215-applied-science-private-university-most-innovative-community-impact-research-uni.json
 ---
