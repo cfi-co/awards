@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210322163415
+wayback_snapshot_url: "http://web.archive.org/web/20210322163415/https://cfi.co/awards/europe/2021/taurus-group-best-digital-asset-infrastructure-provider-switzerland-2021/"
 content_sha256: 9c715fff8feb5886e041d3600a3294326feedb93df4bad082bd45661bfa1d38b
 canonical: 8890-taurus-group-best-digital-asset-infrastructure-provider-switzerland-2021.json
 ---
