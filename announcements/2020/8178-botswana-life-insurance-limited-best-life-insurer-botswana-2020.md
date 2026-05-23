@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200907110629
+wayback_snapshot_url: "http://web.archive.org/web/20200907110629/https://cfi.co/awards/africa/2020/botswana-life-insurance-limited-best-life-insurer-botswana-2020/"
 content_sha256: b9194625ccf6e7fc35247461c3bca95c391e7e7f44892f4ff81e3fe62ac5167f
 canonical: 8178-botswana-life-insurance-limited-best-life-insurer-botswana-2020.json
 ---
