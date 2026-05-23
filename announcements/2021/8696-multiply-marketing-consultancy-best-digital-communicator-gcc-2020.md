@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724020520
+wayback_snapshot_url: "http://web.archive.org/web/20210724020520/https://cfi.co/awards/middle-east/2021/multiply-marketing-consultancy-best-digital-communicator-gcc-2020/"
 content_sha256: 746bba9acdb5dff8f0f0f30bf2d7d0b58fc025895445b22d670b9ad4544df9a5
 canonical: 8696-multiply-marketing-consultancy-best-digital-communicator-gcc-2020.json
 ---
