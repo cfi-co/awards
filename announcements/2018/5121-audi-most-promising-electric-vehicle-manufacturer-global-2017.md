@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 8e2524d8418d51411146472cd404ac06eb09faa63c489614d5ecb0c3431da6c4
 canonical: 5121-audi-most-promising-electric-vehicle-manufacturer-global-2017.json
 ---
