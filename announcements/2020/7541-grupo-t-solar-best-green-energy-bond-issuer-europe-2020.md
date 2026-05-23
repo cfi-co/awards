@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201025000142
+wayback_snapshot_url: "http://web.archive.org/web/20201025000142/https://cfi.co/awards/europe/2020/grupo-t-solar-best-green-energy-bond-issuer-europe-2020/"
 content_sha256: de1cec4c2a2295c0afa87adb3ff32f61315677a2899afb7ea2e6314c759a9f53
 canonical: 7541-grupo-t-solar-best-green-energy-bond-issuer-europe-2020.json
 ---
