@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203055927
+wayback_snapshot_url: "http://web.archive.org/web/20221203055927/https://cfi.co/awards/europe/2021/adepa-best-global-fund-administration-team-europe-2021-2/"
 content_sha256: 9ba185d6ec5315488236c1bdbac4f99a0ad9cb80cec9b2ed8396deb87abac060
 canonical: 9722-adepa-best-global-fund-administration-team-europe-2021-2.json
 ---
