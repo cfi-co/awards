@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228102038
+wayback_snapshot_url: "http://web.archive.org/web/20210228102038/https://cfi.co/awards/north-america/2021/deepmind-most-innovative-ai-research-team-global-2020/"
 content_sha256: 9f374386dcf22021081eb4a0fc99386d42d36bd889198912528b05e701429273
 canonical: 8712-deepmind-most-innovative-ai-research-team-global-2020.json
 ---
