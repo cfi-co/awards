@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923093115
+wayback_snapshot_url: "http://web.archive.org/web/20200923093115/https://cfi.co/awards/north-america/2020/hannon-armstrong-best-esg-sustainable-investment-strategy-usa-2020/"
 content_sha256: 781eaa00de358693b5974242e0dc2f392087f9b672017d02b9302dff54e6fc5e
 canonical: 8012-hannon-armstrong-best-esg-sustainable-investment-strategy-usa-2020.json
 ---
