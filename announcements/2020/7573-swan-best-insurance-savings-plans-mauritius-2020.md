@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921103353
+wayback_snapshot_url: "http://web.archive.org/web/20210921103353/https://cfi.co/awards/africa/2020/swan-best-insurance-savings-plans-mauritius-2020/"
 content_sha256: 3a60379408f5ad700fd4d53bbb8152543a82a5bd04163e4bc1510bbaea54dd11
 canonical: 7573-swan-best-insurance-savings-plans-mauritius-2020.json
 ---

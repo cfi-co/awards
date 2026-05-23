@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921103353",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921103353/https://cfi.co/awards/africa/2020/swan-best-insurance-savings-plans-mauritius-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7574\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/SWAN.jpg\" alt=\"SWAN\" width=\"400\" height=\"114\" />\r\n<p style=\"text-align: justify;\">SWAN, Mauritius’ leading full-service financial solutions provider, puts people at the centre of business. SWAN delivers the complete package of non-banking financial solutions to protect clients and their possessions, provide for their future and make progress towards a plan for prosperity. The group caters to individual and business needs with a four-pillar focus of protect, provide, progress and prosper. Individual SWAN protection plans cover life, health, home, transport and travel, while the business plans include liability and keyman insurance plans, amongst others. SWAN encourages clients to actualise their dreams by setting up savings provisions today to secure tomorrow’s education and retirement goals. The group aims to accompany clients throughout life’s important milestones. SWAN individual and business loans have helped clients achieve personal ambitions, like buying a home or car, as well as professional ones, like launching a start-up or taking the company to the next level. SWAN guides clients towards peace of mind and prosperity with a broad range of wealth management services. The group arms its workforce with extensive onboarding training and continuous professional development to increase engagement and competence, and the team puts in the legwork to stay abreast of market trends and client expectations. Founded in 1855, the group underwent a rebrand in 2015 and now operates via its listed companies, Swan General Ltd and Swan Life Ltd. The CFI.co judging panel is pleased to present SWAN with the 2020 award for Best Insurance &amp; Savings Plans (Mauritius).</p>",
     "content_sha256": "3a60379408f5ad700fd4d53bbb8152543a82a5bd04163e4bc1510bbaea54dd11",
-    "record_sha256": "afd6d15fce6437b8e2b67c845389c15d9a495f35755a596b1fc63d7ffc728c41"
+    "record_sha256": "e75a95f573630d288250d5f1080572f9ac7910f256071ef799673d85def4fcad"
 }
