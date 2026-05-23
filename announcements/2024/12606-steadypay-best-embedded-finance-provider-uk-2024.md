@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250907050102
+wayback_snapshot_url: "http://web.archive.org/web/20250907050102/https://cfi.co/awards/europe/2024/steadypay-best-embedded-finance-provider-uk-2024/"
 content_sha256: 0605f831978ba5c189b8bb92e40c0cbab8d1ab4a8f88fc1f5542809d2f26a0ba
 canonical: 12606-steadypay-best-embedded-finance-provider-uk-2024.json
 ---
