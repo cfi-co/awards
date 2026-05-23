@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207214626
+wayback_snapshot_url: "http://web.archive.org/web/20211207214626/https://cfi.co/awards/africa/2021/egyptian-banking-institute-best-financial-training-institute-mena-2021/"
 content_sha256: 14b032b10edb9cccf75b85218d4ffbe3dcfc230b0b43bf66770688b0d1d4e48a
 canonical: 9897-egyptian-banking-institute-best-financial-training-institute-mena-2021.json
 ---
