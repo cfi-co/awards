@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094605
+wayback_snapshot_url: "http://web.archive.org/web/20190426094605/https://cfi.co/awards/customer-satisfaction/2018/club-med-best-leisure-experience-europe-2018/"
 content_sha256: ea594286e6d207ef657f9dafe6ab261d4781b3560b3a449160a7bbd2e97a4bc7
 canonical: 5810-club-med-best-leisure-experience-europe-2018.json
 ---
