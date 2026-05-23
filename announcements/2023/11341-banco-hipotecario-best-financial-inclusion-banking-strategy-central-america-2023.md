@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603011524
+wayback_snapshot_url: "http://web.archive.org/web/20230603011524/https://cfi.co/awards/banking/2023/banco-hipotecario-best-financial-inclusion-banking-strategy-central-america-2023/"
 content_sha256: aad6f696ffb86e641fddc8feb120e74e090dfbe7ccef7bc334ea8795adc2f1f1
 canonical: 11341-banco-hipotecario-best-financial-inclusion-banking-strategy-central-america-2023.json
 ---
