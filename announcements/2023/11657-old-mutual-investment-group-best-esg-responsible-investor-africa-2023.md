@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251108161242
+wayback_snapshot_url: "http://web.archive.org/web/20251108161242/https://cfi.co/awards/africa/2023/old-mutual-investment-group-best-esg-responsible-investor-africa-2023/"
 content_sha256: 0faf5df4f45469df6012b528950f250997ddab0037d0d8ab4dd4d3b5527c9fc3
 canonical: 11657-old-mutual-investment-group-best-esg-responsible-investor-africa-2023.json
 ---
