@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928190224
+wayback_snapshot_url: "http://web.archive.org/web/20220928190224/https://cfi.co/awards/banking/2022/csob-private-banking-best-private-banking-services-czech-republic-2022/"
 content_sha256: 9e54085be6a879faf653b350ed5840822276f5c81de4ba480de2807d9ee927a8
 canonical: 10647-csob-private-banking-best-private-banking-services-czech-republic-2022.json
 ---
