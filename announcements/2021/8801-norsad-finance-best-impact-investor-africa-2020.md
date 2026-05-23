@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210204142006
+wayback_snapshot_url: "http://web.archive.org/web/20210204142006/https://cfi.co/awards/africa/2021/norsad-finance-best-impact-investor-africa-2020/"
 content_sha256: 7ffb868887aa803a42dfca995822d7c94c0ab4e05a02694b90e20ee58a01e9f0
 canonical: 8801-norsad-finance-best-impact-investor-africa-2020.json
 ---
