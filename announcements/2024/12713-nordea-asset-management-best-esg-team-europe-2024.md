@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207063645
+wayback_snapshot_url: "http://web.archive.org/web/20241207063645/https://cfi.co/awards/europe/2024/nordea-asset-management-best-esg-team-europe-2024/"
 content_sha256: 17b50ca4b812c74ea0a29c5d705b6101652439e0bd20d9de18bd3e3c2499b7e7
 canonical: 12713-nordea-asset-management-best-esg-team-europe-2024.json
 ---
