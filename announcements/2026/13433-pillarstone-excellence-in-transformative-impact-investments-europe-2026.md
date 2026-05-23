@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 91b0574f80da1e29cbeb87e6b8c1487b9058e17d9c7cd2b654e60fab4786cbc8
 canonical: 13433-pillarstone-excellence-in-transformative-impact-investments-europe-2026.json
 ---
