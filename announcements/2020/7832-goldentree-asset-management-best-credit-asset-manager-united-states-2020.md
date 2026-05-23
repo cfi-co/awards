@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810090416
+wayback_snapshot_url: "http://web.archive.org/web/20200810090416/https://cfi.co/awards/north-america/2020/goldentree-asset-management-best-credit-asset-manager-united-states-2020/"
 content_sha256: ab6420f2f920beef57beb0a3792cc4a3968c2f05f651d4581dae4964bc05ea14
 canonical: 7832-goldentree-asset-management-best-credit-asset-manager-united-states-2020.json
 ---
