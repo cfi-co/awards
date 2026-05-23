@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225143209
+wayback_snapshot_url: "http://web.archive.org/web/20240225143209/https://cfi.co/awards/middle-east/2024/bank-al-etihad-best-sme-growth-bank-middle-east-2023/"
 content_sha256: 7d5d0883995bffb824165e4d3770ae8b5846f19b9ece5f5c1afcb64916944ce8
 canonical: 12227-bank-al-etihad-best-sme-growth-bank-middle-east-2023.json
 ---
