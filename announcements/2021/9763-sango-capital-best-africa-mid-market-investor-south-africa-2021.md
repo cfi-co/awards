@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207215959
+wayback_snapshot_url: "http://web.archive.org/web/20211207215959/https://cfi.co/awards/africa/2021/sango-capital-best-africa-mid-market-investor-south-africa-2021/"
 content_sha256: 824024d84bcc51dcd8fe957d0856f3f57419ff43434e4437413db85cdd95c290
 canonical: 9763-sango-capital-best-africa-mid-market-investor-south-africa-2021.json
 ---
