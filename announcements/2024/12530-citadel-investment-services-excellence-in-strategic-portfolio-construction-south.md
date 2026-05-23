@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124135456
+wayback_snapshot_url: "http://web.archive.org/web/20250124135456/https://cfi.co/awards/finance/2024/citadel-investment-services-excellence-in-strategic-portfolio-construction-south-africa-2024/"
 content_sha256: b46020a989dd0a6b03ac15423b5f6cea3fcdf6be954d8d2c2ef41d9b9a4105f9
 canonical: 12530-citadel-investment-services-excellence-in-strategic-portfolio-construction-south.json
 ---
