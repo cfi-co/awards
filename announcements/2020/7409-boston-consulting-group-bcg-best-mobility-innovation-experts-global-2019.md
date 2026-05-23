@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200707223222
+wayback_snapshot_url: "http://web.archive.org/web/20200707223222/https://cfi.co/awards/industries/2020/boston-consulting-group-bcg-best-mobility-innovation-experts-global-2019/"
 content_sha256: b745f347f9d183230e02b2991484f85a16b28a51dce14ea7cd9eab8ff6b2ced3
 canonical: 7409-boston-consulting-group-bcg-best-mobility-innovation-experts-global-2019.json
 ---
