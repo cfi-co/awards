@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820141516
+wayback_snapshot_url: "http://web.archive.org/web/20190820141516/https://cfi.co/awards/industries/2019/b2b-gaming-services-best-online-gaming-platform-solutions-europe-2019/"
 content_sha256: a03681bb58e592d13f9d54d853f93f62fc7c61f8b3dc1412cc294a792f8afa59
 canonical: 6816-b2b-gaming-services-best-online-gaming-platform-solutions-europe-2019.json
 ---
