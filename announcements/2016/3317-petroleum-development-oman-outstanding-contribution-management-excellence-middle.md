@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250615001039
+wayback_snapshot_url: "http://web.archive.org/web/20250615001039/https://cfi.co/awards/middle-east/2016/petroleum-development-oman-outstanding-contribution-management-excellence-middle-east-2016/"
 content_sha256: 7b1588aefbff08ceef268f8faf709df61711a27c51cd438fe024e226476ccdfc
 canonical: 3317-petroleum-development-oman-outstanding-contribution-management-excellence-middle.json
 ---
