@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241005093310
+wayback_snapshot_url: "http://web.archive.org/web/20241005093310/https://cfi.co/awards/asia-pacific/2023/la-trobe-financial-best-investment-management-team-australia-2023/"
 content_sha256: 7c1e1ead72aceaf984e13632d791c949cef7e7ba2b128bc740732f675169af7e
 canonical: 11536-la-trobe-financial-best-investment-management-team-australia-2023.json
 ---
