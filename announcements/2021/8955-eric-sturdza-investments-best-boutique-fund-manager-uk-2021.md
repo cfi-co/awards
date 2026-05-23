@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418055922
+wayback_snapshot_url: "http://web.archive.org/web/20210418055922/https://cfi.co/awards/europe/2021/eric-sturdza-investments-best-boutique-fund-manager-uk-2021/"
 content_sha256: f3f5225a3cfa3b700cc9fd552b37351e71f4596d59e870823852cb145a15143e
 canonical: 8955-eric-sturdza-investments-best-boutique-fund-manager-uk-2021.json
 ---
