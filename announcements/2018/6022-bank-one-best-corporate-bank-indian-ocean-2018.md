@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b94e7a6f76b1f2f4817c1aed3ffb7d0889d641280ca4ee1eebf0f98fa3a8c1c7
 canonical: 6022-bank-one-best-corporate-bank-indian-ocean-2018.json
 ---
