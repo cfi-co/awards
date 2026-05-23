@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426110123
+wayback_snapshot_url: "http://web.archive.org/web/20190426110123/https://cfi.co/awards/asia-pacific/2018/credit-bank-of-moscow-cbm-best-banking-corporate-governance-russia-2018/"
 content_sha256: 3fad203982e608d068dee1776cedcf082b1adcc6dd260b5f2e0483894460b29b
 canonical: 5733-credit-bank-of-moscow-cbm-best-banking-corporate-governance-russia-2018.json
 ---
