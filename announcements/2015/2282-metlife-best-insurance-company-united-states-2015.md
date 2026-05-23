@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820014543
+wayback_snapshot_url: "http://web.archive.org/web/20190820014543/https://cfi.co/awards/north-america/2015/metlife-best-insurance-company-united-states-2015/"
 content_sha256: cb988c4ad1e39c08d47e333c8328c95d9280499013b7b6d0734f1aa56cf9dc99
 canonical: 2282-metlife-best-insurance-company-united-states-2015.json
 ---
