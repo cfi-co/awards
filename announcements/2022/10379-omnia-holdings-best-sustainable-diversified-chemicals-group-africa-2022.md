@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630130017
+wayback_snapshot_url: "http://web.archive.org/web/20220630130017/https://cfi.co/awards/africa/2022/omnia-holdings-best-sustainable-diversified-chemicals-group-africa-2022/"
 content_sha256: ce26c7c4a57c9a8588e8f82944bd06e3da2f83e522d4a8152a569bfa4155b3da
 canonical: 10379-omnia-holdings-best-sustainable-diversified-chemicals-group-africa-2022.json
 ---
