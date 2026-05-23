@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: e0f39f4d9341f52dc98902ecf97e2ed9621c62b0f5cc101d4b6ecb1ce07b537a
 canonical: 3279-bankaool-best-sme-bank-mexico-2016.json
 ---
