@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 750b6ae0b32b7b58be68f9cfbc2be9aeb8387336f1a1883e0967d7b7601bf4eb
 canonical: 1015-cambodia-award-winner-vattanac-good-corporate-governance-brings-growth.json
 ---
