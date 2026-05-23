@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260210022842
+wayback_snapshot_url: "http://web.archive.org/web/20260210022842/https://cfi.co/awards/development/2026/cabei-outstanding-contribution-to-economic-development-latin-america-2025/"
 content_sha256: 8f2d64955964513345588b6daa2f2ebe13919ca17c5f1adbe48b8b9469a39f12
 canonical: 13276-cabei-outstanding-contribution-to-economic-development-latin-america-2025.json
 ---
