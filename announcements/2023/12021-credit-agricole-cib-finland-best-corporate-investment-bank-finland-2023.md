@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206181920
+wayback_snapshot_url: "http://web.archive.org/web/20231206181920/https://cfi.co/awards/banking/2023/credit-agricole-cib-finland-best-corporate-investment-bank-finland-2023/"
 content_sha256: cdbdb4d8ad6b043c42e5f60c2f5ca2f74c6549fd48163f6e7f18fd38f343795c
 canonical: 12021-credit-agricole-cib-finland-best-corporate-investment-bank-finland-2023.json
 ---
