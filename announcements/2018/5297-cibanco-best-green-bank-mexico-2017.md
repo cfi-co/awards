@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820011742
+wayback_snapshot_url: "http://web.archive.org/web/20190820011742/https://cfi.co/awards/latin-america/2018/cibanco-best-green-bank-mexico-2017/"
 content_sha256: 8233b73ae0ce122d7652aede8e5a1255c166778710205411f98034b046117234
 canonical: 5297-cibanco-best-green-bank-mexico-2017.json
 ---
