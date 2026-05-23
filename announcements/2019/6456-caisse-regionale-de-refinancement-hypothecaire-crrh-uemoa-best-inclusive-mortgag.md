@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 93d379f455a9eaaa07e507a31fa3ac3089ad19fd3277af2f891c167e3181e637
 canonical: 6456-caisse-regionale-de-refinancement-hypothecaire-crrh-uemoa-best-inclusive-mortgag.json
 ---
