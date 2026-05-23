@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630135613
+wayback_snapshot_url: "http://web.archive.org/web/20220630135613/https://cfi.co/awards/north-america/2022/renaissance-investment-management-best-small-cap-investment-solutions-usa-2021/"
 content_sha256: fd4b754e8f10d85501ce7a950ed56db42213f6d0440f3200462cf1a9b8c8368c
 canonical: 10189-renaissance-investment-management-best-small-cap-investment-solutions-usa-2021.json
 ---
