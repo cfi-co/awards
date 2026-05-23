@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603012553
+wayback_snapshot_url: "http://web.archive.org/web/20230603012553/https://cfi.co/awards/front/2023/applied-science-private-university-best-university-internationalisation-strategy-middle-east-2023/"
 content_sha256: 1850d0dfa96a2d24ebdf2633ef07de7ea149e746838857da48ab12af38e4d93d
 canonical: 11345-applied-science-private-university-best-university-internationalisation-strategy.json
 ---
