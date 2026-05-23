@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 933c84c76f08d489ad6faa1aa8906a78d9179ac2b02b115e36051b1e62d0303a
 canonical: 12793-jadara-university-best-university-in-the-middle-east-in-preparing-graduates-for-.json
 ---
