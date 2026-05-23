@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 1eecdc51c75ec8f2ac60a7fa7550cc2b585d3b239ae4f23e26e24ba91b3a210e
 canonical: 7569-efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2019.json
 ---
