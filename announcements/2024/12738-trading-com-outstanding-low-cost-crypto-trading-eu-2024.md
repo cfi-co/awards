@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e65e2b7b95d1da0bd50fc44ff355105d591f495ae18bc7c800a08f0cd35d6582
 canonical: 12738-trading-com-outstanding-low-cost-crypto-trading-eu-2024.json
 ---
