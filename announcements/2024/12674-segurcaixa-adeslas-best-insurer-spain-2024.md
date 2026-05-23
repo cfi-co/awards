@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241112180846
+wayback_snapshot_url: "http://web.archive.org/web/20241112180846/https://cfi.co/awards/europe/2024/segurcaixa-adeslas-best-insurer-spain-2024/"
 content_sha256: 7b836e05e9fde1afe37b051908a32246976fa1f9d38265d7dccb7243dc8c044c
 canonical: 12674-segurcaixa-adeslas-best-insurer-spain-2024.json
 ---
