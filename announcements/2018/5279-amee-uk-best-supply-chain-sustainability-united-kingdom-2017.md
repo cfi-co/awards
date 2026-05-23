@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921103723
+wayback_snapshot_url: "http://web.archive.org/web/20210921103723/https://cfi.co/awards/europe/2018/amee-uk-best-supply-chain-sustainability-united-kingdom-2017/"
 content_sha256: 5726b44e9e17f4704deaa9eb3ee7d04829bfdd053b412d63b08f4ebeee0f9f66
 canonical: 5279-amee-uk-best-supply-chain-sustainability-united-kingdom-2017.json
 ---
