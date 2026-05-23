@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e5d64efbe24b1888074b66e7f28bca5f326f5c02b8136c1d2d945b34fdb9f50c
 canonical: 5255-concord-international-investments-group-best-asset-manager-egypt-2016.json
 ---
