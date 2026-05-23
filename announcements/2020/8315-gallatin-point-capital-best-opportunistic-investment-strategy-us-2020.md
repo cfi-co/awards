@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203220938
+wayback_snapshot_url: "http://web.archive.org/web/20201203220938/https://cfi.co/awards/north-america/2020/gallatin-point-capital-best-opportunistic-investment-strategy-us-2020/"
 content_sha256: 6552a71eb6b47cb7293a56532fcd789fcacc21d3d17667faa1b23a5e5b6e65f4
 canonical: 8315-gallatin-point-capital-best-opportunistic-investment-strategy-us-2020.json
 ---
