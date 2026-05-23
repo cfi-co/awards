@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 25e6fe45665e71a8479bcbc9be844b7a5c9856468881dc07c2d81f3f97acedda
 canonical: 5924-asia-plantation-capital-best-sustainable-forestry-management-company-global-2018.json
 ---
