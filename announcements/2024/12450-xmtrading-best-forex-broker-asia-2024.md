@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241015051509
+wayback_snapshot_url: "http://web.archive.org/web/20241015051509/https://cfi.co/awards/finance/exchanges-brokers/2024/xmtrading-best-forex-broker-asia-2024/"
 content_sha256: 6443e1c3a3ba7a85d0cd52a7c55dbf138bb48d99366678d283d45b25ea201e49
 canonical: 12450-xmtrading-best-forex-broker-asia-2024.json
 ---
