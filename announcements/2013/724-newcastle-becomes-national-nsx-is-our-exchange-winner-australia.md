@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20130828100351
+wayback_snapshot_url: "http://web.archive.org/web/20130828100351/http://cfi.co/awards/finance/2013/newcastle-becomes-national-nsx-is-our-exchange-winner-australia/"
 content_sha256: 2dab65082b39a11119bf592321bbbd7fc8eb7b320d1c3d868a2a702f4b4871c7
 canonical: 724-newcastle-becomes-national-nsx-is-our-exchange-winner-australia.json
 ---
