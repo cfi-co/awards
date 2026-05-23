@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923172057
+wayback_snapshot_url: "http://web.archive.org/web/20230923172057/https://cfi.co/awards/europe/2023/renaio-assets-gmbh-outstanding-contribution-to-energy-transition-europe-2023/"
 content_sha256: 4a46383c8a8f553d3e86199df9720ea13d076252fbdaef695a6b2a871c635edb
 canonical: 11724-renaio-assets-gmbh-outstanding-contribution-to-energy-transition-europe-2023.json
 ---

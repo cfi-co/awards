@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230923172057",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230923172057/https://cfi.co/awards/europe/2023/renaio-assets-gmbh-outstanding-contribution-to-energy-transition-europe-2023/"
     },
     "excerpt": "",
     "content_html": "[video width=\"1920\" height=\"1080\" mp4=\"https://cfi.co/awards/wp-content/uploads/2023/08/RENAIO-Assets-GmbH-1.mp4\"][/video]\r\n\r\n&nbsp;\r\n<p style=\"text-align: justify;\">Hydropower is key to the acceleration and diversification of the world’s energy transition. RENAIO Assets GmbH, one of the leading hydropower asset managers in Europe, forms part of an owner-managed group specialising in the operation and financing of infrastructure and renewable energy projects. RENAIO Assets GmbH was founded in 2019 and headquartered in <a href=\"https://cfi.co/countries/germany/\">Germany</a>. It’s driven by seasoned experts and idealistic young talent with backgrounds in sustainable investing, engineering and technical fields. The partners have around 25 to 30 years of experience working in capital markets. RENAIO oversees 24 hydroelectric power plants in Germany, <a href=\"https://cfi.co/countries/austria/\">Austria</a>, <a href=\"https://cfi.co/countries/italy/\">Italy</a> and <a href=\"https://cfi.co/countries/poland/\">Poland</a>. Its operations provide more than 43,700 families with clean electricity, saving nearly 81,820 tons in carbon emissions. It has a penchant for converting underperforming hydropower plants into high-efficiency operations through software and tech improvements. RENAIO’s investments, interventions and supervision resulted in a 20-percent efficiency boost. Citing the vast availability and falling costs of renewable energies, RENAIO argues that power production has no need to negatively impact the environment. It combines strong due diligence with financial and technical expertise to create value for investors as well as hope for the future. RENAIO launched an open-ended hydropower fund to increase participation among medium-sized and smaller institutional investors. The fund is an <a href=\"https://sifted.eu/articles/article-8-article-9-venture-capital-sfdr\" target=\"_blank\" rel=\"noopener\">Article-9 investment</a> and allows for the acquisition of new shares on a quarterly basis. The CFI.co judging panel announces RENAIO Assets GmbH as the 2023 award winner for Outstanding Contribution to Energy Transition (Europe).</p>",
     "content_sha256": "4a46383c8a8f553d3e86199df9720ea13d076252fbdaef695a6b2a871c635edb",
-    "record_sha256": "fcef22ca55bb350dcbc5254b016cd3adc2ce3ebe18f86c53be5b77393e149eb7"
+    "record_sha256": "5e81f9c541b8bc54ec13694bb0343cce1e062c8515882c89bc199ad9c106c311"
 }
