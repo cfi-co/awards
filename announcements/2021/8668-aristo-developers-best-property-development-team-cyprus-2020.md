@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724022234
+wayback_snapshot_url: "http://web.archive.org/web/20210724022234/https://cfi.co/awards/europe/2021/aristo-developers-best-property-development-team-cyprus-2020/"
 content_sha256: 7987414c21c748120b97643032f009223c634fd43aa0183316e86367ec8a0bd8
 canonical: 8668-aristo-developers-best-property-development-team-cyprus-2020.json
 ---
