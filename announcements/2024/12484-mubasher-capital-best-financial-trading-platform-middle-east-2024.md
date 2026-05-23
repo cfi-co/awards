@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240815053402
+wayback_snapshot_url: "http://web.archive.org/web/20240815053402/https://cfi.co/awards/middle-east/2024/mubasher-capital-best-financial-trading-platform-middle-east-2024/"
 content_sha256: f2691ed69c369d8fbbcabd71b46e472018f9a70db840f447ebd76b06c9a72c7b
 canonical: 12484-mubasher-capital-best-financial-trading-platform-middle-east-2024.json
 ---
