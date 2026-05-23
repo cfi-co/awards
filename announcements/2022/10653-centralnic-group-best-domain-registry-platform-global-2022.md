@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9ba149b035ead0da2a0a85b08f0f86cb414b03096e0bca44ac607d0a0d6a62d9
 canonical: 10653-centralnic-group-best-domain-registry-platform-global-2022.json
 ---
