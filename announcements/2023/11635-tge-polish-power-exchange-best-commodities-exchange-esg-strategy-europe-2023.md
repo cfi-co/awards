@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251108155954
+wayback_snapshot_url: "http://web.archive.org/web/20251108155954/https://cfi.co/awards/europe/2023/tge-polish-power-exchange-best-commodities-exchange-esg-strategy-europe-2023/"
 content_sha256: eac3f532c4c21206d0fd303c643ad70d7d90988d31c79dfaac90e0fc505642fb
 canonical: 11635-tge-polish-power-exchange-best-commodities-exchange-esg-strategy-europe-2023.json
 ---
