@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921112024
+wayback_snapshot_url: "http://web.archive.org/web/20210921112024/https://cfi.co/awards/europe/2020/investbulgaria-agency-best-investment-promotion-team-cee-2019/"
 content_sha256: d824d6324bd22e57b7e77b5edfc40c065b272d038e34cb53b300ccf891aff9d5
 canonical: 7587-investbulgaria-agency-best-investment-promotion-team-cee-2019.json
 ---
