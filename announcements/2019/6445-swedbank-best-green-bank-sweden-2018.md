@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: fa87665902cfea96d15178f0e813d28a5e1fa9b6c85ae6a0cf6d826464d87190
 canonical: 6445-swedbank-best-green-bank-sweden-2018.json
 ---
