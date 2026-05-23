@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507123004
+wayback_snapshot_url: "http://web.archive.org/web/20190507123004/https://cfi.co/awards/europe/2019/pictet-best-thematic-investing-solutions-global-2018/"
 content_sha256: cd150ee990e07ebec8a2f7bd2ecda4385c0dd6469cc4bc9516ff701f95f78867
 canonical: 6561-pictet-best-thematic-investing-solutions-global-2018.json
 ---
