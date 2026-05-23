@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921113209
+wayback_snapshot_url: "http://web.archive.org/web/20210921113209/https://cfi.co/awards/finance/2017/yapi-kredi-leasing-best-energy-savings-finance-turkey-2017/"
 content_sha256: dfef3807d7db4a382d3d29dfbd57ee6d1907e488e182981c514d0091c0d00473
 canonical: 4215-yapi-kredi-leasing-best-energy-savings-finance-turkey-2017.json
 ---
