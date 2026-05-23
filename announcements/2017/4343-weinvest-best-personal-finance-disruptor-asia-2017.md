@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190428093730
+wayback_snapshot_url: "http://web.archive.org/web/20190428093730/https://cfi.co/awards/asia-pacific/2017/weinvest-best-personal-finance-disruptor-asia-2017/"
 content_sha256: 640f187a5afb8cfd6ba9dd9222d44c7d4323c43d6a4583531140f070b52e2528
 canonical: 4343-weinvest-best-personal-finance-disruptor-asia-2017.json
 ---
