@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220119065158
+wayback_snapshot_url: "http://web.archive.org/web/20220119065158/https://cfi.co/awards/africa/2022/exxaro-resources-best-sustainable-mining-leadership-south-africa-2021/"
 content_sha256: d52aacce296dce6f990712f2c63d00264d0773b2e93d340ef1e92b18df00dcee
 canonical: 9951-exxaro-resources-best-sustainable-mining-leadership-south-africa-2021.json
 ---
