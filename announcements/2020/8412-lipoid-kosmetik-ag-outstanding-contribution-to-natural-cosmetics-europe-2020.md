@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203231715
+wayback_snapshot_url: "http://web.archive.org/web/20201203231715/https://cfi.co/awards/europe/2020/lipoid-kosmetik-ag-outstanding-contribution-to-natural-cosmetics-europe-2020/"
 content_sha256: 10e1869900ed50711747108e5c7ec99ed8b4055c15a6de57387fd57f5df5ce8d
 canonical: 8412-lipoid-kosmetik-ag-outstanding-contribution-to-natural-cosmetics-europe-2020.json
 ---
