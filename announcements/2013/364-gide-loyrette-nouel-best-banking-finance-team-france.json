@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210924124225",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210924124225/https://cfi.co/awards/europe/2013/gide-loyrette-nouel-best-banking-finance-team-france/"
     },
     "excerpt": "",
     "content_html": "<img class=\" wp-image-365 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/gln.jpg\" alt=\"gln\" width=\"157\" height=\"106\" />\r\n<p style=\"text-align: justify;\"><strong>The judging panel has drawn attention to the outstanding negotiation skills of this firm’s banking and finance group, and Gide Loyrette Nouel is our 2013 winner in France</strong>.</p>\r\n<p style=\"text-align: justify;\">Founded in 1920, the firm now has 600 lawyers operating throughout the world. Last year GLN advised HSBC France on the first mortgage bond to be list on Euronext, Paris.</p>",
     "content_sha256": "261ea21bc73255c04b4fb76afb29ecdb51df1959a2668145a934557e53c3416d",
-    "record_sha256": "ab621f12747ca6d9e0077eb20795b88d630436837c66dec11a0a09affc15fb07"
+    "record_sha256": "ef0010f20cf82dad67805d974c424884dacace5ac0f9da185100f03eccb8a92c"
 }
