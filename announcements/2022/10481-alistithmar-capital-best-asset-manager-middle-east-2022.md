@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630142036
+wayback_snapshot_url: "http://web.archive.org/web/20220630142036/https://cfi.co/awards/middle-east/2022/alistithmar-capital-best-asset-manager-middle-east-2022/"
 content_sha256: bf1366ef736659f6ee5723e400fc9e5193b5d2a36614e386007df7090d580a7c
 canonical: 10481-alistithmar-capital-best-asset-manager-middle-east-2022.json
 ---
