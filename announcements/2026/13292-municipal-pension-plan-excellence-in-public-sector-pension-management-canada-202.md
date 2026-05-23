@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315115411
+wayback_snapshot_url: "http://web.archive.org/web/20260315115411/https://cfi.co/awards/north-america/2026/municipal-pension-plan-excellence-in-public-sector-pension-management-canada-2025/"
 content_sha256: 3dce68d92816f5473a5ffdb3d879c03c6c7991eb79637811b247f5ab5cd0f9b4
 canonical: 13292-municipal-pension-plan-excellence-in-public-sector-pension-management-canada-202.json
 ---
