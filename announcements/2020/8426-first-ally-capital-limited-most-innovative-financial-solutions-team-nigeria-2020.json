@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201203223220",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203223220/https://cfi.co/awards/africa/2020/first-ally-capital-limited-most-innovative-financial-solutions-team-nigeria-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8427\" src=\"https://cfi.co/awards/wp-content/uploads/2020/11/First-Ally-Nigeria.jpg\" alt=\"First Ally Nigeria\" width=\"239\" height=\"298\" />\r\n\r\nFirst Ally Capital Limited (FACL) has assembled a niche team with over 80 years of combined professional experience across diverse backgrounds and disciplines. The Nigerian issuing house and financial advisory firm boasts an authorised share capital of $6.6m and an issued and fully paid-up capital of $5m. FACL values its people and invests considerable resources in the recruitment, retention and development of a dynamic workforce. The team pulls together to fulfil the firm’s commitment to strong financial partnerships, with innovative solutions to create opportunity and foster growth. It assists clients to raise financing on capital markets, underwrites securities risks, and advises on M&amp;A activities and corporate finance. The FACL crew quickly adjusted to remote working routines during the lockdown, responding with resilient efficacy throughout. FACL welcomed staff into its new corporate headquarters this July, and the change of scenery has reinvigorated team morale and motivation. The FACL website has also undergone an upgrade, featuring enhanced capabilities and a streamlined look. In addition to FACL issuing and advisory services, the site introduces clients to FACL subsidiaries that specialise in asset management, microfinance banking, foreign exchange services and property investment, development and management. FACL’s microfinance subsidiary empowers clients with transformative and inclusive solutions that are accessible via mobile app and online banking platform. The CFI.co judging panel announces First Ally Capital as the winner of the Most Innovative Financial Solutions Team (Nigeria) award — for the second consecutive year.",
     "content_sha256": "69ccff5da9209f568403c883bd6b3fcefffdc1f4666fbf26a55933248b43e750",
-    "record_sha256": "6acca03a0b09330fea70d6e6b571a092d7064d11ffbeed8ee03bb4b07749a0ec"
+    "record_sha256": "fde1888c098ef297c845d02346fa9fdefa60ef254f23583d8411fb4966159043"
 }
