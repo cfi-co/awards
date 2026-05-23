@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250430155106",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250430155106/https://cfi.co/awards/banking/2014/cfi-co-announces-2014-womens-banking-team-award-to-westpac/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1330\" src=\"https://cfi.co/awards/wp-content/uploads/2014/09/w.jpg\" alt=\"w\" width=\"517\" height=\"97\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Westpac’s ‘Women’s Markets Team’ is unique in the Australian banking industry, providing clients with strong networking opportunities as well as significant education and information resources.</strong></p>\r\n<p style=\"text-align: justify;\">According to the CFI.co Judging Panel, ’Westpac further supports women in the community in a variety of meaningful ways that show concern for their rights, economic empowerment, healthcare and self-sufficiency - not only in Australia but throughout the world. We are delighted to confirm Westpac Bank as Best Women’s Banking Team, Australasia, 2014. This is the longest established bank in Australia, arguably the first to recognise the importance of women’s contribution to the economy and an organisation that benefits significantly from the banking activities of its female clients.’</p>",
     "content_sha256": "b9d665388328bced973dbe909b738bdd462bc72a502a1eeb89c753c5c68008ac",
-    "record_sha256": "78c27f455188082a552e930b19fbcf4cecac9f234161bf4db1dc89face5d2714"
+    "record_sha256": "1424e79a11cd023a6a27b815ecce7e19bf2cc3fa30e5d92076084e3e1d52df6b"
 }
