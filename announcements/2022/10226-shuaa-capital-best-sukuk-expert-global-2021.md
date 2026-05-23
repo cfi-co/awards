@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 4a20a0e1b3312f2dfad838e87890992b42f08be16e50b92bf8afdaf563bf3ae8
 canonical: 10226-shuaa-capital-best-sukuk-expert-global-2021.json
 ---
