@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823050256
+wayback_snapshot_url: "http://web.archive.org/web/20190823050256/https://cfi.co/awards/middle-east/2016/saeed-mohammed-al-tayer-outstanding-contribution-to-local-employment-gcc-2016/"
 content_sha256: 2797193c8f0b90181d7ea8bcf40afe19c69a138271d6c3306b776b848d9e7cd1
 canonical: 5373-saeed-mohammed-al-tayer-outstanding-contribution-to-local-employment-gcc-2016.json
 ---
