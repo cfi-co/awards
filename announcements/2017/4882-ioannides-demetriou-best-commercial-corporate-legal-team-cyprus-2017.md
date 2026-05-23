@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 28beed54b13082381cc112b3dd5628af93ee0b1745d52bfce960c5f3c8e06f69
 canonical: 4882-ioannides-demetriou-best-commercial-corporate-legal-team-cyprus-2017.json
 ---
