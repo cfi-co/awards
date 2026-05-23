@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f14e41d06899aff24f2c4e893a183b064cfca4be4c8ef99152f5554da39ec29c
 canonical: 6994-manulife-investment-management-best-esg-team-north-america-2019.json
 ---
