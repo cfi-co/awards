@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bb28137a2954286f3f2ee29287192bc80d517acb3d9516c51cb2e74d17e72b6c
 canonical: 1009-amaar-is-the-cfi-real-estate-developer-award-winner-in-palestine.json
 ---
