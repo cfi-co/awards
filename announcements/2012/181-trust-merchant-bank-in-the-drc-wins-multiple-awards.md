@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140209125607
+wayback_snapshot_url: "http://web.archive.org/web/20140209125607/http://cfi.co/awards/africa/2012/trust-merchant-bank-in-the-drc-wins-multiple-awards/"
 content_sha256: 55db0234607a892f715d7a2ee08a2b9d660178941105fdc0fe732649e95c69be
 canonical: 181-trust-merchant-bank-in-the-drc-wins-multiple-awards.json
 ---
