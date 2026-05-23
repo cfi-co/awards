@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614180256
+wayback_snapshot_url: "http://web.archive.org/web/20210614180256/https://cfi.co/awards/europe/2021/bp-plc-best-esg-oil-gas-operator-global-2021/"
 content_sha256: 56dab3401f2615fe8399bd1841b913deaab3932a42d70eb6e39b41f19b9b9806
 canonical: 9145-bp-plc-best-esg-oil-gas-operator-global-2021.json
 ---
