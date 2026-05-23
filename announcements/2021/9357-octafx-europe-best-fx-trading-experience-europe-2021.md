@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210725051612
+wayback_snapshot_url: "http://web.archive.org/web/20210725051612/https://cfi.co/awards/europe/2021/octafx-europe-best-fx-trading-experience-europe-2021/"
 content_sha256: e61102abbdcbcd0ba43e966d576b65a226dd30c1d8e082e977579ccfbb4ba3ec
 canonical: 9357-octafx-europe-best-fx-trading-experience-europe-2021.json
 ---
