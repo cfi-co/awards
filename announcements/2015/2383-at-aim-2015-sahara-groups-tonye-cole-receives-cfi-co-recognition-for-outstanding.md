@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c39f7525bac9844b77e51408adcdc31843469623dad8e1abb6e6058b8716709b
 canonical: 2383-at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding.json
 ---
