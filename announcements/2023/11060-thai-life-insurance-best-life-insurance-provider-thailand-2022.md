@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208100453
+wayback_snapshot_url: "http://web.archive.org/web/20230208100453/https://cfi.co/awards/asia-pacific/2023/thai-life-insurance-best-life-insurance-provider-thailand-2022/"
 content_sha256: 0c9aa10d6f3c8beb7aa60a99ffd3bc52a38defd26eaef9e3b773ca92adfe5d96
 canonical: 11060-thai-life-insurance-best-life-insurance-provider-thailand-2022.json
 ---
