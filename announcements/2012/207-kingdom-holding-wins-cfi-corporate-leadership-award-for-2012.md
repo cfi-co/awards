@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 5f238519df0e2d938bbfd7815fc01ae8e2602a4bcf121cdc16c872a9c2292a91
 canonical: 207-kingdom-holding-wins-cfi-corporate-leadership-award-for-2012.json
 ---
