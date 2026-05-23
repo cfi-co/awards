@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614173834
+wayback_snapshot_url: "http://web.archive.org/web/20210614173834/https://cfi.co/awards/middle-east/2021/goren-capital-group-gcg-best-investment-bank-israel-2021/"
 content_sha256: f4c2c0b211dd9a4741bf7b3a710aa8c48a95cb6a14bc84e2f19a0805dfb1998e
 canonical: 9097-goren-capital-group-gcg-best-investment-bank-israel-2021.json
 ---
