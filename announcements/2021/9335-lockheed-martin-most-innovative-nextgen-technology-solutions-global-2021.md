@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210725063255
+wayback_snapshot_url: "http://web.archive.org/web/20210725063255/https://cfi.co/awards/north-america/2021/lockheed-martin-most-innovative-nextgen-technology-solutions-global-2021/"
 content_sha256: 19418197f0a9b777931e156ed3d9c34a10648fa7b122c87d88af526ce688be3c
 canonical: 9335-lockheed-martin-most-innovative-nextgen-technology-solutions-global-2021.json
 ---
