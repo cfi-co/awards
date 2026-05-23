@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924125624
+wayback_snapshot_url: "http://web.archive.org/web/20210924125624/https://cfi.co/awards/europe/2015/credit-mutuel-best-esg-risk-management-team-france-2015/"
 content_sha256: c9986e025410f83799e02249ce475fdd89dd1027750e2d0c79a75ff1a8ba1ce0
 canonical: 6314-credit-mutuel-best-esg-risk-management-team-france-2015.json
 ---
