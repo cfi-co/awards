@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9e89d654dec62f672d789a0d8a220c067fc5920bba6c48214a8eaf15b2d78c08
 canonical: 13253-monte-bravo-innovator-in-private-client-ecosystem-structuring-excellence-brazil-.json
 ---
