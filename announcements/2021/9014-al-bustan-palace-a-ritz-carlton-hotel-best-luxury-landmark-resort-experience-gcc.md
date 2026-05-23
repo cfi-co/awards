@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 4d465c75bd194f49bb7070098967d295efa0faac49df6727131cf2e0bce20c07
 canonical: 9014-al-bustan-palace-a-ritz-carlton-hotel-best-luxury-landmark-resort-experience-gcc.json
 ---
