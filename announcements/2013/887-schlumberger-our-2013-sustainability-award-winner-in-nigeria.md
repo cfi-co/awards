@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409024650
+wayback_snapshot_url: "http://web.archive.org/web/20140409024650/http://cfi.co/awards/africa/2013/schlumberger-our-2013-sustainability-award-winner-in-nigeria/"
 content_sha256: d28e6da31b78f4b51f60ac081ba74d66781145bbdcaa3db0a779eccfc12bd5b7
 canonical: 887-schlumberger-our-2013-sustainability-award-winner-in-nigeria.json
 ---
