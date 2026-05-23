@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120074905
+wayback_snapshot_url: "http://web.archive.org/web/20210120074905/https://cfi.co/awards/asia-pacific/2020/ara-asset-management-best-sustainable-reit-fund-manager-asia-pacific-2020/"
 content_sha256: cdf5dfa453179bb14b371a5644d994af5a68912bd76c8f72445852cf8953f8ec
 canonical: 8530-ara-asset-management-best-sustainable-reit-fund-manager-asia-pacific-2020.json
 ---
