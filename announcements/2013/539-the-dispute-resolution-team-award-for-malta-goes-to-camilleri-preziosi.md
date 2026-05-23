@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bdea7891a39cc1b2f76809ede72ce911b8f868700fe48405acf4add3b975d0bd
 canonical: 539-the-dispute-resolution-team-award-for-malta-goes-to-camilleri-preziosi.json
 ---
