@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250320075722
+wayback_snapshot_url: "http://web.archive.org/web/20250320075722/https://cfi.co/awards/africa/2024/baker-tilly-burj-finance-best-investment-bank-morocco-2024/"
 content_sha256: 2a7a26a08252ec8f337dae5adbc86ccff0387f1cbc39a4c48e8d6d995d0042fe
 canonical: 12345-baker-tilly-burj-finance-best-investment-bank-morocco-2024.json
 ---
