@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724011152
+wayback_snapshot_url: "http://web.archive.org/web/20210724011152/https://cfi.co/awards/latin-america/2015/banco-mercantil-santa-cruz-best-sme-bank-bolivia-2015/"
 content_sha256: 1e37e4cdd763e74d51d52fee6a43c4bd1b9b50a084927e07b4142321464c5760
 canonical: 2605-banco-mercantil-santa-cruz-best-sme-bank-bolivia-2015.json
 ---
