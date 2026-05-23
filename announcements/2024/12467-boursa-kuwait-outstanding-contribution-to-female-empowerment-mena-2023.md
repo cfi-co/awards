@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240815064637
+wayback_snapshot_url: "http://web.archive.org/web/20240815064637/https://cfi.co/awards/community-engagement/2024/boursa-kuwait-outstanding-contribution-to-female-empowerment-mena-2023/"
 content_sha256: 28c42aa0c6b0f9ea9e2ccf657a2c74ceb665be8e7037c0e2a708411957be3d0f
 canonical: 12467-boursa-kuwait-outstanding-contribution-to-female-empowerment-mena-2023.json
 ---
