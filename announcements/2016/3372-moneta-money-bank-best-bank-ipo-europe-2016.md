@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810090342
+wayback_snapshot_url: "http://web.archive.org/web/20200810090342/https://cfi.co/awards/banking/2016/moneta-money-bank-best-bank-ipo-europe-2016/"
 content_sha256: 0adf060add239f4f0e60d145a7b24b73e71c6b07220a7153fffffadad70c804e
 canonical: 3372-moneta-money-bank-best-bank-ipo-europe-2016.json
 ---
