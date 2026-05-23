@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20191119062919
+wayback_snapshot_url: "http://web.archive.org/web/20191119062919/https://cfi.co/awards/asia-pacific/2018/new-world-development-company-best-investor-relations-team-hong-kong-2017/"
 content_sha256: eca5ff2115b01feb8fd0677519c387843a20894b3259a6750c576f3460b9d0d2
 canonical: 5456-new-world-development-company-best-investor-relations-team-hong-kong-2017.json
 ---
