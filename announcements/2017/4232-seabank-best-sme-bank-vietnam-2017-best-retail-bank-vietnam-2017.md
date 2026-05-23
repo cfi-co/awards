@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921104112
+wayback_snapshot_url: "http://web.archive.org/web/20210921104112/https://cfi.co/awards/asia-pacific/2017/seabank-best-sme-bank-vietnam-2017-best-retail-bank-vietnam-2017/"
 content_sha256: b346b43e060060c94d74a70cd363a52d14137a409075a4660ac40608da634a66
 canonical: 4232-seabank-best-sme-bank-vietnam-2017-best-retail-bank-vietnam-2017.json
 ---
