@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200806234109
+wayback_snapshot_url: "http://web.archive.org/web/20200806234109/https://cfi.co/awards/europe/2019/reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2019/"
 content_sha256: af379fd4213d95fe11a0c2e9c93d6a197e851f45e174a61bc24ad9a9b0006e80
 canonical: 7056-reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2019.json
 ---
