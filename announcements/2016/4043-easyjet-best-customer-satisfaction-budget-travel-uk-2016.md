@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921111705
+wayback_snapshot_url: "http://web.archive.org/web/20210921111705/https://cfi.co/awards/industries/2016/easyjet-best-customer-satisfaction-budget-travel-uk-2016/"
 content_sha256: 6f16bf7122226a294b03ff5f76dae8c42fcaeebc1c4ec3b4db92dc9f33d7425a
 canonical: 4043-easyjet-best-customer-satisfaction-budget-travel-uk-2016.json
 ---
