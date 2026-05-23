@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 3d098b704fb91940fb20dcc3021494cdf2b929a5c525d3e0d52e4c28a54e5875
 canonical: 2259-khan-bank-best-sme-bank-mongolia-2015.json
 ---
