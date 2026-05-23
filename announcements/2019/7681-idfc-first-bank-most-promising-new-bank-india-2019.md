@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235732
+wayback_snapshot_url: "http://web.archive.org/web/20201203235732/https://cfi.co/awards/asia-pacific/2019/idfc-first-bank-most-promising-new-bank-india-2019/"
 content_sha256: 6f7ff1c5c6324fa1c4eb22789c83b9944bb06fa965cca32b66be3d817dabd23f
 canonical: 7681-idfc-first-bank-most-promising-new-bank-india-2019.json
 ---
