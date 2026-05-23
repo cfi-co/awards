@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208105714
+wayback_snapshot_url: "http://web.archive.org/web/20230208105714/https://cfi.co/awards/industries/2022/wesco-international-best-sustainable-supply-chain-strategy-us-2022/"
 content_sha256: b7719db746577c3191f6bf811ff81464a8d3408ffaa97779a077f74a3cf5f6ae
 canonical: 11007-wesco-international-best-sustainable-supply-chain-strategy-us-2022.json
 ---
