@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220512150248
+wayback_snapshot_url: "http://web.archive.org/web/20220512150248/https://cfi.co/awards/professional-services/2022/pwc-middle-east-best-business-tax-services-provider-middle-east-2022/"
 content_sha256: 7844bcee20e6c453541934512e0ed9dd030288c72dbe83ac2c7a572341fa0103
 canonical: 10384-pwc-middle-east-best-business-tax-services-provider-middle-east-2022.json
 ---
