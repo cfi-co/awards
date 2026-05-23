@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923104714
+wayback_snapshot_url: "http://web.archive.org/web/20200923104714/https://cfi.co/awards/middle-east/2020/abu-dhabi-global-market-best-international-financial-centre-emea-2020/"
 content_sha256: 24eb56a61e7ec1833dcb0aa45f3d9de7379820085a3e42077b23f4db917db696
 canonical: 8103-abu-dhabi-global-market-best-international-financial-centre-emea-2020.json
 ---
