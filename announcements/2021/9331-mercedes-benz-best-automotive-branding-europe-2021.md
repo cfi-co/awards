@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210725070137
+wayback_snapshot_url: "http://web.archive.org/web/20210725070137/https://cfi.co/awards/europe/2021/mercedes-benz-best-automotive-branding-europe-2021/"
 content_sha256: f80dbe18c070eb715851ae8eddfeeaae0f3900369254adbdd722c09e713fc4c6
 canonical: 9331-mercedes-benz-best-automotive-branding-europe-2021.json
 ---
