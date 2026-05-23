@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210725061050
+wayback_snapshot_url: "http://web.archive.org/web/20210725061050/https://cfi.co/awards/middle-east/2021/national-finance-best-sme-finance-solutions-oman-2021/"
 content_sha256: f7a4241f796a327b8e3d8060c289d5d35e273dace89609ce543086eeb8e637df
 canonical: 9365-national-finance-best-sme-finance-solutions-oman-2021.json
 ---
