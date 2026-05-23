@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921114211
+wayback_snapshot_url: "http://web.archive.org/web/20210921114211/https://cfi.co/awards/europe/2021/camarco-best-corporate-communication-advisory-uk-2020/"
 content_sha256: a200fc3f96e2be320739bb97254e052c1fc9d9df176d197ce037d3f890fd66f9
 canonical: 8655-camarco-best-corporate-communication-advisory-uk-2020.json
 ---
