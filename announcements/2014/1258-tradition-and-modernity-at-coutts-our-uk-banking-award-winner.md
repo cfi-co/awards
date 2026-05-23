@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140811011900
+wayback_snapshot_url: "http://web.archive.org/web/20140811011900/http://cfi.co/awards/europe/2014/tradition-and-modernity-at-coutts-our-uk-banking-award-winner/"
 content_sha256: d661ed96daecd608946fde900cc65fc62c8a68b331f51fa61821147adfae6dbd
 canonical: 1258-tradition-and-modernity-at-coutts-our-uk-banking-award-winner.json
 ---

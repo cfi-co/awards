@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140811011900",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140811011900/http://cfi.co/awards/europe/2014/tradition-and-modernity-at-coutts-our-uk-banking-award-winner/"
     },
     "excerpt": "",
     "content_html": "<a href=\"https://cfi.co/awards/wp-content/uploads/2014/07/coutts.jpg\"><img class=\"aligncenter size-full wp-image-1259\" src=\"https://cfi.co/awards/wp-content/uploads/2014/07/coutts.jpg\" alt=\"coutts\" width=\"350\" height=\"119\" /></a>\r\n\r\n<strong>Coutts &amp; Co, established over three hundred years ago, is very much seen as the bank of the rich and famous. It is owned by the Royal Bank of Scotland and acts as its wealth management division.</strong>\r\n\r\nThe CFI.co Judging Panel, confirming the award ‘Best Private Bank, UK’, points out that, ‘Coutts is doing its clients proud and its reputation for quality service is thoroughly deserved. For a bank so steeped in tradition, Coutts is very innovative and is certainly an important and responsive part of the modern age.’",
     "content_sha256": "d661ed96daecd608946fde900cc65fc62c8a68b331f51fa61821147adfae6dbd",
-    "record_sha256": "56c053a8d58859e92be92df1c3e04626731cdd3923d713b1b374be7c0e3d7d40"
+    "record_sha256": "89346650a2119dfb173837bc0b35fed4602e48e1357682386da7be1da51de8f6"
 }
