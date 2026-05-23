@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426100211
+wayback_snapshot_url: "http://web.archive.org/web/20190426100211/https://cfi.co/awards/latin-america/2018/moodys-de-mexico-best-credit-rating-agency-mexico-2018/"
 content_sha256: 09bfa8b25ad905c5540853ac9e7088ac05e8d362ac96d52dc94359a3d6512a46
 canonical: 5804-moodys-de-mexico-best-credit-rating-agency-mexico-2018.json
 ---
