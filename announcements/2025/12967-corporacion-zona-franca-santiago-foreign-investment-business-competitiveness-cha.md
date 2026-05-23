@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c89f34348463d931361b5c1dd27c8630584947a4d10ae28bb1bae25ec642a668
 canonical: 12967-corporacion-zona-franca-santiago-foreign-investment-business-competitiveness-cha.json
 ---
