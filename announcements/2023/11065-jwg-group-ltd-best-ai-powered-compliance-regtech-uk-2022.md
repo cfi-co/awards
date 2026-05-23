@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208111725
+wayback_snapshot_url: "http://web.archive.org/web/20230208111725/https://cfi.co/awards/europe/2023/jwg-group-ltd-best-ai-powered-compliance-regtech-uk-2022/"
 content_sha256: 0743975d1b9478b68f07d8a8625d7d677592cb68488fd62cc74d8a96c58153a8
 canonical: 11065-jwg-group-ltd-best-ai-powered-compliance-regtech-uk-2022.json
 ---
