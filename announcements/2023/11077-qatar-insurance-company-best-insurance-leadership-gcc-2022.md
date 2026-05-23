@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208105533
+wayback_snapshot_url: "http://web.archive.org/web/20230208105533/https://cfi.co/awards/professional-services/2023/qatar-insurance-company-best-insurance-leadership-gcc-2022/"
 content_sha256: 2f227f1b2d08dd375f848dfe269144661bd2c98e29b2d4893fb69eb32b78e283
 canonical: 11077-qatar-insurance-company-best-insurance-leadership-gcc-2022.json
 ---
