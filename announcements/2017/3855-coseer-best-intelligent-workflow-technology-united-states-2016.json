@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20170818173518",
+        "wayback_snapshot_url": "http://web.archive.org/web/20170818173518/http://cfi.co/awards/north-america/2017/coseer-best-intelligent-workflow-technology-united-states-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3857\" src=\"https://cfi.co/awards/wp-content/uploads/2017/02/Coseer.jpg\" alt=\"\" width=\"400\" height=\"105\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Providing superpowers to repetitive and predictable workflows via tactical cognitive software allows companies to free-up valuable staff time in order that workers may concentrate on creative tasks and exercise judgment at crucial junctions. Confined and entrusted to technology, routine tasks – the bane of many a professional – are effectively outsourced.</strong></p>\r\n<p style=\"text-align: justify;\">Coseer, a pioneer of language processing, has developed and implemented a fully scalable technological platform – comprising a growing number of modules – which executes tasks that previously required large teams. Coseer’s comprehensive suite of cognitive software can be set up to emulate and automate any language-driven workflow. While deployment times depend on complexity, systems can achieve over 95% accuracy in four to twelve weeks.</p>\r\n<p style=\"text-align: justify;\">Coseer workflow technology allows businesses to quickly become more responsive, better informed, and significantly smarter. The company’s products are suitable to businesses of all sizes, ranging from start-ups to Fortune 500 corporates.</p>\r\n<p style=\"text-align: justify;\">Coseer’s platform of technologies is able to process language without grammar and develop new language comprehension on-the-fly. As such, the company has broken a long-time barrier by being able to effectively parse information without depending on the grammatical structure of language. Thanks to artificial intelligence, Coseer systems understand language the same way a human does.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel finds much to be excited about in Coseer’s approach to cognitive software. The company provides rich detail to what was previously uncharted territory. Coseer is declared winner of the 2016 Best Intelligent Workflow Technology United States Award.</p>",
     "content_sha256": "dc1be7cfe8efea51ecfb9e8b652c8089d7fb2a0b45378e0743872ed7e3623a1c",
-    "record_sha256": "6916a1ef39392479252c98d282ca5c12db110926bfb17b4ff9bcf97df5f03be2"
+    "record_sha256": "82e63ed1df320323de519a1757e41a75c1a22322773db81aa11a4089f60468a1"
 }
