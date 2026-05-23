@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210521070550
+wayback_snapshot_url: "http://web.archive.org/web/20210521070550/https://cfi.co/awards/industries/2020/cedacri-spa-best-banking-it-outsourcing-services-italy-2020/"
 content_sha256: 6d0502c2c802fac17f03774d0b6b15dc001fa2de47b3c594387ab51ff7e5a927
 canonical: 8553-cedacri-spa-best-banking-it-outsourcing-services-italy-2020.json
 ---
