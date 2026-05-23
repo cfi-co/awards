@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810083557
+wayback_snapshot_url: "http://web.archive.org/web/20200810083557/https://cfi.co/awards/middle-east/2020/fidelity-united-best-insurance-broker-services-platform-gcc-2020/"
 content_sha256: 58c781a70e213de520df32415c70e5e16b7192e7e455b2c790afc87fec6fe45f
 canonical: 7862-fidelity-united-best-insurance-broker-services-platform-gcc-2020.json
 ---
