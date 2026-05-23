@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207215025
+wayback_snapshot_url: "http://web.archive.org/web/20211207215025/https://cfi.co/awards/europe/2021/natwest-best-mortgage-provider-uk-2021/"
 content_sha256: 8b5723f061c1ef3e894455306cd33e8cd1518fee545b398ada0cf5db3956a1e7
 canonical: 9741-natwest-best-mortgage-provider-uk-2021.json
 ---
