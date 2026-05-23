@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e857c647bcf1f87c2f40d4280f882c880e4d6c575e4fc6e98d220df5397d3893
 canonical: 7668-banchile-inversiones-best-stock-brokerage-chile-2019.json
 ---
