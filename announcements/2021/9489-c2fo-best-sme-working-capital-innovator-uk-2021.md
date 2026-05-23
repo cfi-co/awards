@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016001944
+wayback_snapshot_url: "http://web.archive.org/web/20211016001944/https://cfi.co/awards/europe/2021/c2fo-best-sme-working-capital-innovator-uk-2021/"
 content_sha256: fad1a6b02b561e6a73512c3960586c3d422870b3e245baf90f80e935bbbec041
 canonical: 9489-c2fo-best-sme-working-capital-innovator-uk-2021.json
 ---
