@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203232630
+wayback_snapshot_url: "http://web.archive.org/web/20201203232630/https://cfi.co/awards/finance/2020/neuberger-berman-best-esg-investment-platform-north-america-2020/"
 content_sha256: 7f6fd1d5058a10bfc5f6f8e28795024f133181e8d5f02789df326cbc50c53771
 canonical: 8437-neuberger-berman-best-esg-investment-platform-north-america-2020.json
 ---
