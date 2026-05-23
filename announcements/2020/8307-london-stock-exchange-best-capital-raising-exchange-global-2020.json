@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201203235550",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203235550/https://cfi.co/awards/europe/2020/london-stock-exchange-best-capital-raising-exchange-global-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8308\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/LSE.jpg\" alt=\"LSE\" width=\"400\" height=\"118\" />\r\n<p style=\"text-align: justify;\">London Stock Exchange dates all the way back to 1698, when ye olde broker John Castaing began posting stock and commodity prices at Jonathan's Coffee House in the City. It has evolved into a hi-tech operation capable of processing upwards of a million trades per day. The exchange affords access to Europe’s deepest capital pool for about 2,000 companies in 108 countries and 47 sectors. London Stock Exchange raised €28.5bn of equity capital in the first eight months of 2020 — €21.5bn of that in follow-on fundraisings from March through August. It represented six of the top 20 transactions in Europe, or 38 percent of total capital-raising equity on the London market. This year has so far seen companies raise $383.8bn across equity and debt financing, and 99 follow-ons on its main-market exchange contributed £19.2bn through accelerated bookbuilds. London raised seven percent of global equity capital within the first half of 2020. During the pandemic, the LSE has demonstrated vibrancy and resilience, and the London market serves as a bridge between the US and Asia. A third of its investor base hails from outside the UK, with a third of that from the US and the rest spread across Europe and Asia, a truly international market. New initiatives, such as the Green Economy Mark and Sustainable Bond Market, are pushing investors towards the companies that champion these movements. The CFI.co judges nod in unison, and present London Stock Exchange with the 2020 global award for Best Capital-Raising Exchange.</p>",
     "content_sha256": "d6a9c7ce47854a3567235d01859806ea8916d4568e4d9e60f80c6bf9b58a8e86",
-    "record_sha256": "50888a90e558e297c20aafe8b62a1255b6976158c2d13ccf7959d574b37d4395"
+    "record_sha256": "aeaae970a1c329efa3e60d9357eda734a8030b017d73f470354495025ada3eac"
 }
