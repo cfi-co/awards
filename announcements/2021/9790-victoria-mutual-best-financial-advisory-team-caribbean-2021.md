@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207213650
+wayback_snapshot_url: "http://web.archive.org/web/20211207213650/https://cfi.co/awards/latin-america/2021/victoria-mutual-best-financial-advisory-team-caribbean-2021/"
 content_sha256: c665f189a7b6cb843a30fb5583eea21389d80e42b47facd9ebbd667e56e3e6bc
 canonical: 9790-victoria-mutual-best-financial-advisory-team-caribbean-2021.json
 ---
