@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 96e92ef957312a52ad76265f7eba62945f0d37dc27152083ddf119ca0e41d392
 canonical: 12802-oceanic-investment-management-excellence-in-sustainable-maritime-and-energy-sect.json
 ---
