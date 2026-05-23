@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190924130124
+wayback_snapshot_url: "http://web.archive.org/web/20190924130124/https://cfi.co/awards/asia-pacific/2018/azizi-bank-best-digital-bank-afghanistan-2018/"
 content_sha256: a91a1c15ba0c480abdd822696e5c55578f397028f3a574a3a190691ff982733a
 canonical: 5725-azizi-bank-best-digital-bank-afghanistan-2018.json
 ---
