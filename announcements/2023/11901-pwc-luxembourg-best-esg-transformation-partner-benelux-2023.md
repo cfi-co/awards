@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206172408
+wayback_snapshot_url: "http://web.archive.org/web/20231206172408/https://cfi.co/awards/best-practice/2023/pwc-luxembourg-best-esg-transformation-partner-benelux-2023/"
 content_sha256: 51eb8b966007b007d57b947502da7d9d4855165a8ddccc46b40a4f10d2f6b2d3
 canonical: 11901-pwc-luxembourg-best-esg-transformation-partner-benelux-2023.json
 ---
