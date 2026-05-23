@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200717064642
+wayback_snapshot_url: "http://web.archive.org/web/20200717064642/https://cfi.co/awards/europe/2019/electrolux-best-sustainable-sourcing-team-global-2019/"
 content_sha256: f095a7aca2430c395f3ed6fea5eca22a63e3f054fdc27c27be6fd3c0aa821592
 canonical: 7022-electrolux-best-sustainable-sourcing-team-global-2019.json
 ---
