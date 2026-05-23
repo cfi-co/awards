@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250904103922
+wayback_snapshot_url: "http://web.archive.org/web/20250904103922/https://cfi.co/awards/asia-pacific/2025/bse-ltd-champions-of-capital-market-innovation-and-efficiency-asia-2025/"
 content_sha256: bc2bca82ef350633dda2dd5420f0fb744a24b4ed194ad3104958815befed0737
 canonical: 13017-bse-ltd-champions-of-capital-market-innovation-and-efficiency-asia-2025.json
 ---
