@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 03af46d0d509cefcf7f5d2b390c88ce82adfb4d10866735eb83ca2db614e61a4
 canonical: 5266-meeza-best-it-security-gcc-2017.json
 ---
