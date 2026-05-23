@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228093522
+wayback_snapshot_url: "http://web.archive.org/web/20210228093522/https://cfi.co/awards/asia-pacific/2021/icbc-dubai-most-innovative-international-bank-emea-2020/"
 content_sha256: 871fb0a7abfaeac1e106f8a4a6d412183c2206687d887d2bf292791c86305f23
 canonical: 8750-icbc-dubai-most-innovative-international-bank-emea-2020.json
 ---
