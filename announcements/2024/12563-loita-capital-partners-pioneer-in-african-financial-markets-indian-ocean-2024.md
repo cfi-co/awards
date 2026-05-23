@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250320093542
+wayback_snapshot_url: "http://web.archive.org/web/20250320093542/https://cfi.co/awards/africa/2024/loita-capital-partners-pioneer-in-african-financial-markets-indian-ocean-2024/"
 content_sha256: db217e190377fc0edb24b18c29add363773b02a81366e0d9dfff052678f66b2e
 canonical: 12563-loita-capital-partners-pioneer-in-african-financial-markets-indian-ocean-2024.json
 ---
