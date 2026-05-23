@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8000\" src=\"https://cfi.co/awards/wp-content/uploads/2020/07/Wisekey.jpg\" alt=\"Wisekey\" width=\"400\" height=\"100\" />\r\n<p style=\"text-align: justify;\">The Next Big Thing is already here and will revolutionise our way of living – yet again. However, fear not: The naming of the Internet of Things (IoT) may have been unimaginative, but its applications are not. According to WISeKey, a Swiss-based innovator and disruptor, the IoT is growing exponentially, connecting mere billions of devices today, but will link well over a trillion ‘things’ by 2030. Operating at the leading edge of the digitalised world, WISeKey is engineering a hack-proof yet user-friendly environment. Unique amongst its peers, the company develops and manufactures its own chips that help establish fully secured data generation and injection capabilities. To protect against hackers, WISeKey has created scalable hardware and software suites that provide secure connections from the edge, where data is gathered, to the cloud where the processing takes place. WISeKey was founded in 1999 and was an early promotor of strengthened security in electronic communication. To that end, the company engages with key organisations, such as the World Economic Forum (WEF) and the International Telecommunications Union (ITU). Listed on Nasdaq, WISeKey is recognised for its adherence to a well-defined and clear mission statement. The company also excels in transparent corporate governance. Thanks to its expertise, size, and domicile, WISeKey has maintained – and expanded – its edge over the competition. The CFI.co judging panel remarks that the company is forward thinking and actively pursues new opportunities to grow organically and through acquisitions. The judges are delighted to offer WISeKey the 2020 award Best IoT Semiconductor Innovator (Global).</p>",
     "content_sha256": "fe9c238859066440535906ac006916e1ecc0ec8e10c982e9956c88aef241089c",
-    "record_sha256": "14dc364735024c1d76b728e09ea8b1f5c2ac389f46f19a1eedcca5b6a4e54cef"
+    "record_sha256": "74674dc8f0877ba4639f734c96cd0f4e36d98a0cce72df385746a558d7a2c909"
 }
