@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3960\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/CATOCA.jpg\" alt=\"\" width=\"500\" height=\"135\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Working one of the world’s richest kimberlite pipes, Angola’s Catoca Mining Company extracts close to seven million carats in high-grade diamonds annually – representing, by value, over three-quarters of the country’s production. The Catoca mine in northeast Angola is well-known for yielding almost double the world’s average of gem-quality diamonds.</strong></p>\r\n<p style=\"text-align: justify;\">As a pioneer of corporate social responsibility in Angola, Catoca maintains an exceptionally broad range of initiatives that aim to underpin the nation’s sustainable development. Amongst others, the company helps underwrite projects that deliver potable water to isolated communities, provide schooling to children from underprivileged families, offer skills development opportunities to workers, and finance healthcare initiatives.</p>\r\n<p style=\"text-align: justify;\">Catoca also runs its mine in an ecologically conscious manner, balancing economic needs with those of the environment. The company has actively pushed for legislation that promotes sustainable development models and was one of the first to establish a dedicated department to design and implement corporate policies with a view to reducing the environmental footprint and impact of operations.</p>\r\n<p style=\"text-align: justify;\">The company has adopted strategies to reconstitute exhausted parts of the mine, monitor and control effluents, properly manage solid waste, and educate both staff and surrounding communities on the importance of greening all forms of economic activity.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends Catoca on its proactive and ground-breaking approach to managing the company’s environmental impact, reaching out to all stakeholders, and adhering to transparent governance practices. Catoca is declared winner of the 2016 Best ESG Mining Operations Angola Award.</p>",
     "content_sha256": "821f2eed8b61f0ce04498db7777321c53b1abe3fc47ccb28956d0a38d72edf8d",
-    "record_sha256": "2d5f72e51ec8aa4168e483a1dd2b599ca2055564e599c8d45fb7b5b81ddc9de9"
+    "record_sha256": "4922503dd3d4aeac3875bed7371eb2fe1c1c58ebb0fa308ff2acdf9216ad9e1d"
 }
