@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 210e30a012fb5bde8aca343d2a3fa1abaddfe6a7de8db9c3f1f70e05c3b0e4da
 canonical: 12807-kwazulu-natal-joint-municipal-pension-provident-funds-champion-of-financial-lite.json
 ---
