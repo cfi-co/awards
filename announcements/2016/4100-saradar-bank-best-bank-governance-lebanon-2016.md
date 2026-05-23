@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bdd275cd8715037fa1620e53aa8ec58bd237b660aac5ed1d6c85e066b827611c
 canonical: 4100-saradar-bank-best-bank-governance-lebanon-2016.json
 ---
