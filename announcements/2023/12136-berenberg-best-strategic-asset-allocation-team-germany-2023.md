@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 531b9232ea801126fb11a038296d09514419cf4c62d76c95279fd180757d784a
 canonical: 12136-berenberg-best-strategic-asset-allocation-team-germany-2023.json
 ---
