@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208112320
+wayback_snapshot_url: "http://web.archive.org/web/20230208112320/https://cfi.co/awards/industries/mining/2022/peabody-best-esg-responsible-mining-company-global-2022/"
 content_sha256: ab2c04ba577fbd691b1ce643702bf6af4b6221f22168319178a04ad644d3e4e1
 canonical: 10949-peabody-best-esg-responsible-mining-company-global-2022.json
 ---
