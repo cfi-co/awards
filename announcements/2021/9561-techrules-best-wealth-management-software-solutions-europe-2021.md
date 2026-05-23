@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920120756
+wayback_snapshot_url: "http://web.archive.org/web/20210920120756/https://cfi.co/awards/europe/2021/techrules-best-wealth-management-software-solutions-europe-2021/"
 content_sha256: e1dce3b9912b5aaa23bbb2223845bf476daecfbadfcccd3ca84dceee4d979bbe
 canonical: 9561-techrules-best-wealth-management-software-solutions-europe-2021.json
 ---
