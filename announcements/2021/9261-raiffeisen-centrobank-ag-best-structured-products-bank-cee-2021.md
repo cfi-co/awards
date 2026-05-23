@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924121731
+wayback_snapshot_url: "http://web.archive.org/web/20210924121731/https://cfi.co/awards/europe/2021/raiffeisen-centrobank-ag-best-structured-products-bank-cee-2021/"
 content_sha256: 0f2295530a3d6122377511ad6265b8d25946ce5b6c6b1c262991af923d57c3fb
 canonical: 9261-raiffeisen-centrobank-ag-best-structured-products-bank-cee-2021.json
 ---
