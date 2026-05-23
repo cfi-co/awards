@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225145214
+wayback_snapshot_url: "http://web.archive.org/web/20240225145214/https://cfi.co/awards/middle-east/2024/kpmg-outstanding-contribution-to-young-talent-development-qatar-2023/"
 content_sha256: eb662526180d4a4ea84d85e075fc0c15f7d3190a491a6f155ebf2786233cbfee
 canonical: 12223-kpmg-outstanding-contribution-to-young-talent-development-qatar-2023.json
 ---
