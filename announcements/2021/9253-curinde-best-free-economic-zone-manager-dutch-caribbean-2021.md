@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210628203407
+wayback_snapshot_url: "http://web.archive.org/web/20210628203407/https://cfi.co/awards/latin-america/2021/curinde-best-free-economic-zone-manager-dutch-caribbean-2021/"
 content_sha256: 079a7c2d3b62b39ae438666116b2a1445398d5e348cfd964ac104e314f38b3c2
 canonical: 9253-curinde-best-free-economic-zone-manager-dutch-caribbean-2021.json
 ---
