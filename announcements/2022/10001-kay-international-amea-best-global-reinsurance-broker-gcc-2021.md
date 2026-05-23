@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 768fa7ea2a586893360cfa1baba77586eb7c4ded1d165922162edd17dde2fd96
 canonical: 10001-kay-international-amea-best-global-reinsurance-broker-gcc-2021.json
 ---
