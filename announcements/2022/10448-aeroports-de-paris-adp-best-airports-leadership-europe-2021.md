@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 83186543c1de9ebbd309b7d1e8ce50d06274157a99d391a2307ff912d88bade0
 canonical: 10448-aeroports-de-paris-adp-best-airports-leadership-europe-2021.json
 ---
