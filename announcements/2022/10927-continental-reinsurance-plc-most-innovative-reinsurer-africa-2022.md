@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221202194917
+wayback_snapshot_url: "http://web.archive.org/web/20221202194917/https://cfi.co/awards/africa/2022/continental-reinsurance-plc-most-innovative-reinsurer-africa-2022/"
 content_sha256: de7004a6cf26b8b989b352f49b5ef7af36ca73aec9b635c6b8ee26449da9a242
 canonical: 10927-continental-reinsurance-plc-most-innovative-reinsurer-africa-2022.json
 ---
