@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206182306
+wayback_snapshot_url: "http://web.archive.org/web/20231206182306/https://cfi.co/awards/europe/2022/pollen-street-capital-best-responsible-alternative-investment-team-uk-2022/"
 content_sha256: 06077b8963dd9f114cbcbff839ddd077d968ae80bc17b7efc7f3fadbf1fd15f8
 canonical: 10208-pollen-street-capital-best-responsible-alternative-investment-team-uk-2022.json
 ---
