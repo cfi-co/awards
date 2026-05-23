@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614172216
+wayback_snapshot_url: "http://web.archive.org/web/20210614172216/https://cfi.co/awards/latin-america/2021/moodys-de-mexico-sa-de-cv-best-risk-analysis-latin-america-2021/"
 content_sha256: 75d919a6707bf7bfa08471cbcdfe52d1c8a499bc20d760867ea6c6d3e27eeb62
 canonical: 9109-moodys-de-mexico-sa-de-cv-best-risk-analysis-latin-america-2021.json
 ---

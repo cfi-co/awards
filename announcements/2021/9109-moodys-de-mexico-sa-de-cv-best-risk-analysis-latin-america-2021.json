@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210614172216",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210614172216/https://cfi.co/awards/latin-america/2021/moodys-de-mexico-sa-de-cv-best-risk-analysis-latin-america-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6839\" src=\"https://cfi.co/awards/wp-content/uploads/2019/08/Moodys.jpg\" alt=\"Moodys\" width=\"500\" height=\"141\" />\r\n<p style=\"text-align: justify;\">Moody’s coverage in Mexico includes around 50 corporates and financial institutions, plus over 100 funds, asset managers, sub-sovereigns, and finance projects. It rated 74 percent ($16,280bn) of Mexico’s cross-border debt and published more than 2,600 Latin America reports in 2020. One of the company’s core strengths is the seniority and skill of its analysts. In Mexico, Moody’s has a 25-person team with a century of combined experience; the group has over 1,000 analysts around the world. Moody’s has expanded its ESG and climate capabilities to serve the growing demand for sustainability insights. Applying its integrated data and analytics capabilities, coupled with deep domain expertise, Moody’s helps its customers to take a more holistic view of risk and to integrate E, S, and G factors into their assessment of credit risk and other investment decisions and processes. This enables Moody’s customers to mitigate risks and to capitalize on the opportunities presented by the transition to an inclusive, green, and sustainable global economy. As part of an ongoing digital transformation, it has launched two microsites: one to explain the rating process to prospective issuers, and a Covid-19 microsite with some 1,700 research publications. It releases podcasts through a proprietary hub and mainstream media channels. The CFI.co judging panel was impressed by a company with a specialised regional focus and expansive global reach, and announces Moody's de México as winner of the 2021 award for Best Risk Analysis (LATAM).</p>",
     "content_sha256": "75d919a6707bf7bfa08471cbcdfe52d1c8a499bc20d760867ea6c6d3e27eeb62",
-    "record_sha256": "eab7fabb082d1fb5aa9c2c6735ae7c41439a0c7c4b78132b4e648ca2d185b2a8"
+    "record_sha256": "f490b8ef9092cb7be65bdd5d156bab16a78ea42d179771cfba423db578b7b603"
 }
