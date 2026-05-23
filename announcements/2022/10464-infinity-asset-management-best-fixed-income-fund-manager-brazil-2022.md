@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630135150
+wayback_snapshot_url: "http://web.archive.org/web/20220630135150/https://cfi.co/awards/latin-america/2022/infinity-asset-management-best-fixed-income-fund-manager-brazil-2022/"
 content_sha256: b568ea4307d1297d484fd5acbdd89dfbe9edfc7f720bbcb30050cc3f9642a3e7
 canonical: 10464-infinity-asset-management-best-fixed-income-fund-manager-brazil-2022.json
 ---
