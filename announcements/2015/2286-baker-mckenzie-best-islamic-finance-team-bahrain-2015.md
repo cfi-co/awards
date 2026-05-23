@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505074303
+wayback_snapshot_url: "http://web.archive.org/web/20160505074303/http://cfi.co/awards/finance/2015/baker-mckenzie-best-islamic-finance-team-bahrain-2015/"
 content_sha256: e35d453a40d7489602c2774ec5ba9cc7eb7c3e0207713dd7ade9b17c43c9775a
 canonical: 2286-baker-mckenzie-best-islamic-finance-team-bahrain-2015.json
 ---
