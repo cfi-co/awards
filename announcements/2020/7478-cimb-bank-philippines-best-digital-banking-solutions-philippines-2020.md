@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813170423
+wayback_snapshot_url: "http://web.archive.org/web/20200813170423/https://cfi.co/awards/asia-pacific/2020/cimb-bank-philippines-best-digital-banking-solutions-philippines-2020/"
 content_sha256: b5ef7d1f5d26e515f4b7706ff9f2befc7f6ee67836e704563b7bdf2d648d33e4
 canonical: 7478-cimb-bank-philippines-best-digital-banking-solutions-philippines-2020.json
 ---
