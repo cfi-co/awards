@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10128\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/Kathrein-Privatbank.jpg\" alt=\"Kathrein Privatbank\" width=\"500\" height=\"144\" />\r\n<p style=\"text-align: justify;\">Kathrein Privatbank pulls from a nearly 100-year legacy to provide clients with the most innovative and personalised financial services. It was founded by Carl Kathrein in 1924, an era marked by difficult economic headwinds, to serve the complex needs of private banking clients. Over the past few years, the Vienna-headquartered bank has invested considerable resources to expand advisory capabilities, enhance the customer experience and strengthens its presence across CEE markets. A strategic focus on digital transformation has helped the bank make progress in each area. Kathrein clients benefit from an integrated advisory tool that enables comprehensive monitoring and control of their financial assets. It seeks to empower better decision making via real-time insights into portfolios, investment options and risk analysis. The online platform is intuitive and user-friendly, allowing clients to manage portfolios, execute trades and access additional financial products and services. The bank has built a technology and digital infrastructure powered by the latest advances and brightest minds. Kathrein Privatbank is taking steps to reduce its carbon footprint and has found a steady increase in investor appetite for ESG-managed assets. In December 2022, Kathrein Privatbank became one of the first private banks in Austria to offer customers sustainably produced gold, certified and embossed by the London Bullion Market Association. Gold bars are insured by the bank, and clients can track their value on a daily basis. The CFI.co judging panel presents Kathrein Privatbank — a repeat programme winner since 2019 — with the 2023 Best Private Bank (Austria) award.</p>",
     "content_sha256": "8ffd4981079f1036b7fbb5a0b7b4bda7840a06a64ef915f01494459889e32673",
-    "record_sha256": "5bedc1bc3efda450522fd99527a3d65a66b2f19f043ace73830fb088ecd46963"
+    "record_sha256": "7ac94b6ab84393bb071cb4653ab4f09eeb630949cec08c0cebbeac1c025dde93"
 }
