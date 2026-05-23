@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20181203202739
+wayback_snapshot_url: "http://web.archive.org/web/20181203202739/https://cfi.co/awards/asia-pacific/2017/capital-first-outstanding-contribution-to-financial-inclusion-india-2017/"
 content_sha256: 2cf68a9f8805dde2ea72ed60147ae6e5515bd96aab0609aac27ea2f0b58b75bc
 canonical: 4912-capital-first-outstanding-contribution-to-financial-inclusion-india-2017.json
 ---
