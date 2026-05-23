@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820142050
+wayback_snapshot_url: "http://web.archive.org/web/20190820142050/https://cfi.co/awards/middle-east/2019/abu-dhabi-global-market-adgm-best-international-financial-centre-emea-2019/"
 content_sha256: 19d3593c920d0858be8c2b8f39fa91821efdc59b587736eee0a0ca8e1c01c018
 canonical: 6825-abu-dhabi-global-market-adgm-best-international-financial-centre-emea-2019.json
 ---
