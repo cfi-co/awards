@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220413060935
+wayback_snapshot_url: "http://web.archive.org/web/20220413060935/https://cfi.co/awards/middle-east/2022/kpmg-lower-gulf-best-digital-and-innovation-advisory-team-gcc-2022/"
 content_sha256: ad0d7d7c5bbb3954441d48feba3d82383ff25a5036d249048591c236fe8793bc
 canonical: 10302-kpmg-lower-gulf-best-digital-and-innovation-advisory-team-gcc-2022.json
 ---
