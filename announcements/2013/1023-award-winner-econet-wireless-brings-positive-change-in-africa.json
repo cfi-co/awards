@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140209133035",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140209133035/http://cfi.co/awards/africa/2013/award-winner-econet-wireless-brings-positive-change-in-africa/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1024\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/econet.jpg\" alt=\"econet\" width=\"313\" height=\"161\" /></p>\r\n<p style=\"text-align: justify;\"><strong>There is no question that efficient and affordable communications are transforming lives and creating exciting opportunities for the African people.</strong></p>\r\n<p style=\"text-align: justify;\">The CFI award for Best Telecom Services &amp; Solutions, Africa this year goes to Econet Wireless. We are recognising a corporate culture of innovation that helps people find a more satisfying lifestyle. Their slogan says that Econet is ‘Inspired to Change Your World.’ And, according to the Judging Panel, ‘Management’s enthusiasm to bring about positive change is obvious, sincere and highly commendable.’</p>\r\n<p style=\"text-align: justify;\">The focus at Econet is to leverage telecoms experience to facilitate sustainable growth and the Company is ready to reach out to communities and assist the underprivileged. The Panel applauds the work of Econet Wireless in the strong belief that this company is truly making a real contribution to quality of life in many parts of Africa.</p>",
     "content_sha256": "ea80aecea6a463c40e8ffd47a0921868c74fc726608d15f229f2481efe729c03",
-    "record_sha256": "5470c5587f973cc40dcf57138d51812d00328db66bc97a4035b590bb6983ec91"
+    "record_sha256": "609f09f0d4557456bd8e08fa4e704312101534b967a71b44d23f00482bb8afba"
 }
