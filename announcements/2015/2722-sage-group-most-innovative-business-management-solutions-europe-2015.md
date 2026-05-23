@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505111034
+wayback_snapshot_url: "http://web.archive.org/web/20160505111034/http://cfi.co/awards/europe/2015/sage-group-most-innovative-business-management-solutions-europe-2015/"
 content_sha256: be7f6815353278b74325401d83e22a04d4151f6cf9d2784e0165a703e099150c
 canonical: 2722-sage-group-most-innovative-business-management-solutions-europe-2015.json
 ---
