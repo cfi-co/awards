@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7609cebe96ecb502774f0c60bf041fc12ed5a02649b32c600ca76b4c707ec11c
 canonical: 8035-nanopool-best-green-alternative-innovation-europe-2020.json
 ---
