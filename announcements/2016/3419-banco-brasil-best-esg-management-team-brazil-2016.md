@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623214407
+wayback_snapshot_url: "http://web.archive.org/web/20240623214407/https://cfi.co/awards/banking/2016/banco-brasil-best-esg-management-team-brazil-2016/"
 content_sha256: e4aa22d78281c880eb26957b9de131ade8a134bd806d24703df9e4f418ef13ad
 canonical: 3419-banco-brasil-best-esg-management-team-brazil-2016.json
 ---
