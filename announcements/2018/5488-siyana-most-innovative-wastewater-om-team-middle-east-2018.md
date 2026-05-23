@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190823045354
+wayback_snapshot_url: "http://web.archive.org/web/20190823045354/https://cfi.co/awards/middle-east/2018/siyana-most-innovative-wastewater-om-team-middle-east-2018/"
 content_sha256: a4b9ead865bcf5a4689d2fcb138c87223514efb4a02cc0ab084f419c78a109ad
 canonical: 5488-siyana-most-innovative-wastewater-om-team-middle-east-2018.json
 ---
