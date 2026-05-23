@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 263b13fccacbd73639020421d3fcb6673747119650b8e1662727c4d2b4144665
 canonical: 9388-societe-generale-securities-services-best-global-custody-services-europe-2021.json
 ---
