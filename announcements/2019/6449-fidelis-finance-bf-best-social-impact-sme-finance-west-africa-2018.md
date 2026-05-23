@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 85071b07c6d513f43ff2341a5c064e6149f0b52754713c4897601d0121aa1c29
 canonical: 6449-fidelis-finance-bf-best-social-impact-sme-finance-west-africa-2018.json
 ---
