@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928185523
+wayback_snapshot_url: "http://web.archive.org/web/20220928185523/https://cfi.co/awards/asia-pacific/2022/camlife-best-micro-insurance-company-cambodia-2022/"
 content_sha256: 38ceb8feb1ab7613ebe193632aa9ccc6a4aed05c294f0fccfbd62b4d89970367
 canonical: 10613-camlife-best-micro-insurance-company-cambodia-2022.json
 ---
