@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190923113825
+wayback_snapshot_url: "http://web.archive.org/web/20190923113825/https://cfi.co/awards/middle-east/2019/mouwasat-medical-services-best-specialised-healthcare-leadership-gcc-2019/"
 content_sha256: 2427ea3ff2abe3b40975fe9bc3f231e80611d9992fe13a549536765d890e36e2
 canonical: 6911-mouwasat-medical-services-best-specialised-healthcare-leadership-gcc-2019.json
 ---
