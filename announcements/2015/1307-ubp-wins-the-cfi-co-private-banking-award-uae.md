@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160729153318
+wayback_snapshot_url: "http://web.archive.org/web/20160729153318/http://cfi.co/awards/banking/2015/ubp-wins-the-cfi-co-private-banking-award-uae/"
 content_sha256: 86e65069064ba578c6d4d71414907208b68d63f153f858da1fe44cd548d7178a
 canonical: 1307-ubp-wins-the-cfi-co-private-banking-award-uae.json
 ---
