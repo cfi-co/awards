@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bb5acc9826f9e174a05d834667b356c7e8d3b3830a4871f601a62ca3defc7b89
 canonical: 2608-virgin-money-best-young-bank-global-2015.json
 ---
