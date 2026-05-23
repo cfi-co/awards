@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251006235001
+wayback_snapshot_url: "http://web.archive.org/web/20251006235001/https://cfi.co/awards/africa/2018/west-african-power-pool-wapp-outstanding-contribution-to-power-integration-in-west-africa-2018/"
 content_sha256: f9a809a976c19b789be8278eb414c75eb0ac85619543dd47152758b8b854fb3e
 canonical: 5587-west-african-power-pool-wapp-outstanding-contribution-to-power-integration-in-we.json
 ---
