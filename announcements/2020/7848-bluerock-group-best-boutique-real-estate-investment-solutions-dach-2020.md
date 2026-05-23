@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810075523
+wayback_snapshot_url: "http://web.archive.org/web/20200810075523/https://cfi.co/awards/europe/2020/bluerock-group-best-boutique-real-estate-investment-solutions-dach-2020/"
 content_sha256: c45af5937ba47c727ad242bcbfc0487b17ce2740d2f62e748435339a3689145d
 canonical: 7848-bluerock-group-best-boutique-real-estate-investment-solutions-dach-2020.json
 ---
