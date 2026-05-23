@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209183828
+wayback_snapshot_url: "http://web.archive.org/web/20250209183828/https://cfi.co/awards/europe/2013/clifford-chance-wins-dispute-resolution-team-award-in-the-uk/"
 content_sha256: d3365758d3c87c6cc2392ea6088611bc3bbe136e14689d79f0d26156879ce786
 canonical: 829-clifford-chance-wins-dispute-resolution-team-award-in-the-uk.json
 ---
