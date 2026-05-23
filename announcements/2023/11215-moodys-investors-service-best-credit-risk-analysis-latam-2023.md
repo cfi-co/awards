@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330020819
+wayback_snapshot_url: "http://web.archive.org/web/20230330020819/https://cfi.co/awards/finance/2023/moodys-investors-service-best-credit-risk-analysis-latam-2023/"
 content_sha256: 4eadb82b77653991cd3da8b053843479f473cb06fd004bf7e828afed8eaaf291
 canonical: 11215-moodys-investors-service-best-credit-risk-analysis-latam-2023.json
 ---
