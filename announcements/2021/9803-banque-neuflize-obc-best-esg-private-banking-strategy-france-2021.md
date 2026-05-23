@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207212343
+wayback_snapshot_url: "http://web.archive.org/web/20211207212343/https://cfi.co/awards/europe/2021/banque-neuflize-obc-best-esg-private-banking-strategy-france-2021/"
 content_sha256: 212b1ea90a0a7758373c4f32b83fcb1ac6893c4d1e709ef3f475e60f4bb57ac4
 canonical: 9803-banque-neuflize-obc-best-esg-private-banking-strategy-france-2021.json
 ---
