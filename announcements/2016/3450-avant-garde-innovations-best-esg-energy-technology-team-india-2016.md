@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921103308
+wayback_snapshot_url: "http://web.archive.org/web/20210921103308/https://cfi.co/awards/asia-pacific/2016/avant-garde-innovations-best-esg-energy-technology-team-india-2016/"
 content_sha256: a04ec4f821cd694bbdcc70f33a5cd4ec6738660d6d0802293d35bf4703e1b850
 canonical: 3450-avant-garde-innovations-best-esg-energy-technology-team-india-2016.json
 ---
