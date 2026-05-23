@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"></p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2151\" src=\"https://cfi.co/awards/wp-content/uploads/2015/04/af.jpg\" alt=\"af\" width=\"380\" height=\"104\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A leading provider of financial and risk services worldwide, South Africa-based Alexander Forbes attaches supreme importance to good corporate governance. The company fully subscribes to the guidelines contained in the 2009 King III Report on corporate governance.</strong></p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel notes that Alexander Forbes expends considerable effort ensuring that its code of corporate governance is strictly adhered to in all the company’s operations. The Alexander Forbes management system comprises both a code of ethics and sets of policies that prioritise compliance.</p>\r\n<p style=\"text-align: justify;\">This solid framework facilitated the company’s relisting on the main board of the Johannesburg Stock Exchange from where it retired in 2007 after being taken over by a private equity consortium. As of July 2014, Alexander Forbes – Africa’s largest retirement fund administrator – is once again listed on the JSE.</p>\r\n<p style=\"text-align: justify;\">The Johannesburg Stock Exchange is known worldwide as a pioneer in promoting excellence in corporate governance. The CFI.co judges are of the opinion that Alexander Forbes will prove an excellent addition to the JSE as a company with an exemplary track record on corporate governance.</p>",
     "content_sha256": "ec71b0ceeffa52b23e1b76accc020f4d1cdec33b31697a8d27e69e68853f320b",
-    "record_sha256": "a6b866f1f034a5263c95b7a76cc343a908743e09ac73a9f2aa9e0c3d7ea2b681"
+    "record_sha256": "2d167fd316f13f0baa159ebca73e01c584d4655b730b26505553ced30ce35def"
 }
