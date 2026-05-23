@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 43192feea3085851c644b1d61dce5451fa9cf9c3089962b54db50ea2ebd0200a
 canonical: 3454-alpari-best-binary-options-broker-asia-2016.json
 ---

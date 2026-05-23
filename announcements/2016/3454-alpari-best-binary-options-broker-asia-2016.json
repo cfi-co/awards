@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3455\" src=\"https://cfi.co/awards/wp-content/uploads/2016/09/Alpari.jpg\" alt=\"Alpari\" width=\"256\" height=\"249\" /></p>\r\n<p style=\"text-align: justify;\"><strong>With its benchmark-setting customer service and state-of-the-art trading platform, backed up by a team of seasoned professionals, Alpari has managed to keep well ahead of the pack in the competitive forex brokerage business. The firm has established a track record second to none in the industry and offers traders a comprehensive suite of products and services that contains everything – and more – that both novice and experienced traders need in order to successfully play the markets to their advantage.</strong></p>\r\n<p style=\"text-align: justify;\">The trading turnover of the Alpari companies in 2015 was more than 1 trillion USD. Alpari is one of the world's largest MetaTrader brokers. By the end of 2015, company branches were providing their services to over one million clients from more than 150 countries of the world. It is one of the world’s largest brokerage firms.</p>\r\n<p style=\"text-align: justify;\">The firm is fully licensed by the Financial Services Commission of Mauritius – one of the largest financial centres in the Indian Ocean rim area. Alpari adheres to well-established international best practices in governance with full transparency of its operations. The company has pioneered the trade in binary options – fixed-cost financial instruments that offer pre-set pay outs. For traders making their market debut, Alpari has put in place a simplified trading procedure that mitigates risk without limiting the upside.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is happy to present Alpari with the 2016 Best Binary Options Broker Asia Award.</p>",
     "content_sha256": "43192feea3085851c644b1d61dce5451fa9cf9c3089962b54db50ea2ebd0200a",
-    "record_sha256": "6c0f622f4aa5ccc9d1917e69e2680231886b5f032824200611bfff7d8b0fa323"
+    "record_sha256": "481bdbf29788a6aaeb635953cbe8186e3f5a7b7ae54ef997cd3454134161efb6"
 }
