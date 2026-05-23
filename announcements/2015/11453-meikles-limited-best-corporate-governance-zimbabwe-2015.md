@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250907060952
+wayback_snapshot_url: "http://web.archive.org/web/20250907060952/https://cfi.co/awards/africa/2015/meikles-limited-best-corporate-governance-zimbabwe-2015/"
 content_sha256: 6c8c3d90bab04244fd27d1ae36c55fdaf9a40a9005450cd8050404e1177e5328
 canonical: 11453-meikles-limited-best-corporate-governance-zimbabwe-2015.json
 ---
