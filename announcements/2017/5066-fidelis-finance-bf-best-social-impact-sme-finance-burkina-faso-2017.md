@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094416
+wayback_snapshot_url: "http://web.archive.org/web/20190426094416/https://cfi.co/awards/africa/2017/fidelis-finance-bf-best-social-impact-sme-finance-burkina-faso-2017/"
 content_sha256: 8ce9001ae9cf6119cce793621f8f1da10d81c0b85dc60268dda9d6ae4b1387b5
 canonical: 5066-fidelis-finance-bf-best-social-impact-sme-finance-burkina-faso-2017.json
 ---
