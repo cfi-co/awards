@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094708
+wayback_snapshot_url: "http://web.archive.org/web/20190426094708/https://cfi.co/awards/middle-east/2018/tawreeq-holdings-best-sme-supply-chain-finance-solutions-mena-2017/"
 content_sha256: 2a7af10e4494c3a6de459b2dd489800d7d89b960ca7c1e779e4e9f944b85a4e1
 canonical: 5187-tawreeq-holdings-best-sme-supply-chain-finance-solutions-mena-2017.json
 ---
