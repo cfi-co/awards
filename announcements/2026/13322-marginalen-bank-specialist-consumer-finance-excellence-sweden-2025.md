@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315120057
+wayback_snapshot_url: "http://web.archive.org/web/20260315120057/https://cfi.co/awards/europe/2026/marginalen-bank-specialist-consumer-finance-excellence-sweden-2025/"
 content_sha256: 46a00113adf87a4c8d3f1d66d4c712bbb4e7c7bd2b7b5c30a7eb103e076c754c
 canonical: 13322-marginalen-bank-specialist-consumer-finance-excellence-sweden-2025.json
 ---
