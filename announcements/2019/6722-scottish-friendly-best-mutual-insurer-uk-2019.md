@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825094619
+wayback_snapshot_url: "http://web.archive.org/web/20190825094619/https://cfi.co/awards/finance/2019/scottish-friendly-best-mutual-insurer-uk-2019/"
 content_sha256: ca03c9792f0e4f637b19f53feacbd66af745fa4f954ad23381d0eec4530a0c7d
 canonical: 6722-scottish-friendly-best-mutual-insurer-uk-2019.json
 ---
