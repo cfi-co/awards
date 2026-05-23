@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 7b08cea681690ca78eeef28c882e7ef29d9e65033b77a49df3604f9dea32e676
 canonical: 1262-building-relationships-cfi-co-private-banking-award-announcement-new-zealand.json
 ---

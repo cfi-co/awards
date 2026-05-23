@@ -21,10 +21,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "submitted_pending",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2014/07/bnz.jpg\"><img class=\"aligncenter size-full wp-image-1263\" src=\"https://cfi.co/awards/wp-content/uploads/2014/07/bnz.jpg\" alt=\"bnz\" width=\"308\" height=\"166\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>BNZ wins our Best Private Bank Award, New Zealand, for the year 2014. </strong></p>\r\n<p style=\"text-align: justify;\">This bank claims to be taking a holistic approach to advising clients and the CFI.co Judging Panel comments that, ‘BNZ does indeed build strong and lasting relationships and responds well across a broad range of financial concerns relevant to high net worth individuals. We are certainly hearing good reports’.</p>",
     "content_sha256": "7b08cea681690ca78eeef28c882e7ef29d9e65033b77a49df3604f9dea32e676",
-    "record_sha256": "2543b906ae0681b2638240241e18eadfed1c4ed98aaf60b16e9502b61156c631"
+    "record_sha256": "f31f2e58b12c424eac1394e88591d13a501bca13a96c96a9fe58f2ba76c35f8a"
 }
