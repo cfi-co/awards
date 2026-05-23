@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923085038
+wayback_snapshot_url: "http://web.archive.org/web/20200923085038/https://cfi.co/awards/middle-east/2020/odin-investments-best-investment-services-corporate-governance-egypt-2020/"
 content_sha256: abc9e121f4b77f236fb943fcad0252b68d370e3ad0fa4b0769e39d304ba6843a
 canonical: 8040-odin-investments-best-investment-services-corporate-governance-egypt-2020.json
 ---
