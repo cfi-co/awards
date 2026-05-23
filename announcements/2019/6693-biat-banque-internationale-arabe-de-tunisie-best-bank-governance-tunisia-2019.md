@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005656
+wayback_snapshot_url: "http://web.archive.org/web/20190723005656/https://cfi.co/awards/africa/2019/biat-banque-internationale-arabe-de-tunisie-best-bank-governance-tunisia-2019/"
 content_sha256: 72996a25ccd680cb1871a5ea1931fcba6b4f468600076833607efe388da24851
 canonical: 6693-biat-banque-internationale-arabe-de-tunisie-best-bank-governance-tunisia-2019.json
 ---
