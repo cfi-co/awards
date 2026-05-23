@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f1b8337ceb6eef9f63b8f4ee2af1690f13149ff34835b0cbb63f4d057637af09
 canonical: 7701-aiico-capital-limited-best-multi-asset-fund-manager-west-africa-2019.json
 ---
