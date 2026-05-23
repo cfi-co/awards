@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250425224319
+wayback_snapshot_url: "http://web.archive.org/web/20250425224319/https://cfi.co/awards/europe/2024/square-asset-management-s-a-best-real-estate-fund-manager-iberia-2024/"
 content_sha256: 09c07d7a237434f39107e159ff41c05314dd4fabc091cb49babedeec23fc863a
 canonical: 12440-square-asset-management-s-a-best-real-estate-fund-manager-iberia-2024.json
 ---
