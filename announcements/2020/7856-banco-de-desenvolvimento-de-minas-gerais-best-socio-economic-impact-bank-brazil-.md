@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813165558
+wayback_snapshot_url: "http://web.archive.org/web/20200813165558/https://cfi.co/awards/latin-america/2020/banco-de-desenvolvimento-de-minas-gerais-best-socio-economic-impact-bank-brazil-2020/"
 content_sha256: 6eb9c309a3b14be2a6a4e5988b95da6ecd8a3ee3ac2e442b8b4f105a942ebb29
 canonical: 7856-banco-de-desenvolvimento-de-minas-gerais-best-socio-economic-impact-bank-brazil-.json
 ---
