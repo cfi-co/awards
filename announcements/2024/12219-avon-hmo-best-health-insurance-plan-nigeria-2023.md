@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240225144440
+wayback_snapshot_url: "http://web.archive.org/web/20240225144440/https://cfi.co/awards/africa/2024/avon-hmo-best-health-insurance-plan-nigeria-2023/"
 content_sha256: 6e1702b80e4fa6f208536f38632d2a1404f3e680aab7ec9d07f1e20061f37489
 canonical: 12219-avon-hmo-best-health-insurance-plan-nigeria-2023.json
 ---
