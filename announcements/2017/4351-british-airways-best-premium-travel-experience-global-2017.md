@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0494ad081f0c3d375b434a4ef66ee6f7cae7b6ea42fea4014d3da5a7c5a03ac1
 canonical: 4351-british-airways-best-premium-travel-experience-global-2017.json
 ---
