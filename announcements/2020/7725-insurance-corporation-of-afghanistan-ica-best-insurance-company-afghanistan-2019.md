@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203233024
+wayback_snapshot_url: "http://web.archive.org/web/20201203233024/https://cfi.co/awards/asia-pacific/2020/insurance-corporation-of-afghanistan-ica-best-insurance-company-afghanistan-2019/"
 content_sha256: a798c0ef7523e69c4a2c7945cd57648f7ebaa3338c1048765241e8181826b9fc
 canonical: 7725-insurance-corporation-of-afghanistan-ica-best-insurance-company-afghanistan-2019.json
 ---
