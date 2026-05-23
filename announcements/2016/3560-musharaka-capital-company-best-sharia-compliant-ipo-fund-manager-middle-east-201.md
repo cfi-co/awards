@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 347e4fe3475696fca3dcfaaa8247b9e23ada357a66be3086df66c98c49d96fc4
 canonical: 3560-musharaka-capital-company-best-sharia-compliant-ipo-fund-manager-middle-east-201.json
 ---
