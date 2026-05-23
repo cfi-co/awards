@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094617
+wayback_snapshot_url: "http://web.archive.org/web/20190426094617/https://cfi.co/awards/asia-pacific/2018/wing-cambodia-specialised-bank-best-social-impact-bank-cambodia-2018/"
 content_sha256: b83da4b38ca753b8052f03c1403549237048697655d53557ba25a659b1772fc4
 canonical: 5866-wing-cambodia-specialised-bank-best-social-impact-bank-cambodia-2018.json
 ---
