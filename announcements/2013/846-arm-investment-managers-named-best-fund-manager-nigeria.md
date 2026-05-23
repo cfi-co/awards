@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016004441
+wayback_snapshot_url: "http://web.archive.org/web/20211016004441/https://cfi.co/awards/africa/2013/arm-investment-managers-named-best-fund-manager-nigeria/"
 content_sha256: eac2bbcc0bf1516a46fded8883b3c697590cc99d9d4d9c34fd4e3501f6a90015
 canonical: 846-arm-investment-managers-named-best-fund-manager-nigeria.json
 ---
