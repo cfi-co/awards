@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20221203060513",
+        "wayback_snapshot_url": "http://web.archive.org/web/20221203060513/https://cfi.co/awards/latin-america/2017/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4996\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/PPS.jpg\" alt=\"\" width=\"265\" height=\"65\" /></p>\r\n<p style=\"text-align: justify;\"><strong>PPS Portfolio Performance (PPS) provides clarity to institutional investors in the form of bias-free technical assessments. PPS helps streamline decision-making processes by providing portfolio managers with the most advanced service on fund and portfolio manager selection and performance monitoring in the Brazilian market.</strong></p>\r\n<p style=\"text-align: justify;\">The firm, in business since 1996, has developed the proprietary Portfolio Performance System. It is a unique software tool that gauges the performance of investment portfolios using a vast set of metrics and weighing return against risk.</p>\r\n<p style=\"text-align: justify;\">PPS continuously upgrades its software to include new features that enhance the system’s analytical power and improve their advisory activity. It is now on its eighth version of this software.</p>\r\n<p style=\"text-align: justify;\">The firm was set up as an independent business in order to provide objective data and analysis of market conditions and trends. PPS avoids working for banks, asset management companies, and any other kind of organisation that could lead to situations of conflicts of interests. As a consultant, the focus of PPS is to work exclusively for final investors.</p>\r\n<p style=\"text-align: justify;\">In 2001, PPS pioneered the development of the first Brazilian ALM model based on stochastic optimisation. Since then, the firm has helped dozens of local pension funds determine the optimal allocation for their portfolios.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that quality of service is of paramount importance to institutional investors. The judges note that PPS has implemented a novel yet solid approach to optimising portfolio performance and grant the firm the 2017 Best Investment Services for Pension Funds Brazil Award.</p>",
     "content_sha256": "1dc7331bb6464ba5ec0966ef75f549efa59b4402621b371cb1ba1dd6645bfe04",
-    "record_sha256": "7809a7f6500dac8943fdb630fe435b1761b65be338a479b713f47a65c7543821"
+    "record_sha256": "dc50c87b88971a4980419cb5a3816a7534b632f8c0f13d7f1d5ada70a9860907"
 }
