@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924131159
+wayback_snapshot_url: "http://web.archive.org/web/20210924131159/https://cfi.co/awards/europe/2021/amesto-global-best-international-expansion-services-europe-2021/"
 content_sha256: 154924670a12e341f996874481aff3547e187848eaab53d6002f6cb16e7dd8fd
 canonical: 8865-amesto-global-best-international-expansion-services-europe-2021.json
 ---
