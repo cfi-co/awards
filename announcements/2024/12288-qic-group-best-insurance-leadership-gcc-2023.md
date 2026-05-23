@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623202947
+wayback_snapshot_url: "http://web.archive.org/web/20240623202947/https://cfi.co/awards/front/2024/qic-group-best-insurance-leadership-gcc-2023/"
 content_sha256: d5112735dcdf58c0709bc23a95ad315216b73740cdf31394a3e19edf8af492f8
 canonical: 12288-qic-group-best-insurance-leadership-gcc-2023.json
 ---
