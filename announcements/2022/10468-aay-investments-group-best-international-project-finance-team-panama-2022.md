@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220602172435
+wayback_snapshot_url: "http://web.archive.org/web/20220602172435/https://cfi.co/awards/latin-america/2022/aay-investments-group-best-international-project-finance-team-panama-2022/"
 content_sha256: 0a30c420c7b93ad3986b785e60cfa3c7919f9d6a1f28ddf6d979900d94c506dc
 canonical: 10468-aay-investments-group-best-international-project-finance-team-panama-2022.json
 ---
