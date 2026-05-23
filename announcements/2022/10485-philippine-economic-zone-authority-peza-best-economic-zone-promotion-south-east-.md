@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630141213
+wayback_snapshot_url: "http://web.archive.org/web/20220630141213/https://cfi.co/awards/asia-pacific/2022/philippine-economic-zone-authority-peza-best-economic-zone-promotion-south-east-asia-2022/"
 content_sha256: 9f5060320d567404c0f7181ca621e04e3291c9eb98f7910ca293e9dd9f459885
 canonical: 10485-philippine-economic-zone-authority-peza-best-economic-zone-promotion-south-east-.json
 ---
