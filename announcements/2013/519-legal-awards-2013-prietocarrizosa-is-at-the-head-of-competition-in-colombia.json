@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140410023125",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140410023125/http://cfi.co/awards/latin-america/2013/legal-awards-2013-prietocarrizosa-is-at-the-head-of-competition-in-colombia/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-520 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/prietocarrizosa-logo.png\" alt=\"prietocarrizosa-logo\" width=\"228\" height=\"36\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Prietocarrizosa is congratulated by the CFI.co judging panel for its successful representation of Nestle and good work for others including Visa International, Mexichem Colombia, Corn Products International and Johnson Controls.</strong></p>\r\n<p style=\"text-align: justify;\">The competition and antitrust department is long established, highly effective and the judges believe that the firm’s activities in this category are very likely to expand. There was no hesitation in naming Prietocarrizosa as ‘Best Competition Team’, Colombia, 2013.</p>",
     "content_sha256": "b4439e069a686cfa32ad3b3c7b35fb57596d9428e1eed3c1667adbc50c8145d9",
-    "record_sha256": "f2ecd6a88db6fbef8a2a93537d2ad07b80ce5d8c2bc36ec4e6c72439d4e70a87"
+    "record_sha256": "2cd8d6aaf8d0d97848f5db4cfbe22da8edb733c1261db19a9ab2cedb3f88b4ab"
 }
