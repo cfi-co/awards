@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190902130038
+wayback_snapshot_url: "http://web.archive.org/web/20190902130038/https://cfi.co/awards/industries/2017/philips-most-innovative-healthcare-technology-global-2016/"
 content_sha256: ce204ac747dcb237df4c8eee7717152368166040d72e2e2d98fa60d70f63d9be
 canonical: 4035-philips-most-innovative-healthcare-technology-global-2016.json
 ---
