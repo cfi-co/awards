@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200710051953
+wayback_snapshot_url: "http://web.archive.org/web/20200710051953/https://cfi.co/awards/asia-pacific/2020/sri-lanka-banks-association-best-sustainable-banking-leadership-south-asia-2019/"
 content_sha256: 4db3add25902dc621d0c4e81f4970d5e7d5a2fea80c278b94462647cb77235f1
 canonical: 7549-sri-lanka-banks-association-best-sustainable-banking-leadership-south-asia-2019.json
 ---
