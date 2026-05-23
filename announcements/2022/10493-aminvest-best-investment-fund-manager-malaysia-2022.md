@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630135000
+wayback_snapshot_url: "http://web.archive.org/web/20220630135000/https://cfi.co/awards/asia-pacific/2022/aminvest-best-investment-fund-manager-malaysia-2022/"
 content_sha256: 62e60740b798c239ec2d87ef6bc3fac0ceaee4725b6763dc756ac0747176589d
 canonical: 10493-aminvest-best-investment-fund-manager-malaysia-2022.json
 ---
