@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921102635
+wayback_snapshot_url: "http://web.archive.org/web/20210921102635/https://cfi.co/awards/africa/2012/the-increasing-demand-for-shariah-compliant-banking-helps-drive-growth-at-gulf-africa-bank/"
 content_sha256: e4e85fd2883c7452262f4c52c867307742c43cbd52586f6c46829380ba3244e9
 canonical: 232-the-increasing-demand-for-shariah-compliant-banking-helps-drive-growth-at-gulf-a.json
 ---
