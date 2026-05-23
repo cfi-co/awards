@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230528041010",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230528041010/https://cfi.co/awards/europe/2021/moonfare-best-private-equity-performance-transparency-platform-global-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-medium wp-image-8066\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/Moonfare-300x59.jpg\" alt=\"Moonfare\" width=\"300\" height=\"59\" />\r\n<p style=\"text-align: justify;\">Moonfare provides individual investors and fund managers unrivalled access to the world of top-tier private equity funds. It normally takes a small mountain of money to attract the attention of such funds; through the Moonfare platform, interested investors can register in just 15 minutes and minimum amounts start at €50,000. Founded in 2016, Moonfare had a stellar year in troubled 2020. It more than doubled funds under management, from €230m to over €500m and is now close to hitting €1b in summer. This was achieved by bringing an increasing number of private funds to the platform — to date there were 36 different funds offered — and by boosting the number of investors to over 1,700 mid year. This includes new HNW investors introduced via Asian banks and wealth managers. These are remarkable figures considering the upheavals caused by the pandemic. Moonfare’s fully digital approach clearly resonates with private investors. Small wonder, then, that Fidelity International recently has taken a stake in the company. Buyout funds represent 60 percent of assets under management and include allocations to industry giants such as CD&amp;R and KKR. The CFI.co judges were impressed by Moonfare’s widening array of funds, with new investment strategies and asset classes. This includes Venture Capital tech and healthcare funds, growth equity, infrastructure, and distressed. The judges present Moonfare with the 2021 award for Best Private Equity Performance Transparency Platform — its second consecutive annual win.</p>",
     "content_sha256": "0895967b7b7e27070980ff208068293117bc0f605293ea24d23e8806eac65be1",
-    "record_sha256": "5b902935be07804466f5199fc27fe955c8cace611dd0e3c851370cc252ba912e"
+    "record_sha256": "966ba48719be779523fe1345007770385338f5e072aa3888d97a27817fd95dce"
 }
