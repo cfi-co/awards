@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20240420142059",
+        "wayback_snapshot_url": "http://web.archive.org/web/20240420142059/https://cfi.co/awards/individual/2024/emad-shahin-best-investment-director-2023/"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_12212\" align=\"aligncenter\" width=\"744\"]<img class=\"size-large wp-image-12212\" src=\"https://cfi.co/awards/wp-content/uploads/2024/01/Emad-Shahin-744x1024.webp\" alt=\"Emad Shahin\" width=\"744\" height=\"1024\" /> Emad Shahin[/caption]\r\n<p style=\"text-align: justify;\">An excellent investment director requires a wide array of skills — and Emad Shahin at Ethra Invest has proven up to muster. The investment director pulls from a 20-year career in banking and wealth management to navigate the complexities of a financial landscape that’s constantly changing. Shahin began his professional journey as a banker in Egypt and gained extensive international experience in investment management posts across the Middle East as well as Canada. He was appointed as the investment director of Ethra Invest, a leading Dubai-based investment and private equity firm, in January 2023. Shahin has a track record of consistently delivering above-market returns for clients and stakeholders. He combines financial acumen with meticulous due diligence to develop forward-thinking investment strategies that tend to beat the benchmarks. This has earned the trust and confidence of institutional and individual investors alike. Shahin takes a holistic and hands-on approach to fund management, applying rigorous market analysis to identify value-driven opportunities and develop effective risk mitigation strategies. He stays at the forefront of industry trends, leveraging innovative financial instruments to optimise portfolio performance and ensure compliance at every level. The investment director has fostered a culture of excellence within the teams he’s led and contributed significantly to the overall success of the firms he’s joined. Shahin’s prowess has positioned his funds as leaders in the competitive landscape of private equity — leading the CFI.co judging panel to declare Emad Shahin as the 2023 award winner for Best Investment Director.</p>",
     "content_sha256": "64cd950684359abb0ee1f895e268b481f89b73aa13b8c8aa3e11eac0188daa46",
-    "record_sha256": "9e74af13f17f02ae41558198d77835bc8780060be9312eb8e17fbd32d18d523c"
+    "record_sha256": "a93e62cc8115153a60811c4baca63594e85384c5d3df02dacf01f631b1c5d045"
 }
