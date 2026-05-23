@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240523004322
+wayback_snapshot_url: "http://web.archive.org/web/20240523004322/https://cfi.co/awards/banking/2022/banca-generali-best-sustainable-private-bank-italy-2022/"
 content_sha256: 885f75d69e829e4bad80bd59464b209b7608b70aaba965270bfdae1a363fe588
 canonical: 10945-banca-generali-best-sustainable-private-bank-italy-2022.json
 ---
