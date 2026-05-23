@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921111340
+wayback_snapshot_url: "http://web.archive.org/web/20210921111340/https://cfi.co/awards/industries/retail/2016/lonely-planet-publications-outstanding-contribution-to-responsible-travel-uk-2016/"
 content_sha256: 8554f6d924663d7912ca57a820be0711e233317f95900019426ccf5cf71b0dcb
 canonical: 4039-lonely-planet-publications-outstanding-contribution-to-responsible-travel-uk-201.json
 ---
