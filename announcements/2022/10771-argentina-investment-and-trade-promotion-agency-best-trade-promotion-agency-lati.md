@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330022431
+wayback_snapshot_url: "http://web.archive.org/web/20230330022431/https://cfi.co/awards/development/fdi-agencies/2022/argentina-investment-and-trade-promotion-agency-best-trade-promotion-agency-latin-america-2022/"
 content_sha256: 41a72d8b3f2084d732190c6dae8e696a577a4aea1a8a9bdde171167b658d0a4e
 canonical: 10771-argentina-investment-and-trade-promotion-agency-best-trade-promotion-agency-lati.json
 ---
