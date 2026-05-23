@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190923113945
+wayback_snapshot_url: "http://web.archive.org/web/20190923113945/https://cfi.co/awards/africa/2019/exxafrica-best-geo-political-risk-consultancy-africa-2019/"
 content_sha256: 44f6ca1cfa2dc46f20ecb31605b97cb32effb5d5391b7390ca08065ba61b39a1
 canonical: 6896-exxafrica-best-geo-political-risk-consultancy-africa-2019.json
 ---
