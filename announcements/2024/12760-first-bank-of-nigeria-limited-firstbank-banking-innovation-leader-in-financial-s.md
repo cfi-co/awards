@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250124140204
+wayback_snapshot_url: "http://web.archive.org/web/20250124140204/https://cfi.co/awards/africa/2024/first-bank-of-nigeria-limited-firstbank-banking-innovation-leader-in-financial-services-africa-2024/"
 content_sha256: 0a5ad204d1ce5575293006fc2827de38bb035bd04f1ede4066d30812e204a095
 canonical: 12760-first-bank-of-nigeria-limited-firstbank-banking-innovation-leader-in-financial-s.json
 ---
