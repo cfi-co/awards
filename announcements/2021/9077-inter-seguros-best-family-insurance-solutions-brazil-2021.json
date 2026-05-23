@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210509113843",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210509113843/https://cfi.co/awards/latin-america/2021/inter-seguros-best-family-insurance-solutions-brazil-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9078\" src=\"https://cfi.co/awards/wp-content/uploads/2021/04/Inter-Seguros.jpg\" alt=\"Inter-Seguros\" width=\"500\" height=\"81\" />\r\n<p style=\"text-align: justify;\">Banco Inter is well known in Brazil as the first 100 percent digital bank. It has broken down the barriers to banking for Brazilian families with its Super App for mobile phones. Now through its insurance company, Inter Seguros, it is bringing the same innovative approach to personal and family insurance. In March 2020, Inter Seguros launched its new platform “Plataforma de Proteção” within the Banco Inter Super App. The platform uses extensive data and proprietary algorithms to personalise insurance offerings to Banco Inter customers. It also brings Banco Inter’s trademark simplicity and transparency. Customers can buy insurance with just a few clicks and completely online. Inter Seguros has also worked hard to streamline the typical processes that can make insurance cumbersome. The platform currently has 16 products, including pet and mobile phone insurance among more traditional products like home and auto insurance. The CFI.co judges are impressed by the innovation in both delivery and products, and the success the new platform has achieved in its first year. The platform has already reached over 400 thousand active users and in 2020 sold over 265 thousand insurance products. It is now the largest insurance platform in Brazil. Through its success it is bringing greater certainty to countless Brazilian families and at a time where certainty is at a low ebb. CFI.co judges are thus pleased to present Inter Seguros the 2021 award Best Family Insurance Solutions (Brazil).</p>",
     "content_sha256": "6a0a40f2e987e5d79966a3dfb6b79f955eed8ee97c87999e2b821bc83d333643",
-    "record_sha256": "8bd4715c501764954c4ef5c3b931eb6170fb3c6482442e05dd896db71bf1784c"
+    "record_sha256": "7e1c114aa287f59656e17e87f9c18cbd6346b07a83a7cde3bafac83fa1c3ec6d"
 }
