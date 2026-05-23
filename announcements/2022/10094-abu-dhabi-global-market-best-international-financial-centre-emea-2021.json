@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8104\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/ADGM.jpg\" alt=\"ADGM\" width=\"400\" height=\"114\" />\r\n<p style=\"text-align: justify;\">Abu Dhabi Global Market (ADGM) celebrated its sixth anniversary in October. Located on Al Maryah Island, the international financial centre and free zone has experienced strong growth over the past year: ADGM AUM is up by 148 percent, from $29bn to $75bn, and the island’s workforce is growing, with some 3,450 registered and licenced businesses employing 17,185 professionals. The UAE is ranked one of the most politically and economically stable countries, and its capital city Abu Dhabi is a global business hub with a vibrant social scene. Businesses considering international expansion or relocation can register at ADGM and operate in a tax-friendly free zone with exemption on import, export, corporate and personal taxation. ADGM promises easy set-up for new businesses, with streamlined and fully digital processes for registration and commercial licensing. Three independent authorities — the Registration Authority, the Financial Services Regulatory Authority and ADGM Courts — are responsible for ensuring that ADGM operates according to international best practice and English common law. The financial centre enacts positive change throughout its actions and brings positive impact via collaboration at local, regional and international level. ADGM is committed to creating a sustainable finance ecosystem, supporting gender equality and increasing financial education. The ADGM Academy offers training programmes, school courses, conventions, webinars, career counselling and research assistance throughout MENA. The CFI.co judging panel declares Abu Dhabi Global Market the winner — for the third consecutive year — of the award Best International Financial Centre (EMEA, 2021).</p>",
     "content_sha256": "d4ebc149cf9b7d90e59a49839e886b8c963e72ee4c323f04d7e47db298ed5a70",
-    "record_sha256": "8a7915e0e5501c7fead8deed11dcbbf2d13109d742d96f720dd6b8a2ad012334"
+    "record_sha256": "61133dbad1fb7e1a50508aeb37401e0a2a93fab1339e28e0e4127f8be6af7988"
 }
