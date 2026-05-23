@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207230845
+wayback_snapshot_url: "http://web.archive.org/web/20221207230845/https://cfi.co/awards/middle-east/2022/gate-capital-best-corporate-finance-advisory-team-middle-east-2022/"
 content_sha256: f9f6ab00c949c8167974d996cfccec0a604a3c241903a413a27f4b5380c1c92b
 canonical: 10911-gate-capital-best-corporate-finance-advisory-team-middle-east-2022.json
 ---
