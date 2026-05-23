@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200810075157",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200810075157/https://cfi.co/awards/asia-pacific/2020/octafx-best-cfd-broker-asia-pacific-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7806\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/OctaFX.jpg\" alt=\"OctaFX\" width=\"411\" height=\"198\" />\r\n<p style=\"text-align: justify;\">Over the past decade, OctaFX has developed of suite of trading services boasting tight spread levels, a robust digital platform and a strong partnership programme. The broker is registered in Saint-Vincent and the Grenadines in the southern Caribbean, in full compliance with governmental regulations and in touch with global client needs in retail, professional and legal sectors. OctaFX has identified the Asia-Pacific region as a priority and underscores that with a customer support team fluent in Bengali, Chinese, English, Hindi, Indonesian, Malay, Portuguese, Spanish, Thai, Vietnamese and Urdu. OctaFX keeps trader costs low by slashing commissions on deposits and withdrawals. Trading conditions are always favourable, with swift executions and next to no slippage. The company bets on the long game, and invests in employee care with a focus on professional development and corporate culture. An in-house IT department develops solutions that not only tick customer boxes but lower operational expenses and increase budget control for the broker. OctaFX makes its intentions clear through a mission statement that promises flexibility, responsiveness and responsibility. A sound set of risk management policies, mitigation measures and internal controls ensure the sustainability of the business. OctaFX studies its competition, checks the pulse of market trends — and puts skin in the game by investing its own capital. The CFI.co judging panel considered customer satisfaction as the final proof, with feedback making OctaFX the obvious choice for the 2020 award for Best CFD Broker (Asia Pacific).</p>",
     "content_sha256": "63065d189c6af0174d654708ed61232a529a50a683008795fff4ab91ddfea275",
-    "record_sha256": "b43477a4651820976db948003e4cf22cebd5fc1268c9527f4a85160d3cacbeef"
+    "record_sha256": "99b43b2cfadf7f915e830dc1f98610c7b6555085a2d7bc30d15ae16762f5d7d3"
 }
