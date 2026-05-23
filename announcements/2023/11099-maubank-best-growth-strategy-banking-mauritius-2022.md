@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330024955
+wayback_snapshot_url: "http://web.archive.org/web/20230330024955/https://cfi.co/awards/africa/2023/maubank-best-growth-strategy-banking-mauritius-2022/"
 content_sha256: 6824143b54a950f3486836d50da161007b95380e6913f5bc66cb436a2463a3d5
 canonical: 11099-maubank-best-growth-strategy-banking-mauritius-2022.json
 ---
