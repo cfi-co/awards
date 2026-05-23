@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820142700
+wayback_snapshot_url: "http://web.archive.org/web/20190820142700/https://cfi.co/awards/europe/2019/masthaven-bank-most-innovative-digital-retail-bank-uk-2019/"
 content_sha256: 8895fedb8020f3eb8128d68382a5f455ac9df7f2a1888418463773697b1c0661
 canonical: 6847-masthaven-bank-most-innovative-digital-retail-bank-uk-2019.json
 ---
