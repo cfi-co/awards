@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200613222231
+wayback_snapshot_url: "http://web.archive.org/web/20200613222231/https://cfi.co/awards/middle-east/2020/abu-dhabi-securities-exchange-adx-best-trading-innovation-excellence-gcc-2020/"
 content_sha256: 22226b6cc4d2471a6398f999250351976a1bddf1dd243a8c751060b7b617e1cf
 canonical: 7381-abu-dhabi-securities-exchange-adx-best-trading-innovation-excellence-gcc-2020.json
 ---
