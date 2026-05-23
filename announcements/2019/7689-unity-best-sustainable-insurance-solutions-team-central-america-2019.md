@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921102408
+wayback_snapshot_url: "http://web.archive.org/web/20210921102408/https://cfi.co/awards/latin-america/2019/unity-best-sustainable-insurance-solutions-team-central-america-2019/"
 content_sha256: 3a660af3d309352c510fe9128276b83d50c7aba20320260946ed4cbdb457fb9b
 canonical: 7689-unity-best-sustainable-insurance-solutions-team-central-america-2019.json
 ---
