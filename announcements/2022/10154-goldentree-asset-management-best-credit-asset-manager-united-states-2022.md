@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923190241
+wayback_snapshot_url: "http://web.archive.org/web/20230923190241/https://cfi.co/awards/north-america/2022/goldentree-asset-management-best-credit-asset-manager-united-states-2022/"
 content_sha256: 0253d1f0ccc600403ac3d0b279aad909056d4c8250b15ee581a841fbae6fe866
 canonical: 10154-goldentree-asset-management-best-credit-asset-manager-united-states-2022.json
 ---
