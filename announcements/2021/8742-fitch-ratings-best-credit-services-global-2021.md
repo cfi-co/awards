@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228102803
+wayback_snapshot_url: "http://web.archive.org/web/20210228102803/https://cfi.co/awards/north-america/2021/fitch-ratings-best-credit-services-global-2021/"
 content_sha256: afa0de953a94da366fe408b58ba801a758ba70fffc07647ddbc6d1df9b1323f1
 canonical: 8742-fitch-ratings-best-credit-services-global-2021.json
 ---
