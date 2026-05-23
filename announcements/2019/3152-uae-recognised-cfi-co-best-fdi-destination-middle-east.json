@@ -19,10 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>Following presentation of the Annual Investment Meeting  (AIM) Awards for FDI-agencies at a Gala Dinner at the Armani Hotel in Dubai on Monday 30th March, CFI.co was pleased to provide a special prize in further recognition of the outstanding investment environment efforts of the host country.</strong></p>\r\n<p style=\"text-align: justify;\">The UAE Minister of Economy, Sultan Saeed Al Mansouri received the award on behalf of the government and state in recognition of his country’s achievement in becoming the prime destination for FDI in the Middle East. The UAE has created an impressive global business hub from scratch during a very brief moment in history. The CFI.co prize also reflects the UAE’s success in creating a business environment conducive to solid FDI: one with world-class supporting infrastructure, superb living conditions for families, an attractive tax regime, a knowledge-based society, plus a dynamic, outward-looking and “go-to” business culture.</p>\r\n<p style=\"text-align: justify;\">AIM, which was held at the Dubai international Convention and Exhibition Center, focused on ‘Sustainable Development through FDI Induced Innovation and Technology Transfer’. This was an important gathering of some of  the world’s leading FDI academics, experts and practitioners – including Knowledge Partner CFI.co – under the patronage of HH Sheikh Mohammed Bin Rashid Al Maktoum, UAE Vice President, Prime Minister and Ruler of Dubai.</p>",
     "content_sha256": "0d9a12f43353dc52a6b067b917f1d9834a4e5a765f5a1a87e42a52f8c06393d9",
-    "record_sha256": "f265ed9cb15e045bb58b7b1405dc510bcfecfeebdf087338a0325808607cd3ca"
+    "record_sha256": "713f87821f5a40c269b2ce4fd42e137946c126522ad70e275c0670536dc5a5fd"
 }
