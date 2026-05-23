@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c1d25afb305afd929ebf89000f0043ac3883290c8ec973ac89c39aef52192834
 canonical: 10969-map-s-platis-best-financial-services-advisory-cyprus-2022.json
 ---
