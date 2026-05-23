@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140731082911
+wayback_snapshot_url: "http://web.archive.org/web/20140731082911/http://cfi.co/awards/europe/2014/sustainability-award-and-cfi-co-top-100-listing-2014-for-bakkafrost-faroe-islands/"
 content_sha256: 8d82af3f09200619d7077cca3b5393367f40a8da88fa08a4d8fafea31b289701
 canonical: 1188-sustainability-award-and-cfi-co-top-100-listing-2014-for-bakkafrost-faroe-island.json
 ---
