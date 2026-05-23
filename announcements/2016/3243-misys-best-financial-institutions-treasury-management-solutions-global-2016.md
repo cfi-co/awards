@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 1f44b055df0fc7325a233befbec2a4f5eac06b2f023d89d2a0e24fc2a9d8411e
 canonical: 3243-misys-best-financial-institutions-treasury-management-solutions-global-2016.json
 ---
