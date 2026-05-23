@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 92804f8805ed4dace78130a8c2429532e04b3b17dc74b8b5b8a4969bdfaae331
 canonical: 10181-augusta-co-best-renewable-energy-financial-advisory-europe-2021.json
 ---
