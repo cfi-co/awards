@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250614235022
+wayback_snapshot_url: "http://web.archive.org/web/20250614235022/https://cfi.co/awards/middle-east/2016/world-free-zones-organization-outstanding-global-contribution-to-free-zone-growth-2016/"
 content_sha256: 273b824f6441ac9c9728a448ca12f95ce99ea12eae66a2c84684ee8f080302f0
 canonical: 4792-world-free-zones-organization-outstanding-global-contribution-to-free-zone-growt.json
 ---
