@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f400a38d07e19c54be2a26db31b9a456b613e7f4b749b3fc079caace64620c9d
 canonical: 4608-central-directorate-of-national-savings-outstanding-contribution-to-financial-in.json
 ---
