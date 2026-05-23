@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140409063137",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409063137/http://cfi.co/awards/north-america/2013/usa-award-winner-wells-fargo-a-bank-for-life/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-675 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/07/Wells-Fargo.jpg\" alt=\"Wells Fargo\" width=\"225\" height=\"224\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>In the world of private banking, size does not always ensure that the personal needs of clients are always well met.</strong></p>\r\n<p style=\"text-align: justify;\">Wells Fargo Private Bank, however, displays a nimbleness that many of its smaller rivals can only view with envy. The CFI judging panel are pleased to announce Wells Fargo as the winner of the award ‘Best Private Bank USA’. Throughout Wells Fargo’s long and proud history the Bank has always been an innovator - not just in financial products (with, for example, the first indexed fund) but also in customer service - having launched the first internet bank. The feedback the panel received on Wells Fargo’s commitment to maintaining relationship managers of the very highest calibre means that clients receive seamless high quality advice as their needs and aspirations develop over time - making <a href=\"https://cfi.co/awards/north-america/2022/wells-fargo-best-small-business-banking-services-united-states-2022/\">Wells Fargo</a> Private Bank a bank for life.</p>",
     "content_sha256": "44505c86644b34900efe5238a96fb3445d602bf199fbfcb7322fd3fedb03fe74",
-    "record_sha256": "862b0ad86b80755f592c09ca4da47e964ce69d18693244954fb79df2ec46b936"
+    "record_sha256": "bce170b6a8b9f98ecbf369b784d556309dad1b7ed688394966bc93fcc567daac"
 }
