@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315105858
+wayback_snapshot_url: "http://web.archive.org/web/20260315105858/https://cfi.co/awards/europe/2026/onward-opportunities-ltd-excellence-in-small-cap-value-investing-return-generation-uk-2025/"
 content_sha256: 16bf1506d1363560a67c26a713ec6904ce7d72fd71cf1f892a622cab492c1330
 canonical: 13280-onward-opportunities-ltd-excellence-in-small-cap-value-investing-return-generati.json
 ---
