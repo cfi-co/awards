@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810085815
+wayback_snapshot_url: "http://web.archive.org/web/20200810085815/https://cfi.co/awards/north-america/2020/hi-cone-most-responsible-packaging-solutions-united-states-2020/"
 content_sha256: 16d26ce017e7157bebbb531a6815a5b827021545fba3af4852953c3b2169f6cd
 canonical: 7394-hi-cone-most-responsible-packaging-solutions-united-states-2020.json
 ---
