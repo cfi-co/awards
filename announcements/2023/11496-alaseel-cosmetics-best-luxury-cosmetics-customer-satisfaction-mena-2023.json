@@ -21,10 +21,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20230603011801",
+        "wayback_snapshot_url": "http://web.archive.org/web/20230603011801/https://cfi.co/awards/middle-east/2023/alaseel-cosmetics-best-luxury-cosmetics-customer-satisfaction-mena-2023/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: center;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2023/05/ALASEEL-LOGO-sfw-jpg.webp\"><img class=\"alignnone size-medium wp-image-11501\" src=\"https://cfi.co/awards/wp-content/uploads/2023/05/ALASEEL-LOGO-sfw-300x69.webp\" alt=\"\" width=\"300\" height=\"69\" /></a></p>\r\n<p style=\"text-align: justify;\">ALASEEL Cosmetics has made significant market penetration in the short span since its inception. The brand is owned by Al-Asayel Cosmetics Company, which was launched in 2021.</p>\r\n<p style=\"text-align: justify;\">ALASEEL offers a range of hair and skin care products made from 100 percent natural ingredients and the purest Indian and Swiss oils. All products are manufactured in Jordan according to international standards of quality and with approval from the Jordanian Food and Drug Administration. The brand aspires to put the country on the map in the high-end beauty market. ALASEEL Cosmetics is shipped worldwide and sold through half a dozen channel partners across the Middle East and Africa (MENA) region. ALASEEL’s hair oils are its flagship product, promising complete care in one bottle. It promises users thick, healthy, shiny hair free of problems and dandruff. Customer referrals praise the product’s “incomparable” ability to prevent hair loss. In March 2022, the company obtained two ISO certifications for the quality of its products following a strict auditing process. ALASEEL prioritised this certification process as a lynchpin to its global expansion plans. The company is led by a senior management team that communicates expectations clearly and places trust in its people. The ALASEEL workforce considers customer satisfaction the prime objective and innovates to create high-quality products that showcase the natural beauty of women — and men.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel announces ALASEEL Cosmetics as the 2023 award winner for Best Luxury Cosmetics Customer Satisfaction (MENA).</p>\r\n<p style=\"text-align: justify;\"></p>",
     "content_sha256": "23ff482ae1a770caad600d4ae23ca1e9caff5961af6017b0c8f965dd026534df",
-    "record_sha256": "cb1d24d48a27f73d40aa93d4c23a79273a92d82756e6b5eee0fdb646dc1f5a0a"
+    "record_sha256": "a91302ed3a7e90a4a0d3ddef25f1006a5c1625a0179ed500d1a230c7963fa5d4"
 }
