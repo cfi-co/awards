@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 9a6d081c49756264446fd9cdb2effb38412766198e8bcc8c2fb8360fd6f0c184
 canonical: 6284-working-for-smes-our-award-winner-in-sri-lanka-is-union-bank-of-colombo.json
 ---
