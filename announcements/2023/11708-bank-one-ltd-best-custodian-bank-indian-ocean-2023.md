@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923182401
+wayback_snapshot_url: "http://web.archive.org/web/20230923182401/https://cfi.co/awards/asia-pacific/2023/bank-one-ltd-best-custodian-bank-indian-ocean-2023/"
 content_sha256: df3a1240407fef9098f92cc34dd184c7e81365cf0b87a711496cc873828ede9f
 canonical: 11708-bank-one-ltd-best-custodian-bank-indian-ocean-2023.json
 ---
