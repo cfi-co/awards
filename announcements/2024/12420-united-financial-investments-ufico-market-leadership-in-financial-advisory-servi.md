@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: da8a2ad484b7aef90096820724d9607ccbdcaf80dbe09e9542130a13b93a963d
 canonical: 12420-united-financial-investments-ufico-market-leadership-in-financial-advisory-servi.json
 ---
