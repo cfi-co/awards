@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170109073654
+wayback_snapshot_url: "http://web.archive.org/web/20170109073654/http://cfi.co/awards/latin-america/2015/ernst-young-best-tax-team-argentina-2015/"
 content_sha256: d587edb34ddd748ce4cc5b3b7dcab6dbf0090e207484821ca7f1cadf3ea51a57
 canonical: 3133-ernst-young-best-tax-team-argentina-2015-2.json
 ---
