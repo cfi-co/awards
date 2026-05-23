@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120075132
+wayback_snapshot_url: "http://web.archive.org/web/20210120075132/https://cfi.co/awards/europe/2020/esg-portfolio-management-best-green-finance-expert-germany-2020/"
 content_sha256: acd66fd5d8a4a61ad15ba356635f468b2fefa60f6c4c37730b14729ef298ca14
 canonical: 8566-esg-portfolio-management-best-green-finance-expert-germany-2020.json
 ---
