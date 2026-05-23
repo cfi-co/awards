@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603003954
+wayback_snapshot_url: "http://web.archive.org/web/20230603003954/https://cfi.co/awards/europe/2023/aquis-exchange-best-pan-european-equities-trading-exchange-2023/"
 content_sha256: e9ee69ea218942c29535edec0e343f3a8dcbbcaf0884088c980709dcf84b088f
 canonical: 11285-aquis-exchange-best-pan-european-equities-trading-exchange-2023.json
 ---
