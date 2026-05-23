@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200919014329
+wayback_snapshot_url: "http://web.archive.org/web/20200919014329/https://cfi.co/awards/asia-pacific/2015/global-sustainability-award-goes-to-asia-plantation-capital/"
 content_sha256: 31b53556026dc312bdfc4ab44b4cf15508fed103c889634b3fb4f07f1d5cd31a
 canonical: 1462-global-sustainability-award-goes-to-asia-plantation-capital.json
 ---

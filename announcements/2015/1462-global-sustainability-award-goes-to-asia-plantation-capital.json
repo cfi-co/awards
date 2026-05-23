@@ -25,10 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200919014329",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200919014329/https://cfi.co/awards/asia-pacific/2015/global-sustainability-award-goes-to-asia-plantation-capital/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1464\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/apcLogo.jpg\" alt=\"apcLogo\" width=\"288\" height=\"55\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel applauds the efforts of Asia Plantation Capital, winner of the 2014 award for ‘Best Sustainable Forestry Management Team, Global’. This award recognises APC’s outstanding contribution to sustainability since 2002 and acknowledges their effective focus and strong results in an area of the very highest importance.</strong></p>\r\n<p style=\"text-align: justify;\">The Judges comment that, ‘Our winner has projects across four continents and assets owed / under management that are expected to exceed $1 billion in value in the not-too-distant future. APC works sensitively with local communities to provide much needed investment and social and cultural support in order to discourage deforestation and illegal logging activity. We are happy to note that locals employed by APC are very well treated and provided with meaningful opportunities to improve their economic prospects in ways that protect and nourish the environments in which they live.’</p>",
     "content_sha256": "31b53556026dc312bdfc4ab44b4cf15508fed103c889634b3fb4f07f1d5cd31a",
-    "record_sha256": "53e8722a8b2089d7eb71c7203cb06fd65787e83b40e4a641d4006ff0c68eed00"
+    "record_sha256": "add87edde4e6925c2b1539a6b4c7438e734c7b0ad5ad37a5a560dffff39e35f9"
 }
