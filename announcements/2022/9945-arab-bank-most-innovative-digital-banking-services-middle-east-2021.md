@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0623d5a6a0a24bded55861a4c1e13335212fbe068c996f1d8305d7aa8343ebd3
 canonical: 9945-arab-bank-most-innovative-digital-banking-services-middle-east-2021.json
 ---
