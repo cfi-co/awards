@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203234702
+wayback_snapshot_url: "http://web.archive.org/web/20201203234702/https://cfi.co/awards/asia-pacific/2020/sasseur-reit-best-commercial-reit-asia-2020/"
 content_sha256: f9248c2cb2c4a8bbf089366bd9ab1e68c3b97a464b4e6a152be3ec2119b8decd
 canonical: 8483-sasseur-reit-best-commercial-reit-asia-2020.json
 ---
