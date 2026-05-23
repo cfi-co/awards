@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210729143252
+wayback_snapshot_url: "http://web.archive.org/web/20210729143252/https://cfi.co/awards/africa/2017/tracom-services-best-enterprise-payment-solutions-east-africa-2017/"
 content_sha256: abede7eb03aa241a579e55641e1d7eb6299d3b3715fddc0eb0ec88cef5b408da
 canonical: 4254-tracom-services-best-enterprise-payment-solutions-east-africa-2017.json
 ---
