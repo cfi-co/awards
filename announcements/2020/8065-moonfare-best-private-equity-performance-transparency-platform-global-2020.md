@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210521070655
+wayback_snapshot_url: "http://web.archive.org/web/20210521070655/https://cfi.co/awards/europe/2020/moonfare-best-private-equity-performance-transparency-platform-global-2020/"
 content_sha256: 7b7ef4014d3a9c34067e0189ab26394f790363af5c3f3f0070af705e1f3ccf20
 canonical: 8065-moonfare-best-private-equity-performance-transparency-platform-global-2020.json
 ---
