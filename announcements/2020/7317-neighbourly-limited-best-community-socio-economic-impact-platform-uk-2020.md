@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200506234903
+wayback_snapshot_url: "http://web.archive.org/web/20200506234903/https://cfi.co/awards/europe/2020/neighbourly-limited-best-community-socio-economic-impact-platform-uk-2020/"
 content_sha256: d50633f857bc89671a6f66293992defe60cda5e04b5732a7ad8d8757fd1885de
 canonical: 7317-neighbourly-limited-best-community-socio-economic-impact-platform-uk-2020.json
 ---
