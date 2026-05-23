@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200617125424
+wayback_snapshot_url: "http://web.archive.org/web/20200617125424/https://cfi.co/awards/middle-east/2020/dhl-express-uae-best-logistics-solutions-gcc-2019/"
 content_sha256: bc75102b531313643d6d31f680b2a91d37e7bcaa39c70af5f8a9e6d274761eeb
 canonical: 7109-dhl-express-uae-best-logistics-solutions-gcc-2019.json
 ---
