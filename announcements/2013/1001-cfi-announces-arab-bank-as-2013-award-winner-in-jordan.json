@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140409155709",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409155709/http://cfi.co/awards/middle-east/2013/cfi-announces-arab-bank-as-2013-award-winner-in-jordan/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1002\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/Arab-Bank-Logo.jpg\" alt=\"Arab Bank Logo\" width=\"160\" height=\"131\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Arab Bank Jordan is a major player in the MENA region with a strong and consistent record of delivering products and services that truly meet the needs of clients.</strong> The CFI Judging Panel describes the Bank as an outstanding financial institution that fully deserves the accolade ‘Best Commercial Bank, Jordan, 2013.’</p>\r\n<p style=\"text-align: justify;\">Arab Bank Group performance this year has been solid recording an increase in profitability of 15.4 percent. Liquidity levels are important to this bank and its loan/deposit and capital adequacy ratios are very comfortable and significantly ahead of Central Bank requirements.</p>\r\n<p style=\"text-align: justify;\">The Bank has a very impressive regional and international network with 600 branches operating across five continents, According to the Panel, ‘Arab Bank Jordan expertise and dedication has offered much needed support to Arab economies and will continue to do so in future years’.</p>",
     "content_sha256": "385bc0b48c50fe9ee34c6842fc741b8429b4c33566bf067292bb9c2128c6ecdb",
-    "record_sha256": "ca22a1749e6f9340c3b131c6e1c8a731584e13b72c81f96b0fa530b413f0c104"
+    "record_sha256": "9307c62fe82b826fd241b613b954d8cb0e3a308d93cf22a4a44f0b81f44f276e"
 }
