@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 036b9b62dc12796c6c259930e5ba9933c0a933070027f1f6a907394ade316c8a
 canonical: 437-employment-law-winners-in-the-uk-bindmans-llp.json
 ---
