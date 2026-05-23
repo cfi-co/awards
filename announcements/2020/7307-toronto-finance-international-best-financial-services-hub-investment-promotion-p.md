@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200510015303
+wayback_snapshot_url: "http://web.archive.org/web/20200510015303/https://cfi.co/awards/north-america/2020/toronto-finance-international-best-financial-services-hub-investment-promotion-ppp-global-2020/"
 content_sha256: 409ed3cca63b1882d3e83bc609ddb0e5979057671a71086ad8eed5feacbd4ff7
 canonical: 7307-toronto-finance-international-best-financial-services-hub-investment-promotion-p.json
 ---
