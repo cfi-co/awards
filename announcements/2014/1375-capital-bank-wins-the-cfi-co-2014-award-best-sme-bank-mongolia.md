@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150807005748
+wayback_snapshot_url: "http://web.archive.org/web/20150807005748/http://cfi.co/awards/asia-pacific/2014/capital-bank-wins-the-cfi-co-2014-award-best-sme-bank-mongolia/"
 content_sha256: 1ffb0e4ef55b44ebdbb73ce1c3260ffe450ea7b97244849ce68641f597376529
 canonical: 1375-capital-bank-wins-the-cfi-co-2014-award-best-sme-bank-mongolia.json
 ---
