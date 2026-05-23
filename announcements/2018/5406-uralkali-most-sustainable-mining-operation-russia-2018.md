@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426101724
+wayback_snapshot_url: "http://web.archive.org/web/20190426101724/https://cfi.co/awards/asia-pacific/2018/uralkali-most-sustainable-mining-operation-russia-2018/"
 content_sha256: c7bc27429986bf5625195b94629531ff9292063bc8a94917826f3d114b35c8de
 canonical: 5406-uralkali-most-sustainable-mining-operation-russia-2018.json
 ---
