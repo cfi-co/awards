@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20130828094540
+wayback_snapshot_url: "http://web.archive.org/web/20130828094540/http://cfi.co/awards/europe/2013/julius-baer-second-year-as-cfis-best-private-bank-switzerland/"
 content_sha256: 4ff9fb3388d731085cc0db32dc75e0c238265b06dd68500d704740d700405b68
 canonical: 721-julius-baer-second-year-as-cfis-best-private-bank-switzerland.json
 ---
