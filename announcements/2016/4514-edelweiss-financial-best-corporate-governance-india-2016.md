@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921115019
+wayback_snapshot_url: "http://web.archive.org/web/20210921115019/https://cfi.co/awards/asia-pacific/2016/edelweiss-financial-best-corporate-governance-india-2016/"
 content_sha256: f4401fc5ea54c477a476d41a443b0f51042115909d04366dd6ba72a22c476f80
 canonical: 4514-edelweiss-financial-best-corporate-governance-india-2016.json
 ---
