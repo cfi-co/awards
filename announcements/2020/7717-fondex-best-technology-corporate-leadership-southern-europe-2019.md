@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203062420
+wayback_snapshot_url: "http://web.archive.org/web/20221203062420/https://cfi.co/awards/europe/2020/fondex-best-technology-corporate-leadership-southern-europe-2019/"
 content_sha256: ba7f3cfea45a5c8e9eaa9a1d8900bf5ed09e7e0bb639a1537a4ff9e7655fd80b
 canonical: 7717-fondex-best-technology-corporate-leadership-southern-europe-2019.json
 ---
