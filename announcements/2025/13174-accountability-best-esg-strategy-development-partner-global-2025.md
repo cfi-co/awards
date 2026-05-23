@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251108163849
+wayback_snapshot_url: "http://web.archive.org/web/20251108163849/https://cfi.co/awards/best-practice/2025/accountability-best-esg-strategy-development-partner-global-2025/"
 content_sha256: b624dc850ac3581b7dd5049cd41d979995d5bb5e5553b49688cc3eb9f285b58e
 canonical: 13174-accountability-best-esg-strategy-development-partner-global-2025.json
 ---
