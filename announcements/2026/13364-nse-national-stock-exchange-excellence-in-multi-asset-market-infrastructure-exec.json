@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13373\" src=\"https://cfi.co/awards/wp-content/uploads/2026/03/NSE.jpg\" alt=\"NSE\" width=\"600\" height=\"203\" />\r\n<p style=\"text-align: justify;\">India’s economic transformation has been underpinned by market infrastructure capable of operating at unprecedented scale, and National Stock Exchange (NSE) exemplifies this capability through sustained innovation, executional excellence, and systemic impact. Incorporated in 1992 and commenced operations in 1994, it pioneered fully screen-based trading in India and has since evolved into the world’s largest multi-asset exchange (based on number of trades), supporting equities, derivatives, bonds, mutual funds, commodities, REITs, InvITs and electricity futures within a single, resilient architecture. Its platform has processed up to 20 billion orders and around 300 million trades at its peak while maintaining response times of about 100 microseconds; with the planned upgrade to nanosecond-level latency shortly, enabling capacity of nearly 100 million transactions per second, NSE will further enhance speed, efficiency, and resilience in trading, reinforcing trust, liquidity, and price discovery. By operating a market with over 250m investor accounts linked to 128m unique individuals and spanning 99.85% of India’s pincodes, NSE enhances transparency, financialisation and inclusion at national scale. Its disciplined deployment of in-house AI and big data strengthens regulatory oversight, market integrity and operational efficiency without compromising determinism. Through cross-border linkages, international partnerships and continuous product expansion, NSE demonstrates how technology-led market infrastructure can drive market access, financial deepening, and global relevance. Its governance, resilience and scalability set enduring benchmarks for emerging and developed markets alike worldwide today and tomorrow. The Capital Finance International (CFI.co) Judging Panel congratulates NSE (National Stock Exchange) on winning the 2025 Excellence in Multi-Asset Market Infrastructure &amp; Execution Award (Asia).</p>",
     "content_sha256": "db801912ea63a9746f288ec71083a1a58edb620c5f268218ea2d6397b674733f",
-    "record_sha256": "0d9f6a6529395c1446b5ad12bc58ffdd92e1778f6d36bbc7bfdd16501bd425f4"
+    "record_sha256": "20661d769a008270a3ba5fa8972211fd7fcf643a3044bbb1b8e3f6b1f853db54"
 }
