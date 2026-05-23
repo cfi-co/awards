@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 4331139d063ee777b06b9253c79d3532f0516d648ecd9e9e3a7cf005895fd7b9
 canonical: 6214-sanlam-investments-best-fund-investment-manager-africa-2018.json
 ---

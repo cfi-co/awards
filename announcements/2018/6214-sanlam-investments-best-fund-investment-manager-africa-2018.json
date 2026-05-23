@@ -19,10 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6215\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Sanlam.jpg\" alt=\"\" width=\"349\" height=\"49\" />\r\n<p style=\"text-align: justify;\">When it comes to investment management for institutions, it’s largely about the long term. Protecting capital while managing growth requires the patience that comes with experience. This does not mean resting on laurels, rather it means knowing how and when to adapt and innovate. Sanlam Investments have proven over nearly a century that they know how to adapt and innovate to protect and grow wealth. Sanlam have developed a dynamic team of professionals who work to their strengths – balancing experience and talent while constantly maintaining their enthusiastic approach. Present in 13 African countries, Sanlam have become a trusted partner to many international investors, notably working with the FMO (Dutch Development Bank) to raise $535milion for the Climate Investor One fund (to help deliver clean energy to approximately 7 million Africans). The CFI.co judging panel are pleased to announce Sanlam Investments as the winner of the award Best Fund Investment Manager Africa in the Institutional Investment Management Awards for 2018.</p>",
     "content_sha256": "4331139d063ee777b06b9253c79d3532f0516d648ecd9e9e3a7cf005895fd7b9",
-    "record_sha256": "7f4c26a8fffba7e41a405bf296c010b0075bfb46f906c473c1ccda1ccd7189dc"
+    "record_sha256": "de0d364dfd4daf7f2a62ab0d6ac3673ac920367f08c1bace4fca8fe1d800feb8"
 }
