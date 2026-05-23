@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4721\" src=\"https://cfi.co/awards/wp-content/uploads/2017/08/AFS.jpg\" alt=\"\" width=\"261\" height=\"167\" />\r\n\r\n<strong>For well over three decades, Arab Financial Services Company (AFS) has been the leading provider of payment solutions throughout the MENA Region. The company, headquartered in Bahrain, is jointly owned by forty banks and other financial services providers and offers a full suite of end-to-end payment processing products backed up by two state-of-the-art data centres.</strong>\r\n\r\nAFS clients enjoy access to payment processing solutions that drive down costs whilst boosting revenues through improved and faster customer service. More than just a service provider, AFS partners with businesses in order to offer scalable products that dovetail with client needs. As such, AFS is a partner to its clients’ success, driving growth and optimising profitability.\r\n\r\nAFS maintains a highly trained staff of seasoned professionals that allows the company to produce innovative solutions and keep its leading edge. AFS has put in place a sophisticated fraud detection system – Risknet – that mitigates risk by allowing clients to constantly monitor offline and online transactions and easily spot suspicious patterns. The company also offers a loyalty management system, advanced data analytics, SMS services, and charge back schemes, amongst others.\r\n\r\nThe CFI.co judging panel notes that AFS is a driver of mobile payment systems as well and a pioneer in the design and delivery of m-commerce services, allowing for on-the-go transactions. The judges are pleased to name Arab Financial Services Company winner of the 2017 Best Payment Innovation of the Year Middle East Award.",
     "content_sha256": "c6784dc7be120db6794d1735ae84582fb5f040a81b7910e75c47f9da5a035ac9",
-    "record_sha256": "15e524d73371b6a61697896736c43e7296da56f9809d3bc068c082686b612e68"
+    "record_sha256": "896439b0ef012ab0cfdee2758c3bb9ee9e5ac0b63a7dd95ee27c2b3cc0765688"
 }

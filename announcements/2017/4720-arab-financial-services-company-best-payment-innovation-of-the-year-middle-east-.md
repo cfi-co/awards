@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c6784dc7be120db6794d1735ae84582fb5f040a81b7910e75c47f9da5a035ac9
 canonical: 4720-arab-financial-services-company-best-payment-innovation-of-the-year-middle-east-.json
 ---
