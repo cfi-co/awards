@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810080226
+wayback_snapshot_url: "http://web.archive.org/web/20200810080226/https://cfi.co/awards/north-america/2020/capital-power-best-esg-responsible-energy-producer-canada-2020/"
 content_sha256: 1fef286bbb5e3f92d69bfcc363f13f54ddfae7da027c6562f8511f81304c2019
 canonical: 7969-capital-power-best-esg-responsible-energy-producer-canada-2020.json
 ---
