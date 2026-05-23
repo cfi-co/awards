@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10002\" src=\"https://cfi.co/awards/wp-content/uploads/2022/01/Kay-International.jpg\" alt=\"Kay International\" width=\"400\" height=\"237\" />\r\n<p style=\"text-align: justify;\">Kay International AMEA Limited, headquartered in the Dubai International Financial Centre since 2016, has established itself as a trusted Managing General Agent with a reputation for underwriting excellence and operational integrity across complex and emerging markets. The company specialises in facultative and treaty reinsurance, providing tailored solutions that demonstrate depth and adaptability. Over the past decade, Kay has expanded its global footprint with offices in Miami and Singapore, enabling coverage across Latin America, the Caribbean, Southeast Asia, Africa, Central Asia, the Middle East, and South Asia, while its Dubai operation continues to serve as a strategic hub. A defining feature of the firm’s model is its claims reserve fund, supported by reinsurance capacity providers, which allows Kay to settle claims directly and operate as a virtual reinsurer, ensuring efficiency and satisfaction. Kay has also built a diverse panel of highly rated reinsurers from multiple regions, mitigating concentration risk and fostering resilience in volatile environments. In 2025, it became the first MGA in Asia, the Middle East, and Africa to receive an AM Best Performance Assessment, achieving a PA-3 (Strong) rating, a milestone that underscores its financial strength, governance, and leadership. The company is equally committed to promoting awareness of the MGA model, engaging with regulators, and hosting industry discussions to encourage transparency and innovation in underdeveloped markets. The Capital Finance International (CFI.co) Judging Panel congratulates Kay International AMEA Limited on winning the 2025 award Best Reinsurance Managing General Agent (MENA).</p>",
     "content_sha256": "04fefa81165492785e5dc2bb3cf38250b52f6e6eac04227ff563a38be5be2974",
-    "record_sha256": "b57af809170a53118b8753742bf26a86d9cd3d73ff6afa953c11b61aa04557a2"
+    "record_sha256": "8011df8da4c3d3fe875e9fb53dcd66752426a487da1143c85f6490292f8d8101"
 }

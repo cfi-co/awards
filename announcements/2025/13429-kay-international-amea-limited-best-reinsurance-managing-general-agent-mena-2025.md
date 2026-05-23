@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 04fefa81165492785e5dc2bb3cf38250b52f6e6eac04227ff563a38be5be2974
 canonical: 13429-kay-international-amea-limited-best-reinsurance-managing-general-agent-mena-2025.json
 ---
