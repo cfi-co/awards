@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924122536
+wayback_snapshot_url: "http://web.archive.org/web/20210924122536/https://cfi.co/awards/europe/2019/athelney-trust-best-small-cap-equity-investor-united-kingdom-2019/"
 content_sha256: 2d0ef50db4e32ac77e24742961f3d2db5622b289c4b50dd0fe2eb43ea4aa7cd7
 canonical: 7247-athelney-trust-best-small-cap-equity-investor-united-kingdom-2019.json
 ---
