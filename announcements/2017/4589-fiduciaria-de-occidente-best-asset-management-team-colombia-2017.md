@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190916090103
+wayback_snapshot_url: "http://web.archive.org/web/20190916090103/https://cfi.co/awards/latin-america/2017/fiduciaria-de-occidente-best-asset-management-team-colombia-2017/"
 content_sha256: 192083542cb7954720924056ba6405a883dba3c6e0211d55292d54b927e8b42c
 canonical: 4589-fiduciaria-de-occidente-best-asset-management-team-colombia-2017.json
 ---
