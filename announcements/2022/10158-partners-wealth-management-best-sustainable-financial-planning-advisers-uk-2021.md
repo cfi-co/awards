@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7e9bdf32c6ea5098c0c5aa48e00c375160f023b5761efff0efc86eced0a13734
 canonical: 10158-partners-wealth-management-best-sustainable-financial-planning-advisers-uk-2021.json
 ---
