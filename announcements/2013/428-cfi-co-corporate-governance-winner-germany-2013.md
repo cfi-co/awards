@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 018a142a2982c6fd10187b163c3aa0fb029af7097dd93b5395f537fea58d5d64
 canonical: 428-cfi-co-corporate-governance-winner-germany-2013.json
 ---
