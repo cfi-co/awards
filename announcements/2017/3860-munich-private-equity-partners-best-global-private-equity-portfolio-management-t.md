@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921103938
+wayback_snapshot_url: "http://web.archive.org/web/20210921103938/https://cfi.co/awards/finance/2017/munich-private-equity-partners-best-global-private-equity-portfolio-management-team-germany-2016/"
 content_sha256: 863771f4f8212bada94f35d24095c343c1072cdcf39b264b57682ccb88e10c81
 canonical: 3860-munich-private-equity-partners-best-global-private-equity-portfolio-management-t.json
 ---

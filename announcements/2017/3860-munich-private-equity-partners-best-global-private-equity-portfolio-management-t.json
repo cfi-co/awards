@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921103938",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921103938/https://cfi.co/awards/finance/2017/munich-private-equity-partners-best-global-private-equity-portfolio-management-team-germany-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"size-full wp-image-5833 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2017/02/MPEP.jpg\" alt=\"\" width=\"500\" height=\"190\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Though of paramount importance to any investor, numbers do not tell the whole story. Munich Private Equity Partners (MPEP) maintains a solid track record in managing private equity portfolios thanks to the firm’s almost stoic adherence to – and insistence on – quality as a time constant. Whilst blips, lapsing by their very nature, may provide momentary returns; looking at trends and performance over long timespans always produces superior results.</strong></p>\r\n<p style=\"text-align: justify;\">Committed to continuously improving and fine-tuning its procedures, and inspiring fund managers to reach new heights by appealing to their entrepreneurial spirit, MPEP manages to extract optimum and stable returns for its clients. Established on the premise that solid partnerships require both diligence and a degree of savvy, the fiercely independent company remains true to its founding principles.</p>\r\n<p style=\"text-align: justify;\">The private equity firm oversees more than 190 private equity fund investments with more than 2,700 companies worldwide, primarily in the lower mid- and mid-market buyout segment. Amongst others, MPEP offers institutional investors fund of funds products. As a mid-sized fund manager, the firm has the in-house experience and expertise to operate globally without sacrificing personalised services.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is impressed by the firm’s relentless dedication to quality and its quest to improve procedures as well as outcomes. The judges are very pleased to offer MPEP the 2016 Best Global Private Equity Portfolio Management Team Germany Award.</p>",
     "content_sha256": "863771f4f8212bada94f35d24095c343c1072cdcf39b264b57682ccb88e10c81",
-    "record_sha256": "1c85ec84c6fec35e190c17614fc5fac478b4e63214f10f44835cc3939907149b"
+    "record_sha256": "f675c19a1fd6f2b3f39fba51f757d1d273f7eb453eea7045d7a80cc5d1866d8a"
 }
