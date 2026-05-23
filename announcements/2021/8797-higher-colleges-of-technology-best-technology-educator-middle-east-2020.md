@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104717
+wayback_snapshot_url: "http://web.archive.org/web/20210228104717/https://cfi.co/awards/middle-east/2021/higher-colleges-of-technology-best-technology-educator-middle-east-2020/"
 content_sha256: b33905b149fbe09de1cce035de45579ae75d5496fb31c1fc3ca7b276026e3bab
 canonical: 8797-higher-colleges-of-technology-best-technology-educator-middle-east-2020.json
 ---
