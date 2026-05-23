@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315114717
+wayback_snapshot_url: "http://web.archive.org/web/20260315114717/https://cfi.co/awards/europe/2026/earth-active-excellence-in-esg-risk-investment-advisory-uk-2025/"
 content_sha256: 0258405c37afbfe1bb3d7409ee6dd074342e115da29087577b590d92e6dd7d5e
 canonical: 13264-earth-active-excellence-in-esg-risk-investment-advisory-uk-2025.json
 ---
