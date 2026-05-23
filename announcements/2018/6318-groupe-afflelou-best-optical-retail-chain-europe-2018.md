@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723005529
+wayback_snapshot_url: "http://web.archive.org/web/20190723005529/https://cfi.co/awards/europe/2018/groupe-afflelou-best-optical-retail-chain-europe-2018/"
 content_sha256: 309adac0776157e819c5dd89e6887308055869fcb23160c8d265f369cd2f283c
 canonical: 6318-groupe-afflelou-best-optical-retail-chain-europe-2018.json
 ---
