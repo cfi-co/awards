@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230528032615
+wayback_snapshot_url: "http://web.archive.org/web/20230528032615/https://cfi.co/awards/finance/2023/prospect-capital-best-real-estate-investor-usa-2023/"
 content_sha256: d75d58243a9eb84e8d68735d8ec7d0eda569ef477c140bf377b4efc16552bb71
 canonical: 11260-prospect-capital-best-real-estate-investor-usa-2023.json
 ---
