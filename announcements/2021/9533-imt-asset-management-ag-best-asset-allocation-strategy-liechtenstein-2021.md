@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920111433
+wayback_snapshot_url: "http://web.archive.org/web/20210920111433/https://cfi.co/awards/europe/2021/imt-asset-management-ag-best-asset-allocation-strategy-liechtenstein-2021/"
 content_sha256: 136085accbd984bfe7b7793632d470165f0a2c3c47bfea13b29d42a806617653
 canonical: 9533-imt-asset-management-ag-best-asset-allocation-strategy-liechtenstein-2021.json
 ---

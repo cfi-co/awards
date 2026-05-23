@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210920111433",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210920111433/https://cfi.co/awards/europe/2021/imt-asset-management-ag-best-asset-allocation-strategy-liechtenstein-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9534\" src=\"https://cfi.co/awards/wp-content/uploads/2021/08/IMT-Group.jpg\" alt=\"IMT Group\" width=\"400\" height=\"400\" />\r\n<p style=\"text-align: justify;\">Empirical studies show asset allocation accounts for 80 percent of a portfolio’s overall performance, and IMT Asset Management AG (IMTA) follows the science. The Liechtenstein firm focuses on a broad diversification across asset classes in order to design robust portfolios, which weather changing market conditions. Draw-down risks are carefully managed by vetting individual investments, tactical variations of the asset allocation, and certain tail-risk hedges. It takes care to ensure clients are not overexposed, and balances active and passive investment products to keep product costs in check. IMTA, established in 1999, invites scrutiny from industry experts to promote continuous learning and objective self-assessment. It promises full transparency and fair fees. Conservative, cost-conscious, and with a comfortable hedge strategy, the firm ended the tumultuous year of 2020 with a positive performance. In 2021 as of Mid-August IMTA’s balanced portfolio was up 10%. IMTA is licensed to operate under the Alternative Investment Fund Managers Directive. It works with institutional and individual investors as well as third-party investment managers across the European Economic Area. Supervision by the Liechtenstein Financial Market Authority and tried and tested strategies have won the trust of clients. As well as discretionary asset management, IMTA offers assistance with the structuring and maintenance of regulated investment funds, including private equity. It offers independent, unbiased advisory and control services for trusts, foundations and family offices, assisting with governance structures, due diligence and the selection of third-party investment managers. The CFI.co judging panel announces IMT Asset Management AG as winner of the 2021 award for Best Asset Allocation Strategy (Liechtenstein).</p>",
     "content_sha256": "136085accbd984bfe7b7793632d470165f0a2c3c47bfea13b29d42a806617653",
-    "record_sha256": "4b06fdd2e240754d3269ec8049dfee556b884e4763a74542fa5c23ee695f2958"
+    "record_sha256": "56087d64bbb10268228341cd6f40b1214fac9b0666fea3180097afcf10b8e3a0"
 }
