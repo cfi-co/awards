@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603002405
+wayback_snapshot_url: "http://web.archive.org/web/20230603002405/https://cfi.co/awards/europe/2023/acin-best-operational-risk-management-uk-2023/"
 content_sha256: 6db73f322419fa668dfe2b43affb335ddc128428506f272766daba953993eaee
 canonical: 11252-acin-best-operational-risk-management-uk-2023.json
 ---
