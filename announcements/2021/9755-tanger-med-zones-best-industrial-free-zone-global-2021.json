@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211207210739",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211207210739/https://cfi.co/awards/africa/2021/tanger-med-zones-best-industrial-free-zone-global-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4056\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/TangerMedZones.jpg\" alt=\"TangerMedZones\" width=\"434\" height=\"119\" />\r\n<p style=\"text-align: justify;\">Tanger Med Zones occupies a prime position at the gateway between Europe and North Africa, with 5000 hectares of land in an 80-kilometre radius around the largest port in Africa and Mediterranean sea, Tanger Med Port (Tanger, in its French spelling). Tanger Med Zones has established an integrated industrial platform of eight special economic zones: Tanger Free Zone, Tanger Automotive City, Renault Tanger Med, Tetouan Park, TetouanShore, Economic and Logistics Activity Zone, and Retail Zone. Over the past decade, Tanger Med Zones has attracted $5.9m in FDI and 1,100 tenants. Fourteen of the world’s 20 largest automotive suppliers have set up in the free zone, exporting a million 700 000 Moroccan-manufactured vehicles each year. Aeronautical manufacturers have found a base here, too. The free-zone port boasts the best maritime connectivity in Africa, ranked 24th globally, and links 187 ports around the world. Seven million passengers and 700,000 trucks pass through Tangier on an annual basis — and 90,000 jobs have been created throughout the zones and the port. Foreign subsidiaries benefit from investment incentives offered by the Moroccan government, including a business-friendly tax framework and VAT exemption. Tanger Med Zones plug-and-play platform streamlines business set-up, cutting through red tape by consolidating dealings within the free zone authority rather than via separate governmental departments. Tanger Med Zones promises a quick and easy installation process, with documentation usually processed within 10 business days. There are 900 export-geared companies, with goods worth $10.4bn, in residence. The CFI.co judging panel presents Tanger Med Zones with the 2021 global award for Best Industrial Free Zone.</p>",
     "content_sha256": "83dcb5e719f394bbf89bff3de2d426ffe5b54da4e232bd00d678b7f29eeafabc",
-    "record_sha256": "424c7a40fa961e6d74978e2b90bcd0d7967d6102f02c93c995c1cb0bf461c6cf"
+    "record_sha256": "21543d0de4b2d16997bd5bbcb9f7ecf806128d988f0dbbe175b3f5ee0006e5e7"
 }
