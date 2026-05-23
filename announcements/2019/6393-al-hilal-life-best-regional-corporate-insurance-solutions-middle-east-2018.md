@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190717211628
+wayback_snapshot_url: "http://web.archive.org/web/20190717211628/https://cfi.co/awards/front/2019/al-hilal-life-best-regional-corporate-insurance-solutions-middle-east-2018/"
 content_sha256: 4126b2e705d86517f0de5de7e4cac06952158aacb555e592bc2414869dcf0987
 canonical: 6393-al-hilal-life-best-regional-corporate-insurance-solutions-middle-east-2018.json
 ---
