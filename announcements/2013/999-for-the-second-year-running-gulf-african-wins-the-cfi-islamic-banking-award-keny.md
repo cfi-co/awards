@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409154746
+wayback_snapshot_url: "http://web.archive.org/web/20140409154746/http://cfi.co/awards/africa/2013/for-the-second-year-running-gulf-african-wins-the-cfi-islamic-banking-award-kenya/"
 content_sha256: dc9a28930b1c29f154cfefb290cd2cdd127886098c852d306b96f024b6ca3b34
 canonical: 999-for-the-second-year-running-gulf-african-wins-the-cfi-islamic-banking-award-keny.json
 ---

@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20140409154746",
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409154746/http://cfi.co/awards/africa/2013/for-the-second-year-running-gulf-african-wins-the-cfi-islamic-banking-award-kenya/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-233\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/gab.gif\" alt=\"gab\" width=\"235\" height=\"140\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Established five years ago as the first Islamic bank in East Africa, Gulf African is now the largest such operation in the region.</strong> According to the CFI judging Panel, ‘This bank has transparency as a core concern and exhibits a thoroughly innovative approach to meeting the needs of its customers. Gulf African is to be congratulated on recognising when they did the increasing market demand for Shari’ah compliant products and services in this part of the world. They have responded magnificently to the challenge. Gulf African Bank has won the Best Islamic Bank Award, Kenya for the second year running because management insists on putting the interests of clients in first place. We are delighted to see that this bank is moving from strength to strength on the basis of this commitment.’</p>\r\n<p style=\"text-align: justify;\">For more information, please visit <a href=\"http://www.gulfafricanbank.com/\" target=\"_blank\">www.gulfafricanbank.com</a></p>",
     "content_sha256": "dc9a28930b1c29f154cfefb290cd2cdd127886098c852d306b96f024b6ca3b34",
-    "record_sha256": "822d71599932c4eceffaf7f27b9e157e61d5dc38ed61714e3391c592e2f20c31"
+    "record_sha256": "6a2f07540ca00666bab9cde9318e9f8b5014daa2598c0f0ac04476ef273cdda3"
 }
