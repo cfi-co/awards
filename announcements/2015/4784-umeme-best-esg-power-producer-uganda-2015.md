@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c401779739072677d1c11d9c032b859797d2b288855e69c31b228bccc57de2af
 canonical: 4784-umeme-best-esg-power-producer-uganda-2015.json
 ---
