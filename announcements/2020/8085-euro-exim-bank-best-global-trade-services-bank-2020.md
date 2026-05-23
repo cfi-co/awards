@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c622ba57d6dbfccd7f13ac7ef4b03da5770bbce863aef03bef24cc2767f0df49
 canonical: 8085-euro-exim-bank-best-global-trade-services-bank-2020.json
 ---
