@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203055209
+wayback_snapshot_url: "http://web.archive.org/web/20221203055209/https://cfi.co/awards/latin-america/2017/gol-linhas-aereas-inteligentes-best-value-creation-leadership-brazil-2017/"
 content_sha256: d8edbb66d0ab3bbb9888185a7578a28db1cdcd318ccc52263982089cad61662e
 canonical: 4953-gol-linhas-aereas-inteligentes-best-value-creation-leadership-brazil-2017.json
 ---
