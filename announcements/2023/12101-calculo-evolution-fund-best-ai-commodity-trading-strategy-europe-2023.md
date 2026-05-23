@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240420141809
+wayback_snapshot_url: "http://web.archive.org/web/20240420141809/https://cfi.co/awards/europe/2023/calculo-evolution-fund-best-ai-commodity-trading-strategy-europe-2023/"
 content_sha256: 823ed11603a0f9fc576ca6d2c1aabb0e9b139e719cce41c5c6a99b5dc087858d
 canonical: 12101-calculo-evolution-fund-best-ai-commodity-trading-strategy-europe-2023.json
 ---
