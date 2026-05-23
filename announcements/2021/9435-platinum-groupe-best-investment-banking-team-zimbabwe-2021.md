@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920113450
+wayback_snapshot_url: "http://web.archive.org/web/20210920113450/https://cfi.co/awards/africa/2021/platinum-groupe-best-investment-banking-team-zimbabwe-2021/"
 content_sha256: bebd9241ec9e7bc12f1becd2c69f96200b4e1b3287268610ca80f877710fd2d9
 canonical: 9435-platinum-groupe-best-investment-banking-team-zimbabwe-2021.json
 ---
