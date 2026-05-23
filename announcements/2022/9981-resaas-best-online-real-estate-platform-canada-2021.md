@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220811153831
+wayback_snapshot_url: "http://web.archive.org/web/20220811153831/https://cfi.co/awards/north-america/2022/resaas-best-online-real-estate-platform-canada-2021/"
 content_sha256: 3ae88adbdfbcf41b9c452467a9642c6dc903b198a8fbd3725173d5a225609f1d
 canonical: 9981-resaas-best-online-real-estate-platform-canada-2021.json
 ---
