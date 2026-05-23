@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210924112738",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210924112738/https://cfi.co/awards/banking/2016/access-bank-uk-best-africa-trade-finance-bank-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3240\" src=\"https://cfi.co/awards/wp-content/uploads/2016/08/TheAccessBankUK.jpg\" alt=\"TheAccessBankUK\" width=\"392\" height=\"62\" /></p>\r\n<p style=\"text-align: justify;\"><strong>No two trade deals are equal: exchange rates change, transport modes differ and transit times may vary. Rather than offering a one-size-fits-all solution, trade financiers must know their customers and be willing to adjust to changing circumstance.</strong></p>\r\n<p style=\"text-align: justify;\">The Access Bank UK, headquartered in London, is the wholly owned subsidiary of its parent in Nigeria who also have a presence in eight Sub-Saharan countries, and takes pride in understanding its clients’ business. The bank – large enough to service any deal, yet small enough to remain nimble – does not offer ready-made solutions. Instead, The Access Bank UK dovetails its products to fit customer needs.</p>\r\n<p style=\"text-align: justify;\">The bank invests significant effort in attracting, and retaining and training, professional staff who, as a rule, forge close relationships with clients in order to ensure customers always deal with an expert who knows is familiar with his/her business.</p>\r\n<p style=\"text-align: justify;\">The Access Bank UK is known for its in-house development of expertise. Employees are encouraged to pursue a career of lifelong learning and may expect to move up the professional ladder. Moreover, The Access Bank UK aims for full service: no shortcuts are taken. Instead, the processing of documents is sped up so that most deals are cemented in under three days.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel noted that the Central Bank of Nigeria has entrusted The Access Bank UK with looking after its reserves. The bank also works closely with the World Bank on infrastructure projects. The judges have no hesitation in granting The Access Bank UK the 2016 Best Africa Trade Finance Bank Award.</p>",
     "content_sha256": "22c0a5f39af5344986e0df703e7fdcd4ed94e3d0516230ac4139d49a7eb952eb",
-    "record_sha256": "4c0a8d309dea6f89e05c6894c4f6fc79ee45366b31b15a95da278690184bc6f0"
+    "record_sha256": "b5240a868d14080254cda6f8f4164ce9b6ddb06dcc052447b71fbeee142c5c0e"
 }
