@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921104854
+wayback_snapshot_url: "http://web.archive.org/web/20210921104854/https://cfi.co/awards/finance/2016/frost-consulting-best-financial-regulatory-risk-management-advisory-united-kingdom-2016/"
 content_sha256: 64b8b9082a80f0eedfe5830f0ef854ecdd57156eefd5677ac0c6c30734bf9dd8
 canonical: 3540-frost-consulting-best-financial-regulatory-risk-management-advisory-united-kingd.json
 ---
