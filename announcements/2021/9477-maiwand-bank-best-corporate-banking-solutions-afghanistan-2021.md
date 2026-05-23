@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920120905
+wayback_snapshot_url: "http://web.archive.org/web/20210920120905/https://cfi.co/awards/asia-pacific/2021/maiwand-bank-best-corporate-banking-solutions-afghanistan-2021/"
 content_sha256: c9f862036e75639ed63adb84391c0c9a15a04c5de78b52cef1dc37c9d2f85c42
 canonical: 9477-maiwand-bank-best-corporate-banking-solutions-afghanistan-2021.json
 ---
