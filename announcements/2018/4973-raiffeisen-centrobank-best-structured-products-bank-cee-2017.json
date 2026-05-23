@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4975\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/Raifeisen.jpg\" alt=\"\" width=\"324\" height=\"91\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Austria’s leading investment bank is pushing into the buoyant markets of Central and Eastern Europe, deploying its expertise to offer clients a full, yet decluttered and integrated, range of premier products and services that add real value in the form of innovation and convenience.</strong></p>\r\n<p style=\"text-align: justify;\">Raiffeisen Centrobank, in business since 1973, introduced its first structured products in CEE about a decade ago and has pioneered a simple yet effective approach to marketing centred on full transparency, solid technology, and robust security. The bank’s different investment options and instruments are explained in great detail in order that retail clients at all times understand what it is they are buying.</p>\r\n<p style=\"text-align: justify;\">Raiffeisen Centrobank has established close relationships with seven international exchanges to offer clients seamless access to the world’s major markets. The bank offers a large number of certificates that allow investors to easily tap into exceptional investment opportunities. The majority of RCB’s structured products offers clear-cut built-in guaranties that shield investors from downsides in the form of partial capital protection. Via these products investors may participate in specific sectors not normally open to retail clients.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that Raiffeisen Centrobank has gained wide recognition for its excellences in delivering servicing and addressing queries from clients. The bank also maintains a well-respected research department staffed by experienced analysists who regularly publish updates of their findings. The judges are pleased to offer Raiffeisen Centrobank the 2017 Best Structured Products Bank Central and Eastern Europe Award.</p>",
     "content_sha256": "696e2b2a4e47fda4f04ada7a00f6898c4af370dce8b67596e7b0890e664257bd",
-    "record_sha256": "92dbdd9a9c8ddb202954acd0bb924c8ba2f69225c061df7b2f2517f3ca5125ab"
+    "record_sha256": "80284e083fe9e346c1c45992e669deff2f5bee3e4e6f2d090ee0fc42f53c258b"
 }
