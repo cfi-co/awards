@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923171217
+wayback_snapshot_url: "http://web.archive.org/web/20230923171217/https://cfi.co/awards/europe/2023/cordet-best-alternative-credit-investor-uk-2023/"
 content_sha256: cf3e460573dbafc5bd5c31ce1b3ba23ba22b0300609898aedc9ac8da07f82a64
 canonical: 11706-cordet-best-alternative-credit-investor-uk-2023.json
 ---
