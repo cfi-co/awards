@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813172557
+wayback_snapshot_url: "http://web.archive.org/web/20200813172557/https://cfi.co/awards/latin-america/2020/fama-investimentos-best-esg-integrated-investment-strategy-latin-america-2019/"
 content_sha256: 7643c5cc5ce0bf03ef4007336212018e915201137464a56bba5c1c21612d7ae3
 canonical: 7765-fama-investimentos-best-esg-integrated-investment-strategy-latin-america-2019.json
 ---
