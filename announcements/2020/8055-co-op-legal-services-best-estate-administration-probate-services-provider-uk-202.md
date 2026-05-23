@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201023004557
+wayback_snapshot_url: "http://web.archive.org/web/20201023004557/https://cfi.co/awards/europe/2020/co-op-legal-services-best-estate-administration-probate-services-provider-uk-2020/"
 content_sha256: abba6b21c72ef5f044defec29edc43d46056f4bc9db29e9c845ccff1e659826d
 canonical: 8055-co-op-legal-services-best-estate-administration-probate-services-provider-uk-202.json
 ---
