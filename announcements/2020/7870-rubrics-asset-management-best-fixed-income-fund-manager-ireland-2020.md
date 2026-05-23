@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810084856
+wayback_snapshot_url: "http://web.archive.org/web/20200810084856/https://cfi.co/awards/europe/2020/rubrics-asset-management-best-fixed-income-fund-manager-ireland-2020/"
 content_sha256: 75557933f5290684102f83bec471e6c1ba3246747b3064db214cec7282c60ba6
 canonical: 7870-rubrics-asset-management-best-fixed-income-fund-manager-ireland-2020.json
 ---
