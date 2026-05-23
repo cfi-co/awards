@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1173\" src=\"https://cfi.co/awards/wp-content/uploads/2014/02/AIB.jpg\" alt=\"AIB\" width=\"300\" height=\"52\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Afghanistan International is a well trusted bank largely because of its overwhelming concern for and attention to the rigours of good corporate governance. Management’s view is that only a bank with strong corporate governance can truly succeed. The CFI.co Judging Panel agrees and is delighted to confirm this bank’s award for, ‘Best Corporate Governance, Afghanistan, 2014’.</strong></p>\r\n<p style=\"text-align: justify;\">Performance ratios at the Bank are in line with best practice, board leadership is strong and there would appear to be no political or other interference in operations. The Panel is impressed with Afghanistan International Bank’s conduct and commitment to a healthy and far-reaching corporate governance programme. The judges commented that, ‘AIB is a worthy winner and an excellent example to the wider business community in the country’.</p>",
     "content_sha256": "a2409ae50ae0eedda5bed71e8d84288268dbfbc144a769fc1f9e50aee5713544",
-    "record_sha256": "bc8cc52dd97d14a192d2523511a678d1593a7ae2d7842d822804cae5ebbab932"
+    "record_sha256": "ca69b599fc311e702ae2c880f38840eeda189f76bbf6c3ee9994a3a62b280e5e"
 }
