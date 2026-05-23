@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241228033937
+wayback_snapshot_url: "http://web.archive.org/web/20241228033937/https://cfi.co/awards/africa/2023/smit-moroccan-agency-for-tourism-development-outstanding-contribution-to-moroccan-economy-2023/"
 content_sha256: ee08ca8b746ffd6bf268c2adf92e8a893d680dcb455565d980d8fc9d4e041959
 canonical: 12156-smit-moroccan-agency-for-tourism-development-outstanding-contribution-to-morocca.json
 ---
