@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211004151231
+wayback_snapshot_url: "http://web.archive.org/web/20211004151231/https://cfi.co/awards/europe/2021/economic-consulting-associates-eca-best-economics-advisory-team-global-2021/"
 content_sha256: 2410beaea93f32e9b349ee8d913b41c05418ddb65f374201b35b5ba40499b56e
 canonical: 9604-economic-consulting-associates-eca-best-economics-advisory-team-global-2021.json
 ---
