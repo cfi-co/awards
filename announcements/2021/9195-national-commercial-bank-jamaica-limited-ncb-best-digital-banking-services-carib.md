@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: f1caf7f1c4022bc7f74a321ae25b0a4ea41f669001a1de552cd6ef1668a01881
 canonical: 9195-national-commercial-bank-jamaica-limited-ncb-best-digital-banking-services-carib.json
 ---
