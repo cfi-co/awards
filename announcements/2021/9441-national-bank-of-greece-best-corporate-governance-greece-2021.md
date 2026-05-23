@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016001337
+wayback_snapshot_url: "http://web.archive.org/web/20211016001337/https://cfi.co/awards/europe/2021/national-bank-of-greece-best-corporate-governance-greece-2021/"
 content_sha256: d037f7a8939173aab417b4f0f6145a129989bd8ecc6841475a5a20007acd8f17
 canonical: 9441-national-bank-of-greece-best-corporate-governance-greece-2021.json
 ---
