@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9ba43de7b3853802ab972b9237ca1d9855fb3c3e1b2c3d758e075d252d21a53b
 canonical: 9403-austrian-anadi-bank-best-digital-banking-solutions-austria-2021.json
 ---
