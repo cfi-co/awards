@@ -26,10 +26,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921105227",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921105227/https://cfi.co/awards/africa/2018/catoca-best-esg-mining-operations-angola-2017/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-3960\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/CATOCA.jpg\" alt=\"\" width=\"500\" height=\"135\" />\r\n<p style=\"text-align: justify;\"><strong>Angolan diamond miner Catoca, the largest contributor to the country’s exchequer, last year pulled around eight million carats from its concession in the Lunda-Sul Province which sit squarely atop an exceptionally rich kimberlite pipe reaching a depth of over 600 metres. The mine – the fourth-largest of its kind in the world – is a joint venture which includes Russia’s Alrosa, the global leader in diamond mining by volume and home to some of the industry’s most recognised geologists.</strong></p>\r\n<p style=\"text-align: justify;\">Catoca employs well over 3,300 people. The company consistently ranks amongst Angola’s top employers and, as such, attracts the country’s most talented professionals. Catoca is also recognised for its comprehensive corporate social responsibility programme which supports numerous initiatives to promote public health, education, and social mobility. In addition, Catoca maintains an equally wide-ranging environmental responsibility programme that includes ongoing land restoration and reforesting projects and strict effluent reduction and treatment procedures.</p>\r\n<p style=\"text-align: justify;\">Catoca extracts around 75% of all the diamonds mined in Angola. Besides the Lunda-Sul mine, the company participates in seven other concessions, lending its peerless expertise and experience. Catoca’s Integrated Quality Management System includes environmental and occupational safety provisions that guide day-to-day operations and form part of a wider risk mitigation framework designed to ensure the sustainability of the company’s operations.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel has followed Catoca’s corporate trajectory for a number of years. The judges’ note the company’s consistent compliance with ESG (environmental, social, and governance) standards. The judges have agreed to recognise Catoca’s achievements for a second successive year. The company is declared winner of the Best ESG Mining Operations Angola 2017.</p>",
     "content_sha256": "2ebc7c7a5a5cb809001b9beb39f147853f01f436c89ff6d72586cf967b0eac95",
-    "record_sha256": "67600ea42741f29f61e02baf2415f77d866c6e57dbbe9cac638ea21a63b60ba6"
+    "record_sha256": "97ab0819acdc6b5f44d98e9f525dc6ffd63dc1ba6f0a4043ad43f9e9ac11bafb"
 }
