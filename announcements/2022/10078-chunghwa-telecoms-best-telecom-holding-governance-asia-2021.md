@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220709050532
+wayback_snapshot_url: "http://web.archive.org/web/20220709050532/https://cfi.co/awards/asia-pacific/2022/chunghwa-telecoms-best-telecom-holding-governance-asia-2021/"
 content_sha256: dd7f018a55c50de74fb5d8ba020e2019b4de313e3cfbaa4f8e4b01fc5701a3c7
 canonical: 10078-chunghwa-telecoms-best-telecom-holding-governance-asia-2021.json
 ---
