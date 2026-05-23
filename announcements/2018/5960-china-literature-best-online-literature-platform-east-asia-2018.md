@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bc0439eebe533c3190686b7cafed4c6cb45f2f2c2c4fd2e7f9ca1b0711a94c6b
 canonical: 5960-china-literature-best-online-literature-platform-east-asia-2018.json
 ---
