@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921114405
+wayback_snapshot_url: "http://web.archive.org/web/20210921114405/https://cfi.co/awards/africa/2017/khartoum-stock-exchange-kse-best-sustainable-securities-exchange-north-africa-2017/"
 content_sha256: 1ce45e3dafcd2b307edba8d6f9e4d68b928b670ae153f3b93c764a2e3e6da698
 canonical: 4276-khartoum-stock-exchange-kse-best-sustainable-securities-exchange-north-africa-20.json
 ---
