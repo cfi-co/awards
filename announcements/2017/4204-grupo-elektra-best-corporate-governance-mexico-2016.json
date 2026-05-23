@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4205\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/GrupoElektra.jpg\" alt=\"\" width=\"349\" height=\"218\" /></p>\r\n<p style=\"text-align: justify;\"><strong>As poverty wanes, consumers clamour for mod-cons that add comfort to life and offer tangible proof of increased well-being. A portal for consumers of modest but growing means, Grupo Elektra has long served Mexico’s budding middle class, offering a tantalisingly wide selection of consumer goods through its countrywide network of more than 1,100 stores.</strong></p>\r\n<p style=\"text-align: justify;\">From its very beginnings, the company caters to the needs of customers who are determined to work their way up the social ladder – offering a helping hand to turn dreams into reality. The formula was replicated with considerable success elsewhere in Latin America. The group’s steady growth is the direct result of its widely recognised excellence in corporate governance.</p>\r\n<p style=\"text-align: justify;\">Sustained by two pillars – its commercial and financial divisions – Grupo Elektra was founded in 1950. Keen to deepen the market, Grupo Elektra offers no-hassle financing to its customers. The group is one of the largest micro finance providers in Mexico. Also, Grupo Elektra’s subsidiary Advance America, with over 2,000 branches, is a leading non-bank short term loan provider in the US.</p>\r\n<p style=\"text-align: justify;\">The group’s financial division includes the Banco Azteca which pursues a no-cost business model, offering accounts that bear interest from the first peso deposited. The group’s socially-inspired business model received praise from the World Bank for its emphasis on micro-credit programmes that help generate jobs and boost incomes.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that the company maintains a solid corporate governance framework that ensures consistent results. The judges declare Grupo Elektra winner of the 2016 Best Corporate Governance Mexico Award.</p>",
     "content_sha256": "42eea9b8fded1259aa7dfc879f36d3cdd48ef0af48324387b837118451362571",
-    "record_sha256": "663257598fdb4377835044fbfc038df6c38cd290acca9dc59a583ce84f563bef"
+    "record_sha256": "92d3a1daad4b91c1a160372da4b5fa397caab285a4bca2df31af97883168f8af"
 }

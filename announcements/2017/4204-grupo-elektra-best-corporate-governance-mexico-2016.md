@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 42eea9b8fded1259aa7dfc879f36d3cdd48ef0af48324387b837118451362571
 canonical: 4204-grupo-elektra-best-corporate-governance-mexico-2016.json
 ---
