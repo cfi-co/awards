@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235141
+wayback_snapshot_url: "http://web.archive.org/web/20201203235141/https://cfi.co/awards/asia-pacific/2020/jana-small-finance-bank-best-inclusive-financial-service-india-2020/"
 content_sha256: 863fc81dff7bdda93071d7c7525248fa152609fc1c9d97366257b70bad29429c
 canonical: 8382-jana-small-finance-bank-best-inclusive-financial-service-india-2020.json
 ---
