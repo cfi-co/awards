@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7330\" src=\"https://cfi.co/awards/wp-content/uploads/2020/05/24Storage-thumb.jpg\" alt=\"24Storage-thumb\" width=\"349\" height=\"218\" />\r\n<p style=\"text-align: justify;\">Lockdowns have forced people to convert living spaces into makeshift offices, and Swedish firm 24Storage has a space-making solution for customers in cramped quarters: Don’t toss it, store it! The company has 25 storage facilities in Sweden, most open around the clock. The units range in size from one to 40 square metres, and are protected by a video monitoring and an alert system. It’s convenient for individual and corporate clients, with online booking, contact-free entry and a no-hassle cancellation policy. 24Storage is pleased with its progress over the past year, with a 21 percent increase in revenue. The company floated an IPO in late 2019 and has made great strides on an ambitious expansion plan, with three new locations opened last year and three more scheduled for 2021. The company has an objective of three to five new facilities per year — something it has achieved every year since its inception in 2015. 24Storage is the second-largest self-storage operation in Sweden, a major player with a clear growth strategy. It targets high-growth metropolitan areas with positive demographics and strong purchasing power, such as Stockholm, Gothenburg and Malmö. 24Storage scouts for the best locations and secures building rights to construct new facilities according to its proven design. The CFI.co judging panel presents 24Storage AB, a repeat programme winner, with the 2021 award for Best Organic Growth Strategy (Nordics).</p>",
     "content_sha256": "c960a5099c77b1265d99dea28353158e787d82704b0b565f13d2915196b57715",
-    "record_sha256": "1d54aa8796bb04fb5e786e4d67e10a4bd8f890897f5d1e29e4cec388a517aa78"
+    "record_sha256": "17bddfcb6b939fc392bd3eefad83d324b496afb6a9366f0112762cc3d525b671"
 }

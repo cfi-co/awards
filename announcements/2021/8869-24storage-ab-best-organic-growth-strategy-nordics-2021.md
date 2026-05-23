@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c960a5099c77b1265d99dea28353158e787d82704b0b565f13d2915196b57715
 canonical: 8869-24storage-ab-best-organic-growth-strategy-nordics-2021.json
 ---
