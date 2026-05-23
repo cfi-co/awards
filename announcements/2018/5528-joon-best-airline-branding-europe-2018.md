@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: fc204eba075e5b738a6a10ae2575999467edd01a9363d61937287d0f5564c43e
 canonical: 5528-joon-best-airline-branding-europe-2018.json
 ---
