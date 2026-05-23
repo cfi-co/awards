@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603013351
+wayback_snapshot_url: "http://web.archive.org/web/20230603013351/https://cfi.co/awards/best-practice/2023/arviem-most-innovative-esg-supply-chain-solutions-global-2023/"
 content_sha256: efb65e3ed2a9daeb2fe72ded6ee24b82f4afa8beee18452647e2d1fb7f8344ec
 canonical: 11460-arviem-most-innovative-esg-supply-chain-solutions-global-2023.json
 ---
