@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208113611
+wayback_snapshot_url: "http://web.archive.org/web/20230208113611/https://cfi.co/awards/industries/2023/etihad-engineering-best-mro-service-provider-middle-east-2022/"
 content_sha256: e56cc07ef9f5290aae983e27f9fea3852c5cacb6cbfb4910cdf572f517d157af
 canonical: 11088-etihad-engineering-best-mro-service-provider-middle-east-2022.json
 ---
