@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724004102
+wayback_snapshot_url: "http://web.archive.org/web/20210724004102/https://cfi.co/awards/latin-america/2015/hmc-capital-group-best-capital-markets-boutique-latin-america-2014/"
 content_sha256: b5bf7e027347b7ff665bb0b421f29d21853983d1e374f3a7cdd04c74118dbe93
 canonical: 1471-hmc-capital-group-best-capital-markets-boutique-latin-america-2014.json
 ---

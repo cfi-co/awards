@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210724004102",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210724004102/https://cfi.co/awards/latin-america/2015/hmc-capital-group-best-capital-markets-boutique-latin-america-2014/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1472\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/hmc.jpg\" alt=\"hmc\" width=\"371\" height=\"125\" /></p>\r\n<p style=\"text-align: justify;\"><strong>HMC, with offices in Brazil, Peru and Colombia - as well as home country Chile – is very well placed to service client needs throughout Latin America. </strong></p>\r\n<p style=\"text-align: justify;\">And, according to the CFI.co Judging Panel, ‘HMC does so with skill and aplomb. Their quest for asset efficiency is well rewarded through the efforts of a talented and highly experienced team of financial services professionals. We are very happy to announce the win of this sub region award in the name of HMC Capital Group.’</p>",
     "content_sha256": "b5bf7e027347b7ff665bb0b421f29d21853983d1e374f3a7cdd04c74118dbe93",
-    "record_sha256": "2d92e310774d70242217a1ef7bd091e89240f9886308719b4cdaefab5dfddfa1"
+    "record_sha256": "2ed88fbf615c0c9ecb80898631d5c452b3c1d4543d4f49060005e5b9f1f53d0c"
 }
