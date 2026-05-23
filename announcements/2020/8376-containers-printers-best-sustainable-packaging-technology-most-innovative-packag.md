@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203234406
+wayback_snapshot_url: "http://web.archive.org/web/20201203234406/https://cfi.co/awards/asia-pacific/2020/containers-printers-best-sustainable-packaging-technology-most-innovative-packaging-team-southeast-asia-2020/"
 content_sha256: 5209b1eb91107896b25bcf66307b68c31276af5be945c2f6fcc3f73186e595e7
 canonical: 8376-containers-printers-best-sustainable-packaging-technology-most-innovative-packag.json
 ---
