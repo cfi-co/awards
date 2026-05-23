@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207214015
+wayback_snapshot_url: "http://web.archive.org/web/20211207214015/https://cfi.co/awards/europe/2021/kbc-group-best-bank-governance-europe-2021/"
 content_sha256: 822a2eca5ad7ea2dadcb5142b637744c37358f194208fc6ca49a2d77a2f2c852
 canonical: 9733-kbc-group-best-bank-governance-europe-2021.json
 ---
