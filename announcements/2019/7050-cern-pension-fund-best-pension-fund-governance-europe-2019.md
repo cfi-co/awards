@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200614145249
+wayback_snapshot_url: "http://web.archive.org/web/20200614145249/https://cfi.co/awards/europe/2019/cern-pension-fund-best-pension-fund-governance-europe-2019/"
 content_sha256: dee868885bad8f6e15594b3c4742147db37a46a189fb7101ca1886bc22bf9fce
 canonical: 7050-cern-pension-fund-best-pension-fund-governance-europe-2019.json
 ---
