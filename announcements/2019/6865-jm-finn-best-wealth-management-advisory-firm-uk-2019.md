@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190923115307
+wayback_snapshot_url: "http://web.archive.org/web/20190923115307/https://cfi.co/awards/europe/2019/jm-finn-best-wealth-management-advisory-firm-uk-2019/"
 content_sha256: b1ea0a546aa38d00fa2c5470abda2d698a07fe2a3356b7b0a1225b8c05d1cff4
 canonical: 6865-jm-finn-best-wealth-management-advisory-firm-uk-2019.json
 ---
