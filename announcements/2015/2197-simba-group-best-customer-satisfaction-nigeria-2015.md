@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 31590c5b13b76d46afb89cd472b4a0860ab152d3393068e7df4adcc817012b1e
 canonical: 2197-simba-group-best-customer-satisfaction-nigeria-2015.json
 ---
