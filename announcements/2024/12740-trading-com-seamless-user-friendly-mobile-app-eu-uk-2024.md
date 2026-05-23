@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 4d5866b2f6ce66d3127f0ae9122463e81a493b41e98405cd3a66c51c50d69215
 canonical: 12740-trading-com-seamless-user-friendly-mobile-app-eu-uk-2024.json
 ---
