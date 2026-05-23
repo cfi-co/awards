@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20141208183700
+wayback_snapshot_url: "http://web.archive.org/web/20141208183700/http://cfi.co/awards/europe/2014/sustainable-support-to-communities-iwc-wins-the-cfi-co-award-for-best-csr-switzerland-2014/"
 content_sha256: 872453d08eb716e4da936623f9915726c9a1a23a3a464031f2d194d75b88fd67
 canonical: 1369-sustainable-support-to-communities-iwc-wins-the-cfi-co-award-for-best-csr-switze.json
 ---
