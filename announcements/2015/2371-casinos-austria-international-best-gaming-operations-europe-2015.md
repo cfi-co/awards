@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921115940
+wayback_snapshot_url: "http://web.archive.org/web/20210921115940/https://cfi.co/awards/europe/2015/casinos-austria-international-best-gaming-operations-europe-2015/"
 content_sha256: a66f28fe5abc552ddb0cb2cfece1b6f2a9946728fad7c6e5fdad57f1f254eb6e
 canonical: 2371-casinos-austria-international-best-gaming-operations-europe-2015.json
 ---
