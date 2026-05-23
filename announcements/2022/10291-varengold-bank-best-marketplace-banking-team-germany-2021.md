@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220528094641
+wayback_snapshot_url: "http://web.archive.org/web/20220528094641/https://cfi.co/awards/europe/2022/varengold-bank-best-marketplace-banking-team-germany-2021/"
 content_sha256: 971dbfed12e331e87760d30cf1947815f95d35784d031b278373e2adb9ad3ad1
 canonical: 10291-varengold-bank-best-marketplace-banking-team-germany-2021.json
 ---
