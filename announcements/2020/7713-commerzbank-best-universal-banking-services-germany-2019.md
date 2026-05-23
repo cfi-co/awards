@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203070643
+wayback_snapshot_url: "http://web.archive.org/web/20221203070643/https://cfi.co/awards/europe/2020/commerzbank-best-universal-banking-services-germany-2019/"
 content_sha256: a5ddd13cb97bd93f2665a4793d72fc339ce25686186ed753a841b3edd12e9fcc
 canonical: 7713-commerzbank-best-universal-banking-services-germany-2019.json
 ---
