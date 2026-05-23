@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921103515
+wayback_snapshot_url: "http://web.archive.org/web/20210921103515/https://cfi.co/awards/middle-east/2020/ncb-capital-best-global-asset-management-team-gcc-2019/"
 content_sha256: 87fc98d37a2da3955fd7ccaa710efa389ef0eba52577385bf4c9ac12987138cb
 canonical: 7715-ncb-capital-best-global-asset-management-team-gcc-2019.json
 ---
