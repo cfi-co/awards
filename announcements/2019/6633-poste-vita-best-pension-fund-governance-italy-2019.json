@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190507121001",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190507121001/https://cfi.co/awards/best-practice/2019/poste-vita-best-pension-fund-governance-italy-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6634\" src=\"https://cfi.co/awards/wp-content/uploads/2019/04/PosteVita.jpg\" alt=\"\" width=\"400\" height=\"110\" />\r\n<p style=\"text-align: justify;\">Poste Vita was founded in Rome in 1999, and has become the country’s first premium-income life insurance provider. Over the decades, Poste Vita has fostered a sense of trust amongst its clients for the simplicity of its services, its transparent operations and its accessibility. The company manages individual pension funds and offers investment, savings, and insurance products as well as asset management services — in short, all the services clients need to plan for a secure and stable future. Poste Vita has developed a comprehensive code of ethics that has steered it to the highest standards of corporate conduct. It safeguards its assets and interests — and those of its clients — with measures to protect against corruption, money laundering and terrorism. The wellbeing of its clients and stakeholders serves as a compass for the company’s strategic vision, and is the key influence for its environmental, social, and governance (ESG) policies. In accordance with UN-backed Principles for Responsible Investment (PRI), Poste Vita assesses potential ESG impacts in every aspect of its investment activity to shield the company from risk, and to contribute to the economic growth and sustainable development of the country. Adherence to international best practice for responsible investing enables Poste Vita to positively influence the market, promoting innovative solutions that address ESG concerns while still satisfying investor expectations. With over €123bn in assets under management and more than four million customers — nearly a quarter of whom are pension funders — the CFI.co judging panel believes the company’s good governance policies have paid-off. In recognition of this success, the judges offer Poste Vita the 2019 award for Best Pension Fund Governance (Italy).</p>",
     "content_sha256": "d0cf4c6fee4f85474e5b324afbc11c044d0da6c6b8970819faa60530d46726ab",
-    "record_sha256": "9e48207d18a9e6302d65a4dbcc44c6010aef16c30d977179bb3262df7189f0e7"
+    "record_sha256": "c4ce67ac4224fe7f74d84638aac872f14867fb6a61b5545e23588b20e8f80809"
 }
