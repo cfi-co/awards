@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923165510
+wayback_snapshot_url: "http://web.archive.org/web/20230923165510/https://cfi.co/awards/professional-services/consultancies/2023/accountability-best-esg-strategy-development-partner-global-2023/"
 content_sha256: d31af0337c3db976ea1b5810094d4f2fabd05e5f5e171b89454947e90d6fe6fb
 canonical: 11738-accountability-best-esg-strategy-development-partner-global-2023.json
 ---
