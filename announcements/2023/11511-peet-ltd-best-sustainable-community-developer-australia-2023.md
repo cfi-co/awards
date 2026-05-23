@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603010304
+wayback_snapshot_url: "http://web.archive.org/web/20230603010304/https://cfi.co/awards/best-practice/2023/peet-ltd-best-sustainable-community-developer-australia-2023/"
 content_sha256: 17e2c459fb8b28444ee4cd93cb090f98ba87659a477c99af29d19b3a9f9335e1
 canonical: 11511-peet-ltd-best-sustainable-community-developer-australia-2023.json
 ---
