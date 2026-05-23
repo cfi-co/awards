@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220630130747",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220630130747/https://cfi.co/awards/middle-east/2022/al-fozan-holding-company-best-diversified-holdings-governance-gcc-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10541\" src=\"https://cfi.co/awards/wp-content/uploads/2022/05/Al-Fozan-Holding.jpg\" alt=\"Al Fozan Holding\" width=\"400\" height=\"95\" />\r\n<p style=\"text-align: justify;\">Al Fozan Holding Company is a third-generation family-owned conglomerate serving communities across Saudi Arabia and the Gulf Cooperation Council (GCC) region for more than 60 years. It aims to build a brighter future for every person that its operations impact by creating value through intelligence, experience and creativity. The company is engaged in four key sectors — manufacturing, retail, real estate and trading — with a mix of investments in other vital areas. Al Fozan strives to create synergies between clients and sector experts, increasing return on investment through strong governance support and collaboration in the sustainable development of the sector. Investees in the Al Fozan portfolio, a diverse combination of mature enterprises and emergent start-ups, are united by a common set of rules and governance structures. Al Fozan owns 30 companies, and a central committee provides governance checklists regarding sustainability, hiring and conflict resolution, among other policies and procedures. Al Fozan guides the growth of portfolio companies through participation in board meetings, succession planning and corporate accountability. It stays ahead of the curve by hiring economic consultants to predict trends and restructuring development plans in accordance. It works with the Saudi ministry of social affairs to establish ESG benchmarks. It’s making strides towards gender empowerment, with succession plans to fast-track qualified female candidates to the executive suite. The CFI.co judging panel unanimously selects Al Fozan Holding Company, a repeat programme winner, as the 2022 winner in the award category for Best Diversified Holdings Governance (GCC).</p>",
     "content_sha256": "6e5a2a142c75c7077bb2aa1075139c63e8f4d9ac4fcc062aa0e218a7b4af1c39",
-    "record_sha256": "c71cef3e8348f57d9879b2793d092573a2654e729c6f26b5c72f1284ec311757"
+    "record_sha256": "840cf3a6e663559b7f4afdb68c4cafee73461c40f10864bdde5b8501b5df75dd"
 }
