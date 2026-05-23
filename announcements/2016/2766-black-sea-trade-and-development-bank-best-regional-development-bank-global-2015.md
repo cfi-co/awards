@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: ef212dee47803fa3599e8868e6dc569b834021041e9b2a635976266f3b40e4f9
 canonical: 2766-black-sea-trade-and-development-bank-best-regional-development-bank-global-2015.json
 ---
