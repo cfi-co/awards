@@ -29,10 +29,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210614183908",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210614183908/https://cfi.co/awards/asia-pacific/2012/three-principles-and-strong-corporate-leadership-win-award-for-mitsubishi/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2012/09/mitsubishi.jpg\"><img class=\"  wp-image-211 aligncenter\" title=\"mitsubishi\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/mitsubishi-279x300.jpg\" alt=\"\" width=\"195\" height=\"210\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>Mitsubishi Corporation - the multinational conglomerate - refers to itself more humbly as a ‘community of independent companies’. </strong></p>\r\n<p style=\"text-align: justify;\">The independents are tied together by their wholehearted acceptance of the ‘Three Principles’, namely corporate social responsibility; integrity and fairness; and global understanding through business. The Mitsubishi Foundation was established in 1969 to mark the centenary of the organisation and all those independents are successors to a  shipping company founded in Japan in 1870. The judging panel recognised the significant efforts of Mitsubishi in helping Japan recover from the 2011 Earthquake after a 10 billion yen donation to the cause. The judges describe Mitsubishi  as an outstanding example of corporate leadership in Asia.</p>",
     "content_sha256": "33cf4fa020e2260a5d684c6e2065824539f62e7ba198d69aa1fa33622671cb56",
-    "record_sha256": "2a9f265dd5614975f57f399b030e5ac750c68279ce18656e01705697ffed8b24"
+    "record_sha256": "017a7b762ddb3da357e909fa02751253ab9f369ddf51ff99ab234b1bcb8b8d40"
 }
