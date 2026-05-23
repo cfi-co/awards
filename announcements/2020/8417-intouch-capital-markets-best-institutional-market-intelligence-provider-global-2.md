@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203233447
+wayback_snapshot_url: "http://web.archive.org/web/20201203233447/https://cfi.co/awards/europe/2020/intouch-capital-markets-best-institutional-market-intelligence-provider-global-2020/"
 content_sha256: fc47d2412de721467bfaad4f7d52b2a141f146e4667568af43a4d439213cc2fc
 canonical: 8417-intouch-capital-markets-best-institutional-market-intelligence-provider-global-2.json
 ---
