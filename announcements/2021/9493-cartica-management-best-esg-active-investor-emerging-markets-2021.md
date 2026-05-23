@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920113753
+wayback_snapshot_url: "http://web.archive.org/web/20210920113753/https://cfi.co/awards/north-america/2021/cartica-management-best-esg-active-investor-emerging-markets-2021/"
 content_sha256: 718cea3533c600753f375d1cbb17e30ee787ddb2e3d08d305b1349b73d838632
 canonical: 9493-cartica-management-best-esg-active-investor-emerging-markets-2021.json
 ---
