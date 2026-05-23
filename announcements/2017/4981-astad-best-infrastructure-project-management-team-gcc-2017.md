@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 32f205474db357e6da0313348f1f9100b3de0c903e8943872281cbe328ba3346
 canonical: 4981-astad-best-infrastructure-project-management-team-gcc-2017.json
 ---
