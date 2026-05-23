@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203052458
+wayback_snapshot_url: "http://web.archive.org/web/20221203052458/https://cfi.co/awards/europe/2022/kommunalkredit-austria-ag-best-esg-infrastructure-finance-europe-2021/"
 content_sha256: 2020796623e79dcb1294669ba12b77227ceeed9576d0e992a8ec6599da920212
 canonical: 10038-kommunalkredit-austria-ag-best-esg-infrastructure-finance-europe-2021.json
 ---
