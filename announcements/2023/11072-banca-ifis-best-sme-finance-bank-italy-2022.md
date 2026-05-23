@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230125145411
+wayback_snapshot_url: "http://web.archive.org/web/20230125145411/https://cfi.co/awards/europe/2023/banca-ifis-best-sme-finance-bank-italy-2022/"
 content_sha256: a4d9c4f62cd76cd3e605feccdcedd5c90ae4ba8f82c3c753781a1f9664f46968
 canonical: 11072-banca-ifis-best-sme-finance-bank-italy-2022.json
 ---
