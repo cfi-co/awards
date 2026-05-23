@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603002037
+wayback_snapshot_url: "http://web.archive.org/web/20230603002037/https://cfi.co/awards/asia-pacific/2023/new-world-development-best-investor-relations-team-hong-kong-2022/"
 content_sha256: 1c155a359ba3208d44a77fb3368e19ba8030e11636fb9e495a83f399f6181225
 canonical: 11359-new-world-development-best-investor-relations-team-hong-kong-2022.json
 ---
