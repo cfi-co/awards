@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426103732
+wayback_snapshot_url: "http://web.archive.org/web/20190426103732/https://cfi.co/awards/asia-pacific/2017/bakhtar-bank-best-business-bank-afghanistan-2017/"
 content_sha256: e6835aa172815d9150699840c095b0f5017d4ad2fac907a9db3de161528c1e12
 canonical: 4339-bakhtar-bank-best-business-bank-afghanistan-2017.json
 ---
