@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924110922
+wayback_snapshot_url: "http://web.archive.org/web/20210924110922/https://cfi.co/awards/asia-pacific/2017/spicejet-best-corporate-governance-india-2017/"
 content_sha256: c7e859cc1d45e8dc7b1f5c9849901a35e15c8293459cb2bf432f1aa397ee9b7e
 canonical: 4219-spicejet-best-corporate-governance-india-2017.json
 ---
