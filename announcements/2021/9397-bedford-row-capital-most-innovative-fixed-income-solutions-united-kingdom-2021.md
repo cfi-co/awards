@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211015235752
+wayback_snapshot_url: "http://web.archive.org/web/20211015235752/https://cfi.co/awards/europe/2021/bedford-row-capital-most-innovative-fixed-income-solutions-united-kingdom-2021/"
 content_sha256: 377204b9b38c03ae8c7996684ef18669bd65148d9045fe206d3781b62090633d
 canonical: 9397-bedford-row-capital-most-innovative-fixed-income-solutions-united-kingdom-2021.json
 ---
