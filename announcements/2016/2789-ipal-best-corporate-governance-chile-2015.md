@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: b33b786803bf6aaf8865aee3150bd24a1d19e64402976dcf33ba6a60387ca930
 canonical: 2789-ipal-best-corporate-governance-chile-2015.json
 ---
