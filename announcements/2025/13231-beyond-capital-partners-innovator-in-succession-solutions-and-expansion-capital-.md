@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260122042315
+wayback_snapshot_url: "http://web.archive.org/web/20260122042315/https://cfi.co/awards/finance/2025/beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-dach-2025/"
 content_sha256: 8a1a4c70e08645aa0225ceff89f13c5d0c5d83386cf04c275571925ec6b736f5
 canonical: 13231-beyond-capital-partners-innovator-in-succession-solutions-and-expansion-capital-.json
 ---
