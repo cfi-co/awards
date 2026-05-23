@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220814032920
+wayback_snapshot_url: "http://web.archive.org/web/20220814032920/https://cfi.co/awards/europe/2022/generali-investments-cee-best-asset-management-services-czech-republic-2022/"
 content_sha256: 45d8b6d4d14780f45b7bc9c743fd0cfbcc73677c2898b8f06275762281d2f45a
 canonical: 10619-generali-investments-cee-best-asset-management-services-czech-republic-2022.json
 ---

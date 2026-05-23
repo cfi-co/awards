@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220814032920",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220814032920/https://cfi.co/awards/europe/2022/generali-investments-cee-best-asset-management-services-czech-republic-2022/"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_10620\" align=\"aligncenter\" width=\"873\"]<img class=\"size-full wp-image-10620\" src=\"https://cfi.co/awards/wp-content/uploads/2022/08/Generali-Investments-CEE.jpg\" alt=\"Michal Toufar / Member of the Board of Directors &amp; Chief Portfolio Manager, Generali Investments CEE\" width=\"873\" height=\"582\" /> <strong>Michal Toufar:</strong> Member of the Board of Directors &amp; Chief Portfolio Manager, Generali Investments CEE[/caption]\r\n<p style=\"text-align: justify;\">Generali Investments CEE is the biggest asset management company in the Czech Republic, with €16bn in AUM and over 120,000 clients. The company has been contributing to the development of the market over the past three decades and forms part of a global insurance group with a 190-year history. Generali Investments CEE pulls from group resources and local expertise to deliver in terms of client service and fund management. It works for some of the largest institutional clients and biggest portfolios. Generali Investments CEE has managed a steady increase in AUM over the years — and proven itself a reliable partner in moments of crisis. The company experienced high outflows in the early days of the Covid pandemic, but the business made a speedy recovery and soon reported higher inflows than pre-pandemic levels. Generali Investments CEE has garnered public praise for its social responsibility and sizable donation to a seniors’ support fund, ensuring those most vulnerable to the virus weren’t left isolated without food, medicines or health assistance. It also backed a charity challenge benefitting pulmonary departments of regional hospitals. Participants strengthened their lungs through sporting activities and pledged donations — the company then matched the amount collected. Regional conflict has complicated the investment landscape in 2022. But Generali Investments CEE has launched new products and achieved twice the expected results, contributing to its confidence about future growth and international expansion. Generali Investments CEE claims the 2022 award for Best Asset Management Services (Czech Republic).</p>",
     "content_sha256": "45d8b6d4d14780f45b7bc9c743fd0cfbcc73677c2898b8f06275762281d2f45a",
-    "record_sha256": "2c504c992cac7827a3e2bf4f228b8a2ddf1f6f351b724f0941830348f9a33dae"
+    "record_sha256": "d8483ecb3103b671a9643c66124cb00705256e645671190b4b961415c486c617"
 }
