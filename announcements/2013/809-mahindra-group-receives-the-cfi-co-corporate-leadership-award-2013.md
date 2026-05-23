@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5ea7d54c19171b6560754faca552cb99ca4ff67d545000491704b19eec8a8015
 canonical: 809-mahindra-group-receives-the-cfi-co-corporate-leadership-award-2013.json
 ---
