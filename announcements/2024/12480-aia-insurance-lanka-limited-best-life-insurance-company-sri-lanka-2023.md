@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 1b6aade28c280a5ffaa4c3e06b6a0a7ec78361f9450812b619a90a21e36416c4
 canonical: 12480-aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023.json
 ---
