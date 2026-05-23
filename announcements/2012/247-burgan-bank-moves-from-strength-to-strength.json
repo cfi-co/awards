@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210724005220",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210724005220/https://cfi.co/awards/middle-east/2012/burgan-bank-moves-from-strength-to-strength/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter wp-image-248 size-full\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/burgan-bank.jpg\" alt=\"burgan-bank\" width=\"325\" height=\"80\" /></p>\r\n<p style=\"text-align: justify;\"><strong>There are numerous banks competing to provide Private Banking services to clients.</strong></p>\r\n<p style=\"text-align: justify;\">For a private bank, its most important asset is trust. To develop that trust a private bank has to show the highest level of integrity, while truly understanding and responding  to client needs. When a bank is truly trusted the level of referrals will increase. Burgan Bank’s strong growth over recent years clearly demonstrates the high levels of trust clients have placed in the Bank. The Bank received some excellent nominations for inclusion in our 2012 Banking awards programme and, after careful consideration of the Bank’s operations, the judging panel agreed that they – like so many of the Bank’s clients - were happy to select Burgan Bank from a highly competitive field as the Best Private Bank in Kuwait.</p>",
     "content_sha256": "700dd52afb923605b734210464a2706495d5ccc5d6e69bdf717fcae6711803d7",
-    "record_sha256": "58677eb903a0c6dd9f56d9cbc04f5f3f54f143bc073bf7fed63f9b292d93f882"
+    "record_sha256": "91abc3eeb498f395f9fa37847ab40461dc45d076565e17392c546cf99407b9dd"
 }

@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724005220
+wayback_snapshot_url: "http://web.archive.org/web/20210724005220/https://cfi.co/awards/middle-east/2012/burgan-bank-moves-from-strength-to-strength/"
 content_sha256: 700dd52afb923605b734210464a2706495d5ccc5d6e69bdf717fcae6711803d7
 canonical: 247-burgan-bank-moves-from-strength-to-strength.json
 ---
