@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 5f2167d15a6e4bc0403549d87cb53ecf01c93ab9e802d536c102f99d808237c5
 canonical: 8053-kommuninvest-best-sustainable-alm-strategy-europe-2020.json
 ---
