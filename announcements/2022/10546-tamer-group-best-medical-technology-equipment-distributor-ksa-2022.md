@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630132041
+wayback_snapshot_url: "http://web.archive.org/web/20220630132041/https://cfi.co/awards/middle-east/2022/tamer-group-best-medical-technology-equipment-distributor-ksa-2022/"
 content_sha256: 8c758c31e283b0538499309029756dc965204f13f79bda65e348aaaf6a97f47e
 canonical: 10546-tamer-group-best-medical-technology-equipment-distributor-ksa-2022.json
 ---
