@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724093025
+wayback_snapshot_url: "http://web.archive.org/web/20190724093025/https://cfi.co/awards/europe/2018/deutsche-bank-best-bank-treasury-management-team-europe-2018/"
 content_sha256: 613c731e2c57fa712cb7c70d4dc7a09bb49c5191c60542e923ca7864263ec246
 canonical: 6100-deutsche-bank-best-bank-treasury-management-team-europe-2018.json
 ---
