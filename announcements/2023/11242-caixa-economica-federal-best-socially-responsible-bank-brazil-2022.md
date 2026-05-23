@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230317010446
+wayback_snapshot_url: "http://web.archive.org/web/20230317010446/https://cfi.co/awards/best-practice/2023/caixa-economica-federal-best-socially-responsible-bank-brazil-2022/"
 content_sha256: 7e213cd3a17ae216e6e33dedd4e3aba2f676ce5c81a12da8fd43307e7cce3eef
 canonical: 11242-caixa-economica-federal-best-socially-responsible-bank-brazil-2022.json
 ---
