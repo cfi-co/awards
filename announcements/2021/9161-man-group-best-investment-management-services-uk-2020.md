@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207220633
+wayback_snapshot_url: "http://web.archive.org/web/20211207220633/https://cfi.co/awards/europe/2021/man-group-best-investment-management-services-uk-2020/"
 content_sha256: 25f22fbf0d0ea4acbf684bdc7223673f2a2b433cfac39730a9369ecb9f2af60c
 canonical: 9161-man-group-best-investment-management-services-uk-2020.json
 ---
