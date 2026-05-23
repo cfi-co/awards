@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140731085339
+wayback_snapshot_url: "http://web.archive.org/web/20140731085339/http://cfi.co/awards/middle-east/2014/kingdom-hotel-investments-khi-partnership-prospects-in-emerging-markets/"
 content_sha256: 30f51c43647ebb68b61d9a807555596c557a092bf7e94ca9466a8eeeb750d583
 canonical: 1229-kingdom-hotel-investments-khi-partnership-prospects-in-emerging-markets.json
 ---
