@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: e7cb9faaf70638179abdfd8c625ef96af5c18ae494bdb7ba094dc7301e7f601b
 canonical: 11168-oracle-best-cloud-based-integration-solutions-global-2022.json
 ---
