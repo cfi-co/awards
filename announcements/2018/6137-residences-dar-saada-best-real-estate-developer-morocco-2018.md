@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 48f9c75890fd3561b2f414ac074ef00face2569acafecc401a596f80d76e1afd
 canonical: 6137-residences-dar-saada-best-real-estate-developer-morocco-2018.json
 ---
