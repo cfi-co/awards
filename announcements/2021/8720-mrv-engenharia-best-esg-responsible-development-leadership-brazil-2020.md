@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210228104645
+wayback_snapshot_url: "http://web.archive.org/web/20210228104645/https://cfi.co/awards/latin-america/2021/mrv-engenharia-best-esg-responsible-development-leadership-brazil-2020/"
 content_sha256: 15d3b0b1dd2d3bbe239c632c3f19b2ae49f603107d5b0742b9a8d6f120dc316b
 canonical: 8720-mrv-engenharia-best-esg-responsible-development-leadership-brazil-2020.json
 ---
