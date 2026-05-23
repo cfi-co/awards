@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315120226
+wayback_snapshot_url: "http://web.archive.org/web/20260315120226/https://cfi.co/awards/africa/2026/eaglestone-champion-of-project-finance-excellence-sub-saharan-africa-2025/"
 content_sha256: fc1dae0dbb229407f213b6b19b9cb7ea0f929e29c8e4c70022cac6c730143d79
 canonical: 13270-eaglestone-champion-of-project-finance-excellence-sub-saharan-africa-2025.json
 ---
