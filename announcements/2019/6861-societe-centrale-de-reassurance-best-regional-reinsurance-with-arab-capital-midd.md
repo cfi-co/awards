@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190923114204
+wayback_snapshot_url: "http://web.archive.org/web/20190923114204/https://cfi.co/awards/africa/2019/societe-centrale-de-reassurance-best-regional-reinsurance-with-arab-capital-middle-east-and-africa-2019/"
 content_sha256: d4632fc3befdee29717647c9a8267e85c7f81a123659912f7036ad590d64f959
 canonical: 6861-societe-centrale-de-reassurance-best-regional-reinsurance-with-arab-capital-midd.json
 ---
