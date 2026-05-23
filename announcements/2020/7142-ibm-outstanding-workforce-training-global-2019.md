@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: de03fe82530b2f73963334d2253ecca23c1ca59958e05bf4275d7c4d151f017b
 canonical: 7142-ibm-outstanding-workforce-training-global-2019.json
 ---
