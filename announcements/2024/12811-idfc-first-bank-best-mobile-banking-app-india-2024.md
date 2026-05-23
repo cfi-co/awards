@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250209175335
+wayback_snapshot_url: "http://web.archive.org/web/20250209175335/https://cfi.co/awards/asia-pacific/2024/idfc-first-bank-best-mobile-banking-app-india-2024/"
 content_sha256: f5f36e73c4a73d58376b2c2aa2c05778fe46e543cbdcd2aecf2b77d64abb3862
 canonical: 12811-idfc-first-bank-best-mobile-banking-app-india-2024.json
 ---
