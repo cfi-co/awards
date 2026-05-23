@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200920104650
+wayback_snapshot_url: "http://web.archive.org/web/20200920104650/https://cfi.co/awards/middle-east/2013/commercial-bank-of-dubai-is-our-wealth-management-award-winner-in-the-uae/"
 content_sha256: f477a3dec4903be796bfae8ab5ec2b5685caa81e80c5f24cc84f468779fcd1ea
 canonical: 1088-commercial-bank-of-dubai-is-our-wealth-management-award-winner-in-the-uae.json
 ---
