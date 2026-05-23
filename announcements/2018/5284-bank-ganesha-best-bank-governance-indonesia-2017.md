@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921110048
+wayback_snapshot_url: "http://web.archive.org/web/20210921110048/https://cfi.co/awards/banking/2018/bank-ganesha-best-bank-governance-indonesia-2017/"
 content_sha256: 1b1622ff30aae7480484b9c374cabb43f52df68f49f2bae0fc28e9f07569f776
 canonical: 5284-bank-ganesha-best-bank-governance-indonesia-2017.json
 ---
