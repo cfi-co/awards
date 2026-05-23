@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924121849
+wayback_snapshot_url: "http://web.archive.org/web/20210924121849/https://cfi.co/awards/europe/2015/steward-redqueen-best-emerging-markets-esg-advisory-team-global-2015/"
 content_sha256: ee87e4c2d0b02e6f8378676581f8a0fc8c0f09bdda4ce2ede8ca43e4ab530425
 canonical: 2245-steward-redqueen-best-emerging-markets-esg-advisory-team-global-2015.json
 ---
