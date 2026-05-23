@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221207235500
+wayback_snapshot_url: "http://web.archive.org/web/20221207235500/https://cfi.co/awards/africa/2022/enterprise-seychelles-agency-outstanding-contribution-to-msme-growth-africa-2022/"
 content_sha256: 34d82489081ae6140014aa48b96438de556741f3cdff9e9f7bf8bc936d7955dd
 canonical: 10815-enterprise-seychelles-agency-outstanding-contribution-to-msme-growth-africa-2022.json
 ---
