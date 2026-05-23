@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723011332
+wayback_snapshot_url: "http://web.archive.org/web/20190723011332/https://cfi.co/awards/europe/2019/eurofragance-best-international-value-creation-growth-spain-2018/"
 content_sha256: 75c6077ebc5092af38da182b9e57fcfb655308fe164df5088144ebe92e987f74
 canonical: 6383-eurofragance-best-international-value-creation-growth-spain-2018.json
 ---
