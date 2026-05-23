@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250522220304
+wayback_snapshot_url: "http://web.archive.org/web/20250522220304/https://cfi.co/awards/banking/2025/wing-bank-cambodia-plc-outstanding-leadership-in-driving-cashless-economy-best-social-impact-bank-cambodia-2024/"
 content_sha256: 82e059dfa64735f56db4aa02724c8d69468c3bae037dde59ef11d22c87e1e0ca
 canonical: 12939-wing-bank-cambodia-plc-outstanding-leadership-in-driving-cashless-economy-best-s.json
 ---
