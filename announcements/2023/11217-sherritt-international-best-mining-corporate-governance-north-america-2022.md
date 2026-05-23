@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330022052
+wayback_snapshot_url: "http://web.archive.org/web/20230330022052/https://cfi.co/awards/best-practice/2023/sherritt-international-best-mining-corporate-governance-north-america-2022/"
 content_sha256: a667ac4a9ab9805daa179c7eadc02b62e6c15ddf81fb30bd7ef6c17f0994ce64
 canonical: 11217-sherritt-international-best-mining-corporate-governance-north-america-2022.json
 ---
