@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200525192944
+wayback_snapshot_url: "http://web.archive.org/web/20200525192944/https://cfi.co/awards/best-practice/csr/2020/tonys-chocolonely-most-socially-responsible-chocolatier-global-2020/"
 content_sha256: 3a9973ddecb02a38ac6ce816f83a99c7ebeb1300f7a8cf842b447a21e1cc713f
 canonical: 7368-tonys-chocolonely-most-socially-responsible-chocolatier-global-2020.json
 ---
