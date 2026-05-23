@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160122154056
+wayback_snapshot_url: "http://web.archive.org/web/20160122154056/http://cfi.co/awards/asia-pacific/2015/anandrathi-best-wealth-manager-india-2015/"
 content_sha256: 17643c8f0d31010bf144621e83fb03636408fc55e9bd98e14fc5dbe6ec7cad0f
 canonical: 2144-anandrathi-best-wealth-manager-india-2015.json
 ---
