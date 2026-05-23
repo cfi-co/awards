@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240515024614
+wayback_snapshot_url: "http://web.archive.org/web/20240515024614/https://cfi.co/awards/finance/2024/region-ile-de-france-best-in-class-bond-lssuer-global-2024/"
 content_sha256: 7346f8dd206dec28aa4508ae0108ede20ccaa4bccc1f58e146153c6c1c01f4e7
 canonical: 12353-region-ile-de-france-best-in-class-bond-lssuer-global-2024.json
 ---
