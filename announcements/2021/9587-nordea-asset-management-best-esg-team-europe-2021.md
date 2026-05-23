@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920112129
+wayback_snapshot_url: "http://web.archive.org/web/20210920112129/https://cfi.co/awards/europe/2021/nordea-asset-management-best-esg-team-europe-2021/"
 content_sha256: 9fe6b4cfc44389f3a6d02bb36fc163b5d9c4b63de91aa84d6d1ea33debe5b86e
 canonical: 9587-nordea-asset-management-best-esg-team-europe-2021.json
 ---
