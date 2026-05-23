@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210920112943",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210920112943/https://cfi.co/awards/africa/2021/absa-bank-most-responsible-bank-seychelles-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7947\" src=\"https://cfi.co/awards/wp-content/uploads/2020/07/ABSA.jpg\" alt=\"ABSA\" width=\"400\" height=\"400\" />\r\n<p style=\"text-align: justify;\">Absa Bank (Seychelles) forms an integral part of a financial services group with 42,000 employees and a presence in 12 countries. In a year of challenge, Absa has made several noteworthy accomplishments. It was the first to offer a “payment holiday” to individuals and businesses affected by Covid-19. Absa Bank made donations to public health organisations and supported 20 local institutions. It partnered with another major institution to provide social development programmes for young students. The bank recently published a financial literacy booklet — with the apt title of Things I Wish a Bank Had Told Me — and has already disseminated some 10,000 copies. The guidebook covers the origins of the banking industry, with fun facts about banking in the Seychelles and advice on the responsible management of personal finances. A future edition is planned, focusing on SMEs. The bank stays at the forefront of tech trends and encourages clients to take advantage of its digital platform. Clients can control their finances via its e-banking portal, while the NovoFX app allows for easy cross-border payments. Any lingering questions can be cleared up through the assistance app, Abby. Absa Bank is an African brand that aims to be a catalyst of socio-economic advancement across the African region. It earns trust by treating all stakeholders fairly, delivering on promises, and focusing on environmental impacts. The CFI.co judging panel presents Absa Bank (Seychelles) — a repeat programme winner — with the 2021 award for Most Responsible Bank (Seychelles).</p>",
     "content_sha256": "8b392901fa98051436394e34f1d56ab9ce0e5be854e16f0f916626107a9d56ea",
-    "record_sha256": "0819693d9958a266bc2bc6d515efbc7292b244f1602cb1b85f7cd26243221430"
+    "record_sha256": "3912a8d039813fac98a120d01bbac3b45abddf5f8683ecd20d900d2cc9649659"
 }
