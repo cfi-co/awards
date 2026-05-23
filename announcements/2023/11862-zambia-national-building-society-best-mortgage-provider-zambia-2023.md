@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231206173446
+wayback_snapshot_url: "http://web.archive.org/web/20231206173446/https://cfi.co/awards/africa/2023/zambia-national-building-society-best-mortgage-provider-zambia-2023/"
 content_sha256: dd07a656523eefe59e84384cddef56216b67c0a267339bf676ad85eb8723e410
 canonical: 11862-zambia-national-building-society-best-mortgage-provider-zambia-2023.json
 ---
