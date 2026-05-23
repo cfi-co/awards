@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160122050824
+wayback_snapshot_url: "http://web.archive.org/web/20160122050824/http://cfi.co/awards/europe/2015/invercaixa-gestion-best-fixed-income-fund-management-team-spain-2015/"
 content_sha256: c7cd36e78876b1a7702184cc753082756071d6d5bd9458f28021f25a97b6d9f3
 canonical: 2167-invercaixa-gestion-best-fixed-income-fund-management-team-spain-2015.json
 ---
