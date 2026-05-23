@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330010338
+wayback_snapshot_url: "http://web.archive.org/web/20230330010338/https://cfi.co/awards/professional-services/2022/active-capital-reinsurance-best-specialised-reinsurance-solutions-global-2022-best-reinsurer-emerging-markets-2022/"
 content_sha256: 8b8b2a4e2a4ca4fc0a9d191512cce94d895ff2399f9644549686b99bdb56be0a
 canonical: 10973-active-capital-reinsurance-best-specialised-reinsurance-solutions-global-2022-be.json
 ---
