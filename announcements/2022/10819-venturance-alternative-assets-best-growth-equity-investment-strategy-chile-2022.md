@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230330014546
+wayback_snapshot_url: "http://web.archive.org/web/20230330014546/https://cfi.co/awards/finance/2022/venturance-alternative-assets-best-growth-equity-investment-strategy-chile-2022/"
 content_sha256: 8ae3f40245dd0618b0135319fb7fc6aac6b346242e175095309196b8d746bc0d
 canonical: 10819-venturance-alternative-assets-best-growth-equity-investment-strategy-chile-2022.json
 ---
