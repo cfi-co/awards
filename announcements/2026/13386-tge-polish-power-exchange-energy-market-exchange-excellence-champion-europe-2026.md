@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: bf29a2ff7848085859697d0280845fb737776e2196eca6994baf74b5866b5268
 canonical: 13386-tge-polish-power-exchange-energy-market-exchange-excellence-champion-europe-2026.json
 ---
