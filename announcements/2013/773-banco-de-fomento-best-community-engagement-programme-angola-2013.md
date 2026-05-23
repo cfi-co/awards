@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016003721
+wayback_snapshot_url: "http://web.archive.org/web/20211016003721/https://cfi.co/awards/africa/2013/banco-de-fomento-best-community-engagement-programme-angola-2013/"
 content_sha256: 979e7bfbd2add4d06f4f18e0edd63361c1486b30ed8329e5f89d9659941305e2
 canonical: 773-banco-de-fomento-best-community-engagement-programme-angola-2013.json
 ---
