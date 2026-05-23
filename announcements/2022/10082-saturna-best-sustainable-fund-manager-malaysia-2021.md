@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220820030925
+wayback_snapshot_url: "http://web.archive.org/web/20220820030925/https://cfi.co/awards/asia-pacific/2022/saturna-best-sustainable-fund-manager-malaysia-2021/"
 content_sha256: 02d957a2424cbe31184df26e5118dc0c57e3b7e517a94f3e992fd696002adcaa
 canonical: 10082-saturna-best-sustainable-fund-manager-malaysia-2021.json
 ---
