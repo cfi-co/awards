@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507122953
+wayback_snapshot_url: "http://web.archive.org/web/20190507122953/https://cfi.co/awards/europe/2019/ubs-best-bank-sustainability-leadership-global-2019/"
 content_sha256: de2a16048ab49700f63069acae2fd6d8e9551ff793176dd0a2af3a46de4ded68
 canonical: 6591-ubs-best-bank-sustainability-leadership-global-2019.json
 ---
