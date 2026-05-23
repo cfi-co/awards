@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208094232
+wayback_snapshot_url: "http://web.archive.org/web/20230208094232/https://cfi.co/awards/africa/2022/agency-for-the-promotion-of-investment-and-exports-outstanding-contribution-to-trade-africa-2022/"
 content_sha256: 3be323015e0f7c2d52b1a1a86f3b8f32f6abed26b9a2e5ec4877f07ed3759df5
 canonical: 10935-agency-for-the-promotion-of-investment-and-exports-outstanding-contribution-to-t.json
 ---
