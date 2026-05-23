@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7f1d391e858eb4efa9ab55e5bc11205ef7ae742887f3672f5074d8376a6feed7
 canonical: 8211-bankinvest-best-esg-responsible-investor-denmark-2020.json
 ---
