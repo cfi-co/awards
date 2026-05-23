@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 9958f49f1151f92b9fb12e21c78424c7ed3de1735118ab79128f6946b3fe49b5
 canonical: 4708-aya-bank-best-regional-banking-partner-southeast-asia-2017.json
 ---
