@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094336
+wayback_snapshot_url: "http://web.archive.org/web/20190426094336/https://cfi.co/awards/industries/2016/visteon-best-connected-cockpit-ux-design-global-2016/"
 content_sha256: 9b7c1bab1163f29889e199355cec0d83bdc397d1c661286b591e898d8957854e
 canonical: 4075-visteon-best-connected-cockpit-ux-design-global-2016.json
 ---
