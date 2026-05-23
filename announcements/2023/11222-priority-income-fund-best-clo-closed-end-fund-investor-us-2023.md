@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230326145552
+wayback_snapshot_url: "http://web.archive.org/web/20230326145552/https://cfi.co/awards/finance/2023/priority-income-fund-best-clo-closed-end-fund-investor-us-2023/"
 content_sha256: 6971bc3e8c4ebe375ebc1f5eeaecded99d7b34d586ed929d7d6bcdd9761369e0
 canonical: 11222-priority-income-fund-best-clo-closed-end-fund-investor-us-2023.json
 ---
