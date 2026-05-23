@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723013148
+wayback_snapshot_url: "http://web.archive.org/web/20190723013148/https://cfi.co/awards/middle-east/2019/first-forte-consultancy-best-regional-business-development-services-uae-2019/"
 content_sha256: 07e2dccbf2612ab61b3b0fac53547f9f68dd6b8e82ad5627d5de2f514e176fc6
 canonical: 6615-first-forte-consultancy-best-regional-business-development-services-uae-2019.json
 ---
