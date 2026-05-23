@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: b3591133a93aaf2e2d3a58540688665dba1cd1b2e341fca8432a5f5f1c2942bd
 canonical: 10807-raiffeisen-centrobank-ag-best-structured-products-bank-cee-2022.json
 ---
