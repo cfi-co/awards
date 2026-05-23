@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928190432
+wayback_snapshot_url: "http://web.archive.org/web/20220928190432/https://cfi.co/awards/best-practice/2016/fuchs-petrolub-se-best-esg-leadership-germany-2015-2/"
 content_sha256: c7b50b4f962a6c8a35dfaad48baee2ffee0360de0e44278a5b0be777a51480d3
 canonical: 3055-fuchs-petrolub-se-best-esg-leadership-germany-2015-2.json
 ---
