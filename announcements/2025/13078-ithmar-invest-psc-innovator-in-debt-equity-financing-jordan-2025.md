@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251006224612
+wayback_snapshot_url: "http://web.archive.org/web/20251006224612/https://cfi.co/awards/finance/2025/ithmar-invest-psc-innovator-in-debt-equity-financing-jordan-2025/"
 content_sha256: e2509db6bfc862c6c0dab4f48e4ed52f6069819490f2ec082fd07387000ac413
 canonical: 13078-ithmar-invest-psc-innovator-in-debt-equity-financing-jordan-2025.json
 ---
