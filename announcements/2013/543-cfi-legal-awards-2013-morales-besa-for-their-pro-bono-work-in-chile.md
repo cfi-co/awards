@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140410022347
+wayback_snapshot_url: "http://web.archive.org/web/20140410022347/http://cfi.co/awards/latin-america/2013/cfi-legal-awards-2013-morales-besa-for-their-pro-bono-work-in-chile/"
 content_sha256: b086099403583f71ca4c6efa9efb6700a88d992a8ac741e3f45fc068abc018c6
 canonical: 543-cfi-legal-awards-2013-morales-besa-for-their-pro-bono-work-in-chile.json
 ---
