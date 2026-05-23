@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210614171611
+wayback_snapshot_url: "http://web.archive.org/web/20210614171611/https://cfi.co/awards/africa/2021/roxgold-inc-best-mining-csr-strategy-west-africa-2021/"
 content_sha256: ea4cf0cd24ada3270de10b04b40472df2f5ed9f3e0ca936559c28bed3d5be7fc
 canonical: 9131-roxgold-inc-best-mining-csr-strategy-west-africa-2021.json
 ---
