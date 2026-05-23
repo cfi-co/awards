@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220630135946",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220630135946/https://cfi.co/awards/africa/2022/crc-credit-bureau-ltd-best-credit-bureau-nigeria-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8850\" src=\"https://cfi.co/awards/wp-content/uploads/2021/02/CRC-Credut-Bureau.jpg\" alt=\"CRC Credit Bureau\" width=\"400\" height=\"59\" />\r\n<p style=\"text-align: justify;\">Lagos-based CRC Credit Bureau has developed a range of fresh initiatives to deal with the effects of the Covid-19 pandemic in Nigeria. The data collection agency was incorporated in 2006 and has evolved the product line-up to enable partners to gain deeper customer understanding, conduct more targeted marketing campaigns and support informed decision-making. The latest CRC initiative is designed to offer a clearer picture of those seeking loans in the aftermath of the economic damage inflicted by the pandemic, especially the country’s hard-hit SMEs. CRC Credit Bureau gives partners a 360-view of their customers, pulling from financial records as well as social media channels to understand how the pandemic has impacted them. Advanced data analysis is being utilised to identify customers with responsible repayment histories so that terms can be renewed or restructured. The company is also implementing recovery plans that seek to build IT capacity and digital awareness. It has set up a financial education centre where companies are given IT training in soft skills, credit evaluation and tracing, among other subjects. CRC hopes that stronger technical services will allow businesses in Nigeria to upscale more rapidly after the upheaval of Covid-19. The company is also running a number of internet seminars covering payment, digital and open banking systems. CRC Credit Bureau was accredited by the Chartered Institute of Bankers of Nigeria in 2021. The CFI.co judging panel presents repeat programme winner CRC Credit Bureau with the 2022 Best Credit Bureau (Nigeria) award.</p>",
     "content_sha256": "072aa3d745299091b3b726bb51dfd4dcfa9c497cf175cca443a635e6c7513a93",
-    "record_sha256": "6b16e7b28f552c2cc7206eaf67a2c3ddb7abca08a25ee649bdf7951b75c265f6"
+    "record_sha256": "854e461f4381bbb5c439d489dfa09eeaaf7ca1baf7a6e7e8131ff3b2c0239826"
 }
