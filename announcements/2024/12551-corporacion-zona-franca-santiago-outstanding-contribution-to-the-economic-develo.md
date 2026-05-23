@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241005084643
+wayback_snapshot_url: "http://web.archive.org/web/20241005084643/https://cfi.co/awards/latin-america/2024/corporacion-zona-franca-santiago-outstanding-contribution-to-the-economic-development-dominican-republic-2024/"
 content_sha256: 63639fa505e5291eb47a82097a3eadea8799b445a89cd4fe30d9ebb352f6d08e
 canonical: 12551-corporacion-zona-franca-santiago-outstanding-contribution-to-the-economic-develo.json
 ---
