@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924130043
+wayback_snapshot_url: "http://web.archive.org/web/20210924130043/https://cfi.co/awards/europe/2015/dla-piper-best-cross-border-transaction-team-global-2015/"
 content_sha256: dc037f31196d006e81ad42f4af663736630b1841018bec7d0a01f21067b1caa7
 canonical: 2271-dla-piper-best-cross-border-transaction-team-global-2015.json
 ---
