@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630143302
+wayback_snapshot_url: "http://web.archive.org/web/20220630143302/https://cfi.co/awards/africa/2022/barrick-gold-best-sustainable-mining-strategy-africa-2021/"
 content_sha256: a4b1134d124948161111415fe083f92b6f6b3d0d6f6b07661c62e7eb41eae07e
 canonical: 10064-barrick-gold-best-sustainable-mining-strategy-africa-2021.json
 ---
