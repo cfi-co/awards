@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603004821
+wayback_snapshot_url: "http://web.archive.org/web/20230603004821/https://cfi.co/awards/europe/2023/hfm-best-online-trading-app-global-2023/"
 content_sha256: a0c37daf2e12ac145444518e7991b6e5130355b115bf2bfcfc8664e18883bb7a
 canonical: 11311-hfm-best-online-trading-app-global-2023.json
 ---
