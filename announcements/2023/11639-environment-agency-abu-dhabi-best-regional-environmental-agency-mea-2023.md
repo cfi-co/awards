@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923183759
+wayback_snapshot_url: "http://web.archive.org/web/20230923183759/https://cfi.co/awards/best-practice/2023/environment-agency-abu-dhabi-best-regional-environmental-agency-mea-2023/"
 content_sha256: 538435179e99a49ac81ca0e6dd846395a3729c3fd46de859063a5731004be89e
 canonical: 11639-environment-agency-abu-dhabi-best-regional-environmental-agency-mea-2023.json
 ---
