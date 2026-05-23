@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210924124545
+wayback_snapshot_url: "http://web.archive.org/web/20210924124545/https://cfi.co/awards/europe/2020/grupo-ageas-portugal-best-insurance-group-portugal-2020/"
 content_sha256: 3ccd43b11a56c412854ebf3cf8e12d6a4fc1b3f3c4d8a6f1bc67996c2aa785a7
 canonical: 8031-grupo-ageas-portugal-best-insurance-group-portugal-2020.json
 ---
