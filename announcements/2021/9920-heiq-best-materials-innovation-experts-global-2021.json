@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20211223084321",
+        "wayback_snapshot_url": "http://web.archive.org/web/20211223084321/https://cfi.co/awards/europe/2021/heiq-best-materials-innovation-experts-global-2021/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9921\" src=\"https://cfi.co/awards/wp-content/uploads/2021/12/HeiQ.jpg\" alt=\"HeiQ\" width=\"500\" height=\"117\" />\r\n<p style=\"text-align: justify;\">Swiss-headquartered HeiQ is a materials specialist with subsidiaries in nine countries and a network that spans five continents. HeiQ markets itself as a three-in-one company that can cover everything inhouse, from scientific research to materials manufacturing and consumer branding. HeiQ excels in the R&amp;D field, where it tends to be significantly faster and more lateral than peers. It works with six tech platforms — rather than the industry's standard one or two — to foster innovation. The company, which is a spin-off from the Swiss Federal Institute of Technology Zurich, has established a network of innovation, including internal and external HeiQ teams as well as industry and academic collaborators worldwide. HeiQ is a technical company with the capabilities to design and manufacture, scaling up from pilot phase to commercialisation. Their philosophy is: “We don't talk to just our customers, we talk to their customers, talk to the brands and we anchor innovation at brand level and implement specifications.” Speed matters in the innovation cycle, and HeiQ has proven it can take a product from concept to materialisation and market in record time. HeiQ competes on an equal footing in its three business models, but when these are combined, it blows everyone else out of the water. The company, founded in 2005 and listed on the London Stock Exchange (LSE) since 2020, is well-positioned to capitalise on growing markets. HeiQ employs some 250 professionals, about half of which joined th group during the past year. The CFI.co jury presents HeiQ with the 2021 global award for Best Materials Innovation Experts.</p>",
     "content_sha256": "612e0adea14ae1714109cdd72d69520d96cae8a21d9f57cac283b61fd3b90be9",
-    "record_sha256": "9b2997d08d2b4c6860f445d67df5f747c35c4bc7a7ed97c18fc595ebad081def"
+    "record_sha256": "2807fa5b217916ba9cd9f9d15cb7aa2ecf87d3e8550bc98e742300b104285753"
 }
