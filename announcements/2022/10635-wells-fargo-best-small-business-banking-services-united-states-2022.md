@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928192356
+wayback_snapshot_url: "http://web.archive.org/web/20220928192356/https://cfi.co/awards/north-america/2022/wells-fargo-best-small-business-banking-services-united-states-2022/"
 content_sha256: f1646cd9a65e3c70472eecaf3973c38a78e5c0a7132ac3aaa84e33bfc4d6b047
 canonical: 10635-wells-fargo-best-small-business-banking-services-united-states-2022.json
 ---
