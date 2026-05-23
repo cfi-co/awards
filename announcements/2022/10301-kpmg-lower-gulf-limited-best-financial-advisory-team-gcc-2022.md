@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220405163338
+wayback_snapshot_url: "http://web.archive.org/web/20220405163338/https://cfi.co/awards/middle-east/2022/kpmg-lower-gulf-limited-best-financial-advisory-team-gcc-2022/"
 content_sha256: a2e9582c70b66feadfe9df51fe83027c1dc656f67b74a232f56a4446d13ea6a3
 canonical: 10301-kpmg-lower-gulf-limited-best-financial-advisory-team-gcc-2022.json
 ---
