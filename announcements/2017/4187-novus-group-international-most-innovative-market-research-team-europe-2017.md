@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921105513
+wayback_snapshot_url: "http://web.archive.org/web/20210921105513/https://cfi.co/awards/professional-services/2017/novus-group-international-most-innovative-market-research-team-europe-2017/"
 content_sha256: 52baaf00adda0823c67eb72e1f47d8999f30e340f0a84a682f38e0cc059573ca
 canonical: 4187-novus-group-international-most-innovative-market-research-team-europe-2017.json
 ---
