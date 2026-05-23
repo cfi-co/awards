@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211016002227
+wayback_snapshot_url: "http://web.archive.org/web/20211016002227/https://cfi.co/awards/middle-east/2015/emirates-nbd-asset-management-best-mena-fixed-income-fund-manager-2015/"
 content_sha256: d75805e1dadd8ea60972a8ff52993d7697f3ce36dce0d2e65455fb486c87a0d2
 canonical: 2130-emirates-nbd-asset-management-best-mena-fixed-income-fund-manager-2015.json
 ---
