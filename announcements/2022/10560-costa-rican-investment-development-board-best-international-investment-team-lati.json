@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20220928191945",
+        "wayback_snapshot_url": "http://web.archive.org/web/20220928191945/https://cfi.co/awards/development/2022/costa-rican-investment-development-board-best-international-investment-team-latin-america-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10561\" src=\"https://cfi.co/awards/wp-content/uploads/2022/06/CINDE.jpg\" alt=\"CINDE\" width=\"500\" height=\"96\" />\r\n<p style=\"text-align: justify;\">For the fifth consecutive year, <span style=\"text-decoration: underline;\"><a href=\"https://www.cinde.org/\">Costa Rican Investment &amp; Development Board (CINDE)</a></span> has achieved top marks from the UN International Trade Center (ITC). The organisation earned the highest ranking among the 85 reviewed and received a perfect score on 81 percent of the indicators evaluated. The ITC commented on CINDE’s strong value proposition, which is rooted in investing with purpose for people, planet and prosperity. CINDE reported record figures in 2020 — and 2021 reports surpassed the previous year’s success. Last year, the organisation saw 22,461 new jobs created in the fields of life sciences, smart manufacturing, digital services and technologies, up by 13.4 percent over 2020. CINDE secured 103 new FDI projects over the past year, representing a 30 percent increase from 2020, with many new companies hailing from non-traditional destinations. Investor confidence in the country and its growing talent pool has enabled CINDE to attract a growing number of enthusiastic international investors. The organisation is proud to contribute towards the SDGs and publishes an annual report highlighting impact results in the areas of quality education; gender equality; decent work and economic growth; and industry, innovation and infrastructure. Women hold nearly half of new jobs created in 2021, and CINDE is collaborating to further reduce economic gender gaps. The CFI.co judging panel congratulates CINDE — a repeat programme winner — on claiming the 2022 award for Best International Investment Team (Latin America).</p>",
     "content_sha256": "2ca33b07f795bd2a567a646f2b336c22bbe1963920d9b46de32eac164d72c6f3",
-    "record_sha256": "65309b0a7ad50f40daf8d1f726e47bef999665750c7f415559efea4e76a88395"
+    "record_sha256": "b38c92ae5b3204f2d8e0aee41241e71292b130b7c0276a987c3ffead7adb0695"
 }
