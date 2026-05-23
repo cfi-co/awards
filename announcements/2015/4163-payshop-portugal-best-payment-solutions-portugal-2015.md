@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220921131707
+wayback_snapshot_url: "http://web.archive.org/web/20220921131707/https://cfi.co/awards/industries/technology/2015/payshop-portugal-best-payment-solutions-portugal-2015/"
 content_sha256: 30b402c13d32e807db9c603fa0968702c3986723f27de97581c64e249e7dbb39
 canonical: 4163-payshop-portugal-best-payment-solutions-portugal-2015.json
 ---
