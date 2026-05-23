@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20260315113209
+wayback_snapshot_url: "http://web.archive.org/web/20260315113209/https://cfi.co/awards/development/2026/western-development-commission-leadership-in-regional-innovation-and-impact-investment-ireland-2025/"
 content_sha256: 4aac114b708fbabedcc96a0580033dd84d245e53bd21a5cea8a66b2401705985
 canonical: 13296-western-development-commission-leadership-in-regional-innovation-and-impact-inve.json
 ---

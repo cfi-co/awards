@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260315113209",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260315113209/https://cfi.co/awards/development/2026/western-development-commission-leadership-in-regional-innovation-and-impact-investment-ireland-2025/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13297\" src=\"https://cfi.co/awards/wp-content/uploads/2026/01/WDC.jpg\" alt=\"WDC\" width=\"500\" height=\"173\" />\r\n<p style=\"text-align: justify;\">The Western Development Commission (WDC) is recognised for its leadership in advancing regional innovation and impact investment across Western Ireland. Central to this success is the organisation’s unique ‘Evergreen’ fund model. By recycling investment returns into new ventures, the WDC demonstrates how patient, strategic capital can create a self-sustaining engine for economic and social value. The judging panel was impressed by the scale of outcomes achieved through this circular approach. The funds have underpinned tens of thousands of job years—specifically supporting 66,102 job years—while generating €4.8bn in turnover and €2.6bn in exports. This investment has catalysed innovation-led growth, particularly in life sciences, where focused risk tolerance has supported €639m in R&amp;D expenditure, reinforcing the region’s global competitiveness in cardiovascular devices and diagnostics. Crucially, the Commission’s impact extends beyond financial metrics. In recent assessments, 96 per cent of SMEs and 100 per cent of social enterprises confirmed that WDC backing was significant to their survival and growth, effectively bridging early-stage funding gaps. By acting as a trusted, long-term partner, the organisation has fostered confidence and crowded in further private investment. This integrated approach to innovation and inclusion exemplifies best practice in regional development finance. The CFI.co Judging Panel congratulates the Western Development Commission on winning the 2025 Leadership in Regional Innovation and Impact Investment Award (Ireland).</p>",
     "content_sha256": "4aac114b708fbabedcc96a0580033dd84d245e53bd21a5cea8a66b2401705985",
-    "record_sha256": "2a622150ef0e9c8d2deb545a0650052d91e9ae282116b4622eee9bf3045ed021"
+    "record_sha256": "9f31ba373a2f9473689dcd47ceb368d34199a82f8fda80617cd7fb34447d2ca6"
 }
