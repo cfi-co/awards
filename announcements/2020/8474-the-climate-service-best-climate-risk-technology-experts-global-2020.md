@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201117143217
+wayback_snapshot_url: "http://web.archive.org/web/20201117143217/https://cfi.co/awards/north-america/2020/the-climate-service-best-climate-risk-technology-experts-global-2020/"
 content_sha256: 993976c515fa88d160f31268f62c2a79326066e8fab13392283c424f4b689f67
 canonical: 8474-the-climate-service-best-climate-risk-technology-experts-global-2020.json
 ---
