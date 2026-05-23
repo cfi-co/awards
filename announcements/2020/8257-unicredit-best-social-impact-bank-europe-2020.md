@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201126201727
+wayback_snapshot_url: "http://web.archive.org/web/20201126201727/https://cfi.co/awards/europe/2020/unicredit-best-social-impact-bank-europe-2020/"
 content_sha256: 6913e622fa58f37c8332eb8df2f0d5c8be7b168ab54b9d1b603ddf2f5510e071
 canonical: 8257-unicredit-best-social-impact-bank-europe-2020.json
 ---
