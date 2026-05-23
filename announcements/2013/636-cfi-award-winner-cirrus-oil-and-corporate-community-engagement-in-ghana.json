@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250209181617",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250209181617/https://cfi.co/awards/africa/2013/cfi-award-winner-cirrus-oil-and-corporate-community-engagement-in-ghana/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-637\" src=\"https://cfi.co/awards/wp-content/uploads/2013/07/cirrus.jpg\" alt=\"cirrus\" width=\"343\" height=\"65\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Cirrus Oil is working hard to bring benefits to the people of their host communities in Ghana.</strong></p>\r\n<p style=\"text-align: justify;\">The CFI judging panel was impressed by the Company’s focus on education. Cirrus constructed a splendid modern library in December last year and has stocked it well. The giving strategy is that of empowering people through improved literacy. Health concerns are paramount in Ghana with high incidences of HIV/Aids and Tuberculosis and the Company has donated much-need medical equipment.  Cirrus also champions a campaign to keep neighbourhoods clean and tidy. The panel was impressed by the Company’s consultative approach to responding to community needs. Each quarter Cirrus arranges meetings where chiefs, children, parents and the Company are all represented. The attitude at Cirrus is to ask, ‘What can we do?’</p>",
     "content_sha256": "f28b83c2cadf72e31866bfe4c54d00165adc9d00ab83fa215ed3527192b6394e",
-    "record_sha256": "bc63023c2391300ba914629336c5925f3fb60e4c77e906c153d0d796398a6e45"
+    "record_sha256": "8f801f93a193e06fda9106018c3cd62fd46b233076800735a00b4012b8848778"
 }
