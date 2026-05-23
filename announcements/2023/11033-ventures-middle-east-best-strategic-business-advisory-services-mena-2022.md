@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230208110148
+wayback_snapshot_url: "http://web.archive.org/web/20230208110148/https://cfi.co/awards/professional-services/consultancies/2023/ventures-middle-east-best-strategic-business-advisory-services-mena-2022/"
 content_sha256: 8a30b2796c9e8cb76444897e1049be909d146342cb71c378cbdca8cf674d65d9
 canonical: 11033-ventures-middle-east-best-strategic-business-advisory-services-mena-2022.json
 ---
