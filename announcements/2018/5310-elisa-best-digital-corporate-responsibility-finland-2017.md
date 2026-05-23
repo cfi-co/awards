@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921120225
+wayback_snapshot_url: "http://web.archive.org/web/20210921120225/https://cfi.co/awards/europe/2018/elisa-best-digital-corporate-responsibility-finland-2017/"
 content_sha256: ce49fe27f1fb1b2fe65107ec5112cb1d6268d7f9a00fa78c8d4653d3ce5988d0
 canonical: 5310-elisa-best-digital-corporate-responsibility-finland-2017.json
 ---
