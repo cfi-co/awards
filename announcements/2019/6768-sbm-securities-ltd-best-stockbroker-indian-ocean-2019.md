@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190723011402
+wayback_snapshot_url: "http://web.archive.org/web/20190723011402/https://cfi.co/awards/asia-pacific/2019/sbm-securities-ltd-best-stockbroker-indian-ocean-2019/"
 content_sha256: 1f8f2725cc7925016a7c9d6f2e27d7647c19341e8629bece1db6e7e9cee3e132
 canonical: 6768-sbm-securities-ltd-best-stockbroker-indian-ocean-2019.json
 ---
