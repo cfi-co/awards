@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211207205558
+wayback_snapshot_url: "http://web.archive.org/web/20211207205558/https://cfi.co/awards/africa/2021/ghana-investment-promotion-centre-best-investment-promotion-agency-africa-2021/"
 content_sha256: def516098af0ac834f98c43de18bfa9a0b378bcf1210df918a7a23238f862c77
 canonical: 9776-ghana-investment-promotion-centre-best-investment-promotion-agency-africa-2021.json
 ---
