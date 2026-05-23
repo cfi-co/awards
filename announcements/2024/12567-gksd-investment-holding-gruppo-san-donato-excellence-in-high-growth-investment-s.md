@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20250123101845
+wayback_snapshot_url: "http://web.archive.org/web/20250123101845/https://cfi.co/awards/finance/2024/gksd-investment-holding-gruppo-san-donato-excellence-in-high-growth-investment-strategies-emea-2024/"
 content_sha256: 5c93f9a6205d50e2d2f949d808d840f4f92df7fb71d57af5b1ed8997d531c2f7
 canonical: 12567-gksd-investment-holding-gruppo-san-donato-excellence-in-high-growth-investment-s.json
 ---
