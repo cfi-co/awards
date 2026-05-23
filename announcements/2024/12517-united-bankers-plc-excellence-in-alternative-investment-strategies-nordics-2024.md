@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240905213442
+wayback_snapshot_url: "http://web.archive.org/web/20240905213442/https://cfi.co/awards/banking/2024/united-bankers-plc-excellence-in-alternative-investment-strategies-nordics-2024/"
 content_sha256: 4ef6d7d3ccceb89fd854ae8555b4b4d83078c08f9220b06f140e4e116c84ad43
 canonical: 12517-united-bankers-plc-excellence-in-alternative-investment-strategies-nordics-2024.json
 ---
