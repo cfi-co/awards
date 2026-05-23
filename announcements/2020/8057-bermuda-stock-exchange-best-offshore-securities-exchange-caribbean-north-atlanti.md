@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200923093638
+wayback_snapshot_url: "http://web.archive.org/web/20200923093638/https://cfi.co/awards/north-america/2020/bermuda-stock-exchange-best-offshore-securities-exchange-caribbean-north-atlantic-region-2020/"
 content_sha256: 0c10b72479906a546610c52cfa49ebabef061e2d840bc80d29d7dbfcccd3a6c4
 canonical: 8057-bermuda-stock-exchange-best-offshore-securities-exchange-caribbean-north-atlanti.json
 ---
