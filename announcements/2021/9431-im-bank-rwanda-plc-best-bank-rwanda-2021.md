@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920104848
+wayback_snapshot_url: "http://web.archive.org/web/20210920104848/https://cfi.co/awards/africa/2021/im-bank-rwanda-plc-best-bank-rwanda-2021/"
 content_sha256: 7f6d9adaf1b1de9c8ecbfe0318222eb86cac7124010a20605ce5d4ec82a23c1a
 canonical: 9431-im-bank-rwanda-plc-best-bank-rwanda-2021.json
 ---
