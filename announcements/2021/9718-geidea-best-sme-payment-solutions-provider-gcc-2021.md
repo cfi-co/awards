@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211101134415
+wayback_snapshot_url: "http://web.archive.org/web/20211101134415/https://cfi.co/awards/middle-east/2021/geidea-best-sme-payment-solutions-provider-gcc-2021/"
 content_sha256: 08fc3b84fb3d71f0b1170a122af6174a1ec1b749c500d5abf966b1769ca34262
 canonical: 9718-geidea-best-sme-payment-solutions-provider-gcc-2021.json
 ---
