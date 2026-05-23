@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210418060435
+wayback_snapshot_url: "http://web.archive.org/web/20210418060435/https://cfi.co/awards/asia-pacific/2021/cimb-bank-ph-best-digital-banking-solutions-philippines-2021/"
 content_sha256: efaf96c06b079a91ecafb64779ecb8b140ab4de2cad0b5655d444c9078084e6e
 canonical: 8989-cimb-bank-ph-best-digital-banking-solutions-philippines-2021.json
 ---
