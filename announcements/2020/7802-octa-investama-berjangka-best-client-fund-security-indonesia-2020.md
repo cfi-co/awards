@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810082104
+wayback_snapshot_url: "http://web.archive.org/web/20200810082104/https://cfi.co/awards/asia-pacific/2020/octa-investama-berjangka-best-client-fund-security-indonesia-2020/"
 content_sha256: 992ee9805556b2b7dcf2b2042395e8268614ebf0b3b189a649ededdfc853c73f
 canonical: 7802-octa-investama-berjangka-best-client-fund-security-indonesia-2020.json
 ---
