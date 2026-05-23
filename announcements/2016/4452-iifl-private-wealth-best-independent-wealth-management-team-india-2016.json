@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20210921110508",
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921110508/https://cfi.co/awards/asia-pacific/2016/iifl-private-wealth-best-independent-wealth-management-team-india-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4453\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/IIFL.jpg\" alt=\"\" width=\"416\" height=\"149\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Locked together in unison, wisdom and experience make a powerful combination. IIFL Private Wealth seeks to merge these outstanding traits to produce a range of wealth management solutions that not only stand the test of time, but improve with age. Agile, whilst prudent at the same time, IIFL Private Wealth’s senior advisors share their knowledge with the firm’s growing client base to reach solutions that dovetail with individual requirements and expectations.</strong></p>\r\n<p style=\"text-align: justify;\">IIFL Private Wealth traces its origins to 2008 when a group of professionals from the private banking industry joined forces to help investors navigate the then turbulent financial times. The founders proved that opportunities abound even as the wider market struggled.</p>\r\n<p style=\"text-align: justify;\">IIFL Private Wealth has a number of advantages that it leverages to obtain above-average results. The firm is employee-owned: though the holding and a strategic partner retain 76% of the firm’s share capital, the remainder is owned by its professionals who are thus encouraged to adhere to long-term strategies instead of chasing the next quarter’s results which are usually not indicative of sustained corporate performance.</p>\r\n<p style=\"text-align: justify;\">By investing heavily in technology and innovative corporate processes aimed at aligning the interests of professionals and clients alike, IIFL Private Wealth has managed to stay well ahead and offer products and solutions that are crafted to consistently ensure the best outcomes.\r\nThe CFI.co judging panel commends IIFL Private Wealth on its forward thinking and grants the firm the 2016 Best Independent Wealth Management Team India Award.</p>",
     "content_sha256": "ed565b70be9e0a43204e7c764641ded23070bc99b7f143e7fb9696e58b0db60c",
-    "record_sha256": "607fa50ef9f926e270f180fec76aee999e360b288eec4a57338fbe093144d11f"
+    "record_sha256": "157384c387791236e1b2e3d118fb24eafa1e0b0f8bbfb848594ca55865517064"
 }
