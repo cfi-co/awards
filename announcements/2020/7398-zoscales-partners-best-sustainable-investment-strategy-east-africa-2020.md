@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241207063635
+wayback_snapshot_url: "http://web.archive.org/web/20241207063635/https://cfi.co/awards/africa/2020/zoscales-partners-best-sustainable-investment-strategy-east-africa-2020/"
 content_sha256: a2afd28896f0707e50a99f527e72d2e9ce75935f7152bd77d56bf21b7d41d494
 canonical: 7398-zoscales-partners-best-sustainable-investment-strategy-east-africa-2020.json
 ---
