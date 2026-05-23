@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 77f81b7117b1b16b4eb9da7228a5cdd193d94c7e6e45e999fecbb62cd8acba72
 canonical: 4617-salaam-african-bank-best-sharia-compliant-commercial-bank-east-africa-2016.json
 ---
