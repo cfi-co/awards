@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20251108154310
+wayback_snapshot_url: "http://web.archive.org/web/20251108154310/https://cfi.co/awards/asia-pacific/2025/idfc-first-bank-best-digital-bank-india-2025/"
 content_sha256: 9ef92293b371f9ff58901b309494eac97373ea04889cb8890dfad11c3d63f0bb
 canonical: 13134-idfc-first-bank-best-digital-bank-india-2025.json
 ---
