@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220402163054
+wayback_snapshot_url: "http://web.archive.org/web/20220402163054/https://cfi.co/awards/europe/2022/aveva-best-sustainable-industrial-software-solutions-global-2021/"
 content_sha256: 11af77a66960a000ffe0e2910095a6cb2e7c82635b77297131c1caafb7dc4e3a
 canonical: 10280-aveva-best-sustainable-industrial-software-solutions-global-2021.json
 ---
