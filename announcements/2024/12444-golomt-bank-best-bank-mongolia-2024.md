@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240710100253
+wayback_snapshot_url: "http://web.archive.org/web/20240710100253/https://cfi.co/awards/asia-pacific/2024/golomt-bank-best-bank-mongolia-2024/"
 content_sha256: 3442be607b240b024cc234285df39b4a35849eec38570a4fe5e77cd8261abf4d
 canonical: 12444-golomt-bank-best-bank-mongolia-2024.json
 ---
