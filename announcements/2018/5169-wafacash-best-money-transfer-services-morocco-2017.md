@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426094400
+wayback_snapshot_url: "http://web.archive.org/web/20190426094400/https://cfi.co/awards/africa/2018/wafacash-best-money-transfer-services-morocco-2017/"
 content_sha256: 1e6be7eba77cb4c3126f5193c25abd558fbe81848fee290d7e538c9fe26fc42d
 canonical: 5169-wafacash-best-money-transfer-services-morocco-2017.json
 ---
