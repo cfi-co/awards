@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230923172623
+wayback_snapshot_url: "http://web.archive.org/web/20230923172623/https://cfi.co/awards/europe/2023/copernicus-wealth-management-best-wealth-management-team-switzerland-2023/"
 content_sha256: b82d71aa3dc07a95f6843dbddb4c8f0aab0dc81dacd36110b0bf83764aa2029f
 canonical: 11715-copernicus-wealth-management-best-wealth-management-team-switzerland-2023.json
 ---
