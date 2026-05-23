@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221203052326
+wayback_snapshot_url: "http://web.archive.org/web/20221203052326/https://cfi.co/awards/europe/2021/sydinvest-best-investment-fund-manager-denmark-2021/"
 content_sha256: c97f80613bd066c2d985fd543269cc06c599214fed0672240b8eb680700c9669
 canonical: 9862-sydinvest-best-investment-fund-manager-denmark-2021.json
 ---
