@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20201203235242
+wayback_snapshot_url: "http://web.archive.org/web/20201203235242/https://cfi.co/awards/africa/2020/fedgroup-best-impact-agribusiness-investment-partner-africa-2020/"
 content_sha256: f14a5b3df5978ccbac7e6062aacda9f0126a26e3acb471d5983e4683c436bb7c
 canonical: 8448-fedgroup-best-impact-agribusiness-investment-partner-africa-2020.json
 ---
