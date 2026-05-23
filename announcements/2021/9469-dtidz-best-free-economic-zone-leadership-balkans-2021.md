@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 3f1893b32afc0033780e35f21463abf2bf7857ef8daad8551fe33003f8f35422
 canonical: 9469-dtidz-best-free-economic-zone-leadership-balkans-2021.json
 ---
