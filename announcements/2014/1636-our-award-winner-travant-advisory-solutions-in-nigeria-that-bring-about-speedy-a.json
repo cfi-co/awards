@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20200810082632",
+        "wayback_snapshot_url": "http://web.archive.org/web/20200810082632/https://cfi.co/awards/africa/2014/our-award-winner-travant-advisory-solutions-in-nigeria-that-bring-about-speedy-and-positive-change/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1637\" src=\"https://cfi.co/awards/wp-content/uploads/2015/02/travant.jpg\" alt=\"travant\" width=\"149\" height=\"69\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel is happy to recognise Travant Capital Partners as ‘Best Fund Advisory Team, Nigeria, 2014’. </strong></p>\r\n<p style=\"text-align: justify;\">Travant advises across a broad range of industries and has a strong client base. The panel comments that, ‘Travant, working to international best practice, shows ingenuity and innovation and tries to make a real difference to client businesses with solutions that can be implemented effectively to bring speedy and positive change. Here is a successful marriage of local knowledge and international expertise which results in a good understanding of the problems clients face. We congratulate Travant on this well-deserved award’.</p>",
     "content_sha256": "031ea28394b53ca2c07f4ac5de1743e3112bb99e7037b2ae32507904f8b76c49",
-    "record_sha256": "5e5a5982736c1c985067cd7e09a1bb562390d6db0f11ee1ad3eadd48d30eb5ac"
+    "record_sha256": "ac666645860e1f82aa077fb923513dcfad8064f71bd0314f188456199da849cf"
 }

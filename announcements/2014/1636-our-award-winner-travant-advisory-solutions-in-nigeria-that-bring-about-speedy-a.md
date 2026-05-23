@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200810082632
+wayback_snapshot_url: "http://web.archive.org/web/20200810082632/https://cfi.co/awards/africa/2014/our-award-winner-travant-advisory-solutions-in-nigeria-that-bring-about-speedy-and-positive-change/"
 content_sha256: 031ea28394b53ca2c07f4ac5de1743e3112bb99e7037b2ae32507904f8b76c49
 canonical: 1636-our-award-winner-travant-advisory-solutions-in-nigeria-that-bring-about-speedy-a.json
 ---
