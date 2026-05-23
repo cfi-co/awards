@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724012510
+wayback_snapshot_url: "http://web.archive.org/web/20210724012510/https://cfi.co/awards/europe/2014/abn-amro-commercial-finance-wins-award-for-best-sme-financing-solutions-united-kingdom/"
 content_sha256: 3ac5032ae8c92f180278bb28fc743ef81e90e2044a51ac46fc5f369da5ce8538
 canonical: 1275-abn-amro-commercial-finance-wins-award-for-best-sme-financing-solutions-united-k.json
 ---
