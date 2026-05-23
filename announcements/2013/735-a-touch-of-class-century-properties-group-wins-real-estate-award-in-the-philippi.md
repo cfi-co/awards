@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20150616070018
+wayback_snapshot_url: "http://web.archive.org/web/20150616070018/http://cfi.co/awards/asia-pacific/2013/a-touch-of-class-century-properties-group-wins-real-estate-award-in-the-philippines/"
 content_sha256: 086fff5cb0ff60877d5481019aa6996d85a2b0ccc0e79c2eeb450d2fbdce2204
 canonical: 735-a-touch-of-class-century-properties-group-wins-real-estate-award-in-the-philippi.json
 ---
