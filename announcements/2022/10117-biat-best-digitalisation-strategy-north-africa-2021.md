@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220630124646
+wayback_snapshot_url: "http://web.archive.org/web/20220630124646/https://cfi.co/awards/africa/2022/biat-best-digitalisation-strategy-north-africa-2021/"
 content_sha256: 63a9ae880f0c9f8d1ba0cd5e3ca228b7fe36f2695d74798cc5c9d8ed7b0542ba
 canonical: 10117-biat-best-digitalisation-strategy-north-africa-2021.json
 ---
