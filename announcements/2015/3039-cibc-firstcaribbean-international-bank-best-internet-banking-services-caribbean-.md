@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c3a11302c9d2204ce0da522534cbb3955bbd44f6a8115aec35d402b3bd7386e5
 canonical: 3039-cibc-firstcaribbean-international-bank-best-internet-banking-services-caribbean-.json
 ---
