@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190426100246
+wayback_snapshot_url: "http://web.archive.org/web/20190426100246/https://cfi.co/awards/industries/2016/virgin-management-innovative-global-brand-group-united-kingdom-2016/"
 content_sha256: 478485a82e823bcdd5f3446a58ff955a9d775675640e392fc1bfb6273124e6e3
 canonical: 3423-virgin-management-innovative-global-brand-group-united-kingdom-2016.json
 ---
