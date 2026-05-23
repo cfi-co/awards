@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200714063541
+wayback_snapshot_url: "http://web.archive.org/web/20200714063541/https://cfi.co/awards/africa/2015/fdh-financial-holdings-outstanding-corporate-leadership-africa-2015-dr-thomson-f-mpinganjira/"
 content_sha256: a92f7f9e3bc582e52aa88bd6f598a119df04366a894104f96ef8d6520dca8203
 canonical: 3601-fdh-financial-holdings-outstanding-corporate-leadership-africa-2015-dr-thomson-f.json
 ---
