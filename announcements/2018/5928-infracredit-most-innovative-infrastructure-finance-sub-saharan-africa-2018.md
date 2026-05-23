@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190825103536
+wayback_snapshot_url: "http://web.archive.org/web/20190825103536/https://cfi.co/awards/front/2018/infracredit-most-innovative-infrastructure-finance-sub-saharan-africa-2018/"
 content_sha256: 9f9877286e8ae130da2dd7344842494f3478a4c463552ee9cb35942d54aba625
 canonical: 5928-infracredit-most-innovative-infrastructure-finance-sub-saharan-africa-2018.json
 ---
