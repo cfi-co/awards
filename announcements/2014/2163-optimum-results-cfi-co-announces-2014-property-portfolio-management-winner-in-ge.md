@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210724021753
+wayback_snapshot_url: "http://web.archive.org/web/20210724021753/https://cfi.co/awards/europe/2014/optimum-results-cfi-co-announces-2014-property-portfolio-management-winner-in-germany/"
 content_sha256: 3171cf45e0706211847fa1287bfe3512330df08aaed7b26f9acbc8f704b968fb
 canonical: 2163-optimum-results-cfi-co-announces-2014-property-portfolio-management-winner-in-ge.json
 ---
