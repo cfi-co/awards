@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 6f26f55446c93a854d051b02802ca27e1a7e77a20c8efef631c20e81dee50462
 canonical: 5411-credivalores-crediservicios-best-social-impact-credit-providers-colombia-2017.json
 ---
