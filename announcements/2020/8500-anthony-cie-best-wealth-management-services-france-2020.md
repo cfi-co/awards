@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210120080109
+wayback_snapshot_url: "http://web.archive.org/web/20210120080109/https://cfi.co/awards/europe/2020/anthony-cie-best-wealth-management-services-france-2020/"
 content_sha256: fa3d6fcd077c87dcd691f830c97b593b10630c482704e8d3eab5ec6d9497bb86
 canonical: 8500-anthony-cie-best-wealth-management-services-france-2020.json
 ---
