@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190820011545
+wayback_snapshot_url: "http://web.archive.org/web/20190820011545/https://cfi.co/awards/africa/2015/afrocentric-group-best-healthcare-management-team-africa-2015/"
 content_sha256: e364deb67ef9e879925635ca7b0fa23dbc1fbd5d9e541db64e4407835540be79
 canonical: 5365-afrocentric-group-best-healthcare-management-team-africa-2015.json
 ---
