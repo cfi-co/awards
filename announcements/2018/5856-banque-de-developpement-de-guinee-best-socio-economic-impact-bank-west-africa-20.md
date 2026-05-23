@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 0966d5defd9b12b71249c457aac0082199a222c8bc0df9fe3c88ca5250083c0d
 canonical: 5856-banque-de-developpement-de-guinee-best-socio-economic-impact-bank-west-africa-20.json
 ---
