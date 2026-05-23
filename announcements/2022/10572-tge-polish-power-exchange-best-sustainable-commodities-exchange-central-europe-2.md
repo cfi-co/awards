@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220811152030
+wayback_snapshot_url: "http://web.archive.org/web/20220811152030/https://cfi.co/awards/best-practice/2022/tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2022/"
 content_sha256: bf89e4f338aef09c1a2a278657c423c827cb0457e69a5c3268ec0d7e1548cd52
 canonical: 10572-tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2.json
 ---
