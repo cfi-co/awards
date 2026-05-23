@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7ff6d591d71c5e902f532e32866b6d8a4310ef7f1215dff65ce9097b67b60cde
 canonical: 6505-invest-in-madrid-best-regional-fdi-promotion-team-europe-2018.json
 ---
