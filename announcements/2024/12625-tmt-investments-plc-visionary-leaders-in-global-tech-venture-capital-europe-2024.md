@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20241112184124
+wayback_snapshot_url: "http://web.archive.org/web/20241112184124/https://cfi.co/awards/europe/2024/tmt-investments-plc-visionary-leaders-in-global-tech-venture-capital-europe-2024/"
 content_sha256: 4bd3588445609145da4c45e279ea9665119957b0c672fdf520e46caaf29db1cc
 canonical: 12625-tmt-investments-plc-visionary-leaders-in-global-tech-venture-capital-europe-2024.json
 ---
