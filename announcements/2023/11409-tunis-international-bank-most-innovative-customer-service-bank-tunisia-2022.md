@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20230603021104
+wayback_snapshot_url: "http://web.archive.org/web/20230603021104/https://cfi.co/awards/africa/2023/tunis-international-bank-most-innovative-customer-service-bank-tunisia-2022/"
 content_sha256: a6486791c94966d6c17792b787489b0ea22b8761da3feecf7760f91073b4e9f1
 canonical: 11409-tunis-international-bank-most-innovative-customer-service-bank-tunisia-2022.json
 ---
