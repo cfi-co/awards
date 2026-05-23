@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20240623205911
+wayback_snapshot_url: "http://web.archive.org/web/20240623205911/https://cfi.co/awards/middle-east/2022/icbc-dubai-difc-branch-best-debt-market-solutions-gcc-2021/"
 content_sha256: 8bdc8874edbf48261613817bd0cc913644b8b584d8bef93311c6f29f3955626d
 canonical: 10105-icbc-dubai-difc-branch-best-debt-market-solutions-gcc-2021.json
 ---
