@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20160505074259
+wayback_snapshot_url: "http://web.archive.org/web/20160505074259/http://cfi.co/awards/europe/2016/cisco-capital-best-captive-technology-finance-team-global-2015/"
 content_sha256: c427b3c4717c3bcf0295606c34d2ca276ffa8d2719b226a58378a8e7492164cc
 canonical: 2732-cisco-capital-best-captive-technology-finance-team-global-2015.json
 ---
