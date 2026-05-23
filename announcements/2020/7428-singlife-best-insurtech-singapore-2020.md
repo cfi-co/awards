@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200813172751
+wayback_snapshot_url: "http://web.archive.org/web/20200813172751/https://cfi.co/awards/asia-pacific/2020/singlife-best-insurtech-singapore-2020/"
 content_sha256: 5a8f3d3f4841f3f5d0122bb61e95d19080fd283e8107f0d9de60da2207815f49
 canonical: 7428-singlife-best-insurtech-singapore-2020.json
 ---
