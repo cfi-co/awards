@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20170710093648
+wayback_snapshot_url: "http://web.archive.org/web/20170710093648/http://cfi.co/awards/asia-pacific/2016/maybank-brunei-best-sme-bank-brunei-2015/"
 content_sha256: ed533b73ed0a939cc9e6e320e1a5777c3178fba90710fff9eaa1d3d818567dc9
 canonical: 3111-maybank-brunei-best-sme-bank-brunei-2015.json
 ---
