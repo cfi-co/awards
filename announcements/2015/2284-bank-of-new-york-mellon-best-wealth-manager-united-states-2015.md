@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210921113357
+wayback_snapshot_url: "http://web.archive.org/web/20210921113357/https://cfi.co/awards/north-america/2015/bank-of-new-york-mellon-best-wealth-manager-united-states-2015/"
 content_sha256: de143e625ee720cf94420c5c82f8d517464641945d454d5bc7d444b3e95396df
 canonical: 2284-bank-of-new-york-mellon-best-wealth-manager-united-states-2015.json
 ---
