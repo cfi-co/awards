@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20210920114926
+wayback_snapshot_url: "http://web.archive.org/web/20210920114926/https://cfi.co/awards/north-america/2021/titan-bank-best-online-sme-bank-united-states-2021/"
 content_sha256: ea0cdcdf67f487131644e76f24fe107e9ca728b447ac71d400bacb29b35d979a
 canonical: 9528-titan-bank-best-online-sme-bank-united-states-2021.json
 ---
