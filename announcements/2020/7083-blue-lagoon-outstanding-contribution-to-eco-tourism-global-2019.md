@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 7a944dbc3a43ec1171e6af8bbd60ca62d9c44817481590d309c7ad15fa0bbd41
 canonical: 7083-blue-lagoon-outstanding-contribution-to-eco-tourism-global-2019.json
 ---
