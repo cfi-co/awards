@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20140409003708
+wayback_snapshot_url: "http://web.archive.org/web/20140409003708/http://cfi.co/awards/africa/2013/zimbabwe-research-team-ih-securities-wins-cfis-southern-africa-award-for-2013/"
 content_sha256: 9833b68f989f21de443ab16ef365bbda82a21e5efb32f9bfd4b315e4c15603c9
 canonical: 789-zimbabwe-research-team-ih-securities-wins-cfis-southern-africa-award-for-2013.json
 ---
