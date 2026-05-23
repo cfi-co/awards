@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20211015231050
+wayback_snapshot_url: "http://web.archive.org/web/20211015231050/https://cfi.co/awards/middle-east/2015/concord-international-investments-group-best-asset-manager-egypt-2015/"
 content_sha256: f2473acb3dde9578ff662107f6f873c63acb63fa171acbb8335b70bdf65b73c1
 canonical: 2140-concord-international-investments-group-best-asset-manager-egypt-2015.json
 ---
