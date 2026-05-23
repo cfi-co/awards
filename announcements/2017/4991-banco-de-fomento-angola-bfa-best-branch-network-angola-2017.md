@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 345367f20f4a08e3647f91f45812681764d6ef3d906a5d82711a689f849871b2
 canonical: 4991-banco-de-fomento-angola-bfa-best-branch-network-angola-2017.json
 ---
