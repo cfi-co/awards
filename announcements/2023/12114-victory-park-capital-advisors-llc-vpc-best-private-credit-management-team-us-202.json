@@ -22,10 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20240420130447",
+        "wayback_snapshot_url": "http://web.archive.org/web/20240420130447/https://cfi.co/awards/north-america/2023/victory-park-capital-advisors-llc-vpc-best-private-credit-management-team-us-2023/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter wp-image-12112 size-full\" title=\"Victory Park Capital Advisors\" src=\"https://cfi.co/awards/wp-content/uploads/2023/12/VictoryPark-jpg.webp\" alt=\"Victory Park Capital Advisors\" width=\"500\" height=\"150\" />\r\n<p style=\"text-align: justify;\">Established in 2007, Victory Park Capital Advisors, LLC (VPC) is a global alternative investment firm specialising in private credit with nearly $10bn invested across 200-plus deals. The firm is headquartered in Chicago and was recently named one of the best workplaces in Chicago by Crain’s Chicago Business. VPC was the only investment manager to rank within the Top-50 of the list. It has 55 experienced professionals collaborating across a network including New York, Los Angeles, San Francisco and London. VPC believes employees to be its most valuable asset and fields a deep bench of investing and operational professionals, including a senior leadership team with decades of experience. It promotes diversity, equity and inclusion within the firm and overall industry through bias awareness training, recruitment efforts and mentorship programmes. VPC approaches each investment, not as a mere transaction, but an opportunity to serve as a value-added partner for investors and portfolio companies. VPC specialises in asset-backed opportunistic credit solutions, targeting short-duration opportunities with attractive yields and strong structural protections across its investment verticals. Emerging and established businesses turn to VPC for solutions that bridge the gap when banks cannot provide financing. Investors are attracted by the firm’s established track record of capital preservation and income generation across market cycles. The CFI.co judging panel announces Victory Park Capital as the 2023 award winner for Best Private Credit Management Team (US).</p>",
     "content_sha256": "f7c993a80fb7c3177b013b6139623ba09e3afff7d60d524b40f6c029a711b0e8",
-    "record_sha256": "ebca407b64697f3b61ccafe408e9bcc0758653402d6522c5f8c13452882c0859"
+    "record_sha256": "cd9aa7ee510303b98f4d235cd2565a912d8ef09d08699d05939df121ee7fb0d9"
 }
