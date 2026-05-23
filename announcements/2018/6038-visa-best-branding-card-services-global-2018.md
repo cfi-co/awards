@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190724093727
+wayback_snapshot_url: "http://web.archive.org/web/20190724093727/https://cfi.co/awards/north-america/2018/visa-best-branding-card-services-global-2018/"
 content_sha256: 685f5aeaf721cf84cf333d13f56a9c803b43a435c9ac3ec9b9bf42b947c40d5e
 canonical: 6038-visa-best-branding-card-services-global-2018.json
 ---
