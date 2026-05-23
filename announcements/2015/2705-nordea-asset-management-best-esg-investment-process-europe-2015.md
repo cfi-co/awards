@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: d57ff0ff85b2eb29be32144179e304c4f100cda27af7624c97880797f4cc1f2a
 canonical: 2705-nordea-asset-management-best-esg-investment-process-europe-2015.json
 ---
