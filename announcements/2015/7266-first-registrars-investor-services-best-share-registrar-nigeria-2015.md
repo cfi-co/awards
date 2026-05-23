@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: submitted_pending
 content_sha256: 8b09b5a004eecd4d528cea1ea69c4a075d3d07cd5d02b9083727f9bbff8e9c5b
 canonical: 7266-first-registrars-investor-services-best-share-registrar-nigeria-2015.json
 ---
