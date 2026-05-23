@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190609111143
+wayback_snapshot_url: "http://web.archive.org/web/20190609111143/https://cfi.co/awards/middle-east/2019/dubai-multi-commodities-centre-dmcc-best-commodities-trading-free-zone-global-2019/"
 content_sha256: 940a4da20c24067348436cc3af894be694df7d10b7e739f038cf09a0d645fabb
 canonical: 6666-dubai-multi-commodities-centre-dmcc-best-commodities-trading-free-zone-global-20.json
 ---
