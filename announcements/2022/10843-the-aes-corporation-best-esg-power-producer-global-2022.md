@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20221027144954
+wayback_snapshot_url: "http://web.archive.org/web/20221027144954/https://cfi.co/awards/north-america/2022/the-aes-corporation-best-esg-power-producer-global-2022/"
 content_sha256: 6bd633d4bc356090d7028020780463b3e65a221c55a9b0441fede2dbfef37af1
 canonical: 10843-the-aes-corporation-best-esg-power-producer-global-2022.json
 ---
