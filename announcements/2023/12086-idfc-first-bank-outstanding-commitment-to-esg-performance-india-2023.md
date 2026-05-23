@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20231123114959
+wayback_snapshot_url: "http://web.archive.org/web/20231123114959/https://cfi.co/awards/best-practice/2023/idfc-first-bank-outstanding-commitment-to-esg-performance-india-2023/"
 content_sha256: 9f23a0c6254c4eb7eb72129360bc5b7e4e98e7687c306a583fd37e0964caa90a
 canonical: 12086-idfc-first-bank-outstanding-commitment-to-esg-performance-india-2023.json
 ---
