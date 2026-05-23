@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20200629235218
+wayback_snapshot_url: "http://web.archive.org/web/20200629235218/https://cfi.co/awards/latin-america/2019/active-capital-reinsurance-ltd-best-credit-reinsurance-solutions-for-institutions-latin-america-2019/"
 content_sha256: 85db373dcab571e711e44fda75293112d61d6053e676fd58b415e48739d4ab4b
 canonical: 7053-active-capital-reinsurance-ltd-best-credit-reinsurance-solutions-for-institution.json
 ---
