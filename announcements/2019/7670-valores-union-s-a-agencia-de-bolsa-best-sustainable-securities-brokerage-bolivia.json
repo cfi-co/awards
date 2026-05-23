@@ -25,10 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "not_found",
+        "wayback_first_snapshot": "",
+        "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7671\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/ValoresUnion.jpg\" alt=\"ValoresUnion\" width=\"400\" height=\"142\" />\r\n<p style=\"text-align: justify;\">Bolivian brokerage house Valores Unión has been in operation for a quarter of a century, developing a wide portfolio of clients and providing committed customer care. The broker aims to fuel the country´s economic and social development by democratising financial service access. Valores Unión provides clients with sound fiduciary advice and money management services, including the structuring, registration and placement of securities as well as stock market intermediation. The talented and dedicated Valores Unión team works to craft optimal investment strategies that advance client objectives, assess market performance, and meet regulatory compliance. Valores Unión offers clients the discretionary and non-discretionary accounts that best suit their needs, managing liquidity surpluses to maximise portfolio performance and leveraging through the stock market if necessary. Valores Unión welcomes individual and institutional investors alike to explore its full range of financial products and services. In March 2017, the company pioneered the use of participative bonds in the stock market as a new financial instrument to support SMEs. The brokerage house has been ranked for three consecutive years by the Bolivian Stock Market as the Best Stock Market Agency in Secondary Market. Valores Union is a part of the Grupo Financiero Unión family and a subsidiary of Banco Unión, one of the country’s leading banks. The CFI.co judging panel declares Valores Unión as the worthy winner of the 2019 award for Best Sustainable Securities Brokerage (Bolivia).</p>",
     "content_sha256": "673c7f568e73c33cdc93f29c2e668a28ce7d2bbc0de569cda9e93ba052f866b5",
-    "record_sha256": "8d37749cd89587ec629f2c4382313c83feb739cdadea5b96da15398221d26d2a"
+    "record_sha256": "da616c4bf9db651e01a2bcf0d51a318f13cd0b03d119cdfd906f0b771680be47"
 }

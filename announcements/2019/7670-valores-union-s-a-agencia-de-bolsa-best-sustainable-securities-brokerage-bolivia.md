@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 673c7f568e73c33cdc93f29c2e668a28ce7d2bbc0de569cda9e93ba052f866b5
 canonical: 7670-valores-union-s-a-agencia-de-bolsa-best-sustainable-securities-brokerage-bolivia.json
 ---
