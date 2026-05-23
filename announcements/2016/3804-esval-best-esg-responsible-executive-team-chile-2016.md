@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: c89a62cdb39c10848c76eb4c3bcd3815e5c57b74b4369fc87da35b50bf666c40
 canonical: 3804-esval-best-esg-responsible-executive-team-chile-2016.json
 ---
