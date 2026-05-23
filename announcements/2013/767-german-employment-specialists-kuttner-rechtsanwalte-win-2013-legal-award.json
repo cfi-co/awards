@@ -23,10 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20250209175022",
+        "wayback_snapshot_url": "http://web.archive.org/web/20250209175022/https://cfi.co/awards/europe/2013/german-employment-specialists-kuttner-rechtsanwalte-win-2013-legal-award/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"></p>\r\n<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1911\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/k.jpg\" alt=\"k\" width=\"241\" height=\"91\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Since Its establishment forty years ago, Küttner Rechtsanwälte has specialised in employment law.</strong></p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel congratulates the firm on its longstanding commitment to employment matters and referred to the strong team assembled to help employers and employees alike. The judges also commented that, ‘In what is certainly still a challenging country in which to practice employment law, KR should always be considered for their quality service and consistently intelligent advice. The Panel are happy to confirm the award ‘Best Employment Team, Germany, 2013’.</p>",
     "content_sha256": "bc32b1d4ed7348557333994bf62b8da42384d8764459ef85f4b0af99c4123f92",
-    "record_sha256": "5df9a560f0d038cf7b07fb7809c8327541d847f0a22ec70da3620bab81340d84"
+    "record_sha256": "258955289a3a75b8425cb6000cdc3a68423b416a3486bf0b145b7c7fed9c7ccf"
 }
