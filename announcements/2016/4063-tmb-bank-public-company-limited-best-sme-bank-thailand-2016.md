@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: acd89d3fbc36638850279aab54029c7f6bc88e486d9fd5ad036f713394d7c3ac
 canonical: 4063-tmb-bank-public-company-limited-best-sme-bank-thailand-2016.json
 ---
