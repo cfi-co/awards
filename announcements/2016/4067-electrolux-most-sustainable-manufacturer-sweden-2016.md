@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: not_found
 content_sha256: 773caefc3aa5c7bad48e1dea0dd088fd2114d2d263612efa7d10bd8cfaa00568
 canonical: 4067-electrolux-most-sustainable-manufacturer-sweden-2016.json
 ---
