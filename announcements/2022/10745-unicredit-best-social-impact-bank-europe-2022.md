@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20220928201554
+wayback_snapshot_url: "http://web.archive.org/web/20220928201554/https://cfi.co/awards/banking/2022/unicredit-best-social-impact-bank-europe-2022/"
 content_sha256: 668d9d449ea8d2ce49553039388bcd640aec8dae9065d2e976e96d197179a708
 canonical: 10745-unicredit-best-social-impact-bank-europe-2022.json
 ---
