@@ -24,10 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "pending_submission"
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190507124511",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190507124511/https://cfi.co/awards/africa/2019/maroclear-best-financial-services-corporate-governance-team-north-africa-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6582\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Maroclear-1.jpg\" alt=\"\" width=\"1000\" height=\"513\" />\r\n<p style=\"text-align: justify;\">According to the CFI.co judging panel, MAROCLEAR, the central depository of securities of Morocco, takes its corporate governance responsibilities very seriously and is an extraordinarily well run organisation headed by the exceptionally talented Fathïa Bennis. MAROCLEAR ensures that its business practices align with international best practice to ensure the smooth functioning of the market, providing partners and affiliates with a secure and reliable framework for security retention and transaction completion. Without doubt MAROCLEAR has, since its inception, contributed significantly to the development of the Moroccan financial sector. Bennis, at the head, is passionate about reducing the gap between men and women – particularly at the decision-making level. She has been quoted as saying that she values women that are able to occupy strategic positions and has always been sensitive to the cause of female empowerment. Bennis takes the view that the secret of the promotion of women is solidarity. CFI.co agrees, and the panel insists on a personal award to Fathïa Bennis to applaud her commitment to gender equality. This individual recognition will go alongside the corporate award Best Financial Services Corporate Governance Team North Africa 2018 in the name of MAROCLEAR.</p>\r\n<img class=\"aligncenter size-full wp-image-6220\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Maroclear.jpg\" alt=\"\" width=\"349\" height=\"80\" />",
     "content_sha256": "a6ca21e0f5a8c9ccf320a105bee99395808d4175c48190de00a02b6900f863c2",
-    "record_sha256": "e71394510c2880fa77c2c947f8a0e8ee4039a982598e593c7557ac4530ad8a35"
+    "record_sha256": "a828ce2c21b38b8461b8699764864c504c763ec59deaa92cccd5ecbe4cf8c9ff"
 }

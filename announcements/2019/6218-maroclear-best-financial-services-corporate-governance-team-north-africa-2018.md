@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_submission
+wayback_status: archived
+wayback_first_snapshot: 20190507124511
+wayback_snapshot_url: "http://web.archive.org/web/20190507124511/https://cfi.co/awards/africa/2019/maroclear-best-financial-services-corporate-governance-team-north-africa-2018/"
 content_sha256: a6ca21e0f5a8c9ccf320a105bee99395808d4175c48190de00a02b6900f863c2
 canonical: 6218-maroclear-best-financial-services-corporate-governance-team-north-africa-2018.json
 ---
