@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523042557
+wayback_snapshot_url: "http://web.archive.org/web/20260523042557/https://cfi.co/awards/banking/2013/banco-interacciones-our-winner-in-mexico-for-a-second-year/"
 content_sha256: 7681e4b497230a44ef71f25865c064b49c5d4d07291a7c1be8a88b17287b77d6
 canonical: 883-banco-interacciones-our-winner-in-mexico-for-a-second-year.json
 ---
