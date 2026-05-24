@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200923101511
+wayback_snapshot_url: "http://web.archive.org/web/20200923101511/https://cfi.co/awards/africa/2020/afghanistan-international-bank-cjsc-best-corporate-governance-afghanistan-2020/"
 content_sha256: 10c504b12c45f4ecac0a1563149c1f41ea2828409d83d57dc4a59a8a3a152dd8
 canonical: 8095-afghanistan-international-bank-cjsc-best-corporate-governance-afghanistan-2020.json
 ---
