@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523041605
+wayback_snapshot_url: "http://web.archive.org/web/20260523041605/https://cfi.co/awards/asia-pacific/2013/ip-award-for-drew-napier-singapore/"
 content_sha256: d8d777317bd88607516b67cd7dddf22be067ab567f11880b717c152e9701a8a6
 canonical: 479-ip-award-for-drew-napier-singapore.json
 ---
