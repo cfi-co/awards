@@ -23,12 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260523043450",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523043450/https://cfi.co/awards/asia-pacific/2014/stockbrokerage-gdsl-our-winner-in-bangladesh-2014/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3908\" src=\"https://cfi.co/awards/wp-content/uploads/2017/03/GDSL.jpg\" alt=\"\" width=\"400\" height=\"127\" /></p>\r\n<p style=\"text-align: justify;\"><strong>An industry leader, Green Delta Securities Limited (GDSL), is a fully owned subsidiary of the Bangladeshi insurance company of the same name. </strong></p>\r\n<p style=\"text-align: justify;\">According to the CFI.co Judging Panel, ‘GDSL has an excellent track record in advising institutional clients, HNW individuals and other experienced investors.</p>\r\n<p style=\"text-align: justify;\">Client service strengths at this brokerage are outstanding and management sets out to be innovative, making good use of technology and providing strong support services generally. We are pleased to confirm GDSL as the winner of our award Best Stockbrokerage, Bangladesh, 2014’.</p>",
     "content_sha256": "3b45d5a6da48ace7f421ef8f291f691b039130abf64499879e6895ab04c0d839",
-    "record_sha256": "01bdfb5013dedca65de98eb2e05c26163c6569789aedc4044d869fc147421ada"
+    "record_sha256": "5fcc19c93c7c2beb498d6450c5ed5b02dbd2697b645812ad8900f84a889c32b0"
 }
