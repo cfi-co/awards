@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 749b2bfed5401680348bf491b4a17b6a54da12e832119f71e379cfb734f54674
 canonical: 3591-dorsum-most-innovative-financial-software-provider-cee-2016.json
 ---
