@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190426100054
+wayback_snapshot_url: "http://web.archive.org/web/20190426100054/https://cfi.co/awards/asia-pacific/2016/anandrathi-best-wealth-manager-india-2016/"
 content_sha256: dd799dadd6e52dd55e5fba9b220d707fb6b5e8cece74a089ef42b7c9d0e153ab
 canonical: 4156-anandrathi-best-wealth-manager-india-2016.json
 ---
