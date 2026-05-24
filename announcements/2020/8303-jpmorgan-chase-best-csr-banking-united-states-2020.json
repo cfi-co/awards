@@ -25,12 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20201203231126",
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203231126/https://cfi.co/awards/north-america/2020/jpmorgan-chase-best-csr-banking-united-states-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8304\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/JPMorgan-Chase.jpg\" alt=\"JPMorgan-Chase\" width=\"400\" height=\"27\" />\r\n<p style=\"text-align: justify;\">Global financial giant JPMorgan Chase boasts a 200-year history of integrity, commitment and innovation. The group has developed a multi-faceted CSR programme that demonstrates excellent corporate citizenship. It initiated a plan in early 2018 to deploy $1.75bn in worldwide philanthropic capital over five years, and has made great strides in reaching that goal. It focuses the vast scope of its resources and influence to help build strong communities and economies of scale around the world. It fosters an open and dynamic workplace, actively creates a diverse corporate culture and prioritises human rights throughout its internal and external operations. JPMorgan Chase gives grants to non-profits, matches donations for employees’ chosen charities, and connects employees to their communities via a three-pronged volunteer programme. Tech for Social Good aims to empower people with technology, the Fellowship Initiative works to improve educational outcomes for disadvantaged young men of colour, and the Service Corps offers strategic support to non-profits. The company strengthens communities through educational initiatives designed to hone a competitive edge and boost job prospects. It prioritises financial inclusivity and develops solutions to increase household financial security. Sustainability is a guiding principle of JPMorgan Chase, touching on everything from risk management, the environmental impacts of its operations and its climate-positive business investments. The CFI.co judging panel confers JPMorgan Chase — a repeat winner — with the 2020 award for Best CSR Banking (United States).</p>",
     "content_sha256": "1588193f184f005a786245e1878b7bf5851a264fb3260bd5d79c61858e95acf2",
-    "record_sha256": "f5069724bbdc1e64c83502f232d4ee073d2235564d51fa0384b6a0a7658e7d82"
+    "record_sha256": "a806d4de5f2ee5d167cf1fa0c8cd94a775fc2b2b6feb498137c14730dcf7242e"
 }
