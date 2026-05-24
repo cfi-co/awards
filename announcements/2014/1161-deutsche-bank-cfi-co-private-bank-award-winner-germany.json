@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260523042731",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523042731/https://cfi.co/awards/europe/2014/deutsche-bank-cfi-co-private-bank-award-winner-germany/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1162\" src=\"https://cfi.co/awards/wp-content/uploads/2014/02/deutschebank.jpg\" alt=\"deutschebank\" width=\"493\" height=\"102\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Deutsche Bank is recognised by the CFI.co Judging Panel as ‘Best Private Bank, Germany, 2014’ in recognition of its outstanding array of asset and wealth management services and high level of professional talent placed at the disposal of clients.</strong></p>\r\n<p style=\"text-align: justify;\">This bank is an innovator in the field, has around one trillion Euros in invested assets and is, of course, a major player amongst the world’s banking elite.</p>\r\n<p style=\"text-align: justify;\">The Panel congratulates Deutsche Banking on their sterling work in the field of private banking.</p>",
     "content_sha256": "a8f8fca3c6d2017446e767944fbda7559644a14e2c5c3831bfd86a15bdd45b9c",
-    "record_sha256": "22df81bcd30697e77793597372c17c1b162e5d0153209217a2a7917a76e85d9b"
+    "record_sha256": "f90b7b669be8291f35edb821769ce113f61d2b937d7520e465c0f99139a7e507"
 }
