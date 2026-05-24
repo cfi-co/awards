@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20201203225630
+wayback_snapshot_url: "http://web.archive.org/web/20201203225630/https://cfi.co/awards/middle-east/2020/sabic-best-esg-responsible-petrochemical-company-mena-2020/"
 content_sha256: 48ce783e9a839fe07ddd6411f2eb9bd9ea430f8a822f658115de815c690febb9
 canonical: 8354-sabic-best-esg-responsible-petrochemical-company-mena-2020.json
 ---
