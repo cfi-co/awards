@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210920111228
+wayback_snapshot_url: "http://web.archive.org/web/20210920111228/https://cfi.co/awards/north-america/2021/vector-group-best-financial-management-team-united-states-2021/"
 content_sha256: 79d031dff033d84399ccaffad055a2ac74fbd5879f4b0e68570b68b6437da5d7
 canonical: 9481-vector-group-best-financial-management-team-united-states-2021.json
 ---
