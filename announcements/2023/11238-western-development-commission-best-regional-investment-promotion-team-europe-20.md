@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20230330005700
+wayback_snapshot_url: "http://web.archive.org/web/20230330005700/https://cfi.co/awards/development/2023/western-development-commission-best-regional-investment-promotion-team-europe-2022/"
 content_sha256: 6d918a7dbbf28eee98b72d01cef1ceaeab40e66c015fafe19de45b47b68f9497
 canonical: 11238-western-development-commission-best-regional-investment-promotion-team-europe-20.json
 ---
