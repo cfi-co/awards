@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20251108152515
+wayback_snapshot_url: "http://web.archive.org/web/20251108152515/https://cfi.co/awards/africa/2025/banco-interatlantico-visionary-in-regional-economic-empowerment-cape-verde-2025/"
 content_sha256: 4b9081e24017b455629373964d4aa5d157004402c3098502229eb5cb0bea7910
 canonical: 13157-banco-interatlantico-visionary-in-regional-economic-empowerment-cape-verde-2025.json
 ---
