@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220501133335
+wayback_snapshot_url: "http://web.archive.org/web/20220501133335/https://cfi.co/awards/north-america/2022/fitch-ratings-best-credit-services-global-2022/"
 content_sha256: db04eb5b530056ef98a1bbb2014690daa6d1d2abfd221573147f22709e2af30c
 canonical: 10146-fitch-ratings-best-credit-services-global-2022.json
 ---
