@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: f5a20d21074b62efe6d6ba6e97212d08b02ade70e83774aa3965742476f2c51b
 canonical: 3939-oracle-best-database-software-global-2016.json
 ---
