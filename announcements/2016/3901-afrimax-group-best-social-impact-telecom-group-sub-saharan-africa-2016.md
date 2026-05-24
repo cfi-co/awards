@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 70d4fc08547ce9d68134e130f5be552ea9cd25a74c91da544613e22c74ab19dd
 canonical: 3901-afrimax-group-best-social-impact-telecom-group-sub-saharan-africa-2016.json
 ---
