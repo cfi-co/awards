@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220119084928
+wayback_snapshot_url: "http://web.archive.org/web/20220119084928/https://cfi.co/awards/europe/2021/unicredit-bank-best-bank-bosnia-herzegovina-2021/"
 content_sha256: 4b2d85419ba5c96ab41347e325c07351e0790b3a04524a0e015b2ebd5c897384
 canonical: 9878-unicredit-bank-best-bank-bosnia-herzegovina-2021.json
 ---
