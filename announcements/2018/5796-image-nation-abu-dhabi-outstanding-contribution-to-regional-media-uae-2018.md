@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20190724092951
+wayback_snapshot_url: "http://web.archive.org/web/20190724092951/https://cfi.co/awards/middle-east/2018/image-nation-abu-dhabi-outstanding-contribution-to-regional-media-uae-2018/"
 content_sha256: 59c375d491e25ea48a64157e235c2ac24780dff0c9a8ad6c4cf0ee1cb06342fd
 canonical: 5796-image-nation-abu-dhabi-outstanding-contribution-to-regional-media-uae-2018.json
 ---
