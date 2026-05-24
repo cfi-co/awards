@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20220408132224
+wayback_snapshot_url: "http://web.archive.org/web/20220408132224/https://cfi.co/awards/europe/2022/engie-new-ventures-best-cleantech-strategic-investor-global-2022/"
 content_sha256: 945ab1d519009e0d75515f80c67aef5d74b119925b2026629848d82c8e06b569
 canonical: 10388-engie-new-ventures-best-cleantech-strategic-investor-global-2022-2.json
 ---
