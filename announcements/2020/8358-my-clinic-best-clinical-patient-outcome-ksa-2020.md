@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20201203230140
+wayback_snapshot_url: "http://web.archive.org/web/20201203230140/https://cfi.co/awards/middle-east/2020/my-clinic-best-clinical-patient-outcome-ksa-2020/"
 content_sha256: 65a0bc97b6940a05eb3ad9898a1e24f8623363d10a5f25e66a1f3fa569b96298
 canonical: 8358-my-clinic-best-clinical-patient-outcome-ksa-2020.json
 ---
