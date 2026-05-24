@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20171025115853
+wayback_snapshot_url: "http://web.archive.org/web/20171025115853/http://cfi.co/awards/latin-america/2017/grupo-elektra-best-corporate-governance-mexico-2016/"
 content_sha256: 42eea9b8fded1259aa7dfc879f36d3cdd48ef0af48324387b837118451362571
 canonical: 4204-grupo-elektra-best-corporate-governance-mexico-2016.json
 ---
