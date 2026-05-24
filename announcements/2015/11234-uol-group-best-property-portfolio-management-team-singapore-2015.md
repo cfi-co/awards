@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523043853
+wayback_snapshot_url: "http://web.archive.org/web/20260523043853/https://cfi.co/awards/asia-pacific/2015/uol-group-best-property-portfolio-management-team-singapore-2015/"
 content_sha256: aa8f18a79bbca676bc850fdca4bd92a6af50b5b4895ec818804ae272e6d11dec
 canonical: 11234-uol-group-best-property-portfolio-management-team-singapore-2015.json
 ---
