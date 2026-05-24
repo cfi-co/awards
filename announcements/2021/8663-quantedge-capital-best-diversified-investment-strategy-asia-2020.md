@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210228100920
+wayback_snapshot_url: "http://web.archive.org/web/20210228100920/https://cfi.co/awards/asia-pacific/2021/quantedge-capital-best-diversified-investment-strategy-asia-2020/"
 content_sha256: 64e20c8d2e853b61fd49485a9c90d6cca11cc0810351d169c3603d150fdeeeaf
 canonical: 8663-quantedge-capital-best-diversified-investment-strategy-asia-2020.json
 ---
