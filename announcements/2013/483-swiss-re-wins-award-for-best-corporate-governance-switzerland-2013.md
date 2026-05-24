@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523041635
+wayback_snapshot_url: "http://web.archive.org/web/20260523041635/https://cfi.co/awards/europe/2013/swiss-re-wins-award-for-best-corporate-governance-switzerland-2013/"
 content_sha256: b5aaf4b219c17003af5b15eae88df96c0f6a96f02967d07dfde9a6ffbf861c79
 canonical: 483-swiss-re-wins-award-for-best-corporate-governance-switzerland-2013.json
 ---
