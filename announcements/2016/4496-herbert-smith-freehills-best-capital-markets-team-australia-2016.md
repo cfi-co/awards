@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 9c3bbfd57ba3f2208ae43fb80cc43e6dc699340aa19bab6264c698eb43e7e689
 canonical: 4496-herbert-smith-freehills-best-capital-markets-team-australia-2016.json
 ---
