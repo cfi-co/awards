@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20251108155215
+wayback_snapshot_url: "http://web.archive.org/web/20251108155215/https://cfi.co/awards/finance/2025/motion-equity-partners-leader-in-mid-market-transformation-partnerships-europe-2025/"
 content_sha256: a2f739473eef11f87ee665d51e02066c12dbe995ff6a457d7e9bcce762f2fb5a
 canonical: 13116-motion-equity-partners-leader-in-mid-market-transformation-partnerships-europe-2.json
 ---
