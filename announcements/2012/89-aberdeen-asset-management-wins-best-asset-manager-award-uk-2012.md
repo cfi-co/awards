@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210614192043
+wayback_snapshot_url: "http://web.archive.org/web/20210614192043/https://cfi.co/awards/europe/2012/aberdeen-asset-management-wins-best-asset-manager-award-uk-2012/"
 content_sha256: 337a6d599b7f7ca65fe1eb5b9fc0f1ae15c3628241c58461012cd5d2873deb0a
 canonical: 89-aberdeen-asset-management-wins-best-asset-manager-award-uk-2012.json
 ---
