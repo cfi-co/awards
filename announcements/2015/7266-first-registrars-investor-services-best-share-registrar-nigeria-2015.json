@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260523045323",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523045323/https://cfi.co/awards/africa/2015/first-registrars-investor-services-best-share-registrar-nigeria-2015/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7267\" src=\"https://cfi.co/awards/wp-content/uploads/2020/02/First-Registrars-new.jpg\" alt=\"First-Registrars\" width=\"323\" height=\"127\" />\r\n<p style=\"text-align: justify;\"><strong>A registrar is responsible for keeping the records of shareholders and bondholders – who owns what and how much of it. The registrar ensures that the amount of shares outstanding in the market precisely matches the number of shares authorised by the issuing company.</strong></p>\r\n<p style=\"text-align: justify;\">First Registrar &amp; Investor Services (FRIS) Nigeria offers a far wider range of services as suggested by the company style. FRIS expresses its core values as fidelity, integrity, respect, service, and tenacity. This translates into a consistently high standard of work and exemplary client services delivered by a committed team of consummate professionals led by managing director / CEO Bayo Olugbemi.</p>\r\n<p style=\"text-align: justify;\">Mr Olugbemi is a successful pioneer of registration companies in Nigeria. He has strong experience in investment banking and portfolio management, and heads a team at FRIS that also claimed a CFI.co award win in the same award category in 2014.</p>\r\n<p style=\"text-align: justify;\">This firm manages register accounts for some three million shareholders throughout the country. First Registrars has regional expansion plans which appear fully justified considering their stellar progress at home.</p>\r\n<p style=\"text-align: justify;\">Having recently completed a successful re-branding exercise, FRIS reports strong performance in 2015 with business booked by the end of Q3 exceeding that of full-year 2014. The firm is clearly passionate about getting to know its customer and his/her requirements and takes pride in being in a position to assist in all ways possible. This attitude offers a bedrock upon which continuing success and business growth may be erected.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is always pleased to see a second consecutive year award win as this indicates that the progress and success noticed earlier has continued unabated. In the case of FRIS, much has been achieved over the past year and the panel is happy to confirm the 2015</p>",
     "content_sha256": "8b09b5a004eecd4d528cea1ea69c4a075d3d07cd5d02b9083727f9bbff8e9c5b",
-    "record_sha256": "a887f913e66039392734f1a1c58166d88b7571716db34ab3d2676054fa4f7109"
+    "record_sha256": "3cf9f5fcc8924fac3d83d3ec5a0c758aaaa652c1e04ce6b981e5075bdd96009d"
 }
