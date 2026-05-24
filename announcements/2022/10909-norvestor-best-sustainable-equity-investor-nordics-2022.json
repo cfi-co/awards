@@ -24,12 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20221207235202",
+        "wayback_snapshot_url": "http://web.archive.org/web/20221207235202/https://cfi.co/awards/europe/2022/norvestor-best-sustainable-equity-investor-nordics-2022/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8156\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/Norvestor.png\" alt=\"Norvestor\" width=\"400\" height=\"90\" />\r\n<p style=\"text-align: justify;\">Since its launch in 1989, private equity firm Norvestor has been backing innovative companies seeking to solve global challenges. The firm targets Nordic companies with inspired leadership and revenues ranging between €25m to €250m. The firm has a large and experienced team, with offices in Oslo, Stockholm, Helsinki, Copenhagen and Luxembourg. Norvestor has integrated ESG considerations throughout the investment process due to its potential as a driver for sustainable growth and competitive advantage. Potential investments are assessed through a risk-reward matrix and subject to extensive screening. Norvestor takes a structured approach to promoting sustainable business practices by first establishing a baseline of the portfolio company’s footprint. The fund manager then collaborates with portfolio companies to identify methods of reducing carbon emissions and amplifying positive contributions to people and the planet. Ongoing monitoring and transparent disclosures ensure all investments continue to contribute to the SDGs. It forges partnerships with portfolio companies to fuel growth over a three- to six-year holding period. Norvestor has completed six successful exits in recent times, including four investments averaging a nearly fivefold gross multiple of invested capital. Over the past year, the firm has worked with portfolio companies to implement over 100 priority projects designed to deliver outsized ESG impacts alongside business benefits. Norvestor companies continue to chip away at carbon intensity, now down half from 2018 levels. The CFI.co judging panel recognises the ongoing efforts of Norvestor — a repeat programme winner — with the 2022 award for Best Sustainable Equity Investor (Nordics).</p>",
     "content_sha256": "9033322d4d3362a90a76304ab33dff171d502ccc9d7c19ac089c9d3bf4b399e6",
-    "record_sha256": "cb06a51e93fbf7a3c9b257c3d25d80183a56898a9edcc7283d3487970ec94285"
+    "record_sha256": "c5339bf1cf4deb4ee60310522d288f8fc0c309889917c71e4e6a836bfc8652f4"
 }
