@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210729153836
+wayback_snapshot_url: "http://web.archive.org/web/20210729153836/https://cfi.co/awards/africa/2017/natal-joint-municipal-pension-fund-wins-three-awards-for-2017/"
 content_sha256: 5da82572f96743813006665af56b73e1012f6c5cb382ff8dbc91e6d698c65d0f
 canonical: 4236-natal-joint-municipal-pension-fund-wins-three-awards-for-2017.json
 ---
