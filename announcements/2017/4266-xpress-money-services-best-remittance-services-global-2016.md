@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 73b20f5d3899000b2d7d21a92598f7aa4514230b40071af6d13d3550675ed83c
 canonical: 4266-xpress-money-services-best-remittance-services-global-2016.json
 ---
