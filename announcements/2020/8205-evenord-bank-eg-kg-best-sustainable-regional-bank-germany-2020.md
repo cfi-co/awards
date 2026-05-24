@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200923090150
+wayback_snapshot_url: "http://web.archive.org/web/20200923090150/https://cfi.co/awards/europe/2020/evenord-bank-eg-kg-best-sustainable-regional-bank-germany-2020/"
 content_sha256: 199da5da122faab55ce457a4036e3376fe4e6fc51ed8b93021a4aa61eec1fe72
 canonical: 8205-evenord-bank-eg-kg-best-sustainable-regional-bank-germany-2020.json
 ---
