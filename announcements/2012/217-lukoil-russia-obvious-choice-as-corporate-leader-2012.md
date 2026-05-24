@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20140409153847
+wayback_snapshot_url: "http://web.archive.org/web/20140409153847/http://cfi.co/awards/europe/2012/lukoil-russia-obvious-choice-as-corporate-leader-2012/"
 content_sha256: 022a885fdbd3e4ed2b55e991712e6964fe686a456e2efcfb6e34529e69560408
 canonical: 217-lukoil-russia-obvious-choice-as-corporate-leader-2012.json
 ---
