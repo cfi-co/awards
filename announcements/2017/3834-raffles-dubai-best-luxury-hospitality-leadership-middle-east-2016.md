@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200920111534
+wayback_snapshot_url: "http://web.archive.org/web/20200920111534/https://cfi.co/awards/middle-east/2017/raffles-dubai-best-luxury-hospitality-leadership-middle-east-2016/"
 content_sha256: dc26cd4a7e7fff69de3a60f29c81f1460c7ac161d80700b41a05ade68af78f37
 canonical: 3834-raffles-dubai-best-luxury-hospitality-leadership-middle-east-2016.json
 ---
