@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20190723012540",
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723012540/https://cfi.co/awards/latin-america/2018/grupo-interbrok-best-independent-insurance-broker-brazil-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6143\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Interbrok.gif\" alt=\"\" width=\"349\" height=\"119\" />\r\n<p style=\"text-align: justify;\"><strong>To be truly independent requires financial independence.</strong> This is something Grupo Interbrok has understood for over 100 years. In private ownership, Interbrok has ensured it subjects its accounts to the same level of scrutiny expected of public companies with its financials audited by PwC. Independence on its own is not enough. Interbrok has consistently incorporated best practice and technology into the business and has a very efficient and well-integrated back office. But none of this excellence would work without an efficient and ethical staff culture that is constantly maintained through effective staff training that gives clients the time they deserve and delivers best solutions. This combination of independence and best practice has allowed Interbrok to put clients’ needs first. The consistency Interbrok has shown over the past 100 years has made putting the client first part of their DNA. The CFI.co judging plan had no hesitation in declaring Interbrok Best Independent Insurance Broker Brazil 2018.</p>",
     "content_sha256": "03bdd4578427264f19382ff0a55160ecdff63377f8d0a26f13f8412ad42cb9af",
-    "record_sha256": "dd6d25273bb69b651e4b4afeceed2914edb5ab50807d8f74398b46266e50a873"
+    "record_sha256": "0f5ccb3dd45e82907d38d57733166b269be839338e2aac2f95fb0061a2558659"
 }
