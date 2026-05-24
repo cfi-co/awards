@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523043637
+wayback_snapshot_url: "http://web.archive.org/web/20260523043637/https://cfi.co/awards/asia-pacific/2014/working-for-smes-our-award-winner-in-sri-lanka-is-union-bank-of-colombo/"
 content_sha256: 9a6d081c49756264446fd9cdb2effb38412766198e8bcc8c2fb8360fd6f0c184
 canonical: 6284-working-for-smes-our-award-winner-in-sri-lanka-is-union-bank-of-colombo.json
 ---
