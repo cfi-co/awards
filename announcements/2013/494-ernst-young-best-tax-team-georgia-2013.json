@@ -24,12 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260523041917",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523041917/https://cfi.co/awards/asia-pacific/2013/ernst-young-best-tax-team-georgia-2013/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-495\" src=\"https://cfi.co/awards/wp-content/uploads/2013/05/e-and-y.jpg\" alt=\"e and y\" width=\"195\" height=\"57\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Ernst &amp; Young LLC is the longest established tax practice in Georgia and top player in the country by most indicators.</strong></p>\r\n<p style=\"text-align: justify;\">Competition for business is intense but the CFI judging panel feel that the firm is well placed to take advantage of opportunities as they unfold. The client base of the firm is solid and its reputation is good. According to CFI Ernst &amp; Young in Georgia would most certainly be a suitable partner for foreign investors. There is a strong understanding of the Georgian culture as well as appreciation of the needs of newcomers to the market.</p>",
     "content_sha256": "e461ec4adc004ae8e5b74e9e89928f051f6f8d8fdf4eff623ba712073f211881",
-    "record_sha256": "a7c416c40e6e552dbdd128d5d6b996f1d89ca628dc89a47b7430e372769c2172"
+    "record_sha256": "2373b733d8476dcc41bf37e0f909c38a8aadbf26538b69404122be4ab5ef2ff5"
 }
