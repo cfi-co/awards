@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523042021
+wayback_snapshot_url: "http://web.archive.org/web/20260523042021/https://cfi.co/awards/asia-pacific/2013/cfi-award-has-best-corporate-governance-in-hong-kong/"
 content_sha256: 2f4c050df18ec8c9ab8954ce2845087193ff0e732ddb2cfd35672a2741b69275
 canonical: 527-cfi-award-has-best-corporate-governance-in-hong-kong.json
 ---
