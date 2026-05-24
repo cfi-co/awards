@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20250409145322
+wayback_snapshot_url: "http://web.archive.org/web/20250409145322/https://cfi.co/awards/professional-services/2025/cr-group-best-share-registry-services-east-africa-2024/"
 content_sha256: 5d254870b883201d714e4fbee8a70f88ee1e1fd7131e3a13093f96af67ca96e0
 canonical: 12922-cr-group-best-share-registry-services-east-africa-2024.json
 ---
