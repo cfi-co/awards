@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210725071617
+wayback_snapshot_url: "http://web.archive.org/web/20210725071617/https://cfi.co/awards/asia-pacific/2021/maybank-kim-eng-best-capital-markets-brokerage-south-east-asia-2021/"
 content_sha256: 97795bc48f5d5e7cbbbfdbcc8e52528cdbb4d392eb30eb4ccb3bf350da4ec5bb
 canonical: 9287-maybank-kim-eng-best-capital-markets-brokerage-south-east-asia-2021.json
 ---
