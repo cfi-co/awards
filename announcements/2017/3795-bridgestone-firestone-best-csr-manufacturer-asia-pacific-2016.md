@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: be4810d65d4055d5ce071a52cef50469c9a95f9c58d87da6e4a8ccbc75e2e5fc
 canonical: 3795-bridgestone-firestone-best-csr-manufacturer-asia-pacific-2016.json
 ---
