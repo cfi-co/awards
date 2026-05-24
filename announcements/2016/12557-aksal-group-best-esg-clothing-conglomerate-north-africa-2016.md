@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523045507
+wayback_snapshot_url: "http://web.archive.org/web/20260523045507/https://cfi.co/awards/africa/2016/aksal-group-best-esg-clothing-conglomerate-north-africa-2016/"
 content_sha256: d9a161a3467101946565277ed0b708f9e3a5c07a81da4770155020032cfa50fa
 canonical: 12557-aksal-group-best-esg-clothing-conglomerate-north-africa-2016.json
 ---
