@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523044245
+wayback_snapshot_url: "http://web.archive.org/web/20260523044245/https://cfi.co/awards/asia-pacific/2015/khan-bank-best-sme-bank-mongolia-2015/"
 content_sha256: 3d098b704fb91940fb20dcc3021494cdf2b929a5c525d3e0d52e4c28a54e5875
 canonical: 2259-khan-bank-best-sme-bank-mongolia-2015.json
 ---
