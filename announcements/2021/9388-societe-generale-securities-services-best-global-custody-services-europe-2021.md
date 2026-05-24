@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210725055232
+wayback_snapshot_url: "http://web.archive.org/web/20210725055232/https://cfi.co/awards/europe/2021/societe-generale-securities-services-best-global-custody-services-europe-2021/"
 content_sha256: 263b13fccacbd73639020421d3fcb6673747119650b8e1662727c4d2b4144665
 canonical: 9388-societe-generale-securities-services-best-global-custody-services-europe-2021.json
 ---
