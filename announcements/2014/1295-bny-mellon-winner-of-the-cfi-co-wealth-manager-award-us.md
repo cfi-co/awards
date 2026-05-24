@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523042945
+wayback_snapshot_url: "http://web.archive.org/web/20260523042945/https://cfi.co/awards/banking/2014/bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us/"
 content_sha256: b316338f83ca9ca2bb56a96cbeb629ab501530b5a62d9d9b711bf34bdc6fd67a
 canonical: 1295-bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us.json
 ---
