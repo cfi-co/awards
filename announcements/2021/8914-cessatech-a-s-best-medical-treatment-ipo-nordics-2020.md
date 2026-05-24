@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210309072610
+wayback_snapshot_url: "http://web.archive.org/web/20210309072610/https://cfi.co/awards/europe/2021/cessatech-a-s-best-medical-treatment-ipo-nordics-2020/"
 content_sha256: 7a0ae2056905c9bc246d41367641a9b56622c834bb46b4d2dde199fc5158fdc7
 canonical: 8914-cessatech-a-s-best-medical-treatment-ipo-nordics-2020.json
 ---
