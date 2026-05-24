@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210706141604
+wayback_snapshot_url: "http://web.archive.org/web/20210706141604/https://cfi.co/awards/north-america/2021/wec-energy-group-best-esg-growth-strategy-united-states-2021/"
 content_sha256: fd04e2979f20483a605e2b48465d0124cd137945a96f4ff0d0a5483e8c82f8b6
 canonical: 9295-wec-energy-group-best-esg-growth-strategy-united-states-2021.json
 ---
