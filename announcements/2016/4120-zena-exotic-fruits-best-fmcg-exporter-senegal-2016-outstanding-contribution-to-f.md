@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524043837
+wayback_snapshot_url: "http://web.archive.org/web/20260524043837/https://cfi.co/awards/africa/2016/zena-exotic-fruits-best-fmcg-exporter-senegal-2016-outstanding-contribution-to-female-empowerment-west-africa-2016/"
 content_sha256: 7747a5cf709eb52f88f5ad8bac4beead484c812d2922238b4ec45c478b2765bf
 canonical: 4120-zena-exotic-fruits-best-fmcg-exporter-senegal-2016-outstanding-contribution-to-f.json
 ---
