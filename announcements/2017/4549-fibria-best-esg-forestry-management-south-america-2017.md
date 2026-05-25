@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 7ed00012a4e63d6842462b26d9caed9b04c369e6e0cbd6088608dcecdd59c5f7
 canonical: 4549-fibria-best-esg-forestry-management-south-america-2017.json
 ---
