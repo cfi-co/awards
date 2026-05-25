@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524050338
+wayback_snapshot_url: "http://web.archive.org/web/20260524050338/https://cfi.co/awards/professional-services/2017/red-white-consulting-partners-best-business-transformation-consultancy-boutique-singapore-2016/"
 content_sha256: f7eb9d1ace0c2559dce9f8ff56f6102c8129c82099810feb7d56d70bd1e6f65a
 canonical: 3935-red-white-consulting-partners-best-business-transformation-consultancy-boutique-.json
 ---
