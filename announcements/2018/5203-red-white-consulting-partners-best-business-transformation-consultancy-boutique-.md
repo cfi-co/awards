@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 483384a63c2fb4b585fe9392505b5e9843d4739e46a726add567cd1d99edf99c
 canonical: 5203-red-white-consulting-partners-best-business-transformation-consultancy-boutique-.json
 ---
