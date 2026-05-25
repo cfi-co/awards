@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: b6a80f13f4798bb8a3847b202b0c89f961c09cef39b97bdd9cace43cc6b662d0
 canonical: 6185-dp-world-best-long-term-community-engagement-strategy-global-2018.json
 ---
