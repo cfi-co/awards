@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523040928
+wayback_snapshot_url: "http://web.archive.org/web/20260523040928/https://cfi.co/awards/banking/2026/moneta-money-bank-champion-in-digital-banking-experience-cee-2026/"
 content_sha256: 971a5b91e812524edc0be8f4e6cb3ab7f9454c3ae51824d26ba57978667f8390
 canonical: 13382-moneta-money-bank-champion-in-digital-banking-experience-cee-2026.json
 ---
