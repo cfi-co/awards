@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 46a0fb43931f4c4e47488e909368777e2212631c3d1c94bd09c4550dab1e5f35
 canonical: 4500-nbc-bank-best-retail-bank-tanzania-2016.json
 ---
