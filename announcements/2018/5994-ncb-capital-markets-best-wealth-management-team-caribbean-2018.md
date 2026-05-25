@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: d066d712b0f1c424d1de255ea1efe8d00ff0974be83182815397e560059a5e20
 canonical: 5994-ncb-capital-markets-best-wealth-management-team-caribbean-2018.json
 ---
