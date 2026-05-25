@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524035526
+wayback_snapshot_url: "http://web.archive.org/web/20260524035526/https://cfi.co/awards/asia-pacific/2013/t-bank-supports-smes-in-bhutan-and-wins-our-2013-award/"
 content_sha256: d53dafa163f395ee26a84c979f32d1a1568682ba506eb5aa16d7f38b1b827612
 canonical: 813-t-bank-supports-smes-in-bhutan-and-wins-our-2013-award.json
 ---
