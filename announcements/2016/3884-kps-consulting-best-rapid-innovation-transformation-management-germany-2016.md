@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524041947
+wayback_snapshot_url: "http://web.archive.org/web/20260524041947/https://cfi.co/awards/europe/2016/kps-consulting-best-rapid-innovation-transformation-management-germany-2016/"
 content_sha256: f16250f3f9f1900ef4feb87cd81bf775b4030c5bd4a63889610f937e04f464de
 canonical: 3884-kps-consulting-best-rapid-innovation-transformation-management-germany-2016.json
 ---
