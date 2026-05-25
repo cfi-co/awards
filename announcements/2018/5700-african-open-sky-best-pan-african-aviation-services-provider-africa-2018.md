@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 4a78b390d0991a587b9f8995b376925f5941502ecd038b55acf0f2c40b9f03a4
 canonical: 5700-african-open-sky-best-pan-african-aviation-services-provider-africa-2018.json
 ---
