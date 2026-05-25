@@ -23,12 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260524050052",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260524050052/https://cfi.co/awards/finance/2017/barington-capital-group-best-activist-investor-corporate-governance-team-united-states-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3879\" src=\"https://cfi.co/awards/wp-content/uploads/2017/02/Barington.jpg\" alt=\"\" width=\"334\" height=\"83\" /></p>\r\n<p style=\"text-align: justify;\"><strong>A value-oriented activist investor since early 2000, Barington Capital Group, L.P. invests in undervalued publicly-traded companies that it believes can appreciate significantly in value via improved corporate governance, operations, capital allocation and business strategy.</strong></p>\r\n<p style=\"text-align: justify;\">Barington’s team of seasoned professionals leverage their experience to help companies design and implement policies and initiatives to significantly improve long-term shareholder value.</p>\r\n<p style=\"text-align: justify;\">The firm’s founder James Mitarotonda has established a solid reputation for investing in undervalued companies and moving quickly and decisively to help such companies unlock their value potential.</p>\r\n<p style=\"text-align: justify;\">Barington has helped improve corporate governance and transparency at numerous publicly traded companies and is one of the first activist investment funds to recognize that strengthening a company’s corporate governance helps facilitate the introduction and implementation of new measures to improve long-term performance.</p>\r\n<p style=\"text-align: justify;\">Barington Capital Group boasts considerable experience investing in consumer-focused companies.  It has held significant stakes in companies such as Avon Products, Chico’s, The Children’s Place, Darden Restaurants, Dillard's, The Jones Group, Lone Star Steakhouse, Nautica, Pep Boys, Steven Madden and Warnaco.</p>\r\n<p style=\"text-align: justify;\">Over the past three years, nine companies have made significant improvements to their boards after Barington’s involvement.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel is delighted to offer Barington Capital Group its 2016 Best Activist Investor Corporate Governance Team United States Award.</p>",
     "content_sha256": "f90a295702f11f718fce4a9320bc3473591976e7a0f101c85b5046a88077b5ce",
-    "record_sha256": "917cd7d8a047c60aae79c8b61c722c99fb71fef6522b51ef3d6fd2ffae07bb07"
+    "record_sha256": "6973780260f26219847668de1771668bcf01f3d914bc91ee9cab0b6b2506be20"
 }

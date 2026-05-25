@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524050052
+wayback_snapshot_url: "http://web.archive.org/web/20260524050052/https://cfi.co/awards/finance/2017/barington-capital-group-best-activist-investor-corporate-governance-team-united-states-2016/"
 content_sha256: f90a295702f11f718fce4a9320bc3473591976e7a0f101c85b5046a88077b5ce
 canonical: 3877-barington-capital-group-best-activist-investor-corporate-governance-team-united-.json
 ---
