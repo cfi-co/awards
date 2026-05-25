@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524050012
+wayback_snapshot_url: "http://web.archive.org/web/20260524050012/https://cfi.co/awards/banking/2017/inversis-banco-best-banking-technology-innovator-spain-2016/"
 content_sha256: 27eb34b037d0036892b6b25f461b44f9d2bf04750b80cfeda6bc7b8b134acdbf
 canonical: 3872-inversis-banco-best-banking-technology-innovator-spain-2016.json
 ---
