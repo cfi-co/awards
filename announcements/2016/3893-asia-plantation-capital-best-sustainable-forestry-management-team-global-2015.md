@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524041935
+wayback_snapshot_url: "http://web.archive.org/web/20260524041935/https://cfi.co/awards/best-practice/2016/asia-plantation-capital-best-sustainable-forestry-management-team-global-2015/"
 content_sha256: 76faf91814fb08e8076f845208af87e91251b13d5eff251a7b07df3b5df2c080
 canonical: 3893-asia-plantation-capital-best-sustainable-forestry-management-team-global-2015.json
 ---
