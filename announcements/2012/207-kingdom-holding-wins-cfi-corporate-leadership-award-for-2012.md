@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523040914
+wayback_snapshot_url: "http://web.archive.org/web/20260523040914/https://cfi.co/awards/finance/2012/kingdom-holding-wins-cfi-corporate-leadership-award-for-2012/"
 content_sha256: 5f238519df0e2d938bbfd7815fc01ae8e2602a4bcf121cdc16c872a9c2292a91
 canonical: 207-kingdom-holding-wins-cfi-corporate-leadership-award-for-2012.json
 ---
