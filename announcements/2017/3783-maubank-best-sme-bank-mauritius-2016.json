@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260524045711",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260524045711/https://cfi.co/awards/africa/2017/maubank-best-sme-bank-mauritius-2016/"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_3784\" align=\"aligncenter\" width=\"500\"]<img class=\"size-full wp-image-3784\" src=\"https://cfi.co/awards/wp-content/uploads/2017/01/Sridhar-Nagarajan.jpg\" alt=\"\" width=\"500\" height=\"739\" /> <strong>CEO:</strong> Sridhar Nagarajan[/caption]\r\n<p style=\"text-align: justify;\"><strong>Formed after a merger between two of Mauritius’ financial services providers, MauBank has revitalised and shaken up the banking sector, gaining wide and almost instant recognition as one of the nation’s most dynamic banks – and generating healthy profits within 6 months of the merger.</strong></p>\r\n<p style=\"text-align: justify;\">The MauBank brand has been positioned as one promoting entrepreneurship, underwriting the efforts of small and medium-sized businesses and empowering micro-enterprises and sole traders to scale up their undertakings. Straddling the divide between a commercial bank and a development bank, the institution squarely aims to provide a boost to the local business community. Over a quarter of MauBank’s assets are committed to support SMEs.</p>\r\n<p style=\"text-align: justify;\">MauBank’s experienced management team works closely together with clients to seize business opportunities via a suite of fully scalable and flexible products and services, tailored to meet – and exceed – their specific requirements. Thus, MauBank often acts more as a partner to business than a mere financier. The bank also boasts a number of facilities that enables businesspeople to hone their skills and tap into yet unexplored markets or niches.</p>\r\n<p style=\"text-align: justify;\">After the merger that created the institution, MauBank recruited the best and brightest professionals to shape its operations. The bank has progressively streamlined internal and external processes in order to better and quicker respond to the needs of its clients.\r\nThe CFI.co judging panel congratulates the bank on its many accomplishments since the merger and declares <a href=\"https://cfi.co/awards/africa/2023/maubank-best-growth-strategy-banking-mauritius-2022/\">MauBank</a> winner of the 2016 Best SME Bank Mauritius Award.</p>",
     "content_sha256": "dfe2fd6614b9e1b1f5deb020ed79600f35113e7024b3338481206d33c0e06fb3",
-    "record_sha256": "3c398f9ef932857b5d0ff4bb10f2c3f04e1dc09fc696080a1f6a23bbd67d5a8d"
+    "record_sha256": "8f9de03d78e21da3ac0b623e782c4524d62b2dd8686c4de6776613d194c14825"
 }
