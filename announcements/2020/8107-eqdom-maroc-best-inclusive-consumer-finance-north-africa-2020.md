@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20200923095537
+wayback_snapshot_url: "http://web.archive.org/web/20200923095537/https://cfi.co/awards/africa/2020/eqdom-maroc-best-inclusive-consumer-finance-north-africa-2020/"
 content_sha256: 367d0d6baacd46d60e0beb4984f5b298e0eb3851a8541aab28f73da8e34a7ae9
 canonical: 8107-eqdom-maroc-best-inclusive-consumer-finance-north-africa-2020.json
 ---
