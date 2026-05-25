@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523041326
+wayback_snapshot_url: "http://web.archive.org/web/20260523041326/https://cfi.co/awards/middle-east/2025/qic-group-best-insurance-leadership-gcc-2025/"
 content_sha256: bc4ee4ccbce8efa749637cc4312d675598ff8f1db47a09fdb63aa93723a685d0
 canonical: 13431-qic-group-best-insurance-leadership-gcc-2025.json
 ---
