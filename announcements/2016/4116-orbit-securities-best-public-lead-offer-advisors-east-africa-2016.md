@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524043741
+wayback_snapshot_url: "http://web.archive.org/web/20260524043741/https://cfi.co/awards/africa/2016/orbit-securities-best-public-lead-offer-advisors-east-africa-2016/"
 content_sha256: 9b03b64613c05a2f64427a9fa188b55a80e0b547db3c70ee0920112a9309b918
 canonical: 4116-orbit-securities-best-public-lead-offer-advisors-east-africa-2016.json
 ---
