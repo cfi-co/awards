@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524041533
+wayback_snapshot_url: "http://web.archive.org/web/20260524041533/https://cfi.co/awards/africa/2016/tradex-most-socially-responsible-management-team-central-africa-2016/"
 content_sha256: 7b600d30b3008c811aa303f9730530cdb24a34a2dce8760c9a63d259ffe53fd2
 canonical: 3586-tradex-most-socially-responsible-management-team-central-africa-2016.json
 ---
