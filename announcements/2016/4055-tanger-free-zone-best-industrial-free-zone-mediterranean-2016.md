@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524042702
+wayback_snapshot_url: "http://web.archive.org/web/20260524042702/https://cfi.co/awards/industries/2016/tanger-free-zone-best-industrial-free-zone-mediterranean-2016/"
 content_sha256: fcc21d03003919f9440efe67d53f1a37c2ff25583490b03e25f81f1c3ab8e89c
 canonical: 4055-tanger-free-zone-best-industrial-free-zone-mediterranean-2016.json
 ---
