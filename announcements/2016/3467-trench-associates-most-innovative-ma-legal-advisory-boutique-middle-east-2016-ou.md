@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524040928
+wayback_snapshot_url: "http://web.archive.org/web/20260524040928/https://cfi.co/awards/professional-services/2016/trench-associates-most-innovative-ma-legal-advisory-boutique-middle-east-2016-outstanding-contribution-to-the-empowerment-of-women-uae-2016/"
 content_sha256: c000748967634c457c761e707f6638bfe50747f5406185e79c5351ccfb10cb7e
 canonical: 3467-trench-associates-most-innovative-ma-legal-advisory-boutique-middle-east-2016-ou.json
 ---
