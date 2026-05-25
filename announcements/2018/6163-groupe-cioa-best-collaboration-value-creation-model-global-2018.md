@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 6f10004081c824997bdbe27970066329c1b3a12ec273eca37cce56e7f455429d
 canonical: 6163-groupe-cioa-best-collaboration-value-creation-model-global-2018.json
 ---

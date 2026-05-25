@@ -19,12 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6164\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/CIOA.jpg\" alt=\"\" width=\"349\" height=\"95\" />\r\n<p style=\"text-align: justify;\">Stronger and more powerful than the sum of its parts, the CIOA Group’s expansive network of subsidiaries and providers encompasses a global market of shared resources, networking opportunities, and strategic expertise. CIOA (International Business Opportunities Centre) affiliates operate in more than 140 countries, representing 500,000 businesses and 120,000 suppliers across multiple industries. CIOA is a facilitator of international business, and provides companies, organisations and government agencies with multidisciplinary solutions and collaborative services to reach a global audience. The company is focused on creating valuable business connections, linking suppliers to customers and expediting strategic technology and financial partnerships. It offers administrative support for business by managing and monitoring data, from daily transactions to customer relations. With more than 40 offices worldwide, 200 multidisciplinary advisors and 2,300 co-developers in its network, CIOA understands the importance of collaboration. Since its inception in 1994, it has grown to become an international advocate for, and facilitator of, global, open, and self-sufficient business models. With a firm foothold on the global map, CIOA recognises that “together we are stronger” – making it the clear winner of the Best Collaboration Value Creation Model – Global 2018 award.</p>",
     "content_sha256": "6f10004081c824997bdbe27970066329c1b3a12ec273eca37cce56e7f455429d",
-    "record_sha256": "29c79fa2e7e280797949d7bdbe8e7f4afabba106b6e794a04b6a29af4b39f1c5"
+    "record_sha256": "fb66436ac963c0f9b2cb7cfcb82d69cedf4534d7df2b53c53718db5048ed3262"
 }
