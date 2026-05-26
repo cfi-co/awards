@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525070009
+wayback_snapshot_url: "http://web.archive.org/web/20260525070009/https://cfi.co/awards/banking/2019/intesa-sanpaolo-bank-albania-best-bank-governance-albania-2019/"
 content_sha256: dc376656e4952a31882ed9d37004eb0d22f396f73f3c43c8eced3e2901608349
 canonical: 7699-intesa-sanpaolo-bank-albania-best-bank-governance-albania-2019.json
 ---
