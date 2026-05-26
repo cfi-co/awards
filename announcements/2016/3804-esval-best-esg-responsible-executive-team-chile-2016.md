@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524041828
+wayback_snapshot_url: "http://web.archive.org/web/20260524041828/https://cfi.co/awards/latin-america/2016/esval-best-esg-responsible-executive-team-chile-2016/"
 content_sha256: c89a62cdb39c10848c76eb4c3bcd3815e5c57b74b4369fc87da35b50bf666c40
 canonical: 3804-esval-best-esg-responsible-executive-team-chile-2016.json
 ---
