@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525051902",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525051902/https://cfi.co/awards/latin-america/2018/banco-procredit-best-green-bank-ecuador-2017/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5176\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/BancoProCredit.jpg\" alt=\"\" width=\"500\" height=\"84\" />\r\n<p style=\"text-align: justify;\"><strong>In Ecuador, Banco ProCredit has pioneered green financing since 2012. In that year the bank introduced its EcoCredit financing service which underwrites investments in energy efficiency, renewable energy, and assorted environmental measures aimed at improving sustainability and performance of local industry. EcoCredit is especially geared towards meeting the needs of small and medium-sized enterprises (SMEs) as they adjust business operations to the requirements of the green economy by modernizing technology and innovating their products in order to meet the needs of international markets.</strong></p>\r\n<p style=\"text-align: justify;\">Banco ProCredit has found that businesses manage to significantly increase profit margins when incorporating compliance with up-to-date ESG (environmental, social, and governance) standards into day-to-day operations. Apart from energy efficiency, EcoCredit is contributing with the change of energy matrix in the country by financing production of electricity from renewable sources, such as solar, wind, hydro and biomass.</p>\r\n<p style=\"text-align: justify;\">Banco ProCredit is recognised industry-wide for setting the example – and, indeed raising the bar. The bank maintains an internal Environmental Management Unit charged with monitoring all operations and processes for their environmental impact. The unit sets ambitious goals and continuously gauges progress and compliance. Additionally, the bank instituted an environmental committee comprised of all departmental heads and the members of its management board. The committee meets regularly to analyse and set corporate policy with a view to improving sustainability.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel commends the Ecuadorian bank on its pro-active hands-on approach to environmental issues. Thus, the bank manages to stay well ahead of the curve – and the competition. The judges are delighted to offer Banco ProCredit the 2017 Best Green Bank Ecuador Award.</p>",
     "content_sha256": "b64ab1876a9aee205e944b87b1108bf92967f956104a3e62848700d6049067e3",
-    "record_sha256": "986a10d40b81be8bc49fba31d82882864d33dfbadfc476581d8d9053b799ce5a"
+    "record_sha256": "42bf33e2b481fb5aef1820bc7320f0fa08044a3c82f96a6b32dc6972623208d1"
 }
