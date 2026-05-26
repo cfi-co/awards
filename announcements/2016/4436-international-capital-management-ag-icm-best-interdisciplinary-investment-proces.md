@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 40f54bfabcc0e47c4e298663aa6cf384bb1f4ea9652c14bb2db00fd23365ca0a
 canonical: 4436-international-capital-management-ag-icm-best-interdisciplinary-investment-proces.json
 ---
