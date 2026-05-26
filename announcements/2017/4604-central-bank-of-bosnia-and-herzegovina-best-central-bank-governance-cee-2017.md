@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525042825
+wayback_snapshot_url: "http://web.archive.org/web/20260525042825/https://cfi.co/awards/banking/2017/central-bank-of-bosnia-and-herzegovina-best-central-bank-governance-cee-2017/"
 content_sha256: 722a44304912f5928de8ecd9474ed92a0862132bb7c334db1563ef69e1bf6a24
 canonical: 4604-central-bank-of-bosnia-and-herzegovina-best-central-bank-governance-cee-2017.json
 ---
