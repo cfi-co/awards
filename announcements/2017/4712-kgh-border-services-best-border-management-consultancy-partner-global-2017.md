@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525044516
+wayback_snapshot_url: "http://web.archive.org/web/20260525044516/https://cfi.co/awards/industries/2017/kgh-border-services-best-border-management-consultancy-partner-global-2017/"
 content_sha256: 6f750411ae980ecb1f868cdf46b7c783504f2f41c098f88aa2168b88176a5669
 canonical: 4712-kgh-border-services-best-border-management-consultancy-partner-global-2017.json
 ---

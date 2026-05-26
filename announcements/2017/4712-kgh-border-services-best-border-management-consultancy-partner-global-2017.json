@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525044516",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525044516/https://cfi.co/awards/industries/2017/kgh-border-services-best-border-management-consultancy-partner-global-2017/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4713\" src=\"https://cfi.co/awards/wp-content/uploads/2017/08/KHG.jpg\" alt=\"\" width=\"294\" height=\"127\" />\r\n<p style=\"text-align: justify;\"><strong>Whilst free trade reigns supreme, governments do wish to maintain control of their borders without obstructing the flow of goods. That, however, is easier said than done. Offering custom solutions to public sector clients around the world, Swedish KGH Border Services – part of KGH Customs Services specialised in customs and trade management – delivers operational excellence in even the most challenging environments.</strong></p>\r\n<p style=\"text-align: justify;\">The company is regularly called upon by the UN, European Union, World Bank, and other multilaterals to apply its knowledge in countries desirous of improving their border management system. KGH Border Services functions as a one-stop shop, offering end-to-end solutions that include not just border management, but risk assessment, single-window, paperless processing, and IT services as well. In fact, the company covers the entire field of cross border trade management up to and including the development of custom unions, transit and trade corridor setups, and educational programmes to help implement global best practices. KGH is also the global market leader in delivering AEO programmes for compliance management, a vital part of the WTO Trade Facilitation Agreement.</p>\r\n<p style=\"text-align: justify;\">KGH Border Services bridges the divide between the public and private spheres working with all stakeholders to design and implement frameworks that deliver quick results, adding value to the entire process.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel agrees that the desired smooth flow of trade may at times offer room for improvement. The judges applaud KGH Border Services for its sustained and successful efforts at streamlining border procedures and offer the company their 2017 Best Border Management Consultancy Partner Global Award.</p>",
     "content_sha256": "6f750411ae980ecb1f868cdf46b7c783504f2f41c098f88aa2168b88176a5669",
-    "record_sha256": "bd606f7f51899ff3f06e97379ecb337bc65eabf27a066a87f32de71864a9221b"
+    "record_sha256": "f8b72060c0bd3a8e985709d446f3fc43fc1c023d39492a6a8458573d8c2deb5a"
 }
