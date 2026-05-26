@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525062724
+wayback_snapshot_url: "http://web.archive.org/web/20260525062724/https://cfi.co/awards/front/2019/caisse-de-refinancement-de-lhabitat-crh-best-social-impact-finance-france-2018/"
 content_sha256: 0ddce849a86ce8abfa29c19e0013310bbba79fef3799a7312e8f4020b89de52e
 canonical: 6462-caisse-de-refinancement-de-lhabitat-crh-best-social-impact-finance-france-2018.json
 ---
