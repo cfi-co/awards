@@ -21,12 +21,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525070850",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525070850/https://cfi.co/awards/africa/2019/tracom-services-best-enterprise-payment-solutions-and-best-ecommerce-payment-solutions-east-africa-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5554\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/Tracom.jpg\" alt=\"Tracom\" width=\"400\" height=\"142\" />\r\n<p style=\"text-align: justify;\">Kenya is a hub for East African financial services and investments, and has become a headquarters for the tech teams driving a mobile money revolution. Tracom Services, based in Nairobi, delivers solutions from hardware to software and services — all backed by the latest technology that increasingly defines the country’s business ecosystem. Tracom is leveraging a successful 10-year history of innovation-led growth and reliability to respond to customer needs and market demands, grow its client base and penetrate new markets. The firm maintains two research and development centres, in Kenya and Tanzania, embracing the power of modern technology to deliver solutions. Kenya is a leader in fintech innovation, and Tracom has expanded its established suite of products to deploy fresh eCommerce solutions. Tracom’s eCommerce offerings are an extension of the work it’s been doing so well over the past decade — creating secure payment gateways to streamline clients’ day-to-day business operations for optimal efficiency and scalability. The company has put its extensive knowledge to good effect, and its strong growth and market expansion have caught the eye of the CFI.co judging panel for the third consecutive year. The judges congratulate Tracom Services on winning dual awards in 2019: Best Enterprise Payment Solutions and Best eCommerce Payment Solutions (East Africa).</p>",
     "content_sha256": "ca76144bebf1850e77e26e469f0407f3860b3081c248ba38f0b6e40b2fe96022",
-    "record_sha256": "b5279dd1c60b3089ee90112515e4d1246f5ea4c5be9885bc14d0ecb2cfc9958a"
+    "record_sha256": "bbd5d6878566cac75e206c1b4acf67ba2c7821f6fe49a7f5a3591d515bd82c2f"
 }
