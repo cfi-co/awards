@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525042003
+wayback_snapshot_url: "http://web.archive.org/web/20260525042003/https://cfi.co/awards/asia-pacific/2017/myanmar-agribusiness-public-corporation-best-corporate-governance-in-agribusiness-southeast-asia-2016/"
 content_sha256: 7f15f91fb0205b83a5313844a043dc63adad47546ecc04284360f447444bba85
 canonical: 4367-myanmar-agribusiness-public-corporation-best-corporate-governance-in-agribusines.json
 ---
