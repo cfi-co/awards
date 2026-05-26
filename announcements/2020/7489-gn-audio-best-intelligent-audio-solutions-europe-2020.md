@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 61f717990ac780340fe69ac539378d6affda5425df2e51fb912bdaa92ff5c8d3
 canonical: 7489-gn-audio-best-intelligent-audio-solutions-europe-2020.json
 ---
