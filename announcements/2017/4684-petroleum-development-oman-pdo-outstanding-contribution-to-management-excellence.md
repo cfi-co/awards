@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525044032
+wayback_snapshot_url: "http://web.archive.org/web/20260525044032/https://cfi.co/awards/middle-east/2017/petroleum-development-oman-pdo-outstanding-contribution-to-management-excellence-middle-east-2017/"
 content_sha256: cb1acd5fe8413036293637dcd9510a75bd104331557b4764b8d3b74811dac0e8
 canonical: 4684-petroleum-development-oman-pdo-outstanding-contribution-to-management-excellence.json
 ---
