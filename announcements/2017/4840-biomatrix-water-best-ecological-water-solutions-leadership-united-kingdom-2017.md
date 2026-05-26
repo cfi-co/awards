@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525045235
+wayback_snapshot_url: "http://web.archive.org/web/20260525045235/https://cfi.co/awards/corporate-leadership/2017/biomatrix-water-best-ecological-water-solutions-leadership-united-kingdom-2017/"
 content_sha256: 473a365c0a9f49631dce333da5a30bbde8aa19174f94d1defd338cd120748e36
 canonical: 4840-biomatrix-water-best-ecological-water-solutions-leadership-united-kingdom-2017.json
 ---
