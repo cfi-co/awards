@@ -24,12 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525071359",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525071359/https://cfi.co/awards/africa/2019/tandem-stark-best-construction-project-cost-services-team-africa-2019/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4348\" src=\"https://cfi.co/awards/wp-content/uploads/2017/05/TS.jpg\" alt=\"Tandem &amp; Stark\" width=\"141\" height=\"162\" />\r\n<p style=\"text-align: justify;\">Before breaking ground on a new construction project, budget and time constraints must be carefully considered and calculated — and then respected. In Kenya, and across the wider East and Central Africa region, the consultancy firm Tandem &amp; Stark has earned a reputation for delivering projects on-time and on-budget. Like many success stories, this one sprang from humble beginnings: Tandem &amp; Stark’s first workspace was a garage. The firm flourished and has grown to become one of the leading consultancy firms in Africa. It prepares a detailed roadmap for each project, outlining customer objectives and expectations in clear terms, and ensures strict adherence to budget and timeframe. Tandem &amp; Stark counts its workforce as one of the key drivers of its success. The dedicated team boasts many years of experience in the construction industry, and possesses intimate knowledge of regional markets and international trends. The company aims to provide value-added construction cost engineering services by partnering with customers throughout a project’s development. Tandem &amp; Stark specialises in creating bespoke solutions, and has a proven track record of delivering top-notch construction cost-control and quantity surveying. It uses the latest tech advances to optimise the accuracy of estimates and stay on top of deadlines, as well as to increase overall efficiency. The company has recently expanded its services to include project management, where it applies the same thorough methodology. The CFI.co judging panel is pleased to see Tandem &amp; Stark continue its upward trajectory, and confers the 2019 award for Best Construction Project Cost Services Team (Africa). This is the third consecutive year for Tandem &amp; Stark to receive an award from CFI.co.</p>",
     "content_sha256": "a05e6db4e0f7169ca598a903475a6c0ed5aab6ab83a2d4835484c6aaa3d16527",
-    "record_sha256": "73dff4e2bde2d4d3e3530f60a19d768a318cac7be01906cb66195405b7826b4b"
+    "record_sha256": "08f51992170e6d829c30ede0e8c6dcd97d5c2b94d73f0f79237bc9cd4762406d"
 }
