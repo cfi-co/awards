@@ -19,12 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525060043",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525060043/https://cfi.co/awards/front/2018/cscs-outstanding-contribution-to-the-capital-markets-nigeria-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6205\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/CSCS.jpg\" alt=\"\" width=\"349\" height=\"202\" />\r\n<p style=\"text-align: justify;\">Central Securities Clearing System Plc (CSCS Plc) has been functioning as the Central Securities Depository for the Nigerian capital market since 1997. It was originally incorporated as a private company. In 2012, it converted to a public company and is being traded on the NASD OTC Exchange. The firm also provides a computerised clearing and settlement system for the market. It issues International Securities Identification Numbers (ISIN) as well as renders custodian services.</p>\r\n<p style=\"text-align: justify;\">According to the CFI.co judging panel, CSCS continues to respond efficiently and faithfully to the needs of the securities and commodities market and has a proud record of providing sterling services to the capital markets in Nigeria. CSCS looked to the best international models when planning its business but insists on incorporating in its plan features that respond to the specific needs of the Nigerian market such as the Electronic Document Management Services amongst others.</p>\r\n<p style=\"text-align: justify;\">The company takes its corporate governance responsibilities very seriously and constantly seeks out ways to improve. CSCS, a most innovative company, is very keen to harness technological developments in support of the services it offers. This is a very well-financed and managed firm that is moving from strength-to-strength.</p>\r\n<p style=\"text-align: justify;\">The panel is delighted to confirm the award of “Outstanding Contribution to Capital Markets Nigeria 2018\" to CSCS.</p>",
     "content_sha256": "4f9d356ac58bf237cfdf86c8717026bdc81352eca30f48bcad38ae518bab2c5c",
-    "record_sha256": "cc182792a9b543be67406e8309513f7ef0416b90f343c6ae0cb70104b3e5200d"
+    "record_sha256": "6e74b859c01bd880f1c8a7d4c4563a73722945e1e596764e4fa6ad6f20f67e19"
 }

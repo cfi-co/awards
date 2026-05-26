@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525060043
+wayback_snapshot_url: "http://web.archive.org/web/20260525060043/https://cfi.co/awards/front/2018/cscs-outstanding-contribution-to-the-capital-markets-nigeria-2018/"
 content_sha256: 4f9d356ac58bf237cfdf86c8717026bdc81352eca30f48bcad38ae518bab2c5c
 canonical: 6203-cscs-outstanding-contribution-to-the-capital-markets-nigeria-2018.json
 ---
