@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525054803
+wayback_snapshot_url: "http://web.archive.org/web/20260525054803/https://cfi.co/awards/front/2018/gambia-investment-and-export-promotion-agency-giepa-best-foreign-investment-promotion-team-west-africa-2018/"
 content_sha256: 9992ad5ee80ec2dd37f7f4f9b36ee2c46203d7c8f1d472868ff23f89c0607956
 canonical: 6014-gambia-investment-and-export-promotion-agency-giepa-best-foreign-investment-prom.json
 ---
