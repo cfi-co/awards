@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260524044732",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260524044732/https://cfi.co/awards/asia-pacific/2016/rcbc-best-sme-bank-philippines-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-medium wp-image-4465\" src=\"https://cfi.co/awards/wp-content/uploads/2017/06/RCBC-300x95.jpg\" alt=\"\" width=\"300\" height=\"95\" /></p>\r\n<p style=\"text-align: justify;\"><strong>One of the largest privately-owned domestic banks in the Philippines, RCBC (Rizal Commercial Banking Corporation) serves over 7.4 million customers through 477 branches and 1,443 ATMs. The bank is the flagship business of the Yuchengco Group of Companies which is one of the largest conglomerates in Southeast Asia.</strong></p>\r\n<p style=\"text-align: justify;\">Since its foundation 56 years ago, the bank is able to offer its customers an exceptionally broad range of products and services. Amongst others, RCBC maintains a number of highly sought after facilities for small and medium-sized enterprises (SMEs) such as revolving credit lines, letters of credit, trust receipt financing and pre and post-delivery financing options.</p>\r\n<p style=\"text-align: justify;\">In a nation whose business landscape is largely composed of Small and Medium Enterprises (SMEs), RCBC embarked on initiatives to provide financial inclusion and stability to Filipino entrepreneurs by reaching the unbanked and underserved market whose growth has been stymied by their weak capital base and limited access to the financial market. RCBC shifted paradigms and “went provincial” where growth opportunities abound but remained relatively untapped.</p>\r\n<p style=\"text-align: justify;\">RCBC also launched a special financing program aimed at empowering women entrepreneurs through its e-WMN Loan program. The main objective of this specialised loan program is to break barriers and challenge limitations that women entrepreneurs are faced with by expanding their access to financial services.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judges noted that RCBC’s commitment to the SME segment is a long-standing one. The judging panel is therefore pleased to grant RCBC the 2016 Best SME Bank Philippines Award.</p>",
     "content_sha256": "d3130588061bdef7acb6948a8f4f723f15c041e726910dd3cd19a6e8b335337c",
-    "record_sha256": "cdb510131a458d08c1a4cb07972db61418bd87ffe43325e979c488422d702683"
+    "record_sha256": "daeab4dd1ff0c5cc46e4276275af9b4d2d905d6c5e6737053f5653f741cb8028"
 }
