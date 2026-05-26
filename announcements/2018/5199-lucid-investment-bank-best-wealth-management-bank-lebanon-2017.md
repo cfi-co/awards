@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525051902
+wayback_snapshot_url: "http://web.archive.org/web/20260525051902/https://cfi.co/awards/middle-east/2018/lucid-investment-bank-best-wealth-management-bank-lebanon-2017/"
 content_sha256: 46892c899813a724fcf7790ad50bdc6a602e0977cade0574e8980c4696b05fc7
 canonical: 5199-lucid-investment-bank-best-wealth-management-bank-lebanon-2017.json
 ---
