@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525074118
+wayback_snapshot_url: "http://web.archive.org/web/20260525074118/https://cfi.co/awards/middle-east/2020/icbc-dubai-difc-branch-most-innovative-international-bank-emea-2019/"
 content_sha256: f0d10418bfb7a02ea72e646095c63c9164071bc32c179e344a70caafa76adc4c
 canonical: 7305-icbc-dubai-difc-branch-most-innovative-international-bank-emea-2019.json
 ---
