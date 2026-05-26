@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 4ee3381a479c5c4fd1354da09d7b6ba6af9b6679ebfe862c17842bcd100558bb
 canonical: 9675-unicredit-best-social-impact-bank-europe-2021.json
 ---
