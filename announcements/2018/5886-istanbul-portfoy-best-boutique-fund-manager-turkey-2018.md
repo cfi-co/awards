@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525053311
+wayback_snapshot_url: "http://web.archive.org/web/20260525053311/https://cfi.co/awards/front/2018/istanbul-portfoy-best-boutique-fund-manager-turkey-2018/"
 content_sha256: 05d2a404269fd95917efe03e4a716c284819576877bed3baa5e39f30211ae911
 canonical: 5886-istanbul-portfoy-best-boutique-fund-manager-turkey-2018.json
 ---
