@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525062546
+wayback_snapshot_url: "http://web.archive.org/web/20260525062546/https://cfi.co/awards/front/2019/saradar-bank-most-socially-responsible-bank-lebanon-2018/"
 content_sha256: 4a57231f40c3049f3e6f40651605d02824891237574e81b03a409f36bbcf89c6
 canonical: 6460-saradar-bank-most-socially-responsible-bank-lebanon-2018.json
 ---
