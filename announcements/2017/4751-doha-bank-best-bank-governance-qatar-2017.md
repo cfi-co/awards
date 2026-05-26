@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525044918
+wayback_snapshot_url: "http://web.archive.org/web/20260525044918/https://cfi.co/awards/middle-east/2017/doha-bank-best-bank-governance-qatar-2017/"
 content_sha256: 95acffc89450dd2c0b9741af009e84bcd76ac083f63894f1bdf29bd5fa7c65e3
 canonical: 4751-doha-bank-best-bank-governance-qatar-2017.json
 ---
