@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525042533
+wayback_snapshot_url: "http://web.archive.org/web/20260525042533/https://cfi.co/awards/asia-pacific/2017/innovia-security-most-innovative-banknote-technology-global-2017/"
 content_sha256: 2daa723467b31a1bb5d7a4ad0c1cd463617601322d04ad190a3858a1cc8ad61f
 canonical: 4585-innovia-security-most-innovative-banknote-technology-global-2017.json
 ---
