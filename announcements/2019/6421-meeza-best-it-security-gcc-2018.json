@@ -19,12 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525061221",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525061221/https://cfi.co/awards/front/2019/meeza-best-it-security-gcc-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6422\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/Meeza.jpg\" alt=\"\" width=\"349\" height=\"141\" />\r\n<p style=\"text-align: justify;\">The CFI.co judging panel applauds Meeza on this third consecutive win of the Best IT Security award. This Qatar company has kept the momentum of discipline and adaptability in an industry that is subject to frequent change, and where cyberthreats are a constant enemy. Meeza has excelled in protecting its clients from reputational damage or security breaches as levels of threat are constantly monitored and analysed. Meeza represents top-class attitude and performance. Its advanced services ceaselessly scrutinise IT assets to ensure the instant flagging of any incident, using self-learning algorithms that detect traffic that deviates from the norm. Meeza is quick to identify vulnerabilities and predict possible future threats. Expertise and dedication have brought the company healthy growth and respect in the field, and have resulted in some big-name client acquisitions in 2018. Meeza is entering into promising strategic partnerships to further enrich its offering and its commitment with ongoing training programmes and workshops for staff. Meeza has received numerous awards and citations for its services, and is a Qatar Foundation joint-venture that is gaining increasing recognition for its role in supporting national development. Meeza is the recipient of the CFI.co 2018 award for Best IT Security (GCC).</p>",
     "content_sha256": "e671d203e7030417055604c8d63278e120a6085d78464f4374116bc9beabea7b",
-    "record_sha256": "aa5feb1140c858faec7eb7423a5539cc8e3b929d0b6d69dd290a3ddf8b0e9fa6"
+    "record_sha256": "48bce0e5803569d73cbd12a1693b532b1aa000657049d7a544f01c8ddfae3cf8"
 }
