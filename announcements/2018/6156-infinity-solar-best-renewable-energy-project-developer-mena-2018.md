@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525055508
+wayback_snapshot_url: "http://web.archive.org/web/20260525055508/https://cfi.co/awards/front/2018/infinity-solar-best-renewable-energy-project-developer-mena-2018/"
 content_sha256: 13852ce39af52adc82e4db7f2da8eec78fbbc8a17ef790a14fe676fb650bbc22
 canonical: 6156-infinity-solar-best-renewable-energy-project-developer-mena-2018.json
 ---
