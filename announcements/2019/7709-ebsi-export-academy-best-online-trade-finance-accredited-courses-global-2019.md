@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525070353
+wayback_snapshot_url: "http://web.archive.org/web/20260525070353/https://cfi.co/awards/professional-services/2019/ebsi-export-academy-best-online-trade-finance-accredited-courses-global-2019/"
 content_sha256: 177efc321ba64fe627746f42075858958117ba9f4d9b554ce148fb02fef3fad8
 canonical: 7709-ebsi-export-academy-best-online-trade-finance-accredited-courses-global-2019.json
 ---
