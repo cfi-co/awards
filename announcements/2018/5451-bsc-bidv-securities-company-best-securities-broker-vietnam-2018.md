@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525052405
+wayback_snapshot_url: "http://web.archive.org/web/20260525052405/https://cfi.co/awards/asia-pacific/2018/bsc-bidv-securities-company-best-securities-broker-vietnam-2018/"
 content_sha256: 2b427c59fbea1490d21d8a121bd96a6b545000afebb48fc0ad3873aff60b4bc3
 canonical: 5451-bsc-bidv-securities-company-best-securities-broker-vietnam-2018.json
 ---
