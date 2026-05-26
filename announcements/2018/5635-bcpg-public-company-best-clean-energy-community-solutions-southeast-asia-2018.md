@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525052929
+wayback_snapshot_url: "http://web.archive.org/web/20260525052929/https://cfi.co/awards/asia-pacific/2018/bcpg-public-company-best-clean-energy-community-solutions-southeast-asia-2018/"
 content_sha256: 1b80588365e619b1ff473ef946784bd65fd55bd258f112fbedf248510de7ef85
 canonical: 5635-bcpg-public-company-best-clean-energy-community-solutions-southeast-asia-2018.json
 ---
