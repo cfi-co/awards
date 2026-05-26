@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525072243
+wayback_snapshot_url: "http://web.archive.org/web/20260525072243/https://cfi.co/awards/best-practice/2019/shell-livewire-best-youth-entrepreneurship-engagement-programme-global-2019/"
 content_sha256: 5e22f42040a24f259715baefd6ff099d18278d11101cbed24465bb38083d412c
 canonical: 7938-shell-livewire-best-youth-entrepreneurship-engagement-programme-global-2019.json
 ---
