@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525044206
+wayback_snapshot_url: "http://web.archive.org/web/20260525044206/https://cfi.co/awards/europe/2017/lbbw-landesbank-baden-wurttemberg-best-debt-capital-markets-team-germany-2017/"
 content_sha256: cb5918858d65bfbf5908cf4b11dd3b693edc89f7fc58d567a72a236072170255
 canonical: 4690-lbbw-landesbank-baden-wurttemberg-best-debt-capital-markets-team-germany-2017.json
 ---
