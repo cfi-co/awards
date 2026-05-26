@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525051542
+wayback_snapshot_url: "http://web.archive.org/web/20260525051542/https://cfi.co/awards/middle-east/2018/kuwait-international-bank-kib-fastest-growing-islamic-bank-mena-2017-and-best-sharia-compliant-bank-mena-2017/"
 content_sha256: 524b66597f88f11b7ca7dae9141d9c3c69f49d7997ce6ba36cd9580aa8168e0b
 canonical: 5139-kuwait-international-bank-kib-fastest-growing-islamic-bank-mena-2017-and-best-sh.json
 ---
