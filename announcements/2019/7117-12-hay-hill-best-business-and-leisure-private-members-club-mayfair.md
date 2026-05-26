@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525064627
+wayback_snapshot_url: "http://web.archive.org/web/20260525064627/https://cfi.co/awards/europe/2019/12-hay-hill-best-business-and-leisure-private-members-club-mayfair/"
 content_sha256: 0f06c5367d9afc97a4d491a3526e2c410bf992351c6794b5bc2cbfbe5dc4fb96
 canonical: 7117-12-hay-hill-best-business-and-leisure-private-members-club-mayfair.json
 ---
