@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525055254
+wayback_snapshot_url: "http://web.archive.org/web/20260525055254/https://cfi.co/awards/front/2018/qiib-qatar-international-islamic-bank-best-digital-banking-technology-middle-east-2018/"
 content_sha256: 7f2a860771b58943a0439c06203205729032f96d8920a488db8bb58369817347
 canonical: 6129-qiib-qatar-international-islamic-bank-best-digital-banking-technology-middle-eas.json
 ---
