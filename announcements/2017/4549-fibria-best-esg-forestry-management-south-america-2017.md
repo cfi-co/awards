@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525042329
+wayback_snapshot_url: "http://web.archive.org/web/20260525042329/https://cfi.co/awards/latin-america/2017/fibria-best-esg-forestry-management-south-america-2017/"
 content_sha256: 7ed00012a4e63d6842462b26d9caed9b04c369e6e0cbd6088608dcecdd59c5f7
 canonical: 4549-fibria-best-esg-forestry-management-south-america-2017.json
 ---

@@ -25,12 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525042329",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525042329/https://cfi.co/awards/latin-america/2017/fibria-best-esg-forestry-management-south-america-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-4550\" src=\"https://cfi.co/awards/wp-content/uploads/2017/07/Fibria.jpg\" alt=\"\" width=\"400\" height=\"128\" /></p>\r\n<p style=\"text-align: justify;\"><strong>World leader in the production of eucalyptus cellulose, Brazilian forestry company Fibria is dedicated to providing superior-quality products, manufactured in a sustainable fashion and in accordance to the strictest ESG (environmental, social, and governance) norms. The company maintains four wood pulp processing plants that are exclusively operated with renewable resources.</strong></p>\r\n<p style=\"text-align: justify;\">Spread over six different Brazilian states, Fibria possesses almost a million hectares (some 10,000km<sup>2</sup>) in forestry plantations. More than a third of the acreage is set aside for nature conservancy.</p>\r\n<p style=\"text-align: justify;\">Partnering with a Japanese/Brazilian pulp producer has allowed Fibria to build and operate Portocel, Brazil’s only port dedicated to the shipment of cellulose, allowing for economies of scale and the attendant savings.</p>\r\n<p style=\"text-align: justify;\">Fibria has now embarked, with a Canadian company, on a venture in the energy sector to produce fuel from wood and biomass. This is seen as a natural extension to the company’s operations, complementing a solid portfolio of renewable products.</p>\r\n<p style=\"text-align: justify;\">Fibria is determined to push the envelope on sustainable forestry and energy production. Though founded in 2009, Fibria can trace its origins to 1967. In that year the company’s predecessor started the first eucalyptus plantations in Espirito Santo State.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel acknowledges that, thanks to its long experience in the sector, Fibria is exceptionally well-equipped to prosper in an environmentally-aware marketplace. In fact, the company is recognised as an ESG pioneer. The judges are therefore pleased to offer Fibria the 2017 Best ESG Forestry Management South America Award.</p>\r\n[gallery ids=\"4552,4553,4554\"]",
     "content_sha256": "7ed00012a4e63d6842462b26d9caed9b04c369e6e0cbd6088608dcecdd59c5f7",
-    "record_sha256": "f5f882d21e060ffe9a0f9e9f40abc66d4f5cd6956d1dd232d8c87d295f081ece"
+    "record_sha256": "84e452d1f76ecf4852372140114369339839cd9fc4772a461de074e0a3b766b6"
 }
