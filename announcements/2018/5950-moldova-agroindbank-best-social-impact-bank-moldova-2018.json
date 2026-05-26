@@ -19,12 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525054030",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525054030/https://cfi.co/awards/front/2018/moldova-agroindbank-best-social-impact-bank-moldova-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4533\" src=\"https://cfi.co/awards/wp-content/uploads/2017/07/MAIB.jpg\" alt=\"\" width=\"314\" height=\"139\" />\r\n<p style=\"text-align: justify;\"><strong>A pillar of its country’s financial industry, Moldova Agroindbank (MAIB) earlier this year claimed the top spot in the domestic Bank Performance Raking as compiled by the Expert group – an independent trend watcher. MAIB boasted the largest market share by loan portfolio and deposits, and extracted the highest return on capital.</strong></p>\r\n<p style=\"text-align: justify;\">Set up in 1991, the same year Moldova gained its independence, MAIB maintains a nationwide corporate footprint with over a hundred branch offices and more than sixty agencies. The bank is particularly well represented in the small and medium-sized enterprise (SME) sector. MAIB offers a full suite of products designed to serve the specific needs of small businesses. Since 1994, the bank has received support for its SME products from a number of multilateral lenders. MAIB also introduced microcredit facilities for sole traders.</p>\r\n<p style=\"text-align: justify;\">Moldova Agroindbank is determined to lead its peers in technology, governance, and operational excellence – and thus help promote the country’s insertion into the wider European financial sector.</p>\r\n<p style=\"text-align: justify;\">MAIB keeps in close touch with Moldova’s large diaspora and has streamlined the procedures for receiving and paying out remittances from abroad. From its earliest corporate beginnings, MAIB has recognised the importance of corporate social responsibility. It maintains a large number of initiatives aimed at helping disadvantaged Moldovan families, particularly with education and financial literacy.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that MAIB is not only Moldova’s largest bank, but also an engine of economic growth and national development. More than just a financial services provider, MAIB is structured for maximum social impact. The judges have no hesitation in granting Moldova Agroindbank, a repeat winner who does not rest on his laurels, the 2018 Best Social Impact Bank Moldova Award.</p>",
     "content_sha256": "2b744b46b19725c823f610007b48a171cf3d1c0440158058fca876a079aac448",
-    "record_sha256": "530f2bff725ee91417b9a7b6fd32fd4e1820d3727057fac64b8d48757167e73f"
+    "record_sha256": "0a76d44678e4df803b10677732a7c7fbff3a1850e6fda3225f6e0bb6c77b1268"
 }
