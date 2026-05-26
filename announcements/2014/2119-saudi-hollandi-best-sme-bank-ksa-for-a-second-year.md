@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523043317
+wayback_snapshot_url: "http://web.archive.org/web/20260523043317/https://cfi.co/awards/banking/2014/saudi-hollandi-best-sme-bank-ksa-for-a-second-year/"
 content_sha256: 128c81ead7955e43a737f4b15f3e50928c3598195fc7995d5ee7e19c2703ce27
 canonical: 2119-saudi-hollandi-best-sme-bank-ksa-for-a-second-year.json
 ---
