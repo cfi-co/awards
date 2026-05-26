@@ -24,12 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525051449",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525051449/https://cfi.co/awards/europe/2018/emk-capital-best-esg-responsible-investment-team-uk-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5136\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/EMK.jpg\" alt=\"\" width=\"500\" height=\"125\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>A veritable repository of investment and corporate management expertise, UK-based EMK Capital uses the power of ESG standards and responsible investment principles to reinvigorate businesses, ensuring optimum returns. The approach enables EMK Capital to minimise the risks that usually result from clashes between sustainability and commerciality</strong></p>\r\n<p style=\"text-align: justify;\">EMK Capital – Enterprise Management Knowledge – adheres to the ten principles as defined by the United Nation’s Global Compact – an initiative to encourage the worldwide business community to adopt sustainable and socially responsible corporate policies. EMK Capital also signed up to the six Principles of Responsible Investment – a UN supported global network of investors who have incorporated non-financial considerations into their decision-making processes in order to improve sustainability and work towards a more stable global financial system.</p>\r\n<p style=\"text-align: justify;\">EMK Capital is focused on investments in businesses where it can support growth and change. The firm has the capability to invest significant funds behind businesses that fits its investment criteria, and typically makes majority investments with a three to seven year investment horizon. EMK Capital is predominantly active in the business services, consumer and industrials sectors. The firm boasts considerable experience in driving transformative growth, supporting exceptional management teams and enabling corporate transformation. Its investment approach includes a focus on driving revenue growth and improving overall efficiency, and helping management develop the skills, and access the tools, necessary to attain and sustain success.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that EMK Capital prioritises the human element and leverages ESG standards to implement best practices and ensure sustainable growth. The judges are pleased to declare EMK Capital winner of the 2017 Best ESG-Responsible Investment Team UK Award.</p>",
     "content_sha256": "b078899bfff9668fa87ebe824dbf8ef3190d27e3a4e5ffa089fa51a567db43cc",
-    "record_sha256": "6f0f6e23df9b2fa39d4fce6811caa543f43f84a2c2631f5c4f6080e8b0130ec0"
+    "record_sha256": "d4fb169750dd29ff3dca0e64f226c70feb68d79404f2c16b84ddf75983187c89"
 }
