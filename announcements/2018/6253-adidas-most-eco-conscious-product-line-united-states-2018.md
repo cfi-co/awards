@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525060714
+wayback_snapshot_url: "http://web.archive.org/web/20260525060714/https://cfi.co/awards/north-america/2018/adidas-most-eco-conscious-product-line-united-states-2018/"
 content_sha256: 2a87c7f05cb1cb6a39d21fafae9d39d1c687fd6c61907ad20b8da382edc4fe3a
 canonical: 6253-adidas-most-eco-conscious-product-line-united-states-2018.json
 ---
