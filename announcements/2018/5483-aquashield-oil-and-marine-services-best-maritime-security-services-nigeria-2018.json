@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525052358",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525052358/https://cfi.co/awards/africa/2018/aquashield-oil-and-marine-services-best-maritime-security-services-nigeria-2018/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5485\" src=\"https://cfi.co/awards/wp-content/uploads/2018/04/AquaShield.jpg\" alt=\"\" width=\"400\" height=\"136\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Facing escalating insurance costs and increased downtime due to rising threat levels, Nigeria’s offshore oil and gas operators have turned to private security contractors for relief. However, only a handful of companies can deploy the security assets required to face off increasingly well-armed thugs, pirates, and vandals.</strong></p>\r\n<p style=\"text-align: justify;\">Aquashield Oil and Marine Services maintains an impressive fleet of guard and combat vessels, including eight fast intervention security vessels (FISV) that can log speeds of up to 25 knots and give chase with fast RIBs. Four of Aquashield’s FISVs have been designed and built to the company’s exacting specifications. The other four ships are former navy patrol vessels with proven capabilities in higher intensity confrontations. The Aquashield fleet also includes two large platform supply ships, anchor handling supply tugs, and minor vessels such as construction barges and dredges.</p>\r\n<p style=\"text-align: justify;\">No other Nigerian maritime security company is able to mobilise such a vast array of security assets as Aquashield. The company works in close collaboration with the Nigerian Navy and is allowed to field armed naval personnel. Aquashield also maintains a comprehensive communications network that allows for proper threat assessment and tracking. Additionally, the company boasts full search and recovery (SAR) capabilities and offers inshore (harbour) escort services to commercial vessels.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that Aquashield Oil and Marine Services is a company that commands respect by both its size and dedication to operational excellence. Its mere presence in any quadrant of Nigeria’s turbulent waters has an immediate calming effect that allows the company’s customers to keep the oil and gas flowing – adding to the nation’s prosperity. The judges are pleased to offer Aquashield Oil and Marine Services the 2018 Best Maritime Security Services Nigeria Award.</p>",
     "content_sha256": "734ebef7238a1331ddfe79b7c180270520dbbbed543710d0ff273100efcba7ee",
-    "record_sha256": "8ae1d4941cd0340466458955db973dd87a3193ef88b49c14d3dada6b6ad17edf"
+    "record_sha256": "a469d40cc5761e04e32606ea7807d19f33263f08eb99668abf9f3a74dc1fdc66"
 }

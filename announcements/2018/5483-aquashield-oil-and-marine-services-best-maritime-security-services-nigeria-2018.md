@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525052358
+wayback_snapshot_url: "http://web.archive.org/web/20260525052358/https://cfi.co/awards/africa/2018/aquashield-oil-and-marine-services-best-maritime-security-services-nigeria-2018/"
 content_sha256: 734ebef7238a1331ddfe79b7c180270520dbbbed543710d0ff273100efcba7ee
 canonical: 5483-aquashield-oil-and-marine-services-best-maritime-security-services-nigeria-2018.json
 ---
