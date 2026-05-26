@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524041327
+wayback_snapshot_url: "http://web.archive.org/web/20260524041327/https://cfi.co/awards/africa/2016/ge-africa-best-esg-energy-infrastructure-partner-africa-2016/"
 content_sha256: 9bb90a52fac5fdd30ab6901ab58ef4fe437eb7b7cbe009f1f050051649dc910f
 canonical: 3569-ge-africa-best-esg-energy-infrastructure-partner-africa-2016.json
 ---
