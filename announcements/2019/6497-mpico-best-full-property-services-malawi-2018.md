@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525063604
+wayback_snapshot_url: "http://web.archive.org/web/20260525063604/https://cfi.co/awards/front/2019/mpico-best-full-property-services-malawi-2018/"
 content_sha256: 54565beedbbdf25d1c3db202246fb55ddb49a5f93f90edbf0796f2f8629f7068
 canonical: 6497-mpico-best-full-property-services-malawi-2018.json
 ---
