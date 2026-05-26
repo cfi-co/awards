@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525054703
+wayback_snapshot_url: "http://web.archive.org/web/20260525054703/https://cfi.co/awards/front/2018/amac-aerospace-best-private-aviation-services-emea-2018/"
 content_sha256: a58c1b3a56c84f28c258ae35f203f967460184cb1e5c12b6e7c237f4ccd6b376
 canonical: 6010-amac-aerospace-best-private-aviation-services-emea-2018.json
 ---
