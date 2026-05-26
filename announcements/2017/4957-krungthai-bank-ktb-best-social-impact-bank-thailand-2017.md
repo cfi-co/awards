@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525050716
+wayback_snapshot_url: "http://web.archive.org/web/20260525050716/https://cfi.co/awards/asia-pacific/2017/krungthai-bank-ktb-best-social-impact-bank-thailand-2017/"
 content_sha256: c9bf249ffb41e110f024ed1c5ed434288e1df010c11c77c321f6614d90766efe
 canonical: 4957-krungthai-bank-ktb-best-social-impact-bank-thailand-2017.json
 ---
