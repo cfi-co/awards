@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525061954
+wayback_snapshot_url: "http://web.archive.org/web/20260525061954/https://cfi.co/awards/front/2019/swedbank-best-green-bank-sweden-2018/"
 content_sha256: fa87665902cfea96d15178f0e813d28a5e1fa9b6c85ae6a0cf6d826464d87190
 canonical: 6445-swedbank-best-green-bank-sweden-2018.json
 ---
