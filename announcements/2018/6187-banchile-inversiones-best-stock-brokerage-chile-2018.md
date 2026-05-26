@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525055829
+wayback_snapshot_url: "http://web.archive.org/web/20260525055829/https://cfi.co/awards/front/2018/banchile-inversiones-best-stock-brokerage-chile-2018/"
 content_sha256: 6ea9c342e9a04e8af956eb8c57fe8d7befa17302c5758ac3224f3eb5ac397a13
 canonical: 6187-banchile-inversiones-best-stock-brokerage-chile-2018.json
 ---
