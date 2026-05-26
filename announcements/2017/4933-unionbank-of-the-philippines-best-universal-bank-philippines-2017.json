@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525050247",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525050247/https://cfi.co/awards/asia-pacific/2017/unionbank-of-the-philippines-best-universal-bank-philippines-2017/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-5020\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/UnionBank-1.jpg\" alt=\"\" width=\"349\" height=\"74\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>It is a bank that proactively hunts the best and brightest to preserve and expand its leading edge. UnionBank of the Philippines recognises the value of a highly trained and experienced workforce, in particular IT professionals who are able to not just think outside the proverbial box, but shatter it. To that end, the bank took the unusual step of inviting white-hat hackers – those without criminal intent – to breach its defences during U-Hack events organised throughout the country. The happenings are wildly popular and draw in the Philippines’ most resourceful geeks. The bank subsequently identified the most talented hackers and invited them to join its workforce and help perfect security systems and roll out additional online services.</strong></p>\r\n<p style=\"text-align: justify;\">UnionBank of the Philippines is a financial services provider known and respected for its can-do attitude to the business. It is one of the country’s leading full-service banks. UnionBank was founded in 1968 and obtained a listing on the Philippine Stock Exchange in 1992. In keeping with its pioneering corporate spirit, UnionBank was the first in the country to launch a website and introduced online banking to the Philippines. Since then it has launched an electronic savings account and a debit card linked to the bearer’s PayPal account.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes that UnionBank also maintains a vast recruitment programme directed at finding – and hiring – the best math and sciences majors at universities. The judges are pleased to recognise UnionBank of the Philippines as winner of the 2017 Best Universal Bank Philippines Award.</p>",
     "content_sha256": "36d63e7d0a375b4da6c2954cad89e24656868d8e866f8a96a56732f49170bc0d",
-    "record_sha256": "e8ef2ba725e8decd2b963ce6d0ad1ddb47e82412dccd6359b207bc022b8dc648"
+    "record_sha256": "0ced62cb91a06c2473299d10d9c702e49494ecdfec55f9748c754882a693d0c4"
 }
