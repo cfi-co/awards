@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524051519
+wayback_snapshot_url: "http://web.archive.org/web/20260524051519/https://cfi.co/awards/community-engagement/2017/covenant-bank-for-women-tanzania-best-social-impact-bank-tanzania-2017/"
 content_sha256: 89a4eb45b67a308a44849fa50ed4438253c6b89f9d5b34f61c80e9d81069c378
 canonical: 4359-covenant-bank-for-women-tanzania-best-social-impact-bank-tanzania-2017.json
 ---
