@@ -24,12 +24,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525072938",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525072938/https://cfi.co/awards/europe/2020/business-region-goteborg-best-business-value-creation-destination-scandinavia-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10173\" src=\"https://cfi.co/awards/wp-content/uploads/2020/12/Business-Region-Gotenborg.jpg\" alt=\"Business Region Gotenborg\" width=\"500\" height=\"322\" />\r\n\r\nGothenburg claims to be the world’s most sustainable city, and has taken top honours in national and global rankings for its business climate and municipal services. Business Region Göteborg (BRG) — a non-profit wholly owned by the City of Gothenburg — promotes its municipalities as ideal FDI destinations, and the region has a lot to offer. There’s a growing labour market, a well-developed transport and logistics hub, a robust R&amp;D environment, and award-winning performance in smart-city development. Gothenburg is a research hotspot and a test bed for innovative collaboration that has attracted over 30 percent of Sweden’s private sector R&amp;D investments. The region often leads the Global Destination Sustainability Index, and Gothenburg itself was named 2021’s Best Sustainable City Stay by the <em>Lonely Planet </em>guide for its emissions-free construction and green transport systems. Gothenburg has a sustainable past and future: it was the first city in the world to issue green bonds, and it aims to become independent of fossil fuels by 2030. The city expects to hit its €100bn infrastructure investment target by 2035, with a construction programme for bridges and tunnels, housing and hotels. BRG builds on the region’s legacy of skilled labour and cross-sector expertise that allows entrepreneurs to thrive. The CFI.co judging panel names Business Region Göteborg winner of the 2020 award for Best Business Value Creation Destination (Scandinavia).",
     "content_sha256": "21308f65406b19c81582cc51ef30fa40124237d3362fc95f0dcc5914218dfca9",
-    "record_sha256": "5fc4667f83855b6776d4073a93e8e62cf69bb4c13e8205f968a723bf0f831d5c"
+    "record_sha256": "e8ef9a472d74f7dc4a848f5483867b8862c909b121ea6b28ca56b21bd6796a24"
 }
