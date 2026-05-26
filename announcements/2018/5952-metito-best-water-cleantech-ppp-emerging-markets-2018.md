@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525054127
+wayback_snapshot_url: "http://web.archive.org/web/20260525054127/https://cfi.co/awards/front/2018/metito-best-water-cleantech-ppp-emerging-markets-2018/"
 content_sha256: 6f7ad99e980f90831e21a15fae934a2a1ac583ea6c9f1b55ec7fe2ca2aa833df
 canonical: 5952-metito-best-water-cleantech-ppp-emerging-markets-2018.json
 ---
