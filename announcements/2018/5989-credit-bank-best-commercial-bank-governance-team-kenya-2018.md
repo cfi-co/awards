@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525054342
+wayback_snapshot_url: "http://web.archive.org/web/20260525054342/https://cfi.co/awards/front/2018/credit-bank-best-commercial-bank-governance-team-kenya-2018/"
 content_sha256: a70460cd8066e9c343d86423ef0c7f5b13412b24c68a815a1a5d1f83e0b14657
 canonical: 5989-credit-bank-best-commercial-bank-governance-team-kenya-2018.json
 ---
