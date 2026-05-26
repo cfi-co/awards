@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525043455
+wayback_snapshot_url: "http://web.archive.org/web/20260525043455/https://cfi.co/awards/industries/2017/intelligent-voice-best-intelligent-voice-solutions-united-kingdom-2017/"
 content_sha256: 0941bab2b4cf0377f97c941a93a5f8ba7cce7bc212243dce3c06909170d26f44
 canonical: 4645-intelligent-voice-best-intelligent-voice-solutions-united-kingdom-2017.json
 ---
