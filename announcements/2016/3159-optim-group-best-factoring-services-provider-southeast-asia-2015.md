@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524040726
+wayback_snapshot_url: "http://web.archive.org/web/20260524040726/https://cfi.co/awards/asia-pacific/2016/optim-group-best-factoring-services-provider-southeast-asia-2015/"
 content_sha256: 2962f52c963dc3da7cced59c93a2336f1a9d3e241a5e98e2e4b145d799b2050a
 canonical: 3159-optim-group-best-factoring-services-provider-southeast-asia-2015.json
 ---
