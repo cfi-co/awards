@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525063119
+wayback_snapshot_url: "http://web.archive.org/web/20260525063119/https://cfi.co/awards/front/2019/commercial-bank-of-ceylon-cbc-best-green-bank-sri-lanka-2018/"
 content_sha256: 78a33ba035fb6642f6ef66b67ff8831a7a35df80076053a984f46265b4680124
 canonical: 6482-commercial-bank-of-ceylon-cbc-best-green-bank-sri-lanka-2018.json
 ---

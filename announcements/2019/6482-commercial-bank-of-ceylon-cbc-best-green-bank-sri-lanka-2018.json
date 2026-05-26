@@ -19,12 +19,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525063119",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525063119/https://cfi.co/awards/front/2019/commercial-bank-of-ceylon-cbc-best-green-bank-sri-lanka-2018/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5028\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/CommercialLogo.jpg\" alt=\"\" width=\"349\" height=\"81\" />\r\n<p style=\"text-align: justify;\">As one of Sri Lanka’s largest financial service providers, the Commercial Bank of Ceylon (CBC) has considerable weight to throw behind its sustainability initiatives. The bank takes a proactive approach and integrates social and environmental concerns throughout its daily business practices and its business plan. CBC’s sustainability strategy addresses social and environmental issues affecting people and the planet. The bank sets an example for its stakeholders — from customers and employees to suppliers and business partners — with its efforts for the responsible stewardship of the planet. CBC harnesses the latest technology to drive sustainability initiatives while reducing its own environmental footprint. Customers are being urged to adopt paperless mobile banking, and CBC branches are energy-efficient and compliant with the highest environmental standards. CBC encourages corporations and SMEs to invest in a greener future by financing Green Development Loans to implement eco-friendly solutions in energy saving, energy efficiency, and renewable energy projects. The bank has pioneered an eco-conscious lending framework to ensure all decisions comply with environmental and social regulations. CBC’s efforts have not gone unnoticed: in 2017 the World Bank Group’s International Finance Corporation partnered with the bank, allocating $165m to finance loans for renewable energy and energy efficiency projects. The CFI.co judging panel applauds CBC’s far-reaching sustainability initiatives, and has unanimously agreed: the Commercial Bank of Ceylon wins the 2018 award for Best Green Bank (Sri Lanka).</p>",
     "content_sha256": "78a33ba035fb6642f6ef66b67ff8831a7a35df80076053a984f46265b4680124",
-    "record_sha256": "ca9bbb0c78bfe0b3f77cb671e0a1b01b0850a27320fa5c11fd6f33d8bbde4cbe"
+    "record_sha256": "5b6905ff33532eaa2731c906faf862343f74d297f87818387fef8718f1ccf895"
 }
