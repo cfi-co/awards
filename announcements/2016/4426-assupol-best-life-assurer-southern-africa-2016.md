@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524044422
+wayback_snapshot_url: "http://web.archive.org/web/20260524044422/https://cfi.co/awards/africa/2016/assupol-best-life-assurer-southern-africa-2016/"
 content_sha256: 3102288f2f43d2f42f7126b7f5804511b20a4c1ca8dc8bc0be23581f623fd0c3
 canonical: 4426-assupol-best-life-assurer-southern-africa-2016.json
 ---
