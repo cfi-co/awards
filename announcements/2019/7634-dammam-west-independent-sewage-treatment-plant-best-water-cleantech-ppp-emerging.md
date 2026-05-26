@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20210921103146
+wayback_snapshot_url: "http://web.archive.org/web/20210921103146/https://cfi.co/awards/industries/2019/dammam-west-independent-sewage-treatment-plant-best-water-cleantech-ppp-emerging-markets-2019/"
 content_sha256: ba63f7b5dfa193c17aa81971a7ab4f96f388a0afcd69dfa485118bb64da9650c
 canonical: 7634-dammam-west-independent-sewage-treatment-plant-best-water-cleantech-ppp-emerging.json
 ---
