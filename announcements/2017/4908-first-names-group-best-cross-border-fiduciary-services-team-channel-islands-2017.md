@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 9f876534269624246790db901406bb351ebf35292283a157bca535a467c432dc
 canonical: 4908-first-names-group-best-cross-border-fiduciary-services-team-channel-islands-2017.json
 ---
