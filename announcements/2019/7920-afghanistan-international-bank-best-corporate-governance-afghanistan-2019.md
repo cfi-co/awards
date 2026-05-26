@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525071518
+wayback_snapshot_url: "http://web.archive.org/web/20260525071518/https://cfi.co/awards/asia-pacific/2019/afghanistan-international-bank-best-corporate-governance-afghanistan-2019/"
 content_sha256: 1f6c64b8d2abc2f3be5d6749160c5e0fdffe925efe999baaab6a1653ca1d9af7
 canonical: 7920-afghanistan-international-bank-best-corporate-governance-afghanistan-2019.json
 ---
