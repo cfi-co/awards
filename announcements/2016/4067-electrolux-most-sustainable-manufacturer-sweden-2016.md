@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260524042952
+wayback_snapshot_url: "http://web.archive.org/web/20260524042952/https://cfi.co/awards/best-practice/2016/electrolux-most-sustainable-manufacturer-sweden-2016/"
 content_sha256: 773caefc3aa5c7bad48e1dea0dd088fd2114d2d263612efa7d10bd8cfaa00568
 canonical: 4067-electrolux-most-sustainable-manufacturer-sweden-2016.json
 ---
