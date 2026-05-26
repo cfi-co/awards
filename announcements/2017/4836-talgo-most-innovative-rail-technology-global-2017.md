@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 09da5d7c3c0125be9bd16dafbd8e940d63d29323817a02d0c1441c423011bfd0
 canonical: 4836-talgo-most-innovative-rail-technology-global-2017.json
 ---
