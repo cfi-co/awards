@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260526044152
+wayback_snapshot_url: "http://web.archive.org/web/20260526044152/https://cfi.co/awards/africa/2021/societe-generale-congo-best-bank-republic-of-the-congo-2021/"
 content_sha256: 39fb7bf23c288f853731128c1db4f688a21e37bde81e32e7573c7a6503ce5e96
 canonical: 10754-societe-generale-congo-best-bank-republic-of-the-congo-2021.json
 ---
