@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525040405
+wayback_snapshot_url: "http://web.archive.org/web/20260525040405/https://cfi.co/awards/africa/2016/banco-de-fomento-de-angola-best-branch-network-angola-2016/"
 content_sha256: 24dcb92e6726f3cad78f2ddde11be6c31da8e37b2e2e9be6f633c9927de650fc
 canonical: 4047-banco-de-fomento-de-angola-best-branch-network-angola-2016.json
 ---
