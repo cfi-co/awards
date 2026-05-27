@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525044226
+wayback_snapshot_url: "http://web.archive.org/web/20260525044226/https://cfi.co/awards/finance/real-estate/2017/residences-dar-saada-best-real-estate-developer-morocco-2017/"
 content_sha256: 224d8bb0eba51c3c1c521170bab8931a5c8bf0116a0cf008fe15a79665e777eb
 canonical: 4694-residences-dar-saada-best-real-estate-developer-morocco-2017.json
 ---
