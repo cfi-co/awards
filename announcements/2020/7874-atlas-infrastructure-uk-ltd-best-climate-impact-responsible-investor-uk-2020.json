@@ -25,12 +25,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7875\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Atlas-Infrastructure.jpg\" alt=\"Atlas-Infrastructure\" width=\"400\" height=\"118\" />\r\n<p style=\"text-align: justify;\">Five partners banded together three years ago to form investment firm ATLAS — with a rigorous and intelligent focus on sustainability. From offices in London and Sydney, ATLAS Infrastructure builds resilience into its business model and investment portfolios by targeting long-term infrastructure projects, and by supporting climate change action around the world. ATLAS understands that ESG factors will influence cashflow over time, and factors that into its proprietary methodology. It forecasts three possible climate change policy scenarios, and the economic transitions associated with each. ATLAS considers first how an asset would fare in a “Base Case”, using a range of forecasts including those from the International Energy Agency and the Intergovernmental Panel on Climate Change. It then looks at the expected returns and risks for the asset in “Fast Transition” or “Delayed Action” scenarios. Investment fund Global Infrastructure Partners (GIP) is the majority shareholder of ATLAS, and the firm is proud to report that partners and staff claim a considerable portion of its equity. ATLAS team members hail from diverse sectors and geographies, bringing a breadth of experience that helps to avoid analytical and portfolio bias. The firm weighs every investment decision with an eye on the long-term interests of the business, its investors, and the environment at large. The CFI.co judging panel is pleased to present ATLAS Infrastructure with the 2020 award for Best Climate Impact Responsible Investor (UK).</p>",
     "content_sha256": "35a4a263f945546d8fa602a1cee1d44ca371e855f4779c93408d70c11b8b806d",
-    "record_sha256": "dc29dc25a962add145f16018f1e9aed5579970a022a21ff4375e0011f4daaf44"
+    "record_sha256": "77c374d53a996c0e58748aa6844abe31a8223b3bf22a114550509d056e26371a"
 }
