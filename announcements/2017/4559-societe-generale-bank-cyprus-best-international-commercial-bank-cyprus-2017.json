@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260525042357",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525042357/https://cfi.co/awards/europe/2017/societe-generale-bank-cyprus-best-international-commercial-bank-cyprus-2017/"
     },
     "excerpt": "",
     "content_html": "<img class=\"alignleft size-full wp-image-4566\" src=\"https://cfi.co/awards/wp-content/uploads/2017/07/SocGenBanner2.jpg\" alt=\"\" width=\"250\" height=\"634\" />\r\n<img class=\"aligncenter size-full wp-image-4561\" src=\"https://cfi.co/awards/wp-content/uploads/2017/07/SocGen.jpg\" alt=\"\" width=\"349\" height=\"101\" />\r\n<p style=\"text-align: justify;\"><strong>A full-service bank, Societe Generale Bank – Cyprus (SGBCy) caters to residents and non-residents alike with a comprehensive suite of products designed to simplify life, maximise returns, and empower both private and corporate clients.</strong></p>\r\n<p style=\"text-align: justify;\">Making full use of Cyprus’ privileged position at the crossroads of Europe, North Africa, and the Middle East, the bank has proved instrumental in bringing international corporates to establish a presence in the island nation, helping to transform the country into the premier regional business hub. The SGBCy International Business Unit – one of the bank’s core departments alongside the Corporate Unit and Private Banking – works with other Societe Generale entities across the world to offer clients access to a wealth of global financial services and markets. The bank’s professionals are exceptionally knowledgeable in leveraging Cyprus’ welcoming corporate climate to cross border operations and ventures, building synergies and optimising efficiency.</p>\r\n<p style=\"text-align: justify;\">A subsidiary of Société Générale de Banque au Liban, SGBCy draws on thirty years of accumulated experience in global banking. The bank pursues long-term relationships with its clients in order to better understand – and meet – their needs. The SGBCy branch network covers the most important cities on the island – Nicosia, Limassol, Larnaca, and Paphos.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel notes the holistic approach to banking implemented by SGBCy. The bank’s business units work in harmony to design best-in-class solutions. The judges are pleased to offer Societe Generale Bank – Cyprus the 2017 Best International Commercial Bank Cyprus Award.</p>",
     "content_sha256": "336a2ca708cd77779ee49086f95a877cbcc6a68395855edd87bdaecdf4905a97",
-    "record_sha256": "580e89555a8d30891ffa3b954b764df0b0dd95b099fe2107fdf9cd48e7ea3291"
+    "record_sha256": "de349bb68d8227053e67cdc63b55c6a1433be0bd5e56797ab1de68a06e15e096"
 }

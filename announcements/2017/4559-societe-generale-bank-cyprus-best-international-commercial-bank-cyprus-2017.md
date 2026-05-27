@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525042357
+wayback_snapshot_url: "http://web.archive.org/web/20260525042357/https://cfi.co/awards/europe/2017/societe-generale-bank-cyprus-best-international-commercial-bank-cyprus-2017/"
 content_sha256: 336a2ca708cd77779ee49086f95a877cbcc6a68395855edd87bdaecdf4905a97
 canonical: 4559-societe-generale-bank-cyprus-best-international-commercial-bank-cyprus-2017.json
 ---
