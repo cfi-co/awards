@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525054226
+wayback_snapshot_url: "http://web.archive.org/web/20260525054226/https://cfi.co/awards/front/2018/china-literature-best-online-literature-platform-east-asia-2018/"
 content_sha256: bc0439eebe533c3190686b7cafed4c6cb45f2f2c2c4fd2e7f9ca1b0711a94c6b
 canonical: 5960-china-literature-best-online-literature-platform-east-asia-2018.json
 ---
