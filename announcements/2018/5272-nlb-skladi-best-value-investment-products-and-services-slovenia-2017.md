@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525052253
+wayback_snapshot_url: "http://web.archive.org/web/20260525052253/https://cfi.co/awards/europe/2018/nlb-skladi-best-value-investment-products-and-services-slovenia-2017/"
 content_sha256: 93f8c0e78037553f49515a3ec36dc7f05f6eacceb32c22fc95c0d47965eafe49
 canonical: 5272-nlb-skladi-best-value-investment-products-and-services-slovenia-2017.json
 ---
