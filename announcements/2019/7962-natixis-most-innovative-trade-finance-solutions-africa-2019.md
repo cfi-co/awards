@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525072627
+wayback_snapshot_url: "http://web.archive.org/web/20260525072627/https://cfi.co/awards/africa/2019/natixis-most-innovative-trade-finance-solutions-africa-2019/"
 content_sha256: e22ca9bd736b8e2872a5c896c015414da2951798667594e44d9592ce64455375
 canonical: 7962-natixis-most-innovative-trade-finance-solutions-africa-2019.json
 ---
