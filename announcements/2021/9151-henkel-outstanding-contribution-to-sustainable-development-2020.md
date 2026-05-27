@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 4f5340b9739708e15bdeb79968b5c14beb233d8b237b9bfb2954d91dbedd517c
 canonical: 9151-henkel-outstanding-contribution-to-sustainable-development-2020.json
 ---
