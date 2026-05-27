@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260526044958
+wayback_snapshot_url: "http://web.archive.org/web/20260526044958/https://cfi.co/awards/europe/2021/basellandschaftliche-kantonalbank-best-regional-sustainability-bank-switzerland-2021/"
 content_sha256: ddef0f35f595ab36fcc5ed10b95c5469bc40c7c773dcc2045b1df8ff4ff9d847
 canonical: 9449-basellandschaftliche-kantonalbank-best-regional-sustainability-bank-switzerland-.json
 ---
