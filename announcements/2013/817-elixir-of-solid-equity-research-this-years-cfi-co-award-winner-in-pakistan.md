@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523042529
+wayback_snapshot_url: "http://web.archive.org/web/20260523042529/https://cfi.co/awards/asia-pacific/2013/elixir-of-solid-equity-research-this-years-cfi-co-award-winner-in-pakistan/"
 content_sha256: a9381eaa2330d96292bcf6e40b8d4861fd5832db58f5bc237d4f45db0efc0ea6
 canonical: 817-elixir-of-solid-equity-research-this-years-cfi-co-award-winner-in-pakistan.json
 ---
