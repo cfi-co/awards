@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525064740
+wayback_snapshot_url: "http://web.archive.org/web/20260525064740/https://cfi.co/awards/europe/2019/mckinsey-company-best-management-consultancy-spain-2019/"
 content_sha256: 9a724b6d844da50ab1a1ac3c698ab91add09779f898bb0e7f32878552330e4f8
 canonical: 7154-mckinsey-company-best-management-consultancy-spain-2019.json
 ---
