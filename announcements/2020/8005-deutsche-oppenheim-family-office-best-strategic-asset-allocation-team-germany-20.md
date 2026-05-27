@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260526043431
+wayback_snapshot_url: "http://web.archive.org/web/20260526043431/https://cfi.co/awards/europe/2020/deutsche-oppenheim-family-office-best-strategic-asset-allocation-team-germany-2020/"
 content_sha256: 48fb54f7840b2d2eb91e4e7c755791579460db0d4cc629e9a0b9bbc38000304d
 canonical: 8005-deutsche-oppenheim-family-office-best-strategic-asset-allocation-team-germany-20.json
 ---
