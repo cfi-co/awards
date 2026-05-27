@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525062314
+wayback_snapshot_url: "http://web.archive.org/web/20260525062314/https://cfi.co/awards/front/2019/peabody-best-esg-responsible-mining-company-global-2018/"
 content_sha256: 70497c841e9367e719d2aa875e4632a02505873a97e762df3dc12203251b103f
 canonical: 6454-peabody-best-esg-responsible-mining-company-global-2018.json
 ---
