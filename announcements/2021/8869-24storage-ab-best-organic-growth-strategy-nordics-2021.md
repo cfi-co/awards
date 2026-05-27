@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260526044323
+wayback_snapshot_url: "http://web.archive.org/web/20260526044323/https://cfi.co/awards/europe/2021/24storage-ab-best-organic-growth-strategy-nordics-2021/"
 content_sha256: c960a5099c77b1265d99dea28353158e787d82704b0b565f13d2915196b57715
 canonical: 8869-24storage-ab-best-organic-growth-strategy-nordics-2021.json
 ---
