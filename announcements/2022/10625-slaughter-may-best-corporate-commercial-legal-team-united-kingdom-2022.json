@@ -23,12 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10626\" src=\"https://cfi.co/awards/wp-content/uploads/2022/08/Slaughter-and-May.jpg\" alt=\"Slaughter and May\" width=\"400\" height=\"25\" />\r\n<p style=\"text-align: justify;\">Great minds think differently – a phrase which neatly describes the ethos at Slaughter &amp; May, one of the UK’s most forward-thinking legal firms, regarded by many as among the most prestigious in the world. Based in the heart of the City of London, the company employs some of the planet’s brightest legal minds, with a depth of expertise and experience, offering first-class legal service across a range of subjects. The company, founded in 1889, has an impressive corporate and commercial track record – it was heavily involved in the iconic privatisations of British Airways, British Gas and British Steel in the 1980s and 90s, and is regularly called upon by the UK government to provide vital services. In 2021 Slaughter &amp; May was appointed to the Cabinet Office panel responsible for strategically important projects, providing legal advice aimed at benefiting not only the public sector in terms of procurement policy, but also increasing savings for taxpayer. The company demonstrates its focus on lateral thought by publishing regular blogs which examine the issues of the day, delivering insights into complex areas of the law. A recent 2022 blog on corporate tax, for instance, examined the question of how businesses approach Environmental, Social and Governance (ESG) factors, specifically the thorny topic of how companies square the desire to implement solutions on sustainability grounds at the expense, potentially, of profit. In 2022 the CFI.co judging panel has no hesitation in presenting the company with the award, Best Corporate &amp; Commercial Legal Team United Kingdom.</p>",
     "content_sha256": "ff07cf2cd4270a147f80f5c02b1c446f3943f83e93f64419d7681f0fa0fc5116",
-    "record_sha256": "4780d0d8685c70d2d5560b256b111231d88ea025b9a0c718e5312349e31d7406"
+    "record_sha256": "c707d1eeebe7dc85a1fbc97dab4322acdbbbe4452b881c6a1a8f77e9030c467d"
 }
