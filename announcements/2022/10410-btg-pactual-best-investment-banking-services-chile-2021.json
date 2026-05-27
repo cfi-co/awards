@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10411\" src=\"https://cfi.co/awards/wp-content/uploads/2022/05/BTG-Pactual.jpg\" alt=\"BTG Pactual\" width=\"400\" height=\"160\" />\r\n<p style=\"text-align: justify;\">The constant exchange of ideas is a core principle of BTG Pactual, a leading investment bank in Chile’s financial sector. The business is an arm of the parent group founded in Brazil in 1983. Today it employs 2,300 staff across eight countries. The company is managed on a meritocratic, horizontal model - the main pillar of its culture. BTG values business with integrity, and has adopted Environmental, Social and Governance (ESG) objectives throughout the organisation. BTG signed up to the Principles of Responsible Investments (PRI) in 2015, pledging to embrace the values of human rights, labour relations, the environment, and to fight corruption. Today its asset management division operates from offices throughout Latin America, North America and Europe. It prides itself on encouraging the exchange of ideas, evaluation of investment opportunities across borders, and diligent risk management. BTG’s research team constantly studies global trends to inform investment strategy. The company invests on behalf of institutional investors, pension funds, corporations and governments, and individuals. In Chile, the company runs conversation events - BTG Talks - which connect businesses and entrepreneurs with global experts, where new ideas are exchanged and strategies formed. BTG promotes an online forum which publishes articles on politics, economics, and cultural trends. It also contributes to the community beyond its core business, developing and supporting various artistic, cultural and sports initiatives in Chile. In recognising the work of BTG Pactual, the CFI.co judging panel is pleased to present it with the 2021 award, Best Investment Banking Services Chile.</p>",
     "content_sha256": "0a540c0c2bb72d9472d8ee7ed1def47038d310a229950f90a2c26585a5e718e9",
-    "record_sha256": "7e4446b236dc7eb788b2c17411f83fff03e43a48a525109f74537915ae847422"
+    "record_sha256": "a5fe59a517659045a2c3b26701bc5a440a657e4f815d186c2d1f440abb239edf"
 }

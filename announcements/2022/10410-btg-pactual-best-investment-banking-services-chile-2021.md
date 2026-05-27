@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 0a540c0c2bb72d9472d8ee7ed1def47038d310a229950f90a2c26585a5e718e9
 canonical: 10410-btg-pactual-best-investment-banking-services-chile-2021.json
 ---
