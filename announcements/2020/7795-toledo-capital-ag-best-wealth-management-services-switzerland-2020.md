@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260526043206
+wayback_snapshot_url: "http://web.archive.org/web/20260526043206/https://cfi.co/awards/europe/2020/toledo-capital-ag-best-wealth-management-services-switzerland-2020/"
 content_sha256: 09ee421ccc6e8c61aa68b7c43c81a4c11aca56343daf5dccc0ad942b065e6731
 canonical: 7795-toledo-capital-ag-best-wealth-management-services-switzerland-2020.json
 ---
