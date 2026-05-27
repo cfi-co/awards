@@ -23,12 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7584\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/ASU.jpg\" alt=\"ASU\" width=\"400\" height=\"143\" />\r\n<p style=\"text-align: justify;\">Applied Science Private University (ASU) is highly ranked among global higher education institutions. It was the first private university in Jordan to achieve an overall five-star rating from QS Stars, an international university rating system. ASU’s Faculty of Pharmacy was the only faculty in Jordan and the second worldwide to achieve a five-star distinction. The global pandemic proved the quality of the university’s online learning system and infrastructure — and reaffirmed the programme’s five-star rating. It also converted sporting facilities into the country’s first and largest Covid vaccination centre. ASU prepares students to compete, contribute and prosper in a rapidly evolving world. The university has been supporting sustainable development long before it became a buzz word. It aims to fuel social, economic and environmental development throughout the nation, region and international network. ASU has signed agreements and established working relationships with University College London and Queen's University. It is building a first-of-its-kind public health research centre in collaboration with the University of Sydney. ASU fosters a culture of diversity, equity and inclusion across its campuses and has established centres catering to the needs of female, disabled or pregnant students and faculty. ASU recently appointed Jordan’s first female university president, Prof. Dr Iman Amin Basheti, to further its tradition of excellence in education, research, community service and innovation. The CFI.co judging panel announces Applied Science Private University, a repeat programme winner, with the 2022 award for Most Innovative Community Impact Research University (Middle East).</p>",
     "content_sha256": "f8bbffe51525bdbb73c4e4eaf9b11fdd4cc3aef79cffcf011cd0e56407ddbefc",
-    "record_sha256": "1ab00a21255e8a3c0b0d3f8320a6cc361c80dbbe9db5a9d15e526bed8c391614"
+    "record_sha256": "372f85475096d8549ded25fe698c27a55fefc5a3b4786558bc727877122ee3db"
 }
