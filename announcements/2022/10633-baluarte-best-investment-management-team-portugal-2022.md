@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 8e4e7d3127319a95cae7e6cb504d55bfa93a99b684fb7377e9e47d3a25131877
 canonical: 10633-baluarte-best-investment-management-team-portugal-2022.json
 ---
