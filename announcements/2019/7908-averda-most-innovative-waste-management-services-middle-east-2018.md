@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525071233
+wayback_snapshot_url: "http://web.archive.org/web/20260525071233/https://cfi.co/awards/middle-east/2019/averda-most-innovative-waste-management-services-middle-east-2018/"
 content_sha256: 9a0e919e67c870c67a671f7ab0d5c2720c81708ce703def823bd709f5db14eb8
 canonical: 7908-averda-most-innovative-waste-management-services-middle-east-2018.json
 ---
