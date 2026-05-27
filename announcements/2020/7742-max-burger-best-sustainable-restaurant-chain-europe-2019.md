@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260526042908
+wayback_snapshot_url: "http://web.archive.org/web/20260526042908/https://cfi.co/awards/europe/2020/max-burger-best-sustainable-restaurant-chain-europe-2019/"
 content_sha256: a96d6bfce083a7dd469aac6cba0e4e3e56f4f8278bb2850cfbc303169509d7cc
 canonical: 7742-max-burger-best-sustainable-restaurant-chain-europe-2019.json
 ---
