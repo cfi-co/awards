@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 2d21aed00fc582c9134faa557247eebc50ae841fd139dd2d69971ad0570d9240
 canonical: 10824-hungarian-investment-promotion-agency-best-strategic-investment-partner-europe-2.json
 ---
