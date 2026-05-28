@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 7b51f761f2fcd3dea75eee16bfbc9003729e79dfb4958d52ccbd10f854ef6fa2
 canonical: 11531-wiseenergy-best-solar-asset-manager-uk-2023.json
 ---
