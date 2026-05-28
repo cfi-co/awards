@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: b0a5f5f1658b1516c1945b739f3ea499e13cc01440efdcc0d2e61a258acc623c
 canonical: 7753-rokel-commercial-bank-rcb-best-bank-governance-sierra-leone-2019.json
 ---
