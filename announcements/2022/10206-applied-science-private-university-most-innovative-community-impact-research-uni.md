@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527042623
+wayback_snapshot_url: "http://web.archive.org/web/20260527042623/https://cfi.co/awards/middle-east/2022/applied-science-private-university-most-innovative-community-impact-research-university-middle-east-2022/"
 content_sha256: f8bbffe51525bdbb73c4e4eaf9b11fdd4cc3aef79cffcf011cd0e56407ddbefc
 canonical: 10206-applied-science-private-university-most-innovative-community-impact-research-uni.json
 ---
