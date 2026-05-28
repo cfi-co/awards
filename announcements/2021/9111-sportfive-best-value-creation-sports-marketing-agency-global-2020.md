@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 8d39159680ccc0ed43c5bf157a70178d8a0f139eaa2344cda152fa5b9237d6aa
 canonical: 9111-sportfive-best-value-creation-sports-marketing-agency-global-2020.json
 ---
