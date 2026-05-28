@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260523040928
+wayback_snapshot_url: "http://web.archive.org/web/20260523040928/https://cfi.co/awards/professional-services/2026/moodys-ratings-best-credit-rating-agency-latam-2026/"
 content_sha256: 5c06fbd229be51460ad8156ef1082cbf918bb3c45ea2e140442bc8ab4d16a4df
 canonical: 13425-moodys-ratings-best-credit-rating-agency-latam-2026.json
 ---
