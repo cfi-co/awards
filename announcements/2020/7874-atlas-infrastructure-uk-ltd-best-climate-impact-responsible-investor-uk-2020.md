@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527040143
+wayback_snapshot_url: "http://web.archive.org/web/20260527040143/https://cfi.co/awards/finance/2020/atlas-infrastructure-uk-ltd-best-climate-impact-responsible-investor-uk-2020/"
 content_sha256: 35a4a263f945546d8fa602a1cee1d44ca371e855f4779c93408d70c11b8b806d
 canonical: 7874-atlas-infrastructure-uk-ltd-best-climate-impact-responsible-investor-uk-2020.json
 ---
