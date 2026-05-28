@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527045308
+wayback_snapshot_url: "http://web.archive.org/web/20260527045308/https://cfi.co/awards/professional-services/consultancies/2023/goglobal-trade-outstanding-support-to-smes-globally-2023/"
 content_sha256: ca9fa64347ecc226304275a0c9f434f43f3703f564dd9ec46ed91df319198e9e
 canonical: 12044-goglobal-trade-outstanding-support-to-smes-globally-2023.json
 ---
