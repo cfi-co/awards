@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260527044255
+wayback_snapshot_url: "http://web.archive.org/web/20260527044255/https://cfi.co/awards/development/2022/export-bahrain-best-sme-export-development-solutions-mena-2022/"
 content_sha256: f835b0d56c4f50e008fb394987ec35d92a027dd300a91a4ca417f3815deb722b
 canonical: 11195-export-bahrain-best-sme-export-development-solutions-mena-2022.json
 ---
