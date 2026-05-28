@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527043007
+wayback_snapshot_url: "http://web.archive.org/web/20260527043007/https://cfi.co/awards/banking/2022/btg-pactual-best-investment-banking-services-chile-2021/"
 content_sha256: 0a540c0c2bb72d9472d8ee7ed1def47038d310a229950f90a2c26585a5e718e9
 canonical: 10410-btg-pactual-best-investment-banking-services-chile-2021.json
 ---
