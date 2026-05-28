@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260527035335",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260527035335/https://cfi.co/awards/africa/2020/dlm-capital-group-best-structured-finance-securitisation-team-west-africa-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7566\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/DLM-Capital-Logo.jpg\" alt=\"DLM-Capital-Logo\" width=\"400\" height=\"153\" />\r\n<p style=\"text-align: justify;\">Dunn Loren Merrifield Capital Group is a Nigeria-based developmental bank which operates as a full-service investment house — a crucial link between sovereign bodies, regional industries and international money markets. DLM benefits from the leadership of a dedicated professional team. Under the guidance of founder and CEO Sonnie Ayere, the group has pioneered structured finance and securitisation in West African capital markets. DLM Capital Group has acted as the sole arranger to more than 80 percent of the structured finance — and all of the securitisation transactions — in the Nigerian market. It delivers bespoke solutions that support high-impact economic and infrastructure projects. Housing, micro-finance and SMEs have been a prime focus, with an innovative medium-term note mortgage refinancing programme and a Bus Rapid Transit (BRT) securitisation scheme. The BRT transaction resulted in 10 percent savings for the transit company — and increased public transport for citizens. In addition to debt and equity capital-raising, DLM offers financial advisory services, including mergers and acquisitions and company set-up. The group deploys teams of talented individuals across specialised departments — investment research, risk management, finance advisory, sales, technology and legal — all united behind a corporate culture that prioritises customer service and encourages professional growth for employees. Expansion into the agriculture, education, and healthcare sectors is planned via new proprietary funding conduits. The CFI.co judging panel deems DLM Capital Group — a repeat winner in the awards programme — to be a developmental partner of positive impact. The judges present DLM with the 2020 award for Best Structured Finance &amp; Securitisation Team (West Africa).</p>",
     "content_sha256": "5dd1446022678c901c00cc6fca871d47740c2d3708676817f48d54f7081c9d56",
-    "record_sha256": "40d5ee2e2ec93dd98f3191d873d9853360b139c1c0b603fb6ca1b1f273dc71dd"
+    "record_sha256": "57b26b22d1bd2fecbcd2c56e4ce08eed2948e074e161bd52f5ef2f4ab909efa3"
 }
