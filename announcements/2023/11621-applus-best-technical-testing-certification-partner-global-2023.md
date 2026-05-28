@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260527044855
+wayback_snapshot_url: "http://web.archive.org/web/20260527044855/https://cfi.co/awards/europe/2023/applus-best-technical-testing-certification-partner-global-2023/"
 content_sha256: d36fd570c6dac2ebd5c9227b7eacea33c26f54cc9e3ceff8a1f910956ffdfe66
 canonical: 11621-applus-best-technical-testing-certification-partner-global-2023.json
 ---
