@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260523042723",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523042723/https://cfi.co/awards/banking/2014/online-winner-in-spain-self-bank-reacts-to-customer-needs/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10778\" src=\"https://cfi.co/awards/wp-content/uploads/2022/09/Self-Bank.jpg\" alt=\"Self Bank\" width=\"455\" height=\"205\" />\r\n<p style=\"text-align: justify;\">Self Bank is the CFI.co Online Banking Award winner, Spain, 2014. According to the Judging Panel this bank is ‘properly focused on determining appropriate client solutions and providing that which is needed rather than dreaming up fancy add-ons. Self took full advantage of opportunities created in the wake of the Banking Crisis when people in Spain started to question their traditional loyalties. They are doing very well in the market now because of a well thought out and innovative focus on actual online banking requirements. This translates to a secure and effective banking platform.’</p>",
     "content_sha256": "4a41de09b6317e243524d78d390cb3d5b6d6c027358a3c28102309a52d9de5eb",
-    "record_sha256": "2fe1ddded3d1df46b93f99e671e1c425c8cbb4b270725743361905bcf6a8b669"
+    "record_sha256": "8305ca0383f03b9c0247599da71965115c524fa72a7435d5e714910f2d699b60"
 }

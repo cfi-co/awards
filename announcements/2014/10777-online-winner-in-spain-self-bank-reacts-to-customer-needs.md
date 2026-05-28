@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260523042723
+wayback_snapshot_url: "http://web.archive.org/web/20260523042723/https://cfi.co/awards/banking/2014/online-winner-in-spain-self-bank-reacts-to-customer-needs/"
 content_sha256: 4a41de09b6317e243524d78d390cb3d5b6d6c027358a3c28102309a52d9de5eb
 canonical: 10777-online-winner-in-spain-self-bank-reacts-to-customer-needs.json
 ---
