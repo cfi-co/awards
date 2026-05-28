@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527051212
+wayback_snapshot_url: "http://web.archive.org/web/20260527051212/https://cfi.co/awards/finance/exchanges-brokers/2025/xmtrading-best-customer-support-global-2025/"
 content_sha256: 09379d040f1a7d17823980b03e37bdc34fffdfd22e2838f06106b96d69c83d65
 canonical: 13110-xmtrading-best-customer-support-global-2025.json
 ---
