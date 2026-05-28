@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527050900
+wayback_snapshot_url: "http://web.archive.org/web/20260527050900/https://cfi.co/awards/industries/technology/2024/trading-com-seamless-user-friendly-mobile-app-eu-uk-2024/"
 content_sha256: 4d5866b2f6ce66d3127f0ae9122463e81a493b41e98405cd3a66c51c50d69215
 canonical: 12740-trading-com-seamless-user-friendly-mobile-app-eu-uk-2024.json
 ---
