@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527051142
+wayback_snapshot_url: "http://web.archive.org/web/20260527051142/https://cfi.co/awards/europe/2025/coeli-asset-management-outstanding-performance-in-multi-asset-class-management-sweden-2024/"
 content_sha256: 19b064328926b5c37334017406f0cfd75457287a11b7c8f69f697bd313dfdbba
 canonical: 13104-coeli-asset-management-outstanding-performance-in-multi-asset-class-management-s.json
 ---
