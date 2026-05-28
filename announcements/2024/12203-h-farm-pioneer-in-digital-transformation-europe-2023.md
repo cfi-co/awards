@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260527060153
+wayback_snapshot_url: "http://web.archive.org/web/20260527060153/https://cfi.co/awards/europe/2024/h-farm-pioneer-in-digital-transformation-europe-2023/"
 content_sha256: bccd7f003493309ac1bf11164a25758986387c08ec9989188b24a2c8e3a7e240
 canonical: 12203-h-farm-pioneer-in-digital-transformation-europe-2023.json
 ---
