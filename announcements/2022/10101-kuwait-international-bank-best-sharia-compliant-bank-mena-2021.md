@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 2c2303fa4cd05437ecfdaab5b91289a7efcbe052e2fc311180f40e78d47c2d6a
 canonical: 10101-kuwait-international-bank-best-sharia-compliant-bank-mena-2021.json
 ---
