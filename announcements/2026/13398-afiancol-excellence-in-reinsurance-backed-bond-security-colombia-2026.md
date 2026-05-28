@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 300575c566f0ba4b1d64194514724965b1e3cab6332f62651163c68cf4b3180e
 canonical: 13398-afiancol-excellence-in-reinsurance-backed-bond-security-colombia-2026.json
 ---
