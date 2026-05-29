@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 16a8f4563db00e96f310a53f603890add5ef0bace79522d48ba807d137cb954a
 canonical: 13418-lomarlabs-maritime-innovation-pioneer-europe-2026.json
 ---
