@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527051542
+wayback_snapshot_url: "http://web.archive.org/web/20260527051542/https://cfi.co/awards/best-practice/2025/norvestor-best-sustainable-equity-investor-nordics-2025/"
 content_sha256: 104c2a90c4c46005c176af0ad60bfcde6a7347304ae40828738ebbad9c0e8d54
 canonical: 13286-norvestor-best-sustainable-equity-investor-nordics-2025.json
 ---
