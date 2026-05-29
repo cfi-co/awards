@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524041524
+wayback_snapshot_url: "http://web.archive.org/web/20260524041524/https://cfi.co/awards/industries/2016/dorsum-most-innovative-financial-software-provider-cee-2016/"
 content_sha256: 749b2bfed5401680348bf491b4a17b6a54da12e832119f71e379cfb734f54674
 canonical: 3591-dorsum-most-innovative-financial-software-provider-cee-2016.json
 ---

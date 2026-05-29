@@ -23,12 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260524041524",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260524041524/https://cfi.co/awards/industries/2016/dorsum-most-innovative-financial-software-provider-cee-2016/"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter  wp-image-3592\" src=\"https://cfi.co/awards/wp-content/uploads/2016/11/Dorsum.jpg\" alt=\"dorsum\" width=\"246\" height=\"246\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Just like retail brokerage and professional trading before, wealth management is now moving online. Increasingly, high-net-worth individuals demand a safe online environment in which to manage their assets and plan the future. Offering improved yields and tax advantages, online wealth managers leverage the power of precision tools to obtain results previously available only to large teams of dedicated specialists and seasoned analysts.</strong></p>\r\n<p style=\"text-align: justify;\">Dorsum Investment Software, established in 1996 and now a market leader in Central and Eastern Europe, is at the forefront of this trend, if not driving the move.  With leading-edge solutions that now include Virtual Advice, a unique mobile that combine the strengths of human and automated advisory, Dorsum helps its clients provide a modern user experience that can go head to head with robo advisors and engage the younger generation. With a fully-featured wealth management platform, Dorsum is committed to help digitize the wealth management industry. With a broad product portfolio, Dorsum is widely recognised – and lauded – for its innovative approach to the software that underpins the financial services industry.</p>\r\n<p style=\"text-align: justify;\">Wealth managers are offered a client acquisition tool that produces client-specific solutions and showcases the power of Dorsum’s software. The company’s Wealth Management Platform is, essentially, a wealth management business in the proverbial box: the package features next-generation functionality and allows managers to strongly engage with customers and ensure regulatory compliance.</p>\r\n<p style=\"text-align: justify;\">The CFI.co judging panel congratulates the company on its novel, yet well-grounded, approach to software for the financial services industry. The judges declare Dorsum Investment Software winner of the 2016 Most Innovative Financial Software Provider CEE Award.</p>",
     "content_sha256": "749b2bfed5401680348bf491b4a17b6a54da12e832119f71e379cfb734f54674",
-    "record_sha256": "ad754b9c7548a19bfc51b235eb8f0fd7034d1c45dd03a7a9d03d9675d3f96d20"
+    "record_sha256": "2b54261e996b9a8d84f403d161c3df46d3c996ab66509733df56feaef9392664"
 }
