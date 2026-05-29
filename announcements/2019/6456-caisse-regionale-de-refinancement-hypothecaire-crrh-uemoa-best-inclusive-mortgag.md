@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260525062409
+wayback_snapshot_url: "http://web.archive.org/web/20260525062409/https://cfi.co/awards/front/2019/caisse-regionale-de-refinancement-hypothecaire-crrh-uemoa-best-inclusive-mortgage-finance-impact-west-africa-2018/"
 content_sha256: 93d379f455a9eaaa07e507a31fa3ac3089ad19fd3277af2f891c167e3181e637
 canonical: 6456-caisse-regionale-de-refinancement-hypothecaire-crrh-uemoa-best-inclusive-mortgag.json
 ---
