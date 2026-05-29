@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: e27166d2db7d6849850da869c323505645ab68675abf2c0b6390ce05c9e5e181
 canonical: 10781-nlb-d-d-nova-ljubljanska-banka-best-sustainable-banking-solutions-slovenia-2022.json
 ---
