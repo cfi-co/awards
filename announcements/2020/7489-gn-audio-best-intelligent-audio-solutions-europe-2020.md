@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260526041852
+wayback_snapshot_url: "http://web.archive.org/web/20260526041852/https://cfi.co/awards/industries/2020/gn-audio-best-intelligent-audio-solutions-europe-2020/"
 content_sha256: 61f717990ac780340fe69ac539378d6affda5425df2e51fb912bdaa92ff5c8d3
 canonical: 7489-gn-audio-best-intelligent-audio-solutions-europe-2020.json
 ---
