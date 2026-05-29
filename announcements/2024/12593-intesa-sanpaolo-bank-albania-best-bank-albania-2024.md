@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: bb5855db84830439c40524f4e51f8ef469ee800633a319a82fc29c8444812dfb
 canonical: 12593-intesa-sanpaolo-bank-albania-best-bank-albania-2024.json
 ---
