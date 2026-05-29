@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260528042134
+wayback_snapshot_url: "http://web.archive.org/web/20260528042134/https://cfi.co/awards/europe/2022/co-op-legal-services-best-estate-administration-probate-services-provider-uk-2022/"
 content_sha256: bcc28edd6ab1dd281128870cfa783651284995d1fa7f718b8d8f2429ba7d938f
 canonical: 11157-co-op-legal-services-best-estate-administration-probate-services-provider-uk-202.json
 ---
