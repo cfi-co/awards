@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525053743
+wayback_snapshot_url: "http://web.archive.org/web/20260525053743/https://cfi.co/awards/front/2018/assupol-best-life-assurer-southern-africa-2018/"
 content_sha256: 951cf3c84aa9db0463b4eb1fa1f3cb9d6cde893a766eecf20a47da270869483c
 canonical: 5926-assupol-best-life-assurer-southern-africa-2018.json
 ---
