@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525050928
+wayback_snapshot_url: "http://web.archive.org/web/20260525050928/https://cfi.co/awards/africa/2017/the-access-bank-uk-best-africa-trade-finance-bank-2017/"
 content_sha256: cb3a9200f4befddadeb0d3323c3406bd17c0cfddc03a2117273b7936afa573ac
 canonical: 4965-the-access-bank-uk-best-africa-trade-finance-bank-2017.json
 ---
