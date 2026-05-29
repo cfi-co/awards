@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 21fd86757634c89d0b22535d93c3b032fc084bd8a326a770f63d0ac21ffff639
 canonical: 9737-share-now-best-mobility-innovation-europe-2021.json
 ---
