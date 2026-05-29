@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260525074223
+wayback_snapshot_url: "http://web.archive.org/web/20260525074223/https://cfi.co/awards/europe/2020/neuhaus-best-luxury-goods-customer-satisfaction-benelux-2020/"
 content_sha256: 90f93e1bb395012057fd15b0a67e221737b7e97bb7c3b13340ff28f636d46772
 canonical: 7390-neuhaus-best-luxury-goods-customer-satisfaction-benelux-2020.json
 ---
