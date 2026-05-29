@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260528040259
+wayback_snapshot_url: "http://web.archive.org/web/20260528040259/https://cfi.co/awards/middle-east/2022/kuwait-international-bank-best-sharia-compliant-bank-mena-2021/"
 content_sha256: 2c2303fa4cd05437ecfdaab5b91289a7efcbe052e2fc311180f40e78d47c2d6a
 canonical: 10101-kuwait-international-bank-best-sharia-compliant-bank-mena-2021.json
 ---
