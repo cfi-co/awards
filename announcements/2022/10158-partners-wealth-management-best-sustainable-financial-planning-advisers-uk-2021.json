@@ -26,12 +26,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10160\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/PWM_LOGO_CMYK.jpg\" alt=\"Partners Wealth Management\" width=\"600\" height=\"26\" />\r\n<p style=\"text-align: justify;\">Partners Wealth Management (PWM), founded in 2004, seeks to build long-term, mutually beneficial relationships with team members, external groups and clients. It takes a partnership approach to financial advisory, listening carefully to client objectives and tailoring services to meet their needs. The firm has experienced steady growth, working now with more than 40 groups and overseeing some £2.5bn in client assets. It builds lifelong partnerships with clients, driving returns through investment independence and innovation while pulling from an extensive network of private offices to cover every potential financial need of clients. Partners Wealth Management is one of the UK’s largest independent advisors, promising unbiased and knowledgeable financial counsel. The firm seeks to create positive impacts by educating clients on responsible and sustainable investment opportunities. Partners Wealth Management has been praised for its efforts to bring pensions and portfolios under the auspices of responsible investing — assisting clients to deploy their capital for good. It developed the PWM Green Matrix to filter thousands of sustainable investments, using its own methodology to create a bespoke green investment footprint matching clients’ sustainability aspirations. It engages with fund managers and portfolio companies to accelerate change. It brings people together in sustainable investing forums to promote knowledge sharing and collaboration. The firm also conducts fundraising for local charities and organises finance courses for young people. The CFI.co judging panel presents Partners Wealth Management with the 2021 award for Best Sustainable Financial Planning Advisers (UK).</p>",
     "content_sha256": "7e9bdf32c6ea5098c0c5aa48e00c375160f023b5761efff0efc86eced0a13734",
-    "record_sha256": "cdee239c72894929f1c9d3810bd3c4e2492bca1e08e3f06bbd2598e2986c02ab"
+    "record_sha256": "397ad0fee2b8eadd34978ec0dca7dc8dc4f9d11e1951b7d9b73b37d6859ef686"
 }
