@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260528042743
+wayback_snapshot_url: "http://web.archive.org/web/20260528042743/https://cfi.co/awards/banking/2023/recognise-bank-best-digital-sme-lending-bank-uk-2023/"
 content_sha256: 4249a8365a9fa98f357a58412283d5efefbe203b053c1c56653da6deb87ef8e8
 canonical: 11605-recognise-bank-best-digital-sme-lending-bank-uk-2023.json
 ---

@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260528042743",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260528042743/https://cfi.co/awards/banking/2023/recognise-bank-best-digital-sme-lending-bank-uk-2023/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11606\" src=\"https://cfi.co/awards/wp-content/uploads/2023/07/Recognise-Bank-jpg.webp\" alt=\"Recognise Bank\" width=\"500\" height=\"104\" />\r\n<p style=\"text-align: justify;\">Recognise Bank challenges the status quo with a tech-enabled offering of flexible financing and competitive savings solutions. The bank’s entrepreneurial founders understand the needs of modern SMEs — needs that are often left wanting by the outdated tech infrastructure of traditional business banking. Recognise Bank markets itself as an agile and responsive alternative to big-bank dominated SME lending. It deploys proactive professionals to drive momentum and ensure the customer remains central across all decision-making processes. Recognise Bank offers business financing products, such as commercial mortgages, bridging loans and professional buy-to-let loans. It provides savings accounts for businesses and individuals, featuring competitive rates and reassuring guarantees. Client funds are FSCS-protected up to £85,000. In April 2023, the bank increased the annual equivalent rate by 0.25 percent across all business and personal savings variable products. As of February 2023, Recognise Bank reported £200m in deposits and £115m in loans. It recently announced new strategic partnerships expected to shorten valuation turnaround times, enhance broker confidence and deliver a more personalised banking experience. Recognise Bank has ambitious growth plans following a £25m capital injection this March, bringing the total raised over the past five years to £95m in funding. The latest infusion of cash will cover more loans — which typically run between £500,000 to £5m — and fuel the development of asset finance products slated for launch later this year. The CFI.co judging panel presents Recognise Bank with the 2023 award for Best Digital SME Lending Bank (UK).</p>",
     "content_sha256": "4249a8365a9fa98f357a58412283d5efefbe203b053c1c56653da6deb87ef8e8",
-    "record_sha256": "3c35030729fb203f9f719bac45cd6e32a96ec500564c4f15839f451973a8f991"
+    "record_sha256": "4967c4af64537d221f7235bd2f647d2f7b0a3b297b9c6dc0169cb71f890fc0b4"
 }
