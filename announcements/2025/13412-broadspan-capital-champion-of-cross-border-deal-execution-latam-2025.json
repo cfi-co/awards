@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6797\" src=\"https://cfi.co/awards/wp-content/uploads/2019/06/BroadSpan.jpg\" alt=\"BroadSpan\" width=\"421\" height=\"120\" />\r\n<p style=\"text-align: justify;\">BroadSpan Capital has built a distinguished reputation as a premier independent investment banking firm focused on delivering sophisticated cross-border advisory solutions throughout Latin America and the Caribbean. Founded nearly 25 years ago, the firm has strategically positioned itself with a regional footprint, including offices in Miami, Mexico, Colombia, and Brazil, supported by a network of partner firms across 17 countries. This connectivity enables BroadSpan to offer clients boutique-style attention while replicating the execution capabilities of larger financial institutions. With a team composed of former senior bankers from major global firms, BroadSpan provides a level of execution expertise and senior-level involvement that sets it apart from mid-sized competitors. The firm has executed recent landmark transactions, including the sale of a regional food service distribution business to a leading US group, the sale of a Brazilian logistics company to a Danish acquirer, and the restructuring of an international syndicated loan related to a power project in Peru. BroadSpan's client-centric model places emphasis on cross-border reach, evidenced by its ability to engage potential buyers and investors across diverse markets. Beyond M&amp;A advisory, the firm continues to manage one of the leading restructuring advisory practices in the region, and is expanding its asset management offerings as well. Strategically, BroadSpan is investing in major markets such as Brazil and Mexico, while also capitalizing on growth opportunities in countries like Ecuador. BroadSpan’s active involvement in sovereign restructuring across the region combined with specialized transaction capabilities has positioned the firm as a resource for multilateral and development finance institutions, as well as private corporations. The Capital Finance International (CFI.co) judging panel congratulates BroadSpan Capital on winning the 2025 award for Champion of Cross-Border Deal Execution (LATAM).</p>",
     "content_sha256": "dc51154e07c0bc0a313e4de8950fc3be465efe43923a2b6bb0cf47032a31a54c",
-    "record_sha256": "17cfbb952c2b04baf07566df41047524d7db53de1facd91797271f174678e9fd"
+    "record_sha256": "25b9734f53f2e7267f84511b397583d58f836394c7cc6e1eab61c2d0209eae9a"
 }
