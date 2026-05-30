@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260529035551
+wayback_snapshot_url: "http://web.archive.org/web/20260529035551/https://cfi.co/awards/banking/2022/nlb-d-d-nova-ljubljanska-banka-best-sustainable-banking-solutions-slovenia-2022/"
 content_sha256: e27166d2db7d6849850da869c323505645ab68675abf2c0b6390ce05c9e5e181
 canonical: 10781-nlb-d-d-nova-ljubljanska-banka-best-sustainable-banking-solutions-slovenia-2022.json
 ---
