@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 317752a37a97eee4606ff8430e43147ac926330a9f0338bfc15e9c6df0d042d2
 canonical: 10127-kathrein-privatbank-best-private-banking-solutions-austria-2021.json
 ---
