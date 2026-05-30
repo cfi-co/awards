@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260528041325
+wayback_snapshot_url: "http://web.archive.org/web/20260528041325/https://cfi.co/awards/europe/2022/dpm-finanzas-best-independent-financial-advisory-team-spain-2022/"
 content_sha256: f6fba3074ddbf098e2ba59187c9254cdac3f1a912fed161e50a8a54b244ea473
 canonical: 10440-dpm-finanzas-best-independent-financial-advisory-team-spain-2022.json
 ---
