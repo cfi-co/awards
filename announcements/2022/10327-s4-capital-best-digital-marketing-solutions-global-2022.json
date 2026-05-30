@@ -21,12 +21,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10328\" src=\"https://cfi.co/awards/wp-content/uploads/2022/04/S4-Capital.jpg\" alt=\"S4 Capital\" width=\"130\" height=\"179\" />\r\n<p style=\"text-align: justify;\">S4 Capital takes brand messaging to market - faster, better, cheaper - with a disruptive \"Holy Trinity\" operation model. The company, which was founded by Sir Martin Sorrell and went public in September 2018, has 57 talent hubs in 33 countries and a $2.5B market cap. S4 Capital works with some of the biggest names in business - from Google and Amazon to PayPal and T-Mobile - marketing itself as a digital investment manager that can master the current digital marketing landscape and track the headwinds of future trends. S4 Capital aims to disrupt century-old marketing practices with a completely digital approach that capitalises on the 24/7 rhythm of the modern world. The media market in 2021 totalled about $750bn, 60 percent of which came from digital revenues - and forecasts predict a 20 percent increase in the market and over 10 percent increase in digital’s share by 2025. S4 Capital expects the advertising and marketing markets to grow faster than a country's GDP, fuelled almost totally by data-driven digital advertising models. In S4 Capital's \"Holy Trinity” business model, data informs the creation, production and distribution of content in an ever-evolving digital media loop. It's agile in an always-on world, which has proven critical even in turbulent times, and monitors the market's ebb and flow by following a key selection of digital platforms, software and hardware companies. S4 Capital offers its services under one unified operational brand: Media.Monks. The CFl.co judging panel announces S4 Capital as the 2022 global award winner for Best Digital Marketing Solutions.</p>",
     "content_sha256": "c515012ca6291072b6b29ae342e79a4df53e2746a604c1ff1fef4e2eb77ab4d7",
-    "record_sha256": "a981161ef5bfa1d5d4a9b365ac503dec5fa9c02c015e1de2b882a1d36f988e3a"
+    "record_sha256": "cc41aca77463113a80cceaa10a64192b07bcffcd6c8ca9eac21c50ce377f4bbd"
 }
