@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: bc9d06ad110eb220b6c7b2e1f4e2451a5bb481e8528ab1871638fc80d64bec50
 canonical: 13422-tunis-international-bank-tib-best-international-banking-partner-tunisia-2025.json
 ---
