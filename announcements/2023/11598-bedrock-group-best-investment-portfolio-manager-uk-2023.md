@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260527044640
+wayback_snapshot_url: "http://web.archive.org/web/20260527044640/https://cfi.co/awards/europe/2023/bedrock-group-best-investment-portfolio-manager-uk-2023/"
 content_sha256: 3a5e2ae11323e9e580ffb85e1d8839ed07b229bfe30efa0470387ccda6c32274
 canonical: 11598-bedrock-group-best-investment-portfolio-manager-uk-2023.json
 ---
