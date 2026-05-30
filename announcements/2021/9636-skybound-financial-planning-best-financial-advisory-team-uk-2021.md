@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260529034619
+wayback_snapshot_url: "http://web.archive.org/web/20260529034619/https://cfi.co/awards/europe/2021/skybound-financial-planning-best-financial-advisory-team-uk-2021/"
 content_sha256: 35745872beae604c6d77e1322ee712bb5544c576f3ce454a7f213180bfdcb3c6
 canonical: 9636-skybound-financial-planning-best-financial-advisory-team-uk-2021.json
 ---
