@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: efa01aedaf44c43dd03a53599c3367b8a26c3b1a674e81b1c832a538c94e9f12
 canonical: 13404-trading-com-top-broker-for-commission-free-share-investing-europe-2026.json
 ---
