@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260529034805
+wayback_snapshot_url: "http://web.archive.org/web/20260529034805/https://cfi.co/awards/middle-east/2022/kuwait-international-bank-best-banking-vision-mena-2021/"
 content_sha256: db9034aad2113f183fd25db920ea7fb365126a685df5381138ef06a35eabc920
 canonical: 10099-kuwait-international-bank-best-banking-vision-mena-2021.json
 ---
