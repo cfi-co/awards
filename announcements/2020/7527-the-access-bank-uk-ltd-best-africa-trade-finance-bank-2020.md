@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260529033552
+wayback_snapshot_url: "http://web.archive.org/web/20260529033552/https://cfi.co/awards/africa/2020/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2020/"
 content_sha256: e30e727449293d0126fb3835dc03f7d60d1d751cdef6a3ad0dcebc5bca0fab31
 canonical: 7527-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2020.json
 ---
