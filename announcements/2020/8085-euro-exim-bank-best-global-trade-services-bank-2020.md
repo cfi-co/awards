@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260529034049
+wayback_snapshot_url: "http://web.archive.org/web/20260529034049/https://cfi.co/awards/europe/2020/euro-exim-bank-best-global-trade-services-bank-2020/"
 content_sha256: c622ba57d6dbfccd7f13ac7ef4b03da5770bbce863aef03bef24cc2767f0df49
 canonical: 8085-euro-exim-bank-best-global-trade-services-bank-2020.json
 ---
