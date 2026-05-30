@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260528044329
+wayback_snapshot_url: "http://web.archive.org/web/20260528044329/https://cfi.co/awards/banking/2024/intesa-sanpaolo-bank-albania-best-bank-albania-2024/"
 content_sha256: bb5855db84830439c40524f4e51f8ef469ee800633a319a82fc29c8444812dfb
 canonical: 12593-intesa-sanpaolo-bank-albania-best-bank-albania-2024.json
 ---
