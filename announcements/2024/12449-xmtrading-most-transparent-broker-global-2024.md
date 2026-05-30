@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 47c7c84105b468fa3a43076fce5720aed1c1fd8f9146a770aa01e6bfcbb3f3e8
 canonical: 12449-xmtrading-most-transparent-broker-global-2024.json
 ---
