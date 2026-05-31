@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 16fe40c4b0720b27bc85ab037e961cb1461a7a5adedb7285fa707a931849249f
 canonical: 12154-smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-a.json
 ---
