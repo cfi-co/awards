@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 33b4ea8dfd952af434fe4360e040ecb6471b4ab522dc40ca6d3b996e6965f1bb
 canonical: 9257-hmv-engineering-most-innovative-energy-services-provider-europe-2020.json
 ---
