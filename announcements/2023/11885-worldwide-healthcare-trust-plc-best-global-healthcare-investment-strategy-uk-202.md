@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: c00e954c5af7b0d7ac931f1d3e4019222312efd5ceb5b8dc3ad25f10821828fb
 canonical: 11885-worldwide-healthcare-trust-plc-best-global-healthcare-investment-strategy-uk-202.json
 ---
