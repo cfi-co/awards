@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: f824c3c85b59601430f08beadd68b29e8cbd4ccd7af493caed02f294cbbd4f02
 canonical: 9159-hotforex-best-market-research-and-education-global-2021.json
 ---
