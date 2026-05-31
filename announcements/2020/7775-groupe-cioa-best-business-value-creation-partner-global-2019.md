@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: dea16f1a5fab72cc145b343eda555c3320cc5231446c39985be898c4d7883395
 canonical: 7775-groupe-cioa-best-business-value-creation-partner-global-2019.json
 ---
