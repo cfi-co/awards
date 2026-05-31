@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260528043935",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260528043935/https://cfi.co/awards/professional-services/2024/united-financial-investments-ufico-market-leadership-in-financial-advisory-services-jordan-2024/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12422\" src=\"https://cfi.co/awards/wp-content/uploads/2024/06/UFICO-jpg.webp\" alt=\"UFICO\" width=\"500\" height=\"175\" />\r\n<p style=\"text-align: justify;\">United Financial Investments (UFICO) has solidified its position as a leader in Jordan's financial advisory sector through a strategic focus on innovation and market consolidation. Established in the late 1980s, UFICO has consistently adapted to the evolving financial landscape, ensuring its services remain relevant and comprehensive. Under the current CEO, the company has pursued significant growth through three major acquisitions in the past two years, expanding its shareholder base and service capabilities. These strategic moves have enabled UFICO to become the largest financial services provider in Jordan, enhancing its offerings in corporate finance and brokerage services. Notably, the company has led the issuance of $275m in bonds, a significant achievement in the Jordanian market, alongside assisting private companies with debt and equity placements. UFICO has also embraced technological advancements, implementing online onboarding solutions and preparing to launch innovative financial products tailored to the Jordanian market. The company prides itself on a diverse team with extensive experience, and it has made substantial commitments to corporate social responsibility. Recent initiatives include the launch of an international trading application, facilitated by a strategic acquisition to obtain the necessary licensing. With a solid team and a forward-thinking approach, UFICO is well-positioned to navigate the future of financial advisory services in Jordan, ensuring continuous growth and maximising client satisfaction. The CFI.co Judging Panel congratulates United Financial Investments on its progress and winning the 2024 award for Market Leadership in Financial Advisory Services (Jordan).</p>",
     "content_sha256": "da8a2ad484b7aef90096820724d9607ccbdcaf80dbe09e9542130a13b93a963d",
-    "record_sha256": "495b93fc1c7b1c14579d94da18fb6658fc47ca4049e886a64d945f85226d5c21"
+    "record_sha256": "75808ea00ead5c90d89208d7c6e26c34de1e870c4755ba8c6f872675e670ad6f"
 }

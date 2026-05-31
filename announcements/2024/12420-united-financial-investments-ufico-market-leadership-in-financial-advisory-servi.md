@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260528043935
+wayback_snapshot_url: "http://web.archive.org/web/20260528043935/https://cfi.co/awards/professional-services/2024/united-financial-investments-ufico-market-leadership-in-financial-advisory-services-jordan-2024/"
 content_sha256: da8a2ad484b7aef90096820724d9607ccbdcaf80dbe09e9542130a13b93a963d
 canonical: 12420-united-financial-investments-ufico-market-leadership-in-financial-advisory-servi.json
 ---
