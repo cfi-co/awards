@@ -23,12 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260530034526",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260530034526/https://cfi.co/awards/europe/2026/suade-labs-excellence-in-regulatory-reporting-automation-uk-2025/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13378\" src=\"https://cfi.co/awards/wp-content/uploads/2026/04/Suade.jpg\" alt=\"Suade\" width=\"539\" height=\"196\" />\r\n<p style=\"text-align: justify;\">Suade Labs merits recognition for translating a post-crisis mission into disciplined execution that measurably reduces regulatory-reporting risk, cost and fragility for banks. The Panel notes over a decade-long track record, founded in 2014, of tackling the hardest constraint in prudential reporting: data quality and lineage at scale, rather than superficial workflow automation. The Suade platform provides clients with transparency, traceability, and auditability for their regulatory reports. Suade offers a modern user interface that brings all of this functionality into a single platform for firms to use, as well as an open API framework that enables firms to fully automate their regulatory reporting processes. Its development of FIRE as an open-source data standard demonstrates governance-minded leadership, prioritising interoperability, and auditability over vendor lock-in, and aligning with supervisory expectations for transparent, traceable submissions. In 2024, Suade strengthened its proposition through targeted enhancements in data interoperability and preparation for Basel III endgame modules, evidencing strategic clarity in anticipating the January 2027 Basel III implementation horizon while delivering near-term value. Operational credibility is reinforced by sustained global adoption and regulator engagement, including relationships with the Bank of England and the European Central Bank, signalling maturity in stakeholder management and an ability to operate within stringent assurance requirements. Suade's British Embassy Award for Driving UK Innovation in Spain in 2024 indicates exportable capability and resilience in scaling beyond its home market, even amid shifting supervisory priorities. Client outcomes with multiple jurisdictional implementations, highlighting repeatable delivery across entities and regimes. Collectively, these factors show differentiated architecture, prudent product stewardship, and consistent delivery under regulatory change. The Capital Finance International (CFl.co) Judging Panel congratulates Suade Labs on winning the Excellence in Regulatory-Reporting Automation UK 2025 Award (United Kingdom).</p>",
     "content_sha256": "64464793c9aa51613f7b4a10c010082fa3550164f6e21d8234dad3e57a452e0c",
-    "record_sha256": "fb1af7e6d81fa5e53e295025211e70063bc8d31707338ce4c71b0f8246976de3"
+    "record_sha256": "1489044c9a911b6166bc2a6730f01de5763a27a6ac77aace2ca6fe2fce040682"
 }

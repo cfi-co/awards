@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260530034526
+wayback_snapshot_url: "http://web.archive.org/web/20260530034526/https://cfi.co/awards/europe/2026/suade-labs-excellence-in-regulatory-reporting-automation-uk-2025/"
 content_sha256: 64464793c9aa51613f7b4a10c010082fa3550164f6e21d8234dad3e57a452e0c
 canonical: 13376-suade-labs-excellence-in-regulatory-reporting-automation-uk-2025.json
 ---
