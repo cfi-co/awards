@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260531033632
+wayback_snapshot_url: "http://web.archive.org/web/20260531033632/https://cfi.co/awards/finance/2021/hotforex-best-market-research-and-education-global-2021/"
 content_sha256: f824c3c85b59601430f08beadd68b29e8cbd4ccd7af493caed02f294cbbd4f02
 canonical: 9159-hotforex-best-market-research-and-education-global-2021.json
 ---
