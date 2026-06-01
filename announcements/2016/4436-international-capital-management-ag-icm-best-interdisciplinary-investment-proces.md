@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260524044625
+wayback_snapshot_url: "http://web.archive.org/web/20260524044625/https://cfi.co/awards/europe/2016/international-capital-management-ag-icm-best-interdisciplinary-investment-process-central-europe-2016/"
 content_sha256: 40f54bfabcc0e47c4e298663aa6cf384bb1f4ea9652c14bb2db00fd23365ca0a
 canonical: 4436-international-capital-management-ag-icm-best-interdisciplinary-investment-proces.json
 ---
