@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 94ba4165cc7fa6199e5fc3f6661f161be6f52063a835b4c14c6d3856c8cd3cc9
 canonical: 8688-commerzbank-best-universal-banking-services-germany-2020.json
 ---
