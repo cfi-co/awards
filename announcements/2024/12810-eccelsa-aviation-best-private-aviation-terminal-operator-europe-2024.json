@@ -23,12 +23,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
+        "wayback_status": "submitted_pending",
         "wayback_first_snapshot": "",
         "wayback_snapshot_url": ""
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7780\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Ecclesa.jpg\" alt=\"Eccelsa Aviation\" width=\"400\" height=\"128\" />\r\n<p style=\"text-align: justify;\">Eccelsa Aviation, established in 2002, operates the sole Fixed Base Operation (FBO) in Olbia, Sardinia, and has distinguished itself through exemplary service to passengers and customers. The company has consistently invested in personnel and equipment to ensure the highest standards for all aircraft and passengers selecting Northern Sardinia as their destination. Eccelsa Aviation's dedicated terminal was meticulously designed to offer comfort, safety, security, and practicality, catering to the specific needs of its users. The team, comprising 55 highly trained professionals, provides round-the-clock service, ensuring that all requests are met, and that no arrival or departure is denied, even during peak periods when up to 200 private jet movements are experienced daily. This operational capability is unique within the Mediterranean and European regions, reflecting the company's commitment to excellence. Eccelsa Aviation's ability to handle private aviation traffic without limitations or airport restrictions is testament to its superior management and service quality. The company's dedication to the highest service standards ensures a seamless and efficient experience for all, contributing to the region's attractiveness as a premier holiday destination. The team’s attention to detail and customer-focused approach extends to offering bespoke services such as a concierge service and luxury transportation. The team’s commitment to service excellence and operational efficiency has solidified Eccelsa Aviation's reputation as a leader in the private aviation industry, consistently surpassing expectations. The CFI.co Judging Panel congratulates Eccelsa Aviation on winning the 2024 award for Best Private Aviation Terminal Operator (Europe).</p>",
     "content_sha256": "e0b09c9e01c200ab683e038bb5710068cce9c170557398d7222c7e83369b1e07",
-    "record_sha256": "0fe84d13c0ddcc66f43e63d2af2978f49fae18bcf8f76ec1ca0f2c0b121aae9c"
+    "record_sha256": "6baa4eb0845e96d508e35d14fd7a8a109cae6b7d1b0f4764b44e9da421dd79d7"
 }
