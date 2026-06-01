@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260531034731
+wayback_snapshot_url: "http://web.archive.org/web/20260531034731/https://cfi.co/awards/finance/2025/bedrock-group-best-investment-portfolio-manager-united-kingdom-2025/"
 content_sha256: 418e2568139cc5b4a39b40fd132d4f11dbcf6c87516d6acaa289f064da81854e
 canonical: 13262-bedrock-group-best-investment-portfolio-manager-united-kingdom-2025.json
 ---
