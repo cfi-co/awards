@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260531034310
+wayback_snapshot_url: "http://web.archive.org/web/20260531034310/https://cfi.co/awards/europe/2023/psp-swiss-property-best-real-estate-portfolio-growth-strategy-switzerland-2023/"
 content_sha256: c4ee40cd77f3b03ab88c0c7498099d65f08f3edc2c70102793b70877e8675a5a
 canonical: 12117-psp-swiss-property-best-real-estate-portfolio-growth-strategy-switzerland-2023.json
 ---
