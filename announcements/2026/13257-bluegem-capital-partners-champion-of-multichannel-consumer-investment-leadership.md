@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: fdb5344d6ebd996abaea7ef3ee8db71689cba89d8a809cdcd3592b4c9e0fec61
 canonical: 13257-bluegem-capital-partners-champion-of-multichannel-consumer-investment-leadership.json
 ---
