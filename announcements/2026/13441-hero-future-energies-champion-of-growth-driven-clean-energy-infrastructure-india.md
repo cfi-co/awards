@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 content_sha256: 3957ee6d589350435ef24f36cce8c7c928366b5439f75167b4a2cc671983866b
 canonical: 13441-hero-future-energies-champion-of-growth-driven-clean-energy-infrastructure-india.json
 ---
