@@ -21,12 +21,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "submitted_pending",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260531033145",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260531033145/https://cfi.co/awards/finance/exchanges-brokers/2020/hotforex-best-client-services-global-2020/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7596\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/HotForex.jpg\" alt=\"HotForex\" width=\"400\" height=\"300\" />\r\n<p style=\"text-align: justify;\">HotForex is a unified brand name of the HF Markets Group and understands that business success comes from superior customer service and stellar teamwork. Over the past decade, HotForex has embodied the mandate spelled out in its moniker — HOT stands for honesty, openness and transparency. HF Markets Group employs more than 200 people globally, including a 45-strong in-house programming team dedicated to developing proprietary trading technology. The firm has been recognised with numerous industry awards, but it’s customer praise that delivers the most satisfaction and pride. Some two million live accounts have been opened by retail and institutional clients from 180 countries on the HotForex’s desktop, mobile and web trading platforms. The broker puts clients at the centre of operations and offers high-touch customer service, including phone and live chat support in 27 languages. Clients benefit from educational resources to sharpen their trading skills with an online programme covering the basics, an e-course in strategy, and free weekly webinars led by seasoned market analysts. HotForex provides smart tools and secure measures to empower clients and protect their funds. The HF Markets Group has made headway on a five-year expansion plan with recent authorisations from the UK FCA and Dubai DFSA, rounding-out its market penetration, which includes licences from the regulatory authorities of Cyprus, Mauritius, Seychelles and South Africa. The CFI.co judging panel presents HotForex with the 2020 award for Best Client Services (Global).</p>",
     "content_sha256": "675fe222b2aab92d798baa34d8fbab9e2c64fd160b8198842e57b02638b8012e",
-    "record_sha256": "8325282805c663a92adc847516b11ef3d0f194fa29b4f921fceeeed67aea7647"
+    "record_sha256": "5231fce1d12c9fe158ce5e45368d1948d2d966277be8bddd508ca29b65982477"
 }
