@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260602034450
+wayback_snapshot_url: "http://web.archive.org/web/20260602034450/https://cfi.co/awards/europe/2026/tge-polish-power-exchange-energy-market-exchange-excellence-champion-europe-2026/"
 content_sha256: bf29a2ff7848085859697d0280845fb737776e2196eca6994baf74b5866b5268
 canonical: 13386-tge-polish-power-exchange-energy-market-exchange-excellence-champion-europe-2026.json
 ---
