@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 4e3ec2ee249e987b8e761fe0dfa830796992d527d7d2cfdaec3bb48533aba745
 canonical: 10802-energean-best-esg-energy-growth-strategy-europe-2022.json
 ---
