@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: c835d80760379ca58de6f1c716ac409d4cac11ae9be6f2dea565d62937c8a7bf
 canonical: 13442-lattanzio-group-excellence-in-consultancy-led-transformation-europe-2025.json
 ---
