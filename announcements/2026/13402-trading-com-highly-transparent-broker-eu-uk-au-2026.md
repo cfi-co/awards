@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260602034456
+wayback_snapshot_url: "http://web.archive.org/web/20260602034456/https://cfi.co/awards/finance/exchanges-brokers/2026/trading-com-highly-transparent-broker-eu-uk-au-2026/"
 content_sha256: 840c02e6fd3897066dec37757c3af286a5b46fe4b60cb58f2085028941df164c
 canonical: 13402-trading-com-highly-transparent-broker-eu-uk-au-2026.json
 ---
