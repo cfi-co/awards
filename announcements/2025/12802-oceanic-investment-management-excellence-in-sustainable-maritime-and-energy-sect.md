@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260604033440
+wayback_snapshot_url: "http://web.archive.org/web/20260604033440/https://cfi.co/awards/best-practice/2025/oceanic-investment-management-excellence-in-sustainable-maritime-and-energy-sector-investments-2024/"
 content_sha256: 96e92ef957312a52ad76265f7eba62945f0d37dc27152083ddf119ca0e41d392
 canonical: 12802-oceanic-investment-management-excellence-in-sustainable-maritime-and-energy-sect.json
 ---
