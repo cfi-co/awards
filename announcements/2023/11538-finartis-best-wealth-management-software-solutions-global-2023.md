@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260604033149
+wayback_snapshot_url: "http://web.archive.org/web/20260604033149/https://cfi.co/awards/europe/2023/finartis-best-wealth-management-software-solutions-global-2023/"
 content_sha256: ba16b5f5a7aab540d51f809ae6eb0aae5f7b93dba04e7c0401ba8fd52cbd30f4
 canonical: 11538-finartis-best-wealth-management-software-solutions-global-2023.json
 ---
