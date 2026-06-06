@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260605033352
+wayback_snapshot_url: "http://web.archive.org/web/20260605033352/https://cfi.co/awards/best-practice/2024/national-bank-of-greece-best-corporate-governance-greece-2023/"
 content_sha256: 1d1e0182586bec620031b212128ef22e84c44c581ede3b2e4ebf13eb5483c8c6
 canonical: 12613-national-bank-of-greece-best-corporate-governance-greece-2023.json
 ---
