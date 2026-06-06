@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260602034041",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260602034041/https://cfi.co/awards/industries/technology/2024/trading-com-outstanding-low-cost-crypto-trading-eu-2024/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12742\" src=\"https://cfi.co/awards/wp-content/uploads/2024/12/Trading.com_-jpg.webp\" alt=\"Trading.com\" width=\"600\" height=\"104\" />\r\n<p style=\"text-align: justify;\"><a href=\"https://trading.com/\"><span style=\"text-decoration: underline;\">Trading.com</span></a> is dedicated to delivering affordable and accessible cryptocurrency trading through its diverse range of contracts for difference (CFDs). Offering 58 cryptocurrencies, including established options like Bitcoin (BTC) and Ethereum (ETH), as well as emerging digital assets, Trading.com provides ample opportunities for traders to diversify their portfolios. Its platforms, encompassing WebTrader, mobile applications, and MT5, ensure seamless trading experiences around the clock. Notable advantages include tight spreads and zero commission fees, allowing traders to optimise their returns. For novice investors, Trading.com provides a comprehensive suite of free educational resources, ranging from articles to tutorials, alongside a practice account to build skills in a risk-free environment. Seasoned traders also benefit from Trading.com's advanced tools, ensuring precision and efficiency in every transaction. The firm’s 24/5 customer support, available via email, phone, and live chat, underscores its commitment to client satisfaction. This is complemented by an extensive Glossary and Help Centre, offering users easy access to essential information and fostering confidence in trading decisions. The firm also ensures a seamless trading experience by integrating user-friendly interfaces with robust functionality, making it suitable for traders of all experience levels. Trading.com’s transparency, focus on education, and cost-effective solutions distinguish it in the competitive cryptocurrency trading market. Its commitment to innovation ensures it remains at the forefront of the industry, setting high standards in service delivery, platform reliability, and client support excellence. The CFI.co Judging Panel congratulates Trading.com on winning the 2024 award for Outstanding Low-Cost Crypto Trading (EU).</p>",
     "content_sha256": "e65e2b7b95d1da0bd50fc44ff355105d591f495ae18bc7c800a08f0cd35d6582",
-    "record_sha256": "267aac3fb84031f27cf8d18f8bf7f38b130b4464b8d6fa43caa11191aa4ab513"
+    "record_sha256": "9319bcaeac2b0ddf2daf4241b4e673588a421afc3a6034c198c0086348a1707a"
 }
