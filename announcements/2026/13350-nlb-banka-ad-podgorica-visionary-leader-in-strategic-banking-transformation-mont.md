@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: 27e0414e93909602125c5abeebed3fe328bdb7911314be1039d2dfa68f8bef20
 canonical: 13350-nlb-banka-ad-podgorica-visionary-leader-in-strategic-banking-transformation-mont.json
 ---
