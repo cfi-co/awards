@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 content_sha256: 103796b183fc57b47eb1bf434b583b81e630581e1a7b94eb747d1f10c3637ec7
 canonical: 13450-ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2026.json
 ---
