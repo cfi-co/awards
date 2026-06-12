@@ -1,0 +1,28 @@
+---
+id: 13461
+title: "EXIM Bank Malaysia: Excellence in Trade Connectivity & Market Access Asia 2026"
+award_year: 2026
+published: 2026-06-11 11:38:45
+published_gmt: 2026-06-11 10:38:45
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2026/exim-bank-malaysia-excellence-in-trade-connectivity-market-access-asia-2026/"
+categories: ["Asia Pacific", "Banking"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_check
+content_sha256: cce62a7fcc9755994d3ecff5b32c2c76c2c4bfb639de857f8fd6e7b020b207a8
+canonical: 13461-exim-bank-malaysia-excellence-in-trade-connectivity-market-access-asia-2026.json
+---
+
+# EXIM Bank Malaysia: Excellence in Trade Connectivity & Market Access Asia 2026
+
+> Verbatim archived copy. Canonical machine record: `13461-exim-bank-malaysia-excellence-in-trade-connectivity-market-access-asia-2026.json`.
+
+<img class="aligncenter size-full wp-image-13462" src="https://cfi.co/awards/wp-content/uploads/2026/06/EXIM-Malaysia.jpg" alt="EXIM Malaysia" width="500" height="208" />
+<p style="text-align: justify;">EXIM Bank Malaysia (Export-Import Bank of Malaysia Berhad) has strengthened Malaysia’s international trade footprint by building commercially relevant corridors across Africa, Central Asia, the Middle East and ASEAN, enabling exporters to compete more effectively in high-growth markets that were previously underpenetrated. Through its Malaysia Global Connect (MGC) initiative, the Bank has moved beyond export promotion by creating direct pathways between Malaysian businesses and overseas buyers, investors and institutions. EXIM Bank Malaysia has amplified the global visibility of Malaysian companies through active participation in international trade exhibitions including participation in Dubai, China, Japan and Algeria, while leveraging targeted business matching programmes and inbound delegations from markets such as South Africa and Saudi Arabia to convert these engagements into tangible commercial opportunities. EXIM Bank Malaysia has further reinforced market access through strategic alliances with global export credit agencies and multilateral institutions, including the Islamic Development Bank, Berne Union, Aman Union, China Exim, Turk Exim, Saudi Exim, Indonesia Exim and Export Finance Australia, strengthening resilience and expanding financing cooperation across multiple jurisdictions. The panel recognises the effectiveness of integrated support mechanisms such as Skim Eksport Lonjakan (ExL) and the MGC Go-Export Cover schemes, which combine financing with Shariah-compliant protection against commercial and political risks, allowing exporters to enter underserved and higher-risk markets with greater confidence. These initiatives collectively demonstrate strategic coordination between financing, risk mitigation and international partnership development for exporters globally. The Capital Finance International (CFI.co) Judging Panel congratulates EXIM Bank Malaysia (Export-Import Bank of Malaysia Berhad) on winning the Excellence in Trade Connectivity and Market Access 2026 Award (Asia).</p>
