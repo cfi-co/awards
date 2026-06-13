@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 content_sha256: cce62a7fcc9755994d3ecff5b32c2c76c2c4bfb639de857f8fd6e7b020b207a8
 canonical: 13461-exim-bank-malaysia-excellence-in-trade-connectivity-market-access-asia-2026.json
 ---
