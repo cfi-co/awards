@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 content_sha256: a4ae8763c088c12a65347f51ef66499f8ad4d37d1447da18589dc14470b0735a
 canonical: 13457-jasmin-capital-excellence-in-private-markets-secondary-advisory-europe-2026.json
 ---
