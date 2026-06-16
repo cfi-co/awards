@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260615033125
+wayback_snapshot_url: "http://web.archive.org/web/20260615033125/https://cfi.co/awards/banking/2026/exim-bank-malaysia-excellence-in-trade-connectivity-market-access-asia-2026/"
 content_sha256: cce62a7fcc9755994d3ecff5b32c2c76c2c4bfb639de857f8fd6e7b020b207a8
 canonical: 13461-exim-bank-malaysia-excellence-in-trade-connectivity-market-access-asia-2026.json
 ---
