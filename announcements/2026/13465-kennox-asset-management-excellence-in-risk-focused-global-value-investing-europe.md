@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 content_sha256: fb600018af755c23dfbad26055426612b777a61f37c651b63eaaeb950be2bd18
 canonical: 13465-kennox-asset-management-excellence-in-risk-focused-global-value-investing-europe.json
 ---
