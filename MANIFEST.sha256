@@ -4734,10 +4734,10 @@ eb1cdd3ee15e912fbe3ea769d3ed08a73377ad2892294b7b3a0b1d0527e55fe3  announcements/
 d960e6a3f899f7515bb0e4103a4808a544381d8103bfa93dc12ca6fb75559b58  announcements/2026/13461-exim-bank-malaysia-excellence-in-trade-connectivity-market-access-asia-2026.md
 f3668be645def4b53452b792b809f6073106c2eb18d3ec8c2af91bb542cf5f99  announcements/2026/13465-kennox-asset-management-excellence-in-risk-focused-global-value-investing-europe.json
 5153fbba73861347716d31261d9b8b4cec723967cf9aa49a954b452bbedf50dc  announcements/2026/13465-kennox-asset-management-excellence-in-risk-focused-global-value-investing-europe.md
-d4d468d3e042d482f7c50b3a3fccee2620a5de763eacb3f6633d437525b20255  announcements/2026/13470-royal-london-asset-management-leader-in-net-zero-stewardship-europe-2026.json
-7c5846fedcc6e1f972047f2f2ff084da9efc062e09fb2d46c228a3554849b9d5  announcements/2026/13470-royal-london-asset-management-leader-in-net-zero-stewardship-europe-2026.md
-0fc29badfd6922f0d98d3b0be2f4af6ee47ad63fb239258f1bef056f2cbfe84c  announcements/2026/13474-azer-turk-bank-atb-green-banking-sustainability-pioneer-azerbaijan-2026.json
-1b20c3f311ffbcf07fecf31bd32ad841512868c838161ab9a1933aba76f30b02  announcements/2026/13474-azer-turk-bank-atb-green-banking-sustainability-pioneer-azerbaijan-2026.md
+e9be99c527700b0bec4d150779b3b2711217eaff479d6c7cc6b02064bbc03c85  announcements/2026/13470-royal-london-asset-management-leader-in-net-zero-stewardship-europe-2026.json
+54cdb44568fb2cd3d5ad9f4028f163e77d6eb86451468e19ed330797b611300e  announcements/2026/13470-royal-london-asset-management-leader-in-net-zero-stewardship-europe-2026.md
+a0599f6fe65f3d8209b0ad9f4b68b79848e17d8cd0a065d8c9ef7094c7bd0d0f  announcements/2026/13474-azer-turk-bank-atb-green-banking-sustainability-pioneer-azerbaijan-2026.json
+29e4c6a74d2218960ab3ad4df81745a702409c741c4268963d95a2c7dacbda30  announcements/2026/13474-azer-turk-bank-atb-green-banking-sustainability-pioneer-azerbaijan-2026.md
 5c476f5fcdb430dcad3e0ea719e7e6813e443442b9e890744896db72de74ef62  scripts/commit.sh
 9797f8e689f5f6b92916d03832ed6cde788f9a2597e99e449e053e8fccfab0a1  scripts/export.php
 280dceea9fa442cb93283a2a5db25df5fcdc42b0dc85480f97695bd3aaf51524  scripts/gh-app-token.php
