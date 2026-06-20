@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260619033028
+wayback_snapshot_url: "http://web.archive.org/web/20260619033028/https://cfi.co/awards/finance/2026/royal-london-asset-management-leader-in-net-zero-stewardship-europe-2026/"
 content_sha256: ef5f3a185abf661b26123604a7eb5b4073ffe36b1e53eb9c5f60dfc57c8254b4
 canonical: 13470-royal-london-asset-management-leader-in-net-zero-stewardship-europe-2026.json
 ---
