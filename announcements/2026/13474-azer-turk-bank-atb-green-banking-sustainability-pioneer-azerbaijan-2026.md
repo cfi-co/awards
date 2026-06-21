@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 content_sha256: ec00f0e17989dba01d35830515670340c7e4321777b84880284de2de315f4edd
 canonical: 13474-azer-turk-bank-atb-green-banking-sustainability-pioneer-azerbaijan-2026.json
 ---
