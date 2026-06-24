@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 content_sha256: 5bd622bab9bcb77f70a23ca160e9a85e9785c6c1208651843311dedaede0dbe2
 canonical: 13479-zain-kuwait-5g-advanced-network-innovation-leader-gcc-2026.json
 ---
