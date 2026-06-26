@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260625033124
+wayback_snapshot_url: "http://web.archive.org/web/20260625033124/https://cfi.co/awards/africa/2026/co-operative-bank-of-kenya-digital-banking-inclusion-leader-east-africa-2026/"
 content_sha256: 05fe62e14b15d68a545919d89c2e2ab88ff02f1b18d1c26eefe5c6c2e58e8382
 canonical: 13483-co-operative-bank-of-kenya-digital-banking-inclusion-leader-east-africa-2026.json
 ---
