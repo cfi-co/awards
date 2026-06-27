@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260625033137
+wayback_snapshot_url: "http://web.archive.org/web/20260625033137/https://cfi.co/awards/finance/2026/polpo-capital-excellence-in-cmbs-credit-investing-north-america-2026/"
 content_sha256: bdb272ea3058c959e58b35634dacc8fc76fa7977eb9f94ca9e0e267948f11837
 canonical: 13487-polpo-capital-excellence-in-cmbs-credit-investing-north-america-2026.json
 ---

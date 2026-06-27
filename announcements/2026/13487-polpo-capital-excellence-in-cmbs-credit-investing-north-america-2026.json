@@ -22,12 +22,12 @@
         "correction_status": "none",
         "archive_policy": "no_delete",
         "provenance_layer": "github_versioned",
-        "wayback_status": "not_found",
-        "wayback_first_snapshot": "",
-        "wayback_snapshot_url": ""
+        "wayback_status": "archived",
+        "wayback_first_snapshot": "20260625033137",
+        "wayback_snapshot_url": "http://web.archive.org/web/20260625033137/https://cfi.co/awards/finance/2026/polpo-capital-excellence-in-cmbs-credit-investing-north-america-2026/"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-13488\" src=\"https://cfi.co/awards/wp-content/uploads/2026/06/polpo.jpg\" alt=\"polpo\" width=\"500\" height=\"427\" />\r\n<p style=\"text-align: justify;\"><strong>The panel values investment strategies that combine specialist focus with clear controls, particularly where headline models can obscure loan-level risk. In North American CMBS, Polpo Capital's case rests on disciplined security selection, relative-value execution and a willingness to avoid exposures that do not meet its standards.</strong></p>\r\n<p style=\"text-align: justify;\">The firm reported regulatory assets of about $229m, including institutional separately managed assets. Its record includes a positive return of roughly 8 percent in 2022, as described to the panel, during a year when broader markets faced pressure. The panel viewed this as evidence of potential diversification, while noting the firm's short operating history.</p>\r\n<p style=\"text-align: justify;\">Polpo's strongest strategic insight is that subordinate CMBS credit requires detailed bottom-up work. As described to the panel, the investment team reviews every loan in a transaction, including sponsors, tenants and tail exposures, rather than concentrating only on the largest collateral positions.</p>\r\n<p style=\"text-align: justify;\">Execution is supported by a long-short structure using CMBX as the natural hedge. The team explained that hedging commercial real estate credit with high-yield or investment-grade indices would introduce collateral mismatch, while CMBX aligns more closely with the firm's long exposure.</p>\r\n<p style=\"text-align: justify;\">Leadership has driven a focused platform around CMBS credit. Founder Dan McNamara's buy-side and sell-side experience, and the investment committee structure with portfolio manager Josh Nester, support sourcing and capital-structure judgement in a market that still depends heavily on relationships.</p>\r\n<p style=\"text-align: justify;\">The development of long-only separately managed accounts shows measured adaptability without departing from the core competence. The panel recognises Polpo Capital for a specialist, risk-aware approach to CMBS credit investing, grounded in underwriting discipline rather than scale alone.</p>",
     "content_sha256": "bdb272ea3058c959e58b35634dacc8fc76fa7977eb9f94ca9e0e267948f11837",
-    "record_sha256": "8cf8d1e45542539dff477f85ce050170a7527ea15cc24fec0d4cfa6b5326fb95"
+    "record_sha256": "a1e913dbeb67d1fc38af5553102cec8ab529502e6a4266a4e81841edc47834ce"
 }
