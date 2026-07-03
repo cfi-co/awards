@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260702033009
+wayback_snapshot_url: "http://web.archive.org/web/20260702033009/https://cfi.co/awards/banking/2026/bank-of-baroda-pioneer-in-digital-transformation-india-2026/"
 content_sha256: 6fa2a00c9e8ca6fe26eefd00e14d25d9d2db640329bbc4ed93172401fbd9cc1d
 canonical: 13493-bank-of-baroda-pioneer-in-digital-transformation-india-2026.json
 ---
