@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203234113
 wayback_snapshot_url: "http://web.archive.org/web/20201203234113/https://cfi.co/awards/middle-east/2020/tawuniya-outstanding-contribution-to-social-impact-ksa-2020/"
+license: CFI-OAAL-1.0
 content_sha256: c90c8bb3544df6064bfa368470a69585696ac688280db437192b6dbf2992be10
 canonical: 8360-tawuniya-outstanding-contribution-to-social-impact-ksa-2020.json
 ---
