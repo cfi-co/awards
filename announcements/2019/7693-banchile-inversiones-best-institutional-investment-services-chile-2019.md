@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525065806
 wayback_snapshot_url: "http://web.archive.org/web/20260525065806/https://cfi.co/awards/latin-america/2019/banchile-inversiones-best-institutional-investment-services-chile-2019/"
+license: CFI-OAAL-1.0
 content_sha256: e8f497b29bf90f1484599e9afb368e034976500af53734ff8d5ac1c4febc43c8
 canonical: 7693-banchile-inversiones-best-institutional-investment-services-chile-2019.json
 ---
