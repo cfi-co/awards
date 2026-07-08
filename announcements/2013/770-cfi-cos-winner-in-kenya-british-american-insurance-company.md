@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015225910
 wayback_snapshot_url: "http://web.archive.org/web/20211015225910/https://cfi.co/awards/africa/2013/cfi-cos-winner-in-kenya-british-american-insurance-company/"
+license: CFI-OAAL-1.0
 content_sha256: 2599b0d6fcd3b9f10f841234a57697af26da4568391d9aaffd4179f77d81542c
 canonical: 770-cfi-cos-winner-in-kenya-british-american-insurance-company.json
 ---
