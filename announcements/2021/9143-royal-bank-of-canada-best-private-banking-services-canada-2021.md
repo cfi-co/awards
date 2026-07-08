@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614192419
 wayback_snapshot_url: "http://web.archive.org/web/20210614192419/https://cfi.co/awards/north-america/2021/royal-bank-of-canada-best-private-banking-services-canada-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 238dd6d973f2d5fc90f717911f9778a718586faed8f9637f65f9ec7e4426e278
 canonical: 9143-royal-bank-of-canada-best-private-banking-services-canada-2021.json
 ---
