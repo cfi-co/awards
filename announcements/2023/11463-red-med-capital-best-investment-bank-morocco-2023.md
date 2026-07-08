@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230601135154
 wayback_snapshot_url: "http://web.archive.org/web/20230601135154/https://cfi.co/awards/africa/2023/red-med-capital-best-investment-bank-morocco-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 1ec4fc4434894658ee3e3a20db786c9d9ea0da26936588514a09c5b74a2d5263
 canonical: 11463-red-med-capital-best-investment-bank-morocco-2023.json
 ---
