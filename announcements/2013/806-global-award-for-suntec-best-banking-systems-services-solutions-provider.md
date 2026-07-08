@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924112646
 wayback_snapshot_url: "http://web.archive.org/web/20210924112646/https://cfi.co/awards/asia-pacific/2013/global-award-for-suntec-best-banking-systems-services-solutions-provider/"
+license: CFI-OAAL-1.0
 content_sha256: 4ac8a0b4bfd7c1a69573c44effc184d70ce7b2f95c2314463dd9b98b1dbca764
 canonical: 806-global-award-for-suntec-best-banking-systems-services-solutions-provider.json
 ---
