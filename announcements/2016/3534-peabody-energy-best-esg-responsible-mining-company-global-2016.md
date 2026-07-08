@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170131045957
 wayback_snapshot_url: "http://web.archive.org/web/20170131045957/http://cfi.co/awards/industries/2016/peabody-energy-best-esg-responsible-mining-company-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 5d84a35bcc63a02b99c62b72e53aaa4366a3ed4891d46c0cbaae259e72b9bcc6
 canonical: 3534-peabody-energy-best-esg-responsible-mining-company-global-2016.json
 ---
