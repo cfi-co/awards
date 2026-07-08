@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235527
 wayback_snapshot_url: "http://web.archive.org/web/20201203235527/https://cfi.co/awards/africa/2020/first-pension-custodian-best-pension-fund-services-team-nigeria-2019/"
+license: CFI-OAAL-1.0
 content_sha256: b8b8d5064efdc1b902398bfff7c1f374735cf90592e0557b9fcd9be4bd8bbf95
 canonical: 7749-first-pension-custodian-best-pension-fund-services-team-nigeria-2019.json
 ---
