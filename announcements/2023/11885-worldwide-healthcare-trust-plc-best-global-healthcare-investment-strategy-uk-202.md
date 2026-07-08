@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260531034244
 wayback_snapshot_url: "http://web.archive.org/web/20260531034244/https://cfi.co/awards/europe/2023/worldwide-healthcare-trust-plc-best-global-healthcare-investment-strategy-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: c00e954c5af7b0d7ac931f1d3e4019222312efd5ceb5b8dc3ad25f10821828fb
 canonical: 11885-worldwide-healthcare-trust-plc-best-global-healthcare-investment-strategy-uk-202.json
 ---
