@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630124329
 wayback_snapshot_url: "http://web.archive.org/web/20220630124329/https://cfi.co/awards/north-america/2022/merrill-edge-self-directed-best-ease-of-use-mobile-broker-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 8e293e2270b69cd43696524d3c04d9da11b9e7817597bf80790e097f4f535e19
 canonical: 10275-merrill-edge-self-directed-best-ease-of-use-mobile-broker-global-2022.json
 ---
