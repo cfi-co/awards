@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603011037
 wayback_snapshot_url: "http://web.archive.org/web/20230603011037/https://cfi.co/awards/finance/2023/3j-capital-partners-best-global-asset-allocation-strategy-brazil-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 1790fb73a741eed0f721b1e3c03d830b88e402c2cadeabe814a2199d92294380
 canonical: 11291-3j-capital-partners-best-global-asset-allocation-strategy-brazil-2023.json
 ---
