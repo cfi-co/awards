@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920170549
 wayback_snapshot_url: "http://web.archive.org/web/20200920170549/https://cfi.co/awards/banking/2020/ubs-best-bank-sustainability-leadership-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 693571d070d55bf0fedf34e1264197c918ce7b286c83124d86445b4a1492a9f0
 canonical: 7878-ubs-best-bank-sustainability-leadership-global-2020.json
 ---
