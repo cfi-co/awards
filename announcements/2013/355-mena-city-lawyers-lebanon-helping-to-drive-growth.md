@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206173722
 wayback_snapshot_url: "http://web.archive.org/web/20231206173722/https://cfi.co/awards/middle-east/2013/mena-city-lawyers-lebanon-helping-to-drive-growth/"
+license: CFI-OAAL-1.0
 content_sha256: dbf81560648906cd18b6510563c44d0f374e63251efcf72a732d2e36ab6246ec
 canonical: 355-mena-city-lawyers-lebanon-helping-to-drive-growth.json
 ---
