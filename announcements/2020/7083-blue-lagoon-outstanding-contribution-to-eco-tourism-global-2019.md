@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525073258
 wayback_snapshot_url: "http://web.archive.org/web/20260525073258/https://cfi.co/awards/best-practice/sustainability/2020/blue-lagoon-outstanding-contribution-to-eco-tourism-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 7a944dbc3a43ec1171e6af8bbd60ca62d9c44817481590d309c7ad15fa0bbd41
 canonical: 7083-blue-lagoon-outstanding-contribution-to-eco-tourism-global-2019.json
 ---
