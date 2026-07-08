@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724014832
 wayback_snapshot_url: "http://web.archive.org/web/20210724014832/https://cfi.co/awards/europe/2018/cogefi-gestion-best-portfolio-management-team-france-2017/"
+license: CFI-OAAL-1.0
 content_sha256: db3d0101eba4aab6a1ec36141b73db9f967e2b97c348934a7c75d17d11e3341c
 canonical: 5244-cogefi-gestion-best-portfolio-management-team-france-2017.json
 ---
