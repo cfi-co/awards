@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230125145505
 wayback_snapshot_url: "http://web.archive.org/web/20230125145505/https://cfi.co/awards/banking/2014/nordea-asset-management-esg-award-winner-in-europe-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 87bd630b074ec578e31d82f1b68fd8468d0de9a8b600fa8040fdf44e2158e179
 canonical: 1408-nordea-asset-management-esg-award-winner-in-europe-2014.json
 ---
