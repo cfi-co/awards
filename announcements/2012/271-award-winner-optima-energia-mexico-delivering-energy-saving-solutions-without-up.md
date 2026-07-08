@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240523000129
 wayback_snapshot_url: "http://web.archive.org/web/20240523000129/https://cfi.co/awards/latin-america/2012/award-winner-optima-energia-mexico-delivering-energy-saving-solutions-without-up-front-costs/"
+license: CFI-OAAL-1.0
 content_sha256: 074b932f23105e076fd7e7c4771cf853a24e203ba39a514d100e05ef27821fd1
 canonical: 271-award-winner-optima-energia-mexico-delivering-energy-saving-solutions-without-up.json
 ---
