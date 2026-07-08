@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525052641
 wayback_snapshot_url: "http://web.archive.org/web/20260525052641/https://cfi.co/awards/asia-pacific/2018/colombo-land-development-company-best-real-estate-corporate-governance-sri-lanka-2018/"
+license: CFI-OAAL-1.0
 content_sha256: d27c94c68dd6bf4e63eb88b93a04ca39cf6528c36371d6c196220978cfcfba01
 canonical: 5523-colombo-land-development-company-best-real-estate-corporate-governance-sri-lanka.json
 ---
