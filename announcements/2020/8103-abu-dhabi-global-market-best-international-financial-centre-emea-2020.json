@@ -27,10 +27,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20200923104714",
-        "wayback_snapshot_url": "http://web.archive.org/web/20200923104714/https://cfi.co/awards/middle-east/2020/abu-dhabi-global-market-best-international-financial-centre-emea-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20200923104714/https://cfi.co/awards/middle-east/2020/abu-dhabi-global-market-best-international-financial-centre-emea-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8104\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/ADGM.jpg\" alt=\"ADGM\" width=\"400\" height=\"114\" />\r\n<p style=\"text-align: justify;\">In the short span of five years, Abu Dhabi Global Market (ADGM) has earned a reputation as an innovative, responsive and business-friendly international financial centre (IFC). Some of the world’s top businesses call the free zone home, and ADGM listens attentively to understand and anticipate their needs. Its jurisdiction stretches across the 114-hectare island of Al Maryah, where a collection of residences, restaurants and retail shops allow a healthy work-life balance. ADGM collaborates with regional and international partners to achieve global and regional breakthroughs, including the world’s first digital courtroom, and the first Virtual Asset Regulatory Framework. ADGM introduced digital and fintech “regulatory sandboxes” to give entrepreneurs a safe space to experiment, and recently became the first jurisdiction in the MENA region to apply British common law. Three divisions — the Registration Authority, the Financial Services Regulatory Authority and ADGM Courts — have together elevated ADGM’s status as a leading IFC with a regulatory, judicial and dispute resolution system that upholds international best-practice. ADGM has benefited from its enviable geographic location to open new avenues into China to increase collaboration, connectivity and shared economic growth. The CFI.co judging panel congratulates ADGM on accomplishing in a few short years what others have struggled to do in a lifetime. The judges present Abu Dhabi Global Market, a repeat CFI.co winner, with the 2020 award for Best International Financial Centre (EMEA).</p>",
     "content_sha256": "24eb56a61e7ec1833dcb0aa45f3d9de7379820085a3e42077b23f4db917db696",
-    "record_sha256": "570f95d9f5d2aa8834afd75b0d73150a036dae9c3efecd453718295509a75b01"
+    "record_sha256": "70788891dbde7f475f33bce086cdad21b84d016d5f926a743156c728de21da94"
 }
