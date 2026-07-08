@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20200923084143",
-        "wayback_snapshot_url": "http://web.archive.org/web/20200923084143/https://cfi.co/awards/middle-east/2020/mashreq-bank-best-smart-retail-bank-middle-east-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20200923084143/https://cfi.co/awards/middle-east/2020/mashreq-bank-best-smart-retail-bank-middle-east-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8100\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/Mashreq.jpg\" alt=\"Mashreq\" width=\"400\" height=\"428\" />\r\n<p style=\"text-align: justify;\">With 50 years behind it, Mashreq Bank is as old as the UAE itself. It has grown in tandem with the nation, fuelled by innovation and ingenuity. Mashreq Bank has played a crucial role in the transformation of Dubai from a sleepy hub for pearl divers to the international centre for finance and technology that it is today. Mashreq is a pioneer of the Middle Eastern finance world, and was the first bank in the region to install ATMs, issue credit cards and introduce chatbots. Mashreq Bank has stayed ahead of the competition by upgrading its online offering in tune with client expectations. It has made significant tech investments over the past five years to create a secure digital ecosystem that keeps clients and team members connected with real-time financial access. It uses blockchain technology to streamline the opening of new accounts, and harnesses AI and machine learning to achieve more efficient processing times and lower transaction costs. In 2017, Mashreq Bank launched Neo, the first full-service digital bank in the Middle East, and two years later it followed up with NeoBiz, which tailors digital services for the SME and start-up sectors. Last year, it reported that branch traffic had fallen by more than half, with three-quarters of all new business brought on-board digitally. A full 97 percent of retail transactions are conducted through its hi-tech platforms. This strong rate of engagement will allow Mashreq to shutter half the branches in its network this year. It’s a bold move which will free-up funds for more digital development. The CFI.co judging panel is impressed with this foresight, and presents Mashreq Bank with the 2020 award for Best Smart Retail Bank (Middle East).</p>",
     "content_sha256": "11fa3a9644f6c59faca167b9b61ffe31f6c157ed2dc4a3c585f689a18288786e",
-    "record_sha256": "2eef4925f623a9f678da3ffd292ccfbd3ea85c7c11eab2111cc4f62afcf23350"
+    "record_sha256": "87dcca901341f0ee5ded8101ef34b3f017f337691d957bdb1108e82f1166d319"
 }

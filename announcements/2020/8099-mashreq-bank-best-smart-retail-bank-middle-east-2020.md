@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923084143
 wayback_snapshot_url: "http://web.archive.org/web/20200923084143/https://cfi.co/awards/middle-east/2020/mashreq-bank-best-smart-retail-bank-middle-east-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 11fa3a9644f6c59faca167b9b61ffe31f6c157ed2dc4a3c585f689a18288786e
 canonical: 8099-mashreq-bank-best-smart-retail-bank-middle-east-2020.json
 ---
