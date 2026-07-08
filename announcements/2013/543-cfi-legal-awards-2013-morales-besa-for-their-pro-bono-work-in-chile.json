@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140410022347",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140410022347/http://cfi.co/awards/latin-america/2013/cfi-legal-awards-2013-morales-besa-for-their-pro-bono-work-in-chile/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140410022347/http://cfi.co/awards/latin-america/2013/cfi-legal-awards-2013-morales-besa-for-their-pro-bono-work-in-chile/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-544 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/Morales-Besa.jpg\" alt=\"Morales &amp; Besa\" width=\"200\" height=\"36\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>Pro bono work has been important at Morales &amp; Besa since the firm was founded twenty years ago.</strong></p>\r\n<p style=\"text-align: justify;\">They have been trailblazers ever since and take their responsibilities very seriously. Pro bono is voluntary for the firm’s lawyers but the take up is high. The firm has created a pro bono manual and a committee to decide on eligibility. When lawyer performance is evaluated equal weight is given to pro bono work and hours charged to clients. The judges commended Morales &amp; Besa on the firm’s constant encouragement to pro bono activities in Chile.</p>",
     "content_sha256": "b086099403583f71ca4c6efa9efb6700a88d992a8ac741e3f45fc068abc018c6",
-    "record_sha256": "d68e726c93457a6faa16287f8eb3d748b496a41954eac71329793e7223f64c8e"
+    "record_sha256": "4ae392df90e4de9fb5919bdbd4df72c29df1635a25d757bd15e59b408ba1d845"
 }
