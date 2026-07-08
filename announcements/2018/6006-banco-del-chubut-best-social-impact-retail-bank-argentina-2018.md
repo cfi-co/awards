@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525054556
 wayback_snapshot_url: "http://web.archive.org/web/20260525054556/https://cfi.co/awards/front/2018/banco-del-chubut-best-social-impact-retail-bank-argentina-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 1760b73f1ec32457a3e8e7c7481bcab9bcde6f547eb08ac0694f473caaea30b3
 canonical: 6006-banco-del-chubut-best-social-impact-retail-bank-argentina-2018.json
 ---
