@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614184035
 wayback_snapshot_url: "http://web.archive.org/web/20210614184035/https://cfi.co/awards/europe/2012/london-stock-exchange-takes-2012-award-in-europe/"
+license: CFI-OAAL-1.0
 content_sha256: 76948012383c4dc74b707b0bb828521ea16efa5fa824164489b2e9771e28bbb1
 canonical: 154-london-stock-exchange-takes-2012-award-in-europe.json
 ---
