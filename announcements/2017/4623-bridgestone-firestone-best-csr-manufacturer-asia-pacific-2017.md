@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525043234
 wayback_snapshot_url: "http://web.archive.org/web/20260525043234/https://cfi.co/awards/asia-pacific/2017/bridgestone-firestone-best-csr-manufacturer-asia-pacific-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 32e4e1800f68888c2fc061e0d79a5b07efebcd8852adad6d4a7913581b1d9211
 canonical: 4623-bridgestone-firestone-best-csr-manufacturer-asia-pacific-2017.json
 ---
