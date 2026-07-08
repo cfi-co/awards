@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201210115658
 wayback_snapshot_url: "http://web.archive.org/web/20201210115658/https://cfi.co/awards/europe/2020/fli-global-ltd-best-environmental-solutions-partner-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 5d8e6fbedc841b6f3dd3fcd7e7f10bfcfaddcbba2521f5299d37ffa02d0fe8dd
 canonical: 8561-fli-global-ltd-best-environmental-solutions-partner-europe-2020.json
 ---
