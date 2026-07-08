@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221027144954
 wayback_snapshot_url: "http://web.archive.org/web/20221027144954/https://cfi.co/awards/professional-services/consultancies/2022/deloitte-cyprus-best-international-financial-advisory-team-cyprus-2022/"
+license: CFI-OAAL-1.0
 content_sha256: a4f5bd8f7f4eaa63fd459e4c35e9219f6128d5f8bf4b7e5cc5ef84d727fd36f0
 canonical: 10833-deloitte-cyprus-best-international-financial-advisory-team-cyprus-2022.json
 ---
