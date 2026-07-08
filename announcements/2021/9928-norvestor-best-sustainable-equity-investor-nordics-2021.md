@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220119071542
 wayback_snapshot_url: "http://web.archive.org/web/20220119071542/https://cfi.co/awards/europe/2021/norvestor-best-sustainable-equity-investor-nordics-2021/"
+license: CFI-OAAL-1.0
 content_sha256: bc24f75cf3f9563bff4e9fa5492ec1683f1e62fb91826894b2a69f43da131673
 canonical: 9928-norvestor-best-sustainable-equity-investor-nordics-2021.json
 ---
