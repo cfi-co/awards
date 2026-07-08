@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220308110616
 wayback_snapshot_url: "http://web.archive.org/web/20220308110616/https://cfi.co/awards/europe/2022/sener-best-engineering-corporate-governance-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 2e63c65906df85425e3270bcf3ef2b1d4bbed6bc54bd4c6e8e0949bcc6641523
 canonical: 10221-sener-best-engineering-corporate-governance-europe-2021.json
 ---
