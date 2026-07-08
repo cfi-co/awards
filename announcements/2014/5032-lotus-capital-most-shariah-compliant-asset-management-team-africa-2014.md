@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810082442
 wayback_snapshot_url: "http://web.archive.org/web/20200810082442/https://cfi.co/awards/africa/2014/lotus-capital-most-shariah-compliant-asset-management-team-africa-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 64f25f219ca82de3dada4c85228839da06e502e71ecb41324aee4c6ace31313c
 canonical: 5032-lotus-capital-most-shariah-compliant-asset-management-team-africa-2014.json
 ---
