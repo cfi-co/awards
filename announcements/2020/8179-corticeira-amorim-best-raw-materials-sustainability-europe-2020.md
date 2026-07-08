@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200907103353
 wayback_snapshot_url: "http://web.archive.org/web/20200907103353/https://cfi.co/awards/europe/2020/corticeira-amorim-best-raw-materials-sustainability-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 4d4541ec9b739c3ad9dfb97741f48361698dea41c00f38d9f764182573e955f9
 canonical: 8179-corticeira-amorim-best-raw-materials-sustainability-europe-2020.json
 ---
