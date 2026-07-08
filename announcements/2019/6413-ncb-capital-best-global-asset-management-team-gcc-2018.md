@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525061100
 wayback_snapshot_url: "http://web.archive.org/web/20260525061100/https://cfi.co/awards/front/2019/ncb-capital-best-global-asset-management-team-gcc-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 639fd852c1d155b1841594c7bce34e830722814193111784e8e7c334d47cc15a
 canonical: 6413-ncb-capital-best-global-asset-management-team-gcc-2018.json
 ---
