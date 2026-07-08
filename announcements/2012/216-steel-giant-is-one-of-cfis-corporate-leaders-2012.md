@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724005501
 wayback_snapshot_url: "http://web.archive.org/web/20210724005501/https://cfi.co/awards/asia-pacific/2012/steel-giant-is-one-of-cfis-corporate-leaders-2012/"
+license: CFI-OAAL-1.0
 content_sha256: 46f13e2b38a5ad1b960d2b75f823c6cba30f17c54ddce109a1a2cb7051422e5b
 canonical: 216-steel-giant-is-one-of-cfis-corporate-leaders-2012.json
 ---
