@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260526044933
 wayback_snapshot_url: "http://web.archive.org/web/20260526044933/https://cfi.co/awards/europe/2021/tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 5db89ca266415ea392187dde3f99b55ef5f8935ce8d747f8b9771f58d6424e55
 canonical: 9443-tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2.json
 ---
