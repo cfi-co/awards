@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820145724
 wayback_snapshot_url: "http://web.archive.org/web/20190820145724/https://cfi.co/awards/europe/2017/xm-best-trading-support-europe-2017/"
+license: CFI-OAAL-1.0
 content_sha256: ca173a8bfd29e0d25dcdb98809f76b3e2c1d972c13dc40d2ad0030794e151d6c
 canonical: 4667-xm-best-trading-support-europe-2017.json
 ---
