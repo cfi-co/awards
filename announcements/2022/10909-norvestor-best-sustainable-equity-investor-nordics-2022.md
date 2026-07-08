@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221207235202
 wayback_snapshot_url: "http://web.archive.org/web/20221207235202/https://cfi.co/awards/europe/2022/norvestor-best-sustainable-equity-investor-nordics-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 9033322d4d3362a90a76304ab33dff171d502ccc9d7c19ac089c9d3bf4b399e6
 canonical: 10909-norvestor-best-sustainable-equity-investor-nordics-2022.json
 ---
