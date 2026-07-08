@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509100016
 wayback_snapshot_url: "http://web.archive.org/web/20210509100016/https://cfi.co/awards/europe/2021/stifel-europe-best-mid-market-investment-banking-team-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 2001ab6d45b15c0d362275bfbd006bf61de69e419ca2068e097a007b852298bd
 canonical: 9044-stifel-europe-best-mid-market-investment-banking-team-europe-2021.json
 ---
