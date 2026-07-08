@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924115621
 wayback_snapshot_url: "http://web.archive.org/web/20210924115621/https://cfi.co/awards/asia-pacific/2017/stock-exchange-of-thailand-best-sustainable-securities-exchange-southeast-asia-emerging-markets-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 10d6bba86a8b1f7f3727064ded9440d81888d8d40f904ee2c26f8c60ecc48677
 canonical: 4527-stock-exchange-of-thailand-best-sustainable-securities-exchange-southeast-asia-e.json
 ---
