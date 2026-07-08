@@ -29,10 +29,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210614180256",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210614180256/https://cfi.co/awards/europe/2021/bp-plc-best-esg-oil-gas-operator-global-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210614180256/https://cfi.co/awards/europe/2021/bp-plc-best-esg-oil-gas-operator-global-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7600\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/BP.jpg\" alt=\"BP\" width=\"300\" height=\"399\" />\r\n<p style=\"text-align: justify;\">BP is one of the largest energy, oil and gas companies in the world with revenues of $183.5bn in 2020. BP was founded in 1908 with the discovery of oil in Persia. Like any company with long-term success, BP has made many transitions. In August 2020, it announced plans to transition from an “International Oil Company to [an] Integrated Energy Company”. BP plans to be net zero by 2050. This includes halving the carbon intensity of its products by that year. To do this it plans to reduce oil and gas production by 40 percent by 2030 and to increase net renewable energy generation from 2.5GW in 2019 to 50GW by 2030. BP is also investing in carbon capture and offsets. These goals are ambitious and show a company committed to helping in the global fight against climate change. While the extent of its environmental ambitions is new, BP has already established an admirable track record. Since 2016, it has reduced its GHG emissions by 3.9Mte, surpassing its 2025 target. It has also built over 7,500 EV charging stations across the UK. BP has also shown its commitment to local communities. In August, it became a UK Living Wage employer. In 2019, it contributed $84m to communities and NGOs around the world. It has also made a commitment to support the “decade of delivery” for the UN’s Sustainable Development Goals. The CFI.co judging panel applauds BP and presents it with the 2021 award Best ESG Oil &amp; Gas Operator Global.</p>",
     "content_sha256": "56dab3401f2615fe8399bd1841b913deaab3932a42d70eb6e39b41f19b9b9806",
-    "record_sha256": "50da4c6918f29a73f52f3534dfa7b0ff59f7c855625899d5596b715ef2bb6f3d"
+    "record_sha256": "d325c2a28d8db2991984c99c0c2e443293e6b3e156b2c5627132ee1521c8e7dc"
 }
