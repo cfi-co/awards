@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260531034934
 wayback_snapshot_url: "http://web.archive.org/web/20260531034934/https://cfi.co/awards/banking/2026/citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 30297a247d9ce8a6e61b39dacbc9fdde2844199cb58d4ccf393914c07be18728
 canonical: 13390-citadele-banka-baltic-leader-in-digital-banking-evolution-latvia-2026.json
 ---
