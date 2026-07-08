@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820022726
 wayback_snapshot_url: "http://web.archive.org/web/20220820022726/https://cfi.co/awards/front/2018/al-wifaq-finance-company-best-sharia-compliant-financial-solutions-uae-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 8d53754f4f2f652e8d7596ee4c14d58c1f2119a3fbb95b6937b6cb8ffafb7c55
 canonical: 5906-al-wifaq-finance-company-best-sharia-compliant-financial-solutions-uae-2018.json
 ---
