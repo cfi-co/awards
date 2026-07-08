@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525045621
 wayback_snapshot_url: "http://web.archive.org/web/20260525045621/https://cfi.co/awards/asia-pacific/2017/bao-viet-holdings-best-financial-group-governance-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 8600bab4df78fcdb608f81c3ecc6ef903662ffbf43b24f1929dc4ce48baa09b7
 canonical: 4886-bao-viet-holdings-best-financial-group-governance-2017.json
 ---
