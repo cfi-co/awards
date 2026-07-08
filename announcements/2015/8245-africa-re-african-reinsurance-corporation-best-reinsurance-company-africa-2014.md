@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924123545
 wayback_snapshot_url: "http://web.archive.org/web/20210924123545/https://cfi.co/awards/africa/2015/africa-re-african-reinsurance-corporation-best-reinsurance-company-africa-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 805c180317f48a6c9342f365f7fa788698947e3d3b187950bdbe6500badd2be4
 canonical: 8245-africa-re-african-reinsurance-corporation-best-reinsurance-company-africa-2014.json
 ---
