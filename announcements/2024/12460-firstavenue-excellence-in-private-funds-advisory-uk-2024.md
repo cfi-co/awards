@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240815062159
 wayback_snapshot_url: "http://web.archive.org/web/20240815062159/https://cfi.co/awards/europe/2024/firstavenue-excellence-in-private-funds-advisory-uk-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 5d245c4e161139456935be6c30c4beb6cfb022c153f9ea0b3eceffd418fdff78
 canonical: 12460-firstavenue-excellence-in-private-funds-advisory-uk-2024.json
 ---
