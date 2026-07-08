@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20221203061056",
-        "wayback_snapshot_url": "http://web.archive.org/web/20221203061056/https://cfi.co/awards/europe/2021/axa-im-best-esg-global-asset-manager-france-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20221203061056/https://cfi.co/awards/europe/2021/axa-im-best-esg-global-asset-manager-france-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"size-full wp-image-7437 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/AXA-IM.jpg\" alt=\"AXA IM\" width=\"600\" height=\"175\" /></p>\r\n<p style=\"text-align: justify;\">Responsible investing equals better investing: that mantra guides every decision taken at AXA IM’s Paris operations. Investing is about prediction, and incorporating ESG factors into the decision-making process makes it easier to forecast the future. The company excludes businesses which draw more than 30 percent of their revenues from coal, but recognises green ambition as well as full commitment to sustainability. AXA IM has an eye open for businesses whose actions clearly reflect a “brown to green” transition. The company believes this approach could prove beneficial in unearthing growth opportunities. It has updated its assessment framework and is monitoring market growth in social and sustainable bonds linked to client interest. The methodology allows it to accurately gauge its contribution to the achievement of the UN’s Sustainable Development Goals. Johann Plé, head of Green Bond Strategy at AXA IM in Paris, says the firm has strengthened the way it approaches this market, with the goal of improving the quality and quantity of the green, social, and sustainable bonds in its portfolios. AXA IM’s customer-centric focus is underscored by the decision in 2020 to appoint a specialist to every business line, while reorganising its focus to incorporate ESG factors at all levels. The CFI.co judging panel recognises the continued development of this responsible strategy, and presents AXA IM with an award for the second consecutive year. This time, the firm takes the 2021 title for Best ESG Global Asset Manager (France).</p>",
     "content_sha256": "556dfab6e41299174d23151bc66434de1fdf0f3db471fd1e5f98f956901c242b",
-    "record_sha256": "8fda283d7d927ca907a0e9ddc9a4fec223507d9cd03545f1364dcd9874d30f1f"
+    "record_sha256": "d3af7260359af4acad51a5bc54438c16d4b1268901aa9a4928f7b75024981d36"
 }
