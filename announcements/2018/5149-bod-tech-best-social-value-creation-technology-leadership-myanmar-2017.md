@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525051637
 wayback_snapshot_url: "http://web.archive.org/web/20260525051637/https://cfi.co/awards/asia-pacific/2018/bod-tech-best-social-value-creation-technology-leadership-myanmar-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 09dbb3da89161a043065bfac3b05259e724de92bdd70b1dab4363bff83e0f997
 canonical: 5149-bod-tech-best-social-value-creation-technology-leadership-myanmar-2017.json
 ---
