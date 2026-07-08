@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203051401
 wayback_snapshot_url: "http://web.archive.org/web/20221203051401/https://cfi.co/awards/front/2019/nibulon-best-rural-economic-investment-partner-ukraine-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 59288ad24201292bff1896f18aebd30ee65ebbfb4456325a64aad67b9bfa1b74
 canonical: 6493-nibulon-best-rural-economic-investment-partner-ukraine-2018.json
 ---
