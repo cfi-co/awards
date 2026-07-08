@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924125024
 wayback_snapshot_url: "http://web.archive.org/web/20210924125024/https://cfi.co/awards/professional-services/2019/honcho-markets-most-innovative-b2c-insurance-pricing-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: b58af31e633989500aea679f12da113e989c56ac741ad6dea7d865db81833b24
 canonical: 7068-honcho-markets-most-innovative-b2c-insurance-pricing-global-2019.json
 ---
