@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630143144
 wayback_snapshot_url: "http://web.archive.org/web/20220630143144/https://cfi.co/awards/asia-pacific/2022/octa-investama-berjangka-most-transparent-broker-indonesia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: b407fd5f7c85c16228d8e5b7c19befef70ad901cf9339e48b7cbfceec73522e6
 canonical: 10489-octa-investama-berjangka-most-transparent-broker-indonesia-2022.json
 ---
