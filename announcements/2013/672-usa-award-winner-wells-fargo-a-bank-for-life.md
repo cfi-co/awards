@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409063137
 wayback_snapshot_url: "http://web.archive.org/web/20140409063137/http://cfi.co/awards/north-america/2013/usa-award-winner-wells-fargo-a-bank-for-life/"
+license: CFI-OAAL-1.0
 content_sha256: 44505c86644b34900efe5238a96fb3445d602bf199fbfcb7322fd3fedb03fe74
 canonical: 672-usa-award-winner-wells-fargo-a-bank-for-life.json
 ---
