@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418063252
 wayback_snapshot_url: "http://web.archive.org/web/20210418063252/https://cfi.co/awards/north-america/2021/rubicon-best-saas-smart-city-solutions-us-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 9a1c2fd756623d1f07ef65570e6c2578503e36998a2f116322acf3c00226f8e4
 canonical: 8991-rubicon-best-saas-smart-city-solutions-us-2021.json
 ---
