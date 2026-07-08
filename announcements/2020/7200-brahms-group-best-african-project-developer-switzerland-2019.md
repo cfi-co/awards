@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200928025713
 wayback_snapshot_url: "http://web.archive.org/web/20200928025713/https://cfi.co/awards/africa/2020/brahms-group-best-african-project-developer-switzerland-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 8ba2d5b1b0e8e638b3cae58a670169a7511c96558b75630038131d3008cc6fbf
 canonical: 7200-brahms-group-best-african-project-developer-switzerland-2019.json
 ---
