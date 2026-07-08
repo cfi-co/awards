@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923084448
 wayback_snapshot_url: "http://web.archive.org/web/20200923084448/https://cfi.co/awards/north-america/2020/coeur-mining-inc-best-miner-governance-north-america-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 805019b6d6cf6da0b1ffc7296f1453ff972926965f23f606f226e17d47d4ebdf
 canonical: 8008-coeur-mining-inc-best-miner-governance-north-america-2020.json
 ---
