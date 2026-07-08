@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150616081712
 wayback_snapshot_url: "http://web.archive.org/web/20150616081712/http://cfi.co/awards/asia-pacific/2014/colombo-stock-exchange-most-sustainable-growth-exchange-asia-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 78ba30b1960acbde104dbe1d760124a31d70f46ed848a55df58bce2342283cff
 canonical: 1610-colombo-stock-exchange-most-sustainable-growth-exchange-asia-2014.json
 ---
