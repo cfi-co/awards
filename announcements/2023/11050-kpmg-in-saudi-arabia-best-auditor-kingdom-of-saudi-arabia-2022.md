@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230116124011
 wayback_snapshot_url: "http://web.archive.org/web/20230116124011/https://cfi.co/awards/middle-east/2023/kpmg-in-saudi-arabia-best-auditor-kingdom-of-saudi-arabia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 1892a67ba355708853b117f975fea5b18e6c2be1272928565e49e36e0078a6bd
 canonical: 11050-kpmg-in-saudi-arabia-best-auditor-kingdom-of-saudi-arabia-2022.json
 ---
