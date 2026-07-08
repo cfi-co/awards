@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923164508
 wayback_snapshot_url: "http://web.archive.org/web/20230923164508/https://cfi.co/awards/africa/2023/air-austral-best-airline-financial-management-team-indian-ocean-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 4f0e711851095b6caa98f3523be1ce17c8928d60621edca1bfdb91b5631879ef
 canonical: 11750-air-austral-best-airline-financial-management-team-indian-ocean-2023.json
 ---
