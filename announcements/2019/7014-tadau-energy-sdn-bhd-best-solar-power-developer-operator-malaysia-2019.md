@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191214233423
 wayback_snapshot_url: "http://web.archive.org/web/20191214233423/https://cfi.co/awards/asia-pacific/2019/tadau-energy-sdn-bhd-best-solar-power-developer-operator-malaysia-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 50f18b79bf5cc6e0ca4f6b8947933c02fe578b2fd30c368b3b21a6f9dbdca852
 canonical: 7014-tadau-energy-sdn-bhd-best-solar-power-developer-operator-malaysia-2019.json
 ---
