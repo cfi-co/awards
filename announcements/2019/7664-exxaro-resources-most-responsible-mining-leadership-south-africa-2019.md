@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208104320
 wayback_snapshot_url: "http://web.archive.org/web/20230208104320/https://cfi.co/awards/africa/2019/exxaro-resources-most-responsible-mining-leadership-south-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 4053e7b8620f814c0781a4dc657a769f973ced8137755bf219d1cbed24f35b4b
 canonical: 7664-exxaro-resources-most-responsible-mining-leadership-south-africa-2019.json
 ---
