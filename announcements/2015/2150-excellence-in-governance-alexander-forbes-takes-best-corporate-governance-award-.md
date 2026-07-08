@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523044035
 wayback_snapshot_url: "http://web.archive.org/web/20260523044035/https://cfi.co/awards/africa/2015/excellence-in-governance-alexander-forbes-takes-best-corporate-governance-award-south-africa-2014/"
+license: CFI-OAAL-1.0
 content_sha256: ec71b0ceeffa52b23e1b76accc020f4d1cdec33b31697a8d27e69e68853f320b
 canonical: 2150-excellence-in-governance-alexander-forbes-takes-best-corporate-governance-award-.json
 ---
