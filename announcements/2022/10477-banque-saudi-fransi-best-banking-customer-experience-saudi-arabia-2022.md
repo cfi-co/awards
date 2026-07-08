@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220811152511
 wayback_snapshot_url: "http://web.archive.org/web/20220811152511/https://cfi.co/awards/banking/2022/banque-saudi-fransi-best-banking-customer-experience-saudi-arabia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 351c85b6ac333b4b2fa77c3bcf2b2c9022189d36fbdadf565005f2f9a999aedb
 canonical: 10477-banque-saudi-fransi-best-banking-customer-experience-saudi-arabia-2022.json
 ---
