@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525042332
 wayback_snapshot_url: "http://web.archive.org/web/20260525042332/https://cfi.co/awards/africa/2017/grofin-best-sme-social-impact-finance-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 62f15b8616f5a725da31d876be6b0db0cc6f9cae6d138509e16d6ae5874ad6a4
 canonical: 4544-grofin-best-sme-social-impact-finance-africa-2017.json
 ---
