@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209174746
 wayback_snapshot_url: "http://web.archive.org/web/20250209174746/https://cfi.co/awards/europe/2024/axa-im-select-axa-investment-managers-ltd-best-multi-manager-investment-solutions-global-2024/"
+license: CFI-OAAL-1.0
 content_sha256: d99ec4dab8764726dc2a4e59c7e21eff0f293808d2693b2ac0c09c203d1fe8c4
 canonical: 12842-axa-im-select-axa-investment-managers-ltd-best-multi-manager-investment-solution.json
 ---
