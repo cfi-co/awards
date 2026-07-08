@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210624205415
 wayback_snapshot_url: "http://web.archive.org/web/20210624205415/https://cfi.co/awards/europe/2021/kathrein-privatbank-best-private-banking-solutions-austria-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 1a2f35b2d7a314e2cfeb97bc2fe821bfc049504f86db938bdece0c2eb9c7c867
 canonical: 8708-kathrein-privatbank-best-private-banking-solutions-austria-2020.json
 ---
