@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630130910
 wayback_snapshot_url: "http://web.archive.org/web/20220630130910/https://cfi.co/awards/europe/2022/tirupati-graphite-best-sustainable-value-creation-strategy-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 7f68e7093dec7bfd580f7dd54cc53785967ce236251375cc182ba5e5c69afd0f
 canonical: 10456-tirupati-graphite-best-sustainable-value-creation-strategy-global-2022.json
 ---
