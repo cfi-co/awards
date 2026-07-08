@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603010625
 wayback_snapshot_url: "http://web.archive.org/web/20230603010625/https://cfi.co/awards/africa/2023/apip-guinee-best-foreign-investment-promotion-strategy-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 48c864012de089a49c96c3a8ff98404d54b89e96313299a3cda1560fb9da217d
 canonical: 11469-apip-guinee-best-foreign-investment-promotion-strategy-africa-2023.json
 ---
