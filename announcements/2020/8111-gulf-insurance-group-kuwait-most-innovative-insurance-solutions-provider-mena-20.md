@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923092409
 wayback_snapshot_url: "http://web.archive.org/web/20200923092409/https://cfi.co/awards/middle-east/2020/gulf-insurance-group-kuwait-most-innovative-insurance-solutions-provider-mena-2020/"
+license: CFI-OAAL-1.0
 content_sha256: f35426d47df4b3a83038e4687e0a3cb178a584737c08b315852a1c9da64e14ac
 canonical: 8111-gulf-insurance-group-kuwait-most-innovative-insurance-solutions-provider-mena-20.json
 ---
