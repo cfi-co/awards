@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820030049
 wayback_snapshot_url: "http://web.archive.org/web/20220820030049/https://cfi.co/awards/middle-east/2019/tebyan-real-estate-development-best-landmark-project-partner-uae-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 8f13bdde75eb8dc980f9526cc9a828d6b9e06d550b50faf9badaf1f8d79670d0
 canonical: 7910-tebyan-real-estate-development-best-landmark-project-partner-uae-2019.json
 ---
