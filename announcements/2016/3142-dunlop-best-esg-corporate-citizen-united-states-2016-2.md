@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170108181155
 wayback_snapshot_url: "http://web.archive.org/web/20170108181155/http://cfi.co/awards/best-practice/2016/dunlop-best-esg-corporate-citizen-united-states-2016/"
+license: CFI-OAAL-1.0
 content_sha256: caeb8a6a870977f86cb538193428dcb739d40b0ce18e7b2d3e56fe467e6e9591
 canonical: 3142-dunlop-best-esg-corporate-citizen-united-states-2016-2.json
 ---
