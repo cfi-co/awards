@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418055538
 wayback_snapshot_url: "http://web.archive.org/web/20210418055538/https://cfi.co/awards/europe/2021/tendance-finance-best-alternative-investment-advisory-team-france-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 42df78468b0934143243c91924fe5cbb0aecccd2ec6397f6139f8470afa34b97
 canonical: 8976-tendance-finance-best-alternative-investment-advisory-team-france-2021.json
 ---
