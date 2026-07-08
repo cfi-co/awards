@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527044317
 wayback_snapshot_url: "http://web.archive.org/web/20260527044317/https://cfi.co/awards/front/2023/abu-dhabi-global-market-best-international-financial-centre-emea-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 157c5bba789bac19c362e6ce98c934e046d95bf9203e57cee9c134e27a187ec1
 canonical: 11297-abu-dhabi-global-market-best-international-financial-centre-emea-2022.json
 ---
