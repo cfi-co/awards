@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921111905
 wayback_snapshot_url: "http://web.archive.org/web/20210921111905/https://cfi.co/awards/middle-east/2018/middle-east-paper-company-mepco-best-corporate-governance-leadership-saudi-arabia-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 1f232d731b5d5ba045a7f63ed09f8c762540ac4f4c55b09e1beb3dc00c8d6825
 canonical: 5211-middle-east-paper-company-mepco-best-corporate-governance-leadership-saudi-arabi.json
 ---
