@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209181732
 wayback_snapshot_url: "http://web.archive.org/web/20250209181732/https://cfi.co/awards/corporate-leadership/2024/qic-group-best-insurance-leadership-gcc-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 4c817ca9a28e1cb7a97ce7ba747ae408759f19632131fe19a4fb2b711b88e4e8
 canonical: 12846-qic-group-best-insurance-leadership-gcc-2024.json
 ---
