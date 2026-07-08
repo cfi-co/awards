@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160505095122
 wayback_snapshot_url: "http://web.archive.org/web/20160505095122/http://cfi.co/awards/middle-east/2013/qiib-best-islamic-bank-qatar-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 27fec3c8f911dcbd4d1d91ada44c081f32eef574e959f4a7596c71b275bc2012
 canonical: 1234-qiib-best-islamic-bank-qatar-2014.json
 ---

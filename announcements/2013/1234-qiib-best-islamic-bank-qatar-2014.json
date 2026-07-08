@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20160505095122",
-        "wayback_snapshot_url": "http://web.archive.org/web/20160505095122/http://cfi.co/awards/middle-east/2013/qiib-best-islamic-bank-qatar-2014/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20160505095122/http://cfi.co/awards/middle-east/2013/qiib-best-islamic-bank-qatar-2014/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1235\" src=\"https://cfi.co/awards/wp-content/uploads/2014/06/qiibFull.jpg\" alt=\"qiibFull\" width=\"250\" height=\"375\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The Qatar International Islamic Bank success story is one of financial stability, good profitability and strong continuous growth over recent years. </strong></p>\r\n<p style=\"text-align: justify;\">QIIB is for good reason perceived as a safe bank that is fully responsive to changing needs. Customer loyalty has remained strong since the inception of the Bank and performance indicators are good.</p>\r\n<p style=\"text-align: justify;\">Management is now exploring options for the possible expansion of operations into Africa and South East Asia. The CFI.co Judging Panel is pleased to confirm QIIB as the winner of our 2014 award ‘Best Islamic Bank, Qatar’.</p>",
     "content_sha256": "27fec3c8f911dcbd4d1d91ada44c081f32eef574e959f4a7596c71b275bc2012",
-    "record_sha256": "e22ba136ddd14e8a913d61924ea815cab363ba0641b504910ccba101f0d656d8"
+    "record_sha256": "e00091d81a66016c4d4a3fa13a5cea00fc39c272ca26daf6b4032ca6012e80cc"
 }
