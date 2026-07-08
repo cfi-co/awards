@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220628085125
 wayback_snapshot_url: "http://web.archive.org/web/20220628085125/https://cfi.co/awards/latin-america/2022/active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-2021-best-reinsurer-emerging-markets-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 6547d4ea8708dd0a8fb29ceec8c17ef2a67c17d365a8061be37bcc1d4110f4e6
 canonical: 10036-active-capital-reinsurance-ltd-best-specialised-reinsurance-solutions-global-202.json
 ---
