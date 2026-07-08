@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921113838
 wayback_snapshot_url: "http://web.archive.org/web/20210921113838/https://cfi.co/awards/asia-pacific/2018/academy-of-rock-outstanding-contribution-to-music-education-asia-pacific-2017/"
+license: CFI-OAAL-1.0
 content_sha256: fa047766112278c75b6c6935a0dd93109de37d48e7ca0537b96673127b342bd2
 canonical: 5305-academy-of-rock-outstanding-contribution-to-music-education-asia-pacific-2017.json
 ---
