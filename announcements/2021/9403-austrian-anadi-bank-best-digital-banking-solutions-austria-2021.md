@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210804095931
 wayback_snapshot_url: "http://web.archive.org/web/20210804095931/https://cfi.co/awards/europe/2021/austrian-anadi-bank-best-digital-banking-solutions-austria-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 9ba43de7b3853802ab972b9237ca1d9855fb3c3e1b2c3d758e075d252d21a53b
 canonical: 9403-austrian-anadi-bank-best-digital-banking-solutions-austria-2021.json
 ---
