@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630133051
 wayback_snapshot_url: "http://web.archive.org/web/20220630133051/https://cfi.co/awards/africa/2022/biat-best-bank-governance-tunisia-2021/"
+license: CFI-OAAL-1.0
 content_sha256: d1ec08b7e4a080d3fe04871dcf6c3f9eb4a57446b23ab127e3269b6a030a4527
 canonical: 10115-biat-best-bank-governance-tunisia-2021.json
 ---
