@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820142310
 wayback_snapshot_url: "http://web.archive.org/web/20190820142310/https://cfi.co/awards/middle-east/2019/etihad-airways-technical-training-best-aviation-technical-training-middle-east-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 8e194e04947c06742106aad4ccb5bf91255da130c65b342d5222b944fb79f28e
 canonical: 6834-etihad-airways-technical-training-best-aviation-technical-training-middle-east-2.json
 ---
