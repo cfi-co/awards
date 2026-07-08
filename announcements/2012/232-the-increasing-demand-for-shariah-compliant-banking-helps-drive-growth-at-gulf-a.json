@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210921102635",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210921102635/https://cfi.co/awards/africa/2012/the-increasing-demand-for-shariah-compliant-banking-helps-drive-growth-at-gulf-africa-bank/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921102635/https://cfi.co/awards/africa/2012/the-increasing-demand-for-shariah-compliant-banking-helps-drive-growth-at-gulf-africa-bank/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2012/10/gab.gif\"><img class=\" size-full wp-image-233 aligncenter\" title=\"gab\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/gab.gif\" alt=\"\" width=\"235\" height=\"140\" /></a><strong>Gulf African Bank (GAB) wins the 2012 award for Best Islamic Bank in Kenya.</strong></p>\r\n<p style=\"text-align: justify;\">The award reflects the achievements at the bank since 2008 when it was first granted a full commercial banking license as a dedicated Islamic Bank. The rapid growth over the past four years is testament not only to the demand for Shari’ah compliant products but also to the innovative approach of GAB, the continual improvements there and the habit of putting the needs of the client first. We fully expect to see GAB continue to grow rapidly as one of  the leading banks in the region.</p>\r\n<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-302\" title=\"gabCEO\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/gabCEO.jpg\" alt=\"\" width=\"700\" height=\"627\" /></p>",
     "content_sha256": "e4e85fd2883c7452262f4c52c867307742c43cbd52586f6c46829380ba3244e9",
-    "record_sha256": "ad9b7f185476225f18b546f4f8c35e94588fde787cad3a2d9468d47b0a51728a"
+    "record_sha256": "1cf19e00b5c9547e3455e723e90c876f5e8de0330a3cd2659695b2501eabeb10"
 }
