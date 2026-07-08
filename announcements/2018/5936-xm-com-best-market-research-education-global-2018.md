@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191214233524
 wayback_snapshot_url: "http://web.archive.org/web/20191214233524/https://cfi.co/awards/front/2018/xm-com-best-market-research-education-global-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 7d575d0d6f73d56e7b6e0a09d7851a6ae03d1ae87dd6de2cb879e535a419487b
 canonical: 5936-xm-com-best-market-research-education-global-2018.json
 ---
