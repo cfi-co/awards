@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523045836
 wayback_snapshot_url: "http://web.archive.org/web/20260523045836/https://cfi.co/awards/front/2016/cisco-capital-best-captive-technology-finance-team-global-2015-2/"
+license: CFI-OAAL-1.0
 content_sha256: fd056abac2213c15e84f70d7fb6bf8f9d08f10afbc258ff20f66845f64c59dae
 canonical: 3139-cisco-capital-best-captive-technology-finance-team-global-2015-2.json
 ---
