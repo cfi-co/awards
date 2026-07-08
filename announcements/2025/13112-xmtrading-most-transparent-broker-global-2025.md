@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260601033730
 wayback_snapshot_url: "http://web.archive.org/web/20260601033730/https://cfi.co/awards/finance/exchanges-brokers/2025/xmtrading-most-transparent-broker-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 8830d6c2238d65102cfe9572d49f188b0ecd5b1d28f9ed5610f5a9351055405e
 canonical: 13112-xmtrading-most-transparent-broker-global-2025.json
 ---
