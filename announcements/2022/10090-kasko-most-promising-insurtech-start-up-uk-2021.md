@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923180640
 wayback_snapshot_url: "http://web.archive.org/web/20230923180640/https://cfi.co/awards/industries/2022/kasko-most-promising-insurtech-start-up-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 743abeb8cf2dfd8a9941cb0fb5f883a3a8c2cb45c8211b87e61484d958c6d070
 canonical: 10090-kasko-most-promising-insurtech-start-up-uk-2021.json
 ---
