@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528105254
 wayback_snapshot_url: "http://web.archive.org/web/20220528105254/https://cfi.co/awards/africa/2017/ctrack-by-inseego-most-innovative-fleet-management-solutions-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 2a061cbc720eb362280d1937704d2019e5e42c98b574974a362135983c36a80e
 canonical: 4390-ctrack-by-inseego-most-innovative-fleet-management-solutions-africa-2016.json
 ---
