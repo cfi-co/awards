@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200619210549
 wayback_snapshot_url: "http://web.archive.org/web/20200619210549/https://cfi.co/awards/north-america/2020/the-walt-disney-company-best-corporate-treasury-management-team-united-states-2019/"
+license: CFI-OAAL-1.0
 content_sha256: b931e33a45850ab9b4dccf55c9a8aed3d74ad76788ef3b545ee86085de01c9f0
 canonical: 7192-the-walt-disney-company-best-corporate-treasury-management-team-united-states-20.json
 ---
