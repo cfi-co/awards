@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524050541
 wayback_snapshot_url: "http://web.archive.org/web/20260524050541/https://cfi.co/awards/africa/2017/banco-economico-best-bank-governance-angola-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 898c1e86f1f11a1e7cf5af7f6b06b9ffeaf861660560cedaeb3c323fd74c05db
 canonical: 3951-banco-economico-best-bank-governance-angola-2016.json
 ---
