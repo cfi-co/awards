@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062529
 wayback_snapshot_url: "http://web.archive.org/web/20191119062529/https://cfi.co/awards/asia-pacific/2018/lembaga-tabung-haji-th-best-diversified-sharia-compliant-services-leadership-asia-pacific-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 274e4e77eee3e3f58dddc3770616e0f4f74f59719854a524fa961cc9899e088f
 canonical: 5417-lembaga-tabung-haji-th-best-diversified-sharia-compliant-services-leadership-asi.json
 ---
