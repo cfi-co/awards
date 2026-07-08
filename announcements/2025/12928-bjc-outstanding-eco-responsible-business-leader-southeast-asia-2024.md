@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522221852
 wayback_snapshot_url: "http://web.archive.org/web/20250522221852/https://cfi.co/awards/asia-pacific/2025/bjc-outstanding-eco-responsible-business-leader-southeast-asia-2024/"
+license: CFI-OAAL-1.0
 content_sha256: f3b084186bd5cc736c8614c3b2837edfe98c23482a16ade3478cbb2f0105e380
 canonical: 12928-bjc-outstanding-eco-responsible-business-leader-southeast-asia-2024.json
 ---
