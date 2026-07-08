@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20220820031216",
-        "wayback_snapshot_url": "http://web.archive.org/web/20220820031216/https://cfi.co/awards/europe/2020/the-international-butler-academy-best-private-butler-training-global-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20220820031216/https://cfi.co/awards/europe/2020/the-international-butler-academy-best-private-butler-training-global-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6540\" src=\"https://cfi.co/awards/wp-content/uploads/2019/02/ButlerAcademy.jpg\" alt=\"ButlerAcademy\" width=\"308\" height=\"123\" />\r\n<p style=\"text-align: justify;\">The butler embodies the highest standards of service excellence: trustworthy and loyal, discreet and competent. Wealthy households and great estates worldwide seek professionally trained butlers — but good help can be hard to find in a market where demand has outstripped supply. The International Butler Academy (TIBA) was founded two decades ago by industry veteran Robert Wennekes to train new recruits in this fascinating and compelling profession. Wennekes continues to serve as a TIBA faculty and board member, and as chairman of the Butler Guild Association, but the academy is now under ambitious new leadership, with Gordon Munro as CEO. TIBA students spend two months in the residential training programme at the palatial Huize Damiaan in the Netherlands, founded as a monastery in 1892 and renovated in 2014 as the country’s largest private mansion. The luxurious setting gives students a glimpse of what their future could hold and provides an opportunity to put abstract instruction into practice. TIBA has begun an expansion plan that will allow guests to book a “Royal Experience” in one of three exclusive suites, each featuring round-the-clock service by a dedicated four-student team. TIBA hopes to unite academy alumni and industry professionals in the Butler Guild’s online community, which serves as a font of information and bastion of solidarity. The CFI.co judging panel is pleased to see the academy expand on a legacy of exceptional service, and declares TIBA the repeat winner of the global award for Best Private Butler Training — this time for 2020.</p>",
     "content_sha256": "b7d4d7e5efd686c3ddd16273007d94f788045fc717cf56681e4880c676a43b52",
-    "record_sha256": "2f02ebf579270c9e8bcdc6e35613f3e692d26bb62b45d73d6cf585d875d2955a"
+    "record_sha256": "40334c60762050c17cf63192f5e664579816990ba8e72f99b238ee5cdae50ead"
 }
