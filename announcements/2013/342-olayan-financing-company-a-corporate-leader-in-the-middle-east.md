@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409153753
 wayback_snapshot_url: "http://web.archive.org/web/20140409153753/http://cfi.co/awards/middle-east/2013/olayan-financing-company-a-corporate-leader-in-the-middle-east/"
+license: CFI-OAAL-1.0
 content_sha256: 1f776d2beb27912af6610d93275f91c1f3cf9556f14585f251f8f6ae075b3370
 canonical: 342-olayan-financing-company-a-corporate-leader-in-the-middle-east.json
 ---
