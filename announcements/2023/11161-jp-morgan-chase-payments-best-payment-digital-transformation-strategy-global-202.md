@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330013407
 wayback_snapshot_url: "http://web.archive.org/web/20230330013407/https://cfi.co/awards/banking/2023/jp-morgan-chase-payments-best-payment-digital-transformation-strategy-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 0d5030f74cc2a87baa637db381bc221b0996ad8f04e3aca9f060ff1b3f04fb7c
 canonical: 11161-jp-morgan-chase-payments-best-payment-digital-transformation-strategy-global-202.json
 ---
