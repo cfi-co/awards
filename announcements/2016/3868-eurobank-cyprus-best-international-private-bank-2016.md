@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221015065521
 wayback_snapshot_url: "http://web.archive.org/web/20221015065521/https://cfi.co/awards/banking/2016/eurobank-cyprus-best-international-private-bank-2016/"
+license: CFI-OAAL-1.0
 content_sha256: deb45b9d3db23d5288eb263cf8955a944ef73056d86f79b58e37d61c16784a4c
 canonical: 3868-eurobank-cyprus-best-international-private-bank-2016.json
 ---
