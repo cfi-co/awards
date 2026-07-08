@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524050921
 wayback_snapshot_url: "http://web.archive.org/web/20260524050921/https://cfi.co/awards/middle-east/2017/middle-east-capital-group-mecg-best-client-tailored-financial-solutions-mena-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 96fa3588c90f5636c876a169e432244573563ac3f9b9326f977b5af2b9533741
 canonical: 4001-middle-east-capital-group-mecg-best-client-tailored-financial-solutions-mena-201.json
 ---
