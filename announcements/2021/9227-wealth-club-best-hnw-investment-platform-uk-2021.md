@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210520122822
 wayback_snapshot_url: "http://web.archive.org/web/20210520122822/https://cfi.co/awards/europe/2021/wealth-club-best-hnw-investment-platform-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 3ee5cc4647303afacf335a9901a9bd70a5365d131b2fe348787df31924100760
 canonical: 9227-wealth-club-best-hnw-investment-platform-uk-2021.json
 ---
