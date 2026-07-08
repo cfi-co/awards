@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924130239
 wayback_snapshot_url: "http://web.archive.org/web/20210924130239/https://cfi.co/awards/professional-services/2020/ncb-insurance-company-limited-ncbic-best-insurance-advisory-jamaica-2019/"
+license: CFI-OAAL-1.0
 content_sha256: bef2d501508653548676a9f16aee11fe0a915ddac6e2b7d7ab31c3c83119ffb9
 canonical: 7783-ncb-insurance-company-limited-ncbic-best-insurance-advisory-jamaica-2019.json
 ---
