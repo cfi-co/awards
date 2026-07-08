@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523045638
 wayback_snapshot_url: "http://web.archive.org/web/20260523045638/https://cfi.co/awards/latin-america/2016/ipal-best-corporate-governance-chile-2015/"
+license: CFI-OAAL-1.0
 content_sha256: b33b786803bf6aaf8865aee3150bd24a1d19e64402976dcf33ba6a60387ca930
 canonical: 2789-ipal-best-corporate-governance-chile-2015.json
 ---
