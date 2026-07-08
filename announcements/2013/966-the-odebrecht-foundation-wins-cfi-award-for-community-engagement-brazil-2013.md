@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160730053518
 wayback_snapshot_url: "http://web.archive.org/web/20160730053518/http://cfi.co/awards/community-engagement/2013/the-odebrecht-foundation-wins-cfi-award-for-community-engagement-brazil-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 6b783025c143665ec4e4e2b761ea9edd4e2064240017aef38a1c4f4b266d4dcf
 canonical: 966-the-odebrecht-foundation-wins-cfi-award-for-community-engagement-brazil-2013.json
 ---
