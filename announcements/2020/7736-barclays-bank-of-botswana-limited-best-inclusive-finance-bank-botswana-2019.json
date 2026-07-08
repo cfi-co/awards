@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20201203233618",
-        "wayback_snapshot_url": "http://web.archive.org/web/20201203233618/https://cfi.co/awards/africa/2020/barclays-bank-of-botswana-limited-best-inclusive-finance-bank-botswana-2019/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203233618/https://cfi.co/awards/africa/2020/barclays-bank-of-botswana-limited-best-inclusive-finance-bank-botswana-2019/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-3831\" src=\"https://cfi.co/awards/wp-content/uploads/2017/02/Barclays.jpg\" alt=\"Barclays\" width=\"332\" height=\"147\" />\r\n<p style=\"text-align: justify;\">The Barclays name is synonymous with financial integrity, and in Botswana the bank exhibits a customer-centric focus that has proven profitable and inclusive. Management at Barclays Bank of Botswana believes that a superior digital platform will pave the way to exceptional — and more inclusive — customer service. Of Barclays’ 33 Botswana branches, eight are remote rural locations that provide the only financial services for miles. Investments in the bank’s digital platform, including 115 smart ATMs with touch screens and increased functionalities, have helped convince many customers to migrate to the digital future of banking. Clients can enjoy the convenience of Internet banking for 24/7 account access and download the mobile app. The app allows customers to buy mobile airtime, pay bills, transfer money locally and internationally, or send money using only a mobile number. Barclays Bank of Botswana offers financial products designed to help clients make the most of their resources, starting with bundled current and savings accounts and tiering up to Premier and Prestige accounts for the more affluent. It also offers lines of credit and insurance solutions. Business clients come to Barclays Botswana for its bold and bespoke corporate services. It is the country’s dominant bank in corporate investment and takes the time to fully understand the operations and objectives of each client. For its efforts to increase financial literacy and empowerment, the CFI.co judging panel declares Barclays Bank of Botswana Limited as the 2019 winner of the Best Inclusive Finance Bank (Botswana) award.</p>",
     "content_sha256": "68462a6c92c9b77d61b09e997734179646625b20bcbc9449c51ecb517dbf375c",
-    "record_sha256": "4251e90784d247bda58012746409cc2060b8a64175000556ecd6bd1ac1f4fe4e"
+    "record_sha256": "f55b761707a99316033f3d16e9de694039a8992bf14a35702c918b06c22adf07"
 }

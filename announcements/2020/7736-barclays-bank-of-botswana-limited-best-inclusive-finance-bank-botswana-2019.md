@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203233618
 wayback_snapshot_url: "http://web.archive.org/web/20201203233618/https://cfi.co/awards/africa/2020/barclays-bank-of-botswana-limited-best-inclusive-finance-bank-botswana-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 68462a6c92c9b77d61b09e997734179646625b20bcbc9449c51ecb517dbf375c
 canonical: 7736-barclays-bank-of-botswana-limited-best-inclusive-finance-bank-botswana-2019.json
 ---
