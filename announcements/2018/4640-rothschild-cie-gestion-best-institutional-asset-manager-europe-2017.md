@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426104615
 wayback_snapshot_url: "http://web.archive.org/web/20190426104615/https://cfi.co/awards/europe/2018/rothschild-cie-gestion-best-institutional-asset-manager-europe-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 9573bb8e6b564adb6a1d657bfca138408bbf3a65673c384935f2a1526bb6532a
 canonical: 4640-rothschild-cie-gestion-best-institutional-asset-manager-europe-2017.json
 ---
