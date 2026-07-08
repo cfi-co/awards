@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260529034805",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260529034805/https://cfi.co/awards/middle-east/2022/kuwait-international-bank-best-banking-vision-mena-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260529034805/https://cfi.co/awards/middle-east/2022/kuwait-international-bank-best-banking-vision-mena-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6398\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/KIB.jpg\" alt=\"KIB\" width=\"349\" height=\"135\" />\r\n<p style=\"text-align: justify;\">Kuwait International Bank (KIB) traces its origin back to an incorporation in 1973 and the former name Kuwait Real Estate Bank. The bank has grown supported by strong leadership, a solid governance structure and a dedicated team. KIB has established a strategic banking network offering service points through numerous ATMs and branches. Corporate and individual clients can access services through KIB’s digital banking platform or the telebanking service, which allows users to access information via interactive voice response and connect to an agent whenever necessary. KIB offers a full suite of banking services, from credit cards and real estate to Shariah-compliant accounts. Clients earn cashback reward points when using KIB credit cards. Business clients appreciate KIB’s e-payments gateway, which offers a convenient and secure platform for e-commerce activity. KIB’s digital banking app, which is available for Apple, Android and Windows smartphones, gives clients anytime-anywhere control over their accounts. The bank has expanded its technological base to meet the needs of the contemporary consumer, adding visual-interface capabilities and instant card issuance at select branches. KIB is a public-quoted company that aims to become a catalyst of socio-economic development for the country and its people. The company first registered on the CFI.co radar in 2015 for its client-centric product range and exceptional ethical standards. KIB has placed every year since in the CFI.co awards programme, with the judges commenting on its high-growth track record. This time KIB claims the 2021 award for Best Banking Vision (MENA).</p>",
     "content_sha256": "db9034aad2113f183fd25db920ea7fb365126a685df5381138ef06a35eabc920",
-    "record_sha256": "93951bfc2a448a1249dbd0a9af6049a13adf0c99f1948f65dab56f927787b563"
+    "record_sha256": "87ec4e41271fb7bde8df806ecea6010b8a8d30f6d8f5c2e27c934a3166ae4b0f"
 }
