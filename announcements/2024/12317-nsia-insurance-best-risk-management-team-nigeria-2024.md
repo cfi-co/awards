@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241009034921
 wayback_snapshot_url: "http://web.archive.org/web/20241009034921/https://cfi.co/awards/africa/2024/nsia-insurance-best-risk-management-team-nigeria-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 685b0a9cc4e7708b403e160bc0d693e5b86c39e0829d9e89bd98c71cf5b55f8f
 canonical: 12317-nsia-insurance-best-risk-management-team-nigeria-2024.json
 ---
