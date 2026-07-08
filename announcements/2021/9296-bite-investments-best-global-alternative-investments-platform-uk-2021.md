@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211016000430
 wayback_snapshot_url: "http://web.archive.org/web/20211016000430/https://cfi.co/awards/europe/2021/bite-investments-best-global-alternative-investments-platform-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 07a92f2c179800cd618acbc49a2996014f58adedbbdccc3d59239c1e6b54bea8
 canonical: 9296-bite-investments-best-global-alternative-investments-platform-uk-2021.json
 ---
