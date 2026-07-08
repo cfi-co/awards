@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920111900
 wayback_snapshot_url: "http://web.archive.org/web/20210920111900/https://cfi.co/awards/africa/2021/pac-capital-best-investment-banking-team-nigeria-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 30e7b36f9b24f4067550a6deb9d5e5402a84b2cf0c999d7c33aed01ed7aab234
 canonical: 9577-pac-capital-best-investment-banking-team-nigeria-2021.json
 ---
