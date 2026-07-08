@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260531033211",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260531033211/https://cfi.co/awards/front/2020/groupe-cioa-best-business-value-creation-partner-global-2019/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260531033211/https://cfi.co/awards/front/2020/groupe-cioa-best-business-value-creation-partner-global-2019/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6164\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/CIOA.jpg\" alt=\"CIOA\" width=\"349\" height=\"95\" />\r\n<p style=\"text-align: justify;\">Since its inception in 1994, Groupe CIOA has taken the view that strength comes from unity. The collaborative model that CIOA has championed demonstrates outstanding value creation through strategic joint ventures with partners near and far. The group network spans 140 countries and some 500,000 member companies, 200 experts, and 2,300 co-developers. CIOA first came to the attention of the CFI.co judging panel in 2018 for its role as a facilitator of international business and provider of multidisciplinary solutions for global enterprises, organisations, and government agencies. Never content to rest on its laurels, CIOA continues to give cause for celebration and the company aims to facilitate business initiatives through a digital ecosystem. Since CIOA’s award last year, it has established several new joint ventures. In Cameroun, CIOA has partnered with NEO INDUSTRY to develop a “BATI-FABLAB” factory to manufacture economic modular steel-frame residences, addressing a shortage of approximately one million homes. CIOA has established similar BATI-FABLAB factories in Mayotte and Mauritius. The group also partners with institutional clients, including eight cities in Cameroun where it has created a bridge to connect businesses operators with regional players. Collaboration is the key focus of the CIOA model — and has resulted in the judges’ decision to declare Groupe CIOA as 2019 winner of the Best Business Value Creation Partner (Global) award.</p>",
     "content_sha256": "dea16f1a5fab72cc145b343eda555c3320cc5231446c39985be898c4d7883395",
-    "record_sha256": "3a5a8bfa1e6d0ce0e7b03eed78c63042c3a3363ed8c641420cee01b672bf4a77"
+    "record_sha256": "fa993e832d004b240e94a1ead9e500c98067ae4170c2c0f3438039b6f278a7d3"
 }
