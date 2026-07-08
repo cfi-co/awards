@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921103640
 wayback_snapshot_url: "http://web.archive.org/web/20210921103640/https://cfi.co/awards/latin-america/2017/grupo-panamerican-best-diversified-group-leadership-bolivia-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 947c4b2265c1856c2f00689697a86bccbea013bceceb96435aa5e301811490a6
 canonical: 4196-grupo-panamerican-best-diversified-group-leadership-bolivia-2016.json
 ---
