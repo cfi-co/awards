@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209181617
 wayback_snapshot_url: "http://web.archive.org/web/20250209181617/https://cfi.co/awards/africa/2013/cfi-award-winner-cirrus-oil-and-corporate-community-engagement-in-ghana/"
+license: CFI-OAAL-1.0
 content_sha256: f28b83c2cadf72e31866bfe4c54d00165adc9d00ab83fa215ed3527192b6394e
 canonical: 636-cfi-award-winner-cirrus-oil-and-corporate-community-engagement-in-ghana.json
 ---
