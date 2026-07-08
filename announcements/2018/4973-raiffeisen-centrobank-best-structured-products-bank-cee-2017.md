@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724023727
 wayback_snapshot_url: "http://web.archive.org/web/20210724023727/https://cfi.co/awards/europe/2018/raiffeisen-centrobank-best-structured-products-bank-cee-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 696e2b2a4e47fda4f04ada7a00f6898c4af370dce8b67596e7b0890e664257bd
 canonical: 4973-raiffeisen-centrobank-best-structured-products-bank-cee-2017.json
 ---
