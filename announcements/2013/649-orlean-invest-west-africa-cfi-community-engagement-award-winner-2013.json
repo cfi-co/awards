@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20130820190312",
-        "wayback_snapshot_url": "http://web.archive.org/web/20130820190312/http://cfi.co/awards/africa/2013/orlean-invest-west-africa-cfi-community-engagement-award-winner-2013/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20130820190312/http://cfi.co/awards/africa/2013/orlean-invest-west-africa-cfi-community-engagement-award-winner-2013/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-650\" src=\"https://cfi.co/awards/wp-content/uploads/2013/07/orlean.jpg\" alt=\"orlean\" width=\"261\" height=\"36\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Orlean Invest West Africa is CFI’s stand-out Corporate Community Engagement winner for the continent in 2013.</strong> The judging panel applauds Orlean’s ‘Integrated Participatory Approach’ whereby transparency in stakeholder relations is paramount and leads to shared goals and mutual benefits. The panel considers Orlean’s mission statement to be exemplary; it calls for the employment of members of local communities, the provision of community development programmes that are really needed and best-practice guarantees of community-friendly operations. The Company provides generous employee welfare and is championing educational success, improved healthcare and sporting activities in the communities. The panel was most impressed to hear of Orlean’s mediation between hostile ethic groups near the Company’s operations in Nigeria. These people had been fighting for forty years but were brought together in peace as a result of Orlean’s intervention and community project development efforts.</p>",
     "content_sha256": "fd873542361b51da6a59896342b8cfc8ad1f59c6c7a9e8db48fd3e75bbe9dc44",
-    "record_sha256": "ee208fc705cd4b3b11deee8e12db4cb12f7d016d655ab89c627fe0d1c5000e8f"
+    "record_sha256": "f44e1426ce0bc1c329488c31c4fc305373cf88a0e8f68cb4e00fd0f9d6243bc1"
 }
