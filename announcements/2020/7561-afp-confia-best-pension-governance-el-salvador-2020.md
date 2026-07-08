@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813175155
 wayback_snapshot_url: "http://web.archive.org/web/20200813175155/https://cfi.co/awards/latin-america/2020/afp-confia-best-pension-governance-el-salvador-2020/"
+license: CFI-OAAL-1.0
 content_sha256: e68d4345d4b813d1c073b62f8378d1555f2d225cdb688b7788b20a033d0d859f
 canonical: 7561-afp-confia-best-pension-governance-el-salvador-2020.json
 ---
