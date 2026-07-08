@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210321040219
 wayback_snapshot_url: "http://web.archive.org/web/20210321040219/https://cfi.co/awards/asia-pacific/2021/sis-group-of-schools-best-international-educational-institution-south-east-asia-2021/"
+license: CFI-OAAL-1.0
 content_sha256: cb440ab2c1244f1dd71f71b6fe66951d37ee600fe3df0f7e9cc774c57f499f70
 canonical: 8900-sis-group-of-schools-best-international-educational-institution-south-east-asia-.json
 ---
