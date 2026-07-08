@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260526044051
 wayback_snapshot_url: "http://web.archive.org/web/20260526044051/https://cfi.co/awards/africa/2021/tanger-med-zones-best-low-carbon-free-zone-opportunities-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 7780c345bab6c795d8f9d8f0ea0aec8e7a98350e7512ef93115b809872a3f6a9
 canonical: 10611-tanger-med-zones-best-low-carbon-free-zone-opportunities-global-2021.json
 ---
