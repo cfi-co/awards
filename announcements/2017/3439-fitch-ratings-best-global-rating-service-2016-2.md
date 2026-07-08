@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20161011035426
 wayback_snapshot_url: "http://web.archive.org/web/20161011035426/http://cfi.co/awards/north-america/2016/fitch-ratings-best-global-rating-service-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 39c0ecd3b81acf231a9dc5cdf6c64c127dbd4db333d1c847c04874ac3cd6139f
 canonical: 3439-fitch-ratings-best-global-rating-service-2016-2.json
 ---
