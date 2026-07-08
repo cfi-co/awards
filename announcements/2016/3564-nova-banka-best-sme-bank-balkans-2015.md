@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525040042
 wayback_snapshot_url: "http://web.archive.org/web/20260525040042/https://cfi.co/awards/banking/2016/nova-banka-best-sme-bank-balkans-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 57714c93f84a2d695906904282d9010056baaade27d8ff4d27a01af01fe7ac4a
 canonical: 3564-nova-banka-best-sme-bank-balkans-2015.json
 ---
