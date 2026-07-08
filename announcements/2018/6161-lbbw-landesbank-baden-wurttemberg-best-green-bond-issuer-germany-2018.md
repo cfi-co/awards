@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724010328
 wayback_snapshot_url: "http://web.archive.org/web/20210724010328/https://cfi.co/awards/europe/2018/lbbw-landesbank-baden-wurttemberg-best-green-bond-issuer-germany-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 6384b9a5aec08bcdb33038db8fcba7230b8cd22008679550d8a912129d4e30a7
 canonical: 6161-lbbw-landesbank-baden-wurttemberg-best-green-bond-issuer-germany-2018.json
 ---
