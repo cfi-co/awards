@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209171932
 wayback_snapshot_url: "http://web.archive.org/web/20250209171932/https://cfi.co/awards/africa/2025/biat-banque-internationale-arabe-de-tunisie-best-bank-governance-and-outstanding-contribution-to-youth-development-tunisia-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 31e34307abfe4db4b7693a1376b7c41c870e0037422e8794a1d6f950d39110a8
 canonical: 12827-biat-banque-internationale-arabe-de-tunisie-best-bank-governance-and-outstanding.json
 ---
