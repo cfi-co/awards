@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220811153609
 wayback_snapshot_url: "http://web.archive.org/web/20220811153609/https://cfi.co/awards/professional-services/consultancies/2022/eden-mccallum-best-management-consultancy-team-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: e66f5466aa80d1b1a4188af015bcc3b980d18b40d221ad4cc09a0a6c19121561
 canonical: 10579-eden-mccallum-best-management-consultancy-team-europe-2022.json
 ---
