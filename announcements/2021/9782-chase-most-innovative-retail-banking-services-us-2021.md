@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207220301
 wayback_snapshot_url: "http://web.archive.org/web/20211207220301/https://cfi.co/awards/north-america/2021/chase-most-innovative-retail-banking-services-us-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 76eacea4fca9abbc11b722fb0c2502197f9317a9b13e6ccceb5b0359371c9d17
 canonical: 9782-chase-most-innovative-retail-banking-services-us-2021.json
 ---
