@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250710144056
 wayback_snapshot_url: "http://web.archive.org/web/20250710144056/https://cfi.co/awards/europe/2025/cordet-best-alternative-credit-investor-united-kingdom-2025/"
+license: CFI-OAAL-1.0
 content_sha256: b928b75b63d2db290cbe7bf84360ef821c57ec1576c112ff8a9fe6d0eedaabc3
 canonical: 12989-cordet-best-alternative-credit-investor-united-kingdom-2025.json
 ---
