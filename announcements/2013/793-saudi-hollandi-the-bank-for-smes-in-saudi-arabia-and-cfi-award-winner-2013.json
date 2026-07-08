@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140410023722",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140410023722/http://cfi.co/awards/middle-east/2013/saudi-hollandi-the-bank-for-smes-in-saudi-arabia-and-cfi-award-winner-2013/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140410023722/http://cfi.co/awards/middle-east/2013/saudi-hollandi-the-bank-for-smes-in-saudi-arabia-and-cfi-award-winner-2013/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-794\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/shb.jpg\" alt=\"shb\" width=\"280\" height=\"53\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Saudi Hollandi Bank has a proud history of service in the Kingdom of Saudi Arabia which can be traced back to the opening of its first branch in Jeddah back in 1926.</strong> SHB may not be the largest bank in the country but, according to the CFI.co Judging Panel, is certainly the one offering the best opportunities to Small and Medium Enterprises (SMEs).</p>\r\n<p style=\"text-align: justify;\">The Bank’s SME business was established just two years ago and now has a team of fifty professionals – local financial talent positioned close to their customers and working out of eight fully-dedicated SME business centres.</p>\r\n<p style=\"text-align: justify;\">The judges point out that SMEs are of special importance to the bank. This focus has proved to be very good for business. Saudi Hollandi is our Best SME Bank, Saudi Arabia, 2013.</p>",
     "content_sha256": "28da6a2f61e28c5a56e8564a2f01bd4de6f29efa52b8a68873143c5b6dc07e7f",
-    "record_sha256": "d2f1cbdb60ebfb22ae1b8395cde1e1f9c67998241e9b3a9a9ddac41c384b43e4"
+    "record_sha256": "cdce6beb9086c3bd6c0f31ec0db5952ae3abfa1c4b3526dfc5114deedf2f31fe"
 }

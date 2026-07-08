@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140410023722
 wayback_snapshot_url: "http://web.archive.org/web/20140410023722/http://cfi.co/awards/middle-east/2013/saudi-hollandi-the-bank-for-smes-in-saudi-arabia-and-cfi-award-winner-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 28da6a2f61e28c5a56e8564a2f01bd4de6f29efa52b8a68873143c5b6dc07e7f
 canonical: 793-saudi-hollandi-the-bank-for-smes-in-saudi-arabia-and-cfi-award-winner-2013.json
 ---
