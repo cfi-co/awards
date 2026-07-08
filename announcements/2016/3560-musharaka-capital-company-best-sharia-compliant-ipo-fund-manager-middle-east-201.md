@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524041210
 wayback_snapshot_url: "http://web.archive.org/web/20260524041210/https://cfi.co/awards/middle-east/2016/musharaka-capital-company-best-sharia-compliant-ipo-fund-manager-middle-east-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 347e4fe3475696fca3dcfaaa8247b9e23ada357a66be3086df66c98c49d96fc4
 canonical: 3560-musharaka-capital-company-best-sharia-compliant-ipo-fund-manager-middle-east-201.json
 ---
