@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724013835
 wayback_snapshot_url: "http://web.archive.org/web/20210724013835/https://cfi.co/awards/europe/2021/asteria-investment-managers-best-esg-impact-investment-strategy-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 70139d8eecb57b633abd3f379bf2a8d31c91675cf629ef408dfac46c32dfdce9
 canonical: 8934-asteria-investment-managers-best-esg-impact-investment-strategy-europe-2021.json
 ---
