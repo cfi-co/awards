@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042731
 wayback_snapshot_url: "http://web.archive.org/web/20260523042731/https://cfi.co/awards/europe/2014/deutsche-bank-cfi-co-private-bank-award-winner-germany/"
+license: CFI-OAAL-1.0
 content_sha256: a8f8fca3c6d2017446e767944fbda7559644a14e2c5c3831bfd86a15bdd45b9c
 canonical: 1161-deutsche-bank-cfi-co-private-bank-award-winner-germany.json
 ---
