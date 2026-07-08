@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207213144
 wayback_snapshot_url: "http://web.archive.org/web/20211207213144/https://cfi.co/awards/north-america/2021/the-aes-corporation-best-esg-power-producer-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 6a253ff2ba619f8a75b49675c7008cec249eebd3fd5412a95cddb9e60d3e313a
 canonical: 9687-the-aes-corporation-best-esg-power-producer-global-2021.json
 ---
