@@ -30,10 +30,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409153847",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409153847/http://cfi.co/awards/europe/2012/lukoil-russia-obvious-choice-as-corporate-leader-2012/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409153847/http://cfi.co/awards/europe/2012/lukoil-russia-obvious-choice-as-corporate-leader-2012/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2012/09/lukoil.jpg\"><img class=\" wp-image-223 aligncenter\" title=\"lukoil\" src=\"https://cfi.co/awards/wp-content/uploads/2012/09/lukoil-300x89.jpg\" alt=\"\" width=\"210\" height=\"62\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>According the CFI judging panel, LUKOIL, Russia is a model of transparency and good governance and an obvious choice as a Corporate Leader in Europe. </strong></p>\r\n<p style=\"text-align: justify;\">LUKOIL generates a mass of favourable statistics. It ranks as the 40<sup>th</sup> largest company in the world by sales and sits five places higher on the list in terms of profitability. The Company (with a current market capitalisation of close to $50 billion) is responsible for around 17 per cent of Russia’s oil production and refining activity.  LUKOIL delivered $38.4 billion to the Russian government in tax for the year 2011. CSR activities focus on education, support to orphans and the funding of museums. The judges commented favourably on the LUKOIL Pension Fund, pointing out that the Company matches employee contributions in all countries in which it is represented. This was one of the first non-government pension funds in Russia and it is properly audited and very well run. The CFI panel congratulates LUKOIL as an example of a very large oil and gas company that truly promises benefits to all stakeholders – and delivers handsomely.</p>",
     "content_sha256": "022a885fdbd3e4ed2b55e991712e6964fe686a456e2efcfb6e34529e69560408",
-    "record_sha256": "5517ab3346ad0ccba2c81b277fd6be1a07997e92a112a969567850b61a18a0d6"
+    "record_sha256": "27e07d14fe6e4eec67de0ac1dd010725102694ff8fbb078a8965f46f7338efa3"
 }
