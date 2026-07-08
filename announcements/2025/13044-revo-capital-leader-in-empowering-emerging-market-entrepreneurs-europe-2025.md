@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250730160949
 wayback_snapshot_url: "http://web.archive.org/web/20250730160949/https://cfi.co/awards/europe/2025/revo-capital-leader-in-empowering-emerging-market-entrepreneurs-europe-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 3f61eaeaa41053fa791f84f23d6e5dc37ce4d514b73be2cde5e63553e0f87473
 canonical: 13044-revo-capital-leader-in-empowering-emerging-market-entrepreneurs-europe-2025.json
 ---
