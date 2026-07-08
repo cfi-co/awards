@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241005092453
 wayback_snapshot_url: "http://web.archive.org/web/20241005092453/https://cfi.co/awards/asia-pacific/2024/bank-one-ltd-best-international-banking-services-indian-ocean-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 1e80621b6a3b5e93c12b59d0f1ed5c3e8297aef26fe1c18fcf94e486fc7824b1
 canonical: 12595-bank-one-ltd-best-international-banking-services-indian-ocean-2024.json
 ---
