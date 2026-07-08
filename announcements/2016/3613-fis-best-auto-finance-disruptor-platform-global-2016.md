@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426095921
 wayback_snapshot_url: "http://web.archive.org/web/20190426095921/https://cfi.co/awards/industries/2016/fis-best-auto-finance-disruptor-platform-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1565d7e5e0adea4bae7984abf11dbaa6f07a8a8a545b249552d29a2e70af61cb
 canonical: 3613-fis-best-auto-finance-disruptor-platform-global-2016.json
 ---
