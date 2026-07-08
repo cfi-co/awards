@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409053247",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409053247/http://cfi.co/awards/middle-east/2013/gulf-custody-company-wins-our-gcc-fund-management-award-for-2013/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409053247/http://cfi.co/awards/middle-east/2013/gulf-custody-company-wins-our-gcc-fund-management-award-for-2013/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1028\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/Gulf-Custody-Company.jpg\" alt=\"Gulf Custody Company\" width=\"194\" height=\"115\" /></p>\r\n<p style=\"text-align: justify;\"><strong>According to the CFI.co Judging Panel, ‘Gulf Custody Company is assuming a leadership role in fund custodian and settlement services in the GCC. The Company is an obvious winner of our 2013 award.’</strong></p>\r\n<p style=\"text-align: justify;\">Gulf Custody was established in Kuwait in 2001, entered Bahrain in 2003 and Oman in 2010. The only specialist in the region, the appropriately termed GCC is not distracted by other unconnected business activities. They concentrate entirely on what they know best.</p>\r\n<p style=\"text-align: justify;\">The Panel forecasts a promising 2014 for this well managed and promising company and congratulates Gulf Custody Company on this success.</p>",
     "content_sha256": "50a91c4ff39884de377dca7b1eaf28e9e45f6db62dba7acdb5bfe025057db334",
-    "record_sha256": "a970bbfb254a597ca47939837b9efb991b5259fcb1ac5e4a7bbaf646eee8cab6"
+    "record_sha256": "a0c03e45204d687f1a5ebe0f81225a32471ca67286b987faa0c316a601fea92a"
 }
