@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094314
 wayback_snapshot_url: "http://web.archive.org/web/20190426094314/https://cfi.co/awards/africa/2016/finbond-mutual-bank-best-savings-bank-south-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 199d32b1ae2fee42dc3b3d17ead6fc1d4c7353513c774747ebf5ef55e11b0287
 canonical: 4079-finbond-mutual-bank-best-savings-bank-south-africa-2016.json
 ---
