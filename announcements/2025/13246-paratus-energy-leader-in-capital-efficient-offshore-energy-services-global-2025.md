@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260226012004
 wayback_snapshot_url: "http://web.archive.org/web/20260226012004/https://cfi.co/awards/development/2025/paratus-energy-leader-in-capital-efficient-offshore-energy-services-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 3de15a13bc2833a8c26e0fd0f22436a60a8dcf722027471ba9a7b467cc64a66a
 canonical: 13246-paratus-energy-leader-in-capital-efficient-offshore-energy-services-global-2025.json
 ---
