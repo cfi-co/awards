@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20130828110405
 wayback_snapshot_url: "http://web.archive.org/web/20130828110405/http://cfi.co/awards/europe/2013/ak-leads-the-field-in-institutional-brokerage-our-2013-award-winner-in-turkey/"
+license: CFI-OAAL-1.0
 content_sha256: 72fb8d8a2ca8c84b0a43dd4762bb8605e7af6f8d9da41dd185b09b881ae69fb1
 canonical: 701-ak-leads-the-field-in-institutional-brokerage-our-2013-award-winner-in-turkey.json
 ---
