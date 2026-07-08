@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924125101
 wayback_snapshot_url: "http://web.archive.org/web/20210924125101/https://cfi.co/awards/industries/2019/cleanmax-solar-best-solar-power-turnkey-solutions-india-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 9136914dc8cca26f7d3102ee76ad7cb2645a0262dd300e41b4a8c2c83d25e26e
 canonical: 6512-cleanmax-solar-best-solar-power-turnkey-solutions-india-2018.json
 ---
