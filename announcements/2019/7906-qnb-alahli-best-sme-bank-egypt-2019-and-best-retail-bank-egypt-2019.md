@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525071102
 wayback_snapshot_url: "http://web.archive.org/web/20260525071102/https://cfi.co/awards/africa/2019/qnb-alahli-best-sme-bank-egypt-2019-and-best-retail-bank-egypt-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 620190f702c1e174b69679d01004e99a536c04f341773ddfe96d3f3e79429e7d
 canonical: 7906-qnb-alahli-best-sme-bank-egypt-2019-and-best-retail-bank-egypt-2019.json
 ---
