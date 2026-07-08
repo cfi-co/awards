@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209165753
 wayback_snapshot_url: "http://web.archive.org/web/20250209165753/https://cfi.co/awards/banking/2024/national-bank-of-greece-best-corporate-governance-greece-2024/"
+license: CFI-OAAL-1.0
 content_sha256: b6adac8550fbbdc3b7a90a05d9c9da3914f764c21384fbab4d6c6c6bb5248163
 canonical: 12830-national-bank-of-greece-best-corporate-governance-greece-2024.json
 ---
