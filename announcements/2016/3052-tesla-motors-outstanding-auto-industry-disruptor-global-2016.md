@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928194604
 wayback_snapshot_url: "http://web.archive.org/web/20220928194604/https://cfi.co/awards/industries/2016/tesla-motors-outstanding-auto-industry-disruptor-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 3d12624e6eb5426d003ff6dbe506ff7433f1102816749ec356c8e98769be4d88
 canonical: 3052-tesla-motors-outstanding-auto-industry-disruptor-global-2016.json
 ---
