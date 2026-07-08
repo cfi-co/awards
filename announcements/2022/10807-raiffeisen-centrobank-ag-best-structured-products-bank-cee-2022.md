@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527043638
 wayback_snapshot_url: "http://web.archive.org/web/20260527043638/https://cfi.co/awards/banking/2022/raiffeisen-centrobank-ag-best-structured-products-bank-cee-2022/"
+license: CFI-OAAL-1.0
 content_sha256: b3591133a93aaf2e2d3a58540688665dba1cd1b2e341fca8432a5f5f1c2942bd
 canonical: 10807-raiffeisen-centrobank-ag-best-structured-products-bank-cee-2022.json
 ---
