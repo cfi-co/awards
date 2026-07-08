@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260526045445
 wayback_snapshot_url: "http://web.archive.org/web/20260526045445/https://cfi.co/awards/europe/2021/wilo-se-best-industrial-csr-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: e4a50df6634fdc093570edf4136c0e1481cc48774f97d47f7789f27ed7448e01
 canonical: 9712-wilo-se-best-industrial-csr-europe-2021.json
 ---
