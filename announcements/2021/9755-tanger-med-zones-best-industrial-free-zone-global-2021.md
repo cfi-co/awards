@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207210739
 wayback_snapshot_url: "http://web.archive.org/web/20211207210739/https://cfi.co/awards/africa/2021/tanger-med-zones-best-industrial-free-zone-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 83dcb5e719f394bbf89bff3de2d426ffe5b54da4e232bd00d678b7f29eeafabc
 canonical: 9755-tanger-med-zones-best-industrial-free-zone-global-2021.json
 ---
