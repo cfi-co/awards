@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250615002736
 wayback_snapshot_url: "http://web.archive.org/web/20250615002736/https://cfi.co/awards/best-practice/2025/corporacion-zona-franca-santiago-best-esg-industrial-free-zone-latam-caribbean-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 5a2c0635cf3a1562e1abb001868687dee3a9c618107b6dd778097d4386a0d6fb
 canonical: 12966-corporacion-zona-franca-santiago-best-esg-industrial-free-zone-latam-caribbean-2.json
 ---
