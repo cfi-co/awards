@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225150855
 wayback_snapshot_url: "http://web.archive.org/web/20240225150855/https://cfi.co/awards/professional-services/accounting/2024/hlb-best-cross-border-collaboration-for-tax-solutions-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: fd8bdee69a723c34e78f03f70c39f7aa4132cca926b228f73b3136b4b3ab2c1b
 canonical: 12235-hlb-best-cross-border-collaboration-for-tax-solutions-global-2023.json
 ---
