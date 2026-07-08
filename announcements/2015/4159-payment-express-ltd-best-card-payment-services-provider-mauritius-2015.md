@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523044842
 wayback_snapshot_url: "http://web.archive.org/web/20260523044842/https://cfi.co/awards/industries/2015/payment-express-ltd-best-card-payment-services-provider-mauritius-2015/"
+license: CFI-OAAL-1.0
 content_sha256: d6c42c47fe68cdca0542b540a4f93feb75dbb882d44a6d4228c260ade27f0910
 canonical: 4159-payment-express-ltd-best-card-payment-services-provider-mauritius-2015.json
 ---
