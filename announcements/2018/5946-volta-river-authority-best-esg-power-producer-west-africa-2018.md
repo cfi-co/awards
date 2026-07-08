@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525053928
 wayback_snapshot_url: "http://web.archive.org/web/20260525053928/https://cfi.co/awards/front/2018/volta-river-authority-best-esg-power-producer-west-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 6195e9732e49a81a3481d9bf7fb579a69da3073358f78e9978228842d453a80d
 canonical: 5946-volta-river-authority-best-esg-power-producer-west-africa-2018.json
 ---
