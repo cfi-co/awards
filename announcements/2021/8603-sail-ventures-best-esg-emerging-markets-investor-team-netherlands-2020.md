@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210120075856
 wayback_snapshot_url: "http://web.archive.org/web/20210120075856/https://cfi.co/awards/europe/2021/sail-ventures-best-esg-emerging-markets-investor-team-netherlands-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 1217b210f0bb1e47ac31a2c0af2575c550d5af684df3fdc800add00871c9da82
 canonical: 8603-sail-ventures-best-esg-emerging-markets-investor-team-netherlands-2020.json
 ---
