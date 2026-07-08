@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090039
 wayback_snapshot_url: "http://web.archive.org/web/20190724090039/https://cfi.co/awards/europe/2019/the-international-butler-academy-best-private-butler-training-global-2018/"
+license: CFI-OAAL-1.0
 content_sha256: bdee64d123ca3d8059dbf3415c4e5f0fd062c91463f00203ea7543223e302229
 canonical: 6539-the-international-butler-academy-best-private-butler-training-global-2018.json
 ---
