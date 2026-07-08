@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260526042710
 wayback_snapshot_url: "http://web.archive.org/web/20260526042710/https://cfi.co/awards/europe/2020/aquis-exchange-best-securities-trading-platform-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: b8aa9161365fc205be782833b3275e03ede3734a292111eac086eb327dbdd388
 canonical: 7611-aquis-exchange-best-securities-trading-platform-europe-2020.json
 ---
