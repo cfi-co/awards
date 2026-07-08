@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260525062724",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260525062724/https://cfi.co/awards/front/2019/caisse-de-refinancement-de-lhabitat-crh-best-social-impact-finance-france-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525062724/https://cfi.co/awards/front/2019/caisse-de-refinancement-de-lhabitat-crh-best-social-impact-finance-france-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4866\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/CRH.jpg\" alt=\"\" width=\"144\" height=\"109\" />\r\n<p style=\"text-align: justify;\">Caisse de Refinancement de l'Habitat (CRH) is unique among credit institutions. CRH was founded in 1985 in Paris, and operates within a special legal framework with the sole purpose of funding French home loans. Essentially acting as a fee-free pass-through, the company issues mortgage bonds to fund home loans granted by banks. The company has capitalised on its special legal standing to become one of the largest bond issuers in Europe, finishing 2017 with bonds worth €30.8 bn on its books. As CRH’s secured loans (written as promissory notes to commercial banks) precisely match its mortgage-backed bonds, the company’s balance sheet duration is zero. CRH bonds are compliant with Capital Requirement Directive 2, reflecting the Basel II and Basel III rules on capital measurement and capital standards. As such, CRH is eligible for open-market operations of the European Central Bank and European Covered Bond Council. Borrowing banks retain CRH refinanced loans on their balance sheets, but if a bank defaults French law gives CRH full ownership of the loans. The company’s unique set-up and special privileges have ensured a superb risk rating (Aaa by Moody's / AAA by Fitch) and a smooth trajectory with no losses or write-downs since its inception. The institution came to the attention of the CFI.co judging panel last year, and the judges have watched CRH’s successful progression with interest. For the second consecutive year, the judges name Caisse de Refinancement de l’Habitat as the winner of the Best Social Impact Finance (France) award.</p>",
     "content_sha256": "0ddce849a86ce8abfa29c19e0013310bbba79fef3799a7312e8f4020b89de52e",
-    "record_sha256": "4e7dd40be2dbc14bb22212821c2b1f2262204cda24cb298f50573ffe2f29234a"
+    "record_sha256": "adb390e989e6c17920951ef1b3751961735f85677a5ca3260263bd43b5eaae6d"
 }
