@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210120075808
 wayback_snapshot_url: "http://web.archive.org/web/20210120075808/https://cfi.co/awards/asia-pacific/2020/mindspace-best-real-estate-ipo-india-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 978cf11464ec55c9124f11f8782f66b378237403e42a3faf4637e0be4d464f14
 canonical: 8492-mindspace-best-real-estate-ipo-india-2020.json
 ---
