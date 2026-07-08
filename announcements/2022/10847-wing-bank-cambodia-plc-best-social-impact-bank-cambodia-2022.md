@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221208000229
 wayback_snapshot_url: "http://web.archive.org/web/20221208000229/https://cfi.co/awards/asia-pacific/2022/wing-bank-cambodia-plc-best-social-impact-bank-cambodia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 57df5444a321e27ddba1a36f079ea038301b84a4c71bab4b34b56008c1ce10c1
 canonical: 10847-wing-bank-cambodia-plc-best-social-impact-bank-cambodia-2022.json
 ---
