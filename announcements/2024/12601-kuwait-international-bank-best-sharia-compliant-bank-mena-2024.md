@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241005094940
 wayback_snapshot_url: "http://web.archive.org/web/20241005094940/https://cfi.co/awards/banking/2024/kuwait-international-bank-best-sharia-compliant-bank-mena-2024/"
+license: CFI-OAAL-1.0
 content_sha256: c458ab8222a19ab4e995b9f3b6e5ca4c52a2c067d91674e9f123628437742edf
 canonical: 12601-kuwait-international-bank-best-sharia-compliant-bank-mena-2024.json
 ---
