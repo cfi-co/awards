@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260603034309
 wayback_snapshot_url: "http://web.archive.org/web/20260603034309/https://cfi.co/awards/europe/2026/lattanzio-group-excellence-in-consultancy-led-transformation-europe-2025/"
+license: CFI-OAAL-1.0
 content_sha256: c835d80760379ca58de6f1c716ac409d4cac11ae9be6f2dea565d62937c8a7bf
 canonical: 13442-lattanzio-group-excellence-in-consultancy-led-transformation-europe-2025.json
 ---
