@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524050843
 wayback_snapshot_url: "http://web.archive.org/web/20260524050843/https://cfi.co/awards/asia-pacific/2017/bidv-securities-company-best-securities-broker-vietnam-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 30f92d43d9f3a059e06d271aeb5fb3f423f29fe0fc1b38834eb42d0c9a2dc490
 canonical: 3997-bidv-securities-company-best-securities-broker-vietnam-2016.json
 ---
