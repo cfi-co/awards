@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923183450
 wayback_snapshot_url: "http://web.archive.org/web/20230923183450/https://cfi.co/awards/africa/2023/sanlam-investments-best-alternative-fund-investment-team-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 021e34063f7ab8e3bbf2149b4c9216cabecccbe496f150810ba33a1ea2eb50ae
 canonical: 11665-sanlam-investments-best-alternative-fund-investment-team-africa-2023.json
 ---
