@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210127133402
 wayback_snapshot_url: "http://web.archive.org/web/20210127133402/https://cfi.co/awards/asia-pacific/2021/la-trobe-financial-asset-management-limited-best-investment-management-team-australia-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 68d49f0a055b55b58cab96ab737bf5faa3029159e09821878dd8b3864722a6e9
 canonical: 8615-la-trobe-financial-asset-management-limited-best-investment-management-team-aust.json
 ---
