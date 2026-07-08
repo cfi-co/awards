@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921120845
 wayback_snapshot_url: "http://web.archive.org/web/20210921120845/https://cfi.co/awards/africa/2018/botswana-investment-and-trade-centre-bitc-best-direct-investment-promotion-team-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 750a938895ed204a7ac4c3fa2b1e23b066a2cc8f3c606da9a9405e36ddbb348c
 canonical: 5301-botswana-investment-and-trade-centre-bitc-best-direct-investment-promotion-team-.json
 ---
