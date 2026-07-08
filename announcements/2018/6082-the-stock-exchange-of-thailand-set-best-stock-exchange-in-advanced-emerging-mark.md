@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210225093814
 wayback_snapshot_url: "http://web.archive.org/web/20210225093814/https://cfi.co/awards/finance/exchanges-brokers/2018/the-stock-exchange-of-thailand-set-best-stock-exchange-in-advanced-emerging-markets-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 28d9c0a564ac0dfe43af3f2f289151858e3f9227149bc2352bdfa1902fda75e4
 canonical: 6082-the-stock-exchange-of-thailand-set-best-stock-exchange-in-advanced-emerging-mark.json
 ---
