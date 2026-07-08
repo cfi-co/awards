@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923183621
 wayback_snapshot_url: "http://web.archive.org/web/20230923183621/https://cfi.co/awards/europe/2023/euro-exim-bank-best-global-trade-services-bank-2023/"
+license: CFI-OAAL-1.0
 content_sha256: f3159845b63c695cd839652e054eef2af4527ebc3a9cb56f5c5f6e0f4c522ebf
 canonical: 11736-euro-exim-bank-best-global-trade-services-bank-2023.json
 ---
