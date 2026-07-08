@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228105027
 wayback_snapshot_url: "http://web.archive.org/web/20210228105027/https://cfi.co/awards/europe/2021/reckitt-benckiser-group-best-sustainable-healthcare-product-innovator-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 7ad4a176163f362ad08105542f5879773b028f0c52509bd00f007aeff77e4090
 canonical: 8805-reckitt-benckiser-group-best-sustainable-healthcare-product-innovator-global-202.json
 ---
