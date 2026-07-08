@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200613093649
 wayback_snapshot_url: "http://web.archive.org/web/20200613093649/https://cfi.co/awards/europe/2020/bnp-paribas-most-esg-responsible-international-bank-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: a93451c50ddce20854ff3bb113b1509a8d3c510a482d5b372ef66f889df1d80c
 canonical: 7101-bnp-paribas-most-esg-responsible-international-bank-global-2019.json
 ---
