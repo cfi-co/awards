@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928201007
 wayback_snapshot_url: "http://web.archive.org/web/20220928201007/https://cfi.co/awards/europe/2022/crown-jewels-consultants-best-financial-market-data-services-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 2c44559a0fe4b8dacff7f84672da5c03f386f790659b96b83c5ce35c72a0c25a
 canonical: 10722-crown-jewels-consultants-best-financial-market-data-services-uk-2022.json
 ---
