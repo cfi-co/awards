@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524040902
 wayback_snapshot_url: "http://web.archive.org/web/20260524040902/https://cfi.co/awards/asia-pacific/2016/alpari-best-binary-options-broker-asia-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 43192feea3085851c644b1d61dce5451fa9cf9c3089962b54db50ea2ebd0200a
 canonical: 3454-alpari-best-binary-options-broker-asia-2016.json
 ---
