@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250430155106
 wayback_snapshot_url: "http://web.archive.org/web/20250430155106/https://cfi.co/awards/banking/2014/cfi-co-announces-2014-womens-banking-team-award-to-westpac/"
+license: CFI-OAAL-1.0
 content_sha256: b9d665388328bced973dbe909b738bdd462bc72a502a1eeb89c753c5c68008ac
 canonical: 1328-cfi-co-announces-2014-womens-banking-team-award-to-westpac.json
 ---
