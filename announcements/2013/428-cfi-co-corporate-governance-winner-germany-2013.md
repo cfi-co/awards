@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522214317
 wayback_snapshot_url: "http://web.archive.org/web/20250522214317/https://cfi.co/awards/europe/2013/cfi-co-corporate-governance-winner-germany-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 018a142a2982c6fd10187b163c3aa0fb029af7097dd93b5395f537fea58d5d64
 canonical: 428-cfi-co-corporate-governance-winner-germany-2013.json
 ---
