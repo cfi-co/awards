@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240623222038
 wayback_snapshot_url: "http://web.archive.org/web/20240623222038/https://cfi.co/awards/banking/2024/kuwait-international-bank-best-banking-vision-best-shariah-compliant-bank-mena-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 7be0a786f6df58346e485768866843dd43bffb6fda49dd484398149f725212a3
 canonical: 12282-kuwait-international-bank-best-banking-vision-best-shariah-compliant-bank-mena-2.json
 ---
