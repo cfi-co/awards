@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250812131837
 wayback_snapshot_url: "http://web.archive.org/web/20250812131837/https://cfi.co/awards/africa/2025/central-securities-depository-csd-strategic-leader-of-secure-securities-settlement-solutions-west-africa-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 8022342eb09190bd4560072828a97c01aa390c823b96211069f3c3e1c0bd53cb
 canonical: 13053-central-securities-depository-csd-strategic-leader-of-secure-securities-settleme.json
 ---
