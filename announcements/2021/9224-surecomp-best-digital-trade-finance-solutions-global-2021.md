@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614180441
 wayback_snapshot_url: "http://web.archive.org/web/20210614180441/https://cfi.co/awards/north-america/2021/surecomp-best-digital-trade-finance-solutions-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 7de51d28c98da3d67eb6639819bcdd37b2bbc62cca8880baf61ddb7e8afef526
 canonical: 9224-surecomp-best-digital-trade-finance-solutions-global-2021.json
 ---
