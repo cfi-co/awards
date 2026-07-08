@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928181603
 wayback_snapshot_url: "http://web.archive.org/web/20220928181603/https://cfi.co/awards/front/2022/learn-capital-most-innovative-global-edtech-investor-us-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 56d067cd667ca585870e50366a6fb3bf0e5cdef58f36080ec710865f21c8bcd4
 canonical: 10712-learn-capital-most-innovative-global-edtech-investor-us-2022.json
 ---
