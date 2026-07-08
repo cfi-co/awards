@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200402190549
 wayback_snapshot_url: "http://web.archive.org/web/20200402190549/https://cfi.co/awards/africa/2020/fidelis-finance-best-economic-environment-and-social-impact-sme-finance-west-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 6f732696d6ef2af46d5783b9c58043345bcc0bc82134fbe04c805a2b803b13f9
 canonical: 7256-fidelis-finance-best-economic-environment-and-social-impact-sme-finance-west-afr.json
 ---
