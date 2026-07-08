@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525071929
 wayback_snapshot_url: "http://web.archive.org/web/20260525071929/https://cfi.co/awards/africa/2019/ostoul-capital-group-best-boutique-investment-bank-egypt-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 54b62d152fefc2daa5de39e56b08af1ee5509d49f06bbf74d02ab419cf0372e3
 canonical: 7926-ostoul-capital-group-best-boutique-investment-bank-egypt-2018.json
 ---
