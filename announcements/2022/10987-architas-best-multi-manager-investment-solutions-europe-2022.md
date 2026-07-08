@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528042106
 wayback_snapshot_url: "http://web.archive.org/web/20260528042106/https://cfi.co/awards/finance/2022/architas-best-multi-manager-investment-solutions-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: b591c70413f2a4ee0ddad0256a998f7bc807766aa8a04fb7d0a33cf509226f87
 canonical: 10987-architas-best-multi-manager-investment-solutions-europe-2022.json
 ---
