@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240911195123
 wayback_snapshot_url: "http://web.archive.org/web/20240911195123/https://cfi.co/awards/europe/2024/globalturk-capital-excellence-in-facilitating-international-expansion-and-investments-turkiye-2024/"
+license: CFI-OAAL-1.0
 content_sha256: ac8b8c15cdde4ea641e1b975449d01f53e11d0f87ca45638178181f93bd68e83
 canonical: 12524-globalturk-capital-excellence-in-facilitating-international-expansion-and-invest.json
 ---
