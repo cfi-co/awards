@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260525060009",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260525060009/https://cfi.co/awards/asia-pacific/2018/krungthai-bank-best-social-impact-bank-thailand-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525060009/https://cfi.co/awards/asia-pacific/2018/krungthai-bank-best-social-impact-bank-thailand-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6197\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Krungthai.jpg\" alt=\"\" width=\"349\" height=\"135\" />\r\n<p style=\"text-align: justify;\">Sustainable growth requires businesses to look after the planet and its people, as well as their profit margins. Krungthai Bank in Thailand holds this principle at the core of its business vision, reinvesting a percentage of its profits into Thai society via “intellectual-capital-building activities” throughout the country. Krungthai Bank, of which the government owns a 56% share, is a hybrid bank, enjoying the privilege of a government mandate while maintaining a competitive edge. This partnership is a driver for social change, pushing to make Thailand a cashless society by providing digital alternatives to serve the Thai people and economy in support of the government’s “Thailand 4.0” initiatives. Thailand has a population of 66 million people, and Krungthai Bank serves about half of them. With governmental support, the bank piloted a programme to issue subsidised welfare and Medicare cards to give lower-income Thais access to free public transport or medical care. Krungthai Bank has issued 11.6 million welfare cards to underprivileged Thais, and eight million welfare cards to the elderly. The Medicare cards issued by Krungthai Bank have provided five million Thais — including civil servants, retirees, and staff — with government-provided healthcare benefits. The bank is working closely with the Ministry of Health to digitise the logistics of the health system and ensure ease of access. The CFI.co judging panel commends Krungthai Bank’s efforts to improve the quality of life for all Thais, thus earning the 2018 award for Best Social Impact Bank (Thailand).</p>",
     "content_sha256": "9ec46b1bd389b6a5b103a76812baaf3547d491057a7079c518e619c8bcac0c76",
-    "record_sha256": "1ce875043587b8269aef1c6a47da1af79afc167dcd584c22b826b02dd933d1eb"
+    "record_sha256": "795d7b7c45f24fd3cbe32961ab96b4738c94874950957c6048ecdf68b32f9f21"
 }
