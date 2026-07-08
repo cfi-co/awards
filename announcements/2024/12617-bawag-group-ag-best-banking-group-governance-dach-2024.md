@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112193605
 wayback_snapshot_url: "http://web.archive.org/web/20241112193605/https://cfi.co/awards/banking/2024/bawag-group-ag-best-banking-group-governance-dach-2024/"
+license: CFI-OAAL-1.0
 content_sha256: ca8275e495d7d63650e126f3c3d5198d3c90f4f9bac81b76667ff957fe68a82f
 canonical: 12617-bawag-group-ag-best-banking-group-governance-dach-2024.json
 ---
