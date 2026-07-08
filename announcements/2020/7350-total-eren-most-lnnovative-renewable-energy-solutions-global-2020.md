@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200614081955
 wayback_snapshot_url: "http://web.archive.org/web/20200614081955/https://cfi.co/awards/europe/2020/total-eren-most-lnnovative-renewable-energy-solutions-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 9acfda08bb61357bf2a3681b11cb908669101af825f41280187c3c1138b02108
 canonical: 7350-total-eren-most-lnnovative-renewable-energy-solutions-global-2020.json
 ---
