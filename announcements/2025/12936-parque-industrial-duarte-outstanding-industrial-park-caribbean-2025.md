@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522220900
 wayback_snapshot_url: "http://web.archive.org/web/20250522220900/https://cfi.co/awards/development/2025/parque-industrial-duarte-outstanding-industrial-park-caribbean-2025/"
+license: CFI-OAAL-1.0
 content_sha256: b2cad72eb743a59c8e68819642044ece9496f221f216a505dea39b88ef194494
 canonical: 12936-parque-industrial-duarte-outstanding-industrial-park-caribbean-2025.json
 ---
