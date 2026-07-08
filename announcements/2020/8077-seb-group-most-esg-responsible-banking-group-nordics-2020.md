@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923101556
 wayback_snapshot_url: "http://web.archive.org/web/20200923101556/https://cfi.co/awards/europe/2020/seb-group-most-esg-responsible-banking-group-nordics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: f49f2bb3ecef391ec8177839ae84e4418b0f73f02a0339c3c3656731e56b7f78
 canonical: 8077-seb-group-most-esg-responsible-banking-group-nordics-2020.json
 ---
