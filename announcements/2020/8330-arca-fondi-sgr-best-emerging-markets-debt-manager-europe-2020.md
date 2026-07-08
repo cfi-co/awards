@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203234135
 wayback_snapshot_url: "http://web.archive.org/web/20201203234135/https://cfi.co/awards/europe/2020/arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: a6cb3664b1f4378e688db088621629274430c0cc5e2caf4e9be466cf6bec9617
 canonical: 8330-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2020.json
 ---
