@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409054327
 wayback_snapshot_url: "http://web.archive.org/web/20140409054327/http://cfi.co/awards/middle-east/2013/morgan-stanley-contributing-to-growth-in-the-uae/"
+license: CFI-OAAL-1.0
 content_sha256: 29e26ae42cac1f272442b2ebacdcf680895d4840290f30e8d17c5195017c4348
 canonical: 1104-morgan-stanley-contributing-to-growth-in-the-uae.json
 ---
