@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810082535
 wayback_snapshot_url: "http://web.archive.org/web/20200810082535/https://cfi.co/awards/north-america/2017/ichor-systems-best-engineering-ipo-united-states-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 69fc9e606d728dcb33e4ea2d636b96dfab9fe4f92f258ff867efb0206d96bd07
 canonical: 4686-ichor-systems-best-engineering-ipo-united-states-2016.json
 ---
