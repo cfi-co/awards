@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525045813
 wayback_snapshot_url: "http://web.archive.org/web/20260525045813/https://cfi.co/awards/europe/2017/first-names-group-best-cross-border-fiduciary-services-team-channel-islands-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 9f876534269624246790db901406bb351ebf35292283a157bca535a467c432dc
 canonical: 4908-first-names-group-best-cross-border-fiduciary-services-team-channel-islands-2017.json
 ---
