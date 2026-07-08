@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525062941
 wayback_snapshot_url: "http://web.archive.org/web/20260525062941/https://cfi.co/awards/front/2019/albis-leasing-best-online-sme-leasing-solutions-germany-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 3abbe1e6a7cfcb3bde42ac6f3dd1e6aed1bda0730799d455a157dda9d671ce1f
 canonical: 6474-albis-leasing-best-online-sme-leasing-solutions-germany-2018.json
 ---
