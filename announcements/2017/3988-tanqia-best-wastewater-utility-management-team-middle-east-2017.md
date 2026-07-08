@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045621
 wayback_snapshot_url: "http://web.archive.org/web/20190823045621/https://cfi.co/awards/middle-east/2017/tanqia-best-wastewater-utility-management-team-middle-east-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 579f04a21f2e7d807266cb61c5d902c8c310db4dc2669cea815bcf865541795e
 canonical: 3988-tanqia-best-wastewater-utility-management-team-middle-east-2017.json
 ---
