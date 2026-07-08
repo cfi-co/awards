@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523044736
 wayback_snapshot_url: "http://web.archive.org/web/20260523044736/https://cfi.co/awards/professional-services/2015/cibc-firstcaribbean-international-bank-best-internet-banking-services-caribbean-2015/"
+license: CFI-OAAL-1.0
 content_sha256: c3a11302c9d2204ce0da522534cbb3955bbd44f6a8115aec35d402b3bd7386e5
 canonical: 3039-cibc-firstcaribbean-international-bank-best-internet-banking-services-caribbean-.json
 ---
