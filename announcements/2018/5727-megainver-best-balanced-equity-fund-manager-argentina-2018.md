@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426110131
 wayback_snapshot_url: "http://web.archive.org/web/20190426110131/https://cfi.co/awards/latin-america/2018/megainver-best-balanced-equity-fund-manager-argentina-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 5b37140b0fec97139bffd41570a1a8d64ee8c9cfc84a74889255ebbcbee77a54
 canonical: 5727-megainver-best-balanced-equity-fund-manager-argentina-2018.json
 ---
