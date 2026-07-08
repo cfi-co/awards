@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818135211
 wayback_snapshot_url: "http://web.archive.org/web/20190818135211/https://cfi.co/awards/finance/2019/metlife-investments-limited-best-private-placement-team-emea-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 0d19cdbe1fc9adc54f3e2477b85663b6af28dc90fc7ea315da80fa497af024cc
 canonical: 6735-metlife-investments-limited-best-private-placement-team-emea-2019.json
 ---
