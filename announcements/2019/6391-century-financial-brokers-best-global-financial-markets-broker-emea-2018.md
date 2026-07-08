@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717214351
 wayback_snapshot_url: "http://web.archive.org/web/20190717214351/https://cfi.co/awards/front/2019/century-financial-brokers-best-global-financial-markets-broker-emea-2018/"
+license: CFI-OAAL-1.0
 content_sha256: f262b96bc7dfd2ea7326fb6d0825c91cc6533b1a087ace5efd9beeb71a997744
 canonical: 6391-century-financial-brokers-best-global-financial-markets-broker-emea-2018.json
 ---
