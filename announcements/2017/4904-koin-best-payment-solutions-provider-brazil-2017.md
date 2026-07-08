@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203044557
 wayback_snapshot_url: "http://web.archive.org/web/20221203044557/https://cfi.co/awards/latin-america/2017/koin-best-payment-solutions-provider-brazil-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 1540807614777026a6456b212448280135c5949f0014c50b46a48b2e64325ad2
 canonical: 4904-koin-best-payment-solutions-provider-brazil-2017.json
 ---
