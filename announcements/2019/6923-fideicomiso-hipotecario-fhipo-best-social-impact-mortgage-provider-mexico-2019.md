@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021051925
 wayback_snapshot_url: "http://web.archive.org/web/20191021051925/https://cfi.co/awards/latin-america/2019/fideicomiso-hipotecario-fhipo-best-social-impact-mortgage-provider-mexico-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 3b7c4a10473a3b5e190dfc6ad2b99c45c4f48e536b1cd3c3a35a9f9f5fda7fd5
 canonical: 6923-fideicomiso-hipotecario-fhipo-best-social-impact-mortgage-provider-mexico-2019.json
 ---
