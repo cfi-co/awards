@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221208001123
 wayback_snapshot_url: "http://web.archive.org/web/20221208001123/https://cfi.co/awards/industries/mining/2022/barrick-gold-most-innovative-esg-mining-solutions-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 84f71bb02589683adb03621871cfda7773e7875eeb4629cae6fa4e2763ff94cd
 canonical: 10845-barrick-gold-most-innovative-esg-mining-solutions-global-2022.json
 ---
