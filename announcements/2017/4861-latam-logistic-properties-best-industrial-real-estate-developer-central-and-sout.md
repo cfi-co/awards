@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203054108
 wayback_snapshot_url: "http://web.archive.org/web/20221203054108/https://cfi.co/awards/latin-america/2017/latam-logistic-properties-best-industrial-real-estate-developer-central-and-south-america-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 2dcd366b0bd3275930d34bf2922a8a26fa74a6c1506d5d9a79bb8de26c531ecd
 canonical: 4861-latam-logistic-properties-best-industrial-real-estate-developer-central-and-sout.json
 ---
