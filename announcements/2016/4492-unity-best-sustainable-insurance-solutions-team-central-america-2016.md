@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225150342
 wayback_snapshot_url: "http://web.archive.org/web/20240225150342/https://cfi.co/awards/latin-america/2016/unity-best-sustainable-insurance-solutions-team-central-america-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 5a68bdc043474e942a3caad4be8089b834383d2936bb5d8bc4384dee50dc400a
 canonical: 4492-unity-best-sustainable-insurance-solutions-team-central-america-2016.json
 ---
