@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260602033419
 wayback_snapshot_url: "http://web.archive.org/web/20260602033419/https://cfi.co/awards/europe/2022/aum-asset-management-best-sustainable-small-fund-manager-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: fbcaafc8993a6862f3af06342d1630910532f846f347c84686000e256b93de08
 canonical: 10142-aum-asset-management-best-sustainable-small-fund-manager-europe-2021.json
 ---
