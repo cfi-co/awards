@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921115415
 wayback_snapshot_url: "http://web.archive.org/web/20210921115415/https://cfi.co/awards/asia-pacific/2013/the-year-of-the-dragon-award-best-community-engagement-turkmenistan/"
+license: CFI-OAAL-1.0
 content_sha256: 01b38c02ae215c5eceef5ad5e3020d53135e83a1da71a85033c2ba46e17f62a4
 canonical: 796-the-year-of-the-dragon-award-best-community-engagement-turkmenistan.json
 ---
