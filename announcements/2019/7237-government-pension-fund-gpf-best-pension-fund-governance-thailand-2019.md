@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235457
 wayback_snapshot_url: "http://web.archive.org/web/20201203235457/https://cfi.co/awards/asia-pacific/2019/government-pension-fund-gpf-best-pension-fund-governance-thailand-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 2bde5989c4a31e397ec4be0f299b26a6a3f16165a87423386ab660a435142de3
 canonical: 7237-government-pension-fund-gpf-best-pension-fund-governance-thailand-2019.json
 ---
