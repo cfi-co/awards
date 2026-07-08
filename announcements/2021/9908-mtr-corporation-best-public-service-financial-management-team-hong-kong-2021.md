@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220119071747
 wayback_snapshot_url: "http://web.archive.org/web/20220119071747/https://cfi.co/awards/asia-pacific/2021/mtr-corporation-best-public-service-financial-management-team-hong-kong-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 506d3b3f277e2cbff39b1608ac77a754215ec3396caae133bc0f538b3d825339
 canonical: 9908-mtr-corporation-best-public-service-financial-management-team-hong-kong-2021.json
 ---
