@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203044805
 wayback_snapshot_url: "http://web.archive.org/web/20221203044805/https://cfi.co/awards/europe/2019/co-op-legal-services-best-estate-administration-and-probate-services-provider-uk-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 1f8daebcc4d6ead0c61c4ef37f4732248c2077529edc3351a7b6a76bc4cfed39
 canonical: 7942-co-op-legal-services-best-estate-administration-and-probate-services-provider-uk.json
 ---
