@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528042936
 wayback_snapshot_url: "http://web.archive.org/web/20260528042936/https://cfi.co/awards/finance/asset-management/2023/optimum-asset-management-s-a-best-value-real-estate-investment-strategy-germany-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 273b0d63e5f2fe3e683a022b6155203bab16a57c48327821c9f3de8e5fd35fae
 canonical: 12109-optimum-asset-management-s-a-best-value-real-estate-investment-strategy-germany-.json
 ---
