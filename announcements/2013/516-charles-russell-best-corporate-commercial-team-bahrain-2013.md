@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921112251
 wayback_snapshot_url: "http://web.archive.org/web/20210921112251/https://cfi.co/awards/middle-east/2013/charles-russell-best-corporate-commercial-team-bahrain-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 21f8daca016aa2b216de1070014616594650e266c81dc4d40a242c7acde7124b
 canonical: 516-charles-russell-best-corporate-commercial-team-bahrain-2013.json
 ---
