@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630123941
 wayback_snapshot_url: "http://web.archive.org/web/20220630123941/https://cfi.co/awards/europe/2022/kbc-asset-management-nv-best-asset-management-team-belgium-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 74e90ba58912f6e3571f0afb13f6ea91760548952ecf45bc0db6abca50f6c0b9
 canonical: 10437-kbc-asset-management-nv-best-asset-management-team-belgium-2022.json
 ---
