@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724021631
 wayback_snapshot_url: "http://web.archive.org/web/20210724021631/https://cfi.co/awards/banking/2017/banque-de-france-best-central-bank-governance-europe-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 7c6bafcca00a98db8cd40fe5298d72cf48c163447c5c988b090b88ad67041136
 canonical: 4200-banque-de-france-best-central-bank-governance-europe-2016.json
 ---
