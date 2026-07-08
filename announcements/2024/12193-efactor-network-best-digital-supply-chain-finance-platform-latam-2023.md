@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420125223
 wayback_snapshot_url: "http://web.archive.org/web/20240420125223/https://cfi.co/awards/latin-america/2024/efactor-network-best-digital-supply-chain-finance-platform-latam-2023/"
+license: CFI-OAAL-1.0
 content_sha256: b9dc90365d18ce056b155950c95b9dd25f483fe1e9c6ccc1b1b8bf2cf08d7fda
 canonical: 12193-efactor-network-best-digital-supply-chain-finance-platform-latam-2023.json
 ---
