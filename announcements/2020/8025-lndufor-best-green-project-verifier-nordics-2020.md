@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813162118
 wayback_snapshot_url: "http://web.archive.org/web/20200813162118/https://cfi.co/awards/best-practice/2020/lndufor-best-green-project-verifier-nordics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: a804a5e830569f2cf2c6a97b98ec8b724ac8d28ee7a8ccfb0691ca6ded869425
 canonical: 8025-lndufor-best-green-project-verifier-nordics-2020.json
 ---
