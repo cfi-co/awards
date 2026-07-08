@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209182856
 wayback_snapshot_url: "http://web.archive.org/web/20250209182856/https://cfi.co/awards/development/fdi-agencies/2025/prodominicana-centro-de-exportacion-e-inversion-de-la-republica-dominicana-outstanding-contribution-to-sustainable-economic-growth-caribbean-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 8c0516275f21278d4495a8d959cc295d12e7f0e5b02a7b8a46ad01c59a7297a0
 canonical: 12864-prodominicana-centro-de-exportacion-e-inversion-de-la-republica-dominicana-outst.json
 ---
