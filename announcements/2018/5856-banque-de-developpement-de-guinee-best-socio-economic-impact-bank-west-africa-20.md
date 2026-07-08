@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190720181014
 wayback_snapshot_url: "http://web.archive.org/web/20190720181014/https://cfi.co/awards/africa/2018/banque-de-developpement-de-guinee-best-socio-economic-impact-bank-west-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 0966d5defd9b12b71249c457aac0082199a222c8bc0df9fe3c88ca5250083c0d
 canonical: 5856-banque-de-developpement-de-guinee-best-socio-economic-impact-bank-west-africa-20.json
 ---
