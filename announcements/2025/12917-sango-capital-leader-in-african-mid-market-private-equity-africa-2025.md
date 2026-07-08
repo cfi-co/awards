@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522215632
 wayback_snapshot_url: "http://web.archive.org/web/20250522215632/https://cfi.co/awards/africa/2025/sango-capital-leader-in-african-mid-market-private-equity-africa-2025/"
+license: CFI-OAAL-1.0
 content_sha256: f765cbcb4d5c2a79615d97399de56ad2a92a5e37505cb9ae0a3fa633e0df7b78
 canonical: 12917-sango-capital-leader-in-african-mid-market-private-equity-africa-2025.json
 ---
