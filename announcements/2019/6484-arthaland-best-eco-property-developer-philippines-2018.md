@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723012011
 wayback_snapshot_url: "http://web.archive.org/web/20190723012011/https://cfi.co/awards/asia-pacific/2019/arthaland-best-eco-property-developer-philippines-2018/"
+license: CFI-OAAL-1.0
 content_sha256: d728d533ea92cfecb28e32bfb0499134119c4e6c7bda8f22fb5bfebe1fc25f03
 canonical: 6484-arthaland-best-eco-property-developer-philippines-2018.json
 ---

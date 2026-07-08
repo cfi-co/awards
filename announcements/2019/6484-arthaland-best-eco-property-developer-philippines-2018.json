@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190723012011",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190723012011/https://cfi.co/awards/asia-pacific/2019/arthaland-best-eco-property-developer-philippines-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190723012011/https://cfi.co/awards/asia-pacific/2019/arthaland-best-eco-property-developer-philippines-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_6521\" align=\"aligncenter\" width=\"700\"]<img class=\"size-full wp-image-6521\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/Mr-Jaime-Gonzalez-CFI.co-Award-Online.jpg\" alt=\"\" width=\"700\" height=\"1050\" /> <strong>President:</strong> Jaime C González[/caption]\r\n<p style=\"text-align: justify;\">If global environmental targets are to be met, sustainability needs to be entrenched in the heart and soul of the construction industry – a core value, not a box-ticking exercise. Philippines-based ArthaLand has made sustainability part of its DNA, ensuring that its staff understand how to operate in a sustainable way, and why that’s necessary. ArthaLand staff are educated about the environmental problems today that are threatening a prosperous future tomorrow, and they spread environmental awareness throughout the communities in which they operate. At ArthaLand, single-use plastics are discouraged for their shameful disregard of the planet, and the higher costs of sustainable building materials are seen as a necessary investment for all future-proof homes. The result is a world-class development organisation which applies the same high standards to all its developments, and is continually implementing appropriate innovations. ArthaLand's Arya Residences project was the first home development in the Philippines to undergo dual compliance: the US Green Building Council’s LEED green building certification and the Philippines Green Building Council’s BERDE classification. The CFI.co judging panel believes more developers should follow ArthaLand’s lead of putting the environment at the heart of the planning and decision-making processes. The judges declare ArthaLand winner of the 2018 award for Best Eco Property Developer (Philippines), and commend the company’s efforts to spread the environmental message to the wider community through its team and its policies.</p>",
     "content_sha256": "d728d533ea92cfecb28e32bfb0499134119c4e6c7bda8f22fb5bfebe1fc25f03",
-    "record_sha256": "852e3bb189b483c13979b70d78615bdf12d5c912cf1070a7a84e99f9ce0f9868"
+    "record_sha256": "ecf44b32bede4b679239ea4bae636dc7c7b0c14faf39eb0ecffb37113ff4fae0"
 }
