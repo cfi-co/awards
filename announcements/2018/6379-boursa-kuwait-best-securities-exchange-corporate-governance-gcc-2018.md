@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924122129
 wayback_snapshot_url: "http://web.archive.org/web/20210924122129/https://cfi.co/awards/front/2018/boursa-kuwait-best-securities-exchange-corporate-governance-gcc-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 6c7b4c6dfc9578a3284a382892f5c971905da8d591118c65d060d2948e8c7186
 canonical: 6379-boursa-kuwait-best-securities-exchange-corporate-governance-gcc-2018.json
 ---
