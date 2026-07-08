@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810074438
 wayback_snapshot_url: "http://web.archive.org/web/20200810074438/https://cfi.co/awards/africa/2015/building-trust-and-ensuring-good-business-conduct-our-corporate-governance-winner-in-west-africa/"
+license: CFI-OAAL-1.0
 content_sha256: af3c18b95cfa138bf329fc8750cf34d7c63a63adc464effb1b984d657501ae67
 canonical: 1459-building-trust-and-ensuring-good-business-conduct-our-corporate-governance-winne.json
 ---
