@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200531220940
 wayback_snapshot_url: "http://web.archive.org/web/20200531220940/https://cfi.co/awards/europe/2020/mullenlowe-salt-best-sustainability-strategy-adviser-uk-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 695301cde44ccaaef573e664bb623c286a7b1f145e04ac71601bc541c59ce773
 canonical: 7372-mullenlowe-salt-best-sustainability-strategy-adviser-uk-2020.json
 ---
