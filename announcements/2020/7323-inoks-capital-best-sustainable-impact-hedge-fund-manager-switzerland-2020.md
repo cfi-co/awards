@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200510035610
 wayback_snapshot_url: "http://web.archive.org/web/20200510035610/https://cfi.co/awards/europe/2020/inoks-capital-best-sustainable-impact-hedge-fund-manager-switzerland-2020/"
+license: CFI-OAAL-1.0
 content_sha256: e8bfd5beadd80937d84ea824781e13216d8851f036d82f466ddb12ed50d940ec
 canonical: 7323-inoks-capital-best-sustainable-impact-hedge-fund-manager-switzerland-2020.json
 ---
