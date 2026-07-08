@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724005126
 wayback_snapshot_url: "http://web.archive.org/web/20210724005126/https://cfi.co/awards/professional-services/2017/mds-best-insurance-solutions-portugal-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 74ef7c3ca502e1bf51f346c19601241c97f8ba5d7b14d5b284021a6cc9fafaa3
 canonical: 4323-mds-best-insurance-solutions-portugal-2017.json
 ---
