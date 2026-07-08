@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409054901
 wayback_snapshot_url: "http://web.archive.org/web/20140409054901/http://cfi.co/awards/latin-america/2013/bvc-best-stock-exchange-latam/"
+license: CFI-OAAL-1.0
 content_sha256: 104f397db2f0a4bbb1adcc502d777220c9871f37198a4d9cd882bc5910d78040
 canonical: 900-bvc-best-stock-exchange-latam.json
 ---
