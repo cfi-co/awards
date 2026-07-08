@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525072938
 wayback_snapshot_url: "http://web.archive.org/web/20260525072938/https://cfi.co/awards/europe/2020/business-region-goteborg-best-business-value-creation-destination-scandinavia-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 21308f65406b19c81582cc51ef30fa40124237d3362fc95f0dcc5914218dfca9
 canonical: 10170-business-region-goteborg-best-business-value-creation-destination-scandinavia-20.json
 ---
