@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524051048
 wayback_snapshot_url: "http://web.archive.org/web/20260524051048/https://cfi.co/awards/best-practice/2017/nornickel-best-mining-corporate-governance-russia-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1e9d0e6ec08a34210f107a2ac06a952722cb4888d64853d21d225247e7eebef2
 canonical: 4009-nornickel-best-mining-corporate-governance-russia-2016.json
 ---
