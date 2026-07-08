@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330025937
 wayback_snapshot_url: "http://web.archive.org/web/20230330025937/https://cfi.co/awards/banking/2023/icici-bank-uk-best-international-digital-banking-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 083c4327bd58220b885e080a2707d167911b906cbef5f7c559c0493ad8a1b5aa
 canonical: 11184-icici-bank-uk-best-international-digital-banking-uk-2023.json
 ---
