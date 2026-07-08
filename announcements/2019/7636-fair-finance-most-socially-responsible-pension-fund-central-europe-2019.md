@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924114235
 wayback_snapshot_url: "http://web.archive.org/web/20210924114235/https://cfi.co/awards/europe/2019/fair-finance-most-socially-responsible-pension-fund-central-europe-2019/"
+license: CFI-OAAL-1.0
 content_sha256: abeba25bda12f55dac6d72b7916404e3f56a14799b6cfdcd0b196d7057f140a7
 canonical: 7636-fair-finance-most-socially-responsible-pension-fund-central-europe-2019.json
 ---
