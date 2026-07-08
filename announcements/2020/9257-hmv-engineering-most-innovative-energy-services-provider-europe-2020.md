@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260531033501
 wayback_snapshot_url: "http://web.archive.org/web/20260531033501/https://cfi.co/awards/europe/2020/hmv-engineering-most-innovative-energy-services-provider-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 33b4ea8dfd952af434fe4360e040ecb6471b4ab522dc40ca6d3b996e6965f1bb
 canonical: 9257-hmv-engineering-most-innovative-energy-services-provider-europe-2020.json
 ---
