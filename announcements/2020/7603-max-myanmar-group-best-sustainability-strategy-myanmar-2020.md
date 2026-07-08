@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810084615
 wayback_snapshot_url: "http://web.archive.org/web/20200810084615/https://cfi.co/awards/asia-pacific/2020/max-myanmar-group-best-sustainability-strategy-myanmar-2020/"
+license: CFI-OAAL-1.0
 content_sha256: becd1b50c12115cc5bd94305e1199890e972b42d8a63d19125c3ec5087c848ad
 canonical: 7603-max-myanmar-group-best-sustainability-strategy-myanmar-2020.json
 ---
