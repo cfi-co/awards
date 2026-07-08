@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813170313
 wayback_snapshot_url: "http://web.archive.org/web/20200813170313/https://cfi.co/awards/latin-america/2020/banco-finca-best-social-impact-bank-ecuador-2019/"
+license: CFI-OAAL-1.0
 content_sha256: da3cdadfc6eba4664265f8cd375eae207db72152369dbd1ef2f8e7ed49973e4d
 canonical: 7769-banco-finca-best-social-impact-bank-ecuador-2019.json
 ---
