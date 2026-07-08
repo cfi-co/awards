@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725061655
 wayback_snapshot_url: "http://web.archive.org/web/20210725061655/https://cfi.co/awards/europe/2021/vidici-ventures-best-fintech-growth-investor-nordics-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 6a3939ab512fc28309c0e614e9aa83ccdd5440021fa542970b365395ff34c1e6
 canonical: 9347-vidici-ventures-best-fintech-growth-investor-nordics-2021.json
 ---
