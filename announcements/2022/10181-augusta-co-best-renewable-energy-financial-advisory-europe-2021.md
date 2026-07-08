@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528040949
 wayback_snapshot_url: "http://web.archive.org/web/20260528040949/https://cfi.co/awards/europe/2022/augusta-co-best-renewable-energy-financial-advisory-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 92804f8805ed4dace78130a8c2429532e04b3b17dc74b8b5b8a4969bdfaae331
 canonical: 10181-augusta-co-best-renewable-energy-financial-advisory-europe-2021.json
 ---
