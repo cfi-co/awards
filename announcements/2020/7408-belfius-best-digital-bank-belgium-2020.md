@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200623225305
 wayback_snapshot_url: "http://web.archive.org/web/20200623225305/https://cfi.co/awards/europe/2020/belfius-best-digital-bank-belgium-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 5ddff0ac33a439c83f8cfb33aecd959bff1794c1a23dcc13ae43326192d01c88
 canonical: 7408-belfius-best-digital-bank-belgium-2020.json
 ---
