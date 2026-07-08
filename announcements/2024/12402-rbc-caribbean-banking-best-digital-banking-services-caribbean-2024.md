@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240614001954
 wayback_snapshot_url: "http://web.archive.org/web/20240614001954/https://cfi.co/awards/banking/2024/rbc-caribbean-banking-best-digital-banking-services-caribbean-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 15b15be741891ccb13f3c32f96a625a379a70ee33e841a2dbf1d9e2dba0cfaf5
 canonical: 12402-rbc-caribbean-banking-best-digital-banking-services-caribbean-2024.json
 ---
