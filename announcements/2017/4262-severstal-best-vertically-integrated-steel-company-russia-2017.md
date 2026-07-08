@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921112137
 wayback_snapshot_url: "http://web.archive.org/web/20210921112137/https://cfi.co/awards/asia-pacific/2017/severstal-best-vertically-integrated-steel-company-russia-2017/"
+license: CFI-OAAL-1.0
 content_sha256: c4e0f400b71bbf6729406f3331f3cb936c35d828fcd81d6dc1816e4b29988246
 canonical: 4262-severstal-best-vertically-integrated-steel-company-russia-2017.json
 ---
