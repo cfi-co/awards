@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104840
 wayback_snapshot_url: "http://web.archive.org/web/20210228104840/https://cfi.co/awards/north-america/2021/amazon-most-disruptive-retail-operations-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 923c347b8de181e23d36938103c05eaed8e67dc674912a3e2b59bb275df290b1
 canonical: 8674-amazon-most-disruptive-retail-operations-global-2020.json
 ---
