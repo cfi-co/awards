@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210415072814",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210415072814/https://cfi.co/awards/north-america/2021/domini-best-impact-investment-advisory-united-states-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210415072814/https://cfi.co/awards/north-america/2021/domini-best-impact-investment-advisory-united-states-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\">Domini is heartened by the rising momentum of the impact investment sphere. The US-based mutual fund firm with $2.6 billion assets under management was an early adopter of socially responsible investing and launched its first product in 1991. The niche firm operates on the belief that every each and every dollar spent has an effect, positive or negative. Impact investing starts with individuals who believe, communities that share, and mutual funds that care. The power of small is the greatness of all, Domini believes. The company strives to “grow the pie” and welcomes others to the industry with knowledge-sharing and collaboration. Domini aims to harness the power of finance to build a better world, with universal human dignity and ecological sustainability as the primary goals. It believes impact investment standards provide the roadmap. Domini follows a three-pillar investment approach, applying standards across the process, engaging with investee companies, and investing in communities. It understands that financial systems are only as strong as their foundations, and works to create meaningful progress and concrete community impacts through its portfolio. The firm leverages almost 30 years of research data to make the case for ESG-focused investments for positive impact and returns. The CFI.co judging panel appreciates a company working at grass roots level to build a collective future of resiliency and prosperity, and names Domini winner of the 2021 award for Best Impact Investment Advisory (US).</p>",
     "content_sha256": "75257c9dae18f31cde461556b7c5516d63d5509893f2047a8eaa58ad75d09067",
-    "record_sha256": "e22d3b2be02eb32ef8c64541dc5ae6759be1f9b89d2401ffee3a952b29029956"
+    "record_sha256": "e2ef4cd5b0bc156e6e5bb70b7ee5aaafe226c9dbf2be78efb765cebccdeb1b67"
 }
