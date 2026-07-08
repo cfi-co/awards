@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525063814
 wayback_snapshot_url: "http://web.archive.org/web/20260525063814/https://cfi.co/awards/front/2019/invest-in-madrid-best-regional-fdi-promotion-team-europe-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 7ff6d591d71c5e902f532e32866b6d8a4310ef7f1215dff65ce9097b67b60cde
 canonical: 6505-invest-in-madrid-best-regional-fdi-promotion-team-europe-2018.json
 ---
