@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200727191633
 wayback_snapshot_url: "http://web.archive.org/web/20200727191633/https://cfi.co/awards/asia-pacific/2016/myanmar-oriental-bank-limited-best-sme-bank-myanmar-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 6dab5b0e8607c363a01f2cc180c7347b55b8ae5ea7b3081337af1380c04d0c88
 canonical: 3851-myanmar-oriental-bank-limited-best-sme-bank-myanmar-2016.json
 ---
