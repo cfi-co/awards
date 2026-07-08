@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928200253
 wayback_snapshot_url: "http://web.archive.org/web/20220928200253/https://cfi.co/awards/europe/2022/murdoch-asset-management-best-investment-management-solutions-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: b02b1add7d41f7dec1e69235268d82d724aa4a6557602f2e2c10ca1b8fdefb14
 canonical: 10758-murdoch-asset-management-best-investment-management-solutions-uk-2022.json
 ---
