@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200903114135
 wayback_snapshot_url: "http://web.archive.org/web/20200903114135/https://cfi.co/awards/industries/2017/teranga-gold-corporation-best-esg-responsible-mining-management-west-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1cb0be26909fae2f85c71af729804c57c04ca037433817c2ae391a9042a86e1c
 canonical: 3765-teranga-gold-corporation-best-esg-responsible-mining-management-west-africa-2016.json
 ---
