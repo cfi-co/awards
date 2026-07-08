@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322101031
 wayback_snapshot_url: "http://web.archive.org/web/20250322101031/https://cfi.co/awards/asia-pacific/2012/hana-bank-wins-best-private-bank-korea-2012/"
+license: CFI-OAAL-1.0
 content_sha256: e4ccb79271a87e1b1a9e0fe417442b4273d3d5eb8f249197976fd77d7c54c261
 canonical: 111-hana-bank-wins-best-private-bank-korea-2012.json
 ---
