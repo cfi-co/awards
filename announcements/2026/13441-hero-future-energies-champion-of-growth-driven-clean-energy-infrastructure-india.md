@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260603034239
 wayback_snapshot_url: "http://web.archive.org/web/20260603034239/https://cfi.co/awards/asia-pacific/2026/hero-future-energies-champion-of-growth-driven-clean-energy-infrastructure-india-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 3957ee6d589350435ef24f36cce8c7c928366b5439f75167b4a2cc671983866b
 canonical: 13441-hero-future-energies-champion-of-growth-driven-clean-energy-infrastructure-india.json
 ---
