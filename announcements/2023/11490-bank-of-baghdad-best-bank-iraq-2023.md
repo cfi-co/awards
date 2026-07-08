@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603013450
 wayback_snapshot_url: "http://web.archive.org/web/20230603013450/https://cfi.co/awards/middle-east/2023/bank-of-baghdad-best-bank-iraq-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 03340c36367a4a16f29053f154e98b40f3c8ebb8de255b183d3daf9025b3f3da
 canonical: 11490-bank-of-baghdad-best-bank-iraq-2023.json
 ---
