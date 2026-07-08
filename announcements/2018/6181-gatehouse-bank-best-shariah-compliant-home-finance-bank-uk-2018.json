@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20221203053901",
-        "wayback_snapshot_url": "http://web.archive.org/web/20221203053901/https://cfi.co/awards/front/2018/gatehouse-bank-best-shariah-compliant-home-finance-bank-uk-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20221203053901/https://cfi.co/awards/front/2018/gatehouse-bank-best-shariah-compliant-home-finance-bank-uk-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6183\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Gatehouse.jpg\" alt=\"\" width=\"349\" height=\"349\" />\r\n<p style=\"text-align: justify;\">Gatehouse Bank, now celebrating its 10th anniversary, is one of only a handful of wholly Sharia-compliant banks in the UK, and a recognised leader in home finance products. The bank describes itself as “ethical by intention”, and is structured to maintain its purity of focus and to avoid any crossover into conventional finance. The bank guarantees that it will not invest in sectors that the Muslim community may find objectionable or questionable. Gatehouse has proven itself to be prudent, as well as consistent in achieving expected profit rates. It is regularly placed close to, or at the top of, industry tables, and often outstrips the performance of conventional finance providers. Since 2014, Gatehouse has been active in the private rental sector, creating a portfolio of properties in the north of England. A British government spokesperson has described Gatehouse as a model of how foreign investment can alleviate the UK housing crisis. Funding for initiatives of this kind comes from Sharia countries, particularly Kuwait (the country’s sovereign wealth fund is Gatehouse’s major shareholder). There has been a major business refocus since the arrival of CEO Charles Haresnape in May last year, with a dynamic new management team now in place. Systems have been re-engineered with an emphasis on enhancing the bank’s technological strengths. The CFI judging panel recognises Gatehouse as an outstanding and dedicated player in the Islamic finance sphere, and one that delivers substantial returns to its stakeholders. Without question, the award for Best Shariah-Compliant Home Finance Bank (UK) 2018 is confirmed in the name of Gatehouse Bank.</p>",
     "content_sha256": "03d816200cb728f77c48ec578734db07ff60b194d37af6d6fbb938752978ae01",
-    "record_sha256": "1cd6c744a08aecb81a4dcb30fbb19a80e9a4fff5fb3286cac55900cda29ba7e5"
+    "record_sha256": "50248cd373803591fc388caa3c358f3e9dd0ac2d5fe86b4dc38363e08a013137"
 }

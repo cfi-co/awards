@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203053901
 wayback_snapshot_url: "http://web.archive.org/web/20221203053901/https://cfi.co/awards/front/2018/gatehouse-bank-best-shariah-compliant-home-finance-bank-uk-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 03d816200cb728f77c48ec578734db07ff60b194d37af6d6fbb938752978ae01
 canonical: 6181-gatehouse-bank-best-shariah-compliant-home-finance-bank-uk-2018.json
 ---
