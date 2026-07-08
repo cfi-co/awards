@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170109174200
 wayback_snapshot_url: "http://web.archive.org/web/20170109174200/http://cfi.co/awards/banking/2016/ubs-ag-best-green-bank-switzerland-2015/"
+license: CFI-OAAL-1.0
 content_sha256: e324ae639421aa77b430696401a3083054e671f1a3aa3b7c9e4b527e581fbb13
 canonical: 3077-ubs-ag-best-green-bank-switzerland-2015.json
 ---
