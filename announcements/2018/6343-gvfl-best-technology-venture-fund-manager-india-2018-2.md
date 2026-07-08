@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094505
 wayback_snapshot_url: "http://web.archive.org/web/20190426094505/https://cfi.co/awards/asia-pacific/2018/gvfl-best-technology-venture-fund-manager-india-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 4b0f8a8ebc45590bbe8648d91b85843df62ad4caee20955ebb182286d931c193
 canonical: 6343-gvfl-best-technology-venture-fund-manager-india-2018-2.json
 ---
