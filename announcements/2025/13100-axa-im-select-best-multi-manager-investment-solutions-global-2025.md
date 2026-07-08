@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251006230126
 wayback_snapshot_url: "http://web.archive.org/web/20251006230126/https://cfi.co/awards/europe/2025/axa-im-select-best-multi-manager-investment-solutions-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: ca77e57bfd58b7f559c9bab300c0094a880be26f6295c4daff12ff9a3c44560e
 canonical: 13100-axa-im-select-best-multi-manager-investment-solutions-global-2025.json
 ---
