@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240531182120
 wayback_snapshot_url: "http://web.archive.org/web/20240531182120/https://cfi.co/awards/best-practice/2024/denison-consulting-best-organisational-culture-transformation-team-us-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 7aac5b10e9f4140b56dd0a1d7843bfe266dee6f2e6302d735dbae984378b79ac
 canonical: 12398-denison-consulting-best-organisational-culture-transformation-team-us-2024.json
 ---
