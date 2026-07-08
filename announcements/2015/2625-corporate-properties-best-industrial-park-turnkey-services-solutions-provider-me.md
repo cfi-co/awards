@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094550
 wayback_snapshot_url: "http://web.archive.org/web/20190426094550/https://cfi.co/awards/latin-america/2015/corporate-properties-best-industrial-park-turnkey-services-solutions-provider-mexico-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 96cd44f4b2ac3c92defddabcc4d28c79f99fe828f117f96ad88ecdf92c2d5c65
 canonical: 2625-corporate-properties-best-industrial-park-turnkey-services-solutions-provider-me.json
 ---
