@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921111746
 wayback_snapshot_url: "http://web.archive.org/web/20210921111746/https://cfi.co/awards/latin-america/2017/pan-american-energy-most-responsible-energy-corporate-bond-issuer-latin-america-2016/"
+license: CFI-OAAL-1.0
 content_sha256: c66768fdfaeef9d12ca7a01ad44d6db45f5ed5ba404341159287540e0938a2cf
 canonical: 4228-pan-american-energy-most-responsible-energy-corporate-bond-issuer-latin-america-.json
 ---
