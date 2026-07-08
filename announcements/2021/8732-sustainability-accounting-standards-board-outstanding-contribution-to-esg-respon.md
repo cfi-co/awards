@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228092951
 wayback_snapshot_url: "http://web.archive.org/web/20210228092951/https://cfi.co/awards/north-america/2021/sustainability-accounting-standards-board-outstanding-contribution-to-esg-responsible-transparency-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: ba6f1100a996aff3c3dccdfd3579dfcc7e0a9854a79695d36a13a584270d8503
 canonical: 8732-sustainability-accounting-standards-board-outstanding-contribution-to-esg-respon.json
 ---
