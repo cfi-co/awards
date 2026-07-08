@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251206080047
 wayback_snapshot_url: "http://web.archive.org/web/20251206080047/https://cfi.co/awards/asia-pacific/2015/banco-nacional-ultramarino-best-retail-bank-macau-2014/"
+license: CFI-OAAL-1.0
 content_sha256: e14bd02f2bcfa123992e06d50dc766e2413e7bcf466994bc41268d093eb78277
 canonical: 2189-banco-nacional-ultramarino-best-retail-bank-macau-2014.json
 ---
