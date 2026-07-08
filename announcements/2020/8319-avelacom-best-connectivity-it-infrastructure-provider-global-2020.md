@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203065034
 wayback_snapshot_url: "http://web.archive.org/web/20221203065034/https://cfi.co/awards/europe/2020/avelacom-best-connectivity-it-infrastructure-provider-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 907774879297e2c62e82cb155f310832ca985c09fa0da6bc94b823cab9f065e5
 canonical: 8319-avelacom-best-connectivity-it-infrastructure-provider-global-2020.json
 ---
