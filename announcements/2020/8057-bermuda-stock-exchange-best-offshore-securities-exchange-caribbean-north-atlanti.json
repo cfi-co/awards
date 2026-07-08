@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20200923093638",
-        "wayback_snapshot_url": "http://web.archive.org/web/20200923093638/https://cfi.co/awards/north-america/2020/bermuda-stock-exchange-best-offshore-securities-exchange-caribbean-north-atlantic-region-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20200923093638/https://cfi.co/awards/north-america/2020/bermuda-stock-exchange-best-offshore-securities-exchange-caribbean-north-atlantic-region-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8058\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/BSX.jpg\" alt=\"BSX\" width=\"400\" height=\"293\" />\r\n<p style=\"text-align: justify;\">Tourists are smitten by the famous pink-hued beaches, but savvy investors know Bermuda is more than a vacation hotspot – it’s a world class offshore financial centre. Investors don’t have to be residents to invest in Bermuda Stock Exchange (BSX) publicly listed securities. It offers retail stocks, bonds, and mutual funds. Novice investors gain confidence with a detailed dossier on investment basics, and are directed to local brokers who can open a path to owing a share of Bermuda. The archipelago boasts one of the highest GNPs per capita worldwide and is one of the top three centres for insurance and reinsurance alongside London and New York, and world leader in the issuance of insurance-linked securities. A fully electronic exchange since 1993, the BSX has contributed to the local economy with infrastructure to centralise the market in a well-founded system with robust domestic and international activity. The Exchange is regulated by the Bermuda Monetary Authority and is an accredited member and sits on the Board of the World Federation of Exchanges. BSX lists and trades stocks of publicly listed companies across financial services, consumer good, insurance, media, real estate, transport and utilities. Investors praise the exchange for its efficiency and speed in the clearing and settlement of trades. The burgeoning BSX is proud of its track record of maintaining and solid and dependable market platform for local and global customers. The CFI.co judging panel declares Bermuda as the winner of the 2020 award for Best Offshore Securities Exchange (Caribbean &amp; North Atlantic Region).</p>",
     "content_sha256": "0c10b72479906a546610c52cfa49ebabef061e2d840bc80d29d7dbfcccd3a6c4",
-    "record_sha256": "dd8b3f09611a112473e81430e1b3a028aa6af47160623ea0d0438f2b37e99aa2"
+    "record_sha256": "29d54a0990727df2cd811eee70416b3f13b48579a1fb2225c34d672ac9d472a0"
 }
