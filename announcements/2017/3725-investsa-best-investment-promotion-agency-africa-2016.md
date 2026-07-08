@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045502
 wayback_snapshot_url: "http://web.archive.org/web/20260524045502/https://cfi.co/awards/africa/2017/investsa-best-investment-promotion-agency-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: e51a79939676bd6974959cfedb56400776512a5267921ab74a9dd680cd40e276
 canonical: 3725-investsa-best-investment-promotion-agency-africa-2016.json
 ---
