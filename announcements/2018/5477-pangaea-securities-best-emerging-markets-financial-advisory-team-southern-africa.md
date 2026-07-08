@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260210025905
 wayback_snapshot_url: "http://web.archive.org/web/20260210025905/https://cfi.co/awards/africa/2018/pangaea-securities-best-emerging-markets-financial-advisory-team-southern-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 8717d15cc7f5ad915f13b73ec66ea4550e6c8904239d219bd6357de4caacd13a
 canonical: 5477-pangaea-securities-best-emerging-markets-financial-advisory-team-southern-africa.json
 ---
