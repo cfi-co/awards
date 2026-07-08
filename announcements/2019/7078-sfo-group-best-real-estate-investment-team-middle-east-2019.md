@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924120845
 wayback_snapshot_url: "http://web.archive.org/web/20210924120845/https://cfi.co/awards/middle-east/2019/sfo-group-best-real-estate-investment-team-middle-east-2019/"
+license: CFI-OAAL-1.0
 content_sha256: fcce8e47fa89363a0bfe2784e4f16ee01b2ab121ec4bd77998d942351783b166
 canonical: 7078-sfo-group-best-real-estate-investment-team-middle-east-2019.json
 ---
