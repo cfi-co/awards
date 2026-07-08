@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206174537
 wayback_snapshot_url: "http://web.archive.org/web/20231206174537/https://cfi.co/awards/finance/asset-management/2023/taurus-asset-management-sa-lugano-best-fixed-income-investment-strategy-switzerland-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 232f9128bd5a6757fcf3f9812747861b5f046d3be8b333bab32742d8b8916abd
 canonical: 12036-taurus-asset-management-sa-lugano-best-fixed-income-investment-strategy-switzerl.json
 ---
