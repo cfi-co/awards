@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021054913
 wayback_snapshot_url: "http://web.archive.org/web/20191021054913/https://cfi.co/awards/banking/2019/delen-private-bank-best-digital-private-bank-belgium-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 86f30d6572f1fe43cbd095e99897448e54b377eadb1ebfaf43a3a74b97641d2a
 canonical: 6889-delen-private-bank-best-digital-private-bank-belgium-2019.json
 ---
