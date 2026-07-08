@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210628092339
 wayback_snapshot_url: "http://web.archive.org/web/20210628092339/https://cfi.co/awards/europe/2020/enfuce-best-payment-compliance-solutions-europe-2019/"
+license: CFI-OAAL-1.0
 content_sha256: c57461252d99f9f08e7f12dfe48b863ec0174d01c1052976ce6abc94674837a0
 canonical: 7158-enfuce-best-payment-compliance-solutions-europe-2019.json
 ---
