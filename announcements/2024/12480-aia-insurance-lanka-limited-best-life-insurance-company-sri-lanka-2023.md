@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240815055037
 wayback_snapshot_url: "http://web.archive.org/web/20240815055037/https://cfi.co/awards/asia-pacific/2024/aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 1b6aade28c280a5ffaa4c3e06b6a0a7ec78361f9450812b619a90a21e36416c4
 canonical: 12480-aia-insurance-lanka-limited-best-life-insurance-company-sri-lanka-2023.json
 ---
