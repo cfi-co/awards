@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921121304
 wayback_snapshot_url: "http://web.archive.org/web/20210921121304/https://cfi.co/awards/middle-east/2013/klagsbald-wins-this-years-dispute-resolution-award-in-israel/"
+license: CFI-OAAL-1.0
 content_sha256: 8340e15fbcf97dd4513c7d10affa2c800b3f2dbc387ffd02392d020e6b6fe385
 canonical: 573-klagsbald-wins-this-years-dispute-resolution-award-in-israel.json
 ---
