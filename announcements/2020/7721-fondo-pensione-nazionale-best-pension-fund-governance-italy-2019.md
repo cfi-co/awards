@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924122007
 wayback_snapshot_url: "http://web.archive.org/web/20210924122007/https://cfi.co/awards/europe/2020/fondo-pensione-nazionale-best-pension-fund-governance-italy-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 8c83baa044ff2c5ab103e4cbb1293084e76c95f191a4599c241b75724ef9c22f
 canonical: 7721-fondo-pensione-nazionale-best-pension-fund-governance-italy-2019.json
 ---
