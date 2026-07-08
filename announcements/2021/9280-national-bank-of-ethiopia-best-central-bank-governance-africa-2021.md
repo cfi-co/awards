@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210719110210
 wayback_snapshot_url: "http://web.archive.org/web/20210719110210/https://cfi.co/awards/africa/2021/national-bank-of-ethiopia-best-central-bank-governance-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: befc5851ec5d462fb14e58602706840539f4bdf0a15bfd7f9702215e5845894a
 canonical: 9280-national-bank-of-ethiopia-best-central-bank-governance-africa-2021.json
 ---

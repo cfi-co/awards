@@ -26,10 +26,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210719110210",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210719110210/https://cfi.co/awards/africa/2021/national-bank-of-ethiopia-best-central-bank-governance-africa-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210719110210/https://cfi.co/awards/africa/2021/national-bank-of-ethiopia-best-central-bank-governance-africa-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-medium wp-image-9281\" src=\"https://cfi.co/awards/wp-content/uploads/2021/06/National-Bank-of-Ethiopia-275x300.jpg\" alt=\"National-Bank-of-Ethiopia\" width=\"275\" height=\"300\" />\r\n<p style=\"text-align: justify;\">If any corner of the world needs stable institutions, it’s the turbulent Horn of Africa. The National Bank of Ethiopia, the country’s central bank, has a vision stemming from the government’s pledge to build a country where democracy, good governance and social justice reign. After the political upheaval of the second half of the 20<sup>th</sup> century, the bank reorganised, adapting to a new era of market-based economic policy with the aim of creating a stable financial system. In 2019 it began a comprehensive three-year reform programme, supported by the IMF, to tackle Ethiopia’s international debt, moving the country from high to medium risk. Thanks to its governance strategies, the bank is helping to turn Ethiopia into one of Africa’s fastest growing economies. The bank plays an important role in economic research, giving policy advice to the government while ensuring price and exchange rate stability, adequate international reserves, and improving the dependability of the financial system. Its aim is to be one of the strongest, most reputable central banks in Africa. In response to Covid-19, the bank relaxed regulations to allow companies to better manage debt and ensure the viability of those worst affected. It also moved to provide loans to private banks during the height of the pandemic, to avoid liquidity issues. It has committed to the prevention of money laundering, smuggling and the financing of terrorism. The judging panel recognises the bank’s commitment to good governance, and is pleased to present the 2021 award, Best Central Bank Governance (Africa).</p>",
     "content_sha256": "befc5851ec5d462fb14e58602706840539f4bdf0a15bfd7f9702215e5845894a",
-    "record_sha256": "fe82f7f3349eaa9afa81f267eff71754638bef1b396d681d1c17de1b1626184a"
+    "record_sha256": "7295ee93ba9ecd6d68cc5ab8a7953f3b0201e6bfee556a7a923b9d78e6686f2b"
 }
