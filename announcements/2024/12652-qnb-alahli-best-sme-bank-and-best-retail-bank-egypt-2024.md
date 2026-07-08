@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250424102807
 wayback_snapshot_url: "http://web.archive.org/web/20250424102807/https://cfi.co/awards/banking/2024/qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2024/"
+license: CFI-OAAL-1.0
 content_sha256: aca0434cad2c178e363df24fb760305c40a798b3763bbd548a02579b604fb68c
 canonical: 12652-qnb-alahli-best-sme-bank-and-best-retail-bank-egypt-2024.json
 ---
