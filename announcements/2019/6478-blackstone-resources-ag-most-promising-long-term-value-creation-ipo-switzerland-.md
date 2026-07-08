@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241220160540
 wayback_snapshot_url: "http://web.archive.org/web/20241220160540/https://cfi.co/awards/front/2019/blackstone-resources-ag-most-promising-long-term-value-creation-ipo-switzerland-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 68af22f426b1f8d21f53795aaf10b535cae358b31954c85419e9fc970ebe3702
 canonical: 6478-blackstone-resources-ag-most-promising-long-term-value-creation-ipo-switzerland-.json
 ---
