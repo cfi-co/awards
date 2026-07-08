@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820013022
 wayback_snapshot_url: "http://web.archive.org/web/20190820013022/https://cfi.co/awards/asia-pacific/2017/sakar-healthcare-best-sme-growth-ipo-india-2016/"
+license: CFI-OAAL-1.0
 content_sha256: ed8076fa3879305f8df6bc3a767b12cc95dce569e21b2c0d49a172338fe386fe
 canonical: 3729-sakar-healthcare-best-sme-growth-ipo-india-2016.json
 ---
