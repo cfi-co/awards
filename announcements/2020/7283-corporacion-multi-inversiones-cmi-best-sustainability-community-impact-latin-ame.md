@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200617125421
 wayback_snapshot_url: "http://web.archive.org/web/20200617125421/https://cfi.co/awards/latin-america/2020/corporacion-multi-inversiones-cmi-best-sustainability-community-impact-latin-america-2019/"
+license: CFI-OAAL-1.0
 content_sha256: c555c4bb576dbe2038d16963aec58401552e67f83208607a20f333c92de10c5a
 canonical: 7283-corporacion-multi-inversiones-cmi-best-sustainability-community-impact-latin-ame.json
 ---
