@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250725221742
 wayback_snapshot_url: "http://web.archive.org/web/20250725221742/https://cfi.co/awards/finance/exchanges-brokers/2024/xm-com-outstanding-global-forex-broker/"
+license: CFI-OAAL-1.0
 content_sha256: 504cc2b3b4ac4c0758d004708d70064f18c6e005de7131ea67a070abb429a918
 canonical: 12409-xm-com-outstanding-global-forex-broker.json
 ---
