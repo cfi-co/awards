@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228100758
 wayback_snapshot_url: "http://web.archive.org/web/20210228100758/https://cfi.co/awards/europe/2021/victor-buck-services-best-business-process-outsourcing-services-luxembourg-2020/"
+license: CFI-OAAL-1.0
 content_sha256: a7ca26549ccc901431cc50f4bd63815dd263c22e48602790bac76ec5cc5c21b0
 canonical: 8736-victor-buck-services-best-business-process-outsourcing-services-luxembourg-2020.json
 ---
