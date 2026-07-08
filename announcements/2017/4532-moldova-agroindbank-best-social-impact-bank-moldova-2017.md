@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240623222044
 wayback_snapshot_url: "http://web.archive.org/web/20240623222044/https://cfi.co/awards/banking/2017/moldova-agroindbank-best-social-impact-bank-moldova-2017/"
+license: CFI-OAAL-1.0
 content_sha256: ffa9dadc2033fa17b394c60dd3ac3dae361efd3ed393e8d0f911eb9f77b320a6
 canonical: 4532-moldova-agroindbank-best-social-impact-bank-moldova-2017.json
 ---
