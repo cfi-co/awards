@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200903044320
 wayback_snapshot_url: "http://web.archive.org/web/20200903044320/https://cfi.co/awards/africa/2017/senelec-best-esg-power-producer-west-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: bbee0a2047c958ad89cb730e260d6b551da788f42aac224377bf4941df282aa2
 canonical: 4305-senelec-best-esg-power-producer-west-africa-2016.json
 ---
