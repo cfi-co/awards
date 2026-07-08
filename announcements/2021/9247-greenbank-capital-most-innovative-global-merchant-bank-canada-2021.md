@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210604185232
 wayback_snapshot_url: "http://web.archive.org/web/20210604185232/https://cfi.co/awards/north-america/2021/greenbank-capital-most-innovative-global-merchant-bank-canada-2021/"
+license: CFI-OAAL-1.0
 content_sha256: feb6a61a47a2f6acf88244f444b7a0d0a68f9db9f482c090568379853dba251e
 canonical: 9247-greenbank-capital-most-innovative-global-merchant-bank-canada-2021.json
 ---
