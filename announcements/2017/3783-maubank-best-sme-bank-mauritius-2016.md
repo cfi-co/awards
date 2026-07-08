@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045711
 wayback_snapshot_url: "http://web.archive.org/web/20260524045711/https://cfi.co/awards/africa/2017/maubank-best-sme-bank-mauritius-2016/"
+license: CFI-OAAL-1.0
 content_sha256: dfe2fd6614b9e1b1f5deb020ed79600f35113e7024b3338481206d33c0e06fb3
 canonical: 3783-maubank-best-sme-bank-mauritius-2016.json
 ---
