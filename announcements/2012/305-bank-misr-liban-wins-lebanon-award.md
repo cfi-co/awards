@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724005938
 wayback_snapshot_url: "http://web.archive.org/web/20210724005938/https://cfi.co/awards/middle-east/2012/bank-misr-liban-wins-lebanon-award/"
+license: CFI-OAAL-1.0
 content_sha256: 97b415226510c8980f3803f04aeb5c6eddfdd580870bdfe89f0d9f2f2ca0e58d
 canonical: 305-bank-misr-liban-wins-lebanon-award.json
 ---
