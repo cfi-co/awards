@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409211041
 wayback_snapshot_url: "http://web.archive.org/web/20140409211041/http://cfi.co/awards/europe/2013/makeitwork-named-best-broadband-provisioning-solutions-provider-denmark/"
+license: CFI-OAAL-1.0
 content_sha256: e8a5734276b6dc581c30d6cb6eff1f642c1ba539051739ebf0c1c0adc9b702c5
 canonical: 747-makeitwork-named-best-broadband-provisioning-solutions-provider-denmark.json
 ---
