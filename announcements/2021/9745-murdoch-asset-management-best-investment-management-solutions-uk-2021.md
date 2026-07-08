@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207202251
 wayback_snapshot_url: "http://web.archive.org/web/20211207202251/https://cfi.co/awards/europe/2021/murdoch-asset-management-best-investment-management-solutions-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: d1e9a022e730b4ba57b801dfae879a7e385b716653ea0b03ee8f0b0c1da608c4
 canonical: 9745-murdoch-asset-management-best-investment-management-solutions-uk-2021.json
 ---
