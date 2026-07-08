@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921105227
 wayback_snapshot_url: "http://web.archive.org/web/20210921105227/https://cfi.co/awards/africa/2018/catoca-best-esg-mining-operations-angola-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 2ebc7c7a5a5cb809001b9beb39f147853f01f436c89ff6d72586cf967b0eac95
 canonical: 5288-catoca-best-esg-mining-operations-angola-2017.json
 ---
