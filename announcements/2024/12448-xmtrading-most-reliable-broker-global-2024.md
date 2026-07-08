@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528044053
 wayback_snapshot_url: "http://web.archive.org/web/20260528044053/https://cfi.co/awards/finance/exchanges-brokers/2024/xmtrading-most-reliable-broker-global-2024/"
+license: CFI-OAAL-1.0
 content_sha256: b318a889905a61ea7c39598a5aae61f692e3ac6dcd3c8f1f14ba1fe99b7020a5
 canonical: 12448-xmtrading-most-reliable-broker-global-2024.json
 ---
