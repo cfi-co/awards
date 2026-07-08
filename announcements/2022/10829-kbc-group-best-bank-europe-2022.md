@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221027144953
 wayback_snapshot_url: "http://web.archive.org/web/20221027144953/https://cfi.co/awards/banking/2022/kbc-group-best-bank-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: e25efb51cac9162e8a3c275d6ba1e6e2d43afa65083d4b46d9b4be5079c04ce5
 canonical: 10829-kbc-group-best-bank-europe-2022.json
 ---
