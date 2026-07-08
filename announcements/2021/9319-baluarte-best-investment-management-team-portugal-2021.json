@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210725070424",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210725070424/https://cfi.co/awards/europe/2021/baluarte-best-investment-management-team-portugal-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210725070424/https://cfi.co/awards/europe/2021/baluarte-best-investment-management-team-portugal-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9320\" src=\"https://cfi.co/awards/wp-content/uploads/2021/07/Baluarte.jpg\" alt=\"Baluarte\" width=\"400\" height=\"344\" />\r\n<p style=\"text-align: justify;\">Multi-family office Baluarte was founded in 2014 to help individuals, families and institutions protect their wealth and achieve their financial goals. The firm focuses exclusively on independent investment advisory services and corporate and M&amp;A advisory, and operates in Portugal, Italy and Spain on behalf of a diversified and distinguished international clientele. Independence and transparency are paramount at Baluarte, and ensure a full alignment of interests with all its investors. Each individual investment management team member has more than 25 years of industry experience. The team engages with clients to understand their financial circumstances and ambitions, then charts a path likely to maximise risk-adjusted returns. Baluarte acknowledges market volatility but believes there is always some order in apparent chaos. The team takes the time to analyse trends and reveal the underlying structure of the market, then advises clients on any necessary adjustments. Each client is assigned a dedicated financial advisor who will analyse their personal situation and create a suitable risk profile. They will then define ideal investment structures and strategies according to that profile, selecting the financial instruments to begin building a portfolio. Advisors will also prepare trade information for clients' approval and transmit the documents to the preferred intermediary. The team stays on top of all portfolios, analysing any deviations and proposing corrective or preventative measures where necessary. The CFl.co judging panel presents Baluarte with the 2021 award for Best Investment Management Team (Portugal).</p>",
     "content_sha256": "520b7b6a4376779ae97bb9aed3714b532804d37d226cbe4eec407b574274cae8",
-    "record_sha256": "6fc52e176f4bdf2c1938e5cfe036fb2c33a1ce28b169b01c95c5a886a59c1558"
+    "record_sha256": "a9283d1e8d4dd20f5cab4e93be271bf064bb4cb3941c0058269011793b06575a"
 }
