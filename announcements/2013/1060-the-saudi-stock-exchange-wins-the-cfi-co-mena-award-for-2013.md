@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209125703
 wayback_snapshot_url: "http://web.archive.org/web/20140209125703/http://cfi.co/awards/africa/2013/the-saudi-stock-exchange-wins-the-cfi-co-mena-award-for-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 607fde02b32052a8fc5426773e1ce59ea7e1d43e882ede3e7d46c74a4f4933c0
 canonical: 1060-the-saudi-stock-exchange-wins-the-cfi-co-mena-award-for-2013.json
 ---
