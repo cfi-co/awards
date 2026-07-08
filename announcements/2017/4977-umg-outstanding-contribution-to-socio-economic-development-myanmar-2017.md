@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525051005
 wayback_snapshot_url: "http://web.archive.org/web/20260525051005/https://cfi.co/awards/asia-pacific/2017/umg-outstanding-contribution-to-socio-economic-development-myanmar-2017/"
+license: CFI-OAAL-1.0
 content_sha256: e6851b07dd5f1b21f97f76f1af86b485a5d1a9257d18e2332c1b2875637f26f4
 canonical: 4977-umg-outstanding-contribution-to-socio-economic-development-myanmar-2017.json
 ---
