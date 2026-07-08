@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527050158
 wayback_snapshot_url: "http://web.archive.org/web/20260527050158/https://cfi.co/awards/latin-america/2023/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2023/"
+license: CFI-OAAL-1.0
 content_sha256: a0db71beea0f1de0ed23d9f0a8566d4e71fc4f532fd6818ed7cb171f48a5e9de
 canonical: 12839-pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2023.json
 ---
