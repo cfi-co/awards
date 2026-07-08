@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920105917
 wayback_snapshot_url: "http://web.archive.org/web/20210920105917/https://cfi.co/awards/middle-east/2021/mti-consulting-best-boutique-management-consultancy-mea-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 141af268ed0c98986ba8abeb5f87b0355ed2464ebe1e290842125d04ed928d38
 canonical: 9546-mti-consulting-best-boutique-management-consultancy-mea-2021.json
 ---
