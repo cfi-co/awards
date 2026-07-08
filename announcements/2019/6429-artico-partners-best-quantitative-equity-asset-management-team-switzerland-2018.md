@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525061421
 wayback_snapshot_url: "http://web.archive.org/web/20260525061421/https://cfi.co/awards/front/2019/artico-partners-best-quantitative-equity-asset-management-team-switzerland-2018/"
+license: CFI-OAAL-1.0
 content_sha256: a41b7af5b5aa6186a46aa9e407a794428838b4eb0e6caef7ba5e73667639cc54
 canonical: 6429-artico-partners-best-quantitative-equity-asset-management-team-switzerland-2018.json
 ---
