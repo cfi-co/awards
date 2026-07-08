@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207203750
 wayback_snapshot_url: "http://web.archive.org/web/20211207203750/https://cfi.co/awards/asia-pacific/2021/china-construction-bank-best-retail-banking-services-china-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 8643ef3f95c3076ebbef3adaec818b208403ec3a6ef903bdc658dc7bd77b636c
 canonical: 9794-china-construction-bank-best-retail-banking-services-china-2021.json
 ---
