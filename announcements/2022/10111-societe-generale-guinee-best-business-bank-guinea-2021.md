@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630131927
 wayback_snapshot_url: "http://web.archive.org/web/20220630131927/https://cfi.co/awards/africa/2022/societe-generale-guinee-best-business-bank-guinea-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 101c36801d198038aecd754b3a211a86d3f5603c23c8daffccc994645e45c716
 canonical: 10111-societe-generale-guinee-best-business-bank-guinea-2021.json
 ---
