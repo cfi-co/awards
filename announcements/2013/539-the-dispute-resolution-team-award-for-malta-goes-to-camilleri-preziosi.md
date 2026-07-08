@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042129
 wayback_snapshot_url: "http://web.archive.org/web/20260523042129/https://cfi.co/awards/europe/2013/the-dispute-resolution-team-award-for-malta-goes-to-camilleri-preziosi/"
+license: CFI-OAAL-1.0
 content_sha256: bdea7891a39cc1b2f76809ede72ce911b8f868700fe48405acf4add3b975d0bd
 canonical: 539-the-dispute-resolution-team-award-for-malta-goes-to-camilleri-preziosi.json
 ---
