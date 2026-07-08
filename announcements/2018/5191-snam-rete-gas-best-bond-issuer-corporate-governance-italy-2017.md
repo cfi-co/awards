@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209172043
 wayback_snapshot_url: "http://web.archive.org/web/20250209172043/https://cfi.co/awards/europe/2018/snam-rete-gas-best-bond-issuer-corporate-governance-italy-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 5b196dab30e53ea5e1e77f5a84d460b70f0dc7c9be27b39bc5b84c0f65ba9157
 canonical: 5191-snam-rete-gas-best-bond-issuer-corporate-governance-italy-2017.json
 ---
