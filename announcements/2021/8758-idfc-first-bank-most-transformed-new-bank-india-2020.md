@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228101320
 wayback_snapshot_url: "http://web.archive.org/web/20210228101320/https://cfi.co/awards/asia-pacific/2021/idfc-first-bank-most-transformed-new-bank-india-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 2557f39dcec820dd85d1096eb2e996b24e05d8f291703fdc771925ab8edec6fe
 canonical: 8758-idfc-first-bank-most-transformed-new-bank-india-2020.json
 ---
