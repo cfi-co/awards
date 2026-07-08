@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614190557
 wayback_snapshot_url: "http://web.archive.org/web/20210614190557/https://cfi.co/awards/middle-east/2021/omantel-best-digital-transformation-leadership-gcc-2021/"
+license: CFI-OAAL-1.0
 content_sha256: bf46df7eaf3b1fc4c029a0c48c7a4c6e3b87bd2739c3737448f16a9ca86900e5
 canonical: 9211-omantel-best-digital-transformation-leadership-gcc-2021.json
 ---
