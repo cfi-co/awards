@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260612033105
 wayback_snapshot_url: "http://web.archive.org/web/20260612033105/https://cfi.co/awards/asia-pacific/2026/eastwest-bank-leaders-in-consumer-finance-excellence-philippines-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 552f410d1ddc50473bdc95c282b9ffac6bba66ee0e947f12407588e5d71efeb5
 canonical: 13453-eastwest-bank-leaders-in-consumer-finance-excellence-philippines-2026.json
 ---
