@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509111050
 wayback_snapshot_url: "http://web.archive.org/web/20210509111050/https://cfi.co/awards/europe/2021/pcp-p-capital-partners-best-private-credit-partner-northern-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: f97451955631510b626ebb9dbef751c8fb1c5832232dcd7bfac1893830d8933d
 canonical: 9064-pcp-p-capital-partners-best-private-credit-partner-northern-europe-2021.json
 ---
