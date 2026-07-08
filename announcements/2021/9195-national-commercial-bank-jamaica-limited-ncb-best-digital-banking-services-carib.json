@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210614182559",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210614182559/https://cfi.co/awards/north-america/2021/national-commercial-bank-jamaica-limited-ncb-best-digital-banking-services-caribbean-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210614182559/https://cfi.co/awards/north-america/2021/national-commercial-bank-jamaica-limited-ncb-best-digital-banking-services-caribbean-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9196\" src=\"https://cfi.co/awards/wp-content/uploads/2021/05/NCB.jpg\" alt=\"NCB\" width=\"400\" height=\"91\" />\r\n<p style=\"text-align: justify;\">The home page of the National Commercial Bank Jamaica’s website shows a young man smiling happily as he reaches for a smart phone. “Bank on the go, 24/7, with the mobile app,” says the caption – an illustration of how the bank is moving rapidly towards a digital future. NCB has a reputation for being ahead of the curve in banking innovation – it issued the first Jamaican credit card in 1981, for instance. Since its inception as the Colonial Bank of London in 1837, it has grown to become a dominant force in the island’s financial sector, and recognised as one of the safest banks in the Caribbean. Even so, the decision to undertake an ambitious core banking digital upgrade in 2019 was seen as a major challenge. There were inevitable glitches as NCB began the process of overhauling and modernising its systems, but it overcame problems quickly and openly – and the upgrade came just in time. When Covid-19 hit the island the bank was able to extend digitisation with relative ease. By September 2020 in-bank transactions had been reduced by 70 percent as more customers moved online. One of the principal aims of the Jamaican government’s National Identity Scheme, which is scheduled to be rolled out later in 2021, is the prevention of fraud and identity theft, and NCB believes that, thanks to the digital modernisation, it is well-positioned to help even more Jamaican businesses and individuals to make the move to digital. The judging panel is pleased to present NCB the 2020 award for Best Digital Banking Services Caribbean.</p>",
     "content_sha256": "f1caf7f1c4022bc7f74a321ae25b0a4ea41f669001a1de552cd6ef1668a01881",
-    "record_sha256": "ccd81686faf2b01c86b85df8e14e60e49eede76bac605f29770c21ab3d8cc5df"
+    "record_sha256": "4a2a8fa91a3cd98474993e15a3b9d025962439624db296e9073e37d33b7ff0c4"
 }
