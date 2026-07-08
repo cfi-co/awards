@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723010012
 wayback_snapshot_url: "http://web.archive.org/web/20190723010012/https://cfi.co/awards/latin-america/2018/produbanco-best-bank-governance-ecuador-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 2519d6eb01cc1794cf50065303db5e70faa97b72c548ae8c3e196cd1e3a7317c
 canonical: 5535-produbanco-best-bank-governance-ecuador-2018.json
 ---
