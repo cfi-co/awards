@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200724135631
 wayback_snapshot_url: "http://web.archive.org/web/20200724135631/https://cfi.co/awards/asia-pacific/2017/amplus-energy-solutions-best-green-energy-industrial-solutions-provider-india-2017/"
+license: CFI-OAAL-1.0
 content_sha256: bbf4dc63cfcf78c27ae0a9b9106dbfdcf45c63e5b6689c0f64004df1999500e8
 canonical: 4293-amplus-energy-solutions-best-green-energy-industrial-solutions-provider-india-20.json
 ---
