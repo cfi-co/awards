@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190923113711
 wayback_snapshot_url: "http://web.archive.org/web/20190923113711/https://cfi.co/awards/professional-services/consultancies/2019/radtac-most-innovative-business-transformation-consultancy-uk-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 654de621a6288ee0454fa6b0000bb7d178372db179a5c56453bad4ddd54c030b
 canonical: 6870-radtac-most-innovative-business-transformation-consultancy-uk-2019.json
 ---
