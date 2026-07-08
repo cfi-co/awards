@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603011643
 wayback_snapshot_url: "http://web.archive.org/web/20230603011643/https://cfi.co/awards/africa/2023/apip-guinee-female-entrepreneurship-partner-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 9052df6266229eb5dd82cd5c15289eb107eba1c1d8dc0fccc51ceca13205542f
 canonical: 11473-apip-guinee-female-entrepreneurship-partner-africa-2023.json
 ---
