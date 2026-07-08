@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210120071149
 wayback_snapshot_url: "http://web.archive.org/web/20210120071149/https://cfi.co/awards/north-america/2020/reorg-best-distressed-debt-intelligence-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: ec44de700bad9cc30231e9d0cc62047278d6d8a1450e66accf6e223f5bd59561
 canonical: 8549-reorg-best-distressed-debt-intelligence-global-2020.json
 ---
