@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160505074954
 wayback_snapshot_url: "http://web.archive.org/web/20160505074954/http://cfi.co/awards/middle-east/2016/kuwait-international-bank-kib-best-sharia-compliant-bank-middle-east-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 700cb740b7d537a92c46ee414651f4649920402720d7bb263da7a8c8769e45b4
 canonical: 2772-kuwait-international-bank-kib-best-sharia-compliant-bank-middle-east-2015.json
 ---
