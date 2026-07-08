@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240911203356
 wayback_snapshot_url: "http://web.archive.org/web/20240911203356/https://cfi.co/awards/africa/2024/old-mutual-zimbabwe-outstanding-contribution-to-financial-empowerment-zimbabwe-2024/"
+license: CFI-OAAL-1.0
 content_sha256: d087ea72995be403e99fd5c520f5f09096b4c04977726c990a1f13a0c409d3e1
 canonical: 12505-old-mutual-zimbabwe-outstanding-contribution-to-financial-empowerment-zimbabwe-2.json
 ---
