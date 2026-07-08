@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923170532
 wayback_snapshot_url: "http://web.archive.org/web/20230923170532/https://cfi.co/awards/europe/2023/landesbank-baden-wurttemberg-lbbw-best-covered-bond-issuer-germany-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 4e79c21668252babb623dd895c8d53a24e7648c49c63b434c0b7942367541d20
 canonical: 11740-landesbank-baden-wurttemberg-lbbw-best-covered-bond-issuer-germany-2023.json
 ---
