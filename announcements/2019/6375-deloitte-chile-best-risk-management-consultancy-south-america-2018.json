@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190717211516",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190717211516/https://cfi.co/awards/front/2019/deloitte-chile-best-risk-management-consultancy-south-america-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190717211516/https://cfi.co/awards/front/2019/deloitte-chile-best-risk-management-consultancy-south-america-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-6376\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/Deloitte.jpg\" alt=\"\" width=\"500\" height=\"167\" />The pace of globalisation and innovative disruption that companies now face is rapidly accelerating. Nimble and well-informed responses to risk management are of critical importance - not only to take advantage of opportunities, but also to survive the changes taking place. To keep up with the everchanging risk landscape, business needs advice that is personalised by an adviser with a finger on the pulse of global change - and, for this, size does matter. Deloitte, as an international group, is of a size and reputation to attract the best talents globally as well as locally. Deloitte Chile has taken full advantage of the group’s strengths while developing a diverse local culture that enables the firm to build trust and understanding with clients. This is helping Deloitte Chile provide a leadership role in South America in the delivery of risk solutions and advice that customers need. Deloitte Chile strives to ensure that its relationships are mutually beneficial, and the firm is helping ensure the success of the wider economy and clients. The CFI.co judging panel feels that Deloitte Chile stands out as an example of how best to deliver the highest levels of risk management and is delighted to declare the firm winner of the 2018 award Best Risk Management Consultancy (South America).</p>",
     "content_sha256": "9f4ebb2fdba117072a587350f9f0084d5cc9e01c590cddde9b4087fd25502657",
-    "record_sha256": "b0af5f951996f4099dfbf200a9e2fec7d4018a0dc68bd1eea136025fec8e6e35"
+    "record_sha256": "2d8f62c62fd19e1fd76f2ad725d1f37a7afff028a243fa31cb189c26efb7d44a"
 }
