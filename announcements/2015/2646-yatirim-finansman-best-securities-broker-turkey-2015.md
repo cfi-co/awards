@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160505102142
 wayback_snapshot_url: "http://web.archive.org/web/20160505102142/http://cfi.co/awards/europe/2015/yatirim-finansman-best-securities-broker-turkey-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 05f53230b4e71b95194ea14305631865573bd5e96428d00273888c9f54b6ea59
 canonical: 2646-yatirim-finansman-best-securities-broker-turkey-2015.json
 ---
