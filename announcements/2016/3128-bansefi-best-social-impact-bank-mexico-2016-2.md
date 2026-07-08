@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170710065347
 wayback_snapshot_url: "http://web.archive.org/web/20170710065347/http://cfi.co/awards/banking/2016/bansefi-best-social-impact-bank-mexico-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 23f7962e5602aa34b0fa5a4727410f89d90d972c451ed5399166a21ed66d4046
 canonical: 3128-bansefi-best-social-impact-bank-mexico-2016-2.json
 ---
