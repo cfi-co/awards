@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920105051
 wayback_snapshot_url: "http://web.archive.org/web/20210920105051/https://cfi.co/awards/middle-east/2020/maghreb-oxygene-sa-best-medical-gas-supplier-mena-2019/"
+license: CFI-OAAL-1.0
 content_sha256: d40d6a486b996d30815799198370e36881d950c3adf13f8f344da399cb32b5e4
 canonical: 7787-maghreb-oxygene-sa-best-medical-gas-supplier-mena-2019.json
 ---
