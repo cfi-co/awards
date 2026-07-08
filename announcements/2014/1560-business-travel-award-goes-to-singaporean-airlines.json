@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260523043212",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260523043212/https://cfi.co/awards/uncategorized/2014/business-travel-award-goes-to-singaporean-airlines/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523043212/https://cfi.co/awards/uncategorized/2014/business-travel-award-goes-to-singaporean-airlines/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2015/01/sa.png\" alt=\"\" width=\"221\" height=\"228\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Singapore Airlines Business Class provides passengers pleasant entertainment, fine dining and a good night’s sleep in a very well thought out and spacious environment. </strong></p>\r\n<p style=\"text-align: justify;\">All in all, voters in our 2014 Customer Satisfaction Awards Programme make it clear that flying with Singapore is a wonderful experience with outstanding inflight services.</p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel is pleased to award this airline ‘Best Customer Satisfaction, Business Travel, 2014.’</p>",
     "content_sha256": "32607fdff699dc493cf60dfcc2a442f4571210d9c54915374225d5159336f8a9",
-    "record_sha256": "1c39bff54024dbcb70acdc8dd3b79ec100550dc46359d1c9a56c81fcc30866a2"
+    "record_sha256": "6c0034d6cf4e0644b7bca062dc9f8f1f1b64ae467ad8c6a875837c814b54d58e"
 }

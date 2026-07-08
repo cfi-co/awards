@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523043212
 wayback_snapshot_url: "http://web.archive.org/web/20260523043212/https://cfi.co/awards/uncategorized/2014/business-travel-award-goes-to-singaporean-airlines/"
+license: CFI-OAAL-1.0
 content_sha256: 32607fdff699dc493cf60dfcc2a442f4571210d9c54915374225d5159336f8a9
 canonical: 1560-business-travel-award-goes-to-singaporean-airlines.json
 ---
