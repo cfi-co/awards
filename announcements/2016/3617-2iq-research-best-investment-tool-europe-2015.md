@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524041714
 wayback_snapshot_url: "http://web.archive.org/web/20260524041714/https://cfi.co/awards/finance/2016/2iq-research-best-investment-tool-europe-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 31dfceeac0a8b995e9c221e1ee4cf3c61218bb81bda47918bc1d69cc0c518c3f
 canonical: 3617-2iq-research-best-investment-tool-europe-2015.json
 ---
