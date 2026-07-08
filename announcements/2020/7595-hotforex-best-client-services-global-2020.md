@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260531033145
 wayback_snapshot_url: "http://web.archive.org/web/20260531033145/https://cfi.co/awards/finance/exchanges-brokers/2020/hotforex-best-client-services-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 675fe222b2aab92d798baa34d8fbab9e2c64fd160b8198842e57b02638b8012e
 canonical: 7595-hotforex-best-client-services-global-2020.json
 ---
