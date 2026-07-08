@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090033
 wayback_snapshot_url: "http://web.archive.org/web/20190724090033/https://cfi.co/awards/north-america/2018/national-energy-services-reunited-most-promising-energy-value-creation-ipo-united-states-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 4648fe84c8e15ef5bb05263221e086f97dcc70b7dee70ed0937d09249b116e76
 canonical: 5419-national-energy-services-reunited-most-promising-energy-value-creation-ipo-unite.json
 ---
