@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190609111124
 wayback_snapshot_url: "http://web.archive.org/web/20190609111124/https://cfi.co/awards/latin-america/2019/bbva-colombia-best-mobile-bank-colombia-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 0dbb25a8d5676747e849cbaa75202b79f2dfb05953b9d3153438c61d3f477248
 canonical: 6677-bbva-colombia-best-mobile-bank-colombia-2019.json
 ---
