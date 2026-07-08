@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524042526
 wayback_snapshot_url: "http://web.archive.org/web/20260524042526/https://cfi.co/awards/industries/2016/adobe-systems-most-innovative-multimedia-software-solutions-united-states-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 68ca5aef38452b53e0d69add6c8766a13d3032a6f186b101ad586e625cc8e50b
 canonical: 4051-adobe-systems-most-innovative-multimedia-software-solutions-united-states-2016.json
 ---
