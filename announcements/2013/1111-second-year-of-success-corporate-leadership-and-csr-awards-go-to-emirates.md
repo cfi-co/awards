@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409004311
 wayback_snapshot_url: "http://web.archive.org/web/20140409004311/http://cfi.co/awards/middle-east/2013/second-year-of-success-corporate-leadership-and-csr-awards-go-to-emirates/"
+license: CFI-OAAL-1.0
 content_sha256: c80771ff2125748254a2630b521120c111cd311687d7123cd7cd1adc96909d84
 canonical: 1111-second-year-of-success-corporate-leadership-and-csr-awards-go-to-emirates.json
 ---
