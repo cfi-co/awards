@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235550
 wayback_snapshot_url: "http://web.archive.org/web/20201203235550/https://cfi.co/awards/europe/2020/london-stock-exchange-best-capital-raising-exchange-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: d6a9c7ce47854a3567235d01859806ea8916d4568e4d9e60f80c6bf9b58a8e86
 canonical: 8307-london-stock-exchange-best-capital-raising-exchange-global-2020.json
 ---
