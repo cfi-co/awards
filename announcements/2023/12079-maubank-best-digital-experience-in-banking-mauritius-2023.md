@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231209231547
 wayback_snapshot_url: "http://web.archive.org/web/20231209231547/https://cfi.co/awards/africa/2023/maubank-best-digital-experience-in-banking-mauritius-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 8766525acbfe0283533f6985415c4edb4a59f7af654a735285454ac08ef05257
 canonical: 12079-maubank-best-digital-experience-in-banking-mauritius-2023.json
 ---
