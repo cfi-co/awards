@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923180804
 wayback_snapshot_url: "http://web.archive.org/web/20230923180804/https://cfi.co/awards/africa/2023/crc-credit-bureau-ltd-best-credit-bureau-nigeria-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 99536f5c26165be8420c6786dcf5c2ab66f1ef498a553596bf64e8c0e25e8964
 canonical: 11704-crc-credit-bureau-ltd-best-credit-bureau-nigeria-2023.json
 ---
