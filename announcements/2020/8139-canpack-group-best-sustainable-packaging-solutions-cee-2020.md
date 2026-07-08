@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923093521
 wayback_snapshot_url: "http://web.archive.org/web/20200923093521/https://cfi.co/awards/europe/2020/canpack-group-best-sustainable-packaging-solutions-cee-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 8eddaa83a812ae8607fdaa9878b6c1e32cefd3d39f75383dbe07675f3859497b
 canonical: 8139-canpack-group-best-sustainable-packaging-solutions-cee-2020.json
 ---
