@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209172816
 wayback_snapshot_url: "http://web.archive.org/web/20250209172816/https://cfi.co/awards/africa/2024/biat-banque-internationale-arabe-de-tunisie-best-digitalisation-strategy-north-africa-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 49cc913295100d934883af7e530157fad3a15d26c2a3b935faaedeeca86ee964
 canonical: 12826-biat-banque-internationale-arabe-de-tunisie-best-digitalisation-strategy-north-a.json
 ---
