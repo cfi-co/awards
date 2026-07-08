@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094526
 wayback_snapshot_url: "http://web.archive.org/web/20190426094526/https://cfi.co/awards/africa/2018/guinea-alumina-corporation-gac-best-esg-mining-project-west-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: aace47c058bb9ec111f15e5018b4f164f1287c7d8b1ab00a84d223356925b519
 canonical: 5836-guinea-alumina-corporation-gac-best-esg-mining-project-west-africa-2018.json
 ---
