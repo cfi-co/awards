@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210714192742
 wayback_snapshot_url: "http://web.archive.org/web/20210714192742/https://cfi.co/awards/africa/2021/yoa-insurance-best-insurance-broker-nigeria-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 4c21ab267b246f3c2f965765504c653a40639634947d005993d75224ab6ab5db
 canonical: 9384-yoa-insurance-best-insurance-broker-nigeria-2021.json
 ---
