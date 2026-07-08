@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409004435
 wayback_snapshot_url: "http://web.archive.org/web/20140409004435/http://cfi.co/awards/europe/2013/the-energy-to-satisfy-danfoss-wins-cfi-award-in-denmark/"
+license: CFI-OAAL-1.0
 content_sha256: b425c7008f81c25168bd5a9bcc97c7bfa80ed15d85c92777f6ceca4c7be39dd3
 canonical: 679-the-energy-to-satisfy-danfoss-wins-cfi-award-in-denmark.json
 ---
