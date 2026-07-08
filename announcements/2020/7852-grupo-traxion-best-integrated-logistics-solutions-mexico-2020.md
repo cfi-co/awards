@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810084639
 wayback_snapshot_url: "http://web.archive.org/web/20200810084639/https://cfi.co/awards/latin-america/2020/grupo-traxion-best-integrated-logistics-solutions-mexico-2020/"
+license: CFI-OAAL-1.0
 content_sha256: c52d3795b7c3ede7f1c6a32c44dab590754638c9682d8fafafb8b544aae8c1c0
 canonical: 7852-grupo-traxion-best-integrated-logistics-solutions-mexico-2020.json
 ---
