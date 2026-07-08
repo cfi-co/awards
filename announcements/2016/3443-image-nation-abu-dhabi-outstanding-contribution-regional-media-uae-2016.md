@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20161011033726
 wayback_snapshot_url: "http://web.archive.org/web/20161011033726/http://cfi.co/awards/middle-east/2016/image-nation-abu-dhabi-outstanding-contribution-regional-media-uae-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 4fbbe6a2eae2eb8636aff25ec6a2c28cf40272798a91d06590bbf93db236ff4d
 canonical: 3443-image-nation-abu-dhabi-outstanding-contribution-regional-media-uae-2016.json
 ---
