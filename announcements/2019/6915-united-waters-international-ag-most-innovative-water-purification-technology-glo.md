@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052107
 wayback_snapshot_url: "http://web.archive.org/web/20191021052107/https://cfi.co/awards/industries/technology/2019/united-waters-international-ag-most-innovative-water-purification-technology-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: fbbd568893e70640db6182cd7635e52f1150bec9e511e24088f46e27e79b1844
 canonical: 6915-united-waters-international-ag-most-innovative-water-purification-technology-glo.json
 ---
