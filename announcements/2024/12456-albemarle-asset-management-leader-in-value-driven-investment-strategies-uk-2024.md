@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240815064902
 wayback_snapshot_url: "http://web.archive.org/web/20240815064902/https://cfi.co/awards/europe/2024/albemarle-asset-management-leader-in-value-driven-investment-strategies-uk-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 0c470c401df8e4f380c1be5242d491180a6e2a3a0ec8eed736051056357412ab
 canonical: 12456-albemarle-asset-management-leader-in-value-driven-investment-strategies-uk-2024.json
 ---
