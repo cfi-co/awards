@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220119065502
 wayback_snapshot_url: "http://web.archive.org/web/20220119065502/https://cfi.co/awards/middle-east/2022/stc-kuwait-outstanding-achievements-in-corporate-governance-stakeholder-protection-kuwait-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 0cce9eac83978c80c9d2c86a2124bd87f1c5d13df5839fa846cba9581e3ac804
 canonical: 9936-stc-kuwait-outstanding-achievements-in-corporate-governance-stakeholder-protecti.json
 ---
