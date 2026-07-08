@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190902131554
 wayback_snapshot_url: "http://web.archive.org/web/20190902131554/https://cfi.co/awards/professional-services/2017/akerton-partners-best-corporate-finance-advisory-team-spain-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1dd09e4a6c953b1482d878ff8e4d1458fac4e09447d1b913c515f3984828a2a8
 canonical: 4029-akerton-partners-best-corporate-finance-advisory-team-spain-2016.json
 ---
