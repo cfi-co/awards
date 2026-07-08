@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820014058
 wayback_snapshot_url: "http://web.archive.org/web/20220820014058/https://cfi.co/awards/north-america/2022/bank-of-montreal-best-commercial-bank-canada-2021/"
+license: CFI-OAAL-1.0
 content_sha256: f156af21152fa4469b0a7beeb8851b73b5add2615c6ed0d366911295e7d46bf4
 canonical: 10056-bank-of-montreal-best-commercial-bank-canada-2021.json
 ---
