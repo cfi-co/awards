@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524043552
 wayback_snapshot_url: "http://web.archive.org/web/20260524043552/https://cfi.co/awards/industries/2016/thyssenkrupp-most-innovative-engineering-solutions-europe-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 90ecf0780e0284ce784eef88ddaafb07b0daac980a4ec0d16d8caee83e98d035
 canonical: 4108-thyssenkrupp-most-innovative-engineering-solutions-europe-2016.json
 ---
