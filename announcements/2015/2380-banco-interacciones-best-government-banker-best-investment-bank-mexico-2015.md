@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724020236
 wayback_snapshot_url: "http://web.archive.org/web/20210724020236/https://cfi.co/awards/latin-america/2015/banco-interacciones-best-government-banker-best-investment-bank-mexico-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 229742fdc804a71c0bd753c7effbca16165726e8340447753eecfb61e484a3f4
 canonical: 2380-banco-interacciones-best-government-banker-best-investment-bank-mexico-2015.json
 ---
