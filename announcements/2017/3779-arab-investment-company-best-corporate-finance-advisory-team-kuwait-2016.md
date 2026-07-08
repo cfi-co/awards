@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200729074733
 wayback_snapshot_url: "http://web.archive.org/web/20200729074733/https://cfi.co/awards/middle-east/2017/arab-investment-company-best-corporate-finance-advisory-team-kuwait-2016/"
+license: CFI-OAAL-1.0
 content_sha256: b51ab10078890074f1229addc881700a952683398ed90be5e3d3f571e91bd0da
 canonical: 3779-arab-investment-company-best-corporate-finance-advisory-team-kuwait-2016.json
 ---
