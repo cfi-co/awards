@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614230152
 wayback_snapshot_url: "http://web.archive.org/web/20250614230152/https://cfi.co/awards/banking/2025/gulf-african-bank-innovators-in-islamic-digital-banking-east-africa-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 81c06e01701f4946876b7b5b5d95e35eb0faa98fd4729d7b399e8408f9589d63
 canonical: 12962-gulf-african-bank-innovators-in-islamic-digital-banking-east-africa-2025.json
 ---
