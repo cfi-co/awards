@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045027
 wayback_snapshot_url: "http://web.archive.org/web/20260524045027/https://cfi.co/awards/asia-pacific/2016/herbert-smith-freehills-best-capital-markets-team-australia-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 9c3bbfd57ba3f2208ae43fb80cc43e6dc699340aa19bab6264c698eb43e7e689
 canonical: 4496-herbert-smith-freehills-best-capital-markets-team-australia-2016.json
 ---
