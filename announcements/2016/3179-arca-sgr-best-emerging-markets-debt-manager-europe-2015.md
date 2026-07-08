@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603004124
 wayback_snapshot_url: "http://web.archive.org/web/20230603004124/https://cfi.co/awards/front/2016/arca-sgr-best-emerging-markets-debt-manager-europe-2015/"
+license: CFI-OAAL-1.0
 content_sha256: dcb4805b3e45f0a759d6a65b8ce1eeb2c8923641911f27873126946088e694f8
 canonical: 3179-arca-sgr-best-emerging-markets-debt-manager-europe-2015.json
 ---
