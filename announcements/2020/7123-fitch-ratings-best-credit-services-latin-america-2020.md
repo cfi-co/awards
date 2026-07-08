@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200614083901
 wayback_snapshot_url: "http://web.archive.org/web/20200614083901/https://cfi.co/awards/latin-america/2020/fitch-ratings-best-credit-services-latin-america-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 5eb8fc3af16152fb41dc4a8d449070ddf888683a9d51b25ee10dca06431ae850
 canonical: 7123-fitch-ratings-best-credit-services-latin-america-2020.json
 ---
