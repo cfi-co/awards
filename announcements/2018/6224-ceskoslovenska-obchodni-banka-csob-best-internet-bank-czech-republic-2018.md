@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924123627
 wayback_snapshot_url: "http://web.archive.org/web/20210924123627/https://cfi.co/awards/banking/2018/ceskoslovenska-obchodni-banka-csob-best-internet-bank-czech-republic-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 4a8ca2797d8b384bcb057b84b8d1458db3493093c98baddc9e6af16d509353de
 canonical: 6224-ceskoslovenska-obchodni-banka-csob-best-internet-bank-czech-republic-2018.json
 ---
