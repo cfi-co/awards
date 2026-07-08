@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928181004
 wayback_snapshot_url: "http://web.archive.org/web/20220928181004/https://cfi.co/awards/best-practice/2022/humana-most-sustainable-healthcare-brand-nordics-2022/"
+license: CFI-OAAL-1.0
 content_sha256: f3e4a7fb2f10c4aa2219f1cb2adcce67711da0e0178c17c33de096ce8ddcad30
 canonical: 10705-humana-most-sustainable-healthcare-brand-nordics-2022.json
 ---
