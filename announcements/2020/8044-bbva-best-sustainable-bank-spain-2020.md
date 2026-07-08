@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923090701
 wayback_snapshot_url: "http://web.archive.org/web/20200923090701/https://cfi.co/awards/banking/2020/bbva-best-sustainable-bank-spain-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 49149846b7a23d6a3ed31f308d7e861722535679a425357441bfda8c1486c23f
 canonical: 8044-bbva-best-sustainable-bank-spain-2020.json
 ---
