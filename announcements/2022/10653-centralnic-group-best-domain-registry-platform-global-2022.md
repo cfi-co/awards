@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527043356
 wayback_snapshot_url: "http://web.archive.org/web/20260527043356/https://cfi.co/awards/europe/2022/centralnic-group-best-domain-registry-platform-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 9ba149b035ead0da2a0a85b08f0f86cb414b03096e0bca44ac607d0a0d6a62d9
 canonical: 10653-centralnic-group-best-domain-registry-platform-global-2022.json
 ---
