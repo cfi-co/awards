@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810075947
 wayback_snapshot_url: "http://web.archive.org/web/20200810075947/https://cfi.co/awards/north-america/2020/bermuda-business-development-agency-bda-best-direct-investment-partner-north-america-2020/"
+license: CFI-OAAL-1.0
 content_sha256: e034ea1e4798e3e7d3d6b689b27cfbc9b60f2316aa77b8caa8b13ea11202f6f9
 canonical: 7828-bermuda-business-development-agency-bda-best-direct-investment-partner-north-ame.json
 ---
