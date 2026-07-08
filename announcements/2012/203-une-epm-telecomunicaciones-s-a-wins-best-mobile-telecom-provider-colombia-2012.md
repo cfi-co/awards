@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614181110
 wayback_snapshot_url: "http://web.archive.org/web/20210614181110/https://cfi.co/awards/latin-america/2012/une-epm-telecomunicaciones-s-a-wins-best-mobile-telecom-provider-colombia-2012/"
+license: CFI-OAAL-1.0
 content_sha256: 45597a6f03c61543bfccd641ffbd1fc57c2b53ae181a14d8186e2ad0454dd156
 canonical: 203-une-epm-telecomunicaciones-s-a-wins-best-mobile-telecom-provider-colombia-2012.json
 ---
