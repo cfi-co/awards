@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206165743
 wayback_snapshot_url: "http://web.archive.org/web/20231206165743/https://cfi.co/awards/finance/asset-management/2023/nordea-asset-management-ab-best-esg-team-europe-2023/"
+license: CFI-OAAL-1.0
 content_sha256: b3b543303f632343e16439f6a8927fe2038662b62bc055c230a4160caea17d82
 canonical: 12053-nordea-asset-management-ab-best-esg-team-europe-2023.json
 ---
