@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094536
 wayback_snapshot_url: "http://web.archive.org/web/20190426094536/https://cfi.co/awards/europe/2015/hellenic-bank-group-best-corporate-governance-cyprus-2015/"
+license: CFI-OAAL-1.0
 content_sha256: daaa055ebf17b542389adbeda2b4a641fa5e2baf8aa61034866de27ac05f7acd
 canonical: 2237-hellenic-bank-group-best-corporate-governance-cyprus-2015.json
 ---
