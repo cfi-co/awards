@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810080500
 wayback_snapshot_url: "http://web.archive.org/web/20200810080500/https://cfi.co/awards/europe/2020/jm-finn-best-wealth-management-advisory-firm-uk-2020/"
+license: CFI-OAAL-1.0
 content_sha256: a463075b9a5a264cf1881550c4895da74083493843464162c369abab0aff608d
 canonical: 7814-jm-finn-best-wealth-management-advisory-firm-uk-2020.json
 ---
