@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603011801
 wayback_snapshot_url: "http://web.archive.org/web/20230603011801/https://cfi.co/awards/middle-east/2023/alaseel-cosmetics-best-luxury-cosmetics-customer-satisfaction-mena-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 23ff482ae1a770caad600d4ae23ca1e9caff5961af6017b0c8f965dd026534df
 canonical: 11496-alaseel-cosmetics-best-luxury-cosmetics-customer-satisfaction-mena-2023.json
 ---
