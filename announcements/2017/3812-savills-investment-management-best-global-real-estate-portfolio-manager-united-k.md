@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924125958
 wayback_snapshot_url: "http://web.archive.org/web/20210924125958/https://cfi.co/awards/europe/2017/savills-investment-management-best-global-real-estate-portfolio-manager-united-kingdom-2016/"
+license: CFI-OAAL-1.0
 content_sha256: f719db7dde52b23d1b2f77224bbfce7c512acff6d2b2a42a51520cd60cf7fc13
 canonical: 3812-savills-investment-management-best-global-real-estate-portfolio-manager-united-k.json
 ---
