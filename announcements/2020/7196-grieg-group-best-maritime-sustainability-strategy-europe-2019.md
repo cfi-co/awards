@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200722102529
 wayback_snapshot_url: "http://web.archive.org/web/20200722102529/https://cfi.co/awards/europe/2020/grieg-group-best-maritime-sustainability-strategy-europe-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 3629a6789e07c8407b73368556036f40cff591853122fbecbb775522db3cbaa6
 canonical: 7196-grieg-group-best-maritime-sustainability-strategy-europe-2019.json
 ---
