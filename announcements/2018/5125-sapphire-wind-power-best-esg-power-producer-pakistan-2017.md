@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525051416
 wayback_snapshot_url: "http://web.archive.org/web/20260525051416/https://cfi.co/awards/asia-pacific/2018/sapphire-wind-power-best-esg-power-producer-pakistan-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 99b74bc18ec6bfd4e5d99251248df6bddafb5490eec860c8b9450b16ef312cde
 canonical: 5125-sapphire-wind-power-best-esg-power-producer-pakistan-2017.json
 ---
