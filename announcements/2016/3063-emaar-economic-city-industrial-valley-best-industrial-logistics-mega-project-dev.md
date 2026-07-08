@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614232738
 wayback_snapshot_url: "http://web.archive.org/web/20250614232738/https://cfi.co/awards/industries/2016/emaar-economic-city-industrial-valley-best-industrial-logistics-mega-project-developer-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 98a63cf89279b36dfc2edfc5325da99f17a3562ffdb9534768455b9805516888
 canonical: 3063-emaar-economic-city-industrial-valley-best-industrial-logistics-mega-project-dev.json
 ---
