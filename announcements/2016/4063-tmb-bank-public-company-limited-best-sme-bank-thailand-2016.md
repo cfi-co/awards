@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524042810
 wayback_snapshot_url: "http://web.archive.org/web/20260524042810/https://cfi.co/awards/asia-pacific/2016/tmb-bank-public-company-limited-best-sme-bank-thailand-2016/"
+license: CFI-OAAL-1.0
 content_sha256: acd89d3fbc36638850279aab54029c7f6bc88e486d9fd5ad036f713394d7c3ac
 canonical: 4063-tmb-bank-public-company-limited-best-sme-bank-thailand-2016.json
 ---
