@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104510
 wayback_snapshot_url: "http://web.archive.org/web/20210228104510/https://cfi.co/awards/europe/2021/huddlestock-best-fintech-ipo-nordics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 92697e4d61a12e0add5415729a93959530c7250bd6048fe99849f210707706ad
 canonical: 8845-huddlestock-best-fintech-ipo-nordics-2020.json
 ---
