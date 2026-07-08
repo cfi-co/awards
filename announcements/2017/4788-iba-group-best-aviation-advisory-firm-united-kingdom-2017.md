@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525045011
 wayback_snapshot_url: "http://web.archive.org/web/20260525045011/https://cfi.co/awards/europe/2017/iba-group-best-aviation-advisory-firm-united-kingdom-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 65eee3763455afdafa248b3e90337691757a73e9652f414b721c357f4465c615
 canonical: 4788-iba-group-best-aviation-advisory-firm-united-kingdom-2017.json
 ---
