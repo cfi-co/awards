@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525062126
 wayback_snapshot_url: "http://web.archive.org/web/20260525062126/https://cfi.co/awards/front/2019/fidelis-finance-bf-best-social-impact-sme-finance-west-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 85071b07c6d513f43ff2341a5c064e6149f0b52754713c4897601d0121aa1c29
 canonical: 6449-fidelis-finance-bf-best-social-impact-sme-finance-west-africa-2018.json
 ---
