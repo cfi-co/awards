@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150708164731
 wayback_snapshot_url: "http://web.archive.org/web/20150708164731/http://cfi.co/awards/europe/2014/alj-finansman-wins-consumer-finance-award-in-turkey/"
+license: CFI-OAAL-1.0
 content_sha256: 580d5085a39fa8e6e796b9b850897be7ad6700c0988334d4fea7ac247d1f0b3a
 canonical: 1381-alj-finansman-wins-consumer-finance-award-in-turkey.json
 ---

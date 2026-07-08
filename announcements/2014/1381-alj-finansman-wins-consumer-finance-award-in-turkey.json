@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20150708164731",
-        "wayback_snapshot_url": "http://web.archive.org/web/20150708164731/http://cfi.co/awards/europe/2014/alj-finansman-wins-consumer-finance-award-in-turkey/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20150708164731/http://cfi.co/awards/europe/2014/alj-finansman-wins-consumer-finance-award-in-turkey/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1382\" src=\"https://cfi.co/awards/wp-content/uploads/2014/10/alj.jpg\" alt=\"alj\" width=\"364\" height=\"91\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel congratulates ALJ Finansman AS following the announcement of their award for ‘Best Consumer Finance Services Provider – Turkey, 2014’.</strong></p>\r\n<p style=\"text-align: justify;\">The firm is something of a trailblazer in the provision of auto finance in Turkey and the panel points out that, ‘ALJ offerings are innovative and very well thought out. ALJ is able to respond quickly and with authority to credit applications.</p>\r\n<p style=\"text-align: justify;\">This is a slick and extremely efficient operation and we have no hesitation in confirming the award. Well done, ALJ.’</p>",
     "content_sha256": "580d5085a39fa8e6e796b9b850897be7ad6700c0988334d4fea7ac247d1f0b3a",
-    "record_sha256": "5f2b54d595772f9a0be80b31dad5dd8beb2c179868850601bb7467b3fb2945f6"
+    "record_sha256": "9d42f32709aa1e4e725ddb75f2e601a29f4ce43d9a9f6452e6a3f2e4e342bcc5"
 }
