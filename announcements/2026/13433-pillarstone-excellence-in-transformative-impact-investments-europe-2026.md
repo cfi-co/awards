@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260603034208
 wayback_snapshot_url: "http://web.archive.org/web/20260603034208/https://cfi.co/awards/finance/2026/pillarstone-excellence-in-transformative-impact-investments-europe-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 91b0574f80da1e29cbeb87e6b8c1487b9058e17d9c7cd2b654e60fab4786cbc8
 canonical: 13433-pillarstone-excellence-in-transformative-impact-investments-europe-2026.json
 ---
