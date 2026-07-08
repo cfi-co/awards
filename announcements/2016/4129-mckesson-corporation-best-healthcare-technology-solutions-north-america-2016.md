@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820011432
 wayback_snapshot_url: "http://web.archive.org/web/20190820011432/https://cfi.co/awards/industries/2016/mckesson-corporation-best-healthcare-technology-solutions-north-america-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 167b85b323f5af5d3d494bcd16003a23bb3a9397e4e5c0dcb4c5e0dfcbce7314
 canonical: 4129-mckesson-corporation-best-healthcare-technology-solutions-north-america-2016.json
 ---
