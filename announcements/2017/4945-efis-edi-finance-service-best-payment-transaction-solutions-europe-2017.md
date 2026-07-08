@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525050433
 wayback_snapshot_url: "http://web.archive.org/web/20260525050433/https://cfi.co/awards/europe/2017/efis-edi-finance-service-best-payment-transaction-solutions-europe-2017/"
+license: CFI-OAAL-1.0
 content_sha256: adf563fd248ba532f2db220eabe54ef88d58d89343f5206af2d87e13cfc8e910
 canonical: 4945-efis-edi-finance-service-best-payment-transaction-solutions-europe-2017.json
 ---
