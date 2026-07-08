@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005624
 wayback_snapshot_url: "http://web.archive.org/web/20190723005624/https://cfi.co/awards/asia-pacific/2019/bharat-road-network-limited-best-infrastructure-project-manager-india-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 16f643c429debe53fcaa1ac681468970dad082981954620e769a28b6c60c2b0b
 canonical: 6804-bharat-road-network-limited-best-infrastructure-project-manager-india-2019.json
 ---
