@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603005031
 wayback_snapshot_url: "http://web.archive.org/web/20230603005031/https://cfi.co/awards/africa/2023/ghana-investment-promotion-centre-best-investment-promotion-agency-africa-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 197caa67a66c39d1f455a1dba42c0a138c6a20ad85cb6b60ed3eeb6c2235d4f6
 canonical: 11434-ghana-investment-promotion-centre-best-investment-promotion-agency-africa-2022.json
 ---
