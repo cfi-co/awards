@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190609111138
 wayback_snapshot_url: "http://web.archive.org/web/20190609111138/https://cfi.co/awards/finance/2019/lyxor-asset-management-best-etf-investment-manager-europe-2019/"
+license: CFI-OAAL-1.0
 content_sha256: faf38ca93dbc6adb67cb3b65af8015793e58cec3fc27b90046b65ce9e8cb3fff
 canonical: 6671-lyxor-asset-management-best-etf-investment-manager-europe-2019.json
 ---
