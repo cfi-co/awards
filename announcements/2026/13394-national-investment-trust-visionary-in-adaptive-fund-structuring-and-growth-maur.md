@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528045710
 wayback_snapshot_url: "http://web.archive.org/web/20260528045710/https://cfi.co/awards/africa/2026/national-investment-trust-visionary-in-adaptive-fund-structuring-and-growth-mauritius-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 09283f65af2ee8ee1f7690c39173648a6ca7821623f966b568ec23124559bcec
 canonical: 13394-national-investment-trust-visionary-in-adaptive-fund-structuring-and-growth-maur.json
 ---
