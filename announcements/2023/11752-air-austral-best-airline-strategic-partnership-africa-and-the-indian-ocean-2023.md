@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923180721
 wayback_snapshot_url: "http://web.archive.org/web/20230923180721/https://cfi.co/awards/asia-pacific/2023/air-austral-best-airline-strategic-partnership-africa-and-the-indian-ocean-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 4866a997be10bda456522543c213f2cb758fc0d8f0e3e382de855ee74f603dc0
 canonical: 11752-air-austral-best-airline-strategic-partnership-africa-and-the-indian-ocean-2023.json
 ---
