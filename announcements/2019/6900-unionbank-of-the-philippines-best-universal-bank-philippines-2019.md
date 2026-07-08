@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190923114521
 wayback_snapshot_url: "http://web.archive.org/web/20190923114521/https://cfi.co/awards/asia-pacific/2019/unionbank-of-the-philippines-best-universal-bank-philippines-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 453367465f0b356a18663f92979d9a6c22d392a8fd8a4a2428a786b497a200a2
 canonical: 6900-unionbank-of-the-philippines-best-universal-bank-philippines-2019.json
 ---
