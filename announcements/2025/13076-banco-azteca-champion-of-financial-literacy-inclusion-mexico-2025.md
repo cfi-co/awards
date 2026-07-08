@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251006235734
 wayback_snapshot_url: "http://web.archive.org/web/20251006235734/https://cfi.co/awards/banking/2025/banco-azteca-champion-of-financial-literacy-inclusion-mexico-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 3df9e73a21778b423f8f781184b193b414bb1360758f27b9364d783c0d391ba2
 canonical: 13076-banco-azteca-champion-of-financial-literacy-inclusion-mexico-2025.json
 ---
