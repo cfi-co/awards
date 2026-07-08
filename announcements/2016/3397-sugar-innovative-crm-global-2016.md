@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207204957
 wayback_snapshot_url: "http://web.archive.org/web/20211207204957/https://cfi.co/awards/north-america/2016/sugar-innovative-crm-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: f47b8e4a569de3b29ae96723d238f1e5a0957ad88324346e2aba096bdcc50ec6
 canonical: 3397-sugar-innovative-crm-global-2016.json
 ---
