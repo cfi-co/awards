@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200806081154
 wayback_snapshot_url: "http://web.archive.org/web/20200806081154/https://cfi.co/awards/middle-east/2014/beitmisk-best-smart-city-development-team-middle-east/"
+license: CFI-OAAL-1.0
 content_sha256: 127b4eba0b63d3df2b38fd29a301224e6ac5223ae7ea05939a1a721570f512e0
 canonical: 1518-beitmisk-best-smart-city-development-team-middle-east.json
 ---
