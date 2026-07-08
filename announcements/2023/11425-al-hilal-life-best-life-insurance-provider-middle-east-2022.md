@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603022958
 wayback_snapshot_url: "http://web.archive.org/web/20230603022958/https://cfi.co/awards/middle-east/2023/al-hilal-life-best-life-insurance-provider-middle-east-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 8442551cfb1808b03644a56d51a4c22e8f229658168fd5dcbf5e05a8bb070ceb
 canonical: 11425-al-hilal-life-best-life-insurance-provider-middle-east-2022.json
 ---
