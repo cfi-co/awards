@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603020414
 wayback_snapshot_url: "http://web.archive.org/web/20230603020414/https://cfi.co/awards/middle-east/2023/kuwait-international-bank-best-banking-vision-mena-2022-and-best-sharia-compliant-bank-mena-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 6c583add8039b7f057c786811c95b5f7530d1e2d6c2ec3ed78a1b1df426420b9
 canonical: 11429-kuwait-international-bank-best-banking-vision-mena-2022-and-best-sharia-complian.json
 ---
