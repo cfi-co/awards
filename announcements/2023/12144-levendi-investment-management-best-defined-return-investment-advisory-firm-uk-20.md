@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527045745
 wayback_snapshot_url: "http://web.archive.org/web/20260527045745/https://cfi.co/awards/finance/asset-management/2023/levendi-investment-management-best-defined-return-investment-advisory-firm-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 4fdb1c3165d35dbd7f9f25954ccf569122eec62271a03da3bfb0a13b2a79e2fa
 canonical: 12144-levendi-investment-management-best-defined-return-investment-advisory-firm-uk-20.json
 ---
