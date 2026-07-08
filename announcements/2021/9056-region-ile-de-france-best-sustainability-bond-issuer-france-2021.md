@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509111639
 wayback_snapshot_url: "http://web.archive.org/web/20210509111639/https://cfi.co/awards/europe/2021/region-ile-de-france-best-sustainability-bond-issuer-france-2021/"
+license: CFI-OAAL-1.0
 content_sha256: e6907d686f56319dcfcd54dd4f09a0467568975cfd043c85a41f370f25365596
 canonical: 9056-region-ile-de-france-best-sustainability-bond-issuer-france-2021.json
 ---
