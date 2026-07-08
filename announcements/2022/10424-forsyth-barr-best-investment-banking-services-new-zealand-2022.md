@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630140802
 wayback_snapshot_url: "http://web.archive.org/web/20220630140802/https://cfi.co/awards/asia-pacific/2022/forsyth-barr-best-investment-banking-services-new-zealand-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 92f4588e81f4ccf832a7bb81c5729536c68742c4a07cb9650e03a2222fa8db58
 canonical: 10424-forsyth-barr-best-investment-banking-services-new-zealand-2022.json
 ---
