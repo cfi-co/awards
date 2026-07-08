@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820014727
 wayback_snapshot_url: "http://web.archive.org/web/20220820014727/https://cfi.co/awards/europe/2022/liechtensteinische-landesbank-best-private-bank-liechtenstein-2022/"
+license: CFI-OAAL-1.0
 content_sha256: fe38563baf7423f35fe3ac96f6ed59b1d07d479bed6a3dd11cf9a647e99fb33b
 canonical: 10349-liechtensteinische-landesbank-best-private-bank-liechtenstein-2022.json
 ---
