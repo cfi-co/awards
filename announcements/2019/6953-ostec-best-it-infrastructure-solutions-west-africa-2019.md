@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119063625
 wayback_snapshot_url: "http://web.archive.org/web/20191119063625/https://cfi.co/awards/africa/2019/ostec-best-it-infrastructure-solutions-west-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 4a0cffcfd78ed6730460e969d80070cf51406d3b42e9ba819ca180040a237bdd
 canonical: 6953-ostec-best-it-infrastructure-solutions-west-africa-2019.json
 ---
