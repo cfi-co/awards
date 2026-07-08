@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920104723
 wayback_snapshot_url: "http://web.archive.org/web/20210920104723/https://cfi.co/awards/europe/2021/deloitte-cyprus-best-international-financial-advisory-team-cyprus-2021/"
+license: CFI-OAAL-1.0
 content_sha256: c009ab2e5815fc78060134866934648ebe293a0463ecaae985cfa5452d8ed39f
 canonical: 9423-deloitte-cyprus-best-international-financial-advisory-team-cyprus-2021.json
 ---
