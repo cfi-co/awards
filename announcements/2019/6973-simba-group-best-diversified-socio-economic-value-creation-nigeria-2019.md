@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119061831
 wayback_snapshot_url: "http://web.archive.org/web/20191119061831/https://cfi.co/awards/africa/2019/simba-group-best-diversified-socio-economic-value-creation-nigeria-2019/"
+license: CFI-OAAL-1.0
 content_sha256: be4bd2f855866650864bf94bc7b7ca12987941756a8488a910abeb9ee7146be8
 canonical: 6973-simba-group-best-diversified-socio-economic-value-creation-nigeria-2019.json
 ---
