@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523045809
 wayback_snapshot_url: "http://web.archive.org/web/20260523045809/https://cfi.co/awards/industries/transport/2016/altercargo-innovative-global-logistics-team-uruguay-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 3689289a70af6763a8d7acfcde016c6089c8588f4c45e98e09773c1988671849
 canonical: 3081-altercargo-innovative-global-logistics-team-uruguay-2016.json
 ---
