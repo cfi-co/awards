@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260530034021
 wayback_snapshot_url: "http://web.archive.org/web/20260530034021/https://cfi.co/awards/europe/2023/wealins-best-wealth-insurance-solutions-europe-2023/"
+license: CFI-OAAL-1.0
 content_sha256: c9f5f385f2147e9d21d9c89aa21624f030125e5d3e2700eaffbbf61019d8e31b
 canonical: 12148-wealins-best-wealth-insurance-solutions-europe-2023.json
 ---
