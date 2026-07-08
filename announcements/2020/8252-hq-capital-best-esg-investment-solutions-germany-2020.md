@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201025002904
 wayback_snapshot_url: "http://web.archive.org/web/20201025002904/https://cfi.co/awards/europe/2020/hq-capital-best-esg-investment-solutions-germany-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 7d13d0b5a2567a40e776cea4b718c3f2a2d9fb4cbc8a9de39362dcf11a314283
 canonical: 8252-hq-capital-best-esg-investment-solutions-germany-2020.json
 ---
