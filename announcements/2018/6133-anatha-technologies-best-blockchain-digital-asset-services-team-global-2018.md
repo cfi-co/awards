@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525055249
 wayback_snapshot_url: "http://web.archive.org/web/20260525055249/https://cfi.co/awards/front/2018/anatha-technologies-best-blockchain-digital-asset-services-team-global-2018/"
+license: CFI-OAAL-1.0
 content_sha256: c2259adbf3a991d31ba57a1276a6d25d4ca427ee4c13bccff645dc4def907cd1
 canonical: 6133-anatha-technologies-best-blockchain-digital-asset-services-team-global-2018.json
 ---

@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260525055249",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260525055249/https://cfi.co/awards/front/2018/anatha-technologies-best-blockchain-digital-asset-services-team-global-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525055249/https://cfi.co/awards/front/2018/anatha-technologies-best-blockchain-digital-asset-services-team-global-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6135\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Anatha.gif\" alt=\"\" width=\"349\" height=\"349\" />\r\n<p style=\"text-align: justify;\">Blockchain technology is creating a new financial ecosystem that start-ups and established companies are looking towards to raise capital through ICOs (Initial Coin Offerings). Most people — and notably regulators — are trying to play catch-up in an exponentially growing market where true expertise is relatively thin on the ground. Edward DeLeon Hickman has built a team of experts that advises and guides companies regarding the funding potential of ICOs for their businesses. Considering the dizzying development of blockchain coding and cryptocurrencies, the five years Hickman has spent working full-time with blockchain-backed digital assets feels more like aeons of experience, especially when backed by his 20-year career in the financial sector. A recognised expert in cryptocurrencies and ICOs, he has a proven sixth sense for it, boasting participation in eight of the 10 most successful ICOs of 2017 and also in 8 out of the 10 top performing ICOs of all time. Anatha’s executive team — unified in their passion for blockchain and decentralisation — is excited to usher-in the world’s first information-age economic system, with new ways of doing business where everyone prospers. Is economic equality a utopian dream? Not with Hickman at the helm, promising a new financial system free of structural violence. The CFI.co judges have no reservations — Anatha Technologies takes the win for Best Blockchain Digital Asset Services Team Global 2018.</p>",
     "content_sha256": "c2259adbf3a991d31ba57a1276a6d25d4ca427ee4c13bccff645dc4def907cd1",
-    "record_sha256": "80c12b8b6ee86260cf67a075da27cf5ee064ab87d52993dc072e529481c84697"
+    "record_sha256": "da02cc389b004532ffae9b6c36bf4c9f15f608182e55e265998c1a38cb8a2caf"
 }
