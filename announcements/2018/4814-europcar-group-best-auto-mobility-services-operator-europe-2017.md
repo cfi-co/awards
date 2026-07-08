@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724003100
 wayback_snapshot_url: "http://web.archive.org/web/20210724003100/https://cfi.co/awards/europe/2018/europcar-group-best-auto-mobility-services-operator-europe-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 300c2c771dbdde8879eb6b30d1541e4894b44993c206cf4fe1d59ae44890221b
 canonical: 4814-europcar-group-best-auto-mobility-services-operator-europe-2017.json
 ---
