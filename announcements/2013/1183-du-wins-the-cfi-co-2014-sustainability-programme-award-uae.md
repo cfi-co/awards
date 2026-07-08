@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924130900
 wayback_snapshot_url: "http://web.archive.org/web/20210924130900/https://cfi.co/awards/middle-east/2013/du-wins-the-cfi-co-2014-sustainability-programme-award-uae/"
+license: CFI-OAAL-1.0
 content_sha256: b9bb2b0dd7729af4ef4d39af7647a5690b5b54970e9207f6e7beb02e49c1ad3f
 canonical: 1183-du-wins-the-cfi-co-2014-sustainability-programme-award-uae.json
 ---
