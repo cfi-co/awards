@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525054414
 wayback_snapshot_url: "http://web.archive.org/web/20260525054414/https://cfi.co/awards/front/2018/ncb-capital-markets-best-wealth-management-team-caribbean-2018/"
+license: CFI-OAAL-1.0
 content_sha256: d066d712b0f1c424d1de255ea1efe8d00ff0974be83182815397e560059a5e20
 canonical: 5994-ncb-capital-markets-best-wealth-management-team-caribbean-2018.json
 ---
