@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20220928190816",
-        "wayback_snapshot_url": "http://web.archive.org/web/20220928190816/https://cfi.co/awards/europe/2020/c2fo-best-sme-working-capital-innovator-uk-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20220928190816/https://cfi.co/awards/europe/2020/c2fo-best-sme-working-capital-innovator-uk-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8088\" src=\"https://cfi.co/awards/wp-content/uploads/2020/08/C2FO.jpg\" alt=\"C2FO\" width=\"400\" height=\"127\" />\r\n<p style=\"text-align: justify;\">C2FO, the world's first working capital marketplace, was established to counter hinderances to the economic stability and business continuity that a healthy supply chain provides. Money spent at retailers and other large enterprises takes a while to trickle down into the pockets of the suppliers, often SMEs, that drive the global supply chain. C2FO, founded in 2008, has developed a win-win solution that enables suppliers to ask for early payment of their payable invoices at a small discount of their choice, if they want to. Large companies usually have the liquidity to promptly settle invoices, but suppliers nonetheless often have to wait up to 90 days for payment. But with C2FO, suppliers typically see payments made and bank accounts credited by the next business day. C2FO estimates the balance of outstanding invoices worldwide stands at $40tn. Delayed payments represent a huge challenge for smaller businesses - or can even cause their downfall. Of the UK's million-plus suppliers, 93 percent are SMEs, and 70 percent of those are micro-enterprises. C2FO convinced big-name buyers to support supply chains - while getting better returns on their cash than from the bank. Feedback has been overwhelmingly positive, and the client list has grown to include big-hitters such as Amazon, Costco, Siemens, Air France, Philips, Hewlett-Packard, Danone, Ford and Walmart. Since its launch, C2FO has generated more than $130bn in working capital flow volume, and accelerated payments by a collective 1.1bn days. For a company that has brought control to cash flows, the CFl.co judging panel presents C2FO with the 2020 award for Best SME Working Capital Innovator (UK).</p>",
     "content_sha256": "7dec43460296a347a2cf39f9f4103821c48eaf7f03562f7d0052069dc8705140",
-    "record_sha256": "b1ca7800ccb34d8592d55c91f5a21f73a5ac9a83e25f55bbbe7c89105a2b004a"
+    "record_sha256": "532637d3565bc20d1149338ae382267cef116e36c1d1291daec484b32c52ed05"
 }
