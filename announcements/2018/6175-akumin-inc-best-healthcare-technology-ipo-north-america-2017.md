@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119064031
 wayback_snapshot_url: "http://web.archive.org/web/20191119064031/https://cfi.co/awards/front/2018/akumin-inc-best-healthcare-technology-ipo-north-america-2017/"
+license: CFI-OAAL-1.0
 content_sha256: f170753e86cbcfd2a6a9325bac95c3c25980ee24a78b91622fe20d87b5f57fb3
 canonical: 6175-akumin-inc-best-healthcare-technology-ipo-north-america-2017.json
 ---
