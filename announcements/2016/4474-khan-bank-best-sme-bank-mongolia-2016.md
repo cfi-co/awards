@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524044759
 wayback_snapshot_url: "http://web.archive.org/web/20260524044759/https://cfi.co/awards/asia-pacific/2016/khan-bank-best-sme-bank-mongolia-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 70033c0ef3e884d151ff7af7a45006c64f4313c105b5b0dcdef9f8feb838732d
 canonical: 4474-khan-bank-best-sme-bank-mongolia-2016.json
 ---
