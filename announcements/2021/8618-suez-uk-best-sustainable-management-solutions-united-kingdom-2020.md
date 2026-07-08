@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210201151751
 wayback_snapshot_url: "http://web.archive.org/web/20210201151751/https://cfi.co/awards/europe/2021/suez-uk-best-sustainable-management-solutions-united-kingdom-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 94707ca2bc5cf353820348b8d062be0b34527ddc79d96899dece472598b35346
 canonical: 8618-suez-uk-best-sustainable-management-solutions-united-kingdom-2020.json
 ---
