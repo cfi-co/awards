@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725070343
 wayback_snapshot_url: "http://web.archive.org/web/20210725070343/https://cfi.co/awards/africa/2021/dlm-capital-group-best-structured-finance-securitisation-team-west-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: ca1884a573d167cf2e23ce416f43b80505a5c707b6837b84459c378bc4e24699
 canonical: 9272-dlm-capital-group-best-structured-finance-securitisation-team-west-africa-2021.json
 ---
