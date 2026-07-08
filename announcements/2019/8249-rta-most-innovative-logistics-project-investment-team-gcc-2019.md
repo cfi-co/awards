@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201024231412
 wayback_snapshot_url: "http://web.archive.org/web/20201024231412/https://cfi.co/awards/middle-east/2019/rta-most-innovative-logistics-project-investment-team-gcc-2019/"
+license: CFI-OAAL-1.0
 content_sha256: d449d11b72ad0529bf68854258588c716ba55e28a3a77c3ab8414f1259b80982
 canonical: 8249-rta-most-innovative-logistics-project-investment-team-gcc-2019.json
 ---
