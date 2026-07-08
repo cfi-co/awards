@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928191945
 wayback_snapshot_url: "http://web.archive.org/web/20220928191945/https://cfi.co/awards/development/2022/costa-rican-investment-development-board-best-international-investment-team-latin-america-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 2ca33b07f795bd2a567a646f2b336c22bbe1963920d9b46de32eac164d72c6f3
 canonical: 10560-costa-rican-investment-development-board-best-international-investment-team-lati.json
 ---
