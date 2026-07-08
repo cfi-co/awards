@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524051157
 wayback_snapshot_url: "http://web.archive.org/web/20260524051157/https://cfi.co/awards/banking/2017/cyprus-development-bank-best-corporate-bank-cyprus-2016/"
+license: CFI-OAAL-1.0
 content_sha256: dfd95a85ba7cb6178dc83fe7024bc1c838f73ebb7941d19dcd166e165cdb0635
 canonical: 4025-cyprus-development-bank-best-corporate-bank-cyprus-2016.json
 ---
