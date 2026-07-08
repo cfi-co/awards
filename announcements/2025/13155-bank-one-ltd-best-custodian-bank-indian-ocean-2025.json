@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20251108161932",
-        "wayback_snapshot_url": "http://web.archive.org/web/20251108161932/https://cfi.co/awards/asia-pacific/2025/bank-one-ltd-best-custodian-bank-indian-ocean-2025/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20251108161932/https://cfi.co/awards/asia-pacific/2025/bank-one-ltd-best-custodian-bank-indian-ocean-2025/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6023\" src=\"https://cfi.co/awards/wp-content/uploads/2018/09/BankOne.png\" alt=\"Bank One\" width=\"349\" height=\"66\" />\r\n<p style=\"text-align: justify;\">As a distinguished provider of securities services, Bank One leverages a robust open architecture model that ensures neutrality and eliminates product conflicts. This approach has enabled the bank to foster strong, enduring partnerships with external asset managers and regional banks across Africa. With a B2B-centric strategy, Bank One serves over 20+ financial institutions, delivering bespoke custodial solutions backed by direct and responsive client service. The bank has made significant investments in digital infrastructure, enabling a fully reconciled, near-instantaneous reporting environment and delivering real-time valuation reports via integrated market feeds, including Bloomberg. Beyond custody, Bank One offers a complementary suite of services, including treasury solutions and support for African currencies, creating added value for its institutional clients. Its deep presence across Africa, supported by its shareholders’ regional networks and on-the-ground teams in Kenya, Rwanda, Tanzania, and Uganda, enhances both client proximity and market responsiveness. Bank One has a direct relationship with Euroclear, a unique capability, enabling cost-efficient and strengthening its competitive positioning. The bank’s growing assets under custody are a testament to its sustained growth and client trust. CFI.co congratulates Bank One Ltd on this remarkable achievement and its continued contribution to financial infrastructure development in the Indian Ocean region.</p>",
     "content_sha256": "405a99aa8ae693cce0e0288440582dac2fd913d89aaeb877a96fbb4208c29a09",
-    "record_sha256": "9ff4fedf5ce89cda7ca2e3a334330838b90cbb60f730891fa46b640079d578c7"
+    "record_sha256": "23bbadaee0a1cfdefb34c496bf3d2ddfb56d76ab03f00d7d4bd1e4f1c3cf160e"
 }

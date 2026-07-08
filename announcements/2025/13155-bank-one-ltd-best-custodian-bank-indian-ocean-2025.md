@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251108161932
 wayback_snapshot_url: "http://web.archive.org/web/20251108161932/https://cfi.co/awards/asia-pacific/2025/bank-one-ltd-best-custodian-bank-indian-ocean-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 405a99aa8ae693cce0e0288440582dac2fd913d89aaeb877a96fbb4208c29a09
 canonical: 13155-bank-one-ltd-best-custodian-bank-indian-ocean-2025.json
 ---
