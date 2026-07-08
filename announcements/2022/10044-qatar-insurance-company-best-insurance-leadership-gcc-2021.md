@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923172405
 wayback_snapshot_url: "http://web.archive.org/web/20230923172405/https://cfi.co/awards/middle-east/2022/qatar-insurance-company-best-insurance-leadership-gcc-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 40ee1d8cd9dcbc4bdecf34bfb4e103d1e64eaf15027c94000e03700affd113bb
 canonical: 10044-qatar-insurance-company-best-insurance-leadership-gcc-2021.json
 ---
