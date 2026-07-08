@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241005085326
 wayback_snapshot_url: "http://web.archive.org/web/20241005085326/https://cfi.co/awards/africa/2017/ghana-international-bank-ghib-best-africa-international-trade-finance-united-kingdom-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 780a49b2f5bce242b44a06282c024ec37410915f2cb0471a4150e21f9b25f198
 canonical: 4311-ghana-international-bank-ghib-best-africa-international-trade-finance-united-kin.json
 ---
