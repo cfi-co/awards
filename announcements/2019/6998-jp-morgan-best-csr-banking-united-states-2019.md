@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191215000512
 wayback_snapshot_url: "http://web.archive.org/web/20191215000512/https://cfi.co/awards/north-america/2019/jp-morgan-best-csr-banking-united-states-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 9e0940bd02bb85d86aab0202c33d7b6a029f15fe51753a812b0b098572647519
 canonical: 6998-jp-morgan-best-csr-banking-united-states-2019.json
 ---
