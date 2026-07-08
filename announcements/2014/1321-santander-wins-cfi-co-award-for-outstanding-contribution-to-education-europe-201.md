@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724004546
 wayback_snapshot_url: "http://web.archive.org/web/20210724004546/https://cfi.co/awards/europe/2014/santander-wins-cfi-co-award-for-outstanding-contribution-to-education-europe-2014/"
+license: CFI-OAAL-1.0
 content_sha256: c552b61ccbfa898a16756b066a5918db3a821307e9c5f86891059da49b15ceee
 canonical: 1321-santander-wins-cfi-co-award-for-outstanding-contribution-to-education-europe-201.json
 ---
