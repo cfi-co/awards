@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724004158
 wayback_snapshot_url: "http://web.archive.org/web/20210724004158/https://cfi.co/awards/middle-east/2018/aan-digital-services-holding-company-ksc-kuwait-best-converged-communications-leadership-gcc-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 17178ea9186447b6285261c76b9a03dc1beed6964a57fa087b8db02d13a33566
 canonical: 5234-aan-digital-services-holding-company-ksc-kuwait-best-converged-communications-le.json
 ---
