@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203065010
 wayback_snapshot_url: "http://web.archive.org/web/20221203065010/https://cfi.co/awards/latin-america/2017/ccrif-spc-best-sustainable-insurance-leadership-latin-america-caribbean-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 3af5c06749753b98e0f639a55b9c3e438ab2aaca2e06b395b52beb5297ec8671
 canonical: 4680-ccrif-spc-best-sustainable-insurance-leadership-latin-america-caribbean-2017.json
 ---
