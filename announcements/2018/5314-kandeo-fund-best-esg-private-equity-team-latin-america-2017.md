@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426110225
 wayback_snapshot_url: "http://web.archive.org/web/20190426110225/https://cfi.co/awards/latin-america/2018/kandeo-fund-best-esg-private-equity-team-latin-america-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 9b6875257b50777b6c2d46fa2448bb10d4f1ee52d5e251f76290e32e3be2b6a9
 canonical: 5314-kandeo-fund-best-esg-private-equity-team-latin-america-2017.json
 ---
