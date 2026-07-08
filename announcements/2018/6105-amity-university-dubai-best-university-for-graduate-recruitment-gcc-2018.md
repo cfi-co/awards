@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094717
 wayback_snapshot_url: "http://web.archive.org/web/20190426094717/https://cfi.co/awards/front/2018/amity-university-dubai-best-university-for-graduate-recruitment-gcc-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 7d8c7cb21dc98ce0015ff110f8b6e0b5aefd49d9c635940dd29bc3e1b2afda47
 canonical: 6105-amity-university-dubai-best-university-for-graduate-recruitment-gcc-2018.json
 ---
