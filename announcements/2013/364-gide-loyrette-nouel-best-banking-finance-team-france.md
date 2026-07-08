@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924124225
 wayback_snapshot_url: "http://web.archive.org/web/20210924124225/https://cfi.co/awards/europe/2013/gide-loyrette-nouel-best-banking-finance-team-france/"
+license: CFI-OAAL-1.0
 content_sha256: 261ea21bc73255c04b4fb76afb29ecdb51df1959a2668145a934557e53c3416d
 canonical: 364-gide-loyrette-nouel-best-banking-finance-team-france.json
 ---
