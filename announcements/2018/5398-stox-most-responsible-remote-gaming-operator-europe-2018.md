@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426101513
 wayback_snapshot_url: "http://web.archive.org/web/20190426101513/https://cfi.co/awards/best-practice/2018/stox-most-responsible-remote-gaming-operator-europe-2018/"
+license: CFI-OAAL-1.0
 content_sha256: eb8c8f5c3c819be933aabb6f96d10c1e4715bcea609f37bf99125b65b038a77f
 canonical: 5398-stox-most-responsible-remote-gaming-operator-europe-2018.json
 ---
