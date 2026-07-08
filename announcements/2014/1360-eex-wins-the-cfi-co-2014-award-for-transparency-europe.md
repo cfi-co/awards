@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150710194929
 wayback_snapshot_url: "http://web.archive.org/web/20150710194929/http://cfi.co/awards/europe/2014/eex-wins-the-cfi-co-2014-award-for-transparency-europe/"
+license: CFI-OAAL-1.0
 content_sha256: 64246cdfce0281ac7191f63d2b525b6838a7fac9b64861ca72d4eafbdf00cad8
 canonical: 1360-eex-wins-the-cfi-co-2014-award-for-transparency-europe.json
 ---

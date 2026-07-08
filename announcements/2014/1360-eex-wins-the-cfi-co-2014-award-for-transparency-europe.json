@@ -26,10 +26,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20150710194929",
-        "wayback_snapshot_url": "http://web.archive.org/web/20150710194929/http://cfi.co/awards/europe/2014/eex-wins-the-cfi-co-2014-award-for-transparency-europe/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20150710194929/http://cfi.co/awards/europe/2014/eex-wins-the-cfi-co-2014-award-for-transparency-europe/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1361\" src=\"https://cfi.co/awards/wp-content/uploads/2014/10/eex.jpg\" alt=\"\" width=\"321\" height=\"157\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Germany’s energy exchange, European Energy Exchange, AG (EEX) has been named by CFI.co as winner of the award, ‘Best Energy Exchange Transparency, Europe, 2014’ and receives a special commendation from the Judging Panel.</strong></p>\r\n<p style=\"text-align: justify;\"><strong>According to a statement released by the panel, ‘EEX has been a passionate trailblazer for transparency and this has culminated in the September 2014 launch of a new transparency website which satisfies all the publication requirements of the Regulation on Market Integrity &amp; Transparency (REMIT). This new site is an important development in EEX’s exemplary platform Transparency in Energy Market and we would like to congratulate the winner on its outstanding work in support of transparency over the years.</strong></p>\r\n<p style=\"text-align: justify;\">‘The data made public in this way (production of electricity actual versus forecast) is not only for use in wholesale energy trading but - because of the detail given - is also of great interest to those concerned about developments in renewable energy and helps explain to end consumers the likely future of energy production. In today’s markets, this plays an important role’.</p>",
     "content_sha256": "64246cdfce0281ac7191f63d2b525b6838a7fac9b64861ca72d4eafbdf00cad8",
-    "record_sha256": "f81669fcaf14728d38fceeb87b29a1e8e454fb981cbf9af3275622ba609617c2"
+    "record_sha256": "06173fcd6939953eb44ea9c83bc5d88d22e4748322bf955b06ae3b1c04d07a5d"
 }
