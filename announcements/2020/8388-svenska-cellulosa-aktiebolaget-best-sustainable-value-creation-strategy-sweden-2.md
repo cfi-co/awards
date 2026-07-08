@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235648
 wayback_snapshot_url: "http://web.archive.org/web/20201203235648/https://cfi.co/awards/europe/2020/svenska-cellulosa-aktiebolaget-best-sustainable-value-creation-strategy-sweden-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 193d6ab1c4d98689b2c505d30dc67270a5da9646241e56eaf2be74bdc0a14d09
 canonical: 8388-svenska-cellulosa-aktiebolaget-best-sustainable-value-creation-strategy-sweden-2.json
 ---
