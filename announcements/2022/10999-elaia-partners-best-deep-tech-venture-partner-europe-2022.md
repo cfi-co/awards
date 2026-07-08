@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221220133834
 wayback_snapshot_url: "http://web.archive.org/web/20221220133834/https://cfi.co/awards/europe/2022/elaia-partners-best-deep-tech-venture-partner-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 7aea34c3b4c2778a4db8242d9b80c73c4bdeb3b0630bc06f0aee74d655acdb5b
 canonical: 10999-elaia-partners-best-deep-tech-venture-partner-europe-2022.json
 ---
