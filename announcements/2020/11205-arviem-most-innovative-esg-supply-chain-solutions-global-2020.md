@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525073044
 wayback_snapshot_url: "http://web.archive.org/web/20260525073044/https://cfi.co/awards/best-practice/2020/arviem-most-innovative-esg-supply-chain-solutions-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 7f75ec4550d57c8a6a5c12547c0f4c84cec0c50719a50071bfbd8c02301aac82
 canonical: 11205-arviem-most-innovative-esg-supply-chain-solutions-global-2020.json
 ---
