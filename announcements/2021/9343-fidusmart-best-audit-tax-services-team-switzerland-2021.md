@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725054817
 wayback_snapshot_url: "http://web.archive.org/web/20210725054817/https://cfi.co/awards/europe/2021/fidusmart-best-audit-tax-services-team-switzerland-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 6a46cca9c9dcd8a27cab0ee749904a57a252c3922f8e7af525f8da3d02d80b2a
 canonical: 9343-fidusmart-best-audit-tax-services-team-switzerland-2021.json
 ---
