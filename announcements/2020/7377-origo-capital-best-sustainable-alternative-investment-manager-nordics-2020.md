@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200612000448
 wayback_snapshot_url: "http://web.archive.org/web/20200612000448/https://cfi.co/awards/europe/2020/origo-capital-best-sustainable-alternative-investment-manager-nordics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 8213e52e6482fe4fa3417d7724f483908a69092673f3745938ae112e49e92712
 canonical: 7377-origo-capital-best-sustainable-alternative-investment-manager-nordics-2020.json
 ---
