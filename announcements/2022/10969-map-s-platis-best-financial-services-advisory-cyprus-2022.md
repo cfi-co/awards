@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527043728
 wayback_snapshot_url: "http://web.archive.org/web/20260527043728/https://cfi.co/awards/front/2022/map-s-platis-best-financial-services-advisory-cyprus-2022/"
+license: CFI-OAAL-1.0
 content_sha256: c1d25afb305afd929ebf89000f0043ac3883290c8ec973ac89c39aef52192834
 canonical: 10969-map-s-platis-best-financial-services-advisory-cyprus-2022.json
 ---
