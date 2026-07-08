@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523050208
 wayback_snapshot_url: "http://web.archive.org/web/20260523050208/https://cfi.co/awards/latin-america/2016/bankaool-best-sme-bank-mexico-2016/"
+license: CFI-OAAL-1.0
 content_sha256: e0f39f4d9341f52dc98902ecf97e2ed9621c62b0f5cc101d4b6ecb1ce07b537a
 canonical: 3279-bankaool-best-sme-bank-mexico-2016.json
 ---
