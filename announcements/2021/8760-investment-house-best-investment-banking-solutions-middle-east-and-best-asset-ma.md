@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104610
 wayback_snapshot_url: "http://web.archive.org/web/20210228104610/https://cfi.co/awards/middle-east/2021/investment-house-best-investment-banking-solutions-middle-east-and-best-asset-management-qatar-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 985dcb6415181ac7fe43b1103e58d67a216d21c541b5bf716fd965165dea5923
 canonical: 8760-investment-house-best-investment-banking-solutions-middle-east-and-best-asset-ma.json
 ---
