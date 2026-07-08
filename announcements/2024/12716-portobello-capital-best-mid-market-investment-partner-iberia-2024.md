@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250124120907
 wayback_snapshot_url: "http://web.archive.org/web/20250124120907/https://cfi.co/awards/europe/2024/portobello-capital-best-mid-market-investment-partner-iberia-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 8d046d68cb3fee1007880e4caf10c3d8bd32258cbf8e28f1a85a252a2d83855e
 canonical: 12716-portobello-capital-best-mid-market-investment-partner-iberia-2024.json
 ---
