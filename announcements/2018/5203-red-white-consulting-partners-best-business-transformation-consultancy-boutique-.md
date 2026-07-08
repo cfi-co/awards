@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525051941
 wayback_snapshot_url: "http://web.archive.org/web/20260525051941/https://cfi.co/awards/asia-pacific/2018/red-white-consulting-partners-best-business-transformation-consultancy-boutique-singapore-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 483384a63c2fb4b585fe9392505b5e9843d4739e46a726add567cd1d99edf99c
 canonical: 5203-red-white-consulting-partners-best-business-transformation-consultancy-boutique-.json
 ---
