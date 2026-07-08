@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921121013
 wayback_snapshot_url: "http://web.archive.org/web/20210921121013/https://cfi.co/awards/asia-pacific/2012/wipro-innovative-since-1945-with-the-tech-king-at-the-helm/"
+license: CFI-OAAL-1.0
 content_sha256: 65334f4a34ca9c50921a8a4a7a3ab0c8f67efef9bcd3e06f0de479db96691fa3
 canonical: 215-wipro-innovative-since-1945-with-the-tech-king-at-the-helm.json
 ---
