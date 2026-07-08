@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713134700
 wayback_snapshot_url: "http://web.archive.org/web/20240713134700/https://cfi.co/awards/finance/2024/asante-capital-group-best-global-private-equity-placement-advisory-us-2024/"
+license: CFI-OAAL-1.0
 content_sha256: ec7193bbffdebeec52aa5555e8f469bc60c283d6debf7289d2ee26c213f91edb
 canonical: 12311-asante-capital-group-best-global-private-equity-placement-advisory-us-2024.json
 ---
