@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724022758
 wayback_snapshot_url: "http://web.archive.org/web/20210724022758/https://cfi.co/awards/europe/2014/byron-capital-partners-wins-cfi-co-fund-manager-award-europe/"
+license: CFI-OAAL-1.0
 content_sha256: 447a21f61004ad4fcd6d114715c53c1c1d72bd800ed20a94037e0c2e6fee30b3
 canonical: 1349-byron-capital-partners-wins-cfi-co-fund-manager-award-europe.json
 ---
