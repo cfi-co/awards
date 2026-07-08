@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525044810
 wayback_snapshot_url: "http://web.archive.org/web/20260525044810/https://cfi.co/awards/middle-east/2017/aluminium-bahrain-most-innovative-aluminium-solutions-gcc-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 3bb26537116654e9da8ef0ec0acf18cab5561fd4e42ee2fc7b29c60f80aa102f
 canonical: 4744-aluminium-bahrain-most-innovative-aluminium-solutions-gcc-2017.json
 ---
