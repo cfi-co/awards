@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409003725",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409003725/http://cfi.co/awards/europe/2013/norton-rose-fulbright-best-insurance-team-legal-awards-2013/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409003725/http://cfi.co/awards/europe/2013/norton-rose-fulbright-best-insurance-team-legal-awards-2013/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-921\" src=\"https://cfi.co/awards/wp-content/uploads/2013/11/norton-rose-logo.gif\" alt=\"norton-rose-logo\" width=\"382\" height=\"44\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel considers NRF’s Insurance Team as exemplary and an obvious choice as Best Insurance Team, UK in our 2013 Legal Awards programme.</strong> This firm has an impressive global reach and a tremendous range of lawyer skills and resources relevant to all areas of insurance concern. According to the panel, “NRF provides great client services and enjoys an outstanding reputation in the industry.”</p>",
     "content_sha256": "de8bb38c21915d534fe47337bde2d431006ccd5a575fc12a5529ebdd635ddc54",
-    "record_sha256": "f78d87f6f7df90573ef3386a582ee4b8931cb345328d542f2bc11b029f6e7be6"
+    "record_sha256": "d76524f6e691bdb9ba9bed4427b87547860bfd751e5529d478a30eee0d0ec127"
 }

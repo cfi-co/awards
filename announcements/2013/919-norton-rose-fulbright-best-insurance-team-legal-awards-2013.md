@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409003725
 wayback_snapshot_url: "http://web.archive.org/web/20140409003725/http://cfi.co/awards/europe/2013/norton-rose-fulbright-best-insurance-team-legal-awards-2013/"
+license: CFI-OAAL-1.0
 content_sha256: de8bb38c21915d534fe47337bde2d431006ccd5a575fc12a5529ebdd635ddc54
 canonical: 919-norton-rose-fulbright-best-insurance-team-legal-awards-2013.json
 ---
