@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220811135648
 wayback_snapshot_url: "http://web.archive.org/web/20220811135648/https://cfi.co/awards/asia-pacific/2022/subic-international-management-and-consultancy-best-sustainable-management-consultancy-philippines-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 4874c51eb7468c0141bed5ad96ae5fbc8d379c2e05a445385259127bfa70b845
 canonical: 10564-subic-international-management-and-consultancy-best-sustainable-management-consu.json
 ---
