@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225150217
 wayback_snapshot_url: "http://web.archive.org/web/20240225150217/https://cfi.co/awards/banking/2023/societe-generale-mocambique-best-banking-team-mocambique-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 70858cee97512a86370d5eed92eba659e07b95e72d4d050369256161e01ad544
 canonical: 12171-societe-generale-mocambique-best-banking-team-mocambique-2023.json
 ---
