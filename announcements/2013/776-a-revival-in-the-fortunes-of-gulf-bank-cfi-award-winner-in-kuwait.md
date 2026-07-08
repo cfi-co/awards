@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180702124632
 wayback_snapshot_url: "http://web.archive.org/web/20180702124632/http://cfi.co/awards/middle-east/2013/a-revival-in-the-fortunes-of-gulf-bank-cfi-award-winner-in-kuwait/"
+license: CFI-OAAL-1.0
 content_sha256: 1565218f4650a65ed9b082e4bc01aaa31ce530162c56c13b712008fde8b53956
 canonical: 776-a-revival-in-the-fortunes-of-gulf-bank-cfi-award-winner-in-kuwait.json
 ---
