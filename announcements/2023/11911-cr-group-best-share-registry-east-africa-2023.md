@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206164519
 wayback_snapshot_url: "http://web.archive.org/web/20231206164519/https://cfi.co/awards/africa/2023/cr-group-best-share-registry-east-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 03f8018b31c0e7be298c59e0eec7191d932bd3f4fe034b8c8c03a33c7ad4f446
 canonical: 11911-cr-group-best-share-registry-east-africa-2023.json
 ---
