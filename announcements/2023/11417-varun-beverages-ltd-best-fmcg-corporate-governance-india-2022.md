@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603002457
 wayback_snapshot_url: "http://web.archive.org/web/20230603002457/https://cfi.co/awards/asia-pacific/2023/varun-beverages-ltd-best-fmcg-corporate-governance-india-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 52e1414d6923a5261d5b1841d8624b52b05b631e49f85996c903c609125a66a7
 canonical: 11417-varun-beverages-ltd-best-fmcg-corporate-governance-india-2022.json
 ---
