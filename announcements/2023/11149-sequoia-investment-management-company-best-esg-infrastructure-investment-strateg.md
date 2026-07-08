@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230319161952
 wayback_snapshot_url: "http://web.archive.org/web/20230319161952/https://cfi.co/awards/best-practice/2023/sequoia-investment-management-company-best-esg-infrastructure-investment-strategy-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: bd265ff251f7489924afa13515e15603f46e6f522791a74de60f1fb3876f733e
 canonical: 11149-sequoia-investment-management-company-best-esg-infrastructure-investment-strateg.json
 ---
