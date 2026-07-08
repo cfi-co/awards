@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211021110246
 wayback_snapshot_url: "http://web.archive.org/web/20211021110246/https://cfi.co/awards/europe/2021/le-groupe-la-poste-best-transformational-strategic-plan-france-2021/"
+license: CFI-OAAL-1.0
 content_sha256: b5d5ba1801ed1f26928eafc0c3ef1434d5c5d5f5cda3b3a52428be1fee382616
 canonical: 9677-le-groupe-la-poste-best-transformational-strategic-plan-france-2021.json
 ---
