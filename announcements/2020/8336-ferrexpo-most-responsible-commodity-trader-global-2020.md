@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203224000
 wayback_snapshot_url: "http://web.archive.org/web/20201203224000/https://cfi.co/awards/europe/2020/ferrexpo-most-responsible-commodity-trader-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: d8fdd150a6e1d2c8bcb0c79b46a711679c135d096502b62af7e1b6c9b1e60cec
 canonical: 8336-ferrexpo-most-responsible-commodity-trader-global-2020.json
 ---
