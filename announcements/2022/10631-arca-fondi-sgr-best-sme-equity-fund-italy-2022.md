@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527043250
 wayback_snapshot_url: "http://web.archive.org/web/20260527043250/https://cfi.co/awards/europe/2022/arca-fondi-sgr-best-sme-equity-fund-italy-2022/"
+license: CFI-OAAL-1.0
 content_sha256: b638319e0da5c029c7c7d8c58d900f52ef2a517b358289a85b6042f6413cfd3d
 canonical: 10631-arca-fondi-sgr-best-sme-equity-fund-italy-2022.json
 ---
