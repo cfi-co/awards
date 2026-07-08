@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20181123154145
 wayback_snapshot_url: "http://web.archive.org/web/20181123154145/https://cfi.co/awards/front/2018/capital-first-outstanding-corporate-transformation-india-2018-most-inspirational-management-buyout-india-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 93b465225577a7aebb39cea85c5f2a321c54c11d13171e43bdc0a4490e9127b6
 canonical: 6169-capital-first-outstanding-corporate-transformation-india-2018-most-inspirational.json
 ---
