@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723011202
 wayback_snapshot_url: "http://web.archive.org/web/20190723011202/https://cfi.co/awards/europe/2018/stoxx-most-innovative-index-provider-global-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 7986cb005a8610f79df6119677aa5cf6815f5b6dcf289c076776072e69f440a4
 canonical: 6365-stoxx-most-innovative-index-provider-global-2018.json
 ---
