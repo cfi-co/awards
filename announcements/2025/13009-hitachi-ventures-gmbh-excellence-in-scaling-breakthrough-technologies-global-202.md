@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250710132819
 wayback_snapshot_url: "http://web.archive.org/web/20250710132819/https://cfi.co/awards/europe/2025/hitachi-ventures-gmbh-excellence-in-scaling-breakthrough-technologies-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 6beeb7412f3c26d354d55bfbef9fe89b4f51ae90a85d41496bba2ddb010a7dfa
 canonical: 13009-hitachi-ventures-gmbh-excellence-in-scaling-breakthrough-technologies-global-202.json
 ---
