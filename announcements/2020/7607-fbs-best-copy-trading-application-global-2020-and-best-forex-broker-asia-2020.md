@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527035601
 wayback_snapshot_url: "http://web.archive.org/web/20260527035601/https://cfi.co/awards/finance/exchanges-brokers/2020/fbs-best-copy-trading-application-global-2020-and-best-forex-broker-asia-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 23c041ccd292e8c50a91e7c8d3f26f74d5f786d8ea25cfdd1fbb56703ef1279b
 canonical: 7607-fbs-best-copy-trading-application-global-2020-and-best-forex-broker-asia-2020.json
 ---
