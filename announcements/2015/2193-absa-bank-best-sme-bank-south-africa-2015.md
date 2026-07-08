@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170109015141
 wayback_snapshot_url: "http://web.archive.org/web/20170109015141/http://cfi.co/awards/africa/2015/absa-bank-best-sme-bank-south-africa-2015/"
+license: CFI-OAAL-1.0
 content_sha256: ef5464525da7f94b3e07a886e07324aa010d74853ebe937dc5bb6d2799a5cfb4
 canonical: 2193-absa-bank-best-sme-bank-south-africa-2015.json
 ---
