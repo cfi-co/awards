@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190820142823",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190820142823/https://cfi.co/awards/banking/2019/euro-exim-bank-best-global-trade-services-bank-2019/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190820142823/https://cfi.co/awards/banking/2019/euro-exim-bank-best-global-trade-services-bank-2019/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5894\" src=\"https://cfi.co/awards/wp-content/uploads/2018/06/EuroEximBank.jpg\" alt=\"\" width=\"341\" height=\"145\" />\r\n<p style=\"text-align: justify;\">Global financial institution Euro Exim Bank Ltd has a focus on facilitating international trade. The bank, headquartered in St Lucia with an office in London, holds a \"Class A\" international banking license, affording it global reach and authorisation. The bank employs the latest technology and the brightest minds to ensure Euro Exim and its clients are protected from illegal activities. It has earned an enviable reputation for its comprehensive compliance policies, with around 40 percent of staff specialised in Anti-Money Laundering and Know Your Customer processes. Euro Exim clients include small and medium enterprises as well as larger corporations and private individuals. With its aim of facilitating global trade flows, it offers trade-related banking services from international funds transfers to letters of guarantee. The latest addition to Euro Exim’s financial arsenal comes from a strategic partnership with the XRP cryptocurrency developer Ripple. As the first regulated bank to join the Ripple network, Euro Exim can offer friction-free trade solutions to make money move as information does in the 21st Century — instantly. The partnership strengthens Euro Exim’s strong compliance process with enhanced authentication capabilities, as well as ramping-up speed and efficiency. The CFI.co judging panel has recognised the bank in the past for its trade-tailored solutions and strong due diligence. This year the judges praise the bank’s bold and savvy partnership move, enabling swift transactions, reduced liquidity and credit risks, and minimised fund transactions. For 2019, and the second year running, the judges name Euro Exim Bank as the winner of the award for Best Global Trade Services Bank.</p>",
     "content_sha256": "fc6640771c5a6aa6059d7dc9afb849409626e2a407056c33264fc04890c74a67",
-    "record_sha256": "5972420b74489bb5d6e5ff28f82287703c5165e09b1aa0493b4eacd1c4eba746"
+    "record_sha256": "00af363f94fe3d22e654e1b68fb2a8009756077ad115835c6798376800234cfc"
 }
