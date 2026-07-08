@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104435
 wayback_snapshot_url: "http://web.archive.org/web/20210228104435/https://cfi.co/awards/north-america/2021/vancity-most-innovative-women-entrepreneurs-programme-canada-2020/"
+license: CFI-OAAL-1.0
 content_sha256: ad59396553eebbf162d8f37f9687bc43856ee6fad6e2136ea24b818abe2e57ab
 canonical: 8780-vancity-most-innovative-women-entrepreneurs-programme-canada-2020.json
 ---
