@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260210041914
 wayback_snapshot_url: "http://web.archive.org/web/20260210041914/https://cfi.co/awards/professional-services/2017/assupol-best-life-assurer-southern-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 169cda5d4aea12ab4bade5b5351ea35c3f53f8c0a3da717be693a60caecd5c6e
 canonical: 4665-assupol-best-life-assurer-southern-africa-2017.json
 ---
