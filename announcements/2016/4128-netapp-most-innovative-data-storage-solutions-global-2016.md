@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524043916
 wayback_snapshot_url: "http://web.archive.org/web/20260524043916/https://cfi.co/awards/industries/2016/netapp-most-innovative-data-storage-solutions-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 7f83dd89c4f79e1ff6b4602aadbff0e6b0f71250245cabf441b5ffb1c164991a
 canonical: 4128-netapp-most-innovative-data-storage-solutions-global-2016.json
 ---
