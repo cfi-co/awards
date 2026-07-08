@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825101620
 wayback_snapshot_url: "http://web.archive.org/web/20190825101620/https://cfi.co/awards/professional-services/consultancies/2019/victoria-mutual-best-financial-advisory-team-caribbean-2019/"
+license: CFI-OAAL-1.0
 content_sha256: f70a1fc3aa326c334ede706f933077098054f63d4ec8c6fbbf30590b7177ac47
 canonical: 6726-victoria-mutual-best-financial-advisory-team-caribbean-2019.json
 ---
