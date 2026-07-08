@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260529035150
 wayback_snapshot_url: "http://web.archive.org/web/20260529035150/https://cfi.co/awards/europe/2022/partners-wealth-management-best-sustainable-financial-planning-advisers-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 7e9bdf32c6ea5098c0c5aa48e00c375160f023b5761efff0efc86eced0a13734
 canonical: 10158-partners-wealth-management-best-sustainable-financial-planning-advisers-uk-2021.json
 ---
