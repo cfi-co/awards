@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921110925
 wayback_snapshot_url: "http://web.archive.org/web/20210921110925/https://cfi.co/awards/finance/2019/grupo-interbrok-best-independent-insurance-broker-brazil-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 413cd90ed94e074df1338ea6a4aa6519192dd37a46b1831cf7920611f0d86bb1
 canonical: 7674-grupo-interbrok-best-independent-insurance-broker-brazil-2019.json
 ---
