@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208101015
 wayback_snapshot_url: "http://web.archive.org/web/20230208101015/https://cfi.co/awards/banking/2022/central-bank-of-bosnia-and-herzegovina-best-central-bank-governance-cee-2022-outstanding-contribution-to-economic-development-bosnia-herzegovina-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 8cb8f1e79fa8b00f4ea05936483fc72025de0b1f83c1b3f2089884e5f7d390ae
 canonical: 11016-central-bank-of-bosnia-and-herzegovina-best-central-bank-governance-cee-2022-out.json
 ---
