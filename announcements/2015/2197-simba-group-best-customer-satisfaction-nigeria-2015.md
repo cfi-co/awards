@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523044130
 wayback_snapshot_url: "http://web.archive.org/web/20260523044130/https://cfi.co/awards/africa/2015/simba-group-best-customer-satisfaction-nigeria-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 31590c5b13b76d46afb89cd472b4a0860ab152d3393068e7df4adcc817012b1e
 canonical: 2197-simba-group-best-customer-satisfaction-nigeria-2015.json
 ---
