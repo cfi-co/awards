@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045903
 wayback_snapshot_url: "http://web.archive.org/web/20260524045903/https://cfi.co/awards/finance/2017/kpmg-best-tax-team-germany-2016/"
+license: CFI-OAAL-1.0
 content_sha256: dae325c68f94678b3ac4b115c405bd8b38043b9b75b814bdbefd2966974b3d1f
 canonical: 3838-kpmg-best-tax-team-germany-2016.json
 ---
