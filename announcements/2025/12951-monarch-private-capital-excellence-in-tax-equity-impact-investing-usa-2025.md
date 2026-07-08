@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522225233
 wayback_snapshot_url: "http://web.archive.org/web/20250522225233/https://cfi.co/awards/finance/2025/monarch-private-capital-excellence-in-tax-equity-impact-investing-usa-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 4229ebd427ff5209f9b14046e7c189afeb458774dbe159675ecd021ae7107f12
 canonical: 12951-monarch-private-capital-excellence-in-tax-equity-impact-investing-usa-2025.json
 ---
