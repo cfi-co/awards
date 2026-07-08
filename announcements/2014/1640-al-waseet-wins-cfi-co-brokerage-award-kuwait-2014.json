@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20150802083729",
-        "wayback_snapshot_url": "http://web.archive.org/web/20150802083729/http://cfi.co/awards/middle-east/2014/al-waseet-wins-cfi-co-brokerage-award-kuwait-2014/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20150802083729/http://cfi.co/awards/middle-east/2014/al-waseet-wins-cfi-co-brokerage-award-kuwait-2014/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1641\" src=\"https://cfi.co/awards/wp-content/uploads/2015/02/alwaseetLogo.jpg\" alt=\"alwaseetLogo\" width=\"384\" height=\"170\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Al-Waseet Financial Business Company is named ‘Best Securities Brokerage, Kuwait’ in the CFI.co 2014 Exchanges &amp; Brokers Award Programme. The Judging Panel were unanimous in their decision and congratulate Al-Waseet on their success as a well-established, strong and resourceful ISO certified broker.</strong></p>\r\n<p style=\"text-align: justify;\">A leading player in Kuwait for the past seven years, Al-Waseet has captured a very healthy share of the market and boasts a large and extremely capable team of industry professionals.</p>\r\n<p style=\"text-align: justify;\">This brokerage focuses most heavily on institutional clients and also services major international banks. Al-Waseet is well capitalised and ready for further expansion. According to the Panel, ‘Al-Waseet is likely to develop significantly its business in the region as well as at home during the next few years.’</p>",
     "content_sha256": "9c21a8e9b42d5b62e86c977b3ce132de71e56e424150f8056894fddb82a59385",
-    "record_sha256": "e880511f1d3723f5bd7270dd49edaf373979b7df41cbb6a89d1a809f4a79ac52"
+    "record_sha256": "dde83d8c4383607b06e20be4a6d23924df6c46ee9a62b26bc43cbeaa71b6a6cb"
 }

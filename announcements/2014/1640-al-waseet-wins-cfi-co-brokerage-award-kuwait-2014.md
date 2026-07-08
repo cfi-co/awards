@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150802083729
 wayback_snapshot_url: "http://web.archive.org/web/20150802083729/http://cfi.co/awards/middle-east/2014/al-waseet-wins-cfi-co-brokerage-award-kuwait-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 9c21a8e9b42d5b62e86c977b3ce132de71e56e424150f8056894fddb82a59385
 canonical: 1640-al-waseet-wins-cfi-co-brokerage-award-kuwait-2014.json
 ---
