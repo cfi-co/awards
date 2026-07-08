@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042920
 wayback_snapshot_url: "http://web.archive.org/web/20260523042920/https://cfi.co/awards/banking/2014/building-relationships-cfi-co-private-banking-award-announcement-new-zealand/"
+license: CFI-OAAL-1.0
 content_sha256: 7b08cea681690ca78eeef28c882e7ef29d9e65033b77a49df3604f9dea32e676
 canonical: 1262-building-relationships-cfi-co-private-banking-award-announcement-new-zealand.json
 ---

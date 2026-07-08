@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260523042920",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260523042920/https://cfi.co/awards/banking/2014/building-relationships-cfi-co-private-banking-award-announcement-new-zealand/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523042920/https://cfi.co/awards/banking/2014/building-relationships-cfi-co-private-banking-award-announcement-new-zealand/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><a href=\"https://cfi.co/awards/wp-content/uploads/2014/07/bnz.jpg\"><img class=\"aligncenter size-full wp-image-1263\" src=\"https://cfi.co/awards/wp-content/uploads/2014/07/bnz.jpg\" alt=\"bnz\" width=\"308\" height=\"166\" /></a></p>\r\n<p style=\"text-align: justify;\"><strong>BNZ wins our Best Private Bank Award, New Zealand, for the year 2014. </strong></p>\r\n<p style=\"text-align: justify;\">This bank claims to be taking a holistic approach to advising clients and the CFI.co Judging Panel comments that, ‘BNZ does indeed build strong and lasting relationships and responds well across a broad range of financial concerns relevant to high net worth individuals. We are certainly hearing good reports’.</p>",
     "content_sha256": "7b08cea681690ca78eeef28c882e7ef29d9e65033b77a49df3604f9dea32e676",
-    "record_sha256": "2ecb7d1d31c515a06bc1db2c15d094fc56e9556a245d51bf0fb5389fd06ac398"
+    "record_sha256": "e40ed1ca5ed237a941b7af169e40c8c0101afdb7a594632f2c32075d35f247ef"
 }
