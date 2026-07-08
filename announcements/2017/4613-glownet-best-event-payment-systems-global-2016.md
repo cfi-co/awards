@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525043112
 wayback_snapshot_url: "http://web.archive.org/web/20260525043112/https://cfi.co/awards/industries/technology/2017/glownet-best-event-payment-systems-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 30509f9b84e0061a9d54174982481a76607c54e2739bd5ccbd9b7489922bb377
 canonical: 4613-glownet-best-event-payment-systems-global-2016.json
 ---
