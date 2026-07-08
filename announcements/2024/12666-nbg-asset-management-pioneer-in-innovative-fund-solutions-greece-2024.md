@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112203015
 wayback_snapshot_url: "http://web.archive.org/web/20241112203015/https://cfi.co/awards/finance/asset-management/2024/nbg-asset-management-pioneer-in-innovative-fund-solutions-greece-2024/"
+license: CFI-OAAL-1.0
 content_sha256: e9884f5ab18b7ca414264482c72f32376ff8d7a705c70e8ede9283f3473db9b9
 canonical: 12666-nbg-asset-management-pioneer-in-innovative-fund-solutions-greece-2024.json
 ---
