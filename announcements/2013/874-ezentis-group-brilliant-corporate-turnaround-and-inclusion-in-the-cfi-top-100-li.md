@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140213025431
 wayback_snapshot_url: "http://web.archive.org/web/20140213025431/http://cfi.co/awards/europe/2013/ezentis-group-brilliant-corporate-turnaround-and-inclusion-in-the-cfi-top-100-list-for-2013/"
+license: CFI-OAAL-1.0
 content_sha256: ac4c03b3d93160d0f7d13d3c79f3daf86dad066ec2c50f81a329ba396253c6f1
 canonical: 874-ezentis-group-brilliant-corporate-turnaround-and-inclusion-in-the-cfi-top-100-li.json
 ---
