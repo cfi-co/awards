@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210303140125
 wayback_snapshot_url: "http://web.archive.org/web/20210303140125/https://cfi.co/awards/europe/2021/wiseenergy-best-solar-asset-manager-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: e7277ffa33a69ff0c6e9cec46b1f12f99d72afeccd11247ca0f9a63dcdf8f218
 canonical: 8894-wiseenergy-best-solar-asset-manager-uk-2021.json
 ---
