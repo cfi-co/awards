@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260122043958
 wayback_snapshot_url: "http://web.archive.org/web/20260122043958/https://cfi.co/awards/europe/2022/bbva-asset-management-best-global-esg-strategy-spain-2022/"
+license: CFI-OAAL-1.0
 content_sha256: ef76588279d86355083c19b35e648a5b14961a1bdc999eb1bccb2906e09708b9
 canonical: 10210-bbva-asset-management-best-global-esg-strategy-spain-2022.json
 ---
