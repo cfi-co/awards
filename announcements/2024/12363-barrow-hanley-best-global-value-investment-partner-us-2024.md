@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713134953
 wayback_snapshot_url: "http://web.archive.org/web/20240713134953/https://cfi.co/awards/finance/2024/barrow-hanley-best-global-value-investment-partner-us-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 716cfd8eda6fa866ed2d4bc88a49f8b294640d036ae6de8198d350d418ae7f06
 canonical: 12363-barrow-hanley-best-global-value-investment-partner-us-2024.json
 ---
