@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315113251
 wayback_snapshot_url: "http://web.archive.org/web/20260315113251/https://cfi.co/awards/asia-pacific/2026/vistra-outstanding-contribution-to-cross-border-business-expansion-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 6417d8b11d5fc94f5db11bee59d9e03f081ad0ded2cf264f7c5f7aacd07121fb
 canonical: 13304-vistra-outstanding-contribution-to-cross-border-business-expansion-global-2025.json
 ---
