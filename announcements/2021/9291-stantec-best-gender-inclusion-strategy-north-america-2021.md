@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210706180218
 wayback_snapshot_url: "http://web.archive.org/web/20210706180218/https://cfi.co/awards/north-america/2021/stantec-best-gender-inclusion-strategy-north-america-2021/"
+license: CFI-OAAL-1.0
 content_sha256: e6d387b3073b5040d11a24c88cac2542e7e8bba7134b001727f668a31d75bf3f
 canonical: 9291-stantec-best-gender-inclusion-strategy-north-america-2021.json
 ---
