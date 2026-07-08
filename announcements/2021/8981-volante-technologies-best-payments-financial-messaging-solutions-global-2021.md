@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418063748
 wayback_snapshot_url: "http://web.archive.org/web/20210418063748/https://cfi.co/awards/north-america/2021/volante-technologies-best-payments-financial-messaging-solutions-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 92a52ec412c7e6b5a5cd9da04082d5e8ea02361336eabfcb6a41500b2b231bdf
 canonical: 8981-volante-technologies-best-payments-financial-messaging-solutions-global-2021.json
 ---
