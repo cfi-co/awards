@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200604184443
 wayback_snapshot_url: "http://web.archive.org/web/20200604184443/https://cfi.co/awards/europe/2020/tirelli-partners-best-exclusive-residential-property-consultancy-italy-2020/"
+license: CFI-OAAL-1.0
 content_sha256: fecfd62225c502dfc2741e835fca95e2d3b667ba69a3465c3a5e32231382eccd
 canonical: 7364-tirelli-partners-best-exclusive-residential-property-consultancy-italy-2020.json
 ---
