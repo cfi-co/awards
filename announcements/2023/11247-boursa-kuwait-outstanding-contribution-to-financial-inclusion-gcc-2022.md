@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603002641
 wayback_snapshot_url: "http://web.archive.org/web/20230603002641/https://cfi.co/awards/community-engagement/2023/boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2022/"
+license: CFI-OAAL-1.0
 content_sha256: ecaa12a6ccf3288e5eb899d50bca603da18bd1d42d8946ff887cdf4625585cbf
 canonical: 11247-boursa-kuwait-outstanding-contribution-to-financial-inclusion-gcc-2022.json
 ---
