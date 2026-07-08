@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509113843
 wayback_snapshot_url: "http://web.archive.org/web/20210509113843/https://cfi.co/awards/latin-america/2021/inter-seguros-best-family-insurance-solutions-brazil-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 6a0a40f2e987e5d79966a3dfb6b79f955eed8ee97c87999e2b821bc83d333643
 canonical: 9077-inter-seguros-best-family-insurance-solutions-brazil-2021.json
 ---
