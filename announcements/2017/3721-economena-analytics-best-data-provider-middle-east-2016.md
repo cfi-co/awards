@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190902131616
 wayback_snapshot_url: "http://web.archive.org/web/20190902131616/https://cfi.co/awards/middle-east/2017/economena-analytics-best-data-provider-middle-east-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 7ee1b3662b68d85bade2abbb7d6b8c4c79990535e4c8a44d33969c0394fbdb59
 canonical: 3721-economena-analytics-best-data-provider-middle-east-2016.json
 ---
