@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210120075709
 wayback_snapshot_url: "http://web.archive.org/web/20210120075709/https://cfi.co/awards/africa/2019/sbm-group-best-growth-strategy-kenya-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 2d0058e75378a133a5b7a8253420fbd84ae8012e67e9ddad04b74f52a9a9b8aa
 canonical: 7654-sbm-group-best-growth-strategy-kenya-2019.json
 ---
