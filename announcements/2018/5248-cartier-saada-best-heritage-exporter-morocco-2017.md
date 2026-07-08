@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525052124
 wayback_snapshot_url: "http://web.archive.org/web/20260525052124/https://cfi.co/awards/africa/2018/cartier-saada-best-heritage-exporter-morocco-2017/"
+license: CFI-OAAL-1.0
 content_sha256: be72aa88e32d37fedd403e70dcc752bc67a0442659d20cdf59bb7a17783b2075
 canonical: 5248-cartier-saada-best-heritage-exporter-morocco-2017.json
 ---
