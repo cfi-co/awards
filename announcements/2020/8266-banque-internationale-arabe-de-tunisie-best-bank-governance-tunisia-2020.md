@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201114134034
 wayback_snapshot_url: "http://web.archive.org/web/20201114134034/https://cfi.co/awards/africa/2020/banque-internationale-arabe-de-tunisie-best-bank-governance-tunisia-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 6571cc9c6463dec8c496b34e02f5c0851980b265b4444c1a7089dc451a37b3fb
 canonical: 8266-banque-internationale-arabe-de-tunisie-best-bank-governance-tunisia-2020.json
 ---
