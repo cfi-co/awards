@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522233523
 wayback_snapshot_url: "http://web.archive.org/web/20250522233523/https://cfi.co/awards/finance/exchanges-brokers/2024/headline-net-best-web3-crypto-trading-platform-2024-leading-innovator-in-mtf-trading-solutions-2024-outstanding-platform-for-equitable-financial-trading-2024/"
+license: CFI-OAAL-1.0
 content_sha256: cabc5b4308eb26267e596ec266fdc9513c267603eee2927133901951c3753b9d
 canonical: 12270-headline-net-best-web3-crypto-trading-platform-2024-leading-innovator-in-mtf-tra.json
 ---
