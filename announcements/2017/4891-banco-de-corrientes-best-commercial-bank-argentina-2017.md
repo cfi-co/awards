@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190327123351
 wayback_snapshot_url: "http://web.archive.org/web/20190327123351/https://cfi.co/awards/latin-america/2017/banco-de-corrientes-best-commercial-bank-argentina-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 710fe018f08560641e9d003ed07b31ab05cffaf2121ca2e5b9516af9712bc074
 canonical: 4891-banco-de-corrientes-best-commercial-bank-argentina-2017.json
 ---
