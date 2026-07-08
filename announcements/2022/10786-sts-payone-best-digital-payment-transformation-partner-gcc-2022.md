@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221023080627
 wayback_snapshot_url: "http://web.archive.org/web/20221023080627/https://cfi.co/awards/middle-east/2022/sts-payone-best-digital-payment-transformation-partner-gcc-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 7adefd557979ae27eae273b9c4f91c5e85ca6946853d9743625fca55c1930bc3
 canonical: 10786-sts-payone-best-digital-payment-transformation-partner-gcc-2022.json
 ---
