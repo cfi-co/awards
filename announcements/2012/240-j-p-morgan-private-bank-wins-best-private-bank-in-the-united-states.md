@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409054357
 wayback_snapshot_url: "http://web.archive.org/web/20140409054357/http://cfi.co/awards/north-america/2012/j-p-morgan-private-bank-wins-best-private-bank-in-the-united-states/"
+license: CFI-OAAL-1.0
 content_sha256: 844d35e70500578d221d5828b8bade4b4cbcf5dd8a6eeefbf6d1f9af058a19ff
 canonical: 240-j-p-morgan-private-bank-wins-best-private-bank-in-the-united-states.json
 ---

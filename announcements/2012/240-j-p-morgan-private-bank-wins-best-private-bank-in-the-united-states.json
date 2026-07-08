@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409054357",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409054357/http://cfi.co/awards/north-america/2012/j-p-morgan-private-bank-wins-best-private-bank-in-the-united-states/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409054357/http://cfi.co/awards/north-america/2012/j-p-morgan-private-bank-wins-best-private-bank-in-the-united-states/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-2030\" src=\"https://cfi.co/awards/wp-content/uploads/2012/11/jp.jpg\" alt=\"jp\" width=\"320\" height=\"80\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Excerpts from the CFI.co’s Judging Panel’s Summary: “JP Morgan’s 160 years of experience has produced an outstanding private bank in the United States that is also a top performer in all other regions of the world. </strong></p>\r\n<p style=\"text-align: justify;\">The plans announced two years ago for the expansion of business outside the United States have been fruitful. The judges welcomed recently appointed CEO John Duffy of JP Morgan US and his initial published remarks on wealth management.”</p>",
     "content_sha256": "844d35e70500578d221d5828b8bade4b4cbcf5dd8a6eeefbf6d1f9af058a19ff",
-    "record_sha256": "64e1bdd612954e69c249bf36b1497b7dcdbc3a46c218f5dac1fafaf4e5f23e9a"
+    "record_sha256": "ce40b90c59568c9c9de7f44192dadfb9f939fb29c56ddeb24876fa664d240661"
 }
