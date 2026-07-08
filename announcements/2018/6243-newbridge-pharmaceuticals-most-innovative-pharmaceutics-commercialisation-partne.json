@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260525060522",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260525060522/https://cfi.co/awards/front/2018/newbridge-pharmaceuticals-most-innovative-pharmaceutics-commercialisation-partner-mena-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525060522/https://cfi.co/awards/front/2018/newbridge-pharmaceuticals-most-innovative-pharmaceutics-commercialisation-partner-mena-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6244\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/NewBridge.jpg\" alt=\"\" width=\"349\" height=\"155\" />\r\n<p style=\"text-align: justify;\">Pharmaceutical markets in the Middle East and Africa (MENA) are some of the fastest growing in the world: emerging markets are introducing mass health insurance, improving infrastructure, and attracting the attention of private investors. Institutionally backed and with a strong local presence and network of international partnerships, NewBridge Pharmaceuticals is perfectly poised to “bridge the access gap” between global healthcare innovation and successful market reach throughout the MENA region. NewBridge Pharmaceuticals is the regional partner of choice for healthcare companies looking to market and license their products in the region. The company employs a diverse team with years of professional international experience, ranging from commercial sales and marketing to healthcare and regulatory compliance. There are urgent medical needs in the region, and NewBridge focuses on the areas of oncology, immunology, neuroscience, metabolic, and rare diseases. The company’s product portfolio promises to improve the health and quality of life of its patients while also bringing value to its partners and shareholders. The CFI.co judging panel applauds the company’s mission to address unmet medical needs in the MENA region through strategic joint-ventures and partnerships, naming NewBridge Pharmaceuticals the 2018 winner of the Most Innovative Pharmaceutics Commercialisation Partner MENA award.</p>",
     "content_sha256": "ba28fb4be8ba7ede9194c3eb13c97dc1f9f387e1c489b148bf7281a8ba48ce6d",
-    "record_sha256": "5f3aa72fc75c662c7d704203f19e3d69bdb63b9003f7f1c1a95b958c14f3b889"
+    "record_sha256": "95262ee3b0d9c1cbcac3e7ea57b7183d21518cece79d8027fe1cd27e74383cf0"
 }
