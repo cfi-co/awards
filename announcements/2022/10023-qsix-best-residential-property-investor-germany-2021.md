@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203064324
 wayback_snapshot_url: "http://web.archive.org/web/20221203064324/https://cfi.co/awards/europe/2022/qsix-best-residential-property-investor-germany-2021/"
+license: CFI-OAAL-1.0
 content_sha256: df9ffe6fe70f84a1e1f6806a0fa1848b9e496d079ebb5544cbf729c027c77ee1
 canonical: 10023-qsix-best-residential-property-investor-germany-2021.json
 ---
