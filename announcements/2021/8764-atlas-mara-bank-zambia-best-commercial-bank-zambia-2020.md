@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228103233
 wayback_snapshot_url: "http://web.archive.org/web/20210228103233/https://cfi.co/awards/africa/2021/atlas-mara-bank-zambia-best-commercial-bank-zambia-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 8e72414578df4808f5a4a815bafd310b7da1e847ee530650856b94ef5003bfc0
 canonical: 8764-atlas-mara-bank-zambia-best-commercial-bank-zambia-2020.json
 ---
