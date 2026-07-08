@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090135
 wayback_snapshot_url: "http://web.archive.org/web/20190724090135/https://cfi.co/awards/europe/2016/kempinski-hotels-best-premium-landmark-hotels-emea-2016/"
+license: CFI-OAAL-1.0
 content_sha256: b9ed68ea35323808d4129b9f359687dcb76361f89ae1b69940f9ba4e951d167d
 canonical: 3553-kempinski-hotels-best-premium-landmark-hotels-emea-2016.json
 ---
