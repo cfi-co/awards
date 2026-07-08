@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330020502
 wayback_snapshot_url: "http://web.archive.org/web/20230330020502/https://cfi.co/awards/finance/2022/argumento-best-multimarket-fund-investment-strategy-brazil-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 32a398be70ab4b7735ea837f3c8e00e522151ab64e287b9b2c6b1ed80f465198
 canonical: 11020-argumento-best-multimarket-fund-investment-strategy-brazil-2022.json
 ---
