@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094553
 wayback_snapshot_url: "http://web.archive.org/web/20190426094553/https://cfi.co/awards/asia-pacific/2017/security-bank-corporation-best-digital-bank-philippines-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 791494b78b327b2efa890a0a97c3529a700dcbdbe45396967a241cae68aed6f3
 canonical: 5071-security-bank-corporation-best-digital-bank-philippines-2017.json
 ---
