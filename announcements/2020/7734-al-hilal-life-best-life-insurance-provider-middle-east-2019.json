@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210924112001",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210924112001/https://cfi.co/awards/middle-east/2020/al-hilal-life-best-life-insurance-provider-middle-east-2019/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210924112001/https://cfi.co/awards/middle-east/2020/al-hilal-life-best-life-insurance-provider-middle-east-2019/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6395\" src=\"https://cfi.co/awards/wp-content/uploads/2019/01/AlHilal.jpg\" alt=\"AlHilal\" width=\"349\" height=\"407\" />\r\n<p style=\"text-align: justify;\">Throughout Bahrain and Kuwait, there are few companies that stand as tall as Al Hilal Life as a provider of innovative insurance solutions. Over just a few short years, the company has graduated from promising start-up to serious market contender. Al Hilal Life offers a full suite of insurance solutions to corporate clients, including employee group plans for life and health insurance. Al Hilal Life recommends a Key Man insurance plan to identify those most critical to the business and quantify the cost to replace them. For banks and financial institutions providing personal loans, credit cards, and mortgage plans, Al Hilal Life offers a Credit Life plan that covers outstanding balances in the event of a borrower’s death / disability. Retail clients come to Al Hilal Takaful (a wholly owned subsidiary of Al Hila Life) for a range of Sharia’a compliant financial solutions, including products such as Family Takaful Savings and Pure Protection Plans. As a subsidiary of Ahli United Bank, Bahrain’s leading bank, Al Hilal Life has deeply entrenched roots in the country and a rapidly expanding presence in Kuwait. Over the past three years, the company has hit every growth target set, reporting an increase in client numbers (from 7,300 to 31,000+) and in corporate premiums (from $746,000 to over $7m). With year-on-year profit growth reaching nearly 40 percent, the CFI.co judging panel believes that Al Hilal Life will be providing security and hope to families and businesses for years to come. The judges name Al Hilal Life as repeat winner of the Best Life Insurance Provider (Middle East 2019).</p>",
     "content_sha256": "75aa08488f63e8190f64026b3a93b112aefba2e5cbd07e5a0df9fa0f07c6aaf2",
-    "record_sha256": "c18e2c8c12eb563d9a41b6e8e9ca8c072dcd343c0f25b1c9e4042cc76b15c30c"
+    "record_sha256": "6bc96f805ddf81ca3598900f875ae5df1a9070062ad4eed3eb9bfebfb3c78606"
 }
