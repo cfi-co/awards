@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527043316
 wayback_snapshot_url: "http://web.archive.org/web/20260527043316/https://cfi.co/awards/europe/2022/baluarte-best-investment-management-team-portugal-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 8e4e7d3127319a95cae7e6cb504d55bfa93a99b684fb7377e9e47d3a25131877
 canonical: 10633-baluarte-best-investment-management-team-portugal-2022.json
 ---
