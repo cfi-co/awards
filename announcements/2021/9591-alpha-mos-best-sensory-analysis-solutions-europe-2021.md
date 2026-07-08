@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211016001821
 wayback_snapshot_url: "http://web.archive.org/web/20211016001821/https://cfi.co/awards/europe/2021/alpha-mos-best-sensory-analysis-solutions-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: f961ec40337ff38c5f895be32190978c1fd8b0c4106ab3c35af968f21e2f068c
 canonical: 9591-alpha-mos-best-sensory-analysis-solutions-europe-2021.json
 ---
