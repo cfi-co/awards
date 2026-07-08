@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221207235239
 wayback_snapshot_url: "http://web.archive.org/web/20221207235239/https://cfi.co/awards/banking/2022/the-co-operative-bank-most-ethical-bank-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: fb11fc4259ea86833120f2dc2efa972adc92c448dfeb4a2c6bab74b04d9e65b9
 canonical: 10899-the-co-operative-bank-most-ethical-bank-uk-2022.json
 ---
