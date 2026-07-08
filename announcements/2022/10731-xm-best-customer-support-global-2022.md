@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928182922
 wayback_snapshot_url: "http://web.archive.org/web/20220928182922/https://cfi.co/awards/customer-satisfaction/2022/xm-best-customer-support-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 2e67a8df685b88fb719fbd362c8f332021e7f5d0f85439f2dc4638ca16cf6f52
 canonical: 10731-xm-best-customer-support-global-2022.json
 ---
