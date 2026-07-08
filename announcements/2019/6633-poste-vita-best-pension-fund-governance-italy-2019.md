@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507121001
 wayback_snapshot_url: "http://web.archive.org/web/20190507121001/https://cfi.co/awards/best-practice/2019/poste-vita-best-pension-fund-governance-italy-2019/"
+license: CFI-OAAL-1.0
 content_sha256: d0cf4c6fee4f85474e5b324afbc11c044d0da6c6b8970819faa60530d46726ab
 canonical: 6633-poste-vita-best-pension-fund-governance-italy-2019.json
 ---
