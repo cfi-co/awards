@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426101449
 wayback_snapshot_url: "http://web.archive.org/web/20190426101449/https://cfi.co/awards/north-america/2015/seabury-best-aviation-ma-advisory-team-global-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 7a3212560b53f630e70b408e2d310f062a08098a89939a573dfb0c6b6f4295cc
 canonical: 2172-seabury-best-aviation-ma-advisory-team-global-2015.json
 ---
