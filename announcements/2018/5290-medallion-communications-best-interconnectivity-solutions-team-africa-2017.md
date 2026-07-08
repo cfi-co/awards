@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921120537
 wayback_snapshot_url: "http://web.archive.org/web/20210921120537/https://cfi.co/awards/africa/2018/medallion-communications-best-interconnectivity-solutions-team-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 486538823be9fd7dae7387212209b3cae3750bda436cd4781b833491460c99e2
 canonical: 5290-medallion-communications-best-interconnectivity-solutions-team-africa-2017.json
 ---
