@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112192930
 wayback_snapshot_url: "http://web.archive.org/web/20241112192930/https://cfi.co/awards/africa/2024/solidarity-group-holding-best-strategic-leadership-in-islamic-insurance-mena-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 4d81d3ea5704fcd006bfc0cd35333e71fe967f43681b4a6e3a6242995a27f7d7
 canonical: 12629-solidarity-group-holding-best-strategic-leadership-in-islamic-insurance-mena-202.json
 ---
