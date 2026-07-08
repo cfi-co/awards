@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260210041511
 wayback_snapshot_url: "http://web.archive.org/web/20260210041511/https://cfi.co/awards/africa/2016/safari-investments-best-retail-property-investment-management-team-south-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 3ae31168c5d404d3488ae4fc0c26f944520a3fe4404eb92c0c84cb686ec39401
 canonical: 3597-safari-investments-best-retail-property-investment-management-team-south-africa-.json
 ---
