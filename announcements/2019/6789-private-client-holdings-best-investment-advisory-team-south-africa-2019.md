@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005259
 wayback_snapshot_url: "http://web.archive.org/web/20190723005259/https://cfi.co/awards/africa/2019/private-client-holdings-best-investment-advisory-team-south-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: c3e08c29f9180e5d3279404d7630c623aebacd3f3200ba342ac9477a5f2ec7a9
 canonical: 6789-private-client-holdings-best-investment-advisory-team-south-africa-2019.json
 ---
