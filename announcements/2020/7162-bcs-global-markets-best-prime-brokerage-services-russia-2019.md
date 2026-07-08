@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200726200925
 wayback_snapshot_url: "http://web.archive.org/web/20200726200925/https://cfi.co/awards/asia-pacific/2020/bcs-global-markets-best-prime-brokerage-services-russia-2019/"
+license: CFI-OAAL-1.0
 content_sha256: c698a839a8ab1ea1ea0ab25333ef0278266029b85259246e07e8f4b14568145d
 canonical: 7162-bcs-global-markets-best-prime-brokerage-services-russia-2019.json
 ---
