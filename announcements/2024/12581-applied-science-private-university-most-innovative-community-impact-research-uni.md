@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250620171427
 wayback_snapshot_url: "http://web.archive.org/web/20250620171427/https://cfi.co/awards/community-engagement/2024/applied-science-private-university-most-innovative-community-impact-research-university-middle-east-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 01e2e7bf275a7c394ffba06658a85b9b6c670d21d4bdb4ae50aa2ecfa6cd489a
 canonical: 12581-applied-science-private-university-most-innovative-community-impact-research-uni.json
 ---
