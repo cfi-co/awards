@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614232114
 wayback_snapshot_url: "http://web.archive.org/web/20250614232114/https://cfi.co/awards/banking/2025/jp-morgan-chase-most-innovative-investment-banking-services-usa-2025/"
+license: CFI-OAAL-1.0
 content_sha256: daaf2372d6b0ecdc9e00bc32bf4cff1c7a85592fe57f132bf72e6a584854d16d
 canonical: 12976-jp-morgan-chase-most-innovative-investment-banking-services-usa-2025.json
 ---
