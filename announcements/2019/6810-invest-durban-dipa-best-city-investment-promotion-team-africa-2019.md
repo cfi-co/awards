@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005629
 wayback_snapshot_url: "http://web.archive.org/web/20190723005629/https://cfi.co/awards/africa/2019/invest-durban-dipa-best-city-investment-promotion-team-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: b0da4a9a25fb02c6d88b508bd84b7e8aa31c18305b917d4895750d3eb4d6bf3e
 canonical: 6810-invest-durban-dipa-best-city-investment-promotion-team-africa-2019.json
 ---
