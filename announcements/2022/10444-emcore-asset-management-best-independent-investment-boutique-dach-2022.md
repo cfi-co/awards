@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630125226
 wayback_snapshot_url: "http://web.archive.org/web/20220630125226/https://cfi.co/awards/europe/2022/emcore-asset-management-best-independent-investment-boutique-dach-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 8e321708f217f6ebdfa0846c4d84a96f6703748f9342a8293e1114f2678ea3f4
 canonical: 10444-emcore-asset-management-best-independent-investment-boutique-dach-2022.json
 ---
