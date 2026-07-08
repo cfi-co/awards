@@ -27,10 +27,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140731085339",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140731085339/http://cfi.co/awards/middle-east/2014/kingdom-hotel-investments-khi-partnership-prospects-in-emerging-markets/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140731085339/http://cfi.co/awards/middle-east/2014/kingdom-hotel-investments-khi-partnership-prospects-in-emerging-markets/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1230\" src=\"https://cfi.co/awards/wp-content/uploads/2014/05/khi.jpg\" alt=\"khi\" width=\"198\" height=\"157\" /></p>\r\n<p style=\"text-align: justify;\"><strong>HRH Prince Alwaleed bin Talal, a member of the Saudi Royal Family, is the founder of KHI and of its owner Kingdom Holding Company. Prince Alwaleed is a valued partner of many corporations throughout the world and takes investment positions in various industries. He is a very determined and successful investor and is a good partner to have on board.</strong></p>\r\n<p style=\"text-align: justify;\">Kingdom Hotel Investments, headquartered in Dubai, seeks out higher-end growth potential in emerging markets and has partnered with such names as Four Seasons, Raffles, Fairmont, Intercontinental and Movenpick.</p>\r\n<p style=\"text-align: justify;\">The CFI.co Judging Panel has no hesitation in naming this company as, ‘Best Hotel Investment Partner – Global, 2014.’ The panel congratulates KHI on this award and also applauds the company for its positive CSR efforts.</p>",
     "content_sha256": "30f51c43647ebb68b61d9a807555596c557a092bf7e94ca9466a8eeeb750d583",
-    "record_sha256": "be3809ad043c4447677224d9442ccb1c55f8dd0a394ba49515672afc90f78b0a"
+    "record_sha256": "171f776829c14882366532b9639b857e34a33382dd8a5ccf1ca0d43570429018"
 }
