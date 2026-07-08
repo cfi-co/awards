@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525073613
 wayback_snapshot_url: "http://web.archive.org/web/20260525073613/https://cfi.co/awards/finance/exchanges-brokers/2020/pepperstone-best-online-forex-broker-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 18456e318f6b599fac993e5aee9e68b135f7c885e3fceca640f80edfeab045f5
 canonical: 7218-pepperstone-best-online-forex-broker-global-2019.json
 ---
