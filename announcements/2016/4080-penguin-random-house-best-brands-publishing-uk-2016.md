@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094356
 wayback_snapshot_url: "http://web.archive.org/web/20190426094356/https://cfi.co/awards/professional-services/2016/penguin-random-house-best-brands-publishing-uk-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 076ad85d296089c48fe5774f86d88287d7bf23661d3c6537a1dc91660ea933e8
 canonical: 4080-penguin-random-house-best-brands-publishing-uk-2016.json
 ---
