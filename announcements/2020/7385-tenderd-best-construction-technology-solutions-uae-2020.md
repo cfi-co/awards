@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200728013851
 wayback_snapshot_url: "http://web.archive.org/web/20200728013851/https://cfi.co/awards/middle-east/2020/tenderd-best-construction-technology-solutions-uae-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 6b5713bdf3859ea3f0e57977d3de41a2f7d5a3197011b331915325d16fb49d03
 canonical: 7385-tenderd-best-construction-technology-solutions-uae-2020.json
 ---
