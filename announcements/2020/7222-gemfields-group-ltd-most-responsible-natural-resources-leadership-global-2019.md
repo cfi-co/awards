@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525073840
 wayback_snapshot_url: "http://web.archive.org/web/20260525073840/https://cfi.co/awards/best-practice/csr/2020/gemfields-group-ltd-most-responsible-natural-resources-leadership-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: f32e905c86c0d9ce60488721402526887bc97221bec66eb0fa4bec323b31e1b2
 canonical: 7222-gemfields-group-ltd-most-responsible-natural-resources-leadership-global-2019.json
 ---
