@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724002555
 wayback_snapshot_url: "http://web.archive.org/web/20210724002555/https://cfi.co/awards/banking/2018/cyprus-cooperative-bank-best-social-impact-bank-cyprus-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 49198ec1e2eabc60f05f15bddf353efba06d7fee622c171979033f0c3eac001f
 canonical: 5240-cyprus-cooperative-bank-best-social-impact-bank-cyprus-2017.json
 ---
