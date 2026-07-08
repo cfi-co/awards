@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190902130032
 wayback_snapshot_url: "http://web.archive.org/web/20190902130032/https://cfi.co/awards/middle-east/2017/ahli-united-bank-best-regional-bank-gcc-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 64f9c9069a85a53f425969c23e5ed785908532858e0683a29f7910962d6f4d61
 canonical: 3713-ahli-united-bank-best-regional-bank-gcc-2016.json
 ---
