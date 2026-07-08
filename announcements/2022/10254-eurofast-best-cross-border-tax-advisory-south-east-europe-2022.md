@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260603033430
 wayback_snapshot_url: "http://web.archive.org/web/20260603033430/https://cfi.co/awards/europe/2022/eurofast-best-cross-border-tax-advisory-south-east-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 03e9540b3c4e5fac789e3da752b6d1c73836fe00758864fa705b84657b245519
 canonical: 10254-eurofast-best-cross-border-tax-advisory-south-east-europe-2022.json
 ---
