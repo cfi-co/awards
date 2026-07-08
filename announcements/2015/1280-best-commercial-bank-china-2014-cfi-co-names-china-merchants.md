@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150616080125
 wayback_snapshot_url: "http://web.archive.org/web/20150616080125/http://cfi.co/awards/asia-pacific/2015/best-commercial-bank-china-2014-cfi-co-names-china-merchants/"
+license: CFI-OAAL-1.0
 content_sha256: bb9ba26cc3ea63163b238adf985d68a670079a488b449b0328a9a600fcc0fa39
 canonical: 1280-best-commercial-bank-china-2014-cfi-co-names-china-merchants.json
 ---
