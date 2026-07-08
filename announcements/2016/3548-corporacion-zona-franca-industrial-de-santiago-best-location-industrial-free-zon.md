@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200727191651
 wayback_snapshot_url: "http://web.archive.org/web/20200727191651/https://cfi.co/awards/latin-america/2016/corporacion-zona-franca-industrial-de-santiago-best-location-industrial-free-zone-caribbean-2016/"
+license: CFI-OAAL-1.0
 content_sha256: a0fca1a17dbcd1b0c89bb1106078a1fff9748d53720f04a7836348199079e7a3
 canonical: 3548-corporacion-zona-franca-industrial-de-santiago-best-location-industrial-free-zon.json
 ---
