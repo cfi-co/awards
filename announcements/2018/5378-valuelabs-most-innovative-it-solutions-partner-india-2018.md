@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426101528
 wayback_snapshot_url: "http://web.archive.org/web/20190426101528/https://cfi.co/awards/asia-pacific/2018/valuelabs-most-innovative-it-solutions-partner-india-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 931fa1d0833662667a32d275cbea64a2ba66e8ef3e28a5c2f74fa69765c6e4fc
 canonical: 5378-valuelabs-most-innovative-it-solutions-partner-india-2018.json
 ---
