@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409002651
 wayback_snapshot_url: "http://web.archive.org/web/20140409002651/http://cfi.co/awards/europe/2013/dispute-resolution-award-for-germany-goes-to-freshfields-bruckhaus-deringer/"
+license: CFI-OAAL-1.0
 content_sha256: 1314ec279d8eed08c218530387db9b18cb75e62d96075acb3e056f661b500cf3
 canonical: 379-dispute-resolution-award-for-germany-goes-to-freshfields-bruckhaus-deringer.json
 ---

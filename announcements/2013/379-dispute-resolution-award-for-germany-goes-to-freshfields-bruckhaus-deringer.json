@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409002651",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409002651/http://cfi.co/awards/europe/2013/dispute-resolution-award-for-germany-goes-to-freshfields-bruckhaus-deringer/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409002651/http://cfi.co/awards/europe/2013/dispute-resolution-award-for-germany-goes-to-freshfields-bruckhaus-deringer/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-383\" alt=\"Freshfields_logo\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/Freshfields_logo.png\" width=\"500\" height=\"55\" />Freshfields in Germany is very strong in dispute resolution and, according to the judging panel, executes assignments very efficiently across sectors and jurisdictions. CFI.co named the firm as ‘Best Dispute Resolution Team, Germany’, 2013. Freshfields is headquartered in London and is a member of the magic circle.</p>",
     "content_sha256": "1314ec279d8eed08c218530387db9b18cb75e62d96075acb3e056f661b500cf3",
-    "record_sha256": "494c899d8bde58c66bb0248df00b0d211ff0475e4acd463f6764e9e1309dbe32"
+    "record_sha256": "a8819497203773a2f15b6ad3abc8e69afc550c12f6cd2276be9b49f181f4be47"
 }
