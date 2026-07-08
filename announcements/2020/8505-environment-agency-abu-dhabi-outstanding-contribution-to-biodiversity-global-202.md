@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201227071151
 wayback_snapshot_url: "http://web.archive.org/web/20201227071151/https://cfi.co/awards/middle-east/2020/environment-agency-abu-dhabi-outstanding-contribution-to-biodiversity-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 2f83b440d8b20458c1f0d6f5f4ae3cfccf9fbc9a343bf85d10947d87ce899c1a
 canonical: 8505-environment-agency-abu-dhabi-outstanding-contribution-to-biodiversity-global-202.json
 ---
