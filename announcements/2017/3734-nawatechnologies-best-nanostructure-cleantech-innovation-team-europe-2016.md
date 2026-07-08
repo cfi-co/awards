@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921105020
 wayback_snapshot_url: "http://web.archive.org/web/20210921105020/https://cfi.co/awards/industries/2017/nawatechnologies-best-nanostructure-cleantech-innovation-team-europe-2016/"
+license: CFI-OAAL-1.0
 content_sha256: d732a22d2a3911a7915f267f6503e3175dc936d25dfdaae02824473c7ca71df8
 canonical: 3734-nawatechnologies-best-nanostructure-cleantech-innovation-team-europe-2016.json
 ---
