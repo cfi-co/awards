@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221207224928
 wayback_snapshot_url: "http://web.archive.org/web/20221207224928/https://cfi.co/awards/banking/2022/liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governance-liechtenstein-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 6e4321b2d229f3236a4c15c1dc695e8e8a66c8cf60c3739b33a03d2727668cfd
 canonical: 10903-liechtenstein-bankers-association-outstanding-contribution-to-good-bank-governan.json
 ---
