@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203064427
 wayback_snapshot_url: "http://web.archive.org/web/20221203064427/https://cfi.co/awards/europe/2022/cordet-best-alternative-credit-investor-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: ab2198bc20922e9794fbcd843d1dc88361944bbfcc0d6ef298e62530259fd84c
 canonical: 10639-cordet-best-alternative-credit-investor-uk-2022.json
 ---
