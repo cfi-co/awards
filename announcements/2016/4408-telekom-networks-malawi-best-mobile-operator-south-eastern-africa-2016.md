@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524044042
 wayback_snapshot_url: "http://web.archive.org/web/20260524044042/https://cfi.co/awards/africa/2016/telekom-networks-malawi-best-mobile-operator-south-eastern-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 6594d1cb4f11be0663644ccf82a0990d571c233b90f79936cbba635f5c7e6861
 canonical: 4408-telekom-networks-malawi-best-mobile-operator-south-eastern-africa-2016.json
 ---
