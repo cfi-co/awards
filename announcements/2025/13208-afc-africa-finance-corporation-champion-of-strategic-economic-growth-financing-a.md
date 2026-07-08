@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251206005956
 wayback_snapshot_url: "http://web.archive.org/web/20251206005956/https://cfi.co/awards/africa/2025/afc-africa-finance-corporation-champion-of-strategic-economic-growth-financing-africa-2025/"
+license: CFI-OAAL-1.0
 content_sha256: ad586e78dafc8f8db6c5703a36ed80b078450c17b50555a21f4f6742682e75fb
 canonical: 13208-afc-africa-finance-corporation-champion-of-strategic-economic-growth-financing-a.json
 ---
