@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525042431
 wayback_snapshot_url: "http://web.archive.org/web/20260525042431/https://cfi.co/awards/africa/2017/trustbond-mortgage-bank-outstanding-contribution-to-home-ownership-nigeria-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 3b801c47906db858f55920f909655772ded5c11d1943b3a28ed8580be0f39320
 canonical: 4581-trustbond-mortgage-bank-outstanding-contribution-to-home-ownership-nigeria-2017.json
 ---
