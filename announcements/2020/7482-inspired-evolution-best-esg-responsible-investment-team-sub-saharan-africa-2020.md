@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509105137
 wayback_snapshot_url: "http://web.archive.org/web/20210509105137/https://cfi.co/awards/africa/2020/inspired-evolution-best-esg-responsible-investment-team-sub-saharan-africa-2020/"
+license: CFI-OAAL-1.0
 content_sha256: a2af8edc9a460f16a1b7aa51d419f8f2ae63bebdbea5e4eccf9473cb695e67f7
 canonical: 7482-inspired-evolution-best-esg-responsible-investment-team-sub-saharan-africa-2020.json
 ---
