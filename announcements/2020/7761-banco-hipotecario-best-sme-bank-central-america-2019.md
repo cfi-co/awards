@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813170740
 wayback_snapshot_url: "http://web.archive.org/web/20200813170740/https://cfi.co/awards/latin-america/2020/banco-hipotecario-best-sme-bank-central-america-2019/"
+license: CFI-OAAL-1.0
 content_sha256: a0d01f6b85f17e08fa0ee18be2f81915e4916f89d1508a65258845d74fe6f3c4
 canonical: 7761-banco-hipotecario-best-sme-bank-central-america-2019.json
 ---
