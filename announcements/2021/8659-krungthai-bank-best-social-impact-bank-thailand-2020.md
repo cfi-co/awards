@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104952
 wayback_snapshot_url: "http://web.archive.org/web/20210228104952/https://cfi.co/awards/asia-pacific/2021/krungthai-bank-best-social-impact-bank-thailand-2020/"
+license: CFI-OAAL-1.0
 content_sha256: ef20b332d640791bfb4b74634e3721e3795e41321738ccba25f77fc58d82aafc
 canonical: 8659-krungthai-bank-best-social-impact-bank-thailand-2020.json
 ---
