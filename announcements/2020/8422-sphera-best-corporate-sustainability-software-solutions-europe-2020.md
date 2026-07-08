@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203233703
 wayback_snapshot_url: "http://web.archive.org/web/20201203233703/https://cfi.co/awards/europe/2020/sphera-best-corporate-sustainability-software-solutions-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 43be7c75e58547d233cea20a6fc0e2d92f874b24a96b2a3a5712a6a84135f24e
 canonical: 8422-sphera-best-corporate-sustainability-software-solutions-europe-2020.json
 ---
