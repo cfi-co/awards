@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251108162346
 wayback_snapshot_url: "http://web.archive.org/web/20251108162346/https://cfi.co/awards/europe/2025/segurcaixa-adeslas-best-insurer-spain-2025/"
+license: CFI-OAAL-1.0
 content_sha256: f24b9d1bb89c4428177d93e5605eb06884bdf8c1891a5813dab15b1666a305e1
 canonical: 13136-segurcaixa-adeslas-best-insurer-spain-2025.json
 ---
