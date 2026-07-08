@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210415072814
 wayback_snapshot_url: "http://web.archive.org/web/20210415072814/https://cfi.co/awards/north-america/2021/domini-best-impact-investment-advisory-united-states-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 0b95998c1f98b19197d5cb7f8e61ed41d0e78a2823170d8c25be1cb7ed6b5681
 canonical: 9032-domini-best-impact-investment-advisory-united-states-2021.json
 ---
