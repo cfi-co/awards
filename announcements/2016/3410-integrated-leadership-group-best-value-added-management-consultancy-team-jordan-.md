@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614231243
 wayback_snapshot_url: "http://web.archive.org/web/20250614231243/https://cfi.co/awards/middle-east/2016/integrated-leadership-group-best-value-added-management-consultancy-team-jordan-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 5c5830ae88b55fab50bb925c81eb68bbdfcef3f147fe220cdc35a592a90172e7
 canonical: 3410-integrated-leadership-group-best-value-added-management-consultancy-team-jordan-.json
 ---
