@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220811145454
 wayback_snapshot_url: "http://web.archive.org/web/20220811145454/https://cfi.co/awards/finance/2022/affirmative-investment-management-aim-best-social-impact-investment-manager-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 643bb050e4c6817d93d6c02cfce9f6ed10aed049bec793ac2417478397e5522b
 canonical: 10568-affirmative-investment-management-aim-best-social-impact-investment-manager-uk-2.json
 ---
