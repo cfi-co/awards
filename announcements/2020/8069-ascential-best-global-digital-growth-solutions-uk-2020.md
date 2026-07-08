@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210521070355
 wayback_snapshot_url: "http://web.archive.org/web/20210521070355/https://cfi.co/awards/europe/2020/ascential-best-global-digital-growth-solutions-uk-2020/"
+license: CFI-OAAL-1.0
 content_sha256: dc5596a0d3464eba0014ec18188ffe85286d92c2c85e4fe5f94c3151e01ffe65
 canonical: 8069-ascential-best-global-digital-growth-solutions-uk-2020.json
 ---
