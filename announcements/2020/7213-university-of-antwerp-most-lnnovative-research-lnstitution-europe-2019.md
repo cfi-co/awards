@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525073453
 wayback_snapshot_url: "http://web.archive.org/web/20260525073453/https://cfi.co/awards/europe/2020/university-of-antwerp-most-lnnovative-research-lnstitution-europe-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 80278eb81cae864c6869aa27d0f49fa6bdc092c9eb141efd43c0ea8dda954c56
 canonical: 7213-university-of-antwerp-most-lnnovative-research-lnstitution-europe-2019.json
 ---
