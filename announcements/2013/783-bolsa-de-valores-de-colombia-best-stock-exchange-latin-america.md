@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140410015941
 wayback_snapshot_url: "http://web.archive.org/web/20140410015941/http://cfi.co/awards/latin-america/2013/bolsa-de-valores-de-colombia-best-stock-exchange-latin-america/"
+license: CFI-OAAL-1.0
 content_sha256: 035b8fd369b38a037fb57b276b38df4e505295df9be6c5c62e6dec455a15b641
 canonical: 783-bolsa-de-valores-de-colombia-best-stock-exchange-latin-america.json
 ---

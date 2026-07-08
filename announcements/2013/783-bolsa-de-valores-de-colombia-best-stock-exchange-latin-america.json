@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140410015941",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140410015941/http://cfi.co/awards/latin-america/2013/bolsa-de-valores-de-colombia-best-stock-exchange-latin-america/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140410015941/http://cfi.co/awards/latin-america/2013/bolsa-de-valores-de-colombia-best-stock-exchange-latin-america/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-9075\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/33-349x218_c.jpg\" alt=\"BVC\" width=\"349\" height=\"218\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>The Bolsa de Valores de Colombia (BVC) – a private organisation – was established in 2001 with the merger of three regional exchanges in the South American country. The CFI.co Judging Panel is satisfied that BVC has now become a truly world-class exchange with a quality management system that allows for optimal client satisfaction.</strong></p>\r\n<p style=\"text-align: justify;\">The BVC has made it a priority to provide a range of simple, standardized and efficient processes running on a technical platform that is safe, trustworthy and customer-friendly. The exchange’s authorities are on the constant lookout for new and innovative market developments that answer to their ambition to offer customers an ever increasing choice of continuously improving products.</p>\r\n<p style=\"text-align: justify;\">The BVC doesn´t just aspire to be the leading national exchange but a regional one as well. The judging panel considers BVC (a listed company) to be a shining example, and indeed a model, for Latin America and hence a worthy winner of its 2013 award. BVC is seen to be actively contributing to the sustainable economic growth of Colombia and the wider region.</p>",
     "content_sha256": "035b8fd369b38a037fb57b276b38df4e505295df9be6c5c62e6dec455a15b641",
-    "record_sha256": "32ed89c2ea6e990b6a2360ad4a9018f9afc84f069f594e5fee2e45d8f874fc2e"
+    "record_sha256": "7a03214374215a0890913a1b8cd2e9d2e8be05b3b464934b8c14e7232db0ebc6"
 }
