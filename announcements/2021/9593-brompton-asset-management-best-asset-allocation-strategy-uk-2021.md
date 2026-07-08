@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015233446
 wayback_snapshot_url: "http://web.archive.org/web/20211015233446/https://cfi.co/awards/europe/2021/brompton-asset-management-best-asset-allocation-strategy-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 93f5f49f40651952433f6f1a4c6e5e0c55e233e93b9181368be3e258b19937d0
 canonical: 9593-brompton-asset-management-best-asset-allocation-strategy-uk-2021.json
 ---
