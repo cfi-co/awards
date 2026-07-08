@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207220436
 wayback_snapshot_url: "http://web.archive.org/web/20211207220436/https://cfi.co/awards/europe/2021/copernicus-wealth-management-best-wealth-management-team-switzerland-2021/"
+license: CFI-OAAL-1.0
 content_sha256: ada8b2b560f2e89d32e5704c6dbf03f34bb665a977e0f3265eb97451a8363eda
 canonical: 9749-copernicus-wealth-management-best-wealth-management-team-switzerland-2021.json
 ---
