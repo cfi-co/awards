@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210702125216
 wayback_snapshot_url: "http://web.archive.org/web/20210702125216/https://cfi.co/awards/africa/2021/bk-capital-best-corporate-finance-advisory-rwanda-2021/"
+license: CFI-OAAL-1.0
 content_sha256: dfbb27a1f63e38795dd1958621cd0ec3eb4d34e94b43b1f3a73ce82d9688636c
 canonical: 9274-bk-capital-best-corporate-finance-advisory-rwanda-2021.json
 ---
