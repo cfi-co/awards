@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210921112715",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210921112715/https://cfi.co/awards/middle-east/2013/snr-denton-named-best-corporate-commercial-team-oman/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921112715/https://cfi.co/awards/middle-east/2013/snr-denton-named-best-corporate-commercial-team-oman/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-510 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/SNR-DENTON.jpg\" alt=\"SNR DENTON\" width=\"132\" height=\"132\" />Dentons in Muscat brings its clients the benefits of thirty years of experience in the Oman market.</strong></p>\r\n<p style=\"text-align: justify;\">Last year the firm advised HSBC on a merger of its Oman branch and clients include Bechtel, USG and Oman Refineries &amp; Petroleum industries. It was the depth of knowledge of lawyers at SNR Denton that persuaded the judging panel that the Corporate &amp; Commercial award for 2013 should go to this outstanding firm.</p>",
     "content_sha256": "a7a57740016f12790ff17a50bf6397bf5ca3a480110f5f5a753767a227396a0b",
-    "record_sha256": "d243de45656124a1e546fbc65d93b51e140109f0b08f0b17d830d2d4eca907ea"
+    "record_sha256": "cef4fcee6442b8a7cd2c51cfa2401d86b2cf7cafd28a2d86877576b1f44d0820"
 }
