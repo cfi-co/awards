@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220828144800
 wayback_snapshot_url: "http://web.archive.org/web/20220828144800/https://cfi.co/awards/africa/2022/air-austral-best-airline-strategic-partnership-africa-the-indian-ocean-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 01681598b5f7513fde192aeda2d0be333ca3407856f3fc0b1ad831f6a0f3c0eb
 canonical: 10689-air-austral-best-airline-strategic-partnership-africa-the-indian-ocean-2022.json
 ---
