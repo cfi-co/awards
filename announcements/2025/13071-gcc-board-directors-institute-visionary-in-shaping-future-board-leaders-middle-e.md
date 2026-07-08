@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250804112322
 wayback_snapshot_url: "http://web.archive.org/web/20250804112322/https://cfi.co/awards/middle-east/2025/gcc-board-directors-institute-visionary-in-shaping-future-board-leaders-middle-east-2025/"
+license: CFI-OAAL-1.0
 content_sha256: ba7a0df6da2b6c63e67375cb70803c9bcf55425c30c7846209cd02b31a573ce3
 canonical: 13071-gcc-board-directors-institute-visionary-in-shaping-future-board-leaders-middle-e.json
 ---
