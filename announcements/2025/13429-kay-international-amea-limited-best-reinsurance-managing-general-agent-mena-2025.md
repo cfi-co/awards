@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527051618
 wayback_snapshot_url: "http://web.archive.org/web/20260527051618/https://cfi.co/awards/middle-east/2025/kay-international-amea-limited-best-reinsurance-managing-general-agent-mena-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 04fefa81165492785e5dc2bb3cf38250b52f6e6eac04227ff563a38be5be2974
 canonical: 13429-kay-international-amea-limited-best-reinsurance-managing-general-agent-mena-2025.json
 ---
