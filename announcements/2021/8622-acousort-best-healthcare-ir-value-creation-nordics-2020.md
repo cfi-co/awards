@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210128210549
 wayback_snapshot_url: "http://web.archive.org/web/20210128210549/https://cfi.co/awards/europe/2021/acousort-best-healthcare-ir-value-creation-nordics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 6876adf262b71ed7841d36f91d8c8d6e67cfbf5bd0760c034efcaa1a8e37d4fc
 canonical: 8622-acousort-best-healthcare-ir-value-creation-nordics-2020.json
 ---
