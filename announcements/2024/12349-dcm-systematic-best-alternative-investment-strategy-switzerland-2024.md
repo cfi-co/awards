@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713125235
 wayback_snapshot_url: "http://web.archive.org/web/20240713125235/https://cfi.co/awards/europe/2024/dcm-systematic-best-alternative-investment-strategy-switzerland-2024/"
+license: CFI-OAAL-1.0
 content_sha256: d610a10b6f9ebaf4c34d84803c6745b6aaff0d2c247bc8781c66387ac5dea43f
 canonical: 12349-dcm-systematic-best-alternative-investment-strategy-switzerland-2024.json
 ---
