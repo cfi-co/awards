@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228095014
 wayback_snapshot_url: "http://web.archive.org/web/20210228095014/https://cfi.co/awards/middle-east/2021/union-iron-steel-best-sustainable-steel-manufacturer-gcc-2020/"
+license: CFI-OAAL-1.0
 content_sha256: a73e307c008bdf8f034d4d60db4d339ad182dcdba2160d9ec284671934286cbd
 canonical: 8754-union-iron-steel-best-sustainable-steel-manufacturer-gcc-2020.json
 ---
