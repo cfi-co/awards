@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523045338
 wayback_snapshot_url: "http://web.archive.org/web/20260523045338/https://cfi.co/awards/middle-east/2015/professional-traders-group-best-capital-market-trading-services-gcc-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 571ed94fbe253501c38f2a3deeb4a0f5339c8bc1e37c3308473f3ecd7eae6e13
 canonical: 6531-professional-traders-group-best-capital-market-trading-services-gcc-2015.json
 ---
