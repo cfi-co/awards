@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322094713
 wayback_snapshot_url: "http://web.archive.org/web/20250322094713/https://cfi.co/awards/africa/2025/ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2024/"
+license: CFI-OAAL-1.0
 content_sha256: baf5144c56334d91c34766a45dc7d6cd185475169df3083092f4719f3a9a20f2
 canonical: 12877-ariya-capital-best-esg-clean-energy-investment-partner-sub-saharan-africa-2024.json
 ---
