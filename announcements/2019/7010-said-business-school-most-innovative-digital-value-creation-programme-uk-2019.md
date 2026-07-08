@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191215001732
 wayback_snapshot_url: "http://web.archive.org/web/20191215001732/https://cfi.co/awards/europe/2019/said-business-school-most-innovative-digital-value-creation-programme-uk-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 325ae3f0892fae7ee5f01ea4e4866a1c182f0b3010ad73aded15111d5cc466f7
 canonical: 7010-said-business-school-most-innovative-digital-value-creation-programme-uk-2019.json
 ---
