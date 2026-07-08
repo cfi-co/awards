@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221208001630
 wayback_snapshot_url: "http://web.archive.org/web/20221208001630/https://cfi.co/awards/banking/2022/ahli-united-bank-best-global-network-bank-gcc-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 405b0ef91e679d95b5a3505e47503fed81eb7bd671b372a4063cc36b77c9cec7
 canonical: 10873-ahli-united-bank-best-global-network-bank-gcc-2022.json
 ---
