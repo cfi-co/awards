@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005437
 wayback_snapshot_url: "http://web.archive.org/web/20190723005437/https://cfi.co/awards/africa/2019/ghana-investment-promotion-centre-gipc-best-investment-promotion-agency-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: f102ba168ffff1124a23edace9bff4aad726ac1a8a751a943abf803494e04f1e
 canonical: 6760-ghana-investment-promotion-centre-gipc-best-investment-promotion-agency-africa-2.json
 ---
