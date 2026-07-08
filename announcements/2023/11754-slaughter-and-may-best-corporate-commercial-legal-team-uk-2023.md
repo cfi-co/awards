@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923180923
 wayback_snapshot_url: "http://web.archive.org/web/20230923180923/https://cfi.co/awards/europe/2023/slaughter-and-may-best-corporate-commercial-legal-team-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: c89e4e91cf1ff9dd714cabdc56c514553e25f8137a69c9f710b75e62288c5b8c
 canonical: 11754-slaughter-and-may-best-corporate-commercial-legal-team-uk-2023.json
 ---
