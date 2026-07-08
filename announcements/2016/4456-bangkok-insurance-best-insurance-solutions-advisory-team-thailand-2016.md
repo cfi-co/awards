@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190526193357
 wayback_snapshot_url: "http://web.archive.org/web/20190526193357/https://cfi.co/awards/asia-pacific/2016/bangkok-insurance-best-insurance-solutions-advisory-team-thailand-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1b639966631971b023403f96ae9c3e307d5739f76ca67bdf29c818848bc61998
 canonical: 4456-bangkok-insurance-best-insurance-solutions-advisory-team-thailand-2016.json
 ---
