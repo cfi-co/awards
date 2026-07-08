@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523045653
 wayback_snapshot_url: "http://web.archive.org/web/20260523045653/https://cfi.co/awards/banking/2016/black-sea-trade-and-development-bank-best-regional-development-bank-global-2015/"
+license: CFI-OAAL-1.0
 content_sha256: ef212dee47803fa3599e8868e6dc569b834021041e9b2a635976266f3b40e4f9
 canonical: 2766-black-sea-trade-and-development-bank-best-regional-development-bank-global-2015.json
 ---
