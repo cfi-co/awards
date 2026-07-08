@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260529034701
 wayback_snapshot_url: "http://web.archive.org/web/20260529034701/https://cfi.co/awards/europe/2021/share-now-best-mobility-innovation-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 21fd86757634c89d0b22535d93c3b032fc084bd8a326a770f63d0ac21ffff639
 canonical: 9737-share-now-best-mobility-innovation-europe-2021.json
 ---
