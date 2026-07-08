@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724085901
 wayback_snapshot_url: "http://web.archive.org/web/20190724085901/https://cfi.co/awards/north-america/2018/nasdaq-buy-side-compliance-most-innovative-compliance-management-system-global-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 542d8c5543c204d132f209ede0d8cda53b7c8891b00c89758a983aedf91368b8
 canonical: 5493-nasdaq-buy-side-compliance-most-innovative-compliance-management-system-global-2.json
 ---
