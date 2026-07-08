@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630130747
 wayback_snapshot_url: "http://web.archive.org/web/20220630130747/https://cfi.co/awards/middle-east/2022/al-fozan-holding-company-best-diversified-holdings-governance-gcc-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 6e5a2a142c75c7077bb2aa1075139c63e8f4d9ac4fcc062aa0e218a7b4af1c39
 canonical: 10474-al-fozan-holding-company-best-diversified-holdings-governance-gcc-2022.json
 ---
