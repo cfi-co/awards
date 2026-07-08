@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230426145330
 wayback_snapshot_url: "http://web.archive.org/web/20230426145330/https://cfi.co/awards/finance/2023/id-finance-best-esg-inclusive-finance-solutions-emerging-markets-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 22987673c3d36e1dca2c399cb4de19d0d0fe1165a97dc47f87d9184b2dd772e1
 canonical: 11401-id-finance-best-esg-inclusive-finance-solutions-emerging-markets-2023.json
 ---
