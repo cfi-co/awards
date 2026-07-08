@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525055747
 wayback_snapshot_url: "http://web.archive.org/web/20260525055747/https://cfi.co/awards/front/2018/dp-world-best-long-term-community-engagement-strategy-global-2018/"
+license: CFI-OAAL-1.0
 content_sha256: b6a80f13f4798bb8a3847b202b0c89f961c09cef39b97bdd9cace43cc6b662d0
 canonical: 6185-dp-world-best-long-term-community-engagement-strategy-global-2018.json
 ---
