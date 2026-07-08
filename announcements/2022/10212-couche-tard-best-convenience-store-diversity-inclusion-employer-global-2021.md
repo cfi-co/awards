@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630143223
 wayback_snapshot_url: "http://web.archive.org/web/20220630143223/https://cfi.co/awards/north-america/2022/couche-tard-best-convenience-store-diversity-inclusion-employer-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: a5830776baec8fbfe698196e898a82aa316280be9449d43ce864a3ac5f0accfc
 canonical: 10212-couche-tard-best-convenience-store-diversity-inclusion-employer-global-2021.json
 ---
