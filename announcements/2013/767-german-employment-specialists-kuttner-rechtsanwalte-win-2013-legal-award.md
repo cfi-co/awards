@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209175022
 wayback_snapshot_url: "http://web.archive.org/web/20250209175022/https://cfi.co/awards/europe/2013/german-employment-specialists-kuttner-rechtsanwalte-win-2013-legal-award/"
+license: CFI-OAAL-1.0
 content_sha256: bc32b1d4ed7348557333994bf62b8da42384d8764459ef85f4b0af99c4123f92
 canonical: 767-german-employment-specialists-kuttner-rechtsanwalte-win-2013-legal-award.json
 ---
