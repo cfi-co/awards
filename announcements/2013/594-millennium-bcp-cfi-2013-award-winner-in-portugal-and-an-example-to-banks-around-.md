@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180701093736
 wayback_snapshot_url: "http://web.archive.org/web/20180701093736/http://cfi.co/awards/europe/2013/millennium-bcp-cfi-2013-award-winner-in-portugal-and-an-example-to-banks-around-the-world/"
+license: CFI-OAAL-1.0
 content_sha256: 6edab88f449b3e9dc9de0b462f5802b6d2df1f84b74b99ccadc363681d7c88b6
 canonical: 594-millennium-bcp-cfi-2013-award-winner-in-portugal-and-an-example-to-banks-around-.json
 ---
