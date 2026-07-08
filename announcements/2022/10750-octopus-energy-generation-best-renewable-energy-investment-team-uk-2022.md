@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928194416
 wayback_snapshot_url: "http://web.archive.org/web/20220928194416/https://cfi.co/awards/best-practice/sustainability/2022/octopus-energy-generation-best-renewable-energy-investment-team-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 8e848c02be37f79ded99f5fa98817d5cecf760142da2d496e9f4d46f0e9f8bd7
 canonical: 10750-octopus-energy-generation-best-renewable-energy-investment-team-uk-2022.json
 ---

@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20220928194416",
-        "wayback_snapshot_url": "http://web.archive.org/web/20220928194416/https://cfi.co/awards/best-practice/sustainability/2022/octopus-energy-generation-best-renewable-energy-investment-team-uk-2022/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20220928194416/https://cfi.co/awards/best-practice/sustainability/2022/octopus-energy-generation-best-renewable-energy-investment-team-uk-2022/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10747\" src=\"https://cfi.co/awards/wp-content/uploads/2022/09/OctopusEnergy-logo.jpg\" alt=\"Octopus Energy logo\" width=\"500\" height=\"109\" />\r\n<p style=\"text-align: justify;\">Octopus Energy Generation is one of Europe’s largest investors in renewable energy. Its fund management team launched in 2010 with a mission to accelerate the transition to a future powered by green energy. Being a fund manager which is also part of integrated energy tech business Octopus Energy Group, means it has unrivalled insight into the full energy supply chain. This makes the team fundamentally different and uniquely positioned to shape a green energy system fit for the future - improving outcomes for consumers, the planet and investors. They take a consumer-centric and tech-driven approach to rapidly expanding the roll-out of green energy. The large team of renewable energy specialists manage £4.4bn worth of renewable generation assets, spanning more than 300 projects across 10 countries. These renewable energy assets generate enough green energy to power over two million homes every year. This comes as demand for investing in renewables from institutional investors like pension funds continues to grow, with more and more looking to make a positive impact with pension savers’ money on people and the planet. The more investment made in renewable energy, the faster the shift to a greener, cleaner future. The CFI.co judging panel presents Octopus Energy Generation with the 2022 award for Best Renewable Energy Investment Team (UK).</p>",
     "content_sha256": "8e848c02be37f79ded99f5fa98817d5cecf760142da2d496e9f4d46f0e9f8bd7",
-    "record_sha256": "139352a7a5b4a7eb49a2364de9fc0ae186591dfbcc09a770968ba16be34f1324"
+    "record_sha256": "f6b8f7d9bab9d69389b2b56910bb52d4875d2101bed193c62ec4764a42c41e01"
 }
