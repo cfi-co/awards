@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322094114
 wayback_snapshot_url: "http://web.archive.org/web/20250322094114/https://cfi.co/awards/middle-east/2016/emirates-reit-best-diversified-reit-global-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 3a2bd3e553e455bdcf357c1f84fb99cfa0b45ba061a6e77410ea9be4f447429f
 canonical: 2785-emirates-reit-best-diversified-reit-global-2015.json
 ---
