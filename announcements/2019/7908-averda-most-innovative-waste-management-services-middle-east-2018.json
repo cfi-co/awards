@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260525071233",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260525071233/https://cfi.co/awards/middle-east/2019/averda-most-innovative-waste-management-services-middle-east-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260525071233/https://cfi.co/awards/middle-east/2019/averda-most-innovative-waste-management-services-middle-east-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4930\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/Averda.jpg\" alt=\"Averda\" width=\"187\" height=\"92\" />\r\n<p style=\"text-align: justify;\">A clean environment improves lives, safety, and sustainability. Dubai-based industrial engineering company Averda should know: it manages municipal, industrial, and residential waste across three continents. Capitalising on waste-as-energy breakthroughs, Averda transforms residual waste into refuse-derived fuel (RDF) using an environmentally friendly process. Averda’s adaptable thermal treatment reduces waste volume by 90 percent, resulting in a viable by-product that can be used for power or heat, or sold for profit. The Averda story began in 1964, and in tech terms the company was way ahead of its time; 54 years later, it continues to be a pioneer of waste management technology. Clean cities thrive and prosper, inspire residents and communities to take action, and attract forward-thinking businesses. Averda first came to the attention of the CFI.co judging panel in 2017, winning an award for its conscientious management of landfill sites and disposal of e-waste. Averda has maintained its promising trajectory, providing creative, tech-based solutions for one of the world’s most challenging issues. Since the 2017 award win, the company has secured several major projects — proving that it is forging ahead with continuous innovation. Averda’s powerful partnerships combine third-party image capture with analytics to improve routing and collection efficiencies and perform quality assurance checks. For its continued dedication to creating a cleaner world, the CFI.co judging panel names Averda winner of the award for Most Innovative Waste Management Services (Middle East) – for the second consecutive year.</p>",
     "content_sha256": "9a0e919e67c870c67a671f7ab0d5c2720c81708ce703def823bd709f5db14eb8",
-    "record_sha256": "a72691f989fa9d8d90eb831a07bc0663c9ca9fb5167a09fbc085952a635a1bf0"
+    "record_sha256": "1593d675f99010fd3023cd08c40cd2f6d19c31a1edaf8f5766f6773704201d89"
 }
