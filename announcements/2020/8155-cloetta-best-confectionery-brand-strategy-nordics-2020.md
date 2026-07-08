@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923081921
 wayback_snapshot_url: "http://web.archive.org/web/20200923081921/https://cfi.co/awards/europe/2020/cloetta-best-confectionery-brand-strategy-nordics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 6a2028339a30795ba9a280a9fe3199ca078bf97a0309a5e83566af2643cefa1c
 canonical: 8155-cloetta-best-confectionery-brand-strategy-nordics-2020.json
 ---
