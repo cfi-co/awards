@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240523004403
 wayback_snapshot_url: "http://web.archive.org/web/20240523004403/https://cfi.co/awards/latin-america/2013/del-valle-torres-best-tax-team-mexico-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 3a672e45493bb854affa6cb6bc329a8d3e44e03269b9035636b71d963abf0818
 canonical: 452-del-valle-torres-best-tax-team-mexico-2013.json
 ---
