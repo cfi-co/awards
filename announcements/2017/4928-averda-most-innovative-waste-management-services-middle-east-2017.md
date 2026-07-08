@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525050105
 wayback_snapshot_url: "http://web.archive.org/web/20260525050105/https://cfi.co/awards/middle-east/2017/averda-most-innovative-waste-management-services-middle-east-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 3ea78b7a3ed78b63b99cf94275739d3363a230c7cece62f49f8d4a02c010f63b
 canonical: 4928-averda-most-innovative-waste-management-services-middle-east-2017.json
 ---
