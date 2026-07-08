@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250907050004
 wayback_snapshot_url: "http://web.archive.org/web/20250907050004/https://cfi.co/awards/africa/2015/unitel-t-best-customer-satisfaction-cape-verde-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 3e4fa51fdfcc0992e2702fa0e403cf64aef976b7c1dbbf89bc0f892a9feb50a9
 canonical: 6274-unitel-t-best-customer-satisfaction-cape-verde-2015.json
 ---
