@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209171744
 wayback_snapshot_url: "http://web.archive.org/web/20250209171744/https://cfi.co/awards/africa/2024/african-trade-investment-development-insurance-atidi-outstanding-innovators-in-trade-and-development-insurance-africa-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 554bc9060a80cc902f0ccfd41f41982ed7eca7d5c9d1e905aa594db76e3bda12
 canonical: 12848-african-trade-investment-development-insurance-atidi-outstanding-innovators-in-t.json
 ---
