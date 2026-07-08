@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260529035524
 wayback_snapshot_url: "http://web.archive.org/web/20260529035524/https://cfi.co/awards/industries/2022/canpack-group-best-sustainable-packaging-solutions-cee-2022/"
+license: CFI-OAAL-1.0
 content_sha256: a5dc3edb04643051eba8d59549203286ac11d83d5d2fa91bee402d3fe49de86a
 canonical: 10609-canpack-group-best-sustainable-packaging-solutions-cee-2022.json
 ---
