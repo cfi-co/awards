@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920105712
 wayback_snapshot_url: "http://web.archive.org/web/20210920105712/https://cfi.co/awards/middle-east/2021/ams-integrated-solutions-best-fleet-manager-emerging-economies-2021/"
+license: CFI-OAAL-1.0
 content_sha256: cce10b62db6ffda682e8f15ea79d9a4aa06782e5d897d0ad1df0f5c4523fab2a
 canonical: 9473-ams-integrated-solutions-best-fleet-manager-emerging-economies-2021.json
 ---
