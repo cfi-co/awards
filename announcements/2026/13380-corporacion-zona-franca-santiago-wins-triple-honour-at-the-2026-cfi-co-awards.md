@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523040839
 wayback_snapshot_url: "http://web.archive.org/web/20260523040839/https://cfi.co/awards/latin-america/2026/corporacion-zona-franca-santiago-wins-triple-honour-at-the-2026-cfi-co-awards/"
+license: CFI-OAAL-1.0
 content_sha256: dd2ecef9929286990a4f7d91d123187d8612ac202d4aa912b019976f713b18ba
 canonical: 13380-corporacion-zona-franca-santiago-wins-triple-honour-at-the-2026-cfi-co-awards.json
 ---
