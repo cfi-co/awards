@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015235835
 wayback_snapshot_url: "http://web.archive.org/web/20211015235835/https://cfi.co/awards/africa/2013/dateline-energy-moving-forward-confidently-in-nigeria/"
+license: CFI-OAAL-1.0
 content_sha256: 901603feb8555bd115547b1c45e6a2ad23792b22f5f5a2a8161f29a03cd84319
 canonical: 657-dateline-energy-moving-forward-confidently-in-nigeria.json
 ---
