@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426104615
 wayback_snapshot_url: "http://web.archive.org/web/20190426104615/https://cfi.co/awards/middle-east/2018/department-of-finance-government-of-dubai-smart-fiscal-planning-most-innovative-strategic-governance-programme-emea-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 0c4c4b22b3b45f8d78b4079fe1838ef7d8378d128472be6bb3b31371431bd3bd
 canonical: 5332-department-of-finance-government-of-dubai-smart-fiscal-planning-most-innovative-.json
 ---
