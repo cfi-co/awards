@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525072814
 wayback_snapshot_url: "http://web.archive.org/web/20260525072814/https://cfi.co/awards/europe/2019/perstorp-holding-ab-most-innovative-speciality-chemicals-solutions-sweden-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 784380753bed06278c48e85fbd3315e7c086e2e10d6d722b542d646b7cc9626d
 canonical: 8651-perstorp-holding-ab-most-innovative-speciality-chemicals-solutions-sweden-2019.json
 ---
