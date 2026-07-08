@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235117
 wayback_snapshot_url: "http://web.archive.org/web/20201203235117/https://cfi.co/awards/north-america/2020/mackay-shields-best-esg-fixed-income-investor-united-states-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 33314ce349f79b92303cba898fa121fefd5d85b9b1290a04063be5dadf999bdd
 canonical: 8323-mackay-shields-best-esg-fixed-income-investor-united-states-2020.json
 ---
