@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603020952
 wayback_snapshot_url: "http://web.archive.org/web/20230603020952/https://cfi.co/awards/middle-east/2023/applied-science-private-university-most-innovative-community-impact-research-university-middle-east-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 96cdd2db9941a2728b6e50d773f9dd4c43cdccc3ef5d922c7755d188b6ccd85b
 canonical: 11355-applied-science-private-university-most-innovative-community-impact-research-uni.json
 ---
