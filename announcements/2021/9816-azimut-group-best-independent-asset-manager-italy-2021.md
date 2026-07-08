@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207203843
 wayback_snapshot_url: "http://web.archive.org/web/20211207203843/https://cfi.co/awards/europe/2021/azimut-group-best-independent-asset-manager-italy-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 134242ea4d21cd4a57c93e199defee68392bd823aa2b3ca68764ac7a0b0afc95
 canonical: 9816-azimut-group-best-independent-asset-manager-italy-2021.json
 ---
