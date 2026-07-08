@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528095622
 wayback_snapshot_url: "http://web.archive.org/web/20220528095622/https://cfi.co/awards/front/2021/park-hyatt-doha-best-luxury-hotel-qatar-2021/"
+license: CFI-OAAL-1.0
 content_sha256: b410c2bcc28032fa6f26438bd26b912bd2c73035d6350d1e6122cae56711675a
 canonical: 9661-park-hyatt-doha-best-luxury-hotel-qatar-2021.json
 ---
