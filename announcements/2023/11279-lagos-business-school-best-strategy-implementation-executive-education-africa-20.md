@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230326145612
 wayback_snapshot_url: "http://web.archive.org/web/20230326145612/https://cfi.co/awards/africa/2023/lagos-business-school-best-strategy-implementation-executive-education-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 4fb63bdf7d02e401947a0ab7a6cede274da8680f633f1bc1d6aa3f0ac824bb8e
 canonical: 11279-lagos-business-school-best-strategy-implementation-executive-education-africa-20.json
 ---
