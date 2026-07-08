@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210120080000
 wayback_snapshot_url: "http://web.archive.org/web/20210120080000/https://cfi.co/awards/asia-pacific/2020/belinvestbank-best-digital-banking-solutions-cis-2020/"
+license: CFI-OAAL-1.0
 content_sha256: c09dd0900a802926dbc438f27091ce9e914f1b51f7076d457d50fe4b80dc68da
 canonical: 8525-belinvestbank-best-digital-banking-solutions-cis-2020.json
 ---
