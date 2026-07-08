@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713121756
 wayback_snapshot_url: "http://web.archive.org/web/20240713121756/https://cfi.co/awards/best-practice/2024/ascend-elements-sustainable-supply-chain-pioneer-global-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 26d857a3a235198d733fe785393494d36af287a61cf415c60ccfe4bdc2249d8d
 canonical: 12387-ascend-elements-sustainable-supply-chain-pioneer-global-2024.json
 ---
