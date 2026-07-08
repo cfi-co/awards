@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528035436
 wayback_snapshot_url: "http://web.archive.org/web/20260528035436/https://cfi.co/awards/europe/2021/sportfive-best-value-creation-sports-marketing-agency-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 8d39159680ccc0ed43c5bf157a70178d8a0f139eaa2344cda152fa5b9237d6aa
 canonical: 9111-sportfive-best-value-creation-sports-marketing-agency-global-2020.json
 ---
