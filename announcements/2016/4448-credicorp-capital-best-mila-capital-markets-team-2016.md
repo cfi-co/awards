@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260210031234
 wayback_snapshot_url: "http://web.archive.org/web/20260210031234/https://cfi.co/awards/latin-america/2016/credicorp-capital-best-mila-capital-markets-team-2016/"
+license: CFI-OAAL-1.0
 content_sha256: a3afe035eb7f2ba2aa02932e8ebab7a52693d9d02ce819bd24dfdc3af9e5407c
 canonical: 4448-credicorp-capital-best-mila-capital-markets-team-2016.json
 ---
