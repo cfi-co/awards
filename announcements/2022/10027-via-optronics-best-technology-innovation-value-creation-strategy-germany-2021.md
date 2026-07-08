@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220208121022
 wayback_snapshot_url: "http://web.archive.org/web/20220208121022/https://cfi.co/awards/europe/2022/via-optronics-best-technology-innovation-value-creation-strategy-germany-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 09714afb2b329fb6dd40d8bda3b65c071d7c3345f39b576f353c5bdebcd88700
 canonical: 10027-via-optronics-best-technology-innovation-value-creation-strategy-germany-2021.json
 ---
