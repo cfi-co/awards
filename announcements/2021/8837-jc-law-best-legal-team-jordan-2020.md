@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228102311
 wayback_snapshot_url: "http://web.archive.org/web/20210228102311/https://cfi.co/awards/middle-east/2021/jc-law-best-legal-team-jordan-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 1c3438ab026833a968d4a478192242776ae06b0657144ddd6a390ee47cc494c7
 canonical: 8837-jc-law-best-legal-team-jordan-2020.json
 ---
