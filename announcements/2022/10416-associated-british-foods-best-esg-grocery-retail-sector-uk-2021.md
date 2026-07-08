@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820023228
 wayback_snapshot_url: "http://web.archive.org/web/20220820023228/https://cfi.co/awards/europe/2022/associated-british-foods-best-esg-grocery-retail-sector-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 615c4e8df31345a657e0adeb88b11a560fb2c1b5b5fbd45084963472efda9738
 canonical: 10416-associated-british-foods-best-esg-grocery-retail-sector-uk-2021.json
 ---
