@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630124037
 wayback_snapshot_url: "http://web.archive.org/web/20220630124037/https://cfi.co/awards/europe/2022/avl-best-mobility-tech-engineering-innovator-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 5414f9e2c662ee99bad499db6b1fa8138789014a852fbb31fd5a583d1a9a6709
 canonical: 10458-avl-best-mobility-tech-engineering-innovator-global-2021.json
 ---
