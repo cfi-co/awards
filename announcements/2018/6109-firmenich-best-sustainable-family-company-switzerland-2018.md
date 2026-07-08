@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094443
 wayback_snapshot_url: "http://web.archive.org/web/20190426094443/https://cfi.co/awards/europe/2018/firmenich-best-sustainable-family-company-switzerland-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 72b1a5f357072beae3b09c40ca5820699eb0d48e1d0648a7ec23595c353e892c
 canonical: 6109-firmenich-best-sustainable-family-company-switzerland-2018.json
 ---
