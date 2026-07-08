@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825095014
 wayback_snapshot_url: "http://web.archive.org/web/20190825095014/https://cfi.co/awards/banking/2019/banco-santander-chile-best-international-bank-governance-chile-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 34a5dcdbcdc2c29a82983bfd0ad05823c86e5fdd21e0e0549f277f8be22f536f
 canonical: 6731-banco-santander-chile-best-international-bank-governance-chile-2019.json
 ---
