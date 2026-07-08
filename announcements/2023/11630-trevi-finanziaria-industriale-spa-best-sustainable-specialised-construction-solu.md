@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240523001254
 wayback_snapshot_url: "http://web.archive.org/web/20240523001254/https://cfi.co/awards/europe/2023/trevi-finanziaria-industriale-spa-best-sustainable-specialised-construction-solutions-italy-2023/"
+license: CFI-OAAL-1.0
 content_sha256: cf5f017df4811ac551534db4dd1d5d3b0fe965f58121adaa84f41cbfa34f7226
 canonical: 11630-trevi-finanziaria-industriale-spa-best-sustainable-specialised-construction-solu.json
 ---
