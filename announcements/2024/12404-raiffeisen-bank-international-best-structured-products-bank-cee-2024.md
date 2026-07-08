@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713124923
 wayback_snapshot_url: "http://web.archive.org/web/20240713124923/https://cfi.co/awards/banking/2024/raiffeisen-bank-international-best-structured-products-bank-cee-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 51cadea693692a596ad3f5604d8e3cf95212e23d969f8aa5781154fc89697a1e
 canonical: 12404-raiffeisen-bank-international-best-structured-products-bank-cee-2024.json
 ---
