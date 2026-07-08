@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713132322
 wayback_snapshot_url: "http://web.archive.org/web/20240713132322/https://cfi.co/awards/best-practice/2024/artico-equity-team-serafin-asset-management-best-sustainable-equity-fund-manager-switzerland-2024/"
+license: CFI-OAAL-1.0
 content_sha256: b8c21ec8f9928cbc27c1050b490c319a8b03e3d94f7d4941c52aa2f1dd53ff92
 canonical: 12424-artico-equity-team-serafin-asset-management-best-sustainable-equity-fund-manager.json
 ---
