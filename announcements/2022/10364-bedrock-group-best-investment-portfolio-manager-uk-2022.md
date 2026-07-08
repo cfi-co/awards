@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820030621
 wayback_snapshot_url: "http://web.archive.org/web/20220820030621/https://cfi.co/awards/europe/2022/bedrock-group-best-investment-portfolio-manager-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: e337a8ac2040ed20db14fe32801ffaf22766ecd5e2263e4e0743f58eef88ce8d
 canonical: 10364-bedrock-group-best-investment-portfolio-manager-uk-2022.json
 ---
