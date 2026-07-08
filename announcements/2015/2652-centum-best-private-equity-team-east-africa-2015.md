@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160122002812
 wayback_snapshot_url: "http://web.archive.org/web/20160122002812/http://cfi.co/awards/africa/2015/centum-best-private-equity-team-east-africa-2015/"
+license: CFI-OAAL-1.0
 content_sha256: ef823c69b1a471f14cb27583217ec59a39459c51acdaa99750eb0dd9f98379d1
 canonical: 2652-centum-best-private-equity-team-east-africa-2015.json
 ---
