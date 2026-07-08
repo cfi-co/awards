@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810080852
 wayback_snapshot_url: "http://web.archive.org/web/20200810080852/https://cfi.co/awards/europe/2020/trumpf-venture-best-technology-investment-partner-germany-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 76b83473c2f5eed28ed02d909f538ff61a76611d4dee03235aae21345f356fd4
 canonical: 7824-trumpf-venture-best-technology-investment-partner-germany-2020.json
 ---
