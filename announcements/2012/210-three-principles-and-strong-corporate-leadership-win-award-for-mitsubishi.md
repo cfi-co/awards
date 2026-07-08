@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614183908
 wayback_snapshot_url: "http://web.archive.org/web/20210614183908/https://cfi.co/awards/asia-pacific/2012/three-principles-and-strong-corporate-leadership-win-award-for-mitsubishi/"
+license: CFI-OAAL-1.0
 content_sha256: 33cf4fa020e2260a5d684c6e2065824539f62e7ba198d69aa1fa33622671cb56
 canonical: 210-three-principles-and-strong-corporate-leadership-win-award-for-mitsubishi.json
 ---
