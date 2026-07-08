@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207204128
 wayback_snapshot_url: "http://web.archive.org/web/20211207204128/https://cfi.co/awards/middle-east/2021/cfi-financial-group-best-online-financial-trading-services-mena-2021/"
+license: CFI-OAAL-1.0
 content_sha256: bcb8374de3b27c5ff23547317131320ee7b1d949c9889b3a7404545fece71af7
 canonical: 9780-cfi-financial-group-best-online-financial-trading-services-mena-2021.json
 ---
