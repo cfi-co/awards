@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524044825
 wayback_snapshot_url: "http://web.archive.org/web/20260524044825/https://cfi.co/awards/industries/2016/macro-software-systems-best-business-it-services-partner-gcc-2016/"
+license: CFI-OAAL-1.0
 content_sha256: aae5078451550df4b6652f0170b07f1f04655b7125b56eac4fe9c8648d9fa220
 canonical: 4476-macro-software-systems-best-business-it-services-partner-gcc-2016.json
 ---
