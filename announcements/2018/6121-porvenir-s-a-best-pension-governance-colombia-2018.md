@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426100159
 wayback_snapshot_url: "http://web.archive.org/web/20190426100159/https://cfi.co/awards/front/2018/porvenir-s-a-best-pension-governance-colombia-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 76c96a3bc4dee130c2b6c86c8c12077765ae6ada814e5720dcf3119606c31c8d
 canonical: 6121-porvenir-s-a-best-pension-governance-colombia-2018.json
 ---
