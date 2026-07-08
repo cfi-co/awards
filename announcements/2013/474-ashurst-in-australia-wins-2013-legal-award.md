@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230528033154
 wayback_snapshot_url: "http://web.archive.org/web/20230528033154/https://cfi.co/awards/asia-pacific/2013/ashurst-in-australia-wins-2013-legal-award/"
+license: CFI-OAAL-1.0
 content_sha256: 00bedb399e4564f70097cff8e790e28c6a8accaac7a81cc516b6578549c49a87
 canonical: 474-ashurst-in-australia-wins-2013-legal-award.json
 ---
