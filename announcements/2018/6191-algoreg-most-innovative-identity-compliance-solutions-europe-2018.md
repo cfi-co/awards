@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190825094641
 wayback_snapshot_url: "http://web.archive.org/web/20190825094641/https://cfi.co/awards/professional-services/2018/algoreg-most-innovative-identity-compliance-solutions-europe-2018/"
+license: CFI-OAAL-1.0
 content_sha256: dddca544b5a8c3368726a654247f864494bc1076166bf0ceffbaea49a687c471
 canonical: 6191-algoreg-most-innovative-identity-compliance-solutions-europe-2018.json
 ---
