@@ -29,10 +29,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20201203235020",
-        "wayback_snapshot_url": "http://web.archive.org/web/20201203235020/https://cfi.co/awards/europe/2020/reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203235020/https://cfi.co/awards/europe/2020/reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8405\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Reitan.jpg\" alt=\"Reitan\" width=\"513\" height=\"258\" />\r\n<p style=\"text-align: justify;\">Reitan Convenience AS has a two-fold mission: to impress “the ultimate boss” — the customer — and to build the most substantial convenience store brand in Sweden. Reitan Convenience has 2,050 stores and over 12,000 employees across seven countries in Scandinavia and the Baltic region. The brand claims a leading position in its regional markets, and demonstrates ESG leadership and corporate responsibility at each point of the value chain. The company will publish a performance review this year in accordance with the UN’s Sustainable Development Goals, the Carbon Disclosure Project and the Global Reporting Initiative. Regional operations are united by six of the UN’s SDGs: good health, gender equality, decent work and economic growth, responsible consumption and production, climate action, and partnerships to achieve those targets. Reitan Convenience builds on a solid foundation of sustainable practice, providing quality food at fair and accessible prices. It has implemented efficiency measures to reduce energy consumption and adopted plant-based alternatives to single-use plastics. It offers environmentally friendly coffee cups and take-away cutlery. It also has a range of vegan and vegetarian products to give consumers healthy, cruelty-free snack options. It aims to support animal welfare with new policies that insist on free-range livestock in the supply chain. The CFI.co judging panel presents Reitan Convenience AS with the 2020 award for Best ESG Convenience Retailer (Nordics &amp; Baltics).</p>",
     "content_sha256": "67bcb9bfca43da3a196c279064d193b91cf17e199929af56c1738da566b1b3d8",
-    "record_sha256": "9dc7a68846e7027b8e9042afba8963b19dd9b32932f011d62e42f8d7b4278259"
+    "record_sha256": "40da02c865fdd26dcc3aee182384f4ab161a78ea2069f46e1914f848922012ae"
 }

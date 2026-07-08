@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235020
 wayback_snapshot_url: "http://web.archive.org/web/20201203235020/https://cfi.co/awards/europe/2020/reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 67bcb9bfca43da3a196c279064d193b91cf17e199929af56c1738da566b1b3d8
 canonical: 8402-reitan-convenience-as-best-esg-convenience-retailer-nordics-baltics-2020.json
 ---
