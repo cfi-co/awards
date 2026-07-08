@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813163351
 wayback_snapshot_url: "http://web.archive.org/web/20200813163351/https://cfi.co/awards/africa/2015/pison-housing-company-best-housing-finance-advisor-nigeria-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 136d4953d79a555ea0cc63c11f9b60cb816307c87e02a08244341bc3d70b85a8
 canonical: 2136-pison-housing-company-best-housing-finance-advisor-nigeria-2014.json
 ---
