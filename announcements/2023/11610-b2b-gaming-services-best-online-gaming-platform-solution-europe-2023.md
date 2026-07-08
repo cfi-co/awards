@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923165747
 wayback_snapshot_url: "http://web.archive.org/web/20230923165747/https://cfi.co/awards/europe/2023/b2b-gaming-services-best-online-gaming-platform-solution-europe-2023/"
+license: CFI-OAAL-1.0
 content_sha256: fb9deabc757e944383223c832829c201a0608e4119be9639b2579e5cc00d5fa7
 canonical: 11610-b2b-gaming-services-best-online-gaming-platform-solution-europe-2023.json
 ---
