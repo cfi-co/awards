@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228095458
 wayback_snapshot_url: "http://web.archive.org/web/20210228095458/https://cfi.co/awards/middle-east/2021/kuwait-international-bank-fastest-growing-islamic-bank-and-best-sharia-compliant-bank-mena-2020/"
+license: CFI-OAAL-1.0
 content_sha256: dc7a7eb291a97a714020ca641118e136fb2e01a8ed02f08f9b01c7e9eeee891f
 canonical: 8726-kuwait-international-bank-fastest-growing-islamic-bank-and-best-sharia-compliant.json
 ---
