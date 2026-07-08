@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20181028151849
 wayback_snapshot_url: "http://web.archive.org/web/20181028151849/https://cfi.co/awards/asia-pacific/2015/abc-banking-corporation-best-international-bank-indian-ocean-2015/"
+license: CFI-OAAL-1.0
 content_sha256: f0ad65a848833d582c8cb4c460b41eb88735e0831cd646f933ddde193b9901fc
 canonical: 4536-abc-banking-corporation-best-international-bank-indian-ocean-2015.json
 ---
