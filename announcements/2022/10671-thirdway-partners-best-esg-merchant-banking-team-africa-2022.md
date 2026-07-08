@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220828144801
 wayback_snapshot_url: "http://web.archive.org/web/20220828144801/https://cfi.co/awards/africa/2022/thirdway-partners-best-esg-merchant-banking-team-africa-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 3c748614312647a4e0bb0a8736a2d6b547c1921ec23ef64942dabc7b30c1639f
 canonical: 10671-thirdway-partners-best-esg-merchant-banking-team-africa-2022.json
 ---
