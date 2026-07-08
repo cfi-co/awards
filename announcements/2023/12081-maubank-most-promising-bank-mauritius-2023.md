@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231209231547
 wayback_snapshot_url: "http://web.archive.org/web/20231209231547/https://cfi.co/awards/africa/2023/maubank-most-promising-bank-mauritius-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 4acbf91354a691633b15784ad9f542ce8f8d92aeaed1a21384a0880442ef2ae3
 canonical: 12081-maubank-most-promising-bank-mauritius-2023.json
 ---
