@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203225535
 wayback_snapshot_url: "http://web.archive.org/web/20201203225535/https://cfi.co/awards/front/2018/capital-first-most-inspirational-management-buyout-india-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 48846dfb40547433ac22da1d0fd240dc111623168b9360206751d2ec76f9b18b
 canonical: 6267-capital-first-most-inspirational-management-buyout-india-2018.json
 ---
