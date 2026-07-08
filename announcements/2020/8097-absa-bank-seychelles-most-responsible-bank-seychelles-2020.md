@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923100735
 wayback_snapshot_url: "http://web.archive.org/web/20200923100735/https://cfi.co/awards/africa/2020/absa-bank-seychelles-most-responsible-bank-seychelles-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 260101c3c831c82486d1e5c42e88a22825b248af5c491d1ec75d463d460d7e7f
 canonical: 8097-absa-bank-seychelles-most-responsible-bank-seychelles-2020.json
 ---
