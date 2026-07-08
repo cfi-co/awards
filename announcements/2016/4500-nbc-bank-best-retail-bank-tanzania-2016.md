@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045204
 wayback_snapshot_url: "http://web.archive.org/web/20260524045204/https://cfi.co/awards/africa/2016/nbc-bank-best-retail-bank-tanzania-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 46a0fb43931f4c4e47488e909368777e2212631c3d1c94bd09c4550dab1e5f35
 canonical: 4500-nbc-bank-best-retail-bank-tanzania-2016.json
 ---
