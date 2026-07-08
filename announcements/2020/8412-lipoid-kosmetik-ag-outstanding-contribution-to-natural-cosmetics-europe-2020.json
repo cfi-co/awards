@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20201203231715",
-        "wayback_snapshot_url": "http://web.archive.org/web/20201203231715/https://cfi.co/awards/europe/2020/lipoid-kosmetik-ag-outstanding-contribution-to-natural-cosmetics-europe-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203231715/https://cfi.co/awards/europe/2020/lipoid-kosmetik-ag-outstanding-contribution-to-natural-cosmetics-europe-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8413\" src=\"https://cfi.co/awards/wp-content/uploads/2020/10/Lipoid-Kosmetik.jpg\" alt=\"Lipoid Kosmetik\" width=\"400\" height=\"110\" />\r\n<p style=\"text-align: justify;\">Lipoid Kosmetik is playing its part to make the beauty industry more natural, ethical and sustainable. Over the past 45 years, the Swiss company has earned a reputation as a pioneer of natural raw materials for the cosmetic and personal care industry. Lipoid Kosmetik, as part of the Lipoid Group (a manufacturer of pharmaceutical-grade lecithin and phospholipids for different industries), is a specialist in botanical actives and extracts. The company’s sustainability commitment is reflected throughout its processes, policies and product portfolio. Lipoid Kosmetik is an alchemist in nature’s pantry, using ecologically responsible practices to create high-value substances. Across the product range a steadily growing number are COSMOS (Natural and Organic Certification for Cosmetics) certified. The company developed sourcing procedures with strict documentation requirements — and all its suppliers must achieve full compliance. Lipoid Kosmetik has representatives in 60 countries across Europe, Asia Pacific, the Middle East, Africa and the Americas. A strong regulatory framework ensures collaboration on the same exacting standards. Lipoid Kosmetik has assembled a team with a diverse set of skills and industry experience. The company employees leverage their combined knowhow to stay ahead of market trends and customer needs by seizing opportunities for innovation and growth. The CFI.co judging panel is pleased to announce Lipoid Kosmetik AG as the 2020 winner of the Outstanding Contribution to Natural Cosmetics (Europe) award.</p>",
     "content_sha256": "10e1869900ed50711747108e5c7ec99ed8b4055c15a6de57387fd57f5df5ce8d",
-    "record_sha256": "68f4b3314e824d1004f14e002b295235f6d0b5f64f43a3beba3628a535f586bf"
+    "record_sha256": "3a346a732dfddc6399a7dc1f74d53b66df97c8c0b3b0df1467dcb27e31196e7c"
 }
