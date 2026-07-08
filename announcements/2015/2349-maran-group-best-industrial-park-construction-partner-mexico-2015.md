@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426100205
 wayback_snapshot_url: "http://web.archive.org/web/20190426100205/https://cfi.co/awards/latin-america/2015/maran-group-best-industrial-park-construction-partner-mexico-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 8d6ccdd2e08d9083c86bee53abd8ffe8ff6e9fe3cf8e4461d9f8689970832015
 canonical: 2349-maran-group-best-industrial-park-construction-partner-mexico-2015.json
 ---
