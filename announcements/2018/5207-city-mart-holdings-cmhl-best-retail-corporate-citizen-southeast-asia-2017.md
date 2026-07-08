@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021055416
 wayback_snapshot_url: "http://web.archive.org/web/20191021055416/https://cfi.co/awards/asia-pacific/2018/city-mart-holdings-cmhl-best-retail-corporate-citizen-southeast-asia-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 4c8d98e4c1e6cfdac084a95b1639f91893b027a7a81dbabddf8601aba31d32af
 canonical: 5207-city-mart-holdings-cmhl-best-retail-corporate-citizen-southeast-asia-2017.json
 ---
