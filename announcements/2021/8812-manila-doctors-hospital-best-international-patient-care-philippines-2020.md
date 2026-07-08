@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228104913
 wayback_snapshot_url: "http://web.archive.org/web/20210228104913/https://cfi.co/awards/asia-pacific/2021/manila-doctors-hospital-best-international-patient-care-philippines-2020/"
+license: CFI-OAAL-1.0
 content_sha256: b7a07d53db97718173981c0bcd69a604062bf0345fc1a41b1c61c4769085e1d4
 canonical: 8812-manila-doctors-hospital-best-international-patient-care-philippines-2020.json
 ---
