@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330005322
 wayback_snapshot_url: "http://web.archive.org/web/20230330005322/https://cfi.co/awards/latin-america/2022/nazca-best-esg-transformative-technology-investment-team-latin-america-2022/"
+license: CFI-OAAL-1.0
 content_sha256: ca97db6c1a881b56e3bc8521ec611640fdb2a61e80708d237c7dba1ab8bee1c6
 canonical: 10983-nazca-best-esg-transformative-technology-investment-team-latin-america-2022.json
 ---
