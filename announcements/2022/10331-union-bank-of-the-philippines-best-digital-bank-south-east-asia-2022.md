@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630143710
 wayback_snapshot_url: "http://web.archive.org/web/20220630143710/https://cfi.co/awards/asia-pacific/2022/union-bank-of-the-philippines-best-digital-bank-south-east-asia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 1fd496ac01e145ff1694e93bb0a9708f5af2fdb4320fabc5d3fac3957d9fc4ae
 canonical: 10331-union-bank-of-the-philippines-best-digital-bank-south-east-asia-2022.json
 ---
