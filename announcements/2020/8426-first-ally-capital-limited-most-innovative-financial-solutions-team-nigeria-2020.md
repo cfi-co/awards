@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203223220
 wayback_snapshot_url: "http://web.archive.org/web/20201203223220/https://cfi.co/awards/africa/2020/first-ally-capital-limited-most-innovative-financial-solutions-team-nigeria-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 69ccff5da9209f568403c883bd6b3fcefffdc1f4666fbf26a55933248b43e750
 canonical: 8426-first-ally-capital-limited-most-innovative-financial-solutions-team-nigeria-2020.json
 ---
