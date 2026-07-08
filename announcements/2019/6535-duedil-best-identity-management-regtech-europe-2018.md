@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200130233221
 wayback_snapshot_url: "http://web.archive.org/web/20200130233221/https://cfi.co/awards/professional-services/2019/duedil-best-identity-management-regtech-europe-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 61466d277653433cc066e2668633926e07999bc51fb7711f4d8bf5a6842c8514
 canonical: 6535-duedil-best-identity-management-regtech-europe-2018.json
 ---
