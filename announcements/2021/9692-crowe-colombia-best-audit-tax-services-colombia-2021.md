@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207221617
 wayback_snapshot_url: "http://web.archive.org/web/20211207221617/https://cfi.co/awards/latin-america/2021/crowe-colombia-best-audit-tax-services-colombia-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 838a4bd205a9fb4035c5f51bbb83843e9f5a3e7416b96c5d4395b6cff4312a59
 canonical: 9692-crowe-colombia-best-audit-tax-services-colombia-2021.json
 ---
