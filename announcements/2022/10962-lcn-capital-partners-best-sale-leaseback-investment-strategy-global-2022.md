@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208105158
 wayback_snapshot_url: "http://web.archive.org/web/20230208105158/https://cfi.co/awards/front/2022/lcn-capital-partners-best-sale-leaseback-investment-strategy-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 88103ee731bb8a21bbe496546534404346aa635dc4be429565ac1863354aa27c
 canonical: 10962-lcn-capital-partners-best-sale-leaseback-investment-strategy-global-2022.json
 ---
