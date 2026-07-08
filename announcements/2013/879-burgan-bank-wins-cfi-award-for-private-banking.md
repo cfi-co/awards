@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140410020032
 wayback_snapshot_url: "http://web.archive.org/web/20140410020032/http://cfi.co/awards/middle-east/2013/burgan-bank-wins-cfi-award-for-private-banking/"
+license: CFI-OAAL-1.0
 content_sha256: 4d76e297377673e2f2adbcba9904c919b7e8062bc81194b34d6874e2429d6e70
 canonical: 879-burgan-bank-wins-cfi-award-for-private-banking.json
 ---
