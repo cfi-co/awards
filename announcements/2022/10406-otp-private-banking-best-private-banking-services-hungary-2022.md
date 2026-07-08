@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820022232
 wayback_snapshot_url: "http://web.archive.org/web/20220820022232/https://cfi.co/awards/europe/2022/otp-private-banking-best-private-banking-services-hungary-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 5f9b29eeddb8c76ba07b6eeea8e10fd09ac8a51b72f060afe52d05c85485c594
 canonical: 10406-otp-private-banking-best-private-banking-services-hungary-2022.json
 ---
