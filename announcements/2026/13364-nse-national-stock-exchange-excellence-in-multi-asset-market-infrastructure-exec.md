@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528045354
 wayback_snapshot_url: "http://web.archive.org/web/20260528045354/https://cfi.co/awards/finance/exchanges-brokers/2026/nse-national-stock-exchange-excellence-in-multi-asset-market-infrastructure-execution-asia-2025/"
+license: CFI-OAAL-1.0
 content_sha256: db801912ea63a9746f288ec71083a1a58edb620c5f268218ea2d6397b674733f
 canonical: 13364-nse-national-stock-exchange-excellence-in-multi-asset-market-infrastructure-exec.json
 ---
