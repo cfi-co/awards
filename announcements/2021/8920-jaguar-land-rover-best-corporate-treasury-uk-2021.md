@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210322170158
 wayback_snapshot_url: "http://web.archive.org/web/20210322170158/https://cfi.co/awards/europe/2021/jaguar-land-rover-best-corporate-treasury-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: c198d51706af9bece540bf902ac0e10b02886e4da866f25031ab7dc296351b29
 canonical: 8920-jaguar-land-rover-best-corporate-treasury-uk-2021.json
 ---
