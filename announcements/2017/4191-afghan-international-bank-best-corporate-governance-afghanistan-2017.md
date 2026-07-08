@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921111009
 wayback_snapshot_url: "http://web.archive.org/web/20210921111009/https://cfi.co/awards/asia-pacific/2017/afghan-international-bank-best-corporate-governance-afghanistan-2017/"
+license: CFI-OAAL-1.0
 content_sha256: ab69cd48e7642c9e8ce4e85c96218d7a76693e9e4af1ff20d8bb47a215d0bcb5
 canonical: 4191-afghan-international-bank-best-corporate-governance-afghanistan-2017.json
 ---
