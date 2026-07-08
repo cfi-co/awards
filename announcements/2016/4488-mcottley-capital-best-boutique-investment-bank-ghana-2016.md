@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190526193413
 wayback_snapshot_url: "http://web.archive.org/web/20190526193413/https://cfi.co/awards/africa/2016/mcottley-capital-best-boutique-investment-bank-ghana-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 8e9688e3f5e3bebea66d4dc9a8084e01b1a983c5bcc3361b412e6076ea322730
 canonical: 4488-mcottley-capital-best-boutique-investment-bank-ghana-2016.json
 ---
