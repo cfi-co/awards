@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170109015128
 wayback_snapshot_url: "http://web.archive.org/web/20170109015128/http://cfi.co/awards/north-america/2016/ford-motor-co-best-mobility-innovation-united-states-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 314ac9dba4a92ef1c25d57d41e94e45ab30d728d4be8f6436ac8d504794b9149
 canonical: 3044-ford-motor-co-best-mobility-innovation-united-states-2016.json
 ---
