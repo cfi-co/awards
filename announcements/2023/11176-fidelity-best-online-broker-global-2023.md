@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330014748
 wayback_snapshot_url: "http://web.archive.org/web/20230330014748/https://cfi.co/awards/finance/exchanges-brokers/2023/fidelity-best-online-broker-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 17f3839b04c6afa49e0e45fc8a7b5d742b0dcbd3de3b492be10b5e6f0d1d488b
 canonical: 11176-fidelity-best-online-broker-global-2023.json
 ---
