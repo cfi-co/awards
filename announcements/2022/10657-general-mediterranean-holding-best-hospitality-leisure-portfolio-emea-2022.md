@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928191759
 wayback_snapshot_url: "http://web.archive.org/web/20220928191759/https://cfi.co/awards/finance/2022/general-mediterranean-holding-best-hospitality-leisure-portfolio-emea-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 6cbe92f2b7abf1449a19129cfc0dafb5f09ca929c64afefe002279ce0bbdcbd3
 canonical: 10657-general-mediterranean-holding-best-hospitality-leisure-portfolio-emea-2022.json
 ---
