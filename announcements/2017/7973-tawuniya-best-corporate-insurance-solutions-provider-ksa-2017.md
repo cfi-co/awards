@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225160925
 wayback_snapshot_url: "http://web.archive.org/web/20240225160925/https://cfi.co/awards/middle-east/2017/tawuniya-best-corporate-insurance-solutions-provider-ksa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 781bbbc0b14c3b6f99d02fcea1e696def7fa0f5d972fd7a77c03ec449d6770f3
 canonical: 7973-tawuniya-best-corporate-insurance-solutions-provider-ksa-2017.json
 ---
