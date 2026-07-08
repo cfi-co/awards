@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005735
 wayback_snapshot_url: "http://web.archive.org/web/20190723005735/https://cfi.co/awards/asia-pacific/2019/anand-rathi-private-wealth-management-best-wealth-manager-india-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 7ff5f3de1eddb121b4f2583acefe8d93536354a7b56f35133883d69b1ffd0acb
 canonical: 6691-anand-rathi-private-wealth-management-best-wealth-manager-india-2019.json
 ---
