@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200615105520
 wayback_snapshot_url: "http://web.archive.org/web/20200615105520/https://cfi.co/awards/north-america/2020/acadian-asset-management-most-innovative-investment-solutions-north-america-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 78ae97698fb37f21f144e1c834657cff035d0aed31decdbf10ad5ab974b9c514
 canonical: 7355-acadian-asset-management-most-innovative-investment-solutions-north-america-2020.json
 ---
