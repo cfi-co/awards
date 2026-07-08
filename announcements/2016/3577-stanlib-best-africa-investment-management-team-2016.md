@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524041432
 wayback_snapshot_url: "http://web.archive.org/web/20260524041432/https://cfi.co/awards/africa/2016/stanlib-best-africa-investment-management-team-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 6228c36018a6764f41e7cc43070a6098250197a7f9b99fa54a63ddca2da61499
 canonical: 3577-stanlib-best-africa-investment-management-team-2016.json
 ---
