@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20240623220052",
-        "wayback_snapshot_url": "http://web.archive.org/web/20240623220052/https://cfi.co/awards/front/2018/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20240623220052/https://cfi.co/awards/front/2018/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4996\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/PPS.jpg\" alt=\"\" width=\"265\" height=\"65\" />\r\n<p style=\"text-align: justify;\">Planning for the golden years of retirement has long been a priority, and a preoccupation, for many. In the Brazilian market, one company has become synonymous with trusted pension investment advice — PPS Portfolio Performance. Founded in 1996 by Everaldo Guedes de Azevedo França, PPS modernised the Brazilian market with innovative software to analyse investment portfolios, using objective metrics to measure risk and return. Although staff turnover at the company is low, there has been an influx of new talent which has resulted in an increase in mathematical modelling and a succession of sophisticated international investments. PPS prides itself on its history of conflict-free policies, eschewing partnerships with banks or portfolio managers that clash with investors’ interests. It applauds recent Brazilian legislation — bringing the country into line with long-established PPS policies — that limit conflicts of interest and crack-down on corruption. In an often-turbulent political situation, PPS pension funds remain strong and steady — another sign that public confidence in the company’s stewardship is sound and justified. For the second consecutive year, the CFI.co judging panel recognises PPS Portfolio Performance as a trusted and competent authority for optimising portfolio performance. The panel confers the award for the 2018 Best Investment Services for Pension Funds (Brazil).</p>",
     "content_sha256": "dc1314c19eff374be1e90098aef77cd60e03d8d3d2b66f3b3bcc20deadcfc377",
-    "record_sha256": "81f3bea8e5b875fd191633e0b4586f7a9f14b6120c432c3adcac50290b14b184"
+    "record_sha256": "31bd7b39082ab8dea8f03249a3c1f7b485b07424d2e085f6f90b21580159c161"
 }
