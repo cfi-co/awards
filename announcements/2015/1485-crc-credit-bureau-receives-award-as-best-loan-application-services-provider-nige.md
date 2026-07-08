@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810090027
 wayback_snapshot_url: "http://web.archive.org/web/20200810090027/https://cfi.co/awards/africa/2015/crc-credit-bureau-receives-award-as-best-loan-application-services-provider-nigeria-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 46c527f2b1be6183e64029d8d952886ea73b81b0e4ee8b1ec6bfbe3cf3156bed
 canonical: 1485-crc-credit-bureau-receives-award-as-best-loan-application-services-provider-nige.json
 ---
