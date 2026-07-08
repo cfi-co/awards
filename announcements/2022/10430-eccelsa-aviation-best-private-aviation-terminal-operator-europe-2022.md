@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630125352
 wayback_snapshot_url: "http://web.archive.org/web/20220630125352/https://cfi.co/awards/europe/2022/eccelsa-aviation-best-private-aviation-terminal-operator-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 5e2c8c05f774ddf65c3e87f74eff5c8b3a59a91e9bcaa6a1547f0bc0a3114f45
 canonical: 10430-eccelsa-aviation-best-private-aviation-terminal-operator-europe-2022.json
 ---
