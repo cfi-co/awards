@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207222247
 wayback_snapshot_url: "http://web.archive.org/web/20211207222247/https://cfi.co/awards/europe/2021/gnb-gestao-de-ativos-best-fixed-income-fund-manager-portugal-2021/"
+license: CFI-OAAL-1.0
 content_sha256: bb7698717c1602ebab6c57447d32120c33c469e58e5114f97b93c2c447483fff
 canonical: 9664-gnb-gestao-de-ativos-best-fixed-income-fund-manager-portugal-2021.json
 ---
