@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045935
 wayback_snapshot_url: "http://web.archive.org/web/20260524045935/https://cfi.co/awards/banking/2017/exotix-best-frontier-markets-investment-banking-team-uk-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 773a2f9901512b19352d47e1d5fc9fe46d5d65ed279261daf960f01b91cefd71
 canonical: 3842-exotix-best-frontier-markets-investment-banking-team-uk-2016.json
 ---
