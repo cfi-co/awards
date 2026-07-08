@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524041533
 wayback_snapshot_url: "http://web.archive.org/web/20260524041533/https://cfi.co/awards/africa/2016/tradex-most-socially-responsible-management-team-central-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 7b600d30b3008c811aa303f9730530cdb24a34a2dce8760c9a63d259ffe53fd2
 canonical: 3586-tradex-most-socially-responsible-management-team-central-africa-2016.json
 ---
