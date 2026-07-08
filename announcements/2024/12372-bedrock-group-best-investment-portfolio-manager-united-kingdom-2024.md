@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713123838
 wayback_snapshot_url: "http://web.archive.org/web/20240713123838/https://cfi.co/awards/europe/2024/bedrock-group-best-investment-portfolio-manager-united-kingdom-2024/"
+license: CFI-OAAL-1.0
 content_sha256: d0e16ea511e2c31e3e693be051b186b87fd6e0b4d997451e63f4b8177d9f2738
 canonical: 12372-bedrock-group-best-investment-portfolio-manager-united-kingdom-2024.json
 ---
