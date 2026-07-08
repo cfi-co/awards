@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528042752
 wayback_snapshot_url: "http://web.archive.org/web/20260528042752/https://cfi.co/awards/europe/2023/frank-investments-best-portfolio-construction-strategy-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: fa1d984fe6fc53c0586c4a135b48a2e9b0ac58510fd00d4368a85b74851e532a
 canonical: 11845-frank-investments-best-portfolio-construction-strategy-uk-2023.json
 ---
