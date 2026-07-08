@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524044005
 wayback_snapshot_url: "http://web.archive.org/web/20260524044005/https://cfi.co/awards/professional-services/2016/great-american-insurance-group-best-pc-insurer-north-america-2016/"
+license: CFI-OAAL-1.0
 content_sha256: ad2a9de27785f7eb76c7d5e02781fff8f6fa0a8303f224c5838eb712b42d6da9
 canonical: 4130-great-american-insurance-group-best-pc-insurer-north-america-2016.json
 ---
