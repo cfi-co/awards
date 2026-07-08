@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527043702
 wayback_snapshot_url: "http://web.archive.org/web/20260527043702/https://cfi.co/awards/development/2022/hungarian-investment-promotion-agency-best-strategic-investment-partner-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 2d21aed00fc582c9134faa557247eebc50ae841fd139dd2d69971ad0570d9240
 canonical: 10824-hungarian-investment-promotion-agency-best-strategic-investment-partner-europe-2.json
 ---
