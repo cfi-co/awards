@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523045220
 wayback_snapshot_url: "http://web.archive.org/web/20260523045220/https://cfi.co/awards/africa/2015/ceezali-best-infractructure-epc-partner-nigeria-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 0d167bc6604054c660e4189f8932c52dd6425200cafacd779cee5d6d5c65a6a9
 canonical: 5102-ceezali-best-infractructure-epc-partner-nigeria-2015.json
 ---
