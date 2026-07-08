@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614192701
 wayback_snapshot_url: "http://web.archive.org/web/20210614192701/https://cfi.co/awards/europe/2021/march-asset-management-best-thematic-funds-management-team-spain-2021/"
+license: CFI-OAAL-1.0
 content_sha256: cf71d2afef9559a67ca8b20a06318ffbc6e447476e03fb08ee98c6b76ebb0648
 canonical: 9218-march-asset-management-best-thematic-funds-management-team-spain-2021.json
 ---
