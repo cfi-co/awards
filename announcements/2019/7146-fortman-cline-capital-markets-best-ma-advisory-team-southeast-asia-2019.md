@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200713220115
 wayback_snapshot_url: "http://web.archive.org/web/20200713220115/https://cfi.co/awards/asia-pacific/2019/fortman-cline-capital-markets-best-ma-advisory-team-southeast-asia-2019/"
+license: CFI-OAAL-1.0
 content_sha256: bdc635991e37d2d28c0a3f4bf9114a7b18372569a57d71b95f73f053579cae1b
 canonical: 7146-fortman-cline-capital-markets-best-ma-advisory-team-southeast-asia-2019.json
 ---
