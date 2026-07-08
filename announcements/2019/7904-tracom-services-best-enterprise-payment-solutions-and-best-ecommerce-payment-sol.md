@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525070850
 wayback_snapshot_url: "http://web.archive.org/web/20260525070850/https://cfi.co/awards/africa/2019/tracom-services-best-enterprise-payment-solutions-and-best-ecommerce-payment-solutions-east-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: ca76144bebf1850e77e26e469f0407f3860b3081c248ba38f0b6e40b2fe96022
 canonical: 7904-tracom-services-best-enterprise-payment-solutions-and-best-ecommerce-payment-sol.json
 ---
