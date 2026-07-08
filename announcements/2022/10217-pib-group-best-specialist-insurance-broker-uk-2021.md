@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528113815
 wayback_snapshot_url: "http://web.archive.org/web/20220528113815/https://cfi.co/awards/europe/2022/pib-group-best-specialist-insurance-broker-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: c14a481998893c7b84e7bea700f166128824c6b8fcf7a8dcebe50b0ab27ebbf6
 canonical: 10217-pib-group-best-specialist-insurance-broker-uk-2021.json
 ---
