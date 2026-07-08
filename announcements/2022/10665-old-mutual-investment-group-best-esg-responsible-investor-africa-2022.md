@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220824135335
 wayback_snapshot_url: "http://web.archive.org/web/20220824135335/https://cfi.co/awards/africa/2022/old-mutual-investment-group-best-esg-responsible-investor-africa-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 3f1a94d93e88b6b3443e73ade070a6cc0ac706cdd7dd698494676c46ec1feb60
 canonical: 10665-old-mutual-investment-group-best-esg-responsible-investor-africa-2022.json
 ---
