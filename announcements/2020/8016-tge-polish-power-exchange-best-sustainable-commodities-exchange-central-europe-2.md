@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527040326
 wayback_snapshot_url: "http://web.archive.org/web/20260527040326/https://cfi.co/awards/europe/2020/tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 0009a6241fa54122868196e3ef324cf49d1f7c6fce76dfb9d1ca99584610c147
 canonical: 8016-tge-polish-power-exchange-best-sustainable-commodities-exchange-central-europe-2.json
 ---
