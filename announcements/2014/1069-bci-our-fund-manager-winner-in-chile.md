@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203062308
 wayback_snapshot_url: "http://web.archive.org/web/20221203062308/https://cfi.co/awards/finance/2014/bci-our-fund-manager-winner-in-chile/"
+license: CFI-OAAL-1.0
 content_sha256: 4ececaaa2e1f01a191726724e77c2fe011f04caa89f9b53750922fa31c32d20a
 canonical: 1069-bci-our-fund-manager-winner-in-chile.json
 ---
