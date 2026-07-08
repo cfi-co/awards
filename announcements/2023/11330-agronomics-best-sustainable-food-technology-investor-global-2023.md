@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230512122146
 wayback_snapshot_url: "http://web.archive.org/web/20230512122146/https://cfi.co/awards/best-practice/sustainability/2023/agronomics-best-sustainable-food-technology-investor-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: b5d6d32a9040a50b7dd1e4fc98081d5fda0a1c47827f0db91f28ce5dfb86870b
 canonical: 11330-agronomics-best-sustainable-food-technology-investor-global-2023.json
 ---
