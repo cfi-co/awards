@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524044519
 wayback_snapshot_url: "http://web.archive.org/web/20260524044519/https://cfi.co/awards/asia-pacific/2016/century-insurance-png-best-regional-insurance-company-papua-new-guinea-2016/"
+license: CFI-OAAL-1.0
 content_sha256: b52dd7ff3168ff3642da4886742315c31bda52426201be3867ab3123aadf4cf1
 canonical: 4428-century-insurance-png-best-regional-insurance-company-papua-new-guinea-2016.json
 ---
