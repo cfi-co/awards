@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528041146
 wayback_snapshot_url: "http://web.archive.org/web/20260528041146/https://cfi.co/awards/middle-east/2022/shuaa-capital-best-sukuk-expert-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 4a20a0e1b3312f2dfad838e87890992b42f08be16e50b92bf8afdaf563bf3ae8
 canonical: 10226-shuaa-capital-best-sukuk-expert-global-2021.json
 ---
