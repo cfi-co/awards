@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528035739
 wayback_snapshot_url: "http://web.archive.org/web/20260528035739/https://cfi.co/awards/europe/2021/trumpf-venture-best-technology-investment-partner-germany-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 1cd0a1b6e3fb2d4aa778d7ea17fd3620116e2feea7bfc66e7f938c787b14137c
 canonical: 9278-trumpf-venture-best-technology-investment-partner-germany-2021.json
 ---
