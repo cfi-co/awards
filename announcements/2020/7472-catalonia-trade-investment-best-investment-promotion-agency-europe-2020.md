@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920103702
 wayback_snapshot_url: "http://web.archive.org/web/20200920103702/https://cfi.co/awards/europe/2020/catalonia-trade-investment-best-investment-promotion-agency-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 53cbef497f72876ec65aa9146fadd15a9e67383085697915993221219b0a5046
 canonical: 7472-catalonia-trade-investment-best-investment-promotion-agency-europe-2020.json
 ---
