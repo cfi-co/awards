@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20150807014322",
-        "wayback_snapshot_url": "http://web.archive.org/web/20150807014322/http://cfi.co/awards/asia-pacific/2013/mori-hamada-matsumoto-wins-japan-dispute-resolution-award/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20150807014322/http://cfi.co/awards/asia-pacific/2013/mori-hamada-matsumoto-wins-japan-dispute-resolution-award/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1046\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/mhm.jpg\" alt=\"mhm\" width=\"500\" height=\"46\" /></p>\r\n<p style=\"text-align: justify;\"><strong>MHM is the CFI.co Best Dispute Resolution Team winner in our 2013 Legal Awards programme.</strong> According to the Judging Panel, “The firm’s strong litigation work and excellent dispute resolution skills are valued core competencies of long standing.” This unrelenting dedication to the quality and depth of services offered has resulted in MSM receiving the 2013 CFI.co Dispute Resolution Award, Japan. The judging panel applauds a firm that combines an aggressive and often victorious court room presence with considerations of a more pragmatic nature such as the clients’ best economic interests and the most appropriate resolution of the issue at hand.</p>",
     "content_sha256": "5afa256e09f84e9b4af11c390f3d6e4a196953e3afd1191a113d40300e79ad57",
-    "record_sha256": "6945a06dc969137a1897547e1ed827f3d2b8f31a9be5e01be31587085a5d05f5"
+    "record_sha256": "fae31e0989640a6b6b7e6372bf2c3989f8a969831585dea4fcc9e2c118faf4cb"
 }
