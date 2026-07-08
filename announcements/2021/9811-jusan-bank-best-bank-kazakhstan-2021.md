@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207204220
 wayback_snapshot_url: "http://web.archive.org/web/20211207204220/https://cfi.co/awards/asia-pacific/2021/jusan-bank-best-bank-kazakhstan-2021/"
+license: CFI-OAAL-1.0
 content_sha256: dc651273e62c5bf9672352a74701a1f9734ead80715e4677fd0066a2c59e4b24
 canonical: 9811-jusan-bank-best-bank-kazakhstan-2021.json
 ---
