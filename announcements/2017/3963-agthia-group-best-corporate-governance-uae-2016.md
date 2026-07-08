@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820014808
 wayback_snapshot_url: "http://web.archive.org/web/20220820014808/https://cfi.co/awards/middle-east/2017/agthia-group-best-corporate-governance-uae-2016/"
+license: CFI-OAAL-1.0
 content_sha256: d01af686bd15021942b30e3c7546f686cb19d37bc69bd36164905e99f6d3c10b
 canonical: 3963-agthia-group-best-corporate-governance-uae-2016.json
 ---
