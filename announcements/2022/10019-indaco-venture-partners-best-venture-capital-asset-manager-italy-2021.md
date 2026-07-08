@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220503192940
 wayback_snapshot_url: "http://web.archive.org/web/20220503192940/https://cfi.co/awards/europe/2022/indaco-venture-partners-best-venture-capital-asset-manager-italy-2021/"
+license: CFI-OAAL-1.0
 content_sha256: e487b190356169b4c720b34e04710c17d25009138f01574270743fafe543fb6b
 canonical: 10019-indaco-venture-partners-best-venture-capital-asset-manager-italy-2021.json
 ---
