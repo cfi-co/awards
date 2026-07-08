@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208094947
 wayback_snapshot_url: "http://web.archive.org/web/20230208094947/https://cfi.co/awards/finance/2022/pgm-global-inc-best-global-portfolio-strategy-team-north-america-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 24e6d2e91420119f31c1e181400dfb8cd34ecce75eb6181a9f041037f29a66ff
 canonical: 10956-pgm-global-inc-best-global-portfolio-strategy-team-north-america-2022.json
 ---
