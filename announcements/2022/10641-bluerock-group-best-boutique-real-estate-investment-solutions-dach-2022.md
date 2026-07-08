@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928184239
 wayback_snapshot_url: "http://web.archive.org/web/20220928184239/https://cfi.co/awards/europe/2022/bluerock-group-best-boutique-real-estate-investment-solutions-dach-2022/"
+license: CFI-OAAL-1.0
 content_sha256: c96492fbc8faa5723d2b6c89a421c7a6841c32f745e4d5cc10db321a5ee76001
 canonical: 10641-bluerock-group-best-boutique-real-estate-investment-solutions-dach-2022.json
 ---
