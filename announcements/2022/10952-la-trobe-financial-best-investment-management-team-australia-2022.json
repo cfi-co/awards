@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20230208110241",
-        "wayback_snapshot_url": "http://web.archive.org/web/20230208110241/https://cfi.co/awards/asia-pacific/2022/la-trobe-financial-best-investment-management-team-australia-2022/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20230208110241/https://cfi.co/awards/asia-pacific/2022/la-trobe-financial-best-investment-management-team-australia-2022/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-10075\" src=\"https://cfi.co/awards/wp-content/uploads/2022/02/La-Trobe-Financial.jpg\" alt=\"La Trobe Financial\" width=\"400\" height=\"186\" />\r\n<p style=\"text-align: justify;\">La Trobe Financial takes pride in a well-earned reputation for strong portfolio performance. The Australian firm has refined its signature approach over seven decades of institutional and retail experience. As a diversified credit asset specialist, La Trobe Financial serves clients primarily through its two complimentary business segments: investments and loans. The Asset Management segment of La Trobe Financial is responsible for $8.5bn of the Group’s $15bn in AUM — and, since its inception, has never lost a single cent in pooled offerings. The firm stands in a class of its own, with a track record of impeccable performance driven by a team of committed investment experts. The team takes a bottom-up approach to investor relationships, providing them with deep insights and transparent portfolio management. The firm’s CEO, Chris Andrews, sets the tone for the team, reminding them of the sacrosanct pact with their clients: “Everything we do is predicated on the fact that we are managing other people’s money, we are trusted stewards of people’s futures.” As such, the team tends to build granular pools that lend themselves to a built-in conservatism. This strategy has proven successful across economic cycles. Despite the pandemic-induced volatility in financial markets, La Trobe Financial achieved strong results. It has carefully navigated the uncertainty of the past 12 months and feels confident that its portfolios can withstand the market volatility caused by current conflicts and inflationary pressures. The CFI.co judging panel presents La Trobe Financial — a repeat winner — with the 2022 Best Investment Management Team (Australia) award.</p>",
     "content_sha256": "d3bfbc2fc5440fad4b4e08be576da1ce3a1b174cb7d44e1e04e59dfc7e192fc3",
-    "record_sha256": "32a4b1b0bce75d3a7af49fed94c99e981bb412627f8a0869481bf649cc886231"
+    "record_sha256": "088fcaaefc005ae9c547be3768a26f49592263a6370b18216fcecbd8da28ebc4"
 }
