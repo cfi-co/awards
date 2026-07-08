@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150708172006
 wayback_snapshot_url: "http://web.archive.org/web/20150708172006/http://cfi.co/awards/middle-east/2014/padico-our-2014-award-winner-for-twenty-years-of-support-to-palestine/"
+license: CFI-OAAL-1.0
 content_sha256: 54f41bb4b26d057d499e6334dc1e932d3be5eb3c87fcf7060a8f8dc62736b280
 canonical: 1388-padico-our-2014-award-winner-for-twenty-years-of-support-to-palestine.json
 ---
