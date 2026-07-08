@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724011729
 wayback_snapshot_url: "http://web.archive.org/web/20210724011729/https://cfi.co/awards/asia-pacific/2019/air-austral-best-airline-financial-management-team-indian-ocean-2019/"
+license: CFI-OAAL-1.0
 content_sha256: c2c79e971d9d749f492048a93175540d1819b0721644744817789062e62258a1
 canonical: 7930-air-austral-best-airline-financial-management-team-indian-ocean-2019.json
 ---
