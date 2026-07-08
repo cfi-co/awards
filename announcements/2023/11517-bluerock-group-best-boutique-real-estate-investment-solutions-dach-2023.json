@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20230603015644",
-        "wayback_snapshot_url": "http://web.archive.org/web/20230603015644/https://cfi.co/awards/europe/2023/bluerock-group-best-boutique-real-estate-investment-solutions-dach-2023/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20230603015644/https://cfi.co/awards/europe/2023/bluerock-group-best-boutique-real-estate-investment-solutions-dach-2023/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7849\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Blue-Rock-Group.jpg\" alt=\"Blue-Rock-Group\" width=\"378\" height=\"181\" />\r\n<p style=\"text-align: justify;\">The German housing shortage has hit a 20-year high — making BlueRock’s real estate investment solutions particularly relevant and timely. In Berlin, a red-hot rental market, there is need for upwards of 205,000 apartment units. BlueRock started reforming attics, adding extra storeys and creating side constructions to alleviate some of the rental pressure. In 2022, the group launched its second Berlin residential real estate fund, expanding the city’s planned investment volume to total €300m. As of April 2023, the Swiss group manages a real estate portfolio of 181 assets with a market value of &gt;1.5billion EUR. It invests in and manages half a million square metres of prime residential and office properties across Germany, Switzerland and Denmark. The group partners with a range of European co-investors, including private and institutional investors as well as family offices and asset managers, to solve a critical infrastructural and societal challenge while also delivering high investor returns in a sustainable manner. ESG considerations factor heavily throughout the investment cycle. With each investment, BlueRock aims to improve the quality of people’s living and working conditions by increasing the supply of modern, affordable and sustainable housing and office spaces. BlueRock continues to pursue the reduction of greenhouse emissions and resource consumption across its operations and portfolio properties, collaborating with investors and partners to combat climate change and social inequality. The CFI.co judging panel presents BlueRock Group — a four-time programme winner — with the 2023 award for Best Boutique Real Estate Investment Solutions (DACH).</p>",
     "content_sha256": "891b17d4906d4c4b59e0298c0626a97c5de9f8ce02636525238495641259e68f",
-    "record_sha256": "2f9ca711e8d1489442cd9351cfcc058813b5130de3da55dbfff4901f02afe930"
+    "record_sha256": "fd87f1a9611b6ce36125a0c421dcf0f58bea5d5e58b62e982cd2d1760dd680db"
 }
