@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251206003913
 wayback_snapshot_url: "http://web.archive.org/web/20251206003913/https://cfi.co/awards/europe/2025/tekcapital-leadership-in-high-value-intellectual-property-strategies-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 54fb9577f22247e633c4e411a2029a25791b0b15c3b3abe134e6fe6c3fe299e8
 canonical: 13218-tekcapital-leadership-in-high-value-intellectual-property-strategies-global-2025.json
 ---
