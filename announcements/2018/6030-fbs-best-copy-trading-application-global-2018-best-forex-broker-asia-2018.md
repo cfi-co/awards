@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210908184242
 wayback_snapshot_url: "http://web.archive.org/web/20210908184242/https://cfi.co/awards/front/2018/fbs-best-copy-trading-application-global-2018-best-forex-broker-asia-2018/"
+license: CFI-OAAL-1.0
 content_sha256: b4ef8cda91fd7e1d2370cd4fca66858a70eb328b14bd72ff6cc3b0c1f7be116d
 canonical: 6030-fbs-best-copy-trading-application-global-2018-best-forex-broker-asia-2018.json
 ---
