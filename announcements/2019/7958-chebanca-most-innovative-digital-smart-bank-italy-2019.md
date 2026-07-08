@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724005031
 wayback_snapshot_url: "http://web.archive.org/web/20210724005031/https://cfi.co/awards/europe/2019/chebanca-most-innovative-digital-smart-bank-italy-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 0496537107fde09dbaa85b94a0442aac482cfadfd5822cf94b7273ce7086b927
 canonical: 7958-chebanca-most-innovative-digital-smart-bank-italy-2019.json
 ---
