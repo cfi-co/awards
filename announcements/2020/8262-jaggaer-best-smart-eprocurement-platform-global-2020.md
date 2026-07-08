@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201119151949
 wayback_snapshot_url: "http://web.archive.org/web/20201119151949/https://cfi.co/awards/north-america/2020/jaggaer-best-smart-eprocurement-platform-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 204040a4496d583729384b4106d5d36cd27aa3bc3a71743a6313cb9a32f4170f
 canonical: 8262-jaggaer-best-smart-eprocurement-platform-global-2020.json
 ---
