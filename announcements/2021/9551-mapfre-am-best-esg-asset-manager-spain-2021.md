@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210902113340
 wayback_snapshot_url: "http://web.archive.org/web/20210902113340/https://cfi.co/awards/europe/2021/mapfre-am-best-esg-asset-manager-spain-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 8196279220aa7401604c10d554678f26d818239c57796509ff67baddf66d945c
 canonical: 9551-mapfre-am-best-esg-asset-manager-spain-2021.json
 ---
