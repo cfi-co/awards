@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528100613
 wayback_snapshot_url: "http://web.archive.org/web/20220528100613/https://cfi.co/awards/asia-pacific/2022/bank-pembangunan-malaysia-berhad-best-development-bank-south-east-asia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 7c7e80510bad3e135f01190fe6f767a5c918cd91201e7c9d10233e3d5ba1c8cd
 canonical: 10287-bank-pembangunan-malaysia-berhad-best-development-bank-south-east-asia-2022.json
 ---
