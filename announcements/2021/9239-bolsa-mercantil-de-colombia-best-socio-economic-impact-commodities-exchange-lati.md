@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210527184318
 wayback_snapshot_url: "http://web.archive.org/web/20210527184318/https://cfi.co/awards/finance/2021/bolsa-mercantil-de-colombia-best-socio-economic-impact-commodities-exchange-latin-america-2021/"
+license: CFI-OAAL-1.0
 content_sha256: c67c0c6d7e93df1eac9146a02dbc00f6dc8363ed380afc998c76486526cb32fc
 canonical: 9239-bolsa-mercantil-de-colombia-best-socio-economic-impact-commodities-exchange-lati.json
 ---
