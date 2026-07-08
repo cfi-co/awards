@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20220811153831",
-        "wayback_snapshot_url": "http://web.archive.org/web/20220811153831/https://cfi.co/awards/north-america/2022/resaas-best-online-real-estate-platform-canada-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20220811153831/https://cfi.co/awards/north-america/2022/resaas-best-online-real-estate-platform-canada-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9982\" src=\"https://cfi.co/awards/wp-content/uploads/2022/01/RESAAS.jpg\" alt=\"RESAAS\" width=\"400\" height=\"150\" />\r\n<p style=\"text-align: justify;\">Real estate is a social industry, about meeting people and making connections. Canadian tech company RESAAS has brought that industry to the modern age, providing a platform for agents, brokers, realtors and multiple-listing services (MLSs) to take their business to the next level. The platform is open to all agents, regardless of affiliation or geography, but closed to the general public to give agents a competitive edge. RESAAS hasn’t reinvented the wheel; it’s simply built the technology to connect real estate agents at a worldwide scale, facilitating unprecedented referral business and market insights. Agents enter data directly into the platform — which is hosted securely in Microsoft’s Enterprise Cloud — providing RESAAS with a vast supply of information to analyse concerning migratory trends, buyer movements and second-home appetite. RESAAS has brought together the world’s largest network of real estate professionals, more than 500,000 industry peers collaborating and sharing opportunities. The platform was designed to allow flexible integrations with existing and emerging enterprise solutions for brokers and MLS companies. It’s an industry favourite, with agents setting their own referral fees and realtors benefitting from thousands of fresh listings, referrals and requests. RESAAS started 10 years ago with a good idea and a great team — most of whom are still with the company, helping drive innovation and growth. Next up, the company will replicate its residential platform for commercial real estate. The CFI.co jury presents RESAAS with the 2021 Best Online Real Estate Platform (Canada) award.</p>",
     "content_sha256": "3ae88adbdfbcf41b9c452467a9642c6dc903b198a8fbd3725173d5a225609f1d",
-    "record_sha256": "32c931a727dcb1b6278ac84b56bd7a98498741ba6876f81bb26468dbaa23c049"
+    "record_sha256": "ef6cdf626c429cc6b4306573cc2f7ae5d906f822e3540124003503f8554cbe0d"
 }
