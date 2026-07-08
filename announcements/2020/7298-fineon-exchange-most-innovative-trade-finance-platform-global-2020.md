@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200514145019
 wayback_snapshot_url: "http://web.archive.org/web/20200514145019/https://cfi.co/awards/finance/2020/fineon-exchange-most-innovative-trade-finance-platform-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: f1b3e26ce93259ebd2fec7668588485b09ee10c55d78cf35f83b0c0eaee1d274
 canonical: 7298-fineon-exchange-most-innovative-trade-finance-platform-global-2020.json
 ---
