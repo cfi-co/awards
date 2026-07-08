@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20181021151401
 wayback_snapshot_url: "http://web.archive.org/web/20181021151401/https://cfi.co/awards/europe/2018/cimco-marine-best-industrial-exporter-ipo-sweden-2017/"
+license: CFI-OAAL-1.0
 content_sha256: f391edc3759b6b32d53576068b367eb8a8c9091cb942f1c5a5c0dcd4d0ba4eef
 canonical: 5505-cimco-marine-best-industrial-exporter-ipo-sweden-2017.json
 ---
