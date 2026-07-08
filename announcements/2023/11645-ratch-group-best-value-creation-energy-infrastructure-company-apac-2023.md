@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923181718
 wayback_snapshot_url: "http://web.archive.org/web/20230923181718/https://cfi.co/awards/asia-pacific/2023/ratch-group-best-value-creation-energy-infrastructure-company-apac-2023/"
+license: CFI-OAAL-1.0
 content_sha256: facbdb19ee0274d77ad486d71cb10f3b04dac6fdbc546b3707db28a7c3f237e7
 canonical: 11645-ratch-group-best-value-creation-energy-infrastructure-company-apac-2023.json
 ---
