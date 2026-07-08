@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191215001255
 wayback_snapshot_url: "http://web.archive.org/web/20191215001255/https://cfi.co/awards/industries/2019/mindmaze-best-ai-mixed-reality-team-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: e353ac3fca68d07c7ca11fcfb29135dcd1d1ea7b7464d4ca9e5eabea3b34ca40
 canonical: 7002-mindmaze-best-ai-mixed-reality-team-global-2019.json
 ---
