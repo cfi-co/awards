@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191021052700
 wayback_snapshot_url: "http://web.archive.org/web/20191021052700/https://cfi.co/awards/middle-east/2018/steel-wood-industries-best-sustainable-process-innovation-uae-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 46e01da12c705ef4e55ef92ca4e363572a0a9d6c7d89f7ce2952b4a28a061ef4
 canonical: 5800-steel-wood-industries-best-sustainable-process-innovation-uae-2018.json
 ---
