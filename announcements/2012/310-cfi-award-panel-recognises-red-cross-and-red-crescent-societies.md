@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409184110
 wayback_snapshot_url: "http://web.archive.org/web/20140409184110/http://cfi.co/awards/corporate-leadership/2012/cfi-award-panel-recognises-red-cross-and-red-crescent-societies/"
+license: CFI-OAAL-1.0
 content_sha256: ba201aa1ba38cd96cdfb1836f6c5d119f8e087ffb9f1f15f83967f2434b0d5a9
 canonical: 310-cfi-award-panel-recognises-red-cross-and-red-crescent-societies.json
 ---
