@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112195233
 wayback_snapshot_url: "http://web.archive.org/web/20241112195233/https://cfi.co/awards/banking/2024/bac-balkan-advisory-company-best-boutique-investment-bank-cee-2024/"
+license: CFI-OAAL-1.0
 content_sha256: f42ba66018bf24aacdb2469461f6fe4140b9e6abe0484d14d4c6c0c9e1c41d84
 canonical: 12611-bac-balkan-advisory-company-best-boutique-investment-bank-cee-2024.json
 ---
