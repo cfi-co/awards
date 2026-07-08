@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250207233901
 wayback_snapshot_url: "http://web.archive.org/web/20250207233901/https://cfi.co/awards/europe/2024/eric-sturdza-investments-excellence-in-global-equity-and-fixed-income-strategies-uk-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 51111f00f46411c46db88820dc5315e466ce3f481010c2b6f27cd2f86520fb29
 canonical: 12536-eric-sturdza-investments-excellence-in-global-equity-and-fixed-income-strategies.json
 ---
