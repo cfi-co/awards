@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220528102639
 wayback_snapshot_url: "http://web.archive.org/web/20220528102639/https://cfi.co/awards/industries/2016/tenerife-free-zone-zft-best-free-trade-zone-partner-atlantic-corridor-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 3aa75263ee38bce87cca049343f08aa4bb94ef7c92e1653220edca47775cedcf
 canonical: 3573-tenerife-free-zone-zft-best-free-trade-zone-partner-atlantic-corridor-2016.json
 ---
