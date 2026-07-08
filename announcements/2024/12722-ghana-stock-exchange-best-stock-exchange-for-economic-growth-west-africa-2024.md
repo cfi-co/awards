@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241202171924
 wayback_snapshot_url: "http://web.archive.org/web/20241202171924/https://cfi.co/awards/africa/2024/ghana-stock-exchange-best-stock-exchange-for-economic-growth-west-africa-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 7f7ba96434b88949e809397c75c23f7d06dab8891a9508862f2c54231dfb4ac5
 canonical: 12722-ghana-stock-exchange-best-stock-exchange-for-economic-growth-west-africa-2024.json
 ---
