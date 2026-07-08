@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713133817
 wayback_snapshot_url: "http://web.archive.org/web/20240713133817/https://cfi.co/awards/middle-east/2024/hyperpay-outstanding-contribution-to-payment-integration-mena-2024/"
+license: CFI-OAAL-1.0
 content_sha256: d12ebd61ebdc856f54e5b52b03a257412dbd62547cad4c39bf19064b7519843e
 canonical: 12386-hyperpay-outstanding-contribution-to-payment-integration-mena-2024.json
 ---
