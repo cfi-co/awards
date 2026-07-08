@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525045128
 wayback_snapshot_url: "http://web.archive.org/web/20260525045128/https://cfi.co/awards/europe/2017/talgo-most-innovative-rail-technology-global-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 09da5d7c3c0125be9bd16dafbd8e940d63d29323817a02d0c1441c423011bfd0
 canonical: 4836-talgo-most-innovative-rail-technology-global-2017.json
 ---
