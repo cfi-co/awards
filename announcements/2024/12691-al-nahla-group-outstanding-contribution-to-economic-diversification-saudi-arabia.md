@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241207061659
 wayback_snapshot_url: "http://web.archive.org/web/20241207061659/https://cfi.co/awards/middle-east/2024/al-nahla-group-outstanding-contribution-to-economic-diversification-saudi-arabia-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 12d9f4425f023c5bbb6652bc9370d081b594a1549041386d71190beb190a92fc
 canonical: 12691-al-nahla-group-outstanding-contribution-to-economic-diversification-saudi-arabia.json
 ---
