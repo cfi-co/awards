@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210521070649
 wayback_snapshot_url: "http://web.archive.org/web/20210521070649/https://cfi.co/awards/finance/2019/hypoport-ag-best-financial-technology-network-europe-2019/"
+license: CFI-OAAL-1.0
 content_sha256: bd9a3f62d7424829c0c47557f639d4a9f8938ef48a44561586fd2061df716261
 canonical: 7060-hypoport-ag-best-financial-technology-network-europe-2019.json
 ---
