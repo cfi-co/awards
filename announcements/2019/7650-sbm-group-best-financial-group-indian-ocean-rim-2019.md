@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724004447
 wayback_snapshot_url: "http://web.archive.org/web/20210724004447/https://cfi.co/awards/asia-pacific/2019/sbm-group-best-financial-group-indian-ocean-rim-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 667ea23dc9ac8809a4aa56c5761568a65dbbfdb529cbe7fcafc2349e8c135394
 canonical: 7650-sbm-group-best-financial-group-indian-ocean-rim-2019.json
 ---
