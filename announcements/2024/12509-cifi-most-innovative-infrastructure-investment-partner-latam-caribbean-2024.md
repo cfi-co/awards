@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241009092029
 wayback_snapshot_url: "http://web.archive.org/web/20241009092029/https://cfi.co/awards/latin-america/2024/cifi-most-innovative-infrastructure-investment-partner-latam-caribbean-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 33b8e7a718f82dac3138f3d8578d9113181f7da639163e5f7f25495fd820b2f3
 canonical: 12509-cifi-most-innovative-infrastructure-investment-partner-latam-caribbean-2024.json
 ---
