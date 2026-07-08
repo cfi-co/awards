@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820011653
 wayback_snapshot_url: "http://web.archive.org/web/20190820011653/https://cfi.co/awards/europe/2017/pharnext-best-life-sciences-ipo-france-2016/"
+license: CFI-OAAL-1.0
 content_sha256: b5b0e3a9e85ae46fbe38266d540b56ff47c61d7a13f4979915aa6b86c0fbea12
 canonical: 3738-pharnext-best-life-sciences-ipo-france-2016.json
 ---
