@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190526194918
 wayback_snapshot_url: "http://web.archive.org/web/20190526194918/https://cfi.co/awards/asia-pacific/2016/bank-maldives-innovative-banking-team-indian-ocean-2016/"
+license: CFI-OAAL-1.0
 content_sha256: a298674ad1489f71f09fae645fe3413166f0b2ea97bd3be80eb1abcab8977a39
 canonical: 3196-bank-maldives-innovative-banking-team-indian-ocean-2016.json
 ---
