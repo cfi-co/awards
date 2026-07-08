@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210126030700
 wayback_snapshot_url: "http://web.archive.org/web/20210126030700/https://cfi.co/awards/north-america/2021/bvi-finance-best-offshore-financial-services-provider-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 5fa1e7798fd5e0599782601526cf7ac4bc67ba1db3477caf720747f1548a74a9
 canonical: 8647-bvi-finance-best-offshore-financial-services-provider-global-2020.json
 ---
