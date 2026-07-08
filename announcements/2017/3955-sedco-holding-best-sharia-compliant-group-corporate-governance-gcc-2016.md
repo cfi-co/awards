@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524050436
 wayback_snapshot_url: "http://web.archive.org/web/20260524050436/https://cfi.co/awards/middle-east/2017/sedco-holding-best-sharia-compliant-group-corporate-governance-gcc-2016/"
+license: CFI-OAAL-1.0
 content_sha256: de1a3cce251b98b001d372e86ca4ab4ca53767468b1b8f301c098ee632a673ac
 canonical: 3955-sedco-holding-best-sharia-compliant-group-corporate-governance-gcc-2016.json
 ---
