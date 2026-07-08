@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603010220
 wayback_snapshot_url: "http://web.archive.org/web/20230603010220/https://cfi.co/awards/africa/2023/zambian-home-loans-most-innovative-mortgage-finance-services-zambia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 44585c4dc8df683180e80f20b5b8a4dc95ab1f6f119ed153787ca34e1e8ec681
 canonical: 11413-zambian-home-loans-most-innovative-mortgage-finance-services-zambia-2022.json
 ---
