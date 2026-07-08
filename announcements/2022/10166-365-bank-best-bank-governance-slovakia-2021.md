@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260529035215
 wayback_snapshot_url: "http://web.archive.org/web/20260529035215/https://cfi.co/awards/europe/2022/365-bank-best-bank-governance-slovakia-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 0341159da336973cb94f1657fca5c3702231c6facad76f43b97ed7132af85c0a
 canonical: 10166-365-bank-best-bank-governance-slovakia-2021.json
 ---
