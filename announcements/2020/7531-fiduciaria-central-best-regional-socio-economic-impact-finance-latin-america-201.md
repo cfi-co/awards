@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200813170207
 wayback_snapshot_url: "http://web.archive.org/web/20200813170207/https://cfi.co/awards/latin-america/2020/fiduciaria-central-best-regional-socio-economic-impact-finance-latin-america-2019/"
+license: CFI-OAAL-1.0
 content_sha256: e79461aeb4ea23c20cb5a4ddb7b13f5ba104e71ee0bf24e035e9f4dbe8fd2e9b
 canonical: 7531-fiduciaria-central-best-regional-socio-economic-impact-finance-latin-america-201.json
 ---
