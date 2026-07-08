@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823045939
 wayback_snapshot_url: "http://web.archive.org/web/20190823045939/https://cfi.co/awards/europe/2015/fxpro-financial-services-is-the-2014-winner-of-the-cfi-co-award-for-best-fx-execution-global/"
+license: CFI-OAAL-1.0
 content_sha256: f837a7ce8d195cb1f79f78f8b5f01a29a2eab3775c62ecd78f8d79bd2327544f
 canonical: 1398-fxpro-financial-services-is-the-2014-winner-of-the-cfi-co-award-for-best-fx-exec.json
 ---

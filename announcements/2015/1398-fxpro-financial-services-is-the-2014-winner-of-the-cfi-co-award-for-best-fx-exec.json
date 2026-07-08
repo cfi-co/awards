@@ -27,10 +27,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190823045939",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190823045939/https://cfi.co/awards/europe/2015/fxpro-financial-services-is-the-2014-winner-of-the-cfi-co-award-for-best-fx-execution-global/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190823045939/https://cfi.co/awards/europe/2015/fxpro-financial-services-is-the-2014-winner-of-the-cfi-co-award-for-best-fx-execution-global/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_1399\" align=\"aligncenter\" width=\"455\"]<img class=\"wp-image-1399\" src=\"https://cfi.co/awards/wp-content/uploads/2014/11/fxp.jpg\" alt=\"\" width=\"455\" height=\"388\" /> <strong>Simon Smith, Director of UK Operations</strong>[/caption]\r\n<p style=\"text-align: justify;\"><strong>The panel comments that ‘FxPro offers slick, speedy and secure professional access to markets.  </strong></p>\r\n<p style=\"text-align: justify;\">Their FX Agency model is exemplary and customer support is outstanding. The firm has a trustworthy and transparent approach, has worked hard to eliminate conflicts of interest, is regulated in two jurisdictions and would be a confident choice for relative newcomers to the markets as well as the more seasoned traders.</p>\r\n<p style=\"text-align: justify;\">There is a highly impressive choice of trading platforms at FxPro, market information provided is strong and reliable and the firm makes very good use of technology for the express benefit of users.</p>\r\n<p style=\"text-align: justify;\">We have no hesitation in confirming an award in this key category to FxPro and offer our congratulations on the interesting and important innovations FXPro is bringing to forex trading’.</p>\r\n<p style=\"text-align: justify;\">For further information, please visit <a href=\"http://www.fxpro.co.uk/\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.fxpro.co.uk/</a></p>",
     "content_sha256": "f837a7ce8d195cb1f79f78f8b5f01a29a2eab3775c62ecd78f8d79bd2327544f",
-    "record_sha256": "4c250402c345faf5ec5ddb08af29bf436f9b3d9e55ccf06a33b5422384e91587"
+    "record_sha256": "c261a17612df44a81e1845cd2b229cabd691139e7c647208e2d3ce7855b901d3"
 }
