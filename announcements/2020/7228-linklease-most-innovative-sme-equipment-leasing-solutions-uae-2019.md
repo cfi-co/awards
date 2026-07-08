@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200612233054
 wayback_snapshot_url: "http://web.archive.org/web/20200612233054/https://cfi.co/awards/middle-east/2020/linklease-most-innovative-sme-equipment-leasing-solutions-uae-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 566a34684943863bf015a0dfbc6978d1a74a7c2fb6fbdc0ab60209d26a81ebb0
 canonical: 7228-linklease-most-innovative-sme-equipment-leasing-solutions-uae-2019.json
 ---
