@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250124130138
 wayback_snapshot_url: "http://web.archive.org/web/20250124130138/https://cfi.co/awards/europe/2024/berenberg-best-strategic-asset-allocation-asset-liability-management-team-germany-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 2463ffd5c1e40a6bbfe5d62dcffd027fad85499d738e63c1a1b98e37cb3b94c0
 canonical: 12730-berenberg-best-strategic-asset-allocation-asset-liability-management-team-german.json
 ---
