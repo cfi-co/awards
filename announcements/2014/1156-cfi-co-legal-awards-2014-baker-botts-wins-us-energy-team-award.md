@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015235300
 wayback_snapshot_url: "http://web.archive.org/web/20211015235300/https://cfi.co/awards/north-america/2014/cfi-co-legal-awards-2014-baker-botts-wins-us-energy-team-award/"
+license: CFI-OAAL-1.0
 content_sha256: cd672d5431ee7003d759d392851fbb6affd46114c4b6a66b86a9e999712ead58
 canonical: 1156-cfi-co-legal-awards-2014-baker-botts-wins-us-energy-team-award.json
 ---

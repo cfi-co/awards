@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20211015235300",
-        "wayback_snapshot_url": "http://web.archive.org/web/20211015235300/https://cfi.co/awards/north-america/2014/cfi-co-legal-awards-2014-baker-botts-wins-us-energy-team-award/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20211015235300/https://cfi.co/awards/north-america/2014/cfi-co-legal-awards-2014-baker-botts-wins-us-energy-team-award/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1158\" src=\"https://cfi.co/awards/wp-content/uploads/2014/02/bbllp.jpg\" alt=\"bbllp\" width=\"464\" height=\"108\" /></p>\r\n<p style=\"text-align: justify;\"><strong>According to the CFI.co Judging Panel, Baker Botts LLP, leader in the field for well over 100 years, was the obvious choice for the award, ‘Best Energy Team, United States, 2014’.</strong></p>\r\n<p style=\"text-align: justify;\">The practice started out by serving the Texas oil industry at the turn of the 20<sup>th</sup> century, has developed comprehensive global expertise and, more recently, acquired valuable alternative energy skills following some significant project work in North America.</p>\r\n<p style=\"text-align: justify;\">The outstanding historical achievements of the practice, its present excellent capabilities and potential for continuing in a leadership role were applauded by the judges.</p>",
     "content_sha256": "cd672d5431ee7003d759d392851fbb6affd46114c4b6a66b86a9e999712ead58",
-    "record_sha256": "6115f1362fa3ce24b37ad45fa59060eac0309ee44d62f02407d0f5c4e578f0e6"
+    "record_sha256": "db44f8b70cc2b8e41d688fb534e86753f87a9f4afbbfc607db2104f0dd6726c3"
 }
