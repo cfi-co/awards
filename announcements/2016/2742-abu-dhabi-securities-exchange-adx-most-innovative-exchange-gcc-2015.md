@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160505064720
 wayback_snapshot_url: "http://web.archive.org/web/20160505064720/http://cfi.co/awards/middle-east/2016/abu-dhabi-securities-exchange-adx-most-innovative-exchange-gcc-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 101bf38acc59d8b024dfec90eb5a4e2dec7225899c35e1f48a4b037aedf7f0fd
 canonical: 2742-abu-dhabi-securities-exchange-adx-most-innovative-exchange-gcc-2015.json
 ---
