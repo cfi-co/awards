@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250513103457
 wayback_snapshot_url: "http://web.archive.org/web/20250513103457/https://cfi.co/awards/europe/2024/eos-capital-partners-outstanding-contribution-to-sme-economic-empowerment-greece-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 211c1e62d66362fee469cd70df5109071fea544727c3da53cc82d5c056869cb1
 canonical: 12520-eos-capital-partners-outstanding-contribution-to-sme-economic-empowerment-greece.json
 ---
