@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507124507
 wayback_snapshot_url: "http://web.archive.org/web/20190507124507/https://cfi.co/awards/industries/2019/iberdrola-best-green-energy-impact-bond-europe-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 452f08e36f0fe2bff925182751e2aea2d3d721dc8856abaa9a4bc1787ef20d82
 canonical: 6594-iberdrola-best-green-energy-impact-bond-europe-2019.json
 ---
