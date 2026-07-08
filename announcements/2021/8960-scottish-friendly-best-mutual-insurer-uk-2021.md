@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210401112225
 wayback_snapshot_url: "http://web.archive.org/web/20210401112225/https://cfi.co/awards/europe/2021/scottish-friendly-best-mutual-insurer-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 45a2a8c5b5150e752e3cdca1219cca56db955b2a8192d2bef720c1cfd43bf083
 canonical: 8960-scottish-friendly-best-mutual-insurer-uk-2021.json
 ---
