@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810075014
 wayback_snapshot_url: "http://web.archive.org/web/20200810075014/https://cfi.co/awards/middle-east/2020/exim-credit-most-innovative-trade-finance-gcc-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 26bd7f13f4239a1beeda0996c6d75aeb505ad8edac5ead9f120e96602fea94ea
 canonical: 7628-exim-credit-most-innovative-trade-finance-gcc-2020.json
 ---
