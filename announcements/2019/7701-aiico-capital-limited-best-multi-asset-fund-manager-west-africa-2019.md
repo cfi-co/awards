@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525070111
 wayback_snapshot_url: "http://web.archive.org/web/20260525070111/https://cfi.co/awards/africa/2019/aiico-capital-limited-best-multi-asset-fund-manager-west-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: f1b8337ceb6eef9f63b8f4ee2af1690f13149ff34835b0cbb63f4d057637af09
 canonical: 7701-aiico-capital-limited-best-multi-asset-fund-manager-west-africa-2019.json
 ---
