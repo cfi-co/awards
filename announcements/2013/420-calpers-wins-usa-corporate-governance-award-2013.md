@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409063343
 wayback_snapshot_url: "http://web.archive.org/web/20140409063343/http://cfi.co/awards/north-america/2013/calpers-wins-usa-corporate-governance-award-2013/"
+license: CFI-OAAL-1.0
 content_sha256: a77207087025bc0dd5bf8d5868be286378f4273ff104429a98cfe49d4d9d1af3
 canonical: 420-calpers-wins-usa-corporate-governance-award-2013.json
 ---
