@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241207043426
 wayback_snapshot_url: "http://web.archive.org/web/20241207043426/https://cfi.co/awards/banking/2024/banco-ficensa-best-customer-centric-bank-honduras-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 1c2818bdc1e35f3387e6af5160d28737952daca3fcee316243223a5d84d56be0
 canonical: 12654-banco-ficensa-best-customer-centric-bank-honduras-2024.json
 ---
