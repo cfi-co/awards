@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525063344
 wayback_snapshot_url: "http://web.archive.org/web/20260525063344/https://cfi.co/awards/front/2019/sbm-holdings-ltd-best-csr-banking-sector-mauritius-2018/"
+license: CFI-OAAL-1.0
 content_sha256: f036049ac773046ebd3c3d9eafc644e073efe485e273d9b2652e553b31d2174e
 canonical: 6489-sbm-holdings-ltd-best-csr-banking-sector-mauritius-2018.json
 ---
