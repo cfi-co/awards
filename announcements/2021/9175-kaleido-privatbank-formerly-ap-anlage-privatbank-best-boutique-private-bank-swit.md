@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614180941
 wayback_snapshot_url: "http://web.archive.org/web/20210614180941/https://cfi.co/awards/europe/2021/kaleido-privatbank-formerly-ap-anlage-privatbank-best-boutique-private-bank-switzerland-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 3c4d24b3ad4bbea580b1c9a9e14bf9e03118faf58f48bdd580a50fd22fbf0b62
 canonical: 9175-kaleido-privatbank-formerly-ap-anlage-privatbank-best-boutique-private-bank-swit.json
 ---
