@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209181203
 wayback_snapshot_url: "http://web.archive.org/web/20250209181203/https://cfi.co/awards/front/2019/banca-agricola-commerciale-best-bank-governance-san-marino-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 839858be832e3671746ac527f10dc8a38dcb1120f867062f5d19ecfd92378a2b
 canonical: 6468-banca-agricola-commerciale-best-bank-governance-san-marino-2018.json
 ---
