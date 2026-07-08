@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260113133606
 wayback_snapshot_url: "http://web.archive.org/web/20260113133606/https://cfi.co/awards/latin-america/2025/monte-bravo-innovator-in-private-client-ecosystem-structuring-excellence-brazil-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 9e89d654dec62f672d789a0d8a220c067fc5920bba6c48214a8eaf15b2d78c08
 canonical: 13253-monte-bravo-innovator-in-private-client-ecosystem-structuring-excellence-brazil-.json
 ---
