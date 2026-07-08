@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810090434
 wayback_snapshot_url: "http://web.archive.org/web/20200810090434/https://cfi.co/awards/middle-east/2020/smart-dubai-best-smart-city-innovation-impact-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 80b28b9987f2bbfd5c06eba5b2de9a0de8e03674ebe93554c2dfcddff84fff73
 canonical: 7423-smart-dubai-best-smart-city-innovation-impact-global-2020.json
 ---
