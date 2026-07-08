@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221208004301
 wayback_snapshot_url: "http://web.archive.org/web/20221208004301/https://cfi.co/awards/banking/2022/idfc-first-bank-best-sustainable-banking-strategy-india-2022/"
+license: CFI-OAAL-1.0
 content_sha256: d07fa6850ad7fedaeb599a7080bc18eeace87cc7217970a958fd66f47b8e4e57
 canonical: 10875-idfc-first-bank-best-sustainable-banking-strategy-india-2022.json
 ---
