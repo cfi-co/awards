@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920114436
 wayback_snapshot_url: "http://web.archive.org/web/20210920114436/https://cfi.co/awards/asia-pacific/2021/paradice-investment-management-best-esg-global-equity-boutique-australia-2021/"
+license: CFI-OAAL-1.0
 content_sha256: efb941997b7c086630ab6fd719e8b7e9ab63124bcab0d1de51e712309db36de9
 canonical: 9538-paradice-investment-management-best-esg-global-equity-boutique-australia-2021.json
 ---
