@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524051103
 wayback_snapshot_url: "http://web.archive.org/web/20260524051103/https://cfi.co/awards/middle-east/2017/waha-capital-best-emerging-markets-investment-manager-mena-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1c55bf422227d27c848a9c4f6a6a74b7e79f6203dab07d14cbc0ce33eb05fc2a
 canonical: 4021-waha-capital-best-emerging-markets-investment-manager-mena-2016.json
 ---
