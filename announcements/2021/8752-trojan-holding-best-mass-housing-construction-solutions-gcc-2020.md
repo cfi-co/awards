@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228105056
 wayback_snapshot_url: "http://web.archive.org/web/20210228105056/https://cfi.co/awards/middle-east/2021/trojan-holding-best-mass-housing-construction-solutions-gcc-2020/"
+license: CFI-OAAL-1.0
 content_sha256: acfcc30e5514f54c076a5424d2ca300a1495877a91662497511a8ef741e8b1a6
 canonical: 8752-trojan-holding-best-mass-housing-construction-solutions-gcc-2020.json
 ---
