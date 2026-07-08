@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525072109
 wayback_snapshot_url: "http://web.archive.org/web/20260525072109/https://cfi.co/awards/industries/technology/2019/dexi-io-best-data-extraction-solutions-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: ed0d73f82b9bc0bb40f20af2b5324ef458a481947dd7ebe5e056c1eef7363ab1
 canonical: 7934-dexi-io-best-data-extraction-solutions-global-2019.json
 ---
