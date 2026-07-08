@@ -26,10 +26,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190724091448",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190724091448/https://cfi.co/awards/north-america/2018/ge-capital-aviation-services-gecas-best-aviation-leasing-solutions-north-america-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190724091448/https://cfi.co/awards/north-america/2018/ge-capital-aviation-services-gecas-best-aviation-leasing-solutions-north-america-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-3570\" src=\"https://cfi.co/awards/wp-content/uploads/2016/11/GE.jpg\" alt=\"\" width=\"300\" height=\"302\" />\r\n<p style=\"text-align: justify;\">GECAS works efficiently, effectively and economically to satisfy the requirements of 270 airlines throughout the world and has a fleet of two thousand aircraft. This is the third time that this company has been granted this award and the panel does so because it regards GECAS as the finest commercial airline and helicopter leasing organisation in the world. The momentum has continued well during the current year. The fleet size and scope of finance and consultancy services on offer allows the company to optimise client cash flow by providing the most appropriate aircraft management solutions. According to the judging panel, the GECAS purchase leaseback arrangements are exemplary and their bespoke leasing arrangements can significantly reduce their clients’ working capital needs. The leasing team at GECAS is very talented, the solutions on offer are comprehensive and the aircraft are superb. CFI.co is delighted to confirm the award Best Aviation Leasing Solutions North America 2018.</p>",
     "content_sha256": "bfd969a3dd2506c8e14ae4f41878d2e3e2ed96073352f3e6a0651fa419e9d383",
-    "record_sha256": "e776ce045a585df47506d3af6bb173897609353a11deb30e217bbb2412e615e2"
+    "record_sha256": "a71612dd85132820267224ac64dcc7b75424173f497c244beb8fa3790f6360dd"
 }

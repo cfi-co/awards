@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724091448
 wayback_snapshot_url: "http://web.archive.org/web/20190724091448/https://cfi.co/awards/north-america/2018/ge-capital-aviation-services-gecas-best-aviation-leasing-solutions-north-america-2018/"
+license: CFI-OAAL-1.0
 content_sha256: bfd969a3dd2506c8e14ae4f41878d2e3e2ed96073352f3e6a0651fa419e9d383
 canonical: 6222-ge-capital-aviation-services-gecas-best-aviation-leasing-solutions-north-america.json
 ---
