@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210228093522",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210228093522/https://cfi.co/awards/asia-pacific/2021/icbc-dubai-most-innovative-international-bank-emea-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210228093522/https://cfi.co/awards/asia-pacific/2021/icbc-dubai-most-innovative-international-bank-emea-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5162\" src=\"https://cfi.co/awards/wp-content/uploads/2018/01/ICBC.jpg\" alt=\"ICBC\" width=\"500\" height=\"166\" />\r\n<p style=\"text-align: justify;\">Since its 1984 launch, the Industrial and Commercial Bank of China (ICBC) has established a strong global presence with 400 branches and subsidiaries in 49 international markets. The financial giant planted roots in the Dubai International Financial Centre (DIFC) seven years ago, with the inauguration of ICBC Dubai (DIFC) Branch. It has become the leading Chinese bank in the region through steadfast adherence to core values of integrity, humanity, prudence, innovation and excellence. ICBC Dubai’s product portfolio covers a broad area of financial business, including private, investment and e-banking, as well as deposit acceptance and loans and investments. It supports regional socio-economic development by investing in key business areas and infrastructure projects. ICBC Dubai (DIFC) Branch prioritises projects that advance the transition towards clean energy and green economies. It has facilitated the world’s largest solar project, Mohamed bin Rashid Solar Park, which combines power generation and photovoltaic technology. The project, which has set record low energy costs for consumers, will feature a 900-megawatt capacity upon completion. ICBC Dubai (DIFC) Branch has embraced technology to stay connected and go contactless. It organises digital events to introduce services to prospective clients, forums to help GCC investors seize opportunities in Chinese financial markets, and cloud-based models of interaction for internal team-building. The CFI.co judging panel recognises the pioneering achievements of ICBC Dubai (DIFC) Branch once more, with the 2020 award for Most Innovative International Bank (EMEA).</p>",
     "content_sha256": "871fb0a7abfaeac1e106f8a4a6d412183c2206687d887d2bf292791c86305f23",
-    "record_sha256": "89b972d93e4fa939e79d84e3400bcef2b97c4d19799ec47bf19b650906abbee1"
+    "record_sha256": "ad89d4f11497bc569a6d8b8b535b11dd7755d618b13d10f7d0aa95656c1e209e"
 }
