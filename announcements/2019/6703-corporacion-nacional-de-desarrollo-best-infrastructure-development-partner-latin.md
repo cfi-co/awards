@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723010253
 wayback_snapshot_url: "http://web.archive.org/web/20190723010253/https://cfi.co/awards/latin-america/2019/corporacion-nacional-de-desarrollo-best-infrastructure-development-partner-latin-america-2019/"
+license: CFI-OAAL-1.0
 content_sha256: d71bf1a27a3355cb9ff3d66125d93cb43146c8080cb414ab7b7eed97062201c7
 canonical: 6703-corporacion-nacional-de-desarrollo-best-infrastructure-development-partner-latin.json
 ---
