@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240623195726
 wayback_snapshot_url: "http://web.archive.org/web/20240623195726/https://cfi.co/awards/banking/2024/national-bank-of-fujairah-nbf-best-business-banking-solutions-uae-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 913ea2e71f44317141f9f6ab21abbcf05070241787ffb5188798543e6768fa5d
 canonical: 12321-national-bank-of-fujairah-nbf-best-business-banking-solutions-uae-2024.json
 ---
