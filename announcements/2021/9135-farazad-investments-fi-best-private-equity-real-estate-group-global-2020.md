@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724011902
 wayback_snapshot_url: "http://web.archive.org/web/20210724011902/https://cfi.co/awards/europe/2021/farazad-investments-fi-best-private-equity-real-estate-group-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 1f532b03f0f66f4e7c0c69b51ace2603114c07911b27d3b77118a820eea8fe86
 canonical: 9135-farazad-investments-fi-best-private-equity-real-estate-group-global-2020.json
 ---
