@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724014544
 wayback_snapshot_url: "http://web.archive.org/web/20210724014544/https://cfi.co/awards/europe/2018/ladbrokes-coral-group-best-corporate-governance-gaming-industry-europe-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 08883e1b7ca74109b96ac46b156b155287cb06fdf45a928d342f126c60d1ae8e
 canonical: 6289-ladbrokes-coral-group-best-corporate-governance-gaming-industry-europe-2018.json
 ---
