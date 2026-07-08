@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250123113405
 wayback_snapshot_url: "http://web.archive.org/web/20250123113405/https://cfi.co/awards/corporate-leadership/2024/applied-science-private-university-digital-transformation-leader-in-higher-education-middle-east-2024/"
+license: CFI-OAAL-1.0
 content_sha256: a88ccd4adbeb5e3a30ecc82493cea16fa5cb464ae91af41c4dd4474136dcbe67
 canonical: 12579-applied-science-private-university-digital-transformation-leader-in-higher-educa.json
 ---
