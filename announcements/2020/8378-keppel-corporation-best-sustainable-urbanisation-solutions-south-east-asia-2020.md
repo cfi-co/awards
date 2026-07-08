@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203221639
 wayback_snapshot_url: "http://web.archive.org/web/20201203221639/https://cfi.co/awards/asia-pacific/2020/keppel-corporation-best-sustainable-urbanisation-solutions-south-east-asia-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 9476dc744b05e0c8d48e269147144be8d26b026e768f1205a566813df3d6b8f9
 canonical: 8378-keppel-corporation-best-sustainable-urbanisation-solutions-south-east-asia-2020.json
 ---
