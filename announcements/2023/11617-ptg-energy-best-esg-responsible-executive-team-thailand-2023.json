@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20230923181806",
-        "wayback_snapshot_url": "http://web.archive.org/web/20230923181806/https://cfi.co/awards/asia-pacific/2023/ptg-energy-best-esg-responsible-executive-team-thailand-2023/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20230923181806/https://cfi.co/awards/asia-pacific/2023/ptg-energy-best-esg-responsible-executive-team-thailand-2023/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-11615\" src=\"https://cfi.co/awards/wp-content/uploads/2023/07/PTGEnergy-jpg.webp\" alt=\"PTG Energy\" width=\"500\" height=\"460\" />\r\n\r\nPTG Energy began as a southern fuel company serving fishery and industrial clientele. Over the past 35 years, the company has evolved into a diversified fuel business with more than 2,100 PTG stations and 1,600 non-oil touchpoints nationwide. The PTG Energy team aims to co-create sustainable growth and socio-economic opportunities alongside communities through the delivery of highly customer-centric and integrated services. PTG Energy has the largest and second-largest share of the auto LPG and retail oil markets in Thailand — and the company understands the importance of balancing business with sustainability. PTG’s ESG-responsible executive team has identified several SDGs where the business can create the most impact. The company provides valued-added services that enhance quality of life and increase convenience for customers while also increasing participation among SME partners. PTG Energy began installing EV charging points at service stations in 2021. The company is using biodiesel to power its fleet of transportation vehicles. Rooftop solar projects at PTG service stations are expected to reduce greenhouse gas emissions by 6,794 metric tons of carbon dioxide over the next four years. The company has a joint venture with PPP Green Complex to increase national energy efficiency by harnessing renewable sources, adopting cleaner technologies and developing circular systems to convert waste into energy. PTG’s latest pipeline project, the Banpru Power Plant, will have a generation capacity of 4.5 megawatts. The CFI.co judging panel recognises PTG Energy’s leadership with the 2023 award for Best ESG Responsible Executive Team (Thailand).",
     "content_sha256": "f7abbaf48e39b05970ba7ecdc306e26c86bb9c9318ecc0d9d387b38d900c194f",
-    "record_sha256": "5c1f28a063bc59c8a4a0a6c87f93a77f822a5f7846e55050598138adaa994b2b"
+    "record_sha256": "beb0337be21e748364e6c542e7d3516c18ade732bf534eb435febc505ce19303"
 }

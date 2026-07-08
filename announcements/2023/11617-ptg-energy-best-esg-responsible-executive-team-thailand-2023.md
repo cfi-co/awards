@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923181806
 wayback_snapshot_url: "http://web.archive.org/web/20230923181806/https://cfi.co/awards/asia-pacific/2023/ptg-energy-best-esg-responsible-executive-team-thailand-2023/"
+license: CFI-OAAL-1.0
 content_sha256: f7abbaf48e39b05970ba7ecdc306e26c86bb9c9318ecc0d9d387b38d900c194f
 canonical: 11617-ptg-energy-best-esg-responsible-executive-team-thailand-2023.json
 ---
