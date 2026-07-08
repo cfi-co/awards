@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260523042945",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260523042945/https://cfi.co/awards/banking/2014/bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523042945/https://cfi.co/awards/banking/2014/bny-mellon-winner-of-the-cfi-co-wealth-manager-award-us/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1296\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/bny.jpg\" alt=\"bny\" width=\"262\" height=\"126\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel has named BNY Mellon as winner of the prestigious award, ’Best Wealth Manager, Unites States, 2014’.</strong></p>\r\n<p style=\"text-align: justify;\">Client retention at Mellon is strong and the Bank is a superb relationship manager. This truly outstanding name in North American banking, which can trace its heritage back 230 years, is the result of a 2007 merger between Bank of New York and Mellon Finance.</p>\r\n<p style=\"text-align: justify;\">The panel congratulates BNY Mellon, the largest deposit bank in the world, on its outstanding focus on and great success in providing the most sophisticated wealth management services.</p>",
     "content_sha256": "b316338f83ca9ca2bb56a96cbeb629ab501530b5a62d9d9b711bf34bdc6fd67a",
-    "record_sha256": "1c1873eb5607c9a62ad479db310fd0c38abc50e4e9d88a82695dca866d29f5f8"
+    "record_sha256": "b488b58c29504f3574132856709d012bf9467a96c720ce90c74a533b1fc200d1"
 }
