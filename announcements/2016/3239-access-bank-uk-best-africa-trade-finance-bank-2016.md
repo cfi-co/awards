@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924112738
 wayback_snapshot_url: "http://web.archive.org/web/20210924112738/https://cfi.co/awards/banking/2016/access-bank-uk-best-africa-trade-finance-bank-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 22c0a5f39af5344986e0df703e7fdcd4ed94e3d0516230ac4139d49a7eb952eb
 canonical: 3239-access-bank-uk-best-africa-trade-finance-bank-2016.json
 ---
