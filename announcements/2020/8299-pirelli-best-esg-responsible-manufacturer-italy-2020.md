@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203230522
 wayback_snapshot_url: "http://web.archive.org/web/20201203230522/https://cfi.co/awards/best-practice/2020/pirelli-best-esg-responsible-manufacturer-italy-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 019d995b8ae8d2408610e337c872afd8d46df3fdeed8262d2a297c4f9f9c55c9
 canonical: 8299-pirelli-best-esg-responsible-manufacturer-italy-2020.json
 ---
