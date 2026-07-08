@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525043740
 wayback_snapshot_url: "http://web.archive.org/web/20260525043740/https://cfi.co/awards/asia-pacific/2017/nostrum-oil-gas-best-value-creation-strategy-central-asia-2017/"
+license: CFI-OAAL-1.0
 content_sha256: c2f90709b27b8c5a3b5734620dd5168fdf71b821e7e7d2889ae121b30a35dbc9
 canonical: 4671-nostrum-oil-gas-best-value-creation-strategy-central-asia-2017.json
 ---
