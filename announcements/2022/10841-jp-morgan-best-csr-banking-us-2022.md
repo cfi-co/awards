@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221207233254
 wayback_snapshot_url: "http://web.archive.org/web/20221207233254/https://cfi.co/awards/banking/2022/jp-morgan-best-csr-banking-us-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 3450f099aa3a84b923356fc5f79b8cf867565ea3b6667f19d125298da191a8c8
 canonical: 10841-jp-morgan-best-csr-banking-us-2022.json
 ---
