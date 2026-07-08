@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923085616
 wayback_snapshot_url: "http://web.archive.org/web/20200923085616/https://cfi.co/awards/africa/2020/catalyst-partners-best-sme-growth-investment-partner-mena-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 04eacef2fce1710ce0adcdfdb7c0de70199fdb98012894f151814e3068ab80b1
 canonical: 8127-catalyst-partners-best-sme-growth-investment-partner-mena-2020.json
 ---
