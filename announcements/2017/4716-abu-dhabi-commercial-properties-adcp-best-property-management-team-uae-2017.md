@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820024759
 wayback_snapshot_url: "http://web.archive.org/web/20220820024759/https://cfi.co/awards/middle-east/2017/abu-dhabi-commercial-properties-adcp-best-property-management-team-uae-2017/"
+license: CFI-OAAL-1.0
 content_sha256: f083ec32585b8009710af553c6ffc5a6072c865d1d853c005685feb2b5848d5d
 canonical: 4716-abu-dhabi-commercial-properties-adcp-best-property-management-team-uae-2017.json
 ---
