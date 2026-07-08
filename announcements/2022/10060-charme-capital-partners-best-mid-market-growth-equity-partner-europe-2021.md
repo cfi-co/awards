@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240523000614
 wayback_snapshot_url: "http://web.archive.org/web/20240523000614/https://cfi.co/awards/europe/2022/charme-capital-partners-best-mid-market-growth-equity-partner-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: aa6da53fe06d8191b8540e4dfdeaaeccc4d0ebc51f265f51e248ce09b6fed74b
 canonical: 10060-charme-capital-partners-best-mid-market-growth-equity-partner-europe-2021.json
 ---
