@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507121008
 wayback_snapshot_url: "http://web.archive.org/web/20190507121008/https://cfi.co/awards/latin-america/2019/central-bank-of-the-dominican-republic-best-central-bank-governance-central-america-and-the-caribbean-2018/"
+license: CFI-OAAL-1.0
 content_sha256: ba7076bc357dfdab3371931bd368a6ed137c04689c904f6e44fa6c1a58dec882
 canonical: 6643-central-bank-of-the-dominican-republic-best-central-bank-governance-central-amer.json
 ---
