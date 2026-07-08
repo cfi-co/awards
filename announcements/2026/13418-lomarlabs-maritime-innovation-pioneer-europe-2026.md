@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260529042122
 wayback_snapshot_url: "http://web.archive.org/web/20260529042122/https://cfi.co/awards/europe/2026/lomarlabs-maritime-innovation-pioneer-europe-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 16a8f4563db00e96f310a53f603890add5ef0bace79522d48ba807d137cb954a
 canonical: 13418-lomarlabs-maritime-innovation-pioneer-europe-2026.json
 ---
