@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920115256
 wayback_snapshot_url: "http://web.archive.org/web/20210920115256/https://cfi.co/awards/asia-pacific/2021/bank-one-best-international-banking-services-best-custodian-bank-indian-ocean-2021/"
+license: CFI-OAAL-1.0
 content_sha256: dafc0d5d1a1a45ea2b085d2d2fccd8c9052a2144e694a0d761d135d26993b408
 canonical: 9425-bank-one-best-international-banking-services-best-custodian-bank-indian-ocean-20.json
 ---
