@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330015938
 wayback_snapshot_url: "http://web.archive.org/web/20230330015938/https://cfi.co/awards/best-practice/csr/2023/citi-best-social-finance-bond-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: e1b4200bab8e59695d61ae2d57e697d94f20c900824b8baa486fe270eb2c8b77
 canonical: 11170-citi-best-social-finance-bond-global-2023.json
 ---

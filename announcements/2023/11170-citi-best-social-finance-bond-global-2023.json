@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20230330015938",
-        "wayback_snapshot_url": "http://web.archive.org/web/20230330015938/https://cfi.co/awards/best-practice/csr/2023/citi-best-social-finance-bond-global-2023/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20230330015938/https://cfi.co/awards/best-practice/csr/2023/citi-best-social-finance-bond-global-2023/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[video width=\"1920\" height=\"1080\" mp4=\"https://cfi.co/awards/wp-content/uploads/2023/02/Citi-1.mp4\"][/video]\r\n\r\n&nbsp;\r\n<p style=\"text-align: justify;\">Founded in 1812, Citi has a heritage of enabling growth and economic progress through a global network of financial services across nearly 160 countries. It moves over $4tn in financial flows daily and has over 100 million customers and 13,000 institutional clients serving 90 percent of the world’s <em>Fortune</em> 500 companies. Citi throws the weight of these operations behind ambitious sustainability goals. The bank prioritises sustainable development across its value chain, over half of which is rooted in emerging markets. It adheres to strong leadership principles by taking ownership and working together with partners to succeed. In 2021, Citi announced the launch of an inaugural $1bn Social Finance Bond. Proceeds from the bond will finance projects that expand access to financial services, affordable housing, basic infrastructure, healthcare and education in underserved and unbanked communities in emerging markets. The bond will contribute to Citi’s pledge of providing $1tn in sustainable finance by 2030, including $500bn for social finance and $500bn for environmental finance. It worked exclusively with women and minority-owned brokers on the $1bn Social Finance Bond to advance racial equity and gender equality. Within the next few years, Citi expects its social finance programme to create positive impacts by expanding access to essential services for 15 million low-income households, including 10 million women. The CFI.co judging panel points to the bank’s expansive network and noteworthy achievements in sustainable finance as factors in selecting Citi as the 2023 global award winner for Best Social Finance Bond.</p>",
     "content_sha256": "e1b4200bab8e59695d61ae2d57e697d94f20c900824b8baa486fe270eb2c8b77",
-    "record_sha256": "18b0f39a1cdb2b2d22988f4279a592d904ad8319e1758819059a20fedb9b7f06"
+    "record_sha256": "afe36b47f802a642bc0bb94612b7e72c78d5467b3a8f19eaf3495f2616d3d913"
 }
