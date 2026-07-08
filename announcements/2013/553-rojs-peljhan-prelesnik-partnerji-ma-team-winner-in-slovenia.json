@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140731051111",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140731051111/http://cfi.co/awards/europe/2013/rojs-peljhan-prelesnik-partnerji-ma-team-winner-in-slovenia/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140731051111/http://cfi.co/awards/europe/2013/rojs-peljhan-prelesnik-partnerji-ma-team-winner-in-slovenia/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-554\" src=\"https://cfi.co/awards/wp-content/uploads/2013/06/Rojs-Peljhan-Prelesnik-Partnerji.jpg\" alt=\"Rojs, Peljhan, Prelesnik &amp; Partnerji\" width=\"298\" height=\"69\" />This Slovenian firm has a strong track record in banking and construction and has does sterling M&amp;A work.</strong> RPPP have been involved in major privatisation programmes and pride themselves on their work in such sectors as pharmaceuticals, construction, media and the steel industry. The judging panel recognise RPPP as one of Slovenia’s most important law firms and a worthy recipient of the award: ‘Best Mergers and Acquisitions Team, Slovenia, 2013’.</p>",
     "content_sha256": "98075b63ed5102213aa9b647eedf589d8938b0754fa0cba6050ef777549ef4a2",
-    "record_sha256": "57d52a63beaf56b5611a5c104ee3b3552a0269159562bf2389c5abf0cf8da47d"
+    "record_sha256": "d544432ddd15b901406f5edc86e25c45e1ae0207421be2366f6b1f259449b91c"
 }

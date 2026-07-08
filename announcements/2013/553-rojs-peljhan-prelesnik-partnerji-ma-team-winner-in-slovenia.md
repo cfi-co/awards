@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140731051111
 wayback_snapshot_url: "http://web.archive.org/web/20140731051111/http://cfi.co/awards/europe/2013/rojs-peljhan-prelesnik-partnerji-ma-team-winner-in-slovenia/"
+license: CFI-OAAL-1.0
 content_sha256: 98075b63ed5102213aa9b647eedf589d8938b0754fa0cba6050ef777549ef4a2
 canonical: 553-rojs-peljhan-prelesnik-partnerji-ma-team-winner-in-slovenia.json
 ---
