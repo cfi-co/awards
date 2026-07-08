@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015231139
 wayback_snapshot_url: "http://web.archive.org/web/20211015231139/https://cfi.co/awards/north-america/2016/ge-capital-aviation-services-best-aviation-leasing-solutions-north-america-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 535c37d1767740fde0ef1fe75991c10a93eb73a6db62dd7b72fcee06fa91d4cc
 canonical: 4468-ge-capital-aviation-services-best-aviation-leasing-solutions-north-america-2016.json
 ---
