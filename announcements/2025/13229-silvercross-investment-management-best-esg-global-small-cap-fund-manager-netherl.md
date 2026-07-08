@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260122043825
 wayback_snapshot_url: "http://web.archive.org/web/20260122043825/https://cfi.co/awards/best-practice/2025/silvercross-investment-management-best-esg-global-small-cap-fund-manager-netherlands-2025/"
+license: CFI-OAAL-1.0
 content_sha256: ce4de10c581a29fe2d97fb25d6e4c1460d2ea83fdc479028bc4a3c8491bd379b
 canonical: 13229-silvercross-investment-management-best-esg-global-small-cap-fund-manager-netherl.json
 ---
