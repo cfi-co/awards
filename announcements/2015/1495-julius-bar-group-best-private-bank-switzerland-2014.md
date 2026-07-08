@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230125145422
 wayback_snapshot_url: "http://web.archive.org/web/20230125145422/https://cfi.co/awards/banking/2015/julius-bar-group-best-private-bank-switzerland-2014/"
+license: CFI-OAAL-1.0
 content_sha256: b19c88b1ea2aa4752770069265b7c1980ee6d88a0370811740505942b255a1f7
 canonical: 1495-julius-bar-group-best-private-bank-switzerland-2014.json
 ---
