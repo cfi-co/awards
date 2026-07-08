@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203065232
 wayback_snapshot_url: "http://web.archive.org/web/20221203065232/https://cfi.co/awards/europe/2021/energean-best-esg-energy-growth-strategy-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 2ed9ebe0a9777d8535633da97aa39954f78f35c25cc70bd97aff6ca9c0f209b9
 canonical: 9735-energean-best-esg-energy-growth-strategy-europe-2021.json
 ---
