@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614191815
 wayback_snapshot_url: "http://web.archive.org/web/20210614191815/https://cfi.co/awards/middle-east/2021/bank-of-baghdad-bob-best-bank-iraq-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 80052fb6c94861360fb8de2a858a2775144550591621fd84ed61642004af7a9d
 canonical: 9235-bank-of-baghdad-bob-best-bank-iraq-2021.json
 ---
