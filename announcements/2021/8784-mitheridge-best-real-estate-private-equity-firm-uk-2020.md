@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228105144
 wayback_snapshot_url: "http://web.archive.org/web/20210228105144/https://cfi.co/awards/europe/2021/mitheridge-best-real-estate-private-equity-firm-uk-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 2ab9059f57ad90958e79812e6fe8f930bc5b7c29c85fdd46c5d472f51bd63d00
 canonical: 8784-mitheridge-best-real-estate-private-equity-firm-uk-2020.json
 ---
