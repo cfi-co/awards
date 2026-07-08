@@ -29,10 +29,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20230208112320",
-        "wayback_snapshot_url": "http://web.archive.org/web/20230208112320/https://cfi.co/awards/industries/mining/2022/peabody-best-esg-responsible-mining-company-global-2022/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20230208112320/https://cfi.co/awards/industries/mining/2022/peabody-best-esg-responsible-mining-company-global-2022/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-5178\" src=\"https://cfi.co/awards/wp-content/uploads/2017/12/Peabody.jpg\" alt=\"Peabody\" width=\"400\" height=\"133\" />\r\n<p style=\"text-align: justify;\">Peabody, the largest non-state-owned global coal company, reported $3.3bn in revenue for 2021 and believes coal has a place in the global energy mix as a means to provide affordable energy, steel and concrete.</p>\r\n<p style=\"text-align: justify;\">The company aspires to reach net-zero emissions by 2050 and has prioritised several ESG areas crucial to reaching that goal including announcing a short-term goal of reducing Scope 1 and 2 emissions from its operations by 15% (from 2018 levels) by 2026. Peabody recently announced a 50 percent stake in R3 Renewables, which plans to develop over 3.3 gigawatts of solar photovoltaic production and 1.6 gigawatts of battery storage capacity over the next five years.</p>\r\n<p style=\"text-align: justify;\">Peabody is taking steps to reduce environmental impacts, preserve biodiversity, cut greenhouse gas emissions, optimise resources, and reduce waste. Over the past five years, the company has restored more than 1.1 acres of mined land for every acre disturbed. It scores high on the social side as an employer of choice committed to diversity and inclusion, health and safety, community engagement, defence of human rights and maintaining a strong supply chain. Peabody's new CEO, Jim Grech, brings over thirty years of industry experience to the leadership team. The CFl.co judging panel presents Peabody - a repeat programme winner - with the 2022 global award for Best ESG-Responsible Mining Company.</p>",
     "content_sha256": "ab2c04ba577fbd691b1ce643702bf6af4b6221f22168319178a04ad644d3e4e1",
-    "record_sha256": "8f0bc582666429a9a6fcc6866f9c8d586eacaf65e7ed76929179ee6a71bb7c66"
+    "record_sha256": "cf7bafac83b3e9a58d79fc19b9a8a66e0b734485df7cd6c48ea521fdd1c554ad"
 }
