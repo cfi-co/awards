@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920121214
 wayback_snapshot_url: "http://web.archive.org/web/20210920121214/https://cfi.co/awards/europe/2021/atlas-infrastructure-best-climate-impact-responsible-investor-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 2eb38842a1aa40a26fc9e010a7c6403afe7b4ac1333ce901c45ab5080a3f898e
 canonical: 9501-atlas-infrastructure-best-climate-impact-responsible-investor-uk-2021.json
 ---
