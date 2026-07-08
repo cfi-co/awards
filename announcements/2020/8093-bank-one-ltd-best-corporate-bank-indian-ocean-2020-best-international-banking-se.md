@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923091623
 wayback_snapshot_url: "http://web.archive.org/web/20200923091623/https://cfi.co/awards/asia-pacific/2020/bank-one-ltd-best-corporate-bank-indian-ocean-2020-best-international-banking-services-indian-ocean-2020/"
+license: CFI-OAAL-1.0
 content_sha256: d5e158249428f849b68a04c13f2911f2de6495073a196752d36f0b75031c88cd
 canonical: 8093-bank-one-ltd-best-corporate-bank-indian-ocean-2020-best-international-banking-se.json
 ---
