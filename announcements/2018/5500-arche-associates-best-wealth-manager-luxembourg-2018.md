@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924121211
 wayback_snapshot_url: "http://web.archive.org/web/20210924121211/https://cfi.co/awards/europe/2018/arche-associates-best-wealth-manager-luxembourg-2018/"
+license: CFI-OAAL-1.0
 content_sha256: d6b5540544567f44ebef23bc1ec7fa7c57373a5d695fe3fd04757d1a69714914
 canonical: 5500-arche-associates-best-wealth-manager-luxembourg-2018.json
 ---
