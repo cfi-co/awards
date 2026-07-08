@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201024230422
 wayback_snapshot_url: "http://web.archive.org/web/20201024230422/https://cfi.co/awards/europe/2020/telecom-plus-best-esg-multi-utility-provider-uk-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 18eaa5b5d466192229a8f35d2d1cedce1f2c3be24cd966d95044ae6b910fcb38
 canonical: 8275-telecom-plus-best-esg-multi-utility-provider-uk-2020.json
 ---
