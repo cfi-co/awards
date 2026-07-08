@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724011600
 wayback_snapshot_url: "http://web.archive.org/web/20210724011600/https://cfi.co/awards/latin-america/2014/ncb-jamaica-wins-cfi-co-banking-award-for-supporting-smes/"
+license: CFI-OAAL-1.0
 content_sha256: 8c1c5c1a716307136275786d62efab9260fba33482976788615212eb16a1c53e
 canonical: 1550-ncb-jamaica-wins-cfi-co-banking-award-for-supporting-smes.json
 ---
