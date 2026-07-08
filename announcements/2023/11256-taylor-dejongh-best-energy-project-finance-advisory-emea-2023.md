@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230603011120
 wayback_snapshot_url: "http://web.archive.org/web/20230603011120/https://cfi.co/awards/europe/2023/taylor-dejongh-best-energy-project-finance-advisory-emea-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 8f275dc5001f6b663a0b9813f7ef8af6b874b2989221de2e725d1225ed99ff6f
 canonical: 11256-taylor-dejongh-best-energy-project-finance-advisory-emea-2023.json
 ---
