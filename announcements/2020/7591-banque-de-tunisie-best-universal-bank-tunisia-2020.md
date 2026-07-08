@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923083836
 wayback_snapshot_url: "http://web.archive.org/web/20200923083836/https://cfi.co/awards/africa/2020/banque-de-tunisie-best-universal-bank-tunisia-2020/"
+license: CFI-OAAL-1.0
 content_sha256: d0f39f2177812502cc9c4d8acc8bf240d6b239b024735dbba21c09b717c392a3
 canonical: 7591-banque-de-tunisie-best-universal-bank-tunisia-2020.json
 ---
