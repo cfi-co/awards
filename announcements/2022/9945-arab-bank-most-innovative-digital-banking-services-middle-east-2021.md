@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220119065559
 wayback_snapshot_url: "http://web.archive.org/web/20220119065559/https://cfi.co/awards/middle-east/2022/arab-bank-most-innovative-digital-banking-services-middle-east-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 0623d5a6a0a24bded55861a4c1e13335212fbe068c996f1d8305d7aa8343ebd3
 canonical: 9945-arab-bank-most-innovative-digital-banking-services-middle-east-2021.json
 ---
