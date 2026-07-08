@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528034414
 wayback_snapshot_url: "http://web.archive.org/web/20260528034414/https://cfi.co/awards/banking/2020/rokel-commercial-bank-rcb-best-bank-governance-sierra-leone-2019/"
+license: CFI-OAAL-1.0
 content_sha256: b0a5f5f1658b1516c1945b739f3ea499e13cc01440efdcc0d2e61a258acc623c
 canonical: 7753-rokel-commercial-bank-rcb-best-bank-governance-sierra-leone-2019.json
 ---
