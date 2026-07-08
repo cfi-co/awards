@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203231126
 wayback_snapshot_url: "http://web.archive.org/web/20201203231126/https://cfi.co/awards/north-america/2020/jpmorgan-chase-best-csr-banking-united-states-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 1588193f184f005a786245e1878b7bf5851a264fb3260bd5d79c61858e95acf2
 canonical: 8303-jpmorgan-chase-best-csr-banking-united-states-2020.json
 ---
