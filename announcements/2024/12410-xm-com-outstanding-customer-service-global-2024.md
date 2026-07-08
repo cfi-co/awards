@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528043752
 wayback_snapshot_url: "http://web.archive.org/web/20260528043752/https://cfi.co/awards/finance/exchanges-brokers/2024/xm-com-outstanding-customer-service-global-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 48b866809ddc8bc963bd7c1a3eb9ec1a3c785422e5e90fe3723c3ec1e1f60aa2
 canonical: 12410-xm-com-outstanding-customer-service-global-2024.json
 ---
