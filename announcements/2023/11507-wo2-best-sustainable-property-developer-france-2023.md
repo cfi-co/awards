@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230515080418
 wayback_snapshot_url: "http://web.archive.org/web/20230515080418/https://cfi.co/awards/best-practice/2023/wo2-best-sustainable-property-developer-france-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 3aa1d9aa73b1f7ac24586c18cc646206473439a9f1d6d970ad92854d92fdcdc6
 canonical: 11507-wo2-best-sustainable-property-developer-france-2023.json
 ---
