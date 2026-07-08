@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201101064443
 wayback_snapshot_url: "http://web.archive.org/web/20201101064443/https://cfi.co/awards/europe/2020/equiti-group-most-innovative-financial-markets-brokerage-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 6aec50794598277cb28a96e49ae996349263f3156805a80a7cbc48c15e15a8a3
 canonical: 8270-equiti-group-most-innovative-financial-markets-brokerage-global-2020.json
 ---
