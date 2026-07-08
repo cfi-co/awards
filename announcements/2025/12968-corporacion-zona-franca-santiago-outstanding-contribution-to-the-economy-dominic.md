@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614224755
 wayback_snapshot_url: "http://web.archive.org/web/20250614224755/https://cfi.co/awards/development/2025/corporacion-zona-franca-santiago-outstanding-contribution-to-the-economy-dominican-republic-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 5939d459d737e44467a44a051e485b7bba956b6792e9bd6db60b16b90b46c904
 canonical: 12968-corporacion-zona-franca-santiago-outstanding-contribution-to-the-economy-dominic.json
 ---
