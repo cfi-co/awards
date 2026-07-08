@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928195946
 wayback_snapshot_url: "http://web.archive.org/web/20220928195946/https://cfi.co/awards/best-practice/2022/containers-printers-best-sustainable-packaging-technology-most-innovative-packaging-team-southeast-asia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 60c094dec9342be6a1c0847c72efa9b5a4a8c4171f0d331d3ad46c6f1dec152d
 canonical: 10679-containers-printers-best-sustainable-packaging-technology-most-innovative-packag.json
 ---
