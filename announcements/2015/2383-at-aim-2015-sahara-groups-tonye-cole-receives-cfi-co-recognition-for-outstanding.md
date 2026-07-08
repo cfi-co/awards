@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523044318
 wayback_snapshot_url: "http://web.archive.org/web/20260523044318/https://cfi.co/awards/africa/2015/at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding-contribution-to-youth-education-in-africa/"
+license: CFI-OAAL-1.0
 content_sha256: c39f7525bac9844b77e51408adcdc31843469623dad8e1abb6e6058b8716709b
 canonical: 2383-at-aim-2015-sahara-groups-tonye-cole-receives-cfi-co-recognition-for-outstanding.json
 ---
