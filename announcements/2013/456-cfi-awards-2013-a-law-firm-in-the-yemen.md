@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921102937
 wayback_snapshot_url: "http://web.archive.org/web/20210921102937/https://cfi.co/awards/middle-east/2013/cfi-awards-2013-a-law-firm-in-the-yemen/"
+license: CFI-OAAL-1.0
 content_sha256: e9d56a59d0a6af3ffdedd3d697c81d2cd7add32a8145025a73f3bd6e0de8f82f
 canonical: 456-cfi-awards-2013-a-law-firm-in-the-yemen.json
 ---
