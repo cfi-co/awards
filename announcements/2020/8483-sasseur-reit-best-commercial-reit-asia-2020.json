@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20201203234702",
-        "wayback_snapshot_url": "http://web.archive.org/web/20201203234702/https://cfi.co/awards/asia-pacific/2020/sasseur-reit-best-commercial-reit-asia-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203234702/https://cfi.co/awards/asia-pacific/2020/sasseur-reit-best-commercial-reit-asia-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8484\" src=\"https://cfi.co/awards/wp-content/uploads/2020/11/Sasseur-Logo.jpg\" alt=\"Sasseur REIT\" width=\"400\" height=\"205\" />\r\n<p style=\"text-align: justify;\">Singapore’s Sasseur was the first outlet mall REIT (real estate investment trust) to be publicly listed in Asia. The Sasseur Group is a leading developer with a 31-year history of distributing fashion products and operating malls in China. Sasseur REIT operates under the Monetary Authority of Singapore to manage commercial real estate assets (outlet malls) in the People’s Republic of China, a market projected to become the world’s largest within the next decade. Sasseur REIT expects to see a boom in consumer spending as China’s rising middle class engages in some high-end retail therapy. There are four outlet malls included in the REIT portfolio, each in the suburbs of high-growth cities — with more in the pipeline. Sasseur REIT’s business model combines art, commerce and activities to create an ambience and elevate the shopping experience. An entrusted management agreement ensures an alignment of interests for the tenants and the REIT, promoting shared success and taking sales commission from tenants’ rent. Mutually beneficial relationships — and more than 90 percent occupancy — have historically delivered for shareholders, and tenants and investors work together in an inclusive environment. Sasseur REIT properties transcend the image of traditional shopping malls and are recognised as lifestyle centres offering a range of retail, cultural, tourism and entertainment activities. The properties are replete with modern architecture, high-class amenities and sculpted green spaces. The CFI.co judging panel announces Sasseur REIT as winner of the 2020 Best Commercial REIT (Asia) award.</p>",
     "content_sha256": "f9248c2cb2c4a8bbf089366bd9ab1e68c3b97a464b4e6a152be3ec2119b8decd",
-    "record_sha256": "b3cc30983cdfb45c984e05fe62019f80929c4f172295c060866851ea8803e6ab"
+    "record_sha256": "587ade0fa0f2debfa679a409fc6a1cc4c20f93d3473dc6ceec2518c4cd87a365"
 }
