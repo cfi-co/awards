@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042218
 wayback_snapshot_url: "http://web.archive.org/web/20260523042218/https://cfi.co/awards/asia-pacific/2013/best-law-firm-georgia-award-for-2013-goes-to-dla-piper/"
+license: CFI-OAAL-1.0
 content_sha256: e197d939582c4217b7bec8a6a8272e4a11704f623dfcb9f3edfe4186e13a672f
 canonical: 557-best-law-firm-georgia-award-for-2013-goes-to-dla-piper.json
 ---
