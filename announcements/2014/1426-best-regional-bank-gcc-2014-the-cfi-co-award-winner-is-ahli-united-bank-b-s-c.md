@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190902130034
 wayback_snapshot_url: "http://web.archive.org/web/20190902130034/https://cfi.co/awards/middle-east/2014/best-regional-bank-gcc-2014-the-cfi-co-award-winner-is-ahli-united-bank-b-s-c/"
+license: CFI-OAAL-1.0
 content_sha256: ed795964e69084709cad0c23f96dde605d23d954ce312d557a35241482fa4cb3
 canonical: 1426-best-regional-bank-gcc-2014-the-cfi-co-award-winner-is-ahli-united-bank-b-s-c.json
 ---
