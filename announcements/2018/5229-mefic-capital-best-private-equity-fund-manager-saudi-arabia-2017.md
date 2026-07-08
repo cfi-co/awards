@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724021137
 wayback_snapshot_url: "http://web.archive.org/web/20210724021137/https://cfi.co/awards/middle-east/2018/mefic-capital-best-private-equity-fund-manager-saudi-arabia-2017/"
+license: CFI-OAAL-1.0
 content_sha256: ff01dec13e06b0ad082dc5aba6491fbac9e7d0168272a740b4f977c5d6e3065d
 canonical: 5229-mefic-capital-best-private-equity-fund-manager-saudi-arabia-2017.json
 ---
