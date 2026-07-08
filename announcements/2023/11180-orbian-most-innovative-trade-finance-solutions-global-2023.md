@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330014936
 wayback_snapshot_url: "http://web.archive.org/web/20230330014936/https://cfi.co/awards/finance/2023/orbian-most-innovative-trade-finance-solutions-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 504162376449e6d3b897abe782b8b9563fabdbb0a993d2bd424289faad8673a3
 canonical: 11180-orbian-most-innovative-trade-finance-solutions-global-2023.json
 ---
