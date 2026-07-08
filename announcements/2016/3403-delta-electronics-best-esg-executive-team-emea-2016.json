@@ -26,10 +26,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210920113715",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210920113715/https://cfi.co/awards/asia-pacific/2016/delta-electronics-best-esg-executive-team-emea-2016/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210920113715/https://cfi.co/awards/asia-pacific/2016/delta-electronics-best-esg-executive-team-emea-2016/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-3404\" src=\"https://cfi.co/awards/wp-content/uploads/2016/08/Delta.jpg\" alt=\"Delta\" width=\"368\" height=\"127\" /></p>\r\n<p style=\"text-align: justify;\"><strong>For the fifth consecutive year, Delta Electronics has been included in the ESG benchmark Dow Jones Sustainability Index (DJSI) in recognition of the company’s adherence to the strictest corporate governance and citizenship standards. For three years in a row, Delta Electronics has also been part of DJSI Emerging Markets.</strong></p>\r\n<p style=\"text-align: justify;\">From 2010 to 2015, Delta’s products and solutions helped customers save approximately 17.3 billion kWh in electricity and reduce carbon emissions by 9.2 million tonnes. At its plants, the company has implemented numerous energy-saving policies and processes that have cut electricity usage in half over the past seven years.</p>\r\n<p style=\"text-align: justify;\">Delta Electronics has managed to transform its business model in such a way that ESG (environmental, social and governance) criteria now sit at the very centre of corporate operations. The company maintains a comprehensive set of regularly updated codes of conduct and a number of processes that ensure compliance at all levels. Particular attention is afforded to labour and human rights practices and corporate citizenship and philanthropy.</p>\r\n<p style=\"text-align: justify;\">Ground-breaking in its multifaceted approach to ESG and sustainability, Delta actively echoes United Nations initiatives and programmes aimed at fighting climate change. The CFI.co judging panel recognises Delta Electronics’ pioneering role in readying the global electronic equipment, instrument and component industry for the new times. The judges are pleased to offer Delta Electronics the 2016 Best ESG Executive Team EMEA Award.</p>",
     "content_sha256": "568ccf396a04c072bf71f2dfa8532676883e6aaf5396b6daa23b34df0af887f2",
-    "record_sha256": "4f9d831f308f118adcb72a360632b2a3c415ac5b4d4c51baafa6c62d5070cfcc"
+    "record_sha256": "ec74912ce80cb4d470357ebc5f6d3ebaec1caf3c7c928739b4d74e3f5e333260"
 }

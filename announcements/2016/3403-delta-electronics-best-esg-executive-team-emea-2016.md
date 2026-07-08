@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210920113715
 wayback_snapshot_url: "http://web.archive.org/web/20210920113715/https://cfi.co/awards/asia-pacific/2016/delta-electronics-best-esg-executive-team-emea-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 568ccf396a04c072bf71f2dfa8532676883e6aaf5396b6daa23b34df0af887f2
 canonical: 3403-delta-electronics-best-esg-executive-team-emea-2016.json
 ---
