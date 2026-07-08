@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260530034631
 wayback_snapshot_url: "http://web.archive.org/web/20260530034631/https://cfi.co/awards/finance/exchanges-brokers/2026/trading-com-top-broker-for-commission-free-share-investing-europe-2026/"
+license: CFI-OAAL-1.0
 content_sha256: efa01aedaf44c43dd03a53599c3367b8a26c3b1a674e81b1c832a538c94e9f12
 canonical: 13404-trading-com-top-broker-for-commission-free-share-investing-europe-2026.json
 ---
