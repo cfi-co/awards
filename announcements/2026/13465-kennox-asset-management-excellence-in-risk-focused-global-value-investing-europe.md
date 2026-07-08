@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260622033134
 wayback_snapshot_url: "http://web.archive.org/web/20260622033134/https://cfi.co/awards/finance/2026/kennox-asset-management-excellence-in-risk-focused-global-value-investing-europe-2026/"
+license: CFI-OAAL-1.0
 content_sha256: fb600018af755c23dfbad26055426612b777a61f37c651b63eaaeb950be2bd18
 canonical: 13465-kennox-asset-management-excellence-in-risk-focused-global-value-investing-europe.json
 ---
