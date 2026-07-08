@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426110257
 wayback_snapshot_url: "http://web.archive.org/web/20190426110257/https://cfi.co/awards/middle-east/2018/paulo-castellari-porchia-outstanding-contribution-to-cultural-transformation-in-mining-governance-2018/"
+license: CFI-OAAL-1.0
 content_sha256: e6811eb9a68bd9514599f92812a1f5715feb990b7470f53fcb20b7a93e6eaa5e
 canonical: 5840-paulo-castellari-porchia-outstanding-contribution-to-cultural-transformation-in-.json
 ---
