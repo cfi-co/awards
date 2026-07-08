@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251224093617
 wayback_snapshot_url: "http://web.archive.org/web/20251224093617/https://cfi.co/awards/asia-pacific/2025/universal-trustees-utpl-excellence-in-structuring-generational-wealth-india-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 472a4d3d45a2c13cf09a26bb2b96591b41dad6d19bd69f564ffa1224e4db7230
 canonical: 13241-universal-trustees-utpl-excellence-in-structuring-generational-wealth-india-2025.json
 ---
