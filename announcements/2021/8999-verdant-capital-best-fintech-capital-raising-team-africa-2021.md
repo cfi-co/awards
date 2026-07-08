@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418061020
 wayback_snapshot_url: "http://web.archive.org/web/20210418061020/https://cfi.co/awards/africa/2021/verdant-capital-best-fintech-capital-raising-team-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 620a254d07df01f605258bc49c220f4f3a035053ceecb7189c800d650ad932bf
 canonical: 8999-verdant-capital-best-fintech-capital-raising-team-africa-2021.json
 ---
