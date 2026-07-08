@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240713125549
 wayback_snapshot_url: "http://web.archive.org/web/20240713125549/https://cfi.co/awards/banking/2024/banca-widiba-best-digital-bank-italy-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 19e697053a0cdf22538c292d0a737f462515bda5f1f0638417dd241a63ccf576
 canonical: 12416-banca-widiba-best-digital-bank-italy-2024.json
 ---
