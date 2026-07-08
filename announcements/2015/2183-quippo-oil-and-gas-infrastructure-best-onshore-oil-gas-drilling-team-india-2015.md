@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921115556
 wayback_snapshot_url: "http://web.archive.org/web/20210921115556/https://cfi.co/awards/asia-pacific/2015/quippo-oil-and-gas-infrastructure-best-onshore-oil-gas-drilling-team-india-2015/"
+license: CFI-OAAL-1.0
 content_sha256: f129b85c9052ac80bac3d1d756769f076293d4b2f5be0ac57dab1d8b4490b58a
 canonical: 2183-quippo-oil-and-gas-infrastructure-best-onshore-oil-gas-drilling-team-india-2015.json
 ---
