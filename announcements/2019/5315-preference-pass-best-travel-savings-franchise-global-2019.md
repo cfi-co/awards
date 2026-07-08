@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190818132107
 wayback_snapshot_url: "http://web.archive.org/web/20190818132107/https://cfi.co/awards/front/2019/preference-pass-best-travel-savings-franchise-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: abac0413159d0e043778787243f6544fc084ecb49ed0eb69ffb3091bd48a822e
 canonical: 5315-preference-pass-best-travel-savings-franchise-global-2019.json
 ---
