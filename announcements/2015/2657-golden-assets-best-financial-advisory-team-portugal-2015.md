@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160122182858
 wayback_snapshot_url: "http://web.archive.org/web/20160122182858/http://cfi.co/awards/europe/2015/golden-assets-best-financial-advisory-team-portugal-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 8531ed54a43611aedd38a031793072a350a60ae09ecf378254a272ff424d9b9d
 canonical: 2657-golden-assets-best-financial-advisory-team-portugal-2015.json
 ---
