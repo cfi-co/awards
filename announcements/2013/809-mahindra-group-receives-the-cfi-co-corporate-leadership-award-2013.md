@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042414
 wayback_snapshot_url: "http://web.archive.org/web/20260523042414/https://cfi.co/awards/asia-pacific/2013/mahindra-group-receives-the-cfi-co-corporate-leadership-award-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 5ea7d54c19171b6560754faca552cb99ca4ff67d545000491704b19eec8a8015
 canonical: 809-mahindra-group-receives-the-cfi-co-corporate-leadership-award-2013.json
 ---
