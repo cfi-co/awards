@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525045939
 wayback_snapshot_url: "http://web.archive.org/web/20260525045939/https://cfi.co/awards/asia-pacific/2017/commercial-bank-of-ceylon-cbc-most-responsible-bank-sri-lanka-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 2e4e3d196e2434dfa676b7a529488c63c3aa6a8285888768f6bda9363bda4150
 canonical: 4916-commercial-bank-of-ceylon-cbc-most-responsible-bank-sri-lanka-2017.json
 ---
