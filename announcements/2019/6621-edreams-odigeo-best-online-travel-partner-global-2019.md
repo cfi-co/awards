@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724091722
 wayback_snapshot_url: "http://web.archive.org/web/20190724091722/https://cfi.co/awards/customer-satisfaction/2019/edreams-odigeo-best-online-travel-partner-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: e5dc60fea59258adbc0ad3badd2d45fd51b856e1f94ce7beb15a2063ece0eee0
 canonical: 6621-edreams-odigeo-best-online-travel-partner-global-2019.json
 ---
