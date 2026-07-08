@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190216035452
 wayback_snapshot_url: "http://web.archive.org/web/20190216035452/https://cfi.co/awards/front/2018/lienvietpostbank-best-retail-bank-vietnam-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 03404a891423a2066e4d8591fa4cbcfe5779919df74c57d0ce9b11f5dc57b450
 canonical: 6171-lienvietpostbank-best-retail-bank-vietnam-2018.json
 ---
