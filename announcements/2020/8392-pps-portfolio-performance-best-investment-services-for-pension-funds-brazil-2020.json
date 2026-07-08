@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20201203233511",
-        "wayback_snapshot_url": "http://web.archive.org/web/20201203233511/https://cfi.co/awards/latin-america/2020/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203233511/https://cfi.co/awards/latin-america/2020/pps-portfolio-performance-best-investment-services-for-pension-funds-brazil-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-4996\" src=\"https://cfi.co/awards/wp-content/uploads/2017/10/PPS.jpg\" alt=\"PPS\" width=\"265\" height=\"65\" />\r\n<p style=\"text-align: justify;\">Despite the challenges of the pandemic, Brazilian pension fund consultancy PPS Portfolio Performance has continued to onboard clients in 2020. Over the firm’s 24-year history, people have come to trust its team’s advice and guidance. PPS focuses predominantly on pension funds, but also works with a selection of insurance companies and corporations. PPS services are tailored to client needs and may include assistance with the selection of managers and funds, evaluation and recommendations on investment structures, asset liability management and portfolio internationalisation. PPS believes the current investment environment calls for new strategies with greater diversification. Over the past two years, it has been laying the foundation for stronger partnerships that ease access to international markets. PPS has forged a relationship with Meketa, an independent, employee-owned, full-service investment consultancy in the US that advises on AUM worth more than $1.4tn. PPS has strengthened its internal ranks by recruiting specialists with outstanding educational pedigrees, international experience and backgrounds in financial markets and pension plans. PPS has released an updated version of its proprietary software programme with new tools to support the automated, quantitative evaluation of portfolio performance. Further due-diligence is supported through qualitative assessments. For the fourth consecutive year, the CFI.co judging panel has found reason to follow this company’s trajectory; it presents PPS Portfolio Performance with the 2020 award for Best Investment Services for Pension Funds (Brazil).</p>",
     "content_sha256": "9a9ca030ad888c57e47f2fee74c100dec1d087e1c5e14d33b5d212b6e86cd01b",
-    "record_sha256": "f5a34ee106b5a57ee94df22fb7d43a3cd9ca20d037825c97ef36d93606a82f66"
+    "record_sha256": "bbb060da3532b59323b14934dbac7845ea4608c74d699e7da0832ad0d8b0fdd6"
 }
