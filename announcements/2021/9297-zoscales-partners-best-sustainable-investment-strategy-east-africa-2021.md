@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725062308
 wayback_snapshot_url: "http://web.archive.org/web/20210725062308/https://cfi.co/awards/africa/2021/zoscales-partners-best-sustainable-investment-strategy-east-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 4e878ba02e21b8fd7e5b9799969c3cdd847322387125961d5f10787882a12b25
 canonical: 9297-zoscales-partners-best-sustainable-investment-strategy-east-africa-2021.json
 ---
