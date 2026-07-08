@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315113812
 wayback_snapshot_url: "http://web.archive.org/web/20260315113812/https://cfi.co/awards/europe/2026/orcan-energy-ag-champion-of-industrial-energy-efficiency-europe-2025/"
+license: CFI-OAAL-1.0
 content_sha256: a4473167a4a3447a2882f02f7c29ecdd1391e66d3837cedbac212341ae73d170
 canonical: 13300-orcan-energy-ag-champion-of-industrial-energy-efficiency-europe-2025.json
 ---
