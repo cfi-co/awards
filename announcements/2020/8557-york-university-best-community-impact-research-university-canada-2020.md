@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201209153656
 wayback_snapshot_url: "http://web.archive.org/web/20201209153656/https://cfi.co/awards/north-america/2020/york-university-best-community-impact-research-university-canada-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 433a50374e6073cd7f7ae296cb5b50047571105b8d579bb4bb9809e774d36982
 canonical: 8557-york-university-best-community-impact-research-university-canada-2020.json
 ---
