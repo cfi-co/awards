@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717214122
 wayback_snapshot_url: "http://web.archive.org/web/20190717214122/https://cfi.co/awards/africa/2017/barclays-africa-group-best-sme-partner-bank-africa-2016/"
+license: CFI-OAAL-1.0
 content_sha256: b6a460979a8efd81abdce7c4c0f43f78f8e7fc1dce41a220c46ba9f51053f268
 canonical: 3830-barclays-africa-group-best-sme-partner-bank-africa-2016.json
 ---
