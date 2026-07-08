@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528043509
 wayback_snapshot_url: "http://web.archive.org/web/20260528043509/https://cfi.co/awards/africa/2023/smit-moroccan-agency-for-tourism-development-best-tourism-investment-promotion-team-north-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: ff23d6f2b003ddeaaa37b5c36bf5beb8fbb06267bfdbd791acf27bc822080349
 canonical: 12150-smit-moroccan-agency-for-tourism-development-best-tourism-investment-promotion-t.json
 ---
