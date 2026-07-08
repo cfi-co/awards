@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220811144328
 wayback_snapshot_url: "http://web.archive.org/web/20220811144328/https://cfi.co/awards/europe/2022/deutsche-oppenheim-family-office-best-strategic-asset-allocation-team-germany-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 5cb044e3e00acbb4128207bc98d39a0cd785e088b1d17c865d35b6ca0038834b
 canonical: 10584-deutsche-oppenheim-family-office-best-strategic-asset-allocation-team-germany-20.json
 ---
