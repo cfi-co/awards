@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527044651
 wayback_snapshot_url: "http://web.archive.org/web/20260527044651/https://cfi.co/awards/europe/2023/xm-best-customer-support-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 03bb578e697e9775ce18ccc995f3b8e7619d4282756a4706d201e200daac2126
 canonical: 11547-xm-best-customer-support-global-2023.json
 ---
