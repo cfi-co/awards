@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170318125750
 wayback_snapshot_url: "http://web.archive.org/web/20170318125750/http://cfi.co/awards/north-america/2017/park-west-gallery-best-independent-fine-art-auction-house-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 63a38df1355773ae862f87f11006af5cb5ea6c40a5d0355cfdece9a8e80e7247
 canonical: 3787-park-west-gallery-best-independent-fine-art-auction-house-global-2016.json
 ---
