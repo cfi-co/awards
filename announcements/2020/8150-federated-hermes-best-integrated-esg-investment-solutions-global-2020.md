@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200923105142
 wayback_snapshot_url: "http://web.archive.org/web/20200923105142/https://cfi.co/awards/north-america/2020/federated-hermes-best-integrated-esg-investment-solutions-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: a4203a60ca6d0bf5f2e3438c21924635900642db5346507e79ba723f98ba7e46
 canonical: 8150-federated-hermes-best-integrated-esg-investment-solutions-global-2020.json
 ---
