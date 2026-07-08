@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523045117
 wayback_snapshot_url: "http://web.archive.org/web/20260523045117/https://cfi.co/awards/africa/2015/umeme-best-esg-power-producer-uganda-2015/"
+license: CFI-OAAL-1.0
 content_sha256: c401779739072677d1c11d9c032b859797d2b288855e69c31b228bccc57de2af
 canonical: 4784-umeme-best-esg-power-producer-uganda-2015.json
 ---
