@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220828144801
 wayback_snapshot_url: "http://web.archive.org/web/20220828144801/https://cfi.co/awards/africa/2022/first-registrars-investor-services-best-registrar-services-nigeria-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 465d75110d80c81695a38177a8f93a0664d16f62e3b25c1086edeaa09c368b0b
 canonical: 10667-first-registrars-investor-services-best-registrar-services-nigeria-2022.json
 ---
