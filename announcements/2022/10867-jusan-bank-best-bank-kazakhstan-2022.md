@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221208004134
 wayback_snapshot_url: "http://web.archive.org/web/20221208004134/https://cfi.co/awards/banking/2022/jusan-bank-best-bank-kazakhstan-2022/"
+license: CFI-OAAL-1.0
 content_sha256: dde42c6073a81a1ea70e6f8b0bdfd4285a6f9d8d5dcd0dd097ce83e67fb0e137
 canonical: 10867-jusan-bank-best-bank-kazakhstan-2022.json
 ---
