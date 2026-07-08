@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525060319
 wayback_snapshot_url: "http://web.archive.org/web/20260525060319/https://cfi.co/awards/front/2018/sanlam-investments-best-fund-investment-manager-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 4331139d063ee777b06b9253c79d3532f0516d648ecd9e9e3a7cf005895fd7b9
 canonical: 6214-sanlam-investments-best-fund-investment-manager-africa-2018.json
 ---
