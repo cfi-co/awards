@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220109161609
 wayback_snapshot_url: "http://web.archive.org/web/20220109161609/https://cfi.co/awards/africa/2022/brahms-group-best-african-project-developer-switzerland-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 73a49c33e12f9663ae5d3e76114e5d6806f6b3a2d3a3b2595f58d79ffd13b0b8
 canonical: 9931-brahms-group-best-african-project-developer-switzerland-2021.json
 ---
