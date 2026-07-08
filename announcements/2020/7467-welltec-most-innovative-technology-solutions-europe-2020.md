@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525074422
 wayback_snapshot_url: "http://web.archive.org/web/20260525074422/https://cfi.co/awards/europe/2020/welltec-most-innovative-technology-solutions-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 69c1a0886a694828da5d8fb7ea05f7ce7ee7631dda90630316692bdd237bc45b
 canonical: 7467-welltec-most-innovative-technology-solutions-europe-2020.json
 ---
