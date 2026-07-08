@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524043529
 wayback_snapshot_url: "http://web.archive.org/web/20260524043529/https://cfi.co/awards/africa/2016/tricepts-management-solutions-best-management-consultancy-firm-kenya-2016/"
+license: CFI-OAAL-1.0
 content_sha256: a0ed6ac62ad90f49c29c547285dee973340592a31048af7d3a5934d413b76dbd
 canonical: 4104-tricepts-management-solutions-best-management-consultancy-firm-kenya-2016.json
 ---
