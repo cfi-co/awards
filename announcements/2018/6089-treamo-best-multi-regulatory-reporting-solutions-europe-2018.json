@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20190724090530",
-        "wayback_snapshot_url": "http://web.archive.org/web/20190724090530/https://cfi.co/awards/professional-services/2018/treamo-best-multi-regulatory-reporting-solutions-europe-2018/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20190724090530/https://cfi.co/awards/professional-services/2018/treamo-best-multi-regulatory-reporting-solutions-europe-2018/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-6090\" src=\"https://cfi.co/awards/wp-content/uploads/2018/10/Treamo.jpg\" alt=\"\" width=\"500\" height=\"110\" />\r\n<p style=\"text-align: justify;\"><strong>While regulators strive to reduce complexity, companies have to battle to keep their bearings in the resulting blizzard of regulatory financial requirements and reporting obligations.</strong> Companies need considerable resources to ensure the correct implementation of this constant stream of change. A multitude of service-providers deliver solutions for companies, and CFI.co received nominations for the select few which excel in the milieu. While the other shortlisted nominees seemed to be getting the basics right, the judging panel saw instantly that one company really stood out: Treamo, with its EMIRate cloud-based solution. The organisation caught the judges’ attention with its concentrated focus on always putting the client first. EMIRate takes away the headaches that reporting obligations can create, and responds promptly to all enquiries. The result – as the EMIRate solution intended – is that clients can get on with the job of making a profit and ensuring a stable cashflow, while Treamo takes care of the rest. The CFI.co judges had no hesitation in announcing Treamo’s EMIRate as winner of the Best Multi-Regulatory Reporting Solutions (Europe) 2018 award.</p>",
     "content_sha256": "6c356bdea90920c9046918810bbd5fcc949dcdb14bff85a4873471f001d2311b",
-    "record_sha256": "a25d943e10d3c6f206accfcc7680bef61147f622b4ee917146627e9b4ca2b8aa"
+    "record_sha256": "6b2cb296810d396c4559d4024b2c2a2e1c88e869725819f4c44c486a46404498"
 }
