@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005524
 wayback_snapshot_url: "http://web.archive.org/web/20190723005524/https://cfi.co/awards/middle-east/2019/investment-house-best-investment-banking-solutions-middle-east-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 418c4d5284bf9776e3fdffbe637c63253d7c81c971379a4fb8bd589b3d550c54
 canonical: 6772-investment-house-best-investment-banking-solutions-middle-east-2019.json
 ---
