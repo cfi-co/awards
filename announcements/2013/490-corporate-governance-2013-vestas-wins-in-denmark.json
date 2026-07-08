@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260523041805",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260523041805/https://cfi.co/awards/europe/2013/corporate-governance-2013-vestas-wins-in-denmark/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523041805/https://cfi.co/awards/europe/2013/corporate-governance-2013-vestas-wins-in-denmark/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"alignright  wp-image-491\" alt=\"vestas\" src=\"https://cfi.co/awards/wp-content/uploads/2013/05/vestas.jpg\" width=\"230\" height=\"190\" />Vestas Wind Systems A/S wins CFI’s award for ‘Best Corporate Governance, 2013’.</strong> The panel decided that the approach taken by all the Danish companies considered for the corporate governance award was outstanding and that this reflected extremely well on Denmark’s approach to business. However the judges took the view that Vestas’s approach to the on-going adaptation of corporate governance alongside their efforts to ensure highly transparent communications in all aspects business and marketing strategy set them apart from their competitors.</p>",
     "content_sha256": "0d96b205a3d671a2a4e2219b3976f1b3166171d483e96af7a71b22ae550acaa1",
-    "record_sha256": "aa8b25d01f1b059921537718dd847e16ff0e42eba7edd94f06dfc0f535079d6f"
+    "record_sha256": "0862270de0b9f99b43c0bf1c6fb47e9d9f81654f26e75d8e29b0727123087c02"
 }

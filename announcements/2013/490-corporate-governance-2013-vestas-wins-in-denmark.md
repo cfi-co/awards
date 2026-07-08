@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523041805
 wayback_snapshot_url: "http://web.archive.org/web/20260523041805/https://cfi.co/awards/europe/2013/corporate-governance-2013-vestas-wins-in-denmark/"
+license: CFI-OAAL-1.0
 content_sha256: 0d96b205a3d671a2a4e2219b3976f1b3166171d483e96af7a71b22ae550acaa1
 canonical: 490-corporate-governance-2013-vestas-wins-in-denmark.json
 ---
