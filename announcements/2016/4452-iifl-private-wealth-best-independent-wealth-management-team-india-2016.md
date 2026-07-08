@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921110508
 wayback_snapshot_url: "http://web.archive.org/web/20210921110508/https://cfi.co/awards/asia-pacific/2016/iifl-private-wealth-best-independent-wealth-management-team-india-2016/"
+license: CFI-OAAL-1.0
 content_sha256: ed565b70be9e0a43204e7c764641ded23070bc99b7f143e7fb9696e58b0db60c
 canonical: 4452-iifl-private-wealth-best-independent-wealth-management-team-india-2016.json
 ---
