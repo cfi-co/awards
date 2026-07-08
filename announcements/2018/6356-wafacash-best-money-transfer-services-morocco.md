@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094400
 wayback_snapshot_url: "http://web.archive.org/web/20190426094400/https://cfi.co/awards/africa/2018/wafacash-best-money-transfer-services-morocco-2017/"
+license: CFI-OAAL-1.0
 content_sha256: e3316466790eee3f817eb0b8e04e8250db479cdba78433baaf125d6cf2ba8adf
 canonical: 6356-wafacash-best-money-transfer-services-morocco.json
 ---
