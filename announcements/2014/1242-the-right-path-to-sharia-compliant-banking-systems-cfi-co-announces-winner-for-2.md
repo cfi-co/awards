@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140731050301
 wayback_snapshot_url: "http://web.archive.org/web/20140731050301/http://cfi.co/awards/middle-east/2014/the-right-path-to-sharia-compliant-banking-systems-cfi-co-announces-winner-for-2014/"
+license: CFI-OAAL-1.0
 content_sha256: dce20f879a900bcb89f8f04c5b7d56ca2697a69e96df332c651984170d730ca8
 canonical: 1242-the-right-path-to-sharia-compliant-banking-systems-cfi-co-announces-winner-for-2.json
 ---
