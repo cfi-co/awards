@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426104603
 wayback_snapshot_url: "http://web.archive.org/web/20190426104603/https://cfi.co/awards/latin-america/2017/engie-energia-peru-best-esg-power-provider-peru-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 0f38d93b574e801f34383855b0d5f57b116fc1305a4adf50201ef77ea5a2bfcc
 canonical: 5079-engie-energia-peru-best-esg-power-provider-peru-2017.json
 ---
