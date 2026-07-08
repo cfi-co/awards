@@ -31,10 +31,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210228104645",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210228104645/https://cfi.co/awards/latin-america/2021/mrv-engenharia-best-esg-responsible-development-leadership-brazil-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210228104645/https://cfi.co/awards/latin-america/2021/mrv-engenharia-best-esg-responsible-development-leadership-brazil-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8721\" src=\"https://cfi.co/awards/wp-content/uploads/2021/01/MRV.jpg\" alt=\"MRV\" width=\"400\" height=\"111\" />\r\n<p style=\"text-align: justify;\">Over the past four decades, MRV Engenharia has built over 400,000 high-quality, low-cost homes, housing more than a million people. The Brazilian construction company is dedicated to creating accessible housing for low-income families. MRV is the largest residential developer in Latin America, with a presence in 160 cities and 22 states. One in every 150 Brazilians call an MRV property home, and the company helps first-time buyers claim government subsidies to facilitate their dream of home ownership. It targets sustainability throughout its project portfolio, achieving high levels of ISO certification and industry recognition. MRV has taken a stance on climate action; over the past decade, it has planted nearly 1.5 million trees in green spaces and public areas. It aims to set an industry benchmark by prioritising people and planet, citing its large market capitalisation and expansive operations as advantages in making positive community impacts. It follows-through on a commitment to transparency, with annual reports highlighting progress towards the UN’s 17 Sustainable Development Goals, focusing on the eight where it can best contribute. It established the MRV Institute 10 years ago and invests one percent of annual income to support education, culture and sports programmes. The company has opened 170 schools, combatting illiteracy and benefiting employees. MRV is proud of its accomplishments and energised by future possibilities. The CFI.co judging panel unanimously declares MRV Engenharia as winner of the 2020 award for Best ESG Responsible Development Leadership (Brazil).</p>",
     "content_sha256": "15d3b0b1dd2d3bbe239c632c3f19b2ae49f603107d5b0742b9a8d6f120dc316b",
-    "record_sha256": "9e4ef7ffea617b9ef15e6164524d27db66cbc4a47147336b5f569d87911b11b9"
+    "record_sha256": "616dca41efc875b19b1d6c6f1a8f59dd478089257ca97e8fb8df376e7471bf43"
 }
