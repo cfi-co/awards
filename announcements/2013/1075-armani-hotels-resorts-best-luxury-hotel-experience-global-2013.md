@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409054430
 wayback_snapshot_url: "http://web.archive.org/web/20140409054430/http://cfi.co/awards/industries/2013/armani-hotels-resorts-best-luxury-hotel-experience-global-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 8d9667b80bbf5e604c6707d38a7aa99f4d9e4d7bb2f85b5aa24029031727ec99
 canonical: 1075-armani-hotels-resorts-best-luxury-hotel-experience-global-2013.json
 ---
