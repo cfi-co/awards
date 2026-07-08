@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525052537
 wayback_snapshot_url: "http://web.archive.org/web/20260525052537/https://cfi.co/awards/asia-pacific/2018/islamic-bank-of-afghanistan-best-business-bank-afghanistan-2018/"
+license: CFI-OAAL-1.0
 content_sha256: bd7d849a201b07c54ea2a55af2a2cc6c31f42e410a0c99b1325f39eaf347b7ec
 canonical: 5517-islamic-bank-of-afghanistan-best-business-bank-afghanistan-2018.json
 ---
