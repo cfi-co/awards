@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525064922
 wayback_snapshot_url: "http://web.archive.org/web/20260525064922/https://cfi.co/awards/africa/2019/dlm-advisory-partners-best-structured-finance-and-securitisation-team-west-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 57dfd5d9923151b565bb5d4318440f69258ecceaa4aabb0959b99b6148267b43
 canonical: 7291-dlm-advisory-partners-best-structured-finance-and-securitisation-team-west-afric.json
 ---
