@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203234345
 wayback_snapshot_url: "http://web.archive.org/web/20201203234345/https://cfi.co/awards/africa/2020/guinness-nigeria-plc-best-consumer-goods-corporate-citizen-africa-2020/"
+license: CFI-OAAL-1.0
 content_sha256: cefba4898244f803bd8863f300aac65e5dc962754bdf526c356e73a4e1863362
 canonical: 7620-guinness-nigeria-plc-best-consumer-goods-corporate-citizen-africa-2020.json
 ---

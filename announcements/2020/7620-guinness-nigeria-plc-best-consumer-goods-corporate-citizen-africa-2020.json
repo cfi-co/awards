@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20201203234345",
-        "wayback_snapshot_url": "http://web.archive.org/web/20201203234345/https://cfi.co/awards/africa/2020/guinness-nigeria-plc-best-consumer-goods-corporate-citizen-africa-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20201203234345/https://cfi.co/awards/africa/2020/guinness-nigeria-plc-best-consumer-goods-corporate-citizen-africa-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7621\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/Guinness.jpg\" alt=\"Guinness\" width=\"400\" height=\"302\" />\r\n<p style=\"text-align: justify;\">Guinness Nigeria became the iconic drinks brand’s first overseas operation 70 years ago. Nigeria now reigns as the world's second-largest market for Guinness (after the UK; Ireland comes in third). The first dark stout was brewed just three years after Nigeria gained its independence. The company aims to elevate the national business standard through exemplary corporate citizenship. It has a record of transparency, accountability, and community engagement, employing 1,000 full-time employees and 3,000 contract workers. The country advances in tandem with the company, and about 30,000 local farmers are part of the supply chain. Guinness Nigeria holds its partners to exacting standards, helping to raise the production sector’s international reputation. It has 68,000 shareholders and aligns business with three SDG pillars: positive change, thriving communities, and the reduction of environmental impacts. It has improved local water access, healthcare and sanitation systems, and funds university scholarships. Its environmental standards focus on “reduce, re-use, recover and recycle” and water use is carefully monitored. Responsible alcohol consumption is encouraged via anti-drink-drive campaigns and the donation of breathalyser kits to law enforcement. The CFI.co judging panel raises a glass to the company’s community contributions and declares Guinness Nigeria PLC the 2020 winner of the award for Best Consumer Goods Corporate Citizen (Africa).</p>",
     "content_sha256": "cefba4898244f803bd8863f300aac65e5dc962754bdf526c356e73a4e1863362",
-    "record_sha256": "84d378279fb0ffa5f420a2d421b27facc42b9b515ae5c1316024b604f814325b"
+    "record_sha256": "ee7c4c589278d0ffb65b99dae2ab9ab87fd267583f6c481bbe4eac15e3fa54d0"
 }
