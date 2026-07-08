@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923181126
 wayback_snapshot_url: "http://web.archive.org/web/20230923181126/https://cfi.co/awards/industries/technology/2023/meritech-capital-partners-most-innovative-technology-venture-capital-investor-us-2023/"
+license: CFI-OAAL-1.0
 content_sha256: e4bd8e242f57a16099101846234fb77920861f74c410a825c250c2036e4117be
 canonical: 11589-meritech-capital-partners-most-innovative-technology-venture-capital-investor-us.json
 ---
