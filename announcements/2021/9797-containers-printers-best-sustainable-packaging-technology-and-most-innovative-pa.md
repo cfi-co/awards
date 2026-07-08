@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207214226
 wayback_snapshot_url: "http://web.archive.org/web/20211207214226/https://cfi.co/awards/asia-pacific/2021/containers-printers-best-sustainable-packaging-technology-and-most-innovative-packaging-team-south-east-asia-2021/"
+license: CFI-OAAL-1.0
 content_sha256: f25e89ea27e07ab6c6d729e941e30d3860152dd41ea26602e4de6135410a980f
 canonical: 9797-containers-printers-best-sustainable-packaging-technology-and-most-innovative-pa.json
 ---
