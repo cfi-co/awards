@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810084702
 wayback_snapshot_url: "http://web.archive.org/web/20200810084702/https://cfi.co/awards/north-america/2020/mckesson-best-pharmaceuticals-distributor-north-america-2020/"
+license: CFI-OAAL-1.0
 content_sha256: b4ebc552a0bc4ea9bdcab6488b7be40a4fbdb845c7a799d9a420d6bc850f95b3
 canonical: 7517-mckesson-best-pharmaceuticals-distributor-north-america-2020.json
 ---
