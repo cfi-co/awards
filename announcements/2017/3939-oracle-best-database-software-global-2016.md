@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524050229
 wayback_snapshot_url: "http://web.archive.org/web/20260524050229/https://cfi.co/awards/industries/2017/oracle-best-database-software-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: f5a20d21074b62efe6d6ba6e97212d08b02ade70e83774aa3965742476f2c51b
 canonical: 3939-oracle-best-database-software-global-2016.json
 ---
