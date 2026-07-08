@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260529035455
 wayback_snapshot_url: "http://web.archive.org/web/20260529035455/https://cfi.co/awards/best-practice/2022/bcpg-public-company-limited-best-clean-energy-community-solutions-south-east-asia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: e28c375479a2e44f93e315d3a9a670cc23fb6ee0142765f553a34aff211c814c
 canonical: 10497-bcpg-public-company-limited-best-clean-energy-community-solutions-south-east-asi.json
 ---
