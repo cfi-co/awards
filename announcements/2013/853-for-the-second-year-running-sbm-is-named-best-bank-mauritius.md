@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20131021160302
 wayback_snapshot_url: "http://web.archive.org/web/20131021160302/http://cfi.co/awards/africa/2013/for-the-second-year-running-sbm-is-named-best-bank-mauritius/"
+license: CFI-OAAL-1.0
 content_sha256: 479198aa7b0dc35097d8db343ea4fb0d415600940b125af2205a28186c528c31
 canonical: 853-for-the-second-year-running-sbm-is-named-best-bank-mauritius.json
 ---

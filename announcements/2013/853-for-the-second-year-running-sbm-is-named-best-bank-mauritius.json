@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20131021160302",
-        "wayback_snapshot_url": "http://web.archive.org/web/20131021160302/http://cfi.co/awards/africa/2013/for-the-second-year-running-sbm-is-named-best-bank-mauritius/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20131021160302/http://cfi.co/awards/africa/2013/for-the-second-year-running-sbm-is-named-best-bank-mauritius/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-858\" src=\"https://cfi.co/awards/wp-content/uploads/2012/10/SBM-Logo.jpg\" alt=\"SBM-Logo\" width=\"250\" height=\"125\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The State Bank of Mauritius, one of the country’s largest financial institutions, is strengthening its leadership position year by year.</strong></p>\r\n<p style=\"text-align: justify;\"><img class=\"alignright  wp-image-854\" src=\"https://cfi.co/awards/wp-content/uploads/2013/10/SBM-Tower.jpg\" alt=\"SBM Tower\" width=\"108\" height=\"136\" />Noting the bank’s excellent results, the CFI.co Judging Panel was unanimous in naming SBM as Best Bank Mauritius for the year 2013. The judges pointed to the bank’s outstanding growth record, its innovations and its obvious concern for all stakeholders.</p>\r\n<p style=\"text-align: justify;\">SBM was the CFI.co award winner in the same category last year and the panel congratulates both management and staff on this impressive achievement. Quality of service is at the heart of the SBM proposition and this is reflected in an extensive branch network and a reputation for accessibility, security and technological excellence.</p>",
     "content_sha256": "479198aa7b0dc35097d8db343ea4fb0d415600940b125af2205a28186c528c31",
-    "record_sha256": "080c26ceeff598931aeaf6024683e64d874ce3b80fb4424ee831b2d86622426f"
+    "record_sha256": "ce98da7f1b5890bde25a09f67cee5b803d01dcc324065994f3676fb78105d234"
 }
