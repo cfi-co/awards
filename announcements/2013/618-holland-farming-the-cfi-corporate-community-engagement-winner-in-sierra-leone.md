@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209182742
 wayback_snapshot_url: "http://web.archive.org/web/20250209182742/https://cfi.co/awards/africa/2013/holland-farming-the-cfi-corporate-community-engagement-winner-in-sierra-leone/"
+license: CFI-OAAL-1.0
 content_sha256: e9716889b98b19dfd5e8709822f411619e39c92913dacc14f700df24bba49cac
 canonical: 618-holland-farming-the-cfi-corporate-community-engagement-winner-in-sierra-leone.json
 ---
