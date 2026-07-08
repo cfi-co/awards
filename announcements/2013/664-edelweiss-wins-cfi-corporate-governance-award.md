@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924130519
 wayback_snapshot_url: "http://web.archive.org/web/20210924130519/https://cfi.co/awards/asia-pacific/2013/edelweiss-wins-cfi-corporate-governance-award/"
+license: CFI-OAAL-1.0
 content_sha256: 9685471b0e626cdb1eb9a13449c974a55b20b3ae0936030c68388e2329601453
 canonical: 664-edelweiss-wins-cfi-corporate-governance-award.json
 ---
