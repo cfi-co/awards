@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260604033726
 wayback_snapshot_url: "http://web.archive.org/web/20260604033726/https://cfi.co/awards/europe/2026/medirect-digital-savings-and-investing-platform-excellence-europe-2026/"
+license: CFI-OAAL-1.0
 content_sha256: d50441407d0740556e5208e9b8d4db74ad0a558700066f75346de3bf337e416c
 canonical: 13408-medirect-digital-savings-and-investing-platform-excellence-europe-2026.json
 ---
