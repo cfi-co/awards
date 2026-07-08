@@ -32,6 +32,10 @@ $US     = "\x1f";                            // field separator (unit separator)
 
 $EDITORIAL_AUTHOR = 'CFI.co Editorial';
 
+// Machine-readable licence identifier stamped into every record (schema v2.2,
+// 2026-07-08). Canonical text: LICENCE.md / https://cfi.co/licence/oaal-1.0
+$LICENCE_ID = 'CFI-OAAL-1.0';
+
 // Every item here is an award recognition/assessment, not general news.
 $DEFAULT_CONTENT_CLASS = 'award_rationale';
 $CONTENT_CLASS_BY_SLUG = array();   // no interview/opinion/review on the awards site
@@ -139,6 +143,7 @@ foreach ($posts as $p) {
         'wayback_status'         => $wb['status'],   // archived | submitted_pending | not_found | pending_check
         'wayback_first_snapshot' => $wb['ts'],       // earliest Wayback capture (YYYYMMDDhhmmss)
         'wayback_snapshot_url'   => $wb['snap'],
+        'license'                => $LICENCE_ID,   // CFI.co Open AI Access Licence (schema v2.2)
     );
 
     // Exact machine record. Key order is fixed; record_sha256 covers all
@@ -189,6 +194,7 @@ foreach ($posts as $p) {
         $fm .= 'wayback_first_snapshot: ' . $classification['wayback_first_snapshot'] . "\n";
         $fm .= 'wayback_snapshot_url: ' . yaml_str($classification['wayback_snapshot_url']) . "\n";
     }
+    $fm .= 'license: ' . $classification['license'] . "\n";
     $fm .= 'content_sha256: ' . $chash . "\n";
     $fm .= 'canonical: ' . $id . '-' . $slug . ".json\n";
     $fm .= "---\n\n";
