@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330022319
 wayback_snapshot_url: "http://web.archive.org/web/20230330022319/https://cfi.co/awards/europe/2023/kbc-asset-management-nv-best-asset-management-team-belgium-2023/"
+license: CFI-OAAL-1.0
 content_sha256: bb737139bfe46f4872b620c08d5e43d036329dd3c4349c80f6bae32495bead28
 canonical: 11226-kbc-asset-management-nv-best-asset-management-team-belgium-2023.json
 ---
