@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525070605
 wayback_snapshot_url: "http://web.archive.org/web/20260525070605/https://cfi.co/awards/north-america/2019/pyramidal-technologies-best-forensic-technology-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: eb63bd6c6de51c75469dd69a8bac0abbb3299e2283bbf5e7a79f2145fc087a67
 canonical: 7900-pyramidal-technologies-best-forensic-technology-global-2019.json
 ---
