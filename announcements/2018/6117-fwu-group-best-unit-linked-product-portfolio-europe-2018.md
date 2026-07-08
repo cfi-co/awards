@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094445
 wayback_snapshot_url: "http://web.archive.org/web/20190426094445/https://cfi.co/awards/front/2018/fwu-group-best-unit-linked-product-portfolio-europe-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 8ce36fb7698ae37da43bb347df3c3b6c0500a4027fc489f38a6537a2de9d9eb2
 canonical: 6117-fwu-group-best-unit-linked-product-portfolio-europe-2018.json
 ---
