@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250215031751
 wayback_snapshot_url: "http://web.archive.org/web/20250215031751/https://cfi.co/awards/banking/2024/bank-one-limited-best-custodian-bank-indian-ocean-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 72ea12b2d5aefa523ca237edb2466a9d7c610f1e1f927b80a572368f6428946d
 canonical: 12591-bank-one-limited-best-custodian-bank-indian-ocean-2024.json
 ---
