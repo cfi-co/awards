@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420135725
 wayback_snapshot_url: "http://web.archive.org/web/20240420135725/https://cfi.co/awards/finance/2023/boursa-kuwait-best-capital-market-esg-strategy-gcc-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 6213bb50c6556bc57bddd1953416dfa49b57f93a1ab136f854291b37a3db623d
 canonical: 11246-boursa-kuwait-best-capital-market-esg-strategy-gcc-2022.json
 ---
