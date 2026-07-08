@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250730134424
 wayback_snapshot_url: "http://web.archive.org/web/20250730134424/https://cfi.co/awards/banking/2025/european-bank-of-reconstruction-and-development-ebrd-trailblazers-in-climate-finance-initiatives-europe-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 8472a95e35cb78079146d26e6744eb2320d5fc10d379ff0152664d1b36eb4741
 canonical: 13057-european-bank-of-reconstruction-and-development-ebrd-trailblazers-in-climate-fin.json
 ---
