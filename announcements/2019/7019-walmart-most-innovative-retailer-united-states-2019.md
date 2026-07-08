@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525064424
 wayback_snapshot_url: "http://web.archive.org/web/20260525064424/https://cfi.co/awards/north-america/2019/walmart-most-innovative-retailer-united-states-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 6a3b18be38ea937372746db9e7fae19f73ad25972afef5084c10d96bdd666339
 canonical: 7019-walmart-most-innovative-retailer-united-states-2019.json
 ---
