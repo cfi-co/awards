@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160813215131
 wayback_snapshot_url: "http://web.archive.org/web/20160813215131/http://cfi.co/awards/europe/2015/edreams-odigeo-best-online-travel-partner-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 01ff94792c3c290f01504c38e6eb28f670795d96a7ed89948598d73fbabdfc68
 canonical: 2714-edreams-odigeo-best-online-travel-partner-2015.json
 ---
