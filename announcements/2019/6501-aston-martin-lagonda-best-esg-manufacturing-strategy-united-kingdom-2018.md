@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203064142
 wayback_snapshot_url: "http://web.archive.org/web/20221203064142/https://cfi.co/awards/front/2019/aston-martin-lagonda-best-esg-manufacturing-strategy-united-kingdom-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 18e7d13dd7a0cd21a856577aec512b683df291f3f3de764811fd9401e9811541
 canonical: 6501-aston-martin-lagonda-best-esg-manufacturing-strategy-united-kingdom-2018.json
 ---
