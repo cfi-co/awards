@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330015554
 wayback_snapshot_url: "http://web.archive.org/web/20230330015554/https://cfi.co/awards/development/2023/metito-most-impactful-water-company-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 5ab6fbc47723c7f20f50f9abc01625041c80c4b2c302c90ff9fbfac8bbe11c78
 canonical: 11133-metito-most-impactful-water-company-global-2022.json
 ---
