@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260603033348
 wayback_snapshot_url: "http://web.archive.org/web/20260603033348/https://cfi.co/awards/corporate-leadership/2021/dtidz-best-free-economic-zone-leadership-balkans-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 3f1893b32afc0033780e35f21463abf2bf7857ef8daad8551fe33003f8f35422
 canonical: 9469-dtidz-best-free-economic-zone-leadership-balkans-2021.json
 ---
