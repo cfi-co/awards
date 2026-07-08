@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426095322
 wayback_snapshot_url: "http://web.archive.org/web/20190426095322/https://cfi.co/awards/latin-america/2017/evertec-best-payment-processing-provider-latin-america-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 177af21444d30b0fff3dca13918357451c6c5e4f2b46543b36b84cf96b6df16e
 canonical: 4327-evertec-best-payment-processing-provider-latin-america-2017.json
 ---
