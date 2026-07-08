@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426104617
 wayback_snapshot_url: "http://web.archive.org/web/20190426104617/https://cfi.co/awards/middle-east/2017/century-financial-brokers-cfb-best-global-financial-markets-broker-emea-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 2c4cdd0254567fee227b5fc2fecbcff4a0cec5ae68d086da17f2da2b65ba9566
 canonical: 5092-century-financial-brokers-cfb-best-global-financial-markets-broker-emea-2017.json
 ---
