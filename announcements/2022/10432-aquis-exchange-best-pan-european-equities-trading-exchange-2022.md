@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630133332
 wayback_snapshot_url: "http://web.archive.org/web/20220630133332/https://cfi.co/awards/europe/2022/aquis-exchange-best-pan-european-equities-trading-exchange-2022/"
+license: CFI-OAAL-1.0
 content_sha256: d06c8deaf6f645d32ec8cf399612f2f6152ca59bd39c2b22c4a68cdef09b3594
 canonical: 10432-aquis-exchange-best-pan-european-equities-trading-exchange-2022.json
 ---
