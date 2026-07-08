@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630142858
 wayback_snapshot_url: "http://web.archive.org/web/20220630142858/https://cfi.co/awards/europe/2022/global-evolution-best-esg-emerging-markets-investment-strategy-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: b75b90bb015073a30303a2830f3b7115a8020ef06d649dce751c60a0a7fe2f6a
 canonical: 10269-global-evolution-best-esg-emerging-markets-investment-strategy-global-2021.json
 ---
