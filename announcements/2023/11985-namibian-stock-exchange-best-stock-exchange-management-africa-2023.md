@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206180718
 wayback_snapshot_url: "http://web.archive.org/web/20231206180718/https://cfi.co/awards/finance/exchanges-brokers/2023/namibian-stock-exchange-best-stock-exchange-management-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 49b26b1e2717ae8bf388d6be912262e14607f108278522b5618e43ff4e60e6a3
 canonical: 11985-namibian-stock-exchange-best-stock-exchange-management-africa-2023.json
 ---
