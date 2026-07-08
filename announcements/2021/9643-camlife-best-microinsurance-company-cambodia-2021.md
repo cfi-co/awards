@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015234213
 wayback_snapshot_url: "http://web.archive.org/web/20211015234213/https://cfi.co/awards/asia-pacific/2021/camlife-best-microinsurance-company-cambodia-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 09caabe64149074e499a87205a403f4d4d4b9f3bd6e21f5ea23a7d271a60a2fc
 canonical: 9643-camlife-best-microinsurance-company-cambodia-2021.json
 ---
