@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921110550
 wayback_snapshot_url: "http://web.archive.org/web/20210921110550/https://cfi.co/awards/middle-east/2013/dispute-resolution-award-uae-2013-goes-to-galdari-in-dubai/"
+license: CFI-OAAL-1.0
 content_sha256: c9413fb1df55e6251a05df9500da085462438ef0db906f4318a6bda6f6abbd21
 canonical: 546-dispute-resolution-award-uae-2013-goes-to-galdari-in-dubai.json
 ---
