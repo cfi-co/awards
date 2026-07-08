@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211026041506
 wayback_snapshot_url: "http://web.archive.org/web/20211026041506/https://cfi.co/awards/front/2018/intesa-sanpaolo-bank-albania-best-bank-governance-albania-2018/"
+license: CFI-OAAL-1.0
 content_sha256: bf03a6d670b36414af6a4f5fc55061e7c95e92ba03237837a1fa2d3fd21db88d
 canonical: 6125-intesa-sanpaolo-bank-albania-best-bank-governance-albania-2018.json
 ---
