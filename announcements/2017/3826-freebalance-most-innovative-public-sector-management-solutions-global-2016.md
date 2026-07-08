@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924112237
 wayback_snapshot_url: "http://web.archive.org/web/20210924112237/https://cfi.co/awards/north-america/2017/freebalance-most-innovative-public-sector-management-solutions-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 9d21dad7b55fc493aed992559206684c84457aa446466df4272436b9a7625257
 canonical: 3826-freebalance-most-innovative-public-sector-management-solutions-global-2016.json
 ---
