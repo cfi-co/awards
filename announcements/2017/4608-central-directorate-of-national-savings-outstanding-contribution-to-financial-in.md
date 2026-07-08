@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525043009
 wayback_snapshot_url: "http://web.archive.org/web/20260525043009/https://cfi.co/awards/asia-pacific/2017/central-directorate-of-national-savings-outstanding-contribution-to-financial-inclusion-pakistan-2017/"
+license: CFI-OAAL-1.0
 content_sha256: f400a38d07e19c54be2a26db31b9a456b613e7f4b749b3fc079caace64620c9d
 canonical: 4608-central-directorate-of-national-savings-outstanding-contribution-to-financial-in.json
 ---
