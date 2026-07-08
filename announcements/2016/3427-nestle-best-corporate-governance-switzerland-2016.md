@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426100043
 wayback_snapshot_url: "http://web.archive.org/web/20190426100043/https://cfi.co/awards/best-practice/2016/nestle-best-corporate-governance-switzerland-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 6d4ae6f9d173cb069ae0b249f5bf14d5dad355e43d3464c4f1fc97095491430d
 canonical: 3427-nestle-best-corporate-governance-switzerland-2016.json
 ---
