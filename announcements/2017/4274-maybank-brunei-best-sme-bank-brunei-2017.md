@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921104318
 wayback_snapshot_url: "http://web.archive.org/web/20210921104318/https://cfi.co/awards/asia-pacific/2017/maybank-brunei-best-sme-bank-brunei-2017/"
+license: CFI-OAAL-1.0
 content_sha256: c6e80443c3ab78c3a66cdc8f169381e63c834de981a525086544bbffcc0cbb4e
 canonical: 4274-maybank-brunei-best-sme-bank-brunei-2017.json
 ---
