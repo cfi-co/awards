@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005149
 wayback_snapshot_url: "http://web.archive.org/web/20190723005149/https://cfi.co/awards/latin-america/2019/broadspan-capital-best-cross-border-ma-advisory-team-latin-america-the-caribbean-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 783e7a8c1af7166e63e485481a252d2104498c4a4b92336d0eef926285890a4c
 canonical: 6796-broadspan-capital-best-cross-border-ma-advisory-team-latin-america-the-caribbean.json
 ---
