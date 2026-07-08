@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810084958
 wayback_snapshot_url: "http://web.archive.org/web/20200810084958/https://cfi.co/awards/asia-pacific/2020/yelo-bank-most-innovative-corporate-rebranding-strategy-azerbaijan-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 7e8592ce5a7e4c97a0761a66cb96ee6d7dd55f333ed3022dd8c3568b65e22c77
 canonical: 7840-yelo-bank-most-innovative-corporate-rebranding-strategy-azerbaijan-2020.json
 ---
