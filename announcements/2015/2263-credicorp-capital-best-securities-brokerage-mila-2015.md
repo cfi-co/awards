@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20160611183937
 wayback_snapshot_url: "http://web.archive.org/web/20160611183937/http://cfi.co/awards/featured/2015/credicorp-capital-best-securities-brokerage-mila-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 28847d5f06d14b5022aed19c46572ec502234ebbf56fd1577c7f14286ce281a1
 canonical: 2263-credicorp-capital-best-securities-brokerage-mila-2015.json
 ---
