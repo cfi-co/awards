@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203233117
 wayback_snapshot_url: "http://web.archive.org/web/20201203233117/https://cfi.co/awards/asia-pacific/2020/pilipinas-shell-petroleum-corporation-best-energy-corporate-governance-philippines-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 4d7e78b5ed31a83aa9ba485d67e2ae5f0a4f5ac9f8618eb5c183d47a2ca3e4b4
 canonical: 8293-pilipinas-shell-petroleum-corporation-best-energy-corporate-governance-philippin.json
 ---
