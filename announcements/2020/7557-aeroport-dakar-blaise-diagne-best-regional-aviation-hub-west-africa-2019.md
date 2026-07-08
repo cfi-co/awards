@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200712111547
 wayback_snapshot_url: "http://web.archive.org/web/20200712111547/https://cfi.co/awards/africa/2020/aeroport-dakar-blaise-diagne-best-regional-aviation-hub-west-africa-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 90f7be323f5ed2657d34cc66ba3c14f8e43112fec8685897fcb764dd21b3fad0
 canonical: 7557-aeroport-dakar-blaise-diagne-best-regional-aviation-hub-west-africa-2019.json
 ---
