@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191215005958
 wayback_snapshot_url: "http://web.archive.org/web/20191215005958/https://cfi.co/awards/middle-east/2019/etihad-credit-insurance-most-innovative-finance-solutions-middle-east-2019/"
+license: CFI-OAAL-1.0
 content_sha256: d7b38bbfa751b2820c9fda41da5fcdc8c49362c1190a95fd26eecc9b9cb44c2b
 canonical: 7006-etihad-credit-insurance-most-innovative-finance-solutions-middle-east-2019.json
 ---
