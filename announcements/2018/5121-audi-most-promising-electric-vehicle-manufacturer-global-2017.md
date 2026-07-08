@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724010904
 wayback_snapshot_url: "http://web.archive.org/web/20210724010904/https://cfi.co/awards/europe/2018/audi-most-promising-electric-vehicle-manufacturer-global-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 8e2524d8418d51411146472cd404ac06eb09faa63c489614d5ecb0c3431da6c4
 canonical: 5121-audi-most-promising-electric-vehicle-manufacturer-global-2017.json
 ---
