@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527035342
 wayback_snapshot_url: "http://web.archive.org/web/20260527035342/https://cfi.co/awards/europe/2020/qiagen-best-life-sciences-corporate-governance-germany-2020/"
+license: CFI-OAAL-1.0
 content_sha256: af4e1f03268853cded9a187050110320028c9221044d4d06e2603f93992e7560
 canonical: 7553-qiagen-best-life-sciences-corporate-governance-germany-2020.json
 ---
