@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20200920104650",
-        "wayback_snapshot_url": "http://web.archive.org/web/20200920104650/https://cfi.co/awards/middle-east/2013/commercial-bank-of-dubai-is-our-wealth-management-award-winner-in-the-uae/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20200920104650/https://cfi.co/awards/middle-east/2013/commercial-bank-of-dubai-is-our-wealth-management-award-winner-in-the-uae/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1090\" src=\"https://cfi.co/awards/wp-content/uploads/2014/01/cbd.png\" alt=\"cbd\" width=\"304\" height=\"70\" /></p>\r\n<p style=\"text-align: justify;\"><strong>The CFI.co Judging Panel congratulates Commercial Bank of Dubai on the award Best Wealth Management Team, UAE, 2013.</strong></p>\r\n<p style=\"text-align: justify;\">According to the Judging Panel, ‘A sensible long term client investment view is recommended by the wealth management professionals at CBD. These people listen to their clients to ensure that the most appropriate investment strategies are recommended. Investment vehicles are tailor made and client satisfaction is running high. Clients benefit from some very solid professional expertise and sensitive handling from the team. We are happy to confirm the award.’</p>",
     "content_sha256": "f477a3dec4903be796bfae8ab5ec2b5685caa81e80c5f24cc84f468779fcd1ea",
-    "record_sha256": "60cb715db5967cfecced7fd377b21c4815c1023ee6d36a6734248993ae0e71e3"
+    "record_sha256": "6db7de543b319c632e0ac07937c10cd83a837b5bfed4e48d4c4eafbef9b17315"
 }
