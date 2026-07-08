@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409053207",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409053207/http://cfi.co/awards/north-america/2013/legal-awards-2013-mjm-is-a-winner-in-bermuda/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409053207/http://cfi.co/awards/north-america/2013/legal-awards-2013-mjm-is-a-winner-in-bermuda/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\" size-full wp-image-448 aligncenter\" src=\"https://cfi.co/awards/wp-content/uploads/2013/04/mjm.jpg\" alt=\"mjm\" width=\"200\" height=\"100\" /></strong></p>\r\n<p style=\"text-align: justify;\"><strong>CFI.co is pleased to announce MJM Barristers &amp; Attorneys as 'Best Corporate and Commercial Team, Bermuda 2013'.</strong></p>\r\n<p style=\"text-align: justify;\">The judging panel pointed to the high level of personal attention the team at MJM provide according to comments and ringing endorsements  received from clients and fellow lawyers  in several  jurisdictions.  Of course the firm is particularly well positioned to help with legal matters relating to Bermuda having been closely involved in the modernisation of its company law and the team is large enough to cover all  aspects of client requirements while remaining nimble.</p>",
     "content_sha256": "858385942e329dd922b9187c27cdf7329d4fcbb247e0f94395b0973bab65d535",
-    "record_sha256": "aeb17444b15dc2f3dd06e57ff613ca2b7efea8a21044795d018e62132e1bd4a1"
+    "record_sha256": "17cdfb65407774dd0fafe5545bbb412b6c669115e5218b81ee7456cb484dea1e"
 }
