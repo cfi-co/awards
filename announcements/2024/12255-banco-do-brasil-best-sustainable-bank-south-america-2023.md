@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240225142758
 wayback_snapshot_url: "http://web.archive.org/web/20240225142758/https://cfi.co/awards/banking/2024/banco-do-brasil-best-sustainable-bank-south-america-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 79039d9eeb8474c735605a8affb88016d4f79a5df6955968a279d0ee39dd52ee
 canonical: 12255-banco-do-brasil-best-sustainable-bank-south-america-2023.json
 ---
