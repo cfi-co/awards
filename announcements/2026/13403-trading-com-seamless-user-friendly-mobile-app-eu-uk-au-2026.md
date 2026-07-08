@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260529042025
 wayback_snapshot_url: "http://web.archive.org/web/20260529042025/https://cfi.co/awards/finance/exchanges-brokers/2026/trading-com-seamless-user-friendly-mobile-app-eu-uk-au-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 298a38baf5dfa93891bf40e4731fec6650d4c0ffa827f23c46382a02b0b06aa7
 canonical: 13403-trading-com-seamless-user-friendly-mobile-app-eu-uk-au-2026.json
 ---
