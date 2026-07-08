@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200731124428
 wayback_snapshot_url: "http://web.archive.org/web/20200731124428/https://cfi.co/awards/africa/2020/the-southern-african-development-community-sadc-outstanding-contribution-to-socio-economic-development-southern-africa-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 57c647fdbd42fb46656a19b07c6f07b2b8438213dc5c5eaa655c38e4e4cd03c0
 canonical: 7335-the-southern-african-development-community-sadc-outstanding-contribution-to-soci.json
 ---
