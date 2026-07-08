@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220828144801
 wayback_snapshot_url: "http://web.archive.org/web/20220828144801/https://cfi.co/awards/africa/2022/im-bank-rwanda-plc-best-bank-rwanda-2022/"
+license: CFI-OAAL-1.0
 content_sha256: b91ad5976c86ef2df5deaf211cd3f8c9deb4be60c42f9ef4db2abee7a9501663
 canonical: 10669-im-bank-rwanda-plc-best-bank-rwanda-2022.json
 ---
