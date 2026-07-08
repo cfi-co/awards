@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614224236
 wayback_snapshot_url: "http://web.archive.org/web/20250614224236/https://cfi.co/awards/development/2025/corporacion-zona-franca-santiago-foreign-investment-business-competitiveness-champion-dominican-republic-2025/"
+license: CFI-OAAL-1.0
 content_sha256: c89f34348463d931361b5c1dd27c8630584947a4d10ae28bb1bae25ec642a668
 canonical: 12967-corporacion-zona-franca-santiago-foreign-investment-business-competitiveness-cha.json
 ---
