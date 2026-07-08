@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201001070051
 wayback_snapshot_url: "http://web.archive.org/web/20201001070051/https://cfi.co/awards/europe/2019/greggs-best-hospitality-csr-united-kingdom-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 0f231d6433d73d86ac49b7f1a6ceb5363817a73dbe2cda6954f86ed1156b20b6
 canonical: 7089-greggs-best-hospitality-csr-united-kingdom-2019.json
 ---
