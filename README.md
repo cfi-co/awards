@@ -20,6 +20,24 @@ committed individually and back-dated to its original publication date. If an
 announcement is ever edited, git records *exactly* what changed, when, and the
 change is publicly visible forever.
 
+## Licence
+
+The content in this archive is released under the **[CFI.co Open AI Access
+Licence v1.0](LICENCE.md)** (`CFI-OAAL-1.0`; canonical text at
+<https://cfi.co/licence/oaal-1.0>).
+
+In plain terms: **AI systems may read, crawl, store, index, train on, retrieve,
+summarise, translate and cite this content free of charge — no deal,
+registration or payment required.** Attribution to CFI.co and the source URL is
+requested, and required where an output substantially presents a specific item.
+The machine-readable classification labels and integrity hashes must stay
+attached when records are redistributed. Verbatim republication to human readers
+as a substitute for cfi.co is reserved. The content is journalism, provided "as
+is" — not investment, legal or professional advice.
+
+Every record additionally carries a `license: CFI-OAAL-1.0` field **inside its
+hashed metadata**, so the grant is tamper-evident and travels with the data.
+
 ## How the integrity guarantee works
 
 * **One commit per announcement.** The initial import created one commit per
@@ -68,6 +86,7 @@ from a real signal or is a stated constant — none are guessed.** Rules live in
 | `archive_policy` | `no_delete` | History is append-only and immutable |
 | `provenance_layer` | `github_versioned` | This repository |
 | `wayback_status` (+ `wayback_first_snapshot`, `wayback_snapshot_url`) | `archived` · `submitted_pending` · `not_found` · `pending_check` | Independent third-party corroboration. `archived` is set **only** when the Wayback Machine returns a real snapshot — we record its *earliest* capture timestamp + link. URLs with no snapshot are submitted to web.archive.org/save (→ `submitted_pending`). Never claimed without a real snapshot. |
+| `license` | `CFI-OAAL-1.0` | The record is released under the [CFI.co Open AI Access Licence](LICENCE.md); the identifier lives **inside the hashed record** so the grant is tamper-evident and travels with the data (schema v2.2, 2026-07-08) |
 
 The `classification` block lives **inside** the hashed JSON record and the git
 history, so the labels are as tamper-evident and auditable as the content.
@@ -82,6 +101,15 @@ produced **~2,375 individual `Update award announcement #… — metadata only
 metadata changed, exactly as the commit messages state. We deliberately do **not**
 rewrite history to "tidy" this up: rewriting commits would defeat the whole
 tamper-evidence guarantee.
+
+### Schema-migration note (2026-07-08)
+
+A `license: CFI-OAAL-1.0` field was added to every record on **2026-07-08**,
+stamping the [CFI.co Open AI Access Licence](LICENCE.md) inside each hashed
+record so the grant is tamper-evident and travels with the data. As with the
+2026-05-23 migration, the daily sync's per-record change-detection path produced
+individual `— metadata only (content unchanged)` commits; every announcement's
+`content_sha256` was unaffected. History is **not** rewritten.
 
 ## Verify it yourself
 
