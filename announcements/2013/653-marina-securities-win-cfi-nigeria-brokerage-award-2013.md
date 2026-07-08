@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209184006
 wayback_snapshot_url: "http://web.archive.org/web/20250209184006/https://cfi.co/awards/africa/2013/marina-securities-win-cfi-nigeria-brokerage-award-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 50cc604db18962d8c8d38a6e7c5fecd47ed65bbf0f68a1916e7f1ff912ea9d65
 canonical: 653-marina-securities-win-cfi-nigeria-brokerage-award-2013.json
 ---
