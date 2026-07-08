@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260624035503
 wayback_snapshot_url: "http://web.archive.org/web/20260624035503/https://cfi.co/awards/middle-east/2026/zain-kuwait-5g-advanced-network-innovation-leader-gcc-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 5bd622bab9bcb77f70a23ca160e9a85e9785c6c1208651843311dedaede0dbe2
 canonical: 13479-zain-kuwait-5g-advanced-network-innovation-leader-gcc-2026.json
 ---
