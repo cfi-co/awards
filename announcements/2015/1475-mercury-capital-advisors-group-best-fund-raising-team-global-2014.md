@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523043918
 wayback_snapshot_url: "http://web.archive.org/web/20260523043918/https://cfi.co/awards/finance/2015/mercury-capital-advisors-group-best-fund-raising-team-global-2014/"
+license: CFI-OAAL-1.0
 content_sha256: b5f9424e4152e0b9767df0f2d480f97e4516d00d8dd987cca39f576c257837df
 canonical: 1475-mercury-capital-advisors-group-best-fund-raising-team-global-2014.json
 ---
