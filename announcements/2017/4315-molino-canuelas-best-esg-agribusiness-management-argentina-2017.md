@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241005091945
 wayback_snapshot_url: "http://web.archive.org/web/20241005091945/https://cfi.co/awards/latin-america/2017/molino-canuelas-best-esg-agribusiness-management-argentina-2017/"
+license: CFI-OAAL-1.0
 content_sha256: a2f4ec32714ad5e6d3e629076a3612766ef44407cac1fe49df5fa64e06b73e4e
 canonical: 4315-molino-canuelas-best-esg-agribusiness-management-argentina-2017.json
 ---
