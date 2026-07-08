@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330013827
 wayback_snapshot_url: "http://web.archive.org/web/20230330013827/https://cfi.co/awards/finance/2023/prospect-capital-best-middle-market-lending-investor-usa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 184f94ec239abd71efdc156e5aec5525f1bac8c4266e4098d9f20cb160fa0f83
 canonical: 11211-prospect-capital-best-middle-market-lending-investor-usa-2023.json
 ---
