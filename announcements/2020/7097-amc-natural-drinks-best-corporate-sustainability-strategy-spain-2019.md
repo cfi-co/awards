@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200711092138
 wayback_snapshot_url: "http://web.archive.org/web/20200711092138/https://cfi.co/awards/europe/2020/amc-natural-drinks-best-corporate-sustainability-strategy-spain-2019/"
+license: CFI-OAAL-1.0
 content_sha256: f04e00db93e6f7940e02e82cc6aa761b8e628c0739d413710428ce499929d552
 canonical: 7097-amc-natural-drinks-best-corporate-sustainability-strategy-spain-2019.json
 ---
