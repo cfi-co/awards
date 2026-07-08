@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409063027
 wayback_snapshot_url: "http://web.archive.org/web/20140409063027/http://cfi.co/awards/africa/2013/zenith-bank-a-winner-in-nigeria/"
+license: CFI-OAAL-1.0
 content_sha256: 2d92feb9a5085f55146d2a193ee66a3942455c5b191de858664dbb0b3994c7fb
 canonical: 257-zenith-bank-a-winner-in-nigeria.json
 ---
