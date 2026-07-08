@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921102231
 wayback_snapshot_url: "http://web.archive.org/web/20210921102231/https://cfi.co/awards/best-practice/2016/j-sainsbury-best-corporate-governance-united-kingdom-2016/"
+license: CFI-OAAL-1.0
 content_sha256: fc3a69fa60dc56b5cc36dfb7327148a2647edb6496426b985ab9d38982b26d54
 canonical: 4418-j-sainsbury-best-corporate-governance-united-kingdom-2016.json
 ---
