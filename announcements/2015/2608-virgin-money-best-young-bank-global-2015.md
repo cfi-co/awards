@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523044444
 wayback_snapshot_url: "http://web.archive.org/web/20260523044444/https://cfi.co/awards/banking/2015/virgin-money-best-young-bank-global-2015/"
+license: CFI-OAAL-1.0
 content_sha256: bb5acc9826f9e174a05d834667b356c7e8d3b3830a4871f601a62ca3defc7b89
 canonical: 2608-virgin-money-best-young-bank-global-2015.json
 ---
