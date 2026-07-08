@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250113043628
 wayback_snapshot_url: "http://web.archive.org/web/20250113043628/https://cfi.co/awards/banking/2024/kuwait-international-bank-best-real-estate-solutions-provider-mena-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 524fb2e757bd76ef84dd8efcb9332c50ad5ed553d21ef4c07dbbe4a0c9d15449
 canonical: 12600-kuwait-international-bank-best-real-estate-solutions-provider-mena-2024.json
 ---
