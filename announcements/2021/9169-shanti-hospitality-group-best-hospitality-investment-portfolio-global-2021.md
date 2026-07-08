@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614173551
 wayback_snapshot_url: "http://web.archive.org/web/20210614173551/https://cfi.co/awards/europe/2021/shanti-hospitality-group-best-hospitality-investment-portfolio-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: d2ec156aec5f6be41ac1ed58b8ca04c4706d2dc8ef4a2a5ef3ca2339586ef290
 canonical: 9169-shanti-hospitality-group-best-hospitality-investment-portfolio-global-2021.json
 ---
