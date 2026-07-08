@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614191259
 wayback_snapshot_url: "http://web.archive.org/web/20210614191259/https://cfi.co/awards/middle-east/2021/tanqia-best-sustainable-growth-strategy-middle-east-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 65da555a4c65ca762e861c13d53c7aab5b8dae2fe49274cf9159ed68b4b45a9e
 canonical: 9191-tanqia-best-sustainable-growth-strategy-middle-east-2021.json
 ---
