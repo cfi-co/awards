@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810073850
 wayback_snapshot_url: "http://web.archive.org/web/20200810073850/https://cfi.co/awards/europe/2020/medgate-best-global-telemedicine-provider-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 99f2f1e9e7c60f458b633ce81f408ea0eb337e256e8f9cef90d7d7a5038e0bc1
 canonical: 7896-medgate-best-global-telemedicine-provider-2020.json
 ---
