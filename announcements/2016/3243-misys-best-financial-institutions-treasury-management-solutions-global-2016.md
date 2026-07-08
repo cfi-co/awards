@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523060042
 wayback_snapshot_url: "http://web.archive.org/web/20260523060042/https://cfi.co/awards/professional-services/2016/misys-best-financial-institutions-treasury-management-solutions-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1f44b055df0fc7325a233befbec2a4f5eac06b2f023d89d2a0e24fc2a9d8411e
 canonical: 3243-misys-best-financial-institutions-treasury-management-solutions-global-2016.json
 ---
