@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723011622
 wayback_snapshot_url: "http://web.archive.org/web/20190723011622/https://cfi.co/awards/europe/2019/bdo-austria-best-audit-and-tax-team-austria-2018/"
+license: CFI-OAAL-1.0
 content_sha256: b101696947f83db744bdedcae527f1eb4d1097185044f934c4baa6de0461a379
 canonical: 6464-bdo-austria-best-audit-and-tax-team-austria-2018.json
 ---
