@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525045509
 wayback_snapshot_url: "http://web.archive.org/web/20260525045509/https://cfi.co/awards/europe/2017/ioannides-demetriou-best-commercial-corporate-legal-team-cyprus-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 28beed54b13082381cc112b3dd5628af93ee0b1745d52bfce960c5f3c8e06f69
 canonical: 4882-ioannides-demetriou-best-commercial-corporate-legal-team-cyprus-2017.json
 ---
