@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630135345
 wayback_snapshot_url: "http://web.archive.org/web/20220630135345/https://cfi.co/awards/north-america/2022/federal-realty-investment-trust-best-esg-real-estate-investment-strategy-us-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 63489c7d95cdb2d64302b49b302dbaf57856c00a52cd9d54fe56f8988a28dab2
 canonical: 10355-federal-realty-investment-trust-best-esg-real-estate-investment-strategy-us-2022.json
 ---
