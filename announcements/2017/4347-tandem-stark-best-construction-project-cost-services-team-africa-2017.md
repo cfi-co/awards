@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418044006
 wayback_snapshot_url: "http://web.archive.org/web/20210418044006/https://cfi.co/awards/africa/2017/tandem-stark-best-construction-project-cost-services-team-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: adb5c0f35a82bb79613d0b38a72d6a8808e64f58840c90b37ea1975e8c688ab5
 canonical: 4347-tandem-stark-best-construction-project-cost-services-team-africa-2017.json
 ---
