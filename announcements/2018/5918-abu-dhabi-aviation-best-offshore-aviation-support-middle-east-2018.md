@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723005208
 wayback_snapshot_url: "http://web.archive.org/web/20190723005208/https://cfi.co/awards/middle-east/2018/abu-dhabi-aviation-best-offshore-aviation-support-middle-east-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 34030f17b155b1fec13d5a72ebcf393fb9bd5d515d0ec48c2d55b89d4794a5a9
 canonical: 5918-abu-dhabi-aviation-best-offshore-aviation-support-middle-east-2018.json
 ---
