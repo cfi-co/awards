@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208094658
 wayback_snapshot_url: "http://web.archive.org/web/20230208094658/https://cfi.co/awards/europe/2023/pollen-street-capital-best-responsible-alternative-investment-team-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: cea5f777c57bbb8b0f7a8d466eb6c066bfadb93a9e88bdfacba6df24b10377b6
 canonical: 11041-pollen-street-capital-best-responsible-alternative-investment-team-uk-2023.json
 ---
