@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201203235756
 wayback_snapshot_url: "http://web.archive.org/web/20201203235756/https://cfi.co/awards/community-engagement/2020/rainmaker-worldwide-inc-best-community-impact-water-solutions-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 77e731103ba54c313e5f73116b4a1b369caa44f5e22ba15b3bee895e51b2a368
 canonical: 7816-rainmaker-worldwide-inc-best-community-impact-water-solutions-global-2020.json
 ---
