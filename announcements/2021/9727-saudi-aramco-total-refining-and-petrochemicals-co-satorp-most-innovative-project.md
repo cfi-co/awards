@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207214553
 wayback_snapshot_url: "http://web.archive.org/web/20211207214553/https://cfi.co/awards/middle-east/2021/saudi-aramco-total-refining-and-petrochemicals-co-satorp-most-innovative-project-finance-deal-gcc-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 3f74648a8ab2045a1d71941003b9bf20cf89d8b71a40d8480e2c1efcc67cb068
 canonical: 9727-saudi-aramco-total-refining-and-petrochemicals-co-satorp-most-innovative-project.json
 ---
