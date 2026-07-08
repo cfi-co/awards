@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923175134
 wayback_snapshot_url: "http://web.archive.org/web/20230923175134/https://cfi.co/awards/europe/2023/mbh-bank-best-esg-bank-hungary-2023/"
+license: CFI-OAAL-1.0
 content_sha256: c5f3c49efb4cb76261f7052f7cd8c78a82b87c185b00fc31d416e706378fb464
 canonical: 11746-mbh-bank-best-esg-bank-hungary-2023.json
 ---
