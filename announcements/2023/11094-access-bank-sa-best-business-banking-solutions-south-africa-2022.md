@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208104208
 wayback_snapshot_url: "http://web.archive.org/web/20230208104208/https://cfi.co/awards/africa/2023/access-bank-sa-best-business-banking-solutions-south-africa-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 30e6b058ef1f71fd26c04dd67c0af2d4b02dd7eb1e3f7a4da50dd840da8c952f
 canonical: 11094-access-bank-sa-best-business-banking-solutions-south-africa-2022.json
 ---
