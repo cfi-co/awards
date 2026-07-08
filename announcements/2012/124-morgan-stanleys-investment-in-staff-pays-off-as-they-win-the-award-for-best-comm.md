@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724023752
 wayback_snapshot_url: "http://web.archive.org/web/20210724023752/https://cfi.co/awards/north-america/2012/morgan-stanleys-investment-in-staff-pays-off-as-they-win-the-award-for-best-commercial-bank-usa/"
+license: CFI-OAAL-1.0
 content_sha256: e1d72a2ad8c2e743807a5373cc6bbcb80fa694c4e5efd04c58fa36dc15cbf912
 canonical: 124-morgan-stanleys-investment-in-staff-pays-off-as-they-win-the-award-for-best-comm.json
 ---
