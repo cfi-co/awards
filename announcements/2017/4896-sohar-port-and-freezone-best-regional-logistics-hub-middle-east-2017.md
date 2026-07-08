@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525045714
 wayback_snapshot_url: "http://web.archive.org/web/20260525045714/https://cfi.co/awards/middle-east/2017/sohar-port-and-freezone-best-regional-logistics-hub-middle-east-2017/"
+license: CFI-OAAL-1.0
 content_sha256: eea4b3bd065ec60837f4f7103e53a844c303f7ec53bd0ba2f4b427a387a5cc1c
 canonical: 4896-sohar-port-and-freezone-best-regional-logistics-hub-middle-east-2017.json
 ---
