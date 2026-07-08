@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20150616070011
 wayback_snapshot_url: "http://web.archive.org/web/20150616070011/http://cfi.co/awards/africa/2014/old-mutual-best-community-engagement-programme-south-africa-2014/"
+license: CFI-OAAL-1.0
 content_sha256: 49f3f636b3264f7b8a4bfa71375b39250f27707c1b60ae78241108fe760a51a8
 canonical: 1317-old-mutual-best-community-engagement-programme-south-africa-2014.json
 ---

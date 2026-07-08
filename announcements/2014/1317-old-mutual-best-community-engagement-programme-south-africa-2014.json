@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20150616070011",
-        "wayback_snapshot_url": "http://web.archive.org/web/20150616070011/http://cfi.co/awards/africa/2014/old-mutual-best-community-engagement-programme-south-africa-2014/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20150616070011/http://cfi.co/awards/africa/2014/old-mutual-best-community-engagement-programme-south-africa-2014/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1318\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/om.jpg\" alt=\"om\" width=\"275\" height=\"76\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Responsibility is at the heart of Old Mutual’s  success over the past 165 years and the CFI.co judging panel is impressed  to see that core value has been translated into the community work of this financial group. </strong></p>\r\n<p style=\"text-align: justify;\">The panel feels that the way Old Mutual has used this core value of the business stands out as an example to others across the word. Many companies have extensive community engagement programmes but what sets Old Mutual apart is the way the company delivers directly through its business. By effectively leveraging the group’s key strengths the impact goes far further than the value of money spent. Old Mutual has perfected this approach over the years and stands out as an example of what can be achieved for the benefit of communities by combining responsibility and keen intelligence.</p>",
     "content_sha256": "49f3f636b3264f7b8a4bfa71375b39250f27707c1b60ae78241108fe760a51a8",
-    "record_sha256": "c9770d3c85d6901df2eb39ac56c578c0958ef37b5deec31373f037f2a62256c7"
+    "record_sha256": "ec37d17e0128fc5d04b2b903ef81dec133fe23c41e8cdbb089a3ca4bc846422f"
 }
