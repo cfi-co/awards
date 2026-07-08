@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614184734
 wayback_snapshot_url: "http://web.archive.org/web/20210614184734/https://cfi.co/awards/europe/2013/julius-baer-best-private-bank-switzerland/"
+license: CFI-OAAL-1.0
 content_sha256: 062042260c5007e82479e36a7319ecd4224d41598b75eedd30f0ec104c85a757
 canonical: 731-julius-baer-best-private-bank-switzerland.json
 ---
