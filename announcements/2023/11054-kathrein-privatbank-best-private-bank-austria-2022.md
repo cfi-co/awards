@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208112617
 wayback_snapshot_url: "http://web.archive.org/web/20230208112617/https://cfi.co/awards/banking/2023/kathrein-privatbank-best-private-bank-austria-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 79ca03e56011f23ce222af458add368c0ac430f03f4784eb5689625ed8cc6d1d
 canonical: 11054-kathrein-privatbank-best-private-bank-austria-2022.json
 ---
