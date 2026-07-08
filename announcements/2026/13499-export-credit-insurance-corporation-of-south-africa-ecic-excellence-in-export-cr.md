@@ -15,8 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
-content_sha256: 2419de8015b137743a78ab1d301d76c9e125fd8fa375d17ae0f426fdf9189c20
+wayback_status: not_found
+license: CFI-OAAL-1.0
+content_sha256: 5bdb7c4850e3c115e361b43ed294fc5014d5b5231cbd234abbd765263c6a8532
 canonical: 13499-export-credit-insurance-corporation-of-south-africa-ecic-excellence-in-export-cr.json
 ---
 
@@ -24,7 +25,7 @@ canonical: 13499-export-credit-insurance-corporation-of-south-africa-ecic-excell
 
 > Verbatim archived copy. Canonical machine record: `13499-export-credit-insurance-corporation-of-south-africa-ecic-excellence-in-export-cr.json`.
 
-<img class="aligncenter size-full wp-image-13500" src="https://cfi.co/awards/wp-content/uploads/2026/07/ECIC-25-Year-Aniversary-Logo.jpg" alt="ECIC 25 Year Aniversary Logo" width="500" height="316" />
+<img class="aligncenter  wp-image-13507" src="https://cfi.co/awards/wp-content/uploads/2026/07/ECIC.jpg" alt="ECIC" width="331" height="330" />
 <p style="text-align: justify;"><strong>South Africa's target of lifting export value from just over R2tn to R3tn by 2030 gives ECIC's mandate a clear test: whether risk mitigation can turn regional demand into financeable trade. As a state-owned export-credit insurer, its role runs beyond insuring transactions to widening participation among exporters, manufacturers, emerging firms and black entrepreneurs where political and commercial risks deter private appetite.</strong></p>
 <p style="text-align: justify;">The 2024/25 results show total assets of R10.68bn, net assets of R9.43bn and a R956m surplus after the prior year's deficit. Notably, during the year ECIC paid a R1bn claim on Ghana's sovereign default yet still grew its capital base, the test of any credible insurer. The external audit opinion was unqualified, with remaining findings being addressed.</p>
 <p style="text-align: justify;">Over the last 15 years ECIC has supported 57 cross-border investments and export trade transactions worth about $4.8bn, spanning power projects in Ghana and Mozambique, mining, rail, manufacturing, telecommunications and road infrastructure. Afreximbank anchors its partnership model: ECIC has moved from Class B to Class A, and the South Africa-Africa Trade and Investment Promotion Programme (SATIPP) provides liquidity, syndication and de-risking. A risk-sharing arrangement with Japan's NEXI supports Japanese firms registered in South Africa and exporting across the continent.</p>
