@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250209170731
 wayback_snapshot_url: "http://web.archive.org/web/20250209170731/https://cfi.co/awards/middle-east/2025/jadara-university-best-university-in-the-middle-east-in-preparing-graduates-for-employment-and-leadership/"
+license: CFI-OAAL-1.0
 content_sha256: 933c84c76f08d489ad6faa1aa8906a78d9179ac2b02b115e36051b1e62d0303a
 canonical: 12793-jadara-university-best-university-in-the-middle-east-in-preparing-graduates-for-.json
 ---
