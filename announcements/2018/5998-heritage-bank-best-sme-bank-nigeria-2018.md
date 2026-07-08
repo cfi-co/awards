@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723010539
 wayback_snapshot_url: "http://web.archive.org/web/20190723010539/https://cfi.co/awards/africa/2018/heritage-bank-best-sme-bank-nigeria-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 4b3d64134f69d81729c6f10c725c300193a93596362b84da8512aa745184f62c
 canonical: 5998-heritage-bank-best-sme-bank-nigeria-2018.json
 ---
