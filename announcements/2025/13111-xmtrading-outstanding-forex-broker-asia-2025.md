@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527051244
 wayback_snapshot_url: "http://web.archive.org/web/20260527051244/https://cfi.co/awards/finance/exchanges-brokers/2025/xmtrading-outstanding-forex-broker-asia-2025/"
+license: CFI-OAAL-1.0
 content_sha256: b9b9c2aabfd820d6909b90a1eb43373a007c9525c56346e8e78ed63be27733ca
 canonical: 13111-xmtrading-outstanding-forex-broker-asia-2025.json
 ---
