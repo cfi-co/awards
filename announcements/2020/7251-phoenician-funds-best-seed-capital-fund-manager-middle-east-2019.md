@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200711113821
 wayback_snapshot_url: "http://web.archive.org/web/20200711113821/https://cfi.co/awards/middle-east/2020/phoenician-funds-best-seed-capital-fund-manager-middle-east-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 120f95448ba954df0362bb94f2d7e05b8296b8b2ef26ae03e148eb06a454e4d8
 canonical: 7251-phoenician-funds-best-seed-capital-fund-manager-middle-east-2019.json
 ---
