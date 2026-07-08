@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190823050529
 wayback_snapshot_url: "http://web.archive.org/web/20190823050529/https://cfi.co/awards/middle-east/2017/dubai-creative-cluster-authority-outstanding-contribution-to-economic-development-middle-east-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 6bd4f8020aff475030c47629555f74d64167472d7d8c7d59c4e91150801aadda
 canonical: 4878-dubai-creative-cluster-authority-outstanding-contribution-to-economic-developmen.json
 ---
