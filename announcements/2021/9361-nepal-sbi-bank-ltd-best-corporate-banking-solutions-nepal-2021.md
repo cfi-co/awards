@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725065213
 wayback_snapshot_url: "http://web.archive.org/web/20210725065213/https://cfi.co/awards/asia-pacific/2021/nepal-sbi-bank-ltd-best-corporate-banking-solutions-nepal-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 8aa1b148b65bcb68fcbcd3d2e2d90da2ae6c4637500f598cf59a36a75b655d33
 canonical: 9361-nepal-sbi-bank-ltd-best-corporate-banking-solutions-nepal-2021.json
 ---
