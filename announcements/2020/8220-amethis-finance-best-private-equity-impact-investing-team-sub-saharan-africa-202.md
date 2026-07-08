@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201024234554
 wayback_snapshot_url: "http://web.archive.org/web/20201024234554/https://cfi.co/awards/africa/2020/amethis-finance-best-private-equity-impact-investing-team-sub-saharan-africa-2020/"
+license: CFI-OAAL-1.0
 content_sha256: c292c8d06e7c3861ebac3735caa50a7c094e8aa4c743ad2d50d77294002ad071
 canonical: 8220-amethis-finance-best-private-equity-impact-investing-team-sub-saharan-africa-202.json
 ---
