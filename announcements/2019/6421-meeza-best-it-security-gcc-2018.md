@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525061221
 wayback_snapshot_url: "http://web.archive.org/web/20260525061221/https://cfi.co/awards/front/2019/meeza-best-it-security-gcc-2018/"
+license: CFI-OAAL-1.0
 content_sha256: e671d203e7030417055604c8d63278e120a6085d78464f4374116bc9beabea7b
 canonical: 6421-meeza-best-it-security-gcc-2018.json
 ---
