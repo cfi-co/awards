@@ -28,10 +28,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210921110215",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210921110215/https://cfi.co/awards/europe/2019/european-energy-exchange-eex-best-energy-commodities-trading-house-global-2019/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210921110215/https://cfi.co/awards/europe/2019/european-energy-exchange-eex-best-energy-commodities-trading-house-global-2019/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "[caption id=\"attachment_7038\" align=\"aligncenter\" width=\"898\"]<img class=\"size-full wp-image-7038\" src=\"https://cfi.co/awards/wp-content/uploads/2019/12/EEX_TradersParty2019_bySusanneHakuba-1.jpg\" alt=\"EEX Traders Party 2019 by Susanne Hakuba-1\" width=\"898\" height=\"561\" /> EEX Traders Party 2019[/caption]\r\n<p style=\"text-align: justify;\">The European Energy Exchange (EEX), is the leading physical commodity and derivatives energy exchange in Central Europe. In 2018, its revenue grew by 19 percent to €267.7 million with earnings before tax increasing by 24 percent to €92.1 million. Active in 20 markets in Europe and as part of EEX Group, commercially active in the USA and Asia, the Exchange develops, operates, and connects secure, liquid and transparent markets for energy and related products. EEX offers contracts on power and emission allowances in addition to freight and agricultural products. In 2018, the company managed to maintain its position as the world´s leading power trading exchange for the second year in a row. In the gas sector, performance was outstanding, with growth of 34 percent in the spot markets. The emissions business also had a fine year, with overall volume more than doubling. Significantly, EEX migrated its IT systems to Deutsche Börse’s state-of-the-art infrastructure. This will fulfil additional regulatory requirements and provide extra protection against cyber-attacks. The innovative application of blockchain technology further enhanced customer experience. The CFI.co judging panel notes these many worthy achievements and wishes to offer EEX the 2019 award for Best Energy &amp; Commodities Trading House Global 2019.</p>\r\n[gallery columns=\"2\" link=\"file\" size=\"medium\" ids=\"7041,7040\"]\r\n\r\n&nbsp;",
     "content_sha256": "3a0e7485db1f639c401cd658607e6f0abe961f864062c3333f5ca38d97ddfc83",
-    "record_sha256": "cd3b598134c99f268c0dec3be26fac5c3906a4cb63f08815e9c98a9f293c2e32"
+    "record_sha256": "87b8c2f0db38c017dd64861dae528367fd0894bb718b9c796e3c5ac90d8843e2"
 }

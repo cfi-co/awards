@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921110215
 wayback_snapshot_url: "http://web.archive.org/web/20210921110215/https://cfi.co/awards/europe/2019/european-energy-exchange-eex-best-energy-commodities-trading-house-global-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 3a0e7485db1f639c401cd658607e6f0abe961f864062c3333f5ca38d97ddfc83
 canonical: 7037-european-energy-exchange-eex-best-energy-commodities-trading-house-global-2019.json
 ---
