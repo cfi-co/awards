@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210610140148",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210610140148/https://cfi.co/awards/asia-pacific/2013/a-good-year-for-citygate-securities-institutional-brokerage-award-mauritius/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210610140148/https://cfi.co/awards/asia-pacific/2013/a-good-year-for-citygate-securities-institutional-brokerage-award-mauritius/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-780\" src=\"https://cfi.co/awards/wp-content/uploads/2013/09/logo1.jpg\" alt=\"logo\" width=\"286\" height=\"73\" /></p>\r\n<p style=\"text-align: justify;\"><strong>This year looks set to be a very good one indeed for privately-owned Citygate Securities in Mauritius: The company’s achievements include a well-deserved award from the CFI.co Judging Panel as Best Institutional Broker, Mauritius.</strong></p>\r\n<p style=\"text-align: justify;\">Citygates’ client base is mainly offshore. The company takes pride in the excellence and efficiency of it services offered mostly institutional investors and high net worth individuals.</p>\r\n<p style=\"text-align: justify;\">Onshore, the firm reaps the benefits from its broad client diversity. The judging panel pointed out that Citygate’s management and personnel are seen to be in relentless pursuit innovation and quality. The judges also remarked that the company boasts a vast range of expertise and counts on highly experienced professionals to offer prime grade investment services across a wide range of sectors.</p>",
     "content_sha256": "490547e05d20842b6a50848e3613f6837906ede820cc0edd2e8231aecd2417f6",
-    "record_sha256": "eeea1ac550ee294a8ff90b67e35ee649d9736553f896140b3cd3f52666254c6a"
+    "record_sha256": "0632be7cae2cd9c3381a0ef6b288cb45d95a348a93f4823122bc0b1584fd8759"
 }
