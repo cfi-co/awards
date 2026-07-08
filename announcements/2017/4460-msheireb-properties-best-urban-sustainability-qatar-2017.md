@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525042103
 wayback_snapshot_url: "http://web.archive.org/web/20260525042103/https://cfi.co/awards/middle-east/2017/msheireb-properties-best-urban-sustainability-qatar-2017/"
+license: CFI-OAAL-1.0
 content_sha256: dfe3bfe4f14257b5211ce440cc2cf48bfc331d58eedf28238569027a79df4849
 canonical: 4460-msheireb-properties-best-urban-sustainability-qatar-2017.json
 ---
