@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094353
 wayback_snapshot_url: "http://web.archive.org/web/20190426094353/https://cfi.co/awards/africa/2015/utt-asset-management-and-investor-services-ltd-best-fund-management-team-tanzania-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 70880f716fd8c89b1aab0d9718b61045a2eaec3d09527cec1b2f1c43801a87e0
 canonical: 2629-utt-asset-management-and-investor-services-ltd-best-fund-management-team-tanzani.json
 ---
