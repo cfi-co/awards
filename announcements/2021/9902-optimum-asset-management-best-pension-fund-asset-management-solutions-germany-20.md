@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220119073625
 wayback_snapshot_url: "http://web.archive.org/web/20220119073625/https://cfi.co/awards/europe/2021/optimum-asset-management-best-pension-fund-asset-management-solutions-germany-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 631c93e6f1cf719f3ca165943e1517745aaa26e9655db0213d8c8253d3bb403e
 canonical: 9902-optimum-asset-management-best-pension-fund-asset-management-solutions-germany-20.json
 ---
