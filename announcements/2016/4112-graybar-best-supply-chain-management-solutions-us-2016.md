@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524043649
 wayback_snapshot_url: "http://web.archive.org/web/20260524043649/https://cfi.co/awards/industries/2016/graybar-best-supply-chain-management-solutions-us-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 4d2e5d9365dbd45338d0cf620aec3ad6896e2c9e81219257a0b29ac7e9191039
 canonical: 4112-graybar-best-supply-chain-management-solutions-us-2016.json
 ---
