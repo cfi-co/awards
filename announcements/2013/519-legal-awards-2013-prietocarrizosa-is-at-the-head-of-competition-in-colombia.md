@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140410023125
 wayback_snapshot_url: "http://web.archive.org/web/20140410023125/http://cfi.co/awards/latin-america/2013/legal-awards-2013-prietocarrizosa-is-at-the-head-of-competition-in-colombia/"
+license: CFI-OAAL-1.0
 content_sha256: b4439e069a686cfa32ad3b3c7b35fb57596d9428e1eed3c1667adbc50c8145d9
 canonical: 519-legal-awards-2013-prietocarrizosa-is-at-the-head-of-competition-in-colombia.json
 ---
