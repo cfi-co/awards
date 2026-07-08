@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210509113025
 wayback_snapshot_url: "http://web.archive.org/web/20210509113025/https://cfi.co/awards/asia-pacific/2021/ing-bank-philippines-best-wholesale-banking-services-philippines-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 6efb2e13ea70078e365b9082dfc8aa3895f8e9251e6ed1e03a369d89de97e290
 canonical: 9051-ing-bank-philippines-best-wholesale-banking-services-philippines-2021.json
 ---
