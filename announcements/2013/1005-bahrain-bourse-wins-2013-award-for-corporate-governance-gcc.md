@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409002806
 wayback_snapshot_url: "http://web.archive.org/web/20140409002806/http://cfi.co/awards/middle-east/2013/bahrain-bourse-wins-2013-award-for-corporate-governance-gcc/"
+license: CFI-OAAL-1.0
 content_sha256: 3d48337d1dbc73b47d5800809ee58bd2eea24f24439a7d7ad4c6bd4c563a1d56
 canonical: 1005-bahrain-bourse-wins-2013-award-for-corporate-governance-gcc.json
 ---
