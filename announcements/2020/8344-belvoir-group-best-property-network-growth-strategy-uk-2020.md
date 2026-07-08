@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210120054958
 wayback_snapshot_url: "http://web.archive.org/web/20210120054958/https://cfi.co/awards/europe/2020/belvoir-group-best-property-network-growth-strategy-uk-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 004b63e0bd8d8120a8e012dd30ca7d0fe197a7f028e0150c88292ebe11bf9798
 canonical: 8344-belvoir-group-best-property-network-growth-strategy-uk-2020.json
 ---
