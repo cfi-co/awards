@@ -1,0 +1,7 @@
+# This repository is a journalism / provenance DATASET, not a PHP application.
+# The only code is the exporter + verifier tooling under scripts/; vendor it so
+# GitHub Linguist stops classifying the repo as "PHP" and it reads as the
+# markdown + JSON dataset it actually is.
+scripts/** linguist-vendored
+MANIFEST.sha256 linguist-generated
+*.json linguist-language=JSON
