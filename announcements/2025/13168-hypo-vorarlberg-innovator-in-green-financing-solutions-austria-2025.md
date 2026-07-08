@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251105131842
 wayback_snapshot_url: "http://web.archive.org/web/20251105131842/https://cfi.co/awards/best-practice/2025/hypo-vorarlberg-innovator-in-green-financing-solutions-austria-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 206f1ef3cc1b0170d2418483b0b0555478e56764aa860d2a349b9ab2d4576ac0
 canonical: 13168-hypo-vorarlberg-innovator-in-green-financing-solutions-austria-2025.json
 ---
