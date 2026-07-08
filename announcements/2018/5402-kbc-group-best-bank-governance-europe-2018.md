@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724085720
 wayback_snapshot_url: "http://web.archive.org/web/20190724085720/https://cfi.co/awards/europe/2018/kbc-group-best-bank-governance-europe-2018/"
+license: CFI-OAAL-1.0
 content_sha256: fc7687c8824a318c6ff62083b6468e9369ad7fac32a045739d8478ab5bfaa309
 canonical: 5402-kbc-group-best-bank-governance-europe-2018.json
 ---
