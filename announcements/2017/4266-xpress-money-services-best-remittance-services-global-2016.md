@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524051413
 wayback_snapshot_url: "http://web.archive.org/web/20260524051413/https://cfi.co/awards/finance/2017/xpress-money-services-best-remittance-services-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 73b20f5d3899000b2d7d21a92598f7aa4514230b40071af6d13d3550675ed83c
 canonical: 4266-xpress-money-services-best-remittance-services-global-2016.json
 ---
