@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210418063408
 wayback_snapshot_url: "http://web.archive.org/web/20210418063408/https://cfi.co/awards/europe/2021/tirelli-partners-best-exclusive-residential-property-consultancy-italy-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 2e5a230824a3f1ab3d66bae0fb7d970b6fdbc553a017d02fab2c03527bdc117c
 canonical: 9018-tirelli-partners-best-exclusive-residential-property-consultancy-italy-2021.json
 ---
