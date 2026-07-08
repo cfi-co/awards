@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724010808
 wayback_snapshot_url: "http://web.archive.org/web/20210724010808/https://cfi.co/awards/north-america/2012/morgan-stanley-sets-the-standard-for-us-brokers/"
+license: CFI-OAAL-1.0
 content_sha256: ff8b2e9fd93cf631f779b0b846fe881cbfb92cb91da3fdc95bc3547e1bd448d6
 canonical: 163-morgan-stanley-sets-the-standard-for-us-brokers.json
 ---
