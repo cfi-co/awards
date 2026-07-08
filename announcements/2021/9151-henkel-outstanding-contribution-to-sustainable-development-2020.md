@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260527041017
 wayback_snapshot_url: "http://web.archive.org/web/20260527041017/https://cfi.co/awards/europe/2021/henkel-outstanding-contribution-to-sustainable-development-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 4f5340b9739708e15bdeb79968b5c14beb233d8b237b9bfb2954d91dbedd517c
 canonical: 9151-henkel-outstanding-contribution-to-sustainable-development-2020.json
 ---
