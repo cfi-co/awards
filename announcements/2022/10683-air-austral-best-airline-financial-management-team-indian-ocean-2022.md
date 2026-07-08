@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928183105
 wayback_snapshot_url: "http://web.archive.org/web/20220928183105/https://cfi.co/awards/asia-pacific/2022/air-austral-best-airline-financial-management-team-indian-ocean-2022/"
+license: CFI-OAAL-1.0
 content_sha256: bb88bccf3ce6faf0499a55bf25123d0560757179190c3fab7f9246435b1c75da
 canonical: 10683-air-austral-best-airline-financial-management-team-indian-ocean-2022.json
 ---
