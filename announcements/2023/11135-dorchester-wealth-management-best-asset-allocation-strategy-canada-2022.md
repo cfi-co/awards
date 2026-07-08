@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330023830
 wayback_snapshot_url: "http://web.archive.org/web/20230330023830/https://cfi.co/awards/finance/2023/dorchester-wealth-management-best-asset-allocation-strategy-canada-2022/"
+license: CFI-OAAL-1.0
 content_sha256: fa91c0485bf52a3204fa25e9470a8b508b8a978cfd0f21b170a455e7e600eb4d
 canonical: 11135-dorchester-wealth-management-best-asset-allocation-strategy-canada-2022.json
 ---
