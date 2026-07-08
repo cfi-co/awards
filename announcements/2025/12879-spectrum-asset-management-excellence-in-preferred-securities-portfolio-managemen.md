@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322095149
 wayback_snapshot_url: "http://web.archive.org/web/20250322095149/https://cfi.co/awards/finance/2025/spectrum-asset-management-excellence-in-preferred-securities-portfolio-management-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 6a620038454a9da1c864d01fdd9dfcd94db0db8ca6fd43d9ff9b1c722bfb5c9e
 canonical: 12879-spectrum-asset-management-excellence-in-preferred-securities-portfolio-managemen.json
 ---
