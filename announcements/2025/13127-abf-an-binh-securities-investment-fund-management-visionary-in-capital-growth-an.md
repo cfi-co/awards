@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251001104418
 wayback_snapshot_url: "http://web.archive.org/web/20251001104418/https://cfi.co/awards/finance/2025/abf-an-binh-securities-investment-fund-management-visionary-in-capital-growth-and-investor-centric-solutions-vietnam-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 5d8ac40522d5abe0a205dca4490eafa8717b7cd64d6905d075a6298559b66de3
 canonical: 13127-abf-an-binh-securities-investment-fund-management-visionary-in-capital-growth-an.json
 ---
