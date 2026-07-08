@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525042204
 wayback_snapshot_url: "http://web.archive.org/web/20260525042204/https://cfi.co/awards/finance/exchanges-brokers/2017/bfx-baron-fx-best-forex-consultancy-north-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: f07abef5db44169f6d424910c6fc77e4624b1c551f06252be565def8c9bcb830
 canonical: 4523-bfx-baron-fx-best-forex-consultancy-north-africa-2017.json
 ---
