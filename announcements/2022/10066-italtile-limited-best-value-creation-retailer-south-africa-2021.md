@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630124509
 wayback_snapshot_url: "http://web.archive.org/web/20220630124509/https://cfi.co/awards/africa/2022/italtile-limited-best-value-creation-retailer-south-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 2f3b8ded61a3b714a64f00b50c7a96be8d21dee1e604ab5029f732d590b30d57
 canonical: 10066-italtile-limited-best-value-creation-retailer-south-africa-2021.json
 ---
