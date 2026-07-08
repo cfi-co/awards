@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260530034358
 wayback_snapshot_url: "http://web.archive.org/web/20260530034358/https://cfi.co/awards/finance/2025/broadspan-capital-champion-of-cross-border-deal-execution-latam-2025/"
+license: CFI-OAAL-1.0
 content_sha256: dc51154e07c0bc0a313e4de8950fc3be465efe43923a2b6bb0cf47032a31a54c
 canonical: 13412-broadspan-capital-champion-of-cross-border-deal-execution-latam-2025.json
 ---
