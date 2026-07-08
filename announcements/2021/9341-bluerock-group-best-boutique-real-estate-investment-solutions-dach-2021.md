@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725065048
 wayback_snapshot_url: "http://web.archive.org/web/20210725065048/https://cfi.co/awards/europe/2021/bluerock-group-best-boutique-real-estate-investment-solutions-dach-2021/"
+license: CFI-OAAL-1.0
 content_sha256: db59ca74d8918331ed2cf8119bf3f7673ecff88cef72433da370faf6a8bca705
 canonical: 9341-bluerock-group-best-boutique-real-estate-investment-solutions-dach-2021.json
 ---
