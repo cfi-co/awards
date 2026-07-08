@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924123224
 wayback_snapshot_url: "http://web.archive.org/web/20210924123224/https://cfi.co/awards/europe/2017/hsbc-germany-best-debt-origination-team-dach-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 665a36eb89479447c266cf8497b04f4b33526357953d283c70811e71a4221b65
 canonical: 3755-hsbc-germany-best-debt-origination-team-dach-2016.json
 ---
