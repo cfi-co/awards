@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724011426
 wayback_snapshot_url: "http://web.archive.org/web/20210724011426/https://cfi.co/awards/europe/2017/caisse-de-refinancement-de-lhabitat-crh-best-social-impact-finance-france-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 5dbb4f213c45f9e59c94035328c88ba572850f85fceaef417af517f609014dfb
 canonical: 4865-caisse-de-refinancement-de-lhabitat-crh-best-social-impact-finance-france-2017.json
 ---
