@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630142537
 wayback_snapshot_url: "http://web.archive.org/web/20220630142537/https://cfi.co/awards/north-america/2022/orbian-most-innovative-trade-finance-solutions-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: cb8b9897e77689b43dc76c8faa3e7fbf427a93cb009abfe468aef0a3f12363f5
 canonical: 10472-orbian-most-innovative-trade-finance-solutions-global-2022.json
 ---
