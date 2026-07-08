@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250831220446
 wayback_snapshot_url: "http://web.archive.org/web/20250831220446/https://cfi.co/awards/front/2018/tanzania-womens-bank-twb-best-social-impact-bank-tanzania-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 79aee7258142249de77177ebf58d8bc787e8d55aeab615ec74f002edebcc3681
 canonical: 5942-tanzania-womens-bank-twb-best-social-impact-bank-tanzania-2018.json
 ---
