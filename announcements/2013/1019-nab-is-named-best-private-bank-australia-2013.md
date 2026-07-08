@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409063051
 wayback_snapshot_url: "http://web.archive.org/web/20140409063051/http://cfi.co/awards/banking/2013/nab-is-named-best-private-bank-australia-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 20ff5653c38a52a43e083db50581e650d858ac24a3285e52e14fec6795b4dd61
 canonical: 1019-nab-is-named-best-private-bank-australia-2013.json
 ---

@@ -23,10 +23,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409063051",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409063051/http://cfi.co/awards/banking/2013/nab-is-named-best-private-bank-australia-2013/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409063051/http://cfi.co/awards/banking/2013/nab-is-named-best-private-bank-australia-2013/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1020\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/nab2.jpg\" alt=\"nab2\" width=\"583\" height=\"86\" /></p>\r\n<p style=\"text-align: justify;\"><strong>National Australia Bank is one of the largest financial institutions in the country and among the top twenty world banks by market capitalisation.</strong> The bank was founded in the late nineteenth century. Its proud heritage and the considerable strengths developed over the years plus the high quality of present management offer a compelling opportunity to private banking clients. NAB is a named Best Private Bank, Australia in the 2013 Banking Awards programme by the CFI.co Judging Panel.</p>",
     "content_sha256": "20ff5653c38a52a43e083db50581e650d858ac24a3285e52e14fec6795b4dd61",
-    "record_sha256": "993945285370740d2ee5b7d8c3ba74981e268460738c30dd14462fd055f76d6e"
+    "record_sha256": "a8b92fb7ee7f1c2844c5318ad6f3726f68b45b2b84eaeebbbb75449bf5f01cb9"
 }
