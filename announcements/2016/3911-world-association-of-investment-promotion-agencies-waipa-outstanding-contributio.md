@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200727192103
 wayback_snapshot_url: "http://web.archive.org/web/20200727192103/https://cfi.co/awards/development/2016/world-association-of-investment-promotion-agencies-waipa-outstanding-contribution-to-trade-investment-in-emerging-economies-global-2016/"
+license: CFI-OAAL-1.0
 content_sha256: c7431aa75ad08a85c07a24a5f3a7146223778d2394685862ced24f1a3fe4c35f
 canonical: 3911-world-association-of-investment-promotion-agencies-waipa-outstanding-contributio.json
 ---
