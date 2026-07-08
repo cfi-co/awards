@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924132151
 wayback_snapshot_url: "http://web.archive.org/web/20210924132151/https://cfi.co/awards/europe/2016/la-poste-best-customer-services-team-france-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 75c0dda9e53144dd96e84cd0c3eeb2a8891db9a92395e73cddae34e62dcd84b5
 canonical: 3415-la-poste-best-customer-services-team-france-2016.json
 ---
