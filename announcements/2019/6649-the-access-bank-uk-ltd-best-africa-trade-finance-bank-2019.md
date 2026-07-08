@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507121016
 wayback_snapshot_url: "http://web.archive.org/web/20190507121016/https://cfi.co/awards/africa/2019/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 17822d21735297e279bb16c6307ccd419b7ec814d15e52be7d031b7f4b989ebd
 canonical: 6649-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2019.json
 ---
