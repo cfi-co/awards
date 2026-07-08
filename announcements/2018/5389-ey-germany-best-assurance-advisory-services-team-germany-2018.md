@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426101517
 wayback_snapshot_url: "http://web.archive.org/web/20190426101517/https://cfi.co/awards/europe/2018/ey-germany-best-assurance-advisory-services-team-germany-2018/"
+license: CFI-OAAL-1.0
 content_sha256: edb8c8e8c47941315eb00ddb464f50928937ad39e304ab87a54461da769aaa3a
 canonical: 5389-ey-germany-best-assurance-advisory-services-team-germany-2018.json
 ---
