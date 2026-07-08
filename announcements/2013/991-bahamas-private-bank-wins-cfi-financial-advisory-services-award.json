@@ -26,10 +26,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409002957",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409002957/http://cfi.co/awards/europe/2013/bahamas-private-bank-wins-cfi-financial-advisory-services-award/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409002957/http://cfi.co/awards/europe/2013/bahamas-private-bank-wins-cfi-financial-advisory-services-award/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-992\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/bsi.jpg\" alt=\"bsi\" width=\"164\" height=\"84\" /></p>\r\n<p style=\"text-align: justify;\"><strong>BSI Overseas (Bahamas) Ltd is a wholly owned subsidiary of one of Switzerland’s oldest banks and part of the giant Generali Group.</strong></p>\r\n<p style=\"text-align: justify;\">This traditional private bank sets out to protect and increase client wealth and does so by providing the highest quality financial advisory services.</p>\r\n<p style=\"text-align: justify;\">According to the CFI Judging Panel, ‘The importance of implementing a strong corporate governance policy is well understood at BSI where there is a clear and unwavering focus on considering the client’s best interests first. The management philosophy is to provide cost effective advice and stay firmly on the client’s side at all times’.</p>\r\n<p style=\"text-align: justify;\">The Panel has no hesitation in confirming this Bahamas bank for the award ‘Best Financial Advisory Services, Bahamas, 2013’.</p>",
     "content_sha256": "0a19a35f688b9ff89f3c077b5de019a1f08cbca1775e1dfc4e3876de411c2195",
-    "record_sha256": "262f669d3440dc702aed4ffe7837ff58c67d095025c42dc29b9c6c11b306049a"
+    "record_sha256": "338d4739ce753cb8c4fb0549b57a89721a5cc2eccd8b8ec413f317d84533a9b5"
 }
