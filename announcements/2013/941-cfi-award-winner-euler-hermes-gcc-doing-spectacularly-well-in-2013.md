@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140731082810
 wayback_snapshot_url: "http://web.archive.org/web/20140731082810/http://cfi.co/awards/middle-east/2013/cfi-award-winner-euler-hermes-gcc-doing-spectacularly-well-in-2013/"
+license: CFI-OAAL-1.0
 content_sha256: d3eb6e6cea87f578ebda83dd802f3b1eef85fdbeaf93f1b83de7072f0e6a9d99
 canonical: 941-cfi-award-winner-euler-hermes-gcc-doing-spectacularly-well-in-2013.json
 ---
