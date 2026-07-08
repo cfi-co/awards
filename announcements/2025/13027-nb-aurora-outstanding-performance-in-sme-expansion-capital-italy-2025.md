@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250812113704
 wayback_snapshot_url: "http://web.archive.org/web/20250812113704/https://cfi.co/awards/finance/2025/nb-aurora-outstanding-performance-in-sme-expansion-capital-italy-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 2bb1c13b189e0740175a6eab119660abcd2550160993ea59202c2c14b1865b3c
 canonical: 13027-nb-aurora-outstanding-performance-in-sme-expansion-capital-italy-2025.json
 ---
