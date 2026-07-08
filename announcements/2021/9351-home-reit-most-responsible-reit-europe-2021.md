@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725055050
 wayback_snapshot_url: "http://web.archive.org/web/20210725055050/https://cfi.co/awards/europe/2021/home-reit-most-responsible-reit-europe-2021/"
+license: CFI-OAAL-1.0
 content_sha256: bb4418df672363f971ba0c531a1d953a0e93e1260163ff76d6c813e6e011a06b
 canonical: 9351-home-reit-most-responsible-reit-europe-2021.json
 ---
