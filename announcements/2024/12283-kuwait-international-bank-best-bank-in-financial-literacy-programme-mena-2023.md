@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240623205516
 wayback_snapshot_url: "http://web.archive.org/web/20240623205516/https://cfi.co/awards/banking/2024/kuwait-international-bank-best-bank-in-financial-literacy-programme-mena-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 2de2cda364c6bd441f24558928d507cee5ea5698d5768de950cdd1d300208c1d
 canonical: 12283-kuwait-international-bank-best-bank-in-financial-literacy-programme-mena-2023.json
 ---
