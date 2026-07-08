@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250522231707
 wayback_snapshot_url: "http://web.archive.org/web/20250522231707/https://cfi.co/awards/banking/2023/maldives-islamic-bank-best-business-bank-indian-ocean-2023/"
+license: CFI-OAAL-1.0
 content_sha256: cc396b1445f821763cbf15ced3eac80f803bd285276e42715ebcf046710a7745
 canonical: 12726-maldives-islamic-bank-best-business-bank-indian-ocean-2023.json
 ---

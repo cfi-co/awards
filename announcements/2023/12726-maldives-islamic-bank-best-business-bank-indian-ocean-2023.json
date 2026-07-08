@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20250522231707",
-        "wayback_snapshot_url": "http://web.archive.org/web/20250522231707/https://cfi.co/awards/banking/2023/maldives-islamic-bank-best-business-bank-indian-ocean-2023/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20250522231707/https://cfi.co/awards/banking/2023/maldives-islamic-bank-best-business-bank-indian-ocean-2023/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-12728\" src=\"https://cfi.co/awards/wp-content/uploads/2024/11/Maldives-Islamic-Bank-jpg.webp\" alt=\"Maldives Islamic Bank\" width=\"500\" height=\"58\" />\r\n<p style=\"text-align: justify;\">Founded in 2011, Maldives Islamic Bank (MIB) is a pioneer of Shariah-compliant financial services. MIB has a network of physical branches in the five most populous atolls of the archipelagic Maldives. It has developed a robust digital banking platform to ensure clients stay connected and in control of their finances at all times. It prioritises the human touch in a tech-powered transformation towards greater inclusivity and financial freedom. MIB stands by clients in times of crisis and has shortened the response time on credit decisions. The bank’s expertise in Shariah compliance lends added protection to clients’ investments and savings. MIB offers a range of business and personal banking services, including current and investment accounts in either Maldivian rufiyaa or US dollar. Flexible and affordable financing solutions enable businesses to spur growth. MIB has helped businesses purchase real estate, mission-critical equipment and maritime vessels. Asset refinancing solutions allow clients to unlock already-invested equity and create liquidity for future projects. The bank tailors SME asset financing to support business expansion and permanent working capital requirements. MIB also offers trade financing and trade payment solutions. It has developed a payment gateway, MIB Global Pay, to help businesses supercharge e-commerce operations. MIB takes pride in the achievements of its female staff, who represent the majority of the workforce across the organisation, including within the business banking team. The CFI.co judging panel is pleased to present Maldives Islamic Bank with the 2023 award for Best Business Bank (Indian Ocean).</p>",
     "content_sha256": "cc396b1445f821763cbf15ced3eac80f803bd285276e42715ebcf046710a7745",
-    "record_sha256": "2f105ed405eb161ca388f38107c2bd33bf9c3ea3d54d440cda825d4e72a3a0bb"
+    "record_sha256": "d230c6e47246c79425c61fa8a41c4bcb8bcec2f0d4ffe4555400eddb2409558f"
 }
