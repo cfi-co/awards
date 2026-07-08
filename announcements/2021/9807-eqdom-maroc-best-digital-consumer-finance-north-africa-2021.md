@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207221854
 wayback_snapshot_url: "http://web.archive.org/web/20211207221854/https://cfi.co/awards/africa/2021/eqdom-maroc-best-digital-consumer-finance-north-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: ae954a7599a94f83de1e330e3121732eebd9802ad5db4b551ce74ad59d3a6081
 canonical: 9807-eqdom-maroc-best-digital-consumer-finance-north-africa-2021.json
 ---
