@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20201029151629
 wayback_snapshot_url: "http://web.archive.org/web/20201029151629/https://cfi.co/awards/europe/2020/nordea-life-finland-most-sustainable-assurance-nordics-2020/"
+license: CFI-OAAL-1.0
 content_sha256: fc72fa37ddcfa0b97817c16a832f0a0b610b2c9882d4a466ba8b0101272116b4
 canonical: 8091-nordea-life-finland-most-sustainable-assurance-nordics-2020.json
 ---
