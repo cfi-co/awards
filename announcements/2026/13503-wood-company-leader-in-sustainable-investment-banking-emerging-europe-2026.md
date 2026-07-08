@@ -15,7 +15,8 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
+license: CFI-OAAL-1.0
 content_sha256: 3e4b392f508bb3d02aeee473d902a06bd9edf02417457b954afa0c04b996527b
 canonical: 13503-wood-company-leader-in-sustainable-investment-banking-emerging-europe-2026.json
 ---
