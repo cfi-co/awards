@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525051107
 wayback_snapshot_url: "http://web.archive.org/web/20260525051107/https://cfi.co/awards/middle-east/2017/astad-best-infrastructure-project-management-team-gcc-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 32f205474db357e6da0313348f1f9100b3de0c903e8943872281cbe328ba3346
 canonical: 4981-astad-best-infrastructure-project-management-team-gcc-2017.json
 ---
