@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240522235044
 wayback_snapshot_url: "http://web.archive.org/web/20240522235044/https://cfi.co/awards/latin-america/2013/colombian-law-firm-brigard-urrutia-takes-2013-award/"
+license: CFI-OAAL-1.0
 content_sha256: e75f988c71b6514e97920dd89c1a787404fa862edce70d2fefb4dfae9653a39d
 canonical: 503-colombian-law-firm-brigard-urrutia-takes-2013-award.json
 ---
