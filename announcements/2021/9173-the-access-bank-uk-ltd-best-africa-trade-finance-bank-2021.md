@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210614184117
 wayback_snapshot_url: "http://web.archive.org/web/20210614184117/https://cfi.co/awards/africa/2021/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 74f690c0d748eed2ff5dca385668505e9a14cd2bc3b3354ccb0bd0f778a527cb
 canonical: 9173-the-access-bank-uk-ltd-best-africa-trade-finance-bank-2021.json
 ---

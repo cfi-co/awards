@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210614184117",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210614184117/https://cfi.co/awards/africa/2021/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210614184117/https://cfi.co/awards/africa/2021/the-access-bank-uk-ltd-best-africa-trade-finance-bank-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-7528\" src=\"https://cfi.co/awards/wp-content/uploads/2020/06/TheAccessBankUK.jpg\" alt=\"TheAccessBankUK\" width=\"458\" height=\"61\" />\r\n<p style=\"text-align: justify;\">The Access Bank UK has kept trade finance flowing throughout the pandemic, protecting its staff and ensuring operational continuity. It delivered its promise to prevent furloughs and even brought in new team members. The Access Bank UK increased its income by 19 percent while maintaining trade finance volume (£3.8bn) and a bank balance sheet (£2.5bn). In 2020, it expanded its business in Ghana, supported multinationals in Angola and extended its operations in Mozambique. The Access Bank UK is well positioned to capitalise on opportunities in OECD markets, with headquarters in London and offices in Dubai and Lagos. It is authorised by the Prudential Regulation Authority (PRA) and regulated by the UK Financial Conduct Authority (FCA) and the PRA. The Bank is a subsidiary of the Nigerian Access Bank Group, which serves 36 million customers. The Access Bank UK serves as the Groups OECD confirming hub and is a confirming bank in the Global Trade Finance Programme of the International Finance Corporation. It mitigates import and export risks, offers letters of credit, provides payment guarantees and manages foreign trade exposure. The CFl.co judging panel presents The Access Bank UK, a repeat programme winner, with the 2021 award for Best Africa Trade Finance Bank.</p>",
     "content_sha256": "74f690c0d748eed2ff5dca385668505e9a14cd2bc3b3354ccb0bd0f778a527cb",
-    "record_sha256": "89115f7988caaa1e892e1c6b8ca614bf6c21c8ae2b25b1527f1d1bebed7ce694"
+    "record_sha256": "83fa6ffc83d5246560e1973dde5573745696be51d7eea5ddd984297981f8c58b"
 }
