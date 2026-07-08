@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725071125
 wayback_snapshot_url: "http://web.archive.org/web/20210725071125/https://cfi.co/awards/africa/2021/thirdway-africa-best-esg-merchant-banking-team-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: bba188d87e402ae019513ca214c4313449de73cb7e947d1764ec6963639dee99
 canonical: 9305-thirdway-africa-best-esg-merchant-banking-team-africa-2021.json
 ---
