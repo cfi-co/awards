@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923172147
 wayback_snapshot_url: "http://web.archive.org/web/20230923172147/https://cfi.co/awards/asia-pacific/2023/union-bank-of-the-philippines-best-retail-bank-south-east-asia-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 766a964ad893916808e7e977aa14c2055ad55bd24cfc86d759352dad6cf473c0
 canonical: 11662-union-bank-of-the-philippines-best-retail-bank-south-east-asia-2023.json
 ---
