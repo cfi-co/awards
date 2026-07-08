@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260528045735
 wayback_snapshot_url: "http://web.archive.org/web/20260528045735/https://cfi.co/awards/latin-america/2026/afiancol-excellence-in-reinsurance-backed-bond-security-colombia-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 300575c566f0ba4b1d64194514724965b1e3cab6332f62651163c68cf4b3180e
 canonical: 13398-afiancol-excellence-in-reinsurance-backed-bond-security-colombia-2026.json
 ---
