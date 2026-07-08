@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820020105
 wayback_snapshot_url: "http://web.archive.org/web/20220820020105/https://cfi.co/awards/europe/2022/camradata-best-investment-analytics-team-uk-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 4f4e36c59b183f2ce4c94304d25c3a39e2e41166dd85d25074e7d924f710a24a
 canonical: 10371-camradata-best-investment-analytics-team-uk-2022.json
 ---
