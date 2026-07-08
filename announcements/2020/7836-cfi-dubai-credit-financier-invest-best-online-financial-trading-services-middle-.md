@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810081329
 wayback_snapshot_url: "http://web.archive.org/web/20200810081329/https://cfi.co/awards/middle-east/2020/cfi-dubai-credit-financier-invest-best-online-financial-trading-services-middle-east-2020/"
+license: CFI-OAAL-1.0
 content_sha256: e5cdbec7ae6f2d9bc7b5608d5555fdb12e1e5cf69f1a85fd4c4e36035184ccde
 canonical: 7836-cfi-dubai-credit-financier-invest-best-online-financial-trading-services-middle-.json
 ---
