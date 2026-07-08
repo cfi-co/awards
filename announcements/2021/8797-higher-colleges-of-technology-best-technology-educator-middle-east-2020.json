@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210228104717",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210228104717/https://cfi.co/awards/middle-east/2021/higher-colleges-of-technology-best-technology-educator-middle-east-2020/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210228104717/https://cfi.co/awards/middle-east/2021/higher-colleges-of-technology-best-technology-educator-middle-east-2020/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-8798\" src=\"https://cfi.co/awards/wp-content/uploads/2021/02/Higher-Colleges-of-Technology.jpg\" alt=\"Higher Colleges of Technology\" width=\"500\" height=\"230\" />\r\n<p style=\"text-align: justify;\">Higher Colleges of Technology (HCT) is the largest applied higher education institution in the UAE, with 23,000 students spread across 16 campuses. The institution builds on a 30-year legacy with its new HCT 4.0 strategy, which aims to ensure that graduates have the technical skills to thrive in a globally competitive and increasingly tech-based world. HCT students — 63 percent of them female — have a track record of turning college projects into successful start-ups. The College stresses the importance of innovation and entrepreneurship: there are more open labs than classrooms, and students are connected to professional networks to find the necessary funding to convert their projects into products. Innovation fuels the action at HCT. Steady investments to strengthen IT structure over the past decade have given the institution a head-start in the race to adapt classrooms and curricula to accommodate Covid-19 safety measures. Certified e-teachers work with students in online educational platforms using digital tools, simulations and interactive modules to keep classes connected and learning. The College has taken precautions to protect student and faculty during the pandemic, accommodating 80 percent of courses online and limiting campus attendance. HCT challenges students to view disruption as an opportunity to innovate and accelerate new ideas. The CFI.co judging panel believes that to be sound advice and declares HCT as the 2020 winner of the Best Technology Educator (Middle East) award.</p>",
     "content_sha256": "b33905b149fbe09de1cce035de45579ae75d5496fb31c1fc3ca7b276026e3bab",
-    "record_sha256": "8334ec7803c1fdbc6d35de99c27d2d9a52dbce5d8625f69db88e35c5c4351ab4"
+    "record_sha256": "e28c2a5d6ebe56eb55269fa80854d7236a528a64d5c651803eb07010631f873c"
 }
