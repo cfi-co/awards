@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724002900
 wayback_snapshot_url: "http://web.archive.org/web/20210724002900/https://cfi.co/awards/middle-east/2012/best-investment-bank-saudi-arabia-ncb-capital/"
+license: CFI-OAAL-1.0
 content_sha256: ce285675e4e5604f4d86e2945f6ca2a1e996fa0354bd579adeb15707ca85ac1b
 canonical: 235-best-investment-bank-saudi-arabia-ncb-capital.json
 ---
