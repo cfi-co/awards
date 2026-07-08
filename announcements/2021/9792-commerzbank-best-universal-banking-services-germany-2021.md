@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207215320
 wayback_snapshot_url: "http://web.archive.org/web/20211207215320/https://cfi.co/awards/europe/2021/commerzbank-best-universal-banking-services-germany-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 8ab7f4a49ba810cb6c55f0abf7d6417b5a4449cdb3a87f02cf78a7420a95dc35
 canonical: 9792-commerzbank-best-universal-banking-services-germany-2021.json
 ---
