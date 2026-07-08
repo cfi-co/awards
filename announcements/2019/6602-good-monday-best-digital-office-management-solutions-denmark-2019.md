@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190507124521
 wayback_snapshot_url: "http://web.archive.org/web/20190507124521/https://cfi.co/awards/industries/technology/2019/good-monday-best-digital-office-management-solutions-denmark-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 6279be750f2f96d420c9404cef432897fd51702e922db5a12796dfdf8a0c7649
 canonical: 6602-good-monday-best-digital-office-management-solutions-denmark-2019.json
 ---
