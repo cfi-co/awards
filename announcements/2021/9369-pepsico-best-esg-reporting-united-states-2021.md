@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210725055142
 wayback_snapshot_url: "http://web.archive.org/web/20210725055142/https://cfi.co/awards/north-america/2021/pepsico-best-esg-reporting-united-states-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 50a163c12b52e4eb51925b76b8459a36b53077c88d5de00b0a0ed80504dc0834
 canonical: 9369-pepsico-best-esg-reporting-united-states-2021.json
 ---
