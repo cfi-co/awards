@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924130318
 wayback_snapshot_url: "http://web.archive.org/web/20210924130318/https://cfi.co/awards/latin-america/2017/maran-group-best-industrial-park-mexico-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 986cf6ad34c06b7d8f13eb0c3df4eaa147b95f154ce3071fc7b887636a7c30bc
 canonical: 4207-maran-group-best-industrial-park-mexico-2017.json
 ---
