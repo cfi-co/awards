@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208113556
 wayback_snapshot_url: "http://web.archive.org/web/20230208113556/https://cfi.co/awards/banking/2023/goren-capital-group-best-investment-bank-israel-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 5dd399136b913b590789da0f892fae6eeaadf05e5a796cb9eb70fdd73952c75c
 canonical: 11037-goren-capital-group-best-investment-bank-israel-2022.json
 ---
