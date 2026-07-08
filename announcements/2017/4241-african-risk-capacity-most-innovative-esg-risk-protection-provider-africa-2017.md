@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20171025135358
 wayback_snapshot_url: "http://web.archive.org/web/20171025135358/http://cfi.co/awards/africa/2017/african-risk-capacity-most-innovative-esg-risk-protection-provider-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 359e245b2ad24bf5b465bf7ce5b64aaaee1e4e1933b30a7c06fcc0290a99b2a9
 canonical: 4241-african-risk-capacity-most-innovative-esg-risk-protection-provider-africa-2017.json
 ---
