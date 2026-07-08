@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523050142
 wayback_snapshot_url: "http://web.archive.org/web/20260523050142/https://cfi.co/awards/finance/asset-management/2016/atrevida-partners-best-multi-strategy-offshore-fund-us-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 90f5d3e30144196091a63e34eb556abbdafbc02dfc7e0acd491b5eb9c29e9634
 canonical: 3251-atrevida-partners-best-multi-strategy-offshore-fund-us-2016.json
 ---
