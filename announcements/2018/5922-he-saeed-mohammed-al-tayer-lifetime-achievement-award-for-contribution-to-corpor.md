@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191119062658
 wayback_snapshot_url: "http://web.archive.org/web/20191119062658/https://cfi.co/awards/front/2018/he-saeed-mohammed-al-tayer-lifetime-achievement-award-for-contribution-to-corporate-governance-middle-east-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 74a0f5a5676bfbed109def7e44ca282b3ef479abdaf00e32f7c728ea236902c7
 canonical: 5922-he-saeed-mohammed-al-tayer-lifetime-achievement-award-for-contribution-to-corpor.json
 ---
