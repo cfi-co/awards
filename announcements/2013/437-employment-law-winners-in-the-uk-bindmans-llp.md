@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523041514
 wayback_snapshot_url: "http://web.archive.org/web/20260523041514/https://cfi.co/awards/europe/2013/employment-law-winners-in-the-uk-bindmans-llp/"
+license: CFI-OAAL-1.0
 content_sha256: 036b9b62dc12796c6c259930e5ba9933c0a933070027f1f6a907394ade316c8a
 canonical: 437-employment-law-winners-in-the-uk-bindmans-llp.json
 ---
