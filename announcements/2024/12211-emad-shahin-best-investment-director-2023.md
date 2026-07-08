@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420142059
 wayback_snapshot_url: "http://web.archive.org/web/20240420142059/https://cfi.co/awards/individual/2024/emad-shahin-best-investment-director-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 64cd950684359abb0ee1f895e268b481f89b73aa13b8c8aa3e11eac0188daa46
 canonical: 12211-emad-shahin-best-investment-director-2023.json
 ---
