@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426100124
 wayback_snapshot_url: "http://web.archive.org/web/20190426100124/https://cfi.co/awards/africa/2015/banco-millennium-angola-best-commercial-bank-angola-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 3b2f64d46dcb5a80807f13cc2280db26af3a8836aef696bce672fdbae8a9c4fb
 canonical: 2224-banco-millennium-angola-best-commercial-bank-angola-2015.json
 ---
