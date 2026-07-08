@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230330011836
 wayback_snapshot_url: "http://web.archive.org/web/20230330011836/https://cfi.co/awards/banking/2023/atom-bank-best-mortgage-solutions-provider-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 1e81c3292a14ebb82271818e69ff5d5dd0ed5609f3a0764e6c65f0787981a836
 canonical: 11153-atom-bank-best-mortgage-solutions-provider-uk-2023.json
 ---
