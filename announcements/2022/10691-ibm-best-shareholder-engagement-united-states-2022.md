@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928200404
 wayback_snapshot_url: "http://web.archive.org/web/20220928200404/https://cfi.co/awards/best-practice/2022/ibm-best-shareholder-engagement-united-states-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 42124087aef8e314521a1238a1cde402a63d168bec48782c5eacb40c25861504
 canonical: 10691-ibm-best-shareholder-engagement-united-states-2022.json
 ---
