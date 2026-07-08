@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206174609
 wayback_snapshot_url: "http://web.archive.org/web/20231206174609/https://cfi.co/awards/europe/2023/mitech-best-trade-finance-software-solutions-global-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 6ff5907e6ff15d3f1fb0904b09d36425877d99cae2e2542ec8d10321f16ba6ce
 canonical: 11982-mitech-best-trade-finance-software-solutions-global-2023.json
 ---
