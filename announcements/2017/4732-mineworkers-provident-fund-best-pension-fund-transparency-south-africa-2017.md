@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260210032844
 wayback_snapshot_url: "http://web.archive.org/web/20260210032844/https://cfi.co/awards/africa/2017/mineworkers-provident-fund-best-pension-fund-transparency-south-africa-2017/"
+license: CFI-OAAL-1.0
 content_sha256: ca407214b88b37a4f30de9375df20432ef9b8f1546af79bb3ae080b226615795
 canonical: 4732-mineworkers-provident-fund-best-pension-fund-transparency-south-africa-2017.json
 ---
