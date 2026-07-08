@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200916124718
 wayback_snapshot_url: "http://web.archive.org/web/20200916124718/https://cfi.co/awards/latin-america/2018/bind-banco-industrial-best-sme-bank-argentina-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 2759b2224a6e99f7e718a34bb1b31e638f8d8ee5d829a24f2e0ee535502c3c79
 canonical: 5661-bind-banco-industrial-best-sme-bank-argentina-2018.json
 ---
