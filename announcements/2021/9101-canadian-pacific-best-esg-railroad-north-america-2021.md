@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210506201707
 wayback_snapshot_url: "http://web.archive.org/web/20210506201707/https://cfi.co/awards/north-america/2021/canadian-pacific-best-esg-railroad-north-america-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 35cb3aeaceb33da26667bf32991d1f61c4f57f778e9c4b0e16b688ebfd8dcf5f
 canonical: 9101-canadian-pacific-best-esg-railroad-north-america-2021.json
 ---
