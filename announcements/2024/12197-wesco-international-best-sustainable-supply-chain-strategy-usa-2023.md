@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241211092437
 wayback_snapshot_url: "http://web.archive.org/web/20241211092437/https://cfi.co/awards/best-practice/sustainability/2024/wesco-international-best-sustainable-supply-chain-strategy-usa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: f36dc66e977ba71b1bd22ef9b165aabe2651aecaee3bb0a3b63d7b597bf42e9d
 canonical: 12197-wesco-international-best-sustainable-supply-chain-strategy-usa-2023.json
 ---
