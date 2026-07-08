@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203055827
 wayback_snapshot_url: "http://web.archive.org/web/20221203055827/https://cfi.co/awards/best-practice/sustainability/2019/canary-wharf-group-outstanding-contribution-to-sustainable-development-united-kingdom-2018/"
+license: CFI-OAAL-1.0
 content_sha256: b99452636d989657c9741813bd18de94cb9e0a6195c34fed0302568b8f0e0f10
 canonical: 6417-canary-wharf-group-outstanding-contribution-to-sustainable-development-united-ki.json
 ---
