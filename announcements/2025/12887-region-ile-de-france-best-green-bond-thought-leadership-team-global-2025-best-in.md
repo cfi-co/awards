@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322100709
 wayback_snapshot_url: "http://web.archive.org/web/20250322100709/https://cfi.co/awards/development/2025/region-ile-de-france-best-green-bond-thought-leadership-team-global-2025-best-in-class-bond-issuer-global-2025/"
+license: CFI-OAAL-1.0
 content_sha256: ebd70584e2422ea8faaf601629b3786b6b37aa285ac0a608f1da7a1a58de3c87
 canonical: 12887-region-ile-de-france-best-green-bond-thought-leadership-team-global-2025-best-in.json
 ---
