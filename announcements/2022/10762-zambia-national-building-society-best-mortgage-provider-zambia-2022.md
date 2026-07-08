@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928201426
 wayback_snapshot_url: "http://web.archive.org/web/20220928201426/https://cfi.co/awards/banking/2022/zambia-national-building-society-best-mortgage-provider-zambia-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 489343e677b6f4faff480b5f572ab6af17c58d30274dbf7e3797532c019a836e
 canonical: 10762-zambia-national-building-society-best-mortgage-provider-zambia-2022.json
 ---
