@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260531034424
 wayback_snapshot_url: "http://web.archive.org/web/20260531034424/https://cfi.co/awards/africa/2023/smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-africa-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 16fe40c4b0720b27bc85ab037e961cb1461a7a5adedb7285fa707a931849249f
 canonical: 12154-smit-moroccan-agency-for-tourism-development-excellence-in-tourism-development-a.json
 ---
