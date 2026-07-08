@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220118160855
 wayback_snapshot_url: "http://web.archive.org/web/20220118160855/https://cfi.co/awards/europe/2022/the-blackstone-group-international-partners-llp-best-esg-corporate-strategy-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 112fb156321e6ed6661ddf05639b760f410d686d568adce2217037c5350a9015
 canonical: 9957-the-blackstone-group-international-partners-llp-best-esg-corporate-strategy-uk-2.json
 ---
