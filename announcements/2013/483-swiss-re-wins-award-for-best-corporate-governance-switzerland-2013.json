@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260523041635",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260523041635/https://cfi.co/awards/europe/2013/swiss-re-wins-award-for-best-corporate-governance-switzerland-2013/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523041635/https://cfi.co/awards/europe/2013/swiss-re-wins-award-for-best-corporate-governance-switzerland-2013/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong><img class=\"aligncenter size-full wp-image-484\" src=\"https://cfi.co/awards/wp-content/uploads/2013/05/Swiss-RE.jpg\" alt=\"Swiss RE\" width=\"113\" height=\"72\" />There are few industries where stakeholders have more to lose than in reinsurance and accordingly the strength of corporate governance is critical.</strong></p>\r\n<p style=\"text-align: justify;\">The panel were impressed in particular by the continual assessment and development of Swiss RE’s corporate governance standards. Under Walter B Kielholz’s leadership, the Chairman’s and Governance committee has helped ensure that Swiss RE continues as a stable and innovative player in the critically important reinsurance market - and this was borne out in the Company’s 2012 results.</p>",
     "content_sha256": "b5aaf4b219c17003af5b15eae88df96c0f6a96f02967d07dfde9a6ffbf861c79",
-    "record_sha256": "22d97b6f3e154a0aa8217d4afb68f43830675d0c26f026a7937a5d7b6d6a66d2"
+    "record_sha256": "301dd7f08c03a812a8d942373f2adf70c5c1d7e816eed33a18bd0c674accc081"
 }
