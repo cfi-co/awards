@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525043925
 wayback_snapshot_url: "http://web.archive.org/web/20260525043925/https://cfi.co/awards/middle-east/2017/abana-enterprises-group-company-best-cash-handling-solutions-middle-east-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 7d71322291266b4c2efa43b23180a4efac9819d38c2e75390fc4262cdd658b07
 canonical: 4675-abana-enterprises-group-company-best-cash-handling-solutions-middle-east-2017.json
 ---
