@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20211015235710",
-        "wayback_snapshot_url": "http://web.archive.org/web/20211015235710/https://cfi.co/awards/latin-america/2021/banco-hipotecario-best-sme-bank-central-america-2021/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20211015235710/https://cfi.co/awards/latin-america/2021/banco-hipotecario-best-sme-bank-central-america-2021/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<img class=\"aligncenter size-full wp-image-9338\" src=\"https://cfi.co/awards/wp-content/uploads/2021/07/Banco-Hipotecario.jpg\" alt=\"Banco-Hipotecario\" width=\"400\" height=\"71\" />\r\n<p style=\"text-align: justify;\">Banco Hipotecario (BH) was established in 1935, after a 115-year struggle by the farmers and pro-independence leaders of El Salvador for the creation of a mortgage bank. Ever since, BH has sought to make a difference to customers’ lives — while contributing to El Salvador’s productivity. It works with SMEs across the country, paying special attention to agricultural operations and micro-enterprises. Its business banking services include payment processing, working capital, debt consolidation, energy efficiency credit, overdraft protection and equipment purchase. Clients benefit from a robust digital platform and dedicated staff assistance. BH joined a national digitalisation campaign to provide MSMEs with the e-commerce tools and skills so necessary during the pandemic. Thousands of businesses across Central America have benefitted from the programme, which provides a free e-commerce page as well as virtual and face-to-face training. BH president Celina Padilla Meardi recently introduced a UN-backed initiative to increase the economic autonomy of Salvadoran women through financial, personal and professional development programmes. The bank, which is led by the president and a predominantly female board of directors, made an ideal partner. BH continues to prioritise customer convenience, and has opened a second branch of its new “café banking” concept. Customers at BH Cafés can conduct business, access wi-fi — or even borrow a digital device — while enjoying coffee and a snack. The CFI.co judges present Banco Hipotecario, a repeat programme winner, with the 2021 award for Best SME Bank (Central America).</p>",
     "content_sha256": "74896c521c3478faa2838baa0973b451a7cc8b97120692f3f218fc80db35a18e",
-    "record_sha256": "0ddbe013e7f7fa1d023e7339f6255990330a8ca5327aa4a1b8fae9060151ce36"
+    "record_sha256": "0d1ecb98ff83a55a51815abbd7a3f2b990aa18fd8d1d80b07ec168428af91d46"
 }

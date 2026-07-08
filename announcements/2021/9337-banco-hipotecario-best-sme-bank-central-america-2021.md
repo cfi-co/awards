@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015235710
 wayback_snapshot_url: "http://web.archive.org/web/20211015235710/https://cfi.co/awards/latin-america/2021/banco-hipotecario-best-sme-bank-central-america-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 74896c521c3478faa2838baa0973b451a7cc8b97120692f3f218fc80db35a18e
 canonical: 9337-banco-hipotecario-best-sme-bank-central-america-2021.json
 ---
