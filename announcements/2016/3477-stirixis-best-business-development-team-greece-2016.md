@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524041108
 wayback_snapshot_url: "http://web.archive.org/web/20260524041108/https://cfi.co/awards/best-practice/2016/stirixis-best-business-development-team-greece-2016/"
+license: CFI-OAAL-1.0
 content_sha256: e3c6b322e228fe5ac9bfecb17e13010109f662aa00ccfac93ca73914b1600fd9
 canonical: 3477-stirixis-best-business-development-team-greece-2016.json
 ---
