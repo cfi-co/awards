@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20231206172837
 wayback_snapshot_url: "http://web.archive.org/web/20231206172837/https://cfi.co/awards/europe/2023/armanext-best-sme-reit-listing-advisor-europe-2023/"
+license: CFI-OAAL-1.0
 content_sha256: c54dbbbf7c3ae1686213b8a46ae320a0ba0192896088f636269994d3c8c748f1
 canonical: 12016-armanext-best-sme-reit-listing-advisor-europe-2023.json
 ---
