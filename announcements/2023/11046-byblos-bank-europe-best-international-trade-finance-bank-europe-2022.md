@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230208093819
 wayback_snapshot_url: "http://web.archive.org/web/20230208093819/https://cfi.co/awards/banking/2023/byblos-bank-europe-best-international-trade-finance-bank-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: e8899eb028ad1ef01b7b9d89c0a617c50ec17e93f342c12a88be808e926e968b
 canonical: 11046-byblos-bank-europe-best-international-trade-finance-bank-europe-2022.json
 ---
