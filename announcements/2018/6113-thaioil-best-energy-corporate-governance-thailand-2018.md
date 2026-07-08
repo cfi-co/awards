@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190426094420
 wayback_snapshot_url: "http://web.archive.org/web/20190426094420/https://cfi.co/awards/asia-pacific/2018/thaioil-best-energy-corporate-governance-thailand-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 2aabeaec5a1d7040046de4023d49dac7a79171da82d17ea522dba29f6ad41cad
 canonical: 6113-thaioil-best-energy-corporate-governance-thailand-2018.json
 ---
