@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190820144029
 wayback_snapshot_url: "http://web.archive.org/web/20190820144029/https://cfi.co/awards/latin-america/2019/moodys-de-mexico-sa-de-cv-best-credit-rating-agency-mexico-2019/"
+license: CFI-OAAL-1.0
 content_sha256: dbd5b1e28a96d2d385cf4147e6dd3a2ba684ecaa446dff8a6722c29df76e874b
 canonical: 6838-moodys-de-mexico-sa-de-cv-best-credit-rating-agency-mexico-2019.json
 ---
