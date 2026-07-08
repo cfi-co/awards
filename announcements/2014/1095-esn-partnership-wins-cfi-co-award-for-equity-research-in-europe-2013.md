@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209131816
 wayback_snapshot_url: "http://web.archive.org/web/20140209131816/http://cfi.co/awards/europe/2014/esn-partnership-wins-cfi-co-award-for-equity-research-in-europe-2013/"
+license: CFI-OAAL-1.0
 content_sha256: 406b4a6c865803c8ea67ce28f29b7c583073ebdf27ae7d03ba3ad42aea26bfed
 canonical: 1095-esn-partnership-wins-cfi-co-award-for-equity-research-in-europe-2013.json
 ---
