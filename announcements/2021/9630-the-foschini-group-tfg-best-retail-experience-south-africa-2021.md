@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015230645
 wayback_snapshot_url: "http://web.archive.org/web/20211015230645/https://cfi.co/awards/africa/2021/the-foschini-group-tfg-best-retail-experience-south-africa-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 078abfb58b88ed309f8449d6a1d01ab1ad7884306eee51a86677c6f597f2da4c
 canonical: 9630-the-foschini-group-tfg-best-retail-experience-south-africa-2021.json
 ---
