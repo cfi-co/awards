@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260525072458
 wayback_snapshot_url: "http://web.archive.org/web/20260525072458/https://cfi.co/awards/africa/2019/absa-best-sme-partner-bank-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: ca604bb9608e5b1cbd7a089ae60e461455d1f1ce7d3a5fc353935ccf09aecc51
 canonical: 7946-absa-best-sme-partner-bank-africa-2018.json
 ---
