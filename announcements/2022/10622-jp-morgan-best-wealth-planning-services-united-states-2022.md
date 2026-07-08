@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928193115
 wayback_snapshot_url: "http://web.archive.org/web/20220928193115/https://cfi.co/awards/finance/2022/jp-morgan-best-wealth-planning-services-united-states-2022/"
+license: CFI-OAAL-1.0
 content_sha256: d621c6b00476983ce24c9c451f8fcd1464f8328cb2f97131cf7eafdbbe8b031e
 canonical: 10622-jp-morgan-best-wealth-planning-services-united-states-2022.json
 ---
