@@ -27,6 +27,11 @@ flock -n 9 || { log "another sync running, skip"; exit 0; }
 
 log "sync start"
 
+# 0. Refresh Wayback evidence: re-check non-archived URLs (cheap — archived ones
+#    are skipped) and submit a bounded batch of any still-missing URLs. Best-effort.
+php8.2 scripts/wayback.php check     >>"$LOG" 2>&1 || true
+php8.2 scripts/wayback.php submit 25 >>"$LOG" 2>&1 || true
+
 # 1. Re-export live data (overwrites announcements/; identical files = no diff).
 php8.2 /usr/local/bin/wp eval-file scripts/export.php --allow-root --path="$WP" >/dev/null
 

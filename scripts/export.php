@@ -82,6 +82,19 @@ foreach ($wpdb->get_results(
     if ($m->mk === '_cfi_jsonld_sponsor_name') $sponmap[$m->pid]['name'] = $m->mv;
 }
 
+/* 2c. Wayback evidence cache (built by scripts/wayback.php; gitignored).
+       url => [status, earliest snapshot ts, snapshot url]. */
+$waybackmap = array();
+if (is_file("$REPO/scripts/.wayback-cache.tsv")) {
+    foreach (file("$REPO/scripts/.wayback-cache.tsv",
+                  FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES) as $l) {
+        $p = explode("\t", $l);
+        if (count($p) >= 4) {
+            $waybackmap[$p[0]] = array('status' => $p[1], 'ts' => $p[2], 'snap' => $p[3]);
+        }
+    }
+}
+
 $plan = fopen($PLAN, 'w');
 $n = 0; $bytes = 0;
 
@@ -111,18 +124,21 @@ foreach ($posts as $p) {
             if (isset($catslugs[$id][$cslug])) { $content_class = $cclass; break; }
         }
     }
+    $wb = $waybackmap[$url] ?? array('status' => 'pending_check', 'ts' => '', 'snap' => '');
     $classification = array(
-        'content_class'       => $content_class,
-        'editorial_lens'      => 'constructive_positive_lens', // CFI's stated stance
-        'independence_status' => $sponsored ? 'commercially_supported' : 'independent_editorial',
-        'sponsor_disclosure'  => $sponsored ? 'visible_and_machine_readable' : 'none',
-        'sponsor_name'        => $sponsor,
-        'article_status'      => 'published',
-        'historical_status'   => 'current_at_publication',
-        'correction_status'   => 'none',          // git history is the live correction record
-        'archive_policy'      => 'no_delete',
-        'provenance_layer'    => 'github_versioned',
-        'wayback_status'      => 'pending_submission',
+        'content_class'          => $content_class,
+        'editorial_lens'         => 'constructive_positive_lens', // CFI's stated stance
+        'independence_status'    => $sponsored ? 'commercially_supported' : 'independent_editorial',
+        'sponsor_disclosure'     => $sponsored ? 'visible_and_machine_readable' : 'none',
+        'sponsor_name'           => $sponsor,
+        'article_status'         => 'published',
+        'historical_status'      => 'current_at_publication',
+        'correction_status'      => 'none',          // git history is the live correction record
+        'archive_policy'         => 'no_delete',
+        'provenance_layer'       => 'github_versioned',
+        'wayback_status'         => $wb['status'],   // archived | submitted_pending | not_found | pending_check
+        'wayback_first_snapshot' => $wb['ts'],       // earliest Wayback capture (YYYYMMDDhhmmss)
+        'wayback_snapshot_url'   => $wb['snap'],
     );
 
     // Exact machine record. Key order is fixed; record_sha256 covers all
@@ -169,6 +185,10 @@ foreach ($posts as $p) {
     $fm .= 'archive_policy: ' . $classification['archive_policy'] . "\n";
     $fm .= 'provenance_layer: ' . $classification['provenance_layer'] . "\n";
     $fm .= 'wayback_status: ' . $classification['wayback_status'] . "\n";
+    if ($classification['wayback_first_snapshot'] !== '') {
+        $fm .= 'wayback_first_snapshot: ' . $classification['wayback_first_snapshot'] . "\n";
+        $fm .= 'wayback_snapshot_url: ' . yaml_str($classification['wayback_snapshot_url']) . "\n";
+    }
     $fm .= 'content_sha256: ' . $chash . "\n";
     $fm .= 'canonical: ' . $id . '-' . $slug . ".json\n";
     $fm .= "---\n\n";
