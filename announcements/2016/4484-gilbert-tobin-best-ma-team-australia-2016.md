@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524045008
 wayback_snapshot_url: "http://web.archive.org/web/20260524045008/https://cfi.co/awards/asia-pacific/2016/gilbert-tobin-best-ma-team-australia-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 8e238a30055bed9f7ec9bdf42b74b0dcb31e8bed3d55a793223610fccfd48ba3
 canonical: 4484-gilbert-tobin-best-ma-team-australia-2016.json
 ---
