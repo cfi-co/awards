@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210228095538
 wayback_snapshot_url: "http://web.archive.org/web/20210228095538/https://cfi.co/awards/europe/2021/fia-asset-management-sa-best-portfolio-management-team-luxembourg-2020/"
+license: CFI-OAAL-1.0
 content_sha256: bbf520b29acde1583d235a62a8357ba5d692c45237d0f3f84d9b4ff2d2e5d0d8
 canonical: 8824-fia-asset-management-sa-best-portfolio-management-team-luxembourg-2020.json
 ---
