@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200711220606
 wayback_snapshot_url: "http://web.archive.org/web/20200711220606/https://cfi.co/awards/europe/2017/tag-heuer-best-watch-brand-switzerland-2016/"
+license: CFI-OAAL-1.0
 content_sha256: f62a35a4edf644dac9a617ffe1f2cab2223d4a83f28435941cd7a773668edbe7
 canonical: 3776-tag-heuer-best-watch-brand-switzerland-2016.json
 ---
