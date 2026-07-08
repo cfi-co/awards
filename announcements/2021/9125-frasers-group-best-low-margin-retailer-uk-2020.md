@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211207212605
 wayback_snapshot_url: "http://web.archive.org/web/20211207212605/https://cfi.co/awards/europe/2021/frasers-group-best-low-margin-retailer-uk-2020/"
+license: CFI-OAAL-1.0
 content_sha256: bc4eda8efaeb90692283672f058e8f2aad3f7a7e228a38d4009f5abe5ffc878b
 canonical: 9125-frasers-group-best-low-margin-retailer-uk-2020.json
 ---
