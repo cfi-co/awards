@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220820022055
 wayback_snapshot_url: "http://web.archive.org/web/20220820022055/https://cfi.co/awards/europe/2022/isomer-capital-best-european-technology-investment-strategy-uk-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 859ce02227862ae0daffa7446cdede7ff7311e2b844ae517e65e24462d1dd6e8
 canonical: 10396-isomer-capital-best-european-technology-investment-strategy-uk-2021.json
 ---
