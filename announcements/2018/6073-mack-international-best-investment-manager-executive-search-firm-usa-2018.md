@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211028050900
 wayback_snapshot_url: "http://web.archive.org/web/20211028050900/https://cfi.co/awards/professional-services/2018/mack-international-best-investment-manager-executive-search-firm-usa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: b543beb26b8187e729a36d84f55b7ab7a9e77e687312e38d8083bb74287a2410
 canonical: 6073-mack-international-best-investment-manager-executive-search-firm-usa-2018.json
 ---
