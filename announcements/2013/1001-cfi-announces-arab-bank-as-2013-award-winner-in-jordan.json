@@ -24,10 +24,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20140409155709",
-        "wayback_snapshot_url": "http://web.archive.org/web/20140409155709/http://cfi.co/awards/middle-east/2013/cfi-announces-arab-bank-as-2013-award-winner-in-jordan/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20140409155709/http://cfi.co/awards/middle-east/2013/cfi-announces-arab-bank-as-2013-award-winner-in-jordan/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1002\" src=\"https://cfi.co/awards/wp-content/uploads/2013/12/Arab-Bank-Logo.jpg\" alt=\"Arab Bank Logo\" width=\"160\" height=\"131\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Arab Bank Jordan is a major player in the MENA region with a strong and consistent record of delivering products and services that truly meet the needs of clients.</strong> The CFI Judging Panel describes the Bank as an outstanding financial institution that fully deserves the accolade ‘Best Commercial Bank, Jordan, 2013.’</p>\r\n<p style=\"text-align: justify;\">Arab Bank Group performance this year has been solid recording an increase in profitability of 15.4 percent. Liquidity levels are important to this bank and its loan/deposit and capital adequacy ratios are very comfortable and significantly ahead of Central Bank requirements.</p>\r\n<p style=\"text-align: justify;\">The Bank has a very impressive regional and international network with 600 branches operating across five continents, According to the Panel, ‘Arab Bank Jordan expertise and dedication has offered much needed support to Arab economies and will continue to do so in future years’.</p>",
     "content_sha256": "385bc0b48c50fe9ee34c6842fc741b8429b4c33566bf067292bb9c2128c6ecdb",
-    "record_sha256": "9307c62fe82b826fd241b613b954d8cb0e3a308d93cf22a4a44f0b81f44f276e"
+    "record_sha256": "27445d9ab6e1b8d97a0e2b09a4c8de1628068d739d356d3c805fc7ee2df9a03c"
 }

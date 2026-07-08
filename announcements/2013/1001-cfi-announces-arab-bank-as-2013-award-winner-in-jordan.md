@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140409155709
 wayback_snapshot_url: "http://web.archive.org/web/20140409155709/http://cfi.co/awards/middle-east/2013/cfi-announces-arab-bank-as-2013-award-winner-in-jordan/"
+license: CFI-OAAL-1.0
 content_sha256: 385bc0b48c50fe9ee34c6842fc741b8429b4c33566bf067292bb9c2128c6ecdb
 canonical: 1001-cfi-announces-arab-bank-as-2013-award-winner-in-jordan.json
 ---
