@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250322085301
 wayback_snapshot_url: "http://web.archive.org/web/20250322085301/https://cfi.co/awards/africa/2024/mac-sa-best-stockbroker-tunisia-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 8fcf244dbd736097dad146867db7d1312e5e467769baf91be51bbae84b93b4df
 canonical: 12855-mac-sa-best-stockbroker-tunisia-2024.json
 ---
