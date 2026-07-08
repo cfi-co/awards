@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190724090157
 wayback_snapshot_url: "http://web.archive.org/web/20190724090157/https://cfi.co/awards/europe/2017/clydesdale-yorkshire-bank-best-digital-bank-united-kingdom-2017/"
+license: CFI-OAAL-1.0
 content_sha256: b8a2f59e3c05e6fdde13f0160afb28a1b04b83a7ea13049286ef11928853bff2
 canonical: 4297-clydesdale-yorkshire-bank-best-digital-bank-united-kingdom-2017.json
 ---
