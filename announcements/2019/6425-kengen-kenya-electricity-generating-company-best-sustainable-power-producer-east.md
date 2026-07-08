@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723012520
 wayback_snapshot_url: "http://web.archive.org/web/20190723012520/https://cfi.co/awards/africa/2019/kengen-kenya-electricity-generating-company-best-sustainable-power-producer-east-africa-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 911af5687900d5610452497b7492be49edc62eb456b76e89b5c6087bcef3f17f
 canonical: 6425-kengen-kenya-electricity-generating-company-best-sustainable-power-producer-east.json
 ---
