@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921120506
 wayback_snapshot_url: "http://web.archive.org/web/20210921120506/https://cfi.co/awards/middle-east/2018/dubai-electricity-and-water-authority-dewa-outstanding-contribution-to-sustainable-utilities-delivery-global-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 0daa63d3cbc73eb97f57abe41a92542a45d77d478194fbcb84a7aa4f4368b6d0
 canonical: 5119-dubai-electricity-and-water-authority-dewa-outstanding-contribution-to-sustainab.json
 ---
