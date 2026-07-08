@@ -21,10 +21,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20160505062716",
-        "wayback_snapshot_url": "http://web.archive.org/web/20160505062716/http://cfi.co/awards/middle-east/2015/king-abdullah-economic-city-kaec-wins-cfi-co-award-best-infrastructure-development-for-economic-growth-in-the-middle-east-2015/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20160505062716/http://cfi.co/awards/middle-east/2015/king-abdullah-economic-city-kaec-wins-cfi-co-award-best-infrastructure-development-for-economic-growth-in-the-middle-east-2015/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><strong>This prize comes in recognition of KAEC’s bold investment strategy, the outstanding accomplishments of the organisation to date and the sterling development work now taking place.</strong></p>\r\n<p style=\"text-align: justify;\">CFI.co believes that the necessary steps have been taken by KAEC to create the appropriate infrastructure by building this important new destination in the Middle East on solid, world-class foundations. This will truly be a new Saudi city for the world and a new world city for Saudi Arabia. The master developer of KAEC is Emaar Properties, a real estate development company headquartered in the UAE with a presence in 36 markets throughout the world.</p>\r\n<p style=\"text-align: justify;\">Rowan Kelly from KAEC received the award from CFI.co on behalf of Fahd Al Rasheed (CEO), whose outstanding leadership is bringing to life this amazingly ambitious smart city project that will certainly set new standards in sustainability, economic well-being and quality lifestyle.</p>",
     "content_sha256": "aef4c00a529193c88dfadb3b2801714451ca9535c85a6cfe411f234cd45a6966",
-    "record_sha256": "bd6798a0e46535dc0db578b606ab839076160df29a6191f7a9de539e55f3908a"
+    "record_sha256": "1566296d030210f148ac73bf869bc94c0c5344b361e03cc7ba097d371dbabd4e"
 }
