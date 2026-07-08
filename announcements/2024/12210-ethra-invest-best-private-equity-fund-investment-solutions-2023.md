@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420130947
 wayback_snapshot_url: "http://web.archive.org/web/20240420130947/https://cfi.co/awards/finance/2024/ethra-invest-best-private-equity-fund-investment-solutions-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 09acfdcf8e733cc92c1b1974bbf8fddd33f86680133be5a39ef2e33383c863c6
 canonical: 12210-ethra-invest-best-private-equity-fund-investment-solutions-2023.json
 ---
