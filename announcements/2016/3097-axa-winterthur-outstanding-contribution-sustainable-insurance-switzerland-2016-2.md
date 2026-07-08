@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20170108200910
 wayback_snapshot_url: "http://web.archive.org/web/20170108200910/http://cfi.co/awards/best-practice/sustainability/2016/axa-winterthur-outstanding-contribution-sustainable-insurance-switzerland-2016/"
+license: CFI-OAAL-1.0
 content_sha256: dcec93df004fa0e556686e4bebe629335177f33f5a44d5d770ad52831de393df
 canonical: 3097-axa-winterthur-outstanding-contribution-sustainable-insurance-switzerland-2016-2.json
 ---
