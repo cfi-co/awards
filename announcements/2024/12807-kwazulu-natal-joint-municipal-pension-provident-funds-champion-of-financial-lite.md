@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250424094700
 wayback_snapshot_url: "http://web.archive.org/web/20250424094700/https://cfi.co/awards/africa/2024/kwazulu-natal-joint-municipal-pension-provident-funds-champion-of-financial-literacy-south-africa-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 210e30a012fb5bde8aca343d2a3fa1abaddfe6a7de8db9c3f1f70e05c3b0e4da
 canonical: 12807-kwazulu-natal-joint-municipal-pension-provident-funds-champion-of-financial-lite.json
 ---
