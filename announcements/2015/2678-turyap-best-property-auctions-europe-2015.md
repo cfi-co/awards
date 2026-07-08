@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230125145422
 wayback_snapshot_url: "http://web.archive.org/web/20230125145422/https://cfi.co/awards/europe/2015/turyap-best-property-auctions-europe-2015/"
+license: CFI-OAAL-1.0
 content_sha256: f20a549dabf0949d33758f8a0b6a9c5dd377642eedb75e9ffcf273ff2cbebb32
 canonical: 2678-turyap-best-property-auctions-europe-2015.json
 ---
