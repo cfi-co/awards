@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20140209133035
 wayback_snapshot_url: "http://web.archive.org/web/20140209133035/http://cfi.co/awards/africa/2013/award-winner-econet-wireless-brings-positive-change-in-africa/"
+license: CFI-OAAL-1.0
 content_sha256: ea80aecea6a463c40e8ffd47a0921868c74fc726608d15f229f2481efe729c03
 canonical: 1023-award-winner-econet-wireless-brings-positive-change-in-africa.json
 ---
