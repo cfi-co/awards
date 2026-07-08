@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240420125503
 wayback_snapshot_url: "http://web.archive.org/web/20240420125503/https://cfi.co/awards/middle-east/2024/best-university-in-the-middle-east-in-pursuing-internationalisation-via-working-towards-the-uns-sdgs/"
+license: CFI-OAAL-1.0
 content_sha256: 5282cc9129ba7d2f9037d752e3728a54e3376a7961ceb1b74c2801722dbef653
 canonical: 12248-best-university-in-the-middle-east-in-pursuing-internationalisation-via-working-.json
 ---
