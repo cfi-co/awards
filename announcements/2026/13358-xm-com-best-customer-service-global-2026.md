@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260330162055
 wayback_snapshot_url: "http://web.archive.org/web/20260330162055/https://cfi.co/awards/customer-satisfaction/2026/xm-com-best-customer-service-global-2026/"
+license: CFI-OAAL-1.0
 content_sha256: b8642f6b29d9ef88cd6b06326ecd6ce2140b1192d66c42d61af940535c4dcc6a
 canonical: 13358-xm-com-best-customer-service-global-2026.json
 ---
