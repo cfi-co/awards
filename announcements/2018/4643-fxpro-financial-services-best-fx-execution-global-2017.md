@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210724010420
 wayback_snapshot_url: "http://web.archive.org/web/20210724010420/https://cfi.co/awards/europe/2018/fxpro-financial-services-best-fx-execution-global-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 2d7f10ff20fe136c8bd39ce927a8e41ba7f3171a5638bc9e9932d39ac193a421
 canonical: 4643-fxpro-financial-services-best-fx-execution-global-2017.json
 ---
