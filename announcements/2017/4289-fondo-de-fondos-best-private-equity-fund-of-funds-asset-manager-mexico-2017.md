@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200930091211
 wayback_snapshot_url: "http://web.archive.org/web/20200930091211/https://cfi.co/awards/latin-america/2017/fondo-de-fondos-best-private-equity-fund-of-funds-asset-manager-mexico-2017/"
+license: CFI-OAAL-1.0
 content_sha256: 1758a3528d1c776cae0e2d2acf0b76e5b43746b9a9fc4acadf531dfbf60c5b5b
 canonical: 4289-fondo-de-fondos-best-private-equity-fund-of-funds-asset-manager-mexico-2017.json
 ---
