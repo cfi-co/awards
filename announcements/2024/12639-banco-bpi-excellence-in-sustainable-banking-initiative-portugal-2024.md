@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20241112204609
 wayback_snapshot_url: "http://web.archive.org/web/20241112204609/https://cfi.co/awards/banking/2024/banco-bpi-excellence-in-sustainable-banking-initiative-portugal-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 957c789ea62ed5a3d860cedac9ee7d0ff94c24a93bd7b5a094999f3c4fa162ed
 canonical: 12639-banco-bpi-excellence-in-sustainable-banking-initiative-portugal-2024.json
 ---
