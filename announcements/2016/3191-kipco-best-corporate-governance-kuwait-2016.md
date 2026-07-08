@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614235413
 wayback_snapshot_url: "http://web.archive.org/web/20250614235413/https://cfi.co/awards/front/2016/kipco-best-corporate-governance-kuwait-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 4e036f7371086069193ffd48915da9ea0b6df6499191865761dcafcdad31afed
 canonical: 3191-kipco-best-corporate-governance-kuwait-2016.json
 ---
