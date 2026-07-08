@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260601033519
 wayback_snapshot_url: "http://web.archive.org/web/20260601033519/https://cfi.co/awards/finance/real-estate/2023/savills-investment-management-best-global-real-estate-investment-manager-uk-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 8a4b5ba142bddd9e08dc659c23e2674caf1202fd21faef0a3ada57f6e3af4c4f
 canonical: 11859-savills-investment-management-best-global-real-estate-investment-manager-uk-2023.json
 ---
