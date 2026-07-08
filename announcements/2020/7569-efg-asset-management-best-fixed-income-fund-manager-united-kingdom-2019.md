@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260526042311
 wayback_snapshot_url: "http://web.archive.org/web/20260526042311/https://cfi.co/awards/europe/2020/efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 1eecdc51c75ec8f2ac60a7fa7550cc2b585d3b239ae4f23e26e24ba91b3a210e
 canonical: 7569-efg-asset-management-best-fixed-income-fund-manager-united-kingdom-2019.json
 ---
