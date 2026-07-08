@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220906071943
 wayback_snapshot_url: "http://web.archive.org/web/20220906071943/https://cfi.co/awards/corporate-leadership/2022/localiza-best-mobility-solutions-leadership-latam-2022/"
+license: CFI-OAAL-1.0
 content_sha256: 7139f88c8becc1c137e6f70fc7ece41bb0b3a8d328ba97a7ed5fb37bf2bab9f4
 canonical: 10592-localiza-best-mobility-solutions-leadership-latam-2022.json
 ---
