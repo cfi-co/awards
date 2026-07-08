@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220630131729
 wayback_snapshot_url: "http://web.archive.org/web/20220630131729/https://cfi.co/awards/asia-pacific/2022/hfm-best-forex-trading-app-global-2022/"
+license: CFI-OAAL-1.0
 content_sha256: bea6602adf2c4a7abbeb46d2c82f9ee6403a3eff3a7fe13fa4b038af2d38d002
 canonical: 10460-hfm-best-forex-trading-app-global-2022.json
 ---
