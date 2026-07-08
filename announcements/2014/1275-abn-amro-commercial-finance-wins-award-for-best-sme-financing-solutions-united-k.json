@@ -27,10 +27,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20210724012510",
-        "wayback_snapshot_url": "http://web.archive.org/web/20210724012510/https://cfi.co/awards/europe/2014/abn-amro-commercial-finance-wins-award-for-best-sme-financing-solutions-united-kingdom/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20210724012510/https://cfi.co/awards/europe/2014/abn-amro-commercial-finance-wins-award-for-best-sme-financing-solutions-united-kingdom/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1276\" src=\"https://cfi.co/awards/wp-content/uploads/2014/08/abn.jpg\" alt=\"abn\" width=\"533\" height=\"94\" /></p>\r\n<p style=\"text-align: justify;\"><strong>According to the CFI.co Judging Panel, ‘ABN Amro Commercial Finance, part of the Dutch banking giant, offers an impressive range of products and services to allow SMEs in the UK to move to the next level despite the constraints of a conservative bank lending environment. </strong></p>\r\n<p style=\"text-align: justify;\">ABN’s advisory service to small business is second to none and their factoring and invoice discounting activities have been recognised as exemplary. This organisation understands and responds to the challenges of small business in a robust and imaginative way. This is a very worthy winner of our 2014 award.’</p>",
     "content_sha256": "3ac5032ae8c92f180278bb28fc743ef81e90e2044a51ac46fc5f369da5ce8538",
-    "record_sha256": "6737068da6bce8c5d04c51d0df2142f0b4cffdde8fc5354d0469775a61c9e136"
+    "record_sha256": "74d308e5f3933ba8644c5c92d22ed8271cdf4b9ada9db4589943d4a6211fb3b6"
 }
