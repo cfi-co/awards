@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250320214916
 wayback_snapshot_url: "http://web.archive.org/web/20250320214916/https://cfi.co/awards/professional-services/2024/accountability-best-esg-strategy-development-partner-global-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 73705a83849a68ee4da23e1bb2d9fbb0df74efd6df91a030fb895c4050c080a5
 canonical: 12701-accountability-best-esg-strategy-development-partner-global-2024.json
 ---
