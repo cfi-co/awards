@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250907062032
 wayback_snapshot_url: "http://web.archive.org/web/20250907062032/https://cfi.co/awards/europe/2024/hanetf-best-etf-specialist-team-europe-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 225ba9ff56b014f1a88f8901051d1bae1f01c131debd9bb3a12ddcfacafb6e48
 canonical: 12585-hanetf-best-etf-specialist-team-europe-2024.json
 ---
