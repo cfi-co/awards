@@ -25,10 +25,11 @@
         "provenance_layer": "github_versioned",
         "wayback_status": "archived",
         "wayback_first_snapshot": "20260523042846",
-        "wayback_snapshot_url": "http://web.archive.org/web/20260523042846/https://cfi.co/awards/asia-pacific/2014/afghanistan-international-bank-is-the-cfi-co-corporate-governance-award-winner-afghanistan/"
+        "wayback_snapshot_url": "http://web.archive.org/web/20260523042846/https://cfi.co/awards/asia-pacific/2014/afghanistan-international-bank-is-the-cfi-co-corporate-governance-award-winner-afghanistan/",
+        "license": "CFI-OAAL-1.0"
     },
     "excerpt": "",
     "content_html": "<p style=\"text-align: justify;\"><img class=\"aligncenter size-full wp-image-1173\" src=\"https://cfi.co/awards/wp-content/uploads/2014/02/AIB.jpg\" alt=\"AIB\" width=\"300\" height=\"52\" /></p>\r\n<p style=\"text-align: justify;\"><strong>Afghanistan International is a well trusted bank largely because of its overwhelming concern for and attention to the rigours of good corporate governance. Management’s view is that only a bank with strong corporate governance can truly succeed. The CFI.co Judging Panel agrees and is delighted to confirm this bank’s award for, ‘Best Corporate Governance, Afghanistan, 2014’.</strong></p>\r\n<p style=\"text-align: justify;\">Performance ratios at the Bank are in line with best practice, board leadership is strong and there would appear to be no political or other interference in operations. The Panel is impressed with Afghanistan International Bank’s conduct and commitment to a healthy and far-reaching corporate governance programme. The judges commented that, ‘AIB is a worthy winner and an excellent example to the wider business community in the country’.</p>",
     "content_sha256": "a2409ae50ae0eedda5bed71e8d84288268dbfbc144a769fc1f9e50aee5713544",
-    "record_sha256": "87abf4cf69ec23f4d80cb576bacdfacce9f616a27a999e027501ad80367a9440"
+    "record_sha256": "fd893742b6faf30ce9b8750cb7b5a15c5cd6819c7d99d531703b8d1688134206"
 }

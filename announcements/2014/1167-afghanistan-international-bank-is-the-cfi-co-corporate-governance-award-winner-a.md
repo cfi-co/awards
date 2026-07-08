@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042846
 wayback_snapshot_url: "http://web.archive.org/web/20260523042846/https://cfi.co/awards/asia-pacific/2014/afghanistan-international-bank-is-the-cfi-co-corporate-governance-award-winner-afghanistan/"
+license: CFI-OAAL-1.0
 content_sha256: a2409ae50ae0eedda5bed71e8d84288268dbfbc144a769fc1f9e50aee5713544
 canonical: 1167-afghanistan-international-bank-is-the-cfi-co-corporate-governance-award-winner-a.json
 ---
