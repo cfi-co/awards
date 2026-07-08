@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20251108152439
 wayback_snapshot_url: "http://web.archive.org/web/20251108152439/https://cfi.co/awards/europe/2025/max-burger-best-sustainable-restaurant-chain-europe-2025/"
+license: CFI-OAAL-1.0
 content_sha256: c96697d24a4afbce0cd068af5cd74740b9fb72dc69fd2ce50c2d3c7fa6ddd00c
 canonical: 13150-max-burger-best-sustainable-restaurant-chain-europe-2025.json
 ---
