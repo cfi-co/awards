@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20161011145831
 wayback_snapshot_url: "http://web.archive.org/web/20161011145831/http://cfi.co/awards/north-america/2016/home-trust-company-best-mortgage-solutions-canada-2016/"
+license: CFI-OAAL-1.0
 content_sha256: fec082e6b2b0d72cfcef5ecc845fe454a601202aba0c8c9d22b4811f39995f3f
 canonical: 3223-home-trust-company-best-mortgage-solutions-canada-2016.json
 ---
