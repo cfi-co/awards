@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200806014355
 wayback_snapshot_url: "http://web.archive.org/web/20200806014355/https://cfi.co/awards/middle-east/2019/king-abdullah-economic-city-kaec-best-logistics-hub-red-sea-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 55beb5aff0365caa015d3c42b8caf96cc4388ccfb1a2e3f2b406cb8f16b733e8
 canonical: 7133-king-abdullah-economic-city-kaec-best-logistics-hub-red-sea-2019.json
 ---
