@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221220102434
 wayback_snapshot_url: "http://web.archive.org/web/20221220102434/https://cfi.co/awards/europe/2022/fwu-group-best-long-term-savings-solutions-europe-2022/"
+license: CFI-OAAL-1.0
 content_sha256: d7fae51cb7d4ef26130c1faa828194e9433814916b772cf44b2dd8e9e29268e0
 canonical: 11011-fwu-group-best-long-term-savings-solutions-europe-2022.json
 ---
