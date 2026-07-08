@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20240623214106
 wayback_snapshot_url: "http://web.archive.org/web/20240623214106/https://cfi.co/awards/banking/2024/bank-one-ltd-best-international-banking-services-indian-ocean-2023/"
+license: CFI-OAAL-1.0
 content_sha256: d48ab7d460f3d478db4ac70f19d2484a87dde20b43ae7abc1672a9cd85a7d9e4
 canonical: 12297-bank-one-ltd-best-international-banking-services-indian-ocean-2023.json
 ---
