@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200810090921
 wayback_snapshot_url: "http://web.archive.org/web/20200810090921/https://cfi.co/awards/asia-pacific/2020/mitsubishi-ufj-financial-group-best-investment-banking-services-japan-2020/"
+license: CFI-OAAL-1.0
 content_sha256: ee6e24bb9ec23bb97dfc70b0c4f92aab47f29994d81ac8de36c07f80569e4586
 canonical: 7509-mitsubishi-ufj-financial-group-best-investment-banking-services-japan-2020.json
 ---
