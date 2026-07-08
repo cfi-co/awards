@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210924112415
 wayback_snapshot_url: "http://web.archive.org/web/20210924112415/https://cfi.co/awards/front/2018/park-street-nordicom-best-real-estate-corporate-governance-denmark-2018/"
+license: CFI-OAAL-1.0
 content_sha256: cbb5ed5aba95842b152d1f7bac3460d05094c51c5b0f2f22bccbf5b04fc31579
 canonical: 5956-park-street-nordicom-best-real-estate-corporate-governance-denmark-2018.json
 ---
