@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921113804
 wayback_snapshot_url: "http://web.archive.org/web/20210921113804/https://cfi.co/awards/europe/2021/aba-invest-in-austria-best-destination-for-investment-in-innovation-europe-2020/"
+license: CFI-OAAL-1.0
 content_sha256: cf53aab2178e5a19bdd5563a1a780badd3395f61e938b99e655b29e20eebd28b
 canonical: 8700-aba-invest-in-austria-best-destination-for-investment-in-innovation-europe-2020.json
 ---
