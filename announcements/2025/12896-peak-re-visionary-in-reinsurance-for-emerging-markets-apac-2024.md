@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250424095839
 wayback_snapshot_url: "http://web.archive.org/web/20250424095839/https://cfi.co/awards/asia-pacific/2025/peak-re-visionary-in-reinsurance-for-emerging-markets-apac-2024/"
+license: CFI-OAAL-1.0
 content_sha256: 1e348581680483d24f6f3d7a27e9041cf2b444607c76af379a80947179822984
 canonical: 12896-peak-re-visionary-in-reinsurance-for-emerging-markets-apac-2024.json
 ---
