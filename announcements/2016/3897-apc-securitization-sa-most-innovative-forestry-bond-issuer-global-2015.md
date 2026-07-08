@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260524042016
 wayback_snapshot_url: "http://web.archive.org/web/20260524042016/https://cfi.co/awards/best-practice/2016/apc-securitization-sa-most-innovative-forestry-bond-issuer-global-2015/"
+license: CFI-OAAL-1.0
 content_sha256: 78fe0936839e69d5300ac152ea5eb2cc7673e6aca3e1173bd24ebb7c30190c65
 canonical: 3897-apc-securitization-sa-most-innovative-forestry-bond-issuer-global-2015.json
 ---
