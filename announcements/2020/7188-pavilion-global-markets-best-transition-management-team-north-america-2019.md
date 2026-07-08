@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200723054924
 wayback_snapshot_url: "http://web.archive.org/web/20200723054924/https://cfi.co/awards/north-america/2020/pavilion-global-markets-best-transition-management-team-north-america-2019/"
+license: CFI-OAAL-1.0
 content_sha256: 525bbbcebcf1a431580abb7598b7359a93125faa7047a906609f4d319654d743
 canonical: 7188-pavilion-global-markets-best-transition-management-team-north-america-2019.json
 ---
