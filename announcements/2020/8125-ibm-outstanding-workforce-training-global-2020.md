@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20200920112153
 wayback_snapshot_url: "http://web.archive.org/web/20200920112153/https://cfi.co/awards/north-america/2020/ibm-outstanding-workforce-training-global-2020/"
+license: CFI-OAAL-1.0
 content_sha256: 53c25f6dc0d6789a2258422c2cdd91636d27c19745f1db37151bda6cc7064a07
 canonical: 8125-ibm-outstanding-workforce-training-global-2020.json
 ---
