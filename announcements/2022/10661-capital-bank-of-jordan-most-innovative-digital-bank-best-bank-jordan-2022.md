@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20220928190903
 wayback_snapshot_url: "http://web.archive.org/web/20220928190903/https://cfi.co/awards/banking/2022/capital-bank-of-jordan-most-innovative-digital-bank-best-bank-jordan-2022/"
+license: CFI-OAAL-1.0
 content_sha256: fb1f6c0c99a15a1b57e52722e1bfd831de6c878731a6952d8c48e4fb8f7e64bc
 canonical: 10661-capital-bank-of-jordan-most-innovative-digital-bank-best-bank-jordan-2022.json
 ---
