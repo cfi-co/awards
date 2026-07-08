@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20180118235736
 wayback_snapshot_url: "http://web.archive.org/web/20180118235736/http://cfi.co/awards/finance/2016/affirmative-investment-management-partners-best-green-bond-team-united-kingdom-2016-2/"
+license: CFI-OAAL-1.0
 content_sha256: 5d01b5e98f224e22abdf8ec7f5a8700c8c5a6140645f7a759e91bb925d4108b6
 canonical: 3166-affirmative-investment-management-partners-best-green-bond-team-united-kingdom-2.json
 ---
