@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260523042146
 wayback_snapshot_url: "http://web.archive.org/web/20260523042146/https://cfi.co/awards/asia-pacific/2013/corporate-commercial-team-award-in-india/"
+license: CFI-OAAL-1.0
 content_sha256: 938e9db89231da4dca8333476d514daba31caaf2802df375df7b975d5a5481c6
 canonical: 549-corporate-commercial-team-award-in-india.json
 ---
