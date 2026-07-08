@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211223084321
 wayback_snapshot_url: "http://web.archive.org/web/20211223084321/https://cfi.co/awards/europe/2021/heiq-best-materials-innovation-experts-global-2021/"
+license: CFI-OAAL-1.0
 content_sha256: 612e0adea14ae1714109cdd72d69520d96cae8a21d9f57cac283b61fd3b90be9
 canonical: 9920-heiq-best-materials-innovation-experts-global-2021.json
 ---
