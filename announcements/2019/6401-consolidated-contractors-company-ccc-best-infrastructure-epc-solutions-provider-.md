@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190717205958
 wayback_snapshot_url: "http://web.archive.org/web/20190717205958/https://cfi.co/awards/front/2019/consolidated-contractors-company-ccc-best-infrastructure-epc-solutions-provider-mena-2018/"
+license: CFI-OAAL-1.0
 content_sha256: a29299c6e8aa8fc2f582ef2e05a252559ff0e12306375c8927dbe479df775f87
 canonical: 6401-consolidated-contractors-company-ccc-best-infrastructure-epc-solutions-provider-.json
 ---
