@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20211015225958
 wayback_snapshot_url: "http://web.archive.org/web/20211015225958/https://cfi.co/awards/europe/2021/bankinvest-best-esg-responsible-investor-denmark-2021/"
+license: CFI-OAAL-1.0
 content_sha256: ef4b38d12c1acc4b0a4c566f6e22410c68579c948f852901a6263f2023734ae1
 canonical: 9616-bankinvest-best-esg-responsible-investor-denmark-2021.json
 ---
