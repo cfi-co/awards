@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20250614234947
 wayback_snapshot_url: "http://web.archive.org/web/20250614234947/https://cfi.co/awards/banking/2025/alpha-bank-most-innovative-family-banking-services-greece-2025/"
+license: CFI-OAAL-1.0
 content_sha256: 00cd00745f85cb493792c0d7badaab9e7dd7d3d00bdba008edbb3745af815803
 canonical: 12978-alpha-bank-most-innovative-family-banking-services-greece-2025.json
 ---
