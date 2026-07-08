@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260621033113
 wayback_snapshot_url: "http://web.archive.org/web/20260621033113/https://cfi.co/awards/banking/2026/azer-turk-bank-atb-green-banking-sustainability-pioneer-azerbaijan-2026/"
+license: CFI-OAAL-1.0
 content_sha256: ec00f0e17989dba01d35830515670340c7e4321777b84880284de2de315f4edd
 canonical: 13474-azer-turk-bank-atb-green-banking-sustainability-pioneer-azerbaijan-2026.json
 ---
