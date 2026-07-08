@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20191214232828
 wayback_snapshot_url: "http://web.archive.org/web/20191214232828/https://cfi.co/awards/europe/2016/3-step-innovative-technology-leasing-solutions-europe-2016/"
+license: CFI-OAAL-1.0
 content_sha256: 1af0b8e0e6970a58722d18187e7459e34585ee759b31ea36901ab3faec638cf8
 canonical: 3207-3-step-innovative-technology-leasing-solutions-europe-2016.json
 ---
