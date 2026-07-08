@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20260315114606
 wayback_snapshot_url: "http://web.archive.org/web/20260315114606/https://cfi.co/awards/africa/2026/nigerian-petroleum-exchange-nipex-champions-of-efficient-supply-chain-management-africa-2026/"
+license: CFI-OAAL-1.0
 content_sha256: 2374d548870b5f285e3847140bab35f173d5e10b01c9089066a0953a80fc86b7
 canonical: 13341-nigerian-petroleum-exchange-nipex-champions-of-efficient-supply-chain-management.json
 ---
