@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203055434
 wayback_snapshot_url: "http://web.archive.org/web/20221203055434/https://cfi.co/awards/front/2018/tilney-best-investment-advisory-team-united-kingdom-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 8a98480a7cf19fc902955dc3039f4cb0881a9f13312c82359a61296133d0c225
 canonical: 5964-tilney-best-investment-advisory-team-united-kingdom-2018.json
 ---
