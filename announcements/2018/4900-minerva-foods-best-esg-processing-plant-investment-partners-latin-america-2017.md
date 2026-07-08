@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921111827
 wayback_snapshot_url: "http://web.archive.org/web/20210921111827/https://cfi.co/awards/latin-america/2018/minerva-foods-best-esg-processing-plant-investment-partners-latin-america-2017/"
+license: CFI-OAAL-1.0
 content_sha256: da1098aa11fd7fa42dd732433f28e273c89247f516b4795767361b03ffecc0ed
 canonical: 4900-minerva-foods-best-esg-processing-plant-investment-partners-latin-america-2017.json
 ---
