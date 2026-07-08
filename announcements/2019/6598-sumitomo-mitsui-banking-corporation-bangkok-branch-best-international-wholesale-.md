@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20190723010304
 wayback_snapshot_url: "http://web.archive.org/web/20190723010304/https://cfi.co/awards/asia-pacific/2019/sumitomo-mitsui-banking-corporation-bangkok-branch-best-international-wholesale-services-bank-thailand-2018/"
+license: CFI-OAAL-1.0
 content_sha256: 45b32df4bfcc08dbd999b3b5a1c0c9be2e2c69dd9a49e8e4778533a8d8eeeadc
 canonical: 6598-sumitomo-mitsui-banking-corporation-bangkok-branch-best-international-wholesale-.json
 ---
