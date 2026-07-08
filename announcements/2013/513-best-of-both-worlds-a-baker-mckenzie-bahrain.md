@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20210921111422
 wayback_snapshot_url: "http://web.archive.org/web/20210921111422/https://cfi.co/awards/middle-east/2013/best-of-both-worlds-a-baker-mckenzie-bahrain/"
+license: CFI-OAAL-1.0
 content_sha256: 0346d742136124d0ec39828565880e11495d26d98f5006241f5a7d5c5bf5fcd5
 canonical: 513-best-of-both-worlds-a-baker-mckenzie-bahrain.json
 ---
