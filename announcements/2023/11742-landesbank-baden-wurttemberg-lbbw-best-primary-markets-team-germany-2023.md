@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20230923180238
 wayback_snapshot_url: "http://web.archive.org/web/20230923180238/https://cfi.co/awards/europe/2023/landesbank-baden-wurttemberg-lbbw-best-primary-markets-team-germany-2023/"
+license: CFI-OAAL-1.0
 content_sha256: 8507b71755a0f0036ffaaa5c2060ef1f51f0c7318d6485f6e299a472fc00aa78
 canonical: 11742-landesbank-baden-wurttemberg-lbbw-best-primary-markets-team-germany-2023.json
 ---
