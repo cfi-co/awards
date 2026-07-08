@@ -18,6 +18,7 @@ provenance_layer: github_versioned
 wayback_status: archived
 wayback_first_snapshot: 20221203054937
 wayback_snapshot_url: "http://web.archive.org/web/20221203054937/https://cfi.co/awards/europe/2022/artico-partners-best-sustainable-equity-fund-manager-switzerland-2021/"
+license: CFI-OAAL-1.0
 content_sha256: f422eab56f0803f14153e2890faa84c27d6b7a55721fb44bdd6f407f96864726
 canonical: 10136-artico-partners-best-sustainable-equity-fund-manager-switzerland-2021.json
 ---
