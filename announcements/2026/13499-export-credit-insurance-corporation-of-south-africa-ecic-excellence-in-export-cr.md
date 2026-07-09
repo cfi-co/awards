@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 5bdb7c4850e3c115e361b43ed294fc5014d5b5231cbd234abbd765263c6a8532
 canonical: 13499-export-credit-insurance-corporation-of-south-africa-ecic-excellence-in-export-cr.json
