@@ -1,3 +1,4 @@
+a6985780088f32ba4de4eca4e096bca0bae7f9883b3fbaeb511eb3dcdd714b6d  .gitattributes
 267c112ef7327a06f2d9d07deb719f0ef83a260cca19cc172c1cd8cf3418bb26  .gitignore
 27a5b96755742a83737f6b0a69ac2e572e5343da1d171843c4af0853842a87a5  LICENCE.md
 8a0d17c82ae102146ba7f0b167ee431a5816049d835794c8603003e7dc0326b1  README.md
@@ -4747,8 +4748,8 @@ e19d97f2acfbf80d2e90710d9b29404c592137ddee94bb263075a66a02326431  announcements/
 904883380c833de171daa986cc4b4c88bed49c3fd1863e8fe53ce9f7f228f230  announcements/2026/13487-polpo-capital-excellence-in-cmbs-credit-investing-north-america-2026.md
 71bc974021066fb84080aed02c12bd2e793a89ed345f3db59e721460b749ed2c  announcements/2026/13493-bank-of-baroda-pioneer-in-digital-transformation-india-2026.json
 d888a7b545a1f1f1763785de230e1d9fc2c6bc0661437e568d90055eb8adcb41  announcements/2026/13493-bank-of-baroda-pioneer-in-digital-transformation-india-2026.md
-c7709a5695a6ff5a706d161a813b22490af1da8cc232cd4796705dccaf5ea536  announcements/2026/13499-export-credit-insurance-corporation-of-south-africa-ecic-excellence-in-export-cr.json
-d3d01ae788217854a32f6d446563a8aac5896d2474890f8b7a652a973cb7ba7a  announcements/2026/13499-export-credit-insurance-corporation-of-south-africa-ecic-excellence-in-export-cr.md
+93ce37474188bc2008ae71aeb1871849141e4190842f2cd0eaef1d70e73b8e6d  announcements/2026/13499-export-credit-insurance-corporation-of-south-africa-ecic-excellence-in-export-cr.json
+5696b63cceec5f828d09e84cfc1cdcc8fc84180b502dc9c45b2ce337d0526500  announcements/2026/13499-export-credit-insurance-corporation-of-south-africa-ecic-excellence-in-export-cr.md
 98ef68749c6f6e938714892b280ac2e4db78be2b5ac2c64b1d8c399ee7969596  announcements/2026/13503-wood-company-leader-in-sustainable-investment-banking-emerging-europe-2026.json
 bc490028f3a2c33c7b8ba81e9af5a1ea7d18151e7bf349e15c9fa99480c3372a  announcements/2026/13503-wood-company-leader-in-sustainable-investment-banking-emerging-europe-2026.md
 5c476f5fcdb430dcad3e0ea719e7e6813e443442b9e890744896db72de74ef62  scripts/commit.sh
