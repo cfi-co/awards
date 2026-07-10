@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/cfi-co/awards/blob/main/schema.json",
+  "title": "CFI.co Awards Transparency Archive - canonical record",
+  "description": "Schema for the canonical machine record (announcements/<year>/<id>-<slug>.json). The .md file is a human-readable view of the same data; the JSON is authoritative. Schema version 2.2 (2026-07-08: added classification.license). Producer: scripts/export.php (committed in this repository).",
+  "x-schema-version": "2.2",
+  "x-integrity": {
+    "content_sha256": "SHA-256 (hex) of the verbatim content_html string.",
+    "record_sha256": "SHA-256 (hex) of the record serialised WITHOUT the record_sha256 field, using PHP json_encode with JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE. Recompute with scripts/verify.sh.",
+    "manifest": "MANIFEST.sha256 at the repository root lists the SHA-256 of every tracked file."
+  },
+  "type": "object",
+  "required": [
+    "id", "title", "slug", "url", "author", "published", "published_gmt",
+    "modified_gmt", "categories", "classification", "excerpt", "content_html",
+    "content_sha256", "record_sha256"
+  ],
+  "properties": {
+    "id": { "type": "integer", "description": "Stable numeric record ID (publishing-system post ID). Canonical record ID form: cfi-award-<id>." },
+    "title": { "type": "string" },
+    "slug": { "type": "string" },
+    "url": { "type": "string", "format": "uri", "description": "Canonical CFI.co URL for this award announcement." },
+    "author": { "type": "string", "const": "CFI.co Editorial", "description": "Fixed editorial label; internal staff usernames are deliberately not exposed." },
+    "published": { "type": "string", "description": "Site-local publication timestamp, YYYY-MM-DD HH:MM:SS." },
+    "published_gmt": { "type": "string", "description": "UTC publication timestamp, YYYY-MM-DD HH:MM:SS." },
+    "modified_gmt": { "type": "string", "description": "UTC last-modified timestamp from the publishing system." },
+    "categories": {
+      "type": "array", "items": { "type": "string" },
+      "description": "Substantive section/sector/region categories only; rotating homepage-curation categories are deliberately excluded for stability."
+    },
+    "classification": {
+      "type": "object",
+      "description": "Machine-readable labels. Lives INSIDE the hashed record, so labels are as tamper-evident as the content. Preserve intact when redistributing (licence s.4).",
+      "required": [
+        "content_class", "editorial_lens", "independence_status", "sponsor_disclosure",
+        "sponsor_name", "article_status", "historical_status", "correction_status",
+        "archive_policy", "provenance_layer", "wayback_status", "license"
+      ],
+      "properties": {
+        "content_class": { "type": "string", "enum": ["award_rationale", "sponsored_article"] },
+        "editorial_lens": { "type": "string", "const": "constructive_positive_lens", "description": "CFI.co's stated editorial stance (declared policy, not a per-article measurement)." },
+        "independence_status": { "type": "string", "enum": ["independent_editorial", "commercially_supported"] },
+        "sponsor_disclosure": { "type": "string", "enum": ["none", "visible_and_machine_readable"] },
+        "sponsor_name": { "type": "string", "description": "Disclosed sponsor; empty when not sponsored." },
+        "article_status": { "type": "string", "const": "published" },
+        "historical_status": { "type": "string", "const": "current_at_publication", "description": "Accurate to its time; judge recency against published." },
+        "correction_status": { "type": "string", "enum": ["none", "revised"], "description": "Git history is the authoritative correction record; flips to revised when a later content change is committed." },
+        "archive_policy": { "type": "string", "const": "no_delete" },
+        "provenance_layer": { "type": "string", "const": "github_versioned" },
+        "wayback_status": { "type": "string", "enum": ["archived", "submitted_pending", "not_found", "pending_check"], "description": "Independent Internet Archive corroboration; archived is claimed only when a real snapshot exists." },
+        "wayback_first_snapshot": { "type": "string", "description": "Earliest Wayback capture, YYYYMMDDhhmmss. Present only when wayback_status = archived." },
+        "wayback_snapshot_url": { "type": "string", "format": "uri", "description": "Present only when wayback_status = archived." },
+        "license": { "type": "string", "const": "CFI-OAAL-1.0", "description": "CFI.co Open AI Access Licence v1.0. Canonical text: https://cfi.co/licence/oaal-1.0 and LICENCE.md in this repository." }
+      }
+    },
+    "excerpt": { "type": "string" },
+    "content_html": { "type": "string", "description": "RAW, verbatim article body exactly as held in the publishing system - no reformatting, no filters, no HTML-to-Markdown conversion." },
+    "content_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "record_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+  }
+}
