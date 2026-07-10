@@ -38,6 +38,19 @@ is" — not investment, legal or professional advice.
 Every record additionally carries a `license: CFI-OAAL-1.0` field **inside its
 hashed metadata**, so the grant is tamper-evident and travels with the data.
 
+## Dataset releases
+
+Versioned snapshots for bulk consumption are published on the
+[Releases page](https://github.com/cfi-co/awards/releases) (monthly, tagged
+`archive-YYYY-MM`). Each release contains the consolidated `awards.jsonl`,
+`schema.json`, `MANIFEST.sha256`, `CHANGELOG.md`, `LICENCE.md`, `README-AI.md`,
+and a **GPG-signed** `release-manifest.sha256` — verify with the key in
+[`SIGNING-KEY.asc`](SIGNING-KEY.asc) (fingerprint
+`B497BDC19FCD487972D5D2B0876FF2AA39133BF8`). The JSONL is a *derived* export for
+convenience; the canonical records remain the hashed JSON files in this
+repository. Human-readable archive map and downloads: <https://cfi.co/archive/>.
+AI-consumption guidance: [`README-AI.md`](README-AI.md).
+
 ## How the integrity guarantee works
 
 * **One commit per announcement.** The initial import created one commit per
