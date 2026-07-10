@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260708180926
+wayback_snapshot_url: "http://web.archive.org/web/20260708180926/https://cfi.co/awards/banking/2026/wood-company-leader-in-sustainable-investment-banking-emerging-europe-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 3e4b392f508bb3d02aeee473d902a06bd9edf02417457b954afa0c04b996527b
 canonical: 13503-wood-company-leader-in-sustainable-investment-banking-emerging-europe-2026.json
