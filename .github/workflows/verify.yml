@@ -1,0 +1,12 @@
+name: Verify archive integrity
+on:
+  push: { branches: [ main ] }
+  schedule: [ { cron: '17 6 * * *' } ]
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends php-cli
+      - run: chmod +x scripts/verify.sh && ./scripts/verify.sh
