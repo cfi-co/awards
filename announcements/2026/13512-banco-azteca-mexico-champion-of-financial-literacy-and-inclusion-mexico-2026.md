@@ -1,0 +1,34 @@
+---
+id: 13512
+title: "Banco Azteca Mexico: Champion of Financial Literacy and Inclusion Mexico 2026"
+award_year: 2026
+published: 2026-07-15 15:03:11
+published_gmt: 2026-07-15 14:03:11
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2026/banco-azteca-mexico-champion-of-financial-literacy-and-inclusion-mexico-2026/"
+categories: ["Banking", "Best Practice", "Community Engagement", "Finance", "Latin America"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_check
+license: CFI-OAAL-1.0
+content_sha256: 8bc6fd976610bc197f4c8872c2e9f61bf107f8a45fd7f7e29c9f846ce63e7d91
+canonical: 13512-banco-azteca-mexico-champion-of-financial-literacy-and-inclusion-mexico-2026.json
+---
+
+# Banco Azteca Mexico: Champion of Financial Literacy and Inclusion Mexico 2026
+
+> Verbatim archived copy. Canonical machine record: `13512-banco-azteca-mexico-champion-of-financial-literacy-and-inclusion-mexico-2026.json`.
+
+<img class="aligncenter size-full wp-image-12490" src="https://cfi.co/awards/wp-content/uploads/2024/07/BancoAzteca-jpg.webp" alt="Banco Azteca" width="500" height="197" />
+<p style="text-align: justify;"><strong>Aprende y Crece, the Bank’s free financial education and entrepreneurship programme, has reached more than 39 m people, providing practical instruction on savings, credit, investment, fraud prevention, and entrepreneurship. This initiative links financial education to the everyday decisions of Mexican households.</strong></p>
+<p style="text-align: justify;">That scale matters because access without understanding can increase vulnerability. Banco Azteca Mexico's model connects education with branch proximity, digital channels and products used by customers who may have limited prior experience of formal finance, making literacy part of responsible inclusion rather than a separate social initiative.</p>
+<p style="text-align: justify;">Parent company Grupo Elektra's 2025 results provide relevant context for the bank's capacity to sustain outreach. Consolidated revenue reached Ps.215,356m, up 7 percent, while the financial business grew 12 percent, and Banco Azteca México's traditional deposit-to-gross loan ratio of 1.2 times points to funding discipline behind expansion.</p>
+<p style="text-align: justify;">Finanzatlón Azteca illustrates the execution behind the broader strategy. During the 2025 National Financial Education Week, the initiative used interactive formats to engage young people, entrepreneurs and families, translating financial concepts into accessible learning rather than relying on classroom-style instruction alone.</p>
+<p style="text-align: justify;">Risk awareness is an important feature of the approach. By including fraud prevention, credit responsibility and entrepreneurship alongside savings and investment, the bank addresses both opportunity and protection, which aligns with CFI.co's emphasis on outcomes supported by control, governance and measurable social relevance.</p>
+<p style="text-align: justify;">The resulting case is strongest where social purpose and commercial discipline meet: broad reach, product-linked education and prudent funding indicators together suggest an inclusion model with practical depth. The Capital Finance International (CFI.co) Judging Panel congratulates Banco Azteca Mexico on winning the Champion of Financial Literacy and Inclusion 2026 Award (Mexico).</p>
