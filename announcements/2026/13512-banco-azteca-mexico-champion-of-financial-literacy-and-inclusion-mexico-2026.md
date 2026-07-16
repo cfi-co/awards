@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 8bc6fd976610bc197f4c8872c2e9f61bf107f8a45fd7f7e29c9f846ce63e7d91
 canonical: 13512-banco-azteca-mexico-champion-of-financial-literacy-and-inclusion-mexico-2026.json
