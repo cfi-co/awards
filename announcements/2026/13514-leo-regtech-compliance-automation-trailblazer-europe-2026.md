@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260716044918
+wayback_snapshot_url: "http://web.archive.org/web/20260716044918/https://cfi.co/awards/europe/2026/leo-regtech-compliance-automation-trailblazer-europe-2026/"
 license: CFI-OAAL-1.0
 content_sha256: ff0127810706b42d1397a19136d045e5bd56673f3e7c208bf606fadf76553722
 canonical: 13514-leo-regtech-compliance-automation-trailblazer-europe-2026.json
