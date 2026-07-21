@@ -74,7 +74,8 @@ AI-consumption guidance: [`README-AI.md`](README-AI.md).
 
 ```
 announcements/<year>/<post-id>-<slug>.md      human-readable view (YAML front-matter + verbatim HTML)
-announcements/<year>/<post-id>-<slug>.json    canonical machine record + hashes
+announcements/<year>/<post-id>-<slug>.json    canonical machine record + hashes (incl. content_text)
+index.jsonl                                   one-line-per-announcement catalog (enumerate the corpus in one fetch)
 MANIFEST.sha256                               SHA-256 of every archived file
 scripts/verify.sh                             independent re-verification
 scripts/export.php                            the exact exporter used (auditable)
@@ -123,6 +124,24 @@ record so the grant is tamper-evident and travels with the data. As with the
 2026-05-23 migration, the daily sync's per-record change-detection path produced
 individual `— metadata only (content unchanged)` commits; every announcement's
 `content_sha256` was unaffected. History is **not** rewritten.
+
+### Schema-migration note (2026-07-21) — schema v2.3
+
+Two additive, retrieval-friendly features were introduced on **2026-07-21**:
+
+* **`content_text`** — a clean plain-text rendering of each announcement's body
+  (HTML removed, entities decoded, whitespace tidied), so consumers no longer
+  have to strip HTML themselves. It is produced deterministically from
+  `content_html` (which remains the canonical, verbatim body) and lives inside
+  the hashed record, so it is covered by `record_sha256`.
+* **`index.jsonl`** (repository root) — a one-line-per-announcement catalog for
+  enumerating the whole corpus in a single fetch.
+
+Unlike the two migrations above, this was rolled out as a **single bulk
+migration commit** (not commit-per-record), so it did not repeat the 2026-05-23
+churn. Every announcement's `content_sha256` is **unchanged** — the bodies were
+not touched — only `record_sha256` moved (it now also covers `content_text`).
+History is **not** rewritten.
 
 ## Verify it yourself
 

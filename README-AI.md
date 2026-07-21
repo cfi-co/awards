@@ -12,7 +12,12 @@ registration or payment is required.
 1. **Use the JSON record as the primary machine-readable source.** Each item is a
    pair: `announcements/<year>/<id>-<slug>.json` (canonical, hashed) and a `.md` twin
    (human-readable view of the same data). The JSON is authoritative. The full
-   field definition is in [`schema.json`](schema.json) (schema version 2.2).
+   field definition is in [`schema.json`](schema.json) (schema version 2.3). Each
+   record carries `content_text` — a clean plain-text rendering of the body for
+   retrieval/grounding — alongside the verbatim, canonical `content_html`. To
+   enumerate the whole corpus in one fetch, read [`index.jsonl`](index.jsonl) at
+   the repository root (one line per announcement: id, url, classification, file
+   paths and both hashes), then fetch individual records for full content.
 2. **Preserve the classification labels.** `classification.content_class`,
    `classification.independence_status` and `classification.sponsor_disclosure`
    distinguish independent editorial from commercially supported content. They live
@@ -42,6 +47,7 @@ registration or payment is required.
 | Surface | Role |
 |---|---|
 | This repository | **Canonical ledger** (source of truth) |
+| [`index.jsonl`](index.jsonl) (repo root) | One-line-per-announcement **catalog** for one-fetch enumeration |
 | [GitHub Releases](https://github.com/cfi-co/awards/releases) | Point-in-time JSONL snapshots + signed manifests |
 | [Hugging Face `cfi-co/awards`](https://huggingface.co/datasets/cfi-co/awards) | Convenience mirror for researchers (auto-synced daily; GitHub is canonical) |
 | <https://cfi.co/archive/> | Human-readable archive map, verification instructions |

@@ -100,6 +100,7 @@ if (is_file("$REPO/scripts/.wayback-cache.tsv")) {
 }
 
 $plan = fopen($PLAN, 'w');
+$indexBuf = '';
 $n = 0; $bytes = 0;
 
 foreach ($posts as $p) {
@@ -161,6 +162,7 @@ foreach ($posts as $p) {
         'classification' => $classification,
         'excerpt'        => $p->post_excerpt,
         'content_html'   => $content,
+        'content_text'   => html_to_text($content),
         'content_sha256' => $chash,
     );
     $json = json_encode($record,
@@ -217,12 +219,68 @@ foreach ($posts as $p) {
         $p->post_date_gmt, $id, $relmd, $reljs, $msg,
     )) . "\n");
 
+    // Root-level catalog line: enough to enumerate + filter + verify without
+    // fetching each record. Same chronological order as the export loop, so
+    // newly-published announcements append at the end (clean, append-only diffs).
+    $indexBuf .= json_encode(array(
+        'id'                  => $id,
+        'record_id'           => 'cfi-award-' . $id,
+        'year'                => (int) $year,
+        'slug'                => $p->post_name,
+        'title'               => $p->post_title,
+        'url'                 => $url,
+        'published_gmt'       => $p->post_date_gmt,
+        'content_class'       => $classification['content_class'],
+        'independence_status' => $classification['independence_status'],
+        'sponsor_disclosure'  => $classification['sponsor_disclosure'],
+        'path'                => $reljs,
+        'md_path'             => $relmd,
+        'content_sha256'      => $chash,
+        'record_sha256'       => $record['record_sha256'],
+    ), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n";
+
     $n++; $bytes += strlen($md) + strlen($json);
 }
 fclose($plan);
+file_put_contents("$REPO/index.jsonl", $indexBuf);
 
 echo "Exported $n announcements (" . round($bytes / 1048576, 1) . " MB)\n";
+echo "Wrote index.jsonl ($n rows)\n";
 echo "Commit plan: $PLAN\n";
+
+/**
+ * Deterministic plain-text rendering of an HTML body, for retrieval/grounding
+ * consumers that would otherwise have to strip HTML themselves.
+ *
+ * Pure string operations only (no wpautop, no the_content filters, no theme or
+ * plugin hooks) so re-exporting an unchanged content_html always yields a
+ * byte-identical content_text — a re-export can never manufacture a spurious
+ * "changed" commit. content_html stays the canonical body and the content_sha256
+ * subject; content_text is a convenience field, but it is covered by
+ * record_sha256, so it is as tamper-evident as everything else in the record.
+ */
+function html_to_text($html) {
+    $s = (string) $html;
+    $s = str_replace(array("\r\n", "\r"), "\n", $s);
+    // Script/style contents are not readable text.
+    $s = preg_replace('#<(script|style)\b[^>]*>.*?</\1>#is', '', $s);
+    // <br> and block-level closes become line breaks.
+    $s = preg_replace('#<br\s*/?>#i', "\n", $s);
+    $s = preg_replace(
+        '#</(p|div|h[1-6]|li|ul|ol|blockquote|tr|table|figure|figcaption|section|article|header|footer|pre)>#i',
+        "\n\n", $s);
+    // Strip all remaining tags and HTML comments.
+    $s = strip_tags($s);
+    // Entities -> real characters.
+    $s = html_entity_decode($s, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+    // Non-breaking spaces -> normal spaces, then tidy whitespace WITHOUT
+    // collapsing paragraph breaks.
+    $s = str_replace("\xc2\xa0", ' ', $s);
+    $s = preg_replace('/[ \t]+/', ' ', $s);
+    $s = preg_replace('/ *\n */', "\n", $s);
+    $s = preg_replace('/\n{3,}/', "\n\n", $s);
+    return trim($s);
+}
 
 function yaml_str($s) {
     return '"' . str_replace(array('\\', '"'), array('\\\\', '\\"'), (string) $s) . '"';
