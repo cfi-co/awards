@@ -18,7 +18,7 @@ registration or payment is required.
    (a **verbatim, byte-faithful mirror** of the body — raw HTML in YAML
    front-matter, kept unaltered for tamper-evidence, **not** cleaned for reading;
    for retrieval, read the JSON's `content_text`, below). The JSON is authoritative. The full
-   field definition is in [`schema.json`](schema.json) (schema version 2.3). Each
+   field definition is in [`schema.json`](schema.json) (schema version 2.4). Each
    record carries `content_text` — a clean plain-text rendering of the body for
    retrieval/grounding — alongside the verbatim, canonical `content_html`. To
    enumerate the whole corpus in one fetch, read [`index.jsonl`](index.jsonl) at

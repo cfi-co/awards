@@ -2,8 +2,8 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://github.com/cfi-co/awards/blob/main/schema.json",
   "title": "CFI.co Awards Transparency Archive - canonical record",
-  "description": "Schema for the canonical machine record (announcements/<year>/<id>-<slug>.json). The .md file is a human-readable view of the same data; the JSON is authoritative. Schema version 2.3 (2026-07-21: added content_text, a derived plain-text rendering of content_html, plus a root-level index.jsonl catalog; 2026-07-08: added classification.license). Producer: scripts/export.php (committed in this repository).",
-  "x-schema-version": "2.3",
+  "description": "Schema for the canonical machine record (announcements/<year>/<id>-<slug>.json). The .md file is a human-readable view of the same data; the JSON is authoritative. Schema version 2.4 (2026-07-21: excerpt relaxed from required to optional; it is empty across the corpus); v2.3 (2026-07-21: added content_text plus a root-level index.jsonl catalog); v2.2 (2026-07-08: added classification.license). Producer: scripts/export.php (committed in this repository).",
+  "x-schema-version": "2.4",
   "x-integrity": {
     "content_sha256": "SHA-256 (hex) of the verbatim content_html string. content_html is the canonical body; content_text does not affect this value.",
     "record_sha256": "SHA-256 (hex) of the record serialised WITHOUT the record_sha256 field, using PHP json_encode with JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE. Recompute with scripts/verify.sh. It covers content_text, so the derived plain text is as tamper-evident as the rest of the record.",
@@ -13,7 +13,7 @@
   "type": "object",
   "required": [
     "id", "title", "slug", "url", "author", "published", "published_gmt",
-    "modified_gmt", "categories", "classification", "excerpt", "content_html",
+    "modified_gmt", "categories", "classification", "content_html",
     "content_text", "content_sha256", "record_sha256"
   ],
   "properties": {
@@ -54,7 +54,7 @@
         "license": { "type": "string", "const": "CFI-OAAL-1.0", "description": "CFI.co Open AI Access Licence v1.0. Canonical text: https://cfi.co/licence/oaal-1.0 and LICENCE.md in this repository." }
       }
     },
-    "excerpt": { "type": "string" },
+    "excerpt": { "type": "string", "description": "Optional editor-written excerpt; currently empty across the entire corpus, so it is not in the required array. A provenance-labelled summary (editor-written vs machine-generated) is a separate future track." },
     "content_html": { "type": "string", "description": "RAW, verbatim article body exactly as held in the publishing system - no reformatting, no filters, no HTML-to-Markdown conversion. This is the canonical body and the content_sha256 subject." },
     "content_text": { "type": "string", "description": "Derived plain-text rendering of content_html for retrieval/grounding consumers: HTML tags and comments removed, entities decoded, block elements turned into line breaks, whitespace tidied. Produced deterministically from content_html by scripts/export.php (pure string operations, no publishing-system filters). Convenience only - content_html remains canonical - but it is covered by record_sha256, so it is tamper-evident." },
     "content_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },

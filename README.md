@@ -148,6 +148,16 @@ churn. Every announcement's `content_sha256` is **unchanged** — the bodies wer
 not touched — only `record_sha256` moved (it now also covers `content_text`).
 History is **not** rewritten.
 
+### Schema-migration note (2026-07-21) — schema v2.4
+
+Later the same day, `excerpt` was **relaxed from required to optional** in the
+schema. It is empty across the entire corpus, and declaring an always-empty field
+*required* wrongly signals that it carries meaning. Records did **not** change —
+`excerpt: ""` is still present — so this is a `schema.json`-only edit; no
+`content_sha256` or `record_sha256` moved. Populating a real summary is deferred as
+a separate track: a generated summary inside a hashed provenance record is a
+different class of claim and would be labelled editor-written vs machine-generated.
+
 ## Verify it yourself
 
 ```sh
