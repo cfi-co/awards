@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://github.com/cfi-co/awards/blob/main/schema.json",
   "title": "CFI.co Awards Transparency Archive - canonical record",
-  "description": "Schema for the canonical machine record (announcements/<year>/<id>-<slug>.json). The .md file is a human-readable view of the same data; the JSON is authoritative. Schema version 2.4 (2026-07-21: excerpt relaxed from required to optional; it is empty across the corpus); v2.3 (2026-07-21: added content_text plus a root-level index.jsonl catalog); v2.2 (2026-07-08: added classification.license). Producer: scripts/export.php (committed in this repository).",
+  "description": "Schema for the canonical machine record (announcements/<year>/<id>-<slug>.json). The .md file is a human-readable view of the same data; the JSON is authoritative. Schema version 2.4 (2026-07-22: excerpt relaxed from required to optional; it is empty across the corpus); v2.3 (2026-07-21: added content_text plus a root-level index.jsonl catalog); v2.2 (2026-07-08: added classification.license). Producer: scripts/export.php (committed in this repository).",
   "x-schema-version": "2.4",
   "x-integrity": {
     "content_sha256": "SHA-256 (hex) of the verbatim content_html string. content_html is the canonical body; content_text does not affect this value.",
