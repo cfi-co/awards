@@ -7,6 +7,10 @@ retrieval, grounding, indexing, summarisation and citation of this content are
 (`CFI-OAAL-1.0`, canonical text: <https://cfi.co/licence/oaal-1.0>). No deal,
 registration or payment is required.
 
+> **New in v2.3 (2026-07-21):** for retrieval, use `content_text` (clean plain
+> text) and [`index.jsonl`](index.jsonl) (a one-fetch catalog of every record).
+> `content_html` stays the canonical hashed body; `content_sha256` is unchanged.
+
 ## How to consume this archive
 
 1. **Use the JSON record as the primary machine-readable source.** Each item is a

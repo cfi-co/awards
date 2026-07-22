@@ -10,6 +10,11 @@
 > *Time-verifiable accountability* = the git timestamp chain dates and freezes
 > every version and every change (independent Wayback Machine corroboration is
 > being added on top).
+>
+> **New in v2.3 (2026-07-21):** every record now carries a clean plain-text
+> `content_text` field, and a root-level [`index.jsonl`](index.jsonl) catalogs the
+> whole corpus for one-fetch enumeration — both added **without changing any
+> `content_sha256`** (the verbatim bodies are untouched).
 
 This repository is a **verbatim, append-only public record of every award
 announcement published by [CFI.co](https://cfi.co/awards)**.
