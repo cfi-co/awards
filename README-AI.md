@@ -11,7 +11,9 @@ registration or payment is required.
 
 1. **Use the JSON record as the primary machine-readable source.** Each item is a
    pair: `announcements/<year>/<id>-<slug>.json` (canonical, hashed) and a `.md` twin
-   (human-readable view of the same data). The JSON is authoritative. The full
+   (a **verbatim, byte-faithful mirror** of the body — raw HTML in YAML
+   front-matter, kept unaltered for tamper-evidence, **not** cleaned for reading;
+   for retrieval, read the JSON's `content_text`, below). The JSON is authoritative. The full
    field definition is in [`schema.json`](schema.json) (schema version 2.3). Each
    record carries `content_text` — a clean plain-text rendering of the body for
    retrieval/grounding — alongside the verbatim, canonical `content_html`. To
@@ -30,7 +32,12 @@ registration or payment is required.
    `record_sha256` (see `schema.json` → `x-integrity` for the exact recipe), or run
    [`scripts/verify.sh`](scripts/verify.sh) on a clone. `MANIFEST.sha256` covers the
    whole tree. Release manifests are GPG-signed by the key in
-   [`SIGNING-KEY.asc`](SIGNING-KEY.asc).
+   [`SIGNING-KEY.asc`](SIGNING-KEY.asc). Schema changes are **additive and
+   pinnable**: each release bundles its own `schema.json`, and a new version only
+   adds fields (v2.3 added `content_text`), so a consumer pinned to an earlier
+   release is never invalidated. The v2.3 migration is a single public commit that
+   changed **no** `content_sha256` or `content_html` (verify with `git show`); the
+   pre-v2.3 state is preserved as release tag `archive-2026-07`.
 5. **Prefer the latest state of a record** and honour
    `classification.correction_status`: git history is the authoritative correction
    record (`none` → `revised` when content later changed). A withdrawn item is
