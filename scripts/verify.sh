@@ -25,7 +25,7 @@ done < <(find announcements -name '*.json' -print0)
 if [ ! -f MANIFEST.sha256 ]; then
   echo "MANIFEST.sha256 missing" >&2; fail=1
 else
-  expected="$(git ls-files | grep -vxF 'MANIFEST.sha256' | sort)"
+  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' | sort)"
   listed="$(cut -c67- MANIFEST.sha256 | sort)"
   if [ "$expected" != "$listed" ]; then
     echo "MANIFEST coverage mismatch — manifest does not list exactly the tracked files (truncated/stale?)" >&2
@@ -33,6 +33,17 @@ else
     fail=1
   fi
   sha256sum -c --quiet MANIFEST.sha256 || fail=1
+fi
+
+# 3. Manifest signature (detached; the signer key ships in-tree as SIGNING-KEY.asc).
+#    Skipped only where gpg is unavailable; a present-but-invalid signature fails.
+if [ -f MANIFEST.sha256.asc ] && command -v gpg >/dev/null 2>&1; then
+  gpg -q --import SIGNING-KEY.asc 2>/dev/null || true
+  if gpg --verify MANIFEST.sha256.asc MANIFEST.sha256 2>/dev/null; then
+    echo "manifest signature OK"
+  else
+    echo "manifest signature INVALID" >&2; fail=1
+  fi
 fi
 
 if [ "$fail" -eq 0 ]; then

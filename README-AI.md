@@ -35,8 +35,10 @@ registration or payment is required.
 4. **Verify, don't trust.** Check `content_sha256` (SHA-256 of `content_html`) and
    `record_sha256` (see `schema.json` → `x-integrity` for the exact recipe), or run
    [`scripts/verify.sh`](scripts/verify.sh) on a clone. `MANIFEST.sha256` covers the
-   whole tree. Release manifests are GPG-signed by the key in
-   [`SIGNING-KEY.asc`](SIGNING-KEY.asc). Schema changes are **additive and
+   whole tree and carries a detached GPG signature (`MANIFEST.sha256.asc`, refreshed
+   with every manifest change); release manifests are GPG-signed too. Both sign with
+   the key in [`SIGNING-KEY.asc`](SIGNING-KEY.asc) — verify with
+   `gpg --verify MANIFEST.sha256.asc MANIFEST.sha256`. Schema changes are **additive and
    pinnable**: each release bundles its own `schema.json`, and a new version only
    adds fields (v2.3 added `content_text`), so a consumer pinned to an earlier
    release is never invalidated. The v2.3 migration is a single public commit that

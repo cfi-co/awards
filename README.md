@@ -66,7 +66,9 @@ AI-consumption guidance: [`README-AI.md`](README-AI.md).
   re-rendering, no HTML→Markdown conversion.
 * **Content hashes.** Every record carries a `content_sha256` (SHA-256 of the
   article HTML) and a `record_sha256` (SHA-256 of the full canonical record).
-  `MANIFEST.sha256` lists the SHA-256 of every file in the repo.
+  `MANIFEST.sha256` lists the SHA-256 of every file in the repo and carries a
+  detached GPG signature, `MANIFEST.sha256.asc` (key: `SIGNING-KEY.asc`;
+  verify with `gpg --verify MANIFEST.sha256.asc MANIFEST.sha256`).
 * **Automated daily re-export.** A scheduled job re-exports the live data every
   day. New announcements appear as new commits; *any* modification to an
   existing announcement appears as its own dated commit with a visible diff.

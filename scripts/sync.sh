@@ -86,10 +86,18 @@ fi
 
 # 2. Refresh whole-tree manifest if anything moved. (Paths are newline-safe:
 #    slugs are sanitised; -r avoids the empty-input -> hash-stdin trap.)
-git ls-files | grep -vxF 'MANIFEST.sha256' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
-if ! git diff --quiet -- MANIFEST.sha256; then
-  git add MANIFEST.sha256
-  git "${ID[@]}" commit -q --no-verify -m "Refresh SHA-256 manifest ($(date -u +%F))"
+#    The manifest excludes itself AND its detached signature — both change as a
+#    consequence of hashing, so neither can be inside the hash list (verify.sh
+#    applies the identical exclusion).
+git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
+if ! git diff --quiet -- MANIFEST.sha256 || [ ! -f MANIFEST.sha256.asc ]; then
+  # Detached-sign the refreshed manifest (archive key 876FF2AA39133BF8; this
+  # cron runs as root, whose keyring holds the key). Signing happens only when
+  # the manifest actually changed, so quiet days stay commit-free.
+  gpg --batch --yes --armor --detach-sign --local-user 876FF2AA39133BF8 \
+      --output MANIFEST.sha256.asc MANIFEST.sha256
+  git add MANIFEST.sha256 MANIFEST.sha256.asc
+  git "${ID[@]}" commit -q --no-verify -m "Refresh + sign SHA-256 manifest ($(date -u +%F))"
 fi
 
 # 3. Push. (git push is a no-op if already up to date.)
