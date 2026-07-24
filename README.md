@@ -159,6 +159,25 @@ schema. It is empty across the entire corpus, and declaring an always-empty fiel
 a separate track: a generated summary inside a hashed provenance record is a
 different class of claim and would be labelled editor-written vs machine-generated.
 
+### Schema-migration note (2026-07-24) — description correction, no version change
+
+The `description` field in `schema.json` still characterised the `.md` twin as "a
+human-readable view of the same data" — the wording corrected everywhere else on
+2026-07-21, but missed in the schema itself, which is the most machine-read file in
+the archive. It now describes the twin as a verbatim, byte-faithful mirror and names
+`content_text` as the retrieval surface.
+
+`x-schema-version` deliberately **stays 2.4**. The change is prose with no effect on
+validation: two files with the same version and different descriptions are
+indistinguishable to any validator, so a bump would claim a semantic change that did
+not occur. The standing rule is that **version markers track validation behaviour;
+description corrections take a dated note in the description itself.**
+
+No record changed, and no `content_sha256` or `record_sha256` moved — but
+`schema.json` itself changed, so its entry in `MANIFEST.sha256` moved with it. The
+pinned `archive-2026-07-schema-2.4` release asset is immutable and still carries the
+superseded sentence; that divergence is stated in the schema description.
+
 ## Verify it yourself
 
 ```sh
