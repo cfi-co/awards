@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 3bb66b2ec4253151c72a330f732fdc530af15aa00c026d741c0ea030e96f55bd
 canonical: 13541-zurich-workplace-solutions-zws-excellence-in-workplace-savings-and-end-of-servic.json
