@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 8fee57ddec329bd628aa26c89739434e49605c0305fff28a24c1d0b571d311d6
 canonical: 13537-arca-fondi-sgr-best-emerging-markets-debt-manager-europe-2026.json
