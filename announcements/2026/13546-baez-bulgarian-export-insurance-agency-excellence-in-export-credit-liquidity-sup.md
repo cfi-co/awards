@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 97375639496d84e591c60cb1773cf79305ecd47367982ec84f073de0842aac4a
 canonical: 13546-baez-bulgarian-export-insurance-agency-excellence-in-export-credit-liquidity-sup.json
