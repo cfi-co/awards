@@ -25,7 +25,7 @@ done < <(find announcements -name '*.json' -print0)
 if [ ! -f MANIFEST.sha256 ]; then
   echo "MANIFEST.sha256 missing" >&2; fail=1
 else
-  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' | sort)"
+  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | sort)"
   listed="$(cut -c67- MANIFEST.sha256 | sort)"
   if [ "$expected" != "$listed" ]; then
     echo "MANIFEST coverage mismatch — manifest does not list exactly the tracked files (truncated/stale?)" >&2
@@ -35,10 +35,43 @@ else
   sha256sum -c --quiet MANIFEST.sha256 || fail=1
 fi
 
-# 3. Manifest signature (detached; the signer key ships in-tree as SIGNING-KEY.asc).
-#    Skipped only where gpg is unavailable; a present-but-invalid signature fails.
+# 3. Manifest signature (detached).
+#
+#    The signer key also ships in-tree as SIGNING-KEY.asc, which on its own proves
+#    nothing: anyone able to rewrite this repository could replace the manifest, the
+#    signature AND the key together, and this check would still pass. The key is kept
+#    in-tree for convenience only.
+#
+#    Trust therefore comes from OUTSIDE the repository. The fingerprint is published
+#    independently, on infrastructure GitHub does not control:
+#
+#      dig +short TXT _archive-key.cfi.co
+#      https://keys.openpgp.org/vks/v1/by-fingerprint/B497BDC19FCD487972D5D2B0876FF2AA39133BF8
+#
+#    A mismatch between the in-tree key and the DNS anchor is treated as tampering and
+#    fails hard. If DNS cannot be reached we say so rather than implying we checked --
+#    an unreachable anchor is an unverified signature, not a passing one.
+EXPECT_FPR_DNS="_archive-key.cfi.co"
 if [ -f MANIFEST.sha256.asc ] && command -v gpg >/dev/null 2>&1; then
   gpg -q --import SIGNING-KEY.asc 2>/dev/null || true
+  intree_fpr=$(gpg --show-keys --with-colons SIGNING-KEY.asc 2>/dev/null | awk -F: '/^fpr:/{print $10; exit}')
+
+  anchor_fpr=""
+  if command -v dig >/dev/null 2>&1; then
+    anchor_fpr=$(dig +short TXT "$EXPECT_FPR_DNS" 2>/dev/null | tr -d '"' | grep -oE '[A-F0-9]{40}' | head -1)
+  elif command -v host >/dev/null 2>&1; then
+    anchor_fpr=$(host -t TXT "$EXPECT_FPR_DNS" 2>/dev/null | grep -oE '[A-F0-9]{40}' | head -1)
+  fi
+
+  if [ -z "$anchor_fpr" ]; then
+    echo "signing key NOT anchor-checked (no DNS resolver available) — key $intree_fpr taken from the repo itself, which proves nothing on its own" >&2
+  elif [ "$anchor_fpr" != "$intree_fpr" ]; then
+    echo "SIGNING KEY MISMATCH: repo has $intree_fpr, out-of-band anchor says $anchor_fpr" >&2
+    fail=1
+  else
+    echo "signing key matches out-of-band anchor ($EXPECT_FPR_DNS): $intree_fpr"
+  fi
+
   if gpg --verify MANIFEST.sha256.asc MANIFEST.sha256 2>/dev/null; then
     echo "manifest signature OK"
   else

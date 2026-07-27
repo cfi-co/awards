@@ -7,23 +7,54 @@
 > *Public provenance* = every award announcement is version-controlled here in
 > the open. *Machine-readable disclosure* = each record is classified by content
 > type and sponsorship status (see [Content classification](#content-classification-machine-readable-labels)).
-> *Time-verifiable accountability* = the git timestamp chain dates and freezes
-> every version and every change (independent Wayback Machine corroboration is
-> being added on top).
+> *Time-verifiable accountability* = from 16 May 2026 the git timestamp chain dates
+> and freezes every version and every change as it happens; for the imported history
+> before that date, see **On commit dates** immediately below. Independent external
+> anchoring (Wayback Machine, OpenTimestamps) is what makes either checkable without
+> trusting us.
 >
 > **New in v2.3 (2026-07-21):** every record now carries a clean plain-text
 > `content_text` field, and a root-level [`index.jsonl`](index.jsonl) catalogs the
 > whole corpus for one-fetch enumeration — both added **without changing any
 > `content_sha256`** (the verbatim bodies are untouched).
 
+## On commit dates — read this first
+
+**This archive was created on 16 May 2026.** It contains commits dated back to
+7 September 2012. Those older dates are *reconstructed*, and you should know exactly
+what that means before you rely on anything here.
+
+- Records with commits dated **before 16 May 2026** were imported in bulk when the
+  archive was built. Each commit was written carrying the announcement's original
+  publication date **in both git date fields** — author *and* committer. Git therefore
+  preserves **no record of when those commits were actually made**. They were all made
+  on or after 16 May 2026.
+- The reconstructed dates are taken from each announcement's publication date as
+  published on cfi.co. They are derived from a real, checkable fact — but they are a
+  claim about the past, not an observation of it.
+- Commits dated **16 May 2026 onward are real**, written at the moment of the change by
+  the daily automation. Nothing back-dates them.
+- Every record additionally carries its own `published` and `published_gmt` fields.
+  **That field, not the commit date, is the authoritative publication date.**
+
+So: for anything before 16 May 2026, this repository shows you *what* was published and
+lets you detect later alteration — but its own timestamps cannot prove *when* it was
+first committed here. For that, use the external anchors: the signing-key fingerprint is
+published independently at `_archive-key.cfi.co` (DNS TXT) and on keys.openpgp.org, and
+snapshots are anchored to the Wayback Machine and OpenTimestamps.
+
+We would rather state this plainly than let a reader discover it and conclude we hoped
+they would not.
+
+---
+
 This repository is a **verbatim, append-only public record of every award
 announcement published by [CFI.co](https://cfi.co/awards)**.
 
 Its sole purpose is to let anyone independently verify that **CFI.co does not
-quietly alter award announcements after publication**. Every announcement is
-committed individually and back-dated to its original publication date. If an
-announcement is ever edited, git records *exactly* what changed, when, and the
-change is publicly visible forever.
+quietly alter award announcements after publication**. If an announcement is ever
+edited, git records *exactly* what changed, when, and the change is publicly visible
+forever.
 
 ## Licence
 
