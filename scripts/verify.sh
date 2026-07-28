@@ -35,6 +35,52 @@ else
   sha256sum -c --quiet MANIFEST.sha256 || fail=1
 fi
 
+# 2b. Index/record agreement.
+#
+#     WHY THIS EXISTS (added during the July 2026 archive review).
+#     export.php emits records for published announcements only, and nothing in the
+#     pipeline ever deletes. So if an announcement is unpublished, its record file
+#     persists - still tracked, still covered by the manifest, still under the
+#     signature - while index.jsonl, which is rewritten in full on every run, silently
+#     drops it. The record survives and leaves the only machine-readable enumeration of
+#     what this archive contains.
+#
+#     Until this check existed, verify.sh passed in that state: it never referenced
+#     index.jsonl at all. A consumer reading the index and a consumer walking the
+#     directory would diverge, and nothing reported it.
+#
+#     Checked in BOTH directions. An orphaned record (file with no index entry) is the
+#     unpublish case; a phantom entry (index entry with no file) would mean the index
+#     claims something the archive does not hold. Either is a failure.
+if [ ! -f index.jsonl ]; then
+  echo "index.jsonl missing" >&2; fail=1
+else
+  idx_ids="$(python3 -c '
+import json,sys
+out=[]
+for line in open("index.jsonl"):
+    line=line.strip()
+    if not line: continue
+    try: out.append(str(json.loads(line)["id"]))
+    except Exception as e: sys.exit("index.jsonl: unparseable line: %s" % e)
+print("\n".join(sorted(set(out))))')" || fail=1
+  rec_ids="$(python3 -c '
+import json,glob
+out=[]
+for f in glob.glob("announcements/**/*.json", recursive=True):
+    try: out.append(str(json.load(open(f))["id"]))
+    except Exception: pass
+print("\n".join(sorted(set(out))))')"
+  if [ "$idx_ids" != "$rec_ids" ]; then
+    echo "INDEX/RECORD MISMATCH - index.jsonl does not enumerate exactly the record files" >&2
+    echo "  orphaned records (file present, absent from index):" >&2
+    comm -13 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids") | head >&2
+    echo "  phantom entries (in index, no record file):" >&2
+    comm -23 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids") | head >&2
+    fail=1
+  fi
+fi
+
 # 3. Manifest signature (detached).
 #
 #    The signer key also ships in-tree as SIGNING-KEY.asc, which on its own proves
