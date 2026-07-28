@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260727033017
+wayback_snapshot_url: "http://web.archive.org/web/20260727033017/https://cfi.co/awards/middle-east/2026/zurich-workplace-solutions-zws-excellence-in-workplace-savings-and-end-of-service-benefits-gcc-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 3bb66b2ec4253151c72a330f732fdc530af15aa00c026d741c0ea030e96f55bd
 canonical: 13541-zurich-workplace-solutions-zws-excellence-in-workplace-savings-and-end-of-servic.json
