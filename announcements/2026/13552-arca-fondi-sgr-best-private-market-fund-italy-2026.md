@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 31eb13aac81060d8d224107a24741fc8b5fdb44ccb941ea67651351e39dd7fe9
 canonical: 13552-arca-fondi-sgr-best-private-market-fund-italy-2026.json
