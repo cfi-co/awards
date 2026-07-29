@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 2646e894b15e562f8c435b406d490df556da15ba43319cb53fce185f868573c3
 canonical: 13561-oxford-economics-leader-in-economic-forecasting-and-advisory-global-2026.json
