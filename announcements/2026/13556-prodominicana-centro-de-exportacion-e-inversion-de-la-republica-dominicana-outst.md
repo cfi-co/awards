@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: cc6bb63e033059de377f8623054079b203f56c60943c84d0d99f3829bb325192
 canonical: 13556-prodominicana-centro-de-exportacion-e-inversion-de-la-republica-dominicana-outst.json
