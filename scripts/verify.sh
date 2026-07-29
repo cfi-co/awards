@@ -1,4 +1,36 @@
 #!/usr/bin/env bash
+# PREFLIGHT (added July 2026 archive review). Exit 2 = "cannot run here"; exit 1 =
+# "ran, and the archive did not verify". A stranger must never read the second when
+# the first is true, so every environment failure below exits 2, not 1.
+if [ -z "${BASH_VERSION:-}" ]; then
+  echo "verify.sh requires bash (uses process substitution and pipefail); run: bash scripts/verify.sh" >&2
+  exit 2
+fi
+_missing=""
+for _t in php git sha256sum find python3; do
+  command -v "$_t" >/dev/null 2>&1 || _missing="$_missing $_t"
+done
+# sha256sum is GNU; macOS/BSD ship shasum -a 256 or gsha256sum.
+if ! command -v sha256sum >/dev/null 2>&1; then
+  if command -v gsha256sum >/dev/null 2>&1; then sha256sum(){ gsha256sum "$@"; }; _missing="${_missing/ sha256sum/}"
+  elif command -v shasum   >/dev/null 2>&1; then sha256sum(){ shasum -a 256 "$@"; }; _missing="${_missing/ sha256sum/}"
+  fi
+fi
+if [ -n "$_missing" ]; then
+  echo "verify.sh cannot run: missing required tool(s):$_missing" >&2
+  echo "  (this is an environment problem, not an archive problem)" >&2
+  exit 2
+fi
+# php present is not php working: a php without JSON fails per-record and would be
+# read as "the archive is broken" when the machine is.
+if ! php -r 'exit(json_encode([1])==="[1]"?0:1);' >/dev/null 2>&1; then
+  echo "verify.sh cannot run: php is present but its JSON support is not working" >&2
+  exit 2
+fi
+if [ ! -d announcements ]; then
+  echo "verify.sh cannot run: no announcements/ directory here - run it from the repository root" >&2
+  exit 2
+fi
 # Independent re-verification of the CFI.co Awards transparency archive.
 # Recomputes content_sha256 + record_sha256 for every announcement and checks
 # them against MANIFEST.sha256. Exit 0 = all good; non-zero = mismatch found.
@@ -73,10 +105,16 @@ for f in glob.glob("announcements/**/*.json", recursive=True):
 print("\n".join(sorted(set(out))))')"
   if [ "$idx_ids" != "$rec_ids" ]; then
     echo "INDEX/RECORD MISMATCH - index.jsonl does not enumerate exactly the record files" >&2
-    echo "  orphaned records (file present, absent from index):" >&2
-    comm -13 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids") | head >&2
-    echo "  phantom entries (in index, no record file):" >&2
-    comm -23 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids") | head >&2
+    orph="$(comm -13 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids"))"
+    phan="$(comm -23 <(printf '%s\n' "$idx_ids") <(printf '%s\n' "$rec_ids"))"
+    n_o=$(printf '%s' "$orph" | grep -c . || true)
+    n_p=$(printf '%s' "$phan" | grep -c . || true)
+    # Print the total before the sample: a bare head(1) shows ten names with no count,
+    # and an operator may reasonably read ten as the whole divergence.
+    echo "  orphaned records (file present, absent from index): $n_o total$( [ "$n_o" -gt 10 ] && echo ", first 10 shown" )" >&2
+    printf '%s\n' "$orph" | head -10 >&2
+    echo "  phantom entries (in index, no record file): $n_p total$( [ "$n_p" -gt 10 ] && echo ", first 10 shown" )" >&2
+    printf '%s\n' "$phan" | head -10 >&2
     fail=1
   fi
 fi
