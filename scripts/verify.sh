@@ -135,6 +135,13 @@ fi
 #    A mismatch between the in-tree key and the DNS anchor is treated as tampering and
 #    fails hard. If DNS cannot be reached we say so rather than implying we checked --
 #    an unreachable anchor is an unverified signature, not a passing one.
+#
+#    cfi 2026-07-29: direct queries on port 53 (what dig/host use) are blocked on
+#    some corporate and ISP networks even when ordinary DNS works fine for everything
+#    else - reproduced live, on a real verifier's machine, running exactly this check.
+#    DNS-over-HTTPS travels on 443, the same transport as every other fetch this
+#    script makes, so it succeeds precisely where dig/host silently cannot. Tried
+#    last, and only if the direct queries found nothing.
 EXPECT_FPR_DNS="_archive-key.cfi.co"
 if [ -f MANIFEST.sha256.asc ] && command -v gpg >/dev/null 2>&1; then
   gpg -q --import SIGNING-KEY.asc 2>/dev/null || true
@@ -145,6 +152,11 @@ if [ -f MANIFEST.sha256.asc ] && command -v gpg >/dev/null 2>&1; then
     anchor_fpr=$(dig +short TXT "$EXPECT_FPR_DNS" 2>/dev/null | tr -d '"' | grep -oE '[A-F0-9]{40}' | head -1)
   elif command -v host >/dev/null 2>&1; then
     anchor_fpr=$(host -t TXT "$EXPECT_FPR_DNS" 2>/dev/null | grep -oE '[A-F0-9]{40}' | head -1)
+  fi
+  if [ -z "$anchor_fpr" ] && command -v curl >/dev/null 2>&1; then
+    anchor_fpr=$(curl -s --max-time 15 -H 'accept: application/dns-json' \
+      "https://cloudflare-dns.com/dns-query?name=${EXPECT_FPR_DNS}&type=TXT" 2>/dev/null \
+      | grep -oE '[A-F0-9]{40}' | head -1)
   fi
 
   if [ -z "$anchor_fpr" ]; then
