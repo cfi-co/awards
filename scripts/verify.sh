@@ -57,7 +57,7 @@ done < <(find announcements -name '*.json' -print0)
 if [ ! -f MANIFEST.sha256 ]; then
   echo "MANIFEST.sha256 missing" >&2; fail=1
 else
-  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | sort)"
+  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' -e 'MANIFEST.sha256.countersig.asc' | sort)"
   listed="$(cut -c67- MANIFEST.sha256 | sort)"
   if [ "$expected" != "$listed" ]; then
     echo "MANIFEST coverage mismatch — manifest does not list exactly the tracked files (truncated/stale?)" >&2
