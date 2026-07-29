@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: aa22f2f39253a56c7bc5e68d8f03382e41a0ab0151d2c171b5b9c7597e0a69dd
 canonical: 13563-cr-group-best-share-registry-services-east-africa-2026.json
