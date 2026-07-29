@@ -1,3 +1,17 @@
+# ---------------------------------------------------------------------------
+# Byte-for-byte checkout. DO NOT REMOVE.
+#
+# Every file here is hashed in MANIFEST.sha256 and that manifest is GPG-signed.
+# Git for Windows defaults to core.autocrlf=true, which rewrites LF to CRLF on
+# checkout -- including MANIFEST.sha256 itself. The effect is total: every hash
+# mismatches, and the manifest's own filenames acquire a trailing carriage return,
+# so `sha256sum -c` reports "No such file or directory" for all of them.
+#
+# A verifier on Windows following our published instructions would see the entire
+# archive fail to verify and reasonably conclude we are broken or lying. This line
+# is what makes the archive checkable on every platform rather than only on Unix.
+* -text
+
 # This repository is a journalism / provenance DATASET, not a PHP application.
 # The only code is the exporter + verifier tooling under scripts/; vendor it so
 # GitHub Linguist stops classifying the repo as "PHP" and it reads as the
