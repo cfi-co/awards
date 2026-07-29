@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260729165325
+wayback_snapshot_url: "http://web.archive.org/web/20260729165325/https://cfi.co/awards/europe/2026/arca-fondi-sgr-best-private-market-fund-italy-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 31eb13aac81060d8d224107a24741fc8b5fdb44ccb941ea67651351e39dd7fe9
 canonical: 13552-arca-fondi-sgr-best-private-market-fund-italy-2026.json
