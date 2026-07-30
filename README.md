@@ -108,6 +108,41 @@ AI-consumption guidance: [`README-AI.md`](README-AI.md).
   change every subsequent commit hash and is detectable by anyone holding an
   earlier clone.
 
+## Counter-signatures
+
+The archive signing key (`SIGNING-KEY.asc`) lives on the web server and signs unattended —
+trustworthy only as that machine. Two independent people additionally sign a small dated
+record on their own machines, keys that never touch the server:
+
+| role | anchor (DNS TXT) | in-tree key (convenience only) |
+|---|---|---|
+| `custodian` | `_archive-countersign.cfi.co` | `CUSTODIAN-KEY.asc` |
+| `publisher` | `_archive-publisher.cfi.co` | `PUBLISHER-KEY.asc` |
+
+Records live at `countersigs/<date>-<role>.txt` (+ `.txt.asc` detached signature) — four fields,
+**LF-terminated**, one per line:
+
+```
+manifest_sha256=<the manifest's own SHA-256 at signing time>
+date=<YYYY-MM-DD>
+repo=<cfi-co/awards or cfi-co/articles>
+checked_by=<custodian@cfi.co or publisher@cfi.co>
+```
+
+Each record signs a *fixed historical value* — the manifest's hash as it stood on that date —
+never the live manifest itself, which changes daily. `verify.sh` reports the dated state and
+its age for each role independently; it does not, and structurally cannot, report a record as
+matching the *current* manifest, because a record is itself covered by the manifest it
+attests — the manifest that includes it can never be the one it describes. This is expected,
+not a fault: the guarantee on offer is "checked on this date", not "checked right now".
+
+**Known defect, disclosed rather than hidden:** the `2026-07-30-custodian.txt` record carries a
+trailing carriage return on its last field (`checked_by=custodian@cfi.co\r`), produced by
+Windows `Out-File -Encoding ascii`. `verify.sh` strips it; a third-party parser that does not
+will read the field as `custodian@cfi.co\r` and conclude the record fails to match. It is
+signed, so the bytes cannot be corrected after the fact — trim trailing whitespace on every
+field you read from a `countersigs/*.txt` record, for this and any future record.
+
 ## Repository layout
 
 ```
@@ -115,6 +150,8 @@ announcements/<year>/<post-id>-<slug>.md      human-readable view (YAML front-ma
 announcements/<year>/<post-id>-<slug>.json    canonical machine record + hashes (incl. content_text)
 index.jsonl                                   one-line-per-announcement catalog (enumerate the corpus in one fetch)
 MANIFEST.sha256                               SHA-256 of every archived file
+countersigs/<date>-<role>.txt(.asc)           dated counter-signature records — see "Counter-signatures" above
+CUSTODIAN-KEY.asc / PUBLISHER-KEY.asc         counter-signer public keys (convenience copy; DNS is the actual anchor)
 scripts/verify.sh                             independent re-verification
 scripts/export.php                            the exact exporter used (auditable)
 ```
