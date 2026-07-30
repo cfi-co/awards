@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20160505084611
+wayback_snapshot_url: "http://web.archive.org/web/20160505084611/http://cfi.co/awards/asia-pacific/2016/fbs-best-safety-of-client-funds-asia-2015/"
 license: CFI-OAAL-1.0
 content_sha256: 66792885993c10fdd4da1c6c24daf5495505b6af8ec55c9374c680e2ae521748
 canonical: 2749-fbs-best-safety-of-client-funds-asia-2015.json
