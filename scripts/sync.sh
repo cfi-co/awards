@@ -89,7 +89,7 @@ fi
 #    The manifest excludes itself AND its detached signature — both change as a
 #    consequence of hashing, so neither can be inside the hash list (verify.sh
 #    applies the identical exclusion).
-git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' -e 'MANIFEST.sha256.countersig.asc' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
+git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | xargs -r -d '\n' sha256sum > MANIFEST.sha256
 if ! git diff --quiet -- MANIFEST.sha256 || [ ! -f MANIFEST.sha256.asc ]; then
   # Detached-sign the refreshed manifest (archive key 876FF2AA39133BF8; this
   # cron runs as root, whose keyring holds the key). Signing happens only when

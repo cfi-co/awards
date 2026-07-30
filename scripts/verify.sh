@@ -57,7 +57,7 @@ done < <(find announcements -name '*.json' -print0)
 if [ ! -f MANIFEST.sha256 ]; then
   echo "MANIFEST.sha256 missing" >&2; fail=1
 else
-  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' -e 'MANIFEST.sha256.countersig.asc' | sort)"
+  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | sort)"
   listed="$(cut -c67- MANIFEST.sha256 | sort)"
   if [ "$expected" != "$listed" ]; then
     echo "MANIFEST coverage mismatch — manifest does not list exactly the tracked files (truncated/stale?)" >&2
@@ -149,14 +149,14 @@ if [ -f MANIFEST.sha256.asc ] && command -v gpg >/dev/null 2>&1; then
 
   anchor_fpr=""
   if command -v dig >/dev/null 2>&1; then
-    anchor_fpr=$(dig +short TXT "$EXPECT_FPR_DNS" 2>/dev/null | tr -d '"' | grep -oE '[A-F0-9]{40}' | head -1)
+    anchor_fpr=$(dig +short TXT "$EXPECT_FPR_DNS" 2>/dev/null | tr -d '"' | grep -oE '[A-F0-9]{40}' | head -1 || true)
   elif command -v host >/dev/null 2>&1; then
-    anchor_fpr=$(host -t TXT "$EXPECT_FPR_DNS" 2>/dev/null | grep -oE '[A-F0-9]{40}' | head -1)
+    anchor_fpr=$(host -t TXT "$EXPECT_FPR_DNS" 2>/dev/null | grep -oE '[A-F0-9]{40}' | head -1 || true)
   fi
   if [ -z "$anchor_fpr" ] && command -v curl >/dev/null 2>&1; then
     anchor_fpr=$(curl -s --max-time 15 -H 'accept: application/dns-json' \
       "https://cloudflare-dns.com/dns-query?name=${EXPECT_FPR_DNS}&type=TXT" 2>/dev/null \
-      | grep -oE '[A-F0-9]{40}' | head -1)
+      | grep -oE '[A-F0-9]{40}' | head -1 || true)
   fi
 
   if [ -z "$anchor_fpr" ]; then
@@ -174,6 +174,135 @@ if [ -f MANIFEST.sha256.asc ] && command -v gpg >/dev/null 2>&1; then
     echo "manifest signature INVALID" >&2; fail=1
   fi
 fi
+
+# 4. External anchor: OpenTimestamps proof over MANIFEST.sha256.
+#
+#    MANIFEST.sha256.ots is upgraded in place as Bitcoin confirmations land
+#    (/usr/local/bin/cfi-archive-anchor.sh, daily) — the upgrade can only ADD an
+#    attestation, never remove one, so the file accumulates a complete proof
+#    history rather than being replaced. This checks it still verifies against
+#    the current MANIFEST.sha256, and reports whether it is Bitcoin-confirmed yet
+#    or still only on the calendar servers. Requires the `ots` client; where it is
+#    not installed this is reported as unchecked, not failed — the same treatment
+#    as an unreachable DNS anchor above.
+if [ -f MANIFEST.sha256.ots ]; then
+  if command -v ots >/dev/null 2>&1; then
+    ots_out="$(ots verify MANIFEST.sha256.ots -f MANIFEST.sha256 2>&1)" && ots_rc=0 || ots_rc=$?
+    if [ "$ots_rc" -eq 0 ]; then
+      if printf '%s' "$ots_out" | grep -q "Bitcoin block"; then
+        blk="$(printf '%s' "$ots_out" | grep -o 'Bitcoin block [0-9]*' | head -1 || true)"
+        echo "OpenTimestamps proof: Bitcoin-confirmed ($blk)"
+      else
+        echo "OpenTimestamps proof: present, pending Bitcoin confirmation (calendar servers only so far)"
+      fi
+    else
+      echo "OpenTimestamps proof INVALID — MANIFEST.sha256.ots does not verify against MANIFEST.sha256" >&2
+      fail=1
+    fi
+  else
+    echo "OpenTimestamps proof present but NOT checked (ots client unavailable) — taken on trust" >&2
+  fi
+else
+  echo "OpenTimestamps proof: none on record" >&2
+fi
+
+# 5. Counter-signatures (dated records) — see COUNTERSIGNATURE-PROCEDURE.md.
+#
+#    Each role signs a small dated record (manifest_sha256/date/repo/checked_by),
+#    never the manifest itself: a signature over a value that changes most days
+#    can only ever be momentarily valid or permanently "BAD", where a signature
+#    over a fixed historical record stays true forever. The record's own
+#    checked_by= field is authoritative; the filename's role suffix exists only
+#    so two people signing the same day cannot collide, and is cross-checked
+#    against it below.
+#
+#    Two independent roles by design (added 2026-07-30, at Anthony Michael's
+#    request):
+#      custodian  — checks from a different MACHINE. The key never touches the
+#                   server, so a server compromise cannot also forge this.
+#                   Anchor: _archive-countersign.cfi.co
+#      publisher  — checks from a different PERSON, one who does not administer
+#                   the server — the property "different machine" alone cannot
+#                   establish. Anchor: _archive-publisher.cfi.co
+#    Neither role is required for the archive to verify; a role with nothing on
+#    record is reported as such, not failed. Staleness is likewise reported, not
+#    failed — see the manifest-signing note above on why an ordinary-day control
+#    must degrade rather than fail, or it gets switched off.
+current_manifest_sha256=""
+[ -f MANIFEST.sha256 ] && command -v sha256sum >/dev/null 2>&1 && \
+  current_manifest_sha256="$(sha256sum MANIFEST.sha256 2>/dev/null | cut -d' ' -f1)"
+for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODIAN-KEY.asc" \
+                 "publisher:_archive-publisher.cfi.co:publisher@cfi.co:PUBLISHER-KEY.asc"; do
+  role="${role_spec%%:*}"; rest="${role_spec#*:}"
+  anchor_host="${rest%%:*}"; rest="${rest#*:}"
+  expect_uid="${rest%%:*}"; role_key_file="${rest#*:}"
+
+  latest_txt=""
+  if [ -d countersigs ]; then
+    latest_txt="$(find countersigs -maxdepth 1 -name "*-${role}.txt" 2>/dev/null | sort | tail -1)"
+  fi
+  n_role=0
+  [ -d countersigs ] && n_role="$(find countersigs -maxdepth 1 -name "*-${role}.txt" 2>/dev/null | wc -l | tr -d ' ')"
+
+  if [ -z "$latest_txt" ]; then
+    echo "counter-signature ($role): none on record"
+    continue
+  fi
+
+  asc="${latest_txt}.asc"
+  if [ ! -f "$asc" ]; then
+    echo "counter-signature ($role) INVALID — $latest_txt has no matching .asc" >&2
+    fail=1; continue
+  fi
+
+  rec_uid="$(grep -o 'checked_by=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 || true)"
+  if [ "$rec_uid" != "$expect_uid" ]; then
+    echo "counter-signature ($role) INVALID — record's checked_by=$rec_uid does not match the $role role ($expect_uid)" >&2
+    fail=1; continue
+  fi
+
+  if ! command -v gpg >/dev/null 2>&1; then
+    echo "counter-signature ($role) NOT checked — gpg unavailable" >&2
+    continue
+  fi
+  [ -f "$role_key_file" ] && gpg -q --import "$role_key_file" 2>/dev/null || true
+
+  role_anchor_fpr=""
+  if command -v dig >/dev/null 2>&1; then
+    role_anchor_fpr=$(dig +short TXT "$anchor_host" 2>/dev/null | tr -d '"' | grep -oE '[A-Fa-f0-9]{40}' | head -1 || true)
+  elif command -v host >/dev/null 2>&1; then
+    role_anchor_fpr=$(host -t TXT "$anchor_host" 2>/dev/null | grep -oE '[A-Fa-f0-9]{40}' | head -1 || true)
+  fi
+  if [ -z "$role_anchor_fpr" ] && command -v curl >/dev/null 2>&1; then
+    role_anchor_fpr=$(curl -s --max-time 15 -H 'accept: application/dns-json' \
+      "https://cloudflare-dns.com/dns-query?name=${anchor_host}&type=TXT" 2>/dev/null \
+      | grep -oE '[A-Fa-f0-9]{40}' | head -1 || true)
+  fi
+  role_anchor_fpr="$(printf '%s' "$role_anchor_fpr" | tr 'a-f' 'A-F')"
+
+  sig_fpr="$(gpg --verify --status-fd=1 "$asc" "$latest_txt" 2>/dev/null \
+    | awk '/^\[GNUPG:\] VALIDSIG/{print $3; exit}' || true)"
+
+  if [ -z "$sig_fpr" ]; then
+    echo "counter-signature ($role) INVALID — signature does not verify" >&2
+    fail=1; continue
+  fi
+
+  if [ -z "$role_anchor_fpr" ]; then
+    echo "counter-signature ($role) NOT anchor-checked (no DNS resolver available) — signer $sig_fpr taken on trust" >&2
+  elif [ "$role_anchor_fpr" != "$sig_fpr" ]; then
+    echo "counter-signature ($role) KEY MISMATCH — signed by $sig_fpr, anchor says $role_anchor_fpr" >&2
+    fail=1; continue
+  fi
+
+  rec_hash="$(grep -o 'manifest_sha256=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 || true)"
+  rec_date="$(grep -o 'date=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 || true)"
+  if [ -n "$current_manifest_sha256" ] && [ "$rec_hash" = "$current_manifest_sha256" ]; then
+    echo "counter-signature ($role): CURRENT — $n_role on record, most recent $rec_date"
+  else
+    echo "counter-signature ($role): $n_role on record, most recent $rec_date — none attests the current manifest" >&2
+  fi
+done
 
 if [ "$fail" -eq 0 ]; then
   echo "OK — $n announcement records verified, manifest intact."
