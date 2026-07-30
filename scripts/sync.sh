@@ -27,6 +27,21 @@ flock -n 9 || { log "another sync running, skip"; exit 0; }
 
 log "sync start"
 
+# 0a. Dirty-tree guard (added 2026-07-30, at Anthony Michael's request). This
+#     script regenerates the manifest over whatever is in the working tree and
+#     signs it with the archive key - previously safe because only this script
+#     ever changed that tree. It no longer is: reviewed content now arrives as
+#     its own commit from outside this script (custodian/publisher signature
+#     files, verify.sh fixes, and so on) BEFORE sync.sh runs. If the tree is
+#     dirty at start, that content was never committed as its own reviewed
+#     change - continuing would sign an untracked, unreviewed diff under the
+#     archive's own key. Refuse outright rather than guess what it is.
+if [ -n "$(git status --porcelain)" ]; then
+  log "ABORT: working tree is dirty at sync start - refusing to sign unreviewed changes"
+  git status --porcelain >>"$LOG"
+  exit 1
+fi
+
 # 0. Refresh Wayback evidence: re-check non-archived URLs (cheap — archived ones
 #    are skipped) and submit a bounded batch of any still-missing URLs. Best-effort.
 php8.2 scripts/wayback.php check     >>"$LOG" 2>&1 || true
