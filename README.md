@@ -56,6 +56,21 @@ quietly alter award announcements after publication**. If an announcement is eve
 edited, git records *exactly* what changed, when, and the change is publicly visible
 forever.
 
+## A commit-author error, disclosed rather than corrected
+
+Eighteen commits between 29 and 30 July 2026 across this repository and
+[cfi-co/articles](https://github.com/cfi-co/articles) carry the author name
+"Marten Mangels" against the email `mm@beapp.co`. That name is wrong — the
+correct name is Marten Mark. The email address was always correct; the display
+name attached to it was not.
+
+We are not rewriting history to fix it. This repository's own integrity claim
+rests on git history never being silently altered — the same property that
+makes tampering detectable makes our own mistakes permanent once pushed, and
+we would rather live with that consequence than make an exception for
+ourselves. Every commit from 30 July 2026 onward under this author's control
+uses the correct name.
+
 ## Licence
 
 The content in this archive is released under the **[CFI.co Open AI Access
