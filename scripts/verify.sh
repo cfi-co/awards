@@ -255,7 +255,7 @@ for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODI
     fail=1; continue
   fi
 
-  rec_uid="$(grep -o 'checked_by=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 || true)"
+  rec_uid="$(grep -o 'checked_by=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 | tr -d '\r' || true)"
   if [ "$rec_uid" != "$expect_uid" ]; then
     echo "counter-signature ($role) INVALID — record's checked_by=$rec_uid does not match the $role role ($expect_uid)" >&2
     fail=1; continue
@@ -295,8 +295,8 @@ for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODI
     fail=1; continue
   fi
 
-  rec_hash="$(grep -o 'manifest_sha256=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 || true)"
-  rec_date="$(grep -o 'date=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 || true)"
+  rec_hash="$(grep -o 'manifest_sha256=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 | tr -d '\r' || true)"
+  rec_date="$(grep -o 'date=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 | tr -d '\r' || true)"
   if [ -n "$current_manifest_sha256" ] && [ "$rec_hash" = "$current_manifest_sha256" ]; then
     echo "counter-signature ($role): CURRENT — $n_role on record, most recent $rec_date"
   else
