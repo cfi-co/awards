@@ -27,6 +27,22 @@ if ! php -r 'exit(json_encode([1])==="[1]"?0:1);' >/dev/null 2>&1; then
   echo "verify.sh cannot run: php is present but its JSON support is not working" >&2
   exit 2
 fi
+# python3 present is not python3 working. On Windows, `command -v python3` finds
+# the Microsoft Store execution-alias stub: it exits 0, writes "Python was not
+# found - run without arguments to install from the Microsoft Store" to STDERR,
+# and produces EMPTY STDOUT. Every python3 call below would then silently return
+# nothing instead of erroring - idx_ids comes back empty, the comparison against
+# every real record fails, and the script reports INDEX/RECORD MISMATCH listing
+# thousands of "orphaned" records followed by VERIFICATION FAILED: the exact
+# false failure the exit-2/exit-1 split exists to prevent, and worse than the php
+# case above, because a zero exit code means nothing catches it on the way in.
+# Reproduced live on a stock Windows machine, 30 July 2026.
+_py_out="$(python3 -c 'print("ok")' 2>/dev/null || true)"
+if [ "$_py_out" != "ok" ]; then
+  echo "verify.sh cannot run: python3 is present but not working (Microsoft Store install stub, or no interpreter installed)" >&2
+  echo "  (this is an environment problem, not an archive problem)" >&2
+  exit 2
+fi
 if [ ! -d announcements ]; then
   echo "verify.sh cannot run: no announcements/ directory here - run it from the repository root" >&2
   exit 2
@@ -228,9 +244,15 @@ fi
 #    record is reported as such, not failed. Staleness is likewise reported, not
 #    failed — see the manifest-signing note above on why an ordinary-day control
 #    must degrade rather than fail, or it gets switched off.
-current_manifest_sha256=""
-[ -f MANIFEST.sha256 ] && command -v sha256sum >/dev/null 2>&1 && \
-  current_manifest_sha256="$(sha256sum MANIFEST.sha256 2>/dev/null | cut -d' ' -f1)"
+#
+#    cfi 2026-07-30 (finding from Anthony Michael, on the first real publisher
+#    signature): records are themselves covered by MANIFEST.sha256 (see the note
+#    on manifest exclusion above), so the manifest that INCLUDES a record can
+#    never be the one that record ATTESTS - "matches the live manifest" is
+#    structurally unreachable in steady state, not just usually stale. A branch
+#    that can never take its positive path is worse than no branch: it reads a
+#    correctly-working archive as permanently deficient. Removed the comparison
+#    entirely; this reports the dated state and its age, nothing else.
 for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODIAN-KEY.asc" \
                  "publisher:_archive-publisher.cfi.co:publisher@cfi.co:PUBLISHER-KEY.asc"; do
   role="${role_spec%%:*}"; rest="${role_spec#*:}"
@@ -295,13 +317,12 @@ for role_spec in "custodian:_archive-countersign.cfi.co:custodian@cfi.co:CUSTODI
     fail=1; continue
   fi
 
-  rec_hash="$(grep -o 'manifest_sha256=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 | tr -d '\r' || true)"
   rec_date="$(grep -o 'date=.*' "$latest_txt" 2>/dev/null | cut -d= -f2 | tr -d '\r' || true)"
-  if [ -n "$current_manifest_sha256" ] && [ "$rec_hash" = "$current_manifest_sha256" ]; then
-    echo "counter-signature ($role): CURRENT — $n_role on record, most recent $rec_date"
-  else
-    echo "counter-signature ($role): $n_role on record, most recent $rec_date — none attests the current manifest" >&2
+  age_str=""
+  if _today_epoch="$(date -u +%s 2>/dev/null)" && _rec_epoch="$(date -u -d "$rec_date" +%s 2>/dev/null)"; then
+    age_str=" ($(( (_today_epoch - _rec_epoch) / 86400 ))d ago)"
   fi
+  echo "counter-signature ($role): $n_role on record, most recent $rec_date${age_str} — attests the manifest as it stood on that date"
 done
 
 if [ "$fail" -eq 0 ]; then
