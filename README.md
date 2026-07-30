@@ -134,6 +134,13 @@ record on their own machines, keys that never touch the server:
 | `custodian` | `_archive-countersign.cfi.co` | `CUSTODIAN-KEY.asc` |
 | `publisher` | `_archive-publisher.cfi.co` | `PUBLISHER-KEY.asc` |
 
+**Only the custodian has push access to this repository.** The publisher signs a record on
+their own machine and sends the signed file out-of-band; the custodian verifies it and commits
+it. The git author name on a counter-signature commit records who authored that *content* —
+not who pushed it, and not who has repository access. Read literally, "authored by
+`publisher@cfi.co`" could be mistaken for push access; the publisher has none, and by the
+reasoning behind having two independent roles at all, should not.
+
 Records live at `countersigs/<date>-<role>.txt` (+ `.txt.asc` detached signature) — four fields,
 **LF-terminated**, one per line:
 
@@ -149,7 +156,11 @@ never the live manifest itself, which changes daily. `verify.sh` reports the dat
 its age for each role independently; it does not, and structurally cannot, report a record as
 matching the *current* manifest, because a record is itself covered by the manifest it
 attests — the manifest that includes it can never be the one it describes. This is expected,
-not a fault: the guarantee on offer is "checked on this date", not "checked right now".
+not a fault: the guarantee on offer is "checked on this date", not "checked right now". A
+counter-signature record attesting a manifest hash that no longer matches the live one is not
+a lag or a missed cycle — it is the archive continuing to change, exactly as this repository's
+whole purpose says it should, alongside a dated attestation of what it looked like when someone
+last checked. Both are true at once, by design.
 
 **Known defect, disclosed rather than hidden:** the `2026-07-30-custodian.txt` record carries a
 trailing carriage return on its last field (`checked_by=custodian@cfi.co\r`), produced by
