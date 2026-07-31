@@ -118,6 +118,12 @@ foreach ($posts as $p) {
     $content = (string) $p->post_content;          // RAW, verbatim
     $chash   = hash('sha256', $content);
 
+    // Absolute path to this record's OWN prior file — computed here, ahead
+    // of the later $base/$reljs (which stay repo-relative, for the write +
+    // index further down), purely so correction_status below can read what
+    // this record already said before this run overwrites it.
+    $prior_path = $OUTDIR . '/' . $year . '/' . $id . '-' . $slug . '.json';
+
     // --- Content classification (grounded; rules documented in README). ---
     $sponsored = isset($sponmap[$id]['flag']) && $sponmap[$id]['flag'] === '1';
     $sponsor   = $sponsored ? (string) ($sponmap[$id]['name'] ?? '') : '';
@@ -129,6 +135,30 @@ foreach ($posts as $p) {
             if (isset($catslugs[$id][$cslug])) { $content_class = $cclass; break; }
         }
     }
+
+    // Correction status (2026-07-31 fix — was a hardcoded 'none', so the
+    // documented "none -> revised when content later changed" transition
+    // never actually happened; README-AI.md called it authoritative while
+    // it was dead). Compared against the record's own PRIOR file, not
+    // against git history — export.php has no git awareness, and this
+    // needs to run identically whether or not the file happens to already
+    // be committed. A missing prior file means a genuinely new record
+    // ('none'). Once 'revised', stays 'revised' even if content later
+    // matches again — a one-way transition, per the documented semantics,
+    // so the record permanently discloses that it was corrected at least
+    // once; git history remains the place to see exactly what changed.
+    $correction_status = 'none';
+    if (is_file($prior_path)) {
+        $prior = json_decode(file_get_contents($prior_path), true);
+        if (is_array($prior)) {
+            $prior_hash   = $prior['content_sha256'] ?? null;
+            $prior_status = $prior['classification']['correction_status'] ?? 'none';
+            if ($prior_status === 'revised' || ($prior_hash !== null && $prior_hash !== $chash)) {
+                $correction_status = 'revised';
+            }
+        }
+    }
+
     $wb = $waybackmap[$url] ?? array('status' => 'pending_check', 'ts' => '', 'snap' => '');
     $classification = array(
         'content_class'          => $content_class,
@@ -138,7 +168,7 @@ foreach ($posts as $p) {
         'sponsor_name'           => $sponsor,
         'article_status'         => 'published',
         'historical_status'      => 'current_at_publication',
-        'correction_status'      => 'none',          // git history is the live correction record
+        'correction_status'      => $correction_status,
         'archive_policy'         => 'no_delete',
         'provenance_layer'       => 'github_versioned',
         'wayback_status'         => $wb['status'],   // archived | submitted_pending | not_found | pending_check
