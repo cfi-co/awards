@@ -1,0 +1,4 @@
+manifest_sha256=d566fd60ee6b06d7e5314fd8e4de7e01c1493d4e18f17ab6fa40a9ae767be6be
+date=2026-07-31
+repo=cfi-co/awards
+checked_by=custodian@cfi.co
