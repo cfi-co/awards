@@ -200,6 +200,18 @@ from a real signal or is a stated constant — none are guessed.** Rules live in
 | `article_status` | `published` | Only published items are archived |
 | `archive_policy` | `no_delete` | History is append-only and immutable |
 | `provenance_layer` | `github_versioned` | This repository |
+
+**`independence_status` on records published before 9 November 2025 is a default, not a determination.**
+The field reads `independent_editorial` on every record where no sponsorship flag is set. Before
+9 November 2025 no labelling practice existed, so on those records the absence of a flag records
+that nobody asked the question - not that it was asked and answered. In this archive that affects
+all 2,385 records, of which 2,307 predate the cutoff and none is marked otherwise.
+
+One distinction matters here and does not apply to the articles archive. For awards, independence
+is structural rather than assessed: the decision function is sealed from commercial information by
+design, which is a different claim from an unfounded default and may warrant different wording.
+Which correction this archive takes is part of the rule being written, and the reason it is open
+rather than applied is recorded at https://cfi.co/known-open/ .
 | `wayback_status` (+ `wayback_first_snapshot`, `wayback_snapshot_url`) | `archived` · `submitted_pending` · `not_found` · `pending_check` | Independent third-party corroboration. `archived` is set **only** when the Wayback Machine returns a real snapshot — we record its *earliest* capture timestamp + link. URLs with no snapshot are submitted to web.archive.org/save (→ `submitted_pending`). Never claimed without a real snapshot. |
 | `license` | `CFI-OAAL-1.0` | The record is released under the [CFI.co Open AI Access Licence](LICENCE.md); the identifier lives **inside the hashed record** so the grant is tamper-evident and travels with the data (schema v2.2, 2026-07-08) |
 
