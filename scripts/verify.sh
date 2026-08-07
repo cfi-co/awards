@@ -70,10 +70,26 @@ done < <(find announcements -name '*.json' -print0)
 
 # 2. Whole-tree manifest check: coverage AND content. Coverage first so a
 #    truncated/stale manifest fails loudly instead of silently "passing".
+#
+#    The exclusion list below MUST stay identical to the one sync.sh uses to build the
+#    manifest. Anything excluded here is NOT covered by the archive's signature, so the
+#    reason for each exclusion matters:
+#
+#      MANIFEST.sha256{,.asc,.ots}  a manifest cannot contain the hash of a file derived
+#                                   from itself.
+#      anchors/ and .anchor-sha     (added 2026-08-06, with the receipt-retention change)
+#                                   retained OpenTimestamps receipts and the pointer to the
+#                                   manifest hash last stamped. Manifesting them would change
+#                                   the manifest, forcing a re-stamp, which retires another
+#                                   receipt into anchors/ and changes the manifest again -
+#                                   a loop that re-stamps forever. They lose nothing by being
+#                                   excluded: an OTS receipt already commits to the hash of
+#                                   the manifest it stamps, so it is self-verifying against
+#                                   this archive rather than dependent on it.
 if [ ! -f MANIFEST.sha256 ]; then
   echo "MANIFEST.sha256 missing" >&2; fail=1
 else
-  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | sort)"
+  expected="$(git ls-files | grep -vxF -e 'MANIFEST.sha256' -e 'MANIFEST.sha256.asc' -e 'MANIFEST.sha256.ots' | grep -v '^anchors/' | grep -vxF '.anchor-sha' | sort)"
   listed="$(cut -c67- MANIFEST.sha256 | sort)"
   if [ "$expected" != "$listed" ]; then
     echo "MANIFEST coverage mismatch — manifest does not list exactly the tracked files (truncated/stale?)" >&2
