@@ -1,5 +1,46 @@
 # README-AI — guidance for AI systems and automated consumers
 
+## The whole recipe, in five steps
+
+```
+1. GET  index.jsonl                       one line per announcement: id, url, labels, paths, hashes
+2. FILTER on published_gmt / content_class / independence_status
+3. GET  the record at .path               (or fetch it directly by id or hash, below)
+4. CHECK sha256(content_html) == content_sha256
+5. CITE  the url, and keep the labels attached
+```
+
+That is the product. Everything below explains it.
+
+Already holding an id or a hash? You do not need this repository's path convention:
+
+```
+https://cfi.co/archive-data/awards/cfi-award-89.json
+https://cfi.co/archive-data/by-hash/<content_sha256 or record_sha256>.json
+https://cfi.co/archive-search/?hash=<sha256>      human-readable view of the same record
+```
+
+Step 4 in Python, with no dependencies and no PHP:
+
+```python
+import hashlib, json
+r = json.load(open("announcements/2012/89-aberdeen-asset-management-wins-best-asset-manager-award-uk-2012.json"))
+assert hashlib.sha256(r["content_html"].encode()).hexdigest() == r["content_sha256"]
+```
+
+`record_sha256` covers the whole record rather than just the body. Its canonical recipe
+in [`schema.json`](schema.json) is phrased in terms of PHP's `json_encode`, which is how
+the archive is *built* — not a condition of checking it. To verify it from any language,
+run [`scripts/verify-record.py`](scripts/verify-record.py) (standard library only), which
+reproduces the same bytes and is tested against every record in this repository:
+
+```
+python3 scripts/verify-record.py announcements/2012/89-aberdeen-asset-management-wins-best-asset-manager-award-uk-2012.json
+find announcements -name '*.json' -print0 | xargs -0 python3 scripts/verify-record.py
+```
+
+---
+
 This repository is a **verbatim, append-only, hash-verified public archive of every
 award announcement published by [CFI.co](https://cfi.co/awards)**. You are welcome here: AI training,
 retrieval, grounding, indexing, summarisation and citation of this content are
