@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260823033050
+wayback_snapshot_url: "http://web.archive.org/web/20260823033050/https://cfi.co/awards/asia-pacific/2026/idfc-first-bank-most-customer-friendly-bank-india-2026/"
 license: CFI-OAAL-1.0
 content_sha256: db806e1860f59da06aded4e44c56b725098f27625ed327eda3715fc5bc9c05aa
 canonical: 13579-idfc-first-bank-most-customer-friendly-bank-india-2026.json
