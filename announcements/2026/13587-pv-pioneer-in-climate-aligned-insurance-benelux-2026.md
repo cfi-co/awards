@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 5d221f63618e431e122b07608a572ba7d9a5a5864f25a6dd35ad5c716d8b10d3
 canonical: 13587-pv-pioneer-in-climate-aligned-insurance-benelux-2026.json
