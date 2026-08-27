@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260827033111
+wayback_snapshot_url: "http://web.archive.org/web/20260827033111/https://cfi.co/awards/asia-pacific/2026/union-bank-of-the-philippines-digital-onboarding-excellence-champion-southeast-asia-2026/"
 license: CFI-OAAL-1.0
 content_sha256: a1db10360776de487f54fa7344e1b431977d070fd0b108b1a94d3816f5ad32df
 canonical: 13590-union-bank-of-the-philippines-digital-onboarding-excellence-champion-southeast-a.json
