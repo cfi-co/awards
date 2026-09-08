@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: ee584d7d96b26287ad119ce58b7c5972eba948c9fdf7a863dc4f6b9b22d5fb9c
 canonical: 13604-manulife-philippines-champion-of-sustainable-community-impact-asia-2026.json
