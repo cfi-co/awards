@@ -13,6 +13,7 @@ sponsor_disclosure: none
 editorial_lens: constructive_positive_lens
 historical_status: current_at_publication
 correction_status: revised
+correction_class: unspecified
 archive_policy: no_delete
 provenance_layer: github_versioned
 wayback_status: archived
