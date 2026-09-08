@@ -24,5 +24,30 @@
     "",
     "Added 2026-09-08 with schema v2.5."
   ],
-  "events": {}
+  "events": {
+    "6409": [
+      {
+        "date": "2026-09-08",
+        "class": "later_development"
+      }
+    ],
+    "7053": [
+      {
+        "date": "2026-09-08",
+        "class": "later_development"
+      }
+    ],
+    "10036": [
+      {
+        "date": "2026-09-08",
+        "class": "later_development"
+      }
+    ],
+    "10973": [
+      {
+        "date": "2026-09-08",
+        "class": "later_development"
+      }
+    ]
+  }
 }
