@@ -1,0 +1,28 @@
+{
+  "_comment": [
+    "Publisher-declared correction events, keyed by post id, oldest event first.",
+    "",
+    "WHY THIS FILE EXISTS. A content change cannot tell the exporter what KIND of change",
+    "it was. A correction of our own error and a note recording that the world has since",
+    "moved both rewrite the announcement text, and both move content_sha256. Deriving the class",
+    "from the bytes therefore writes 'factual_correction' onto a page whose note says, in",
+    "terms, that nothing we published was wrong - and factual_correction sticks.",
+    "",
+    "So the kind is declared here rather than inferred, on the same footing as",
+    "scripts/approved-bylines.json: it is the publisher's decision about one specific",
+    "record and must not be second-guessed by a rule. This file is tracked, so",
+    "MANIFEST.sha256 and its signature cover it; the declaration is as tamper-evident as",
+    "the record it labels, and a third party can see what was declared and when.",
+    "",
+    "SHAPE:  \"events\": { \"<post id>\": [ {\"date\": \"YYYY-MM-DD\", \"class\": \"<enum>\"} ] }",
+    "",
+    "A declared event governs classification.correction_class and, where a record has more",
+    "than one, classification.correction_history. It also forces correction_status to",
+    "'revised', because a declared event has by definition happened. factual_correction",
+    "still wins over any other class on the same record. A malformed entry is skipped",
+    "rather than guessed at.",
+    "",
+    "Added 2026-09-08 with schema v2.5."
+  ],
+  "events": {}
+}

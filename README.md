@@ -197,7 +197,15 @@ from a real signal or is a stated constant — none are guessed.** Rules live in
 | `editorial_lens` | `constructive_positive_lens` | CFI.co's **stated editorial stance** |
 | `historical_status` | `current_at_publication` | Accurate to its time; judge recency against `published` |
 | `correction_status` | `none` · `revised` | The git history is the authoritative correction record |
+| `correction_class` | `factual_correction` · `later_development` · `unspecified` | Present **only** when `correction_status` is `revised`, and says which kind. `factual_correction` — the announcement text itself changed and what it said was wrong. `later_development` — the text was accurate when published and carries a dated note because the position it states has since moved. `unspecified` — the record was revised before this field existed and nothing in the current run classifies it. `factual_correction` is one-way and wins. **Added 2026-09-08**, ported from the articles archive. There is deliberately **no** `label_regime_change` value: this exporter does not compare claim fields and the awards corpus has had no labelling regime change to record |
+| `correction_history` | array of `{date, class}`, oldest first | Present **only** where a record has carried **more than one** correction event; a single event is fully described by `correction_class`. **Added 2026-09-08** — `correction_class` holds one value, so a record that has been through more than one event loses every earlier one. An array of bare labels would have discarded the dates too, so each entry carries its own |
 | `article_status` | `published` | Only published items are archived |
+
+#### `later_development` is declared, never inferred
+
+A correction and a later-development note **both rewrite the text**, so `content_sha256` moves either way and the bytes cannot tell them apart. Deriving the class from the content would therefore stamp `factual_correction` onto a page whose note says, in terms, that nothing published was wrong — permanently, since `factual_correction` sticks.
+
+So the kind is **declared**, in `scripts/correction-events.json`, on the same footing as `scripts/approved-bylines.json`: it is the publisher's decision about one specific record and is not second-guessed by a rule. That file is tracked, so `MANIFEST.sha256` and its signature cover it — the event log is exactly as tamper-evident as the record it labels, and a third party can see what was declared and when. A declared event also forces `correction_status` to `revised`, because a declared event has by definition happened; `factual_correction` still wins over any other class on the same record.
 | `archive_policy` | `no_delete` | History is append-only and immutable |
 | `provenance_layer` | `github_versioned` | This repository |
 
