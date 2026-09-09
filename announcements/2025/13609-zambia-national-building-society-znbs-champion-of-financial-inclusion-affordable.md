@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260908152848
+wayback_snapshot_url: "http://web.archive.org/web/20260908152848/https://cfi.co/awards/africa/2025/zambia-national-building-society-znbs-champion-of-financial-inclusion-affordable-housing-africa-2025/"
 license: CFI-OAAL-1.0
 content_sha256: 81c33640ac45a0263ce926cb2f0e37ff88a36c611efa4248fe9b3cb5368a9ede
 canonical: 13609-zambia-national-building-society-znbs-champion-of-financial-inclusion-affordable.json
