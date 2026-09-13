@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260912033009
+wayback_snapshot_url: "http://web.archive.org/web/20260912033009/https://cfi.co/awards/asia-pacific/2026/adm-capital-pioneer-in-esg-integrated-private-credit-asia-pacific-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 9931377bae386e921acc1567791bd816301f0208e2c398dc1c5b346a305b8397
 canonical: 13618-adm-capital-pioneer-in-esg-integrated-private-credit-asia-pacific-2026.json
