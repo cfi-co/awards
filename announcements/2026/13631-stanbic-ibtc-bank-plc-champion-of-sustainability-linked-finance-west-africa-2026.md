@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 8ab501f0a301169b3052a7e78f188eb3e9a43d28a62578355494439129d383db
 canonical: 13631-stanbic-ibtc-bank-plc-champion-of-sustainability-linked-finance-west-africa-2026.json
