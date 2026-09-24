@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 40e0d3452bf0baf3cee5909aa709162877678b5cc6e9c60a61fca60474d0e9b1
 canonical: 13634-quebec-international-outstanding-regional-development-champion-north-america-202.json
