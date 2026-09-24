@@ -1,0 +1,29 @@
+---
+id: 13643
+title: "Kenya Reinsurance Corporation Limited: Excellence in Rapid Claims Settlement Delivery Africa 2025"
+award_year: 2025
+published: 2025-09-23 15:14:54
+published_gmt: 2025-09-23 14:14:54
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/africa/2025/kenya-reinsurance-corporation-limited-excellence-in-rapid-claims-settlement-delivery-africa-2025/"
+categories: ["Africa", "CSR", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_check
+license: CFI-OAAL-1.0
+content_sha256: 51a960fbab79081aaad9656e96321c38b62842a6381c5436ef8bf58a17f680d7
+canonical: 13643-kenya-reinsurance-corporation-limited-excellence-in-rapid-claims-settlement-deli.json
+---
+
+# Kenya Reinsurance Corporation Limited: Excellence in Rapid Claims Settlement Delivery Africa 2025
+
+> Verbatim archived copy. Canonical machine record: `13643-kenya-reinsurance-corporation-limited-excellence-in-rapid-claims-settlement-deli.json`.
+
+<img class="aligncenter size-full wp-image-13641" src="https://cfi.co/awards/wp-content/uploads/2026/09/KenyaReinsuranceCorporationLimited.png" alt="Kenya Reinsurance Corporation Limited" width="500" height="263" />
+<p style="text-align: justify;"><strong>Kenya Reinsurance Corporation Limited has repositioned itself as a regional leader in claims settlement efficiency through a focus on internal reform and technological innovation.</strong> Operating across over 30 countries in Africa and Asia, the corporation serves as a reinsurer to insurance providers, offering a robust security buffer. A pivotal transformation commenced three years ago, resulting in a reduction in claims processing times—from 60 days to just 3 days for fully supported claims. This improvement was underpinned by rigorous training across business functions to enable accurate underwriting assessments. Kenya Re’s commitment to innovation was demonstrated through its organisation of a regional hackathon involving 43 universities, leading to the development of AI and robotic process automation solutions that reduced processing times to as little as 55 seconds. These solutions are being piloted for end-to-end claims handling without human intervention for claims under $1,000. The corporation’s profitability has been buoyed by a growing facultative business, delivering higher margins than treaty arrangements and contributing to profits. In 2024, Kenya Re emerged as the most profitable regulated insurance entity in Eastern and Central Africa, with technical profits up by 336 percent. With expansion plans in India, Tanzania, and South America, an asset management subsidiary, and a foundation to manage CSR, Kenya Re continues to advance ESG agenda. The Capital Finance International (CFI.co) Judging Panel congratulates Kenya Reinsurance Corporation Limited on winning the 2025 award for Excellence in Rapid Claims Settlement Delivery (Africa).</p>
