@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 3e3822f914604c8a10f35adff84e989a403cbd1abbfe1b1293739e36652bb9ff
 canonical: 13637-cygnum-capital-excellence-in-sovereign-and-supranational-advisory-emea-2026.json
