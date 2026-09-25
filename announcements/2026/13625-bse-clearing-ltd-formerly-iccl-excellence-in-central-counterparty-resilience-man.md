@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20260918033009
+wayback_snapshot_url: "http://web.archive.org/web/20260918033009/https://cfi.co/awards/asia-pacific/2026/bse-clearing-ltd-formerly-iccl-excellence-in-central-counterparty-resilience-management-india-2026/"
 license: CFI-OAAL-1.0
 content_sha256: bd4b239928646ccd13b6a9e29b7f17ccccb6d72989812f409fbb19ee79504b9a
 canonical: 13625-bse-clearing-ltd-formerly-iccl-excellence-in-central-counterparty-resilience-man.json
