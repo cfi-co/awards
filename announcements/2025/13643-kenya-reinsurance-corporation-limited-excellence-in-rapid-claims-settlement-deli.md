@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: not_found
 license: CFI-OAAL-1.0
 content_sha256: 51a960fbab79081aaad9656e96321c38b62842a6381c5436ef8bf58a17f680d7
 canonical: 13643-kenya-reinsurance-corporation-limited-excellence-in-rapid-claims-settlement-deli.json
