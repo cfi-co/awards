@@ -1,0 +1,34 @@
+---
+id: 13686
+title: "Concord Asset Management: Excellence in Mutual Fund Stewardship Bulgaria 2026"
+award_year: 2026
+published: 2026-09-26 16:40:33
+published_gmt: 2026-09-26 15:40:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/europe/2026/concord-asset-management-excellence-in-mutual-fund-stewardship-bulgaria-2026/"
+categories: ["Asset Management", "Best Practice", "Corporate Governance", "Europe"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_check
+license: CFI-OAAL-1.0
+content_sha256: d4a45f9066dbc9b3c45562340cace3f2b6e4af993888834a0ca3515563a689f9
+canonical: 13686-concord-asset-management-excellence-in-mutual-fund-stewardship-bulgaria-2026.json
+---
+
+# Concord Asset Management: Excellence in Mutual Fund Stewardship Bulgaria 2026
+
+> Verbatim archived copy. Canonical machine record: `13686-concord-asset-management-excellence-in-mutual-fund-stewardship-bulgaria-2026.json`.
+
+<img class="aligncenter size-full wp-image-13684" src="https://cfi.co/awards/wp-content/uploads/2026/09/ConcordAssetManagement.jpg" alt="Concord Asset Management" width="500" height="214" />
+<p style="text-align: justify;"><strong>A more than fivefold rise in assets under management over 8 years has moved Concord Asset Management to third place in Bulgaria's asset-management market, despite operating without the branch-network reach available to bank-owned competitors.</strong> That growth is anchored in a fund range spanning conservative, balanced, equity, green and alternative strategies. Retail investors can match products to risk capacity and time horizon, while alternative investment funds remain reserved for professional investors and eligible counterparties.</p>
+<p style="text-align: justify;">Concord Online addresses a structural distribution constraint with verified remote access to subscriptions, redemptions, fund switching, portfolio balances and daily price monitoring. Eurotrust identity verification supports onboarding controls, giving the firm a digital channel that expands participation without weakening safeguards.</p>
+<p style="text-align: justify;">Governance arrangements are central to the stewardship case. Funds are supervised by Bulgaria's Financial Supervision Commission, subject to depositary oversight, and reinforced by internal controls intended to keep investment decisions aligned with approved mandates. This emphasis on transparency, eligibility and control reflects the CFI.co focus on durable outcomes rather than expansion alone.</p>
+<p style="text-align: justify;">Investor communication forms part of the fiduciary discipline. The firm uses regular updates, social media explainers and market context to improve financial literacy and discourage emotional decisions during volatility.</p>
+<p style="text-align: justify;">Regulatory preparedness adds a forward-looking dimension. Concord was the first Bulgarian company licensed as an alternative investment fund manager, has developed Concord Fund 9 Green, and is positioned for loan-originating funds as the domestic framework evolves under AIFMD2-related reforms.</p>
+<p style="text-align: justify;">The result is a stewardship model linking access, suitability, regulatory control and investor education in a market still working to mobilise household savings into capital-market participation. The Capital Finance International (CFI.co) Judging Panel congratulates Concord Asset Management on winning the Excellence in Mutual Fund Stewardship 2026 Award (Bulgaria).</p>
