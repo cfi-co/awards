@@ -1,0 +1,33 @@
+---
+id: 13680
+title: "RB International : Best Structured Products Bank CEE 2026"
+award_year: 2026
+published: 2026-09-26 16:42:03
+published_gmt: 2026-09-26 15:42:03
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/banking/2026/rb-international-best-structured-products-bank-cee-2026/"
+categories: ["Banking", "Best Practice", "Europe", "Finance"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_check
+license: CFI-OAAL-1.0
+content_sha256: 16ad272371e93892598f86bdd268d734ed662b8caa1bfc5d3bfb2321f9d44b42
+canonical: 13680-rb-international-best-structured-products-bank-cee-2026.json
+---
+
+# RB International : Best Structured Products Bank CEE 2026
+
+> Verbatim archived copy. Canonical machine record: `13680-rb-international-best-structured-products-bank-cee-2026.json`.
+
+<img class="aligncenter size-full wp-image-13678" src="https://cfi.co/awards/wp-content/uploads/2026/09/RBInternational.jpg" alt="RB International " width="500" height="127" />
+<p style="text-align: justify;"><strong>Structured-products outstanding volume rose 25 percent in 2025, while newly issued volume increased 43 percent, giving RB International a clear performance base across a 16-market Central and South-Eastern European footprint.</strong> Investor behaviour in the region has been shaped by high equity valuations, geopolitical uncertainty and a broader rise in investment-account activity across Europe. Within that setting, products offering buffers, protection mechanisms or enhanced coupons have met demand for market participation without full direct-equity exposure.</p>
+<p style="text-align: justify;">Channel design is central to the bank's franchise. Products such as Raiffeisen Certificates and Retail Bonds are designed for advisory branches, private banking, and self-directed digital investors, with online broker applications already launched in the Czech Republic, Croatia, and Slovakia.</p>
+<p style="text-align: justify;">Speed of issuance adds a second execution advantage. Standard structures can move from idea to launch within hours, while more bespoke products may take days, allowing the bank to respond when volatility improves secondary-market conditions. Daily monitoring of inflows and outflows also showed resilience during recent stress periods.</p>
+<p style="text-align: justify;">Around 1,400 to 1,500 marketing materials are produced across jurisdictions and channels, creating a governance and operational-control challenge as much as a scale opportunity. Automation and AI are being applied to templates, translation, marketing production and trading workflows, a pragmatic efficiency agenda rather than a detached technology claim.</p>
+<p style="text-align: justify;">The wider RBI group context supports institutional capacity, with the interim evidence citing €1.443bn consolidated profit excluding Russia and a 15.5 percent CET1 ratio for 2025. The citation reflects regional momentum, disciplined multi-channel execution and attention to documentation and control in a complex cross-border product set. The Capital Finance International (CFI.co) Judging Panel congratulates RB International on winning the Best Structured Products Bank 2026 Award (CEE).</p>
