@@ -1,0 +1,36 @@
+---
+id: 13683
+title: "Nepal SBI Bank: Champion in Modern Banking Innovation Nepal 2026"
+award_year: 2026
+published: 2026-09-26 16:41:33
+published_gmt: 2026-09-26 15:41:33
+author: "CFI.co Editorial"
+url: "https://cfi.co/awards/asia-pacific/2026/nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2026/"
+categories: ["Asia Pacific", "Banking", "Corporate Governance", "Technology"]
+content_class: award_rationale
+independence_status: independent_editorial
+sponsor_disclosure: none
+editorial_lens: constructive_positive_lens
+historical_status: current_at_publication
+correction_status: none
+archive_policy: no_delete
+provenance_layer: github_versioned
+wayback_status: pending_check
+license: CFI-OAAL-1.0
+content_sha256: 39fc32d8e371a572828c6df4484b07fd51e131740f3d329592eb4eebadce7a6f
+canonical: 13683-nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2026.json
+---
+
+# Nepal SBI Bank: Champion in Modern Banking Innovation Nepal 2026
+
+> Verbatim archived copy. Canonical machine record: `13683-nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2026.json`.
+
+<img class="aligncenter size-full wp-image-13065" src="https://cfi.co/awards/wp-content/uploads/2025/07/Nepal-SBI-Bank.jpg" alt="Nepal SBI Bank" width="500" height="312" />
+<p style="text-align: justify;"><strong>The panel values innovation that simultaneously enhances strategy, governance, inclusion, and overall business outcomes.</strong> In the case of Nepal SBI Bank Ltd., the transformation programme undertaken during the assessment period demonstrated that modern banking is not merely a technological upgrade, but a disciplined evolution of the operating model.</p>
+<p style="text-align: justify;">The bank reported a nationwide presence of 154 service outlets across 54 districts, comprising 103 branches, 22 extension counters, and 21 branchless banking units, supported by 127 ATMs and serving more than 1.40 million customers. Its AAA rating from CARE Ratings Nepal, recognized as Nepal’s first corporate AAA rating, further reflects strong balance-sheet discipline and prudent financial management.</p>
+<p style="text-align: justify;">As presented to the panel, the Bank’s leadership has pursued a strategy centered on liquidity leadership, robust risk governance, digital ecosystem expansion, CASA quality enhancement, and infrastructure modernization. A notable strength of the Bank’s approach lies in its effective sequencing, whereby customer convenience, treasury efficiency, and operational resilience were addressed as interconnected priorities rather than isolated initiatives.</p>
+<p style="text-align: justify;">The successful execution of this strategy was evidenced through the introduction of YONO Cash cardless ATM withdrawals, embedded QR merchant payments, direct eSewa wallet integration, and Smart OTP authentication. These initiatives demonstrate the Bank’s practical adoption of a mobile-first banking model while continuing to maintain an extensive physical service network.</p>
+<p style="text-align: justify;">The bank also reported cumulative foreign placements of USD 1,970.36 million, cumulative NDF exposure of USD 161.00 million, and foreign exchange income of NPR 17.09 crore during the assessment period. These results support the panel’s view that innovation at Nepal SBI Bank Ltd. extends beyond retail banking and encompasses sophisticated cross-border liquidity management within the Indo-Nepal corridor.</p>
+<p style="text-align: justify;">Operational control and resilience were further strengthened through data-centre modernization initiatives, including real-time disaster recovery replication and enhanced endpoint security measures. These improvements effectively align digital convenience with operational robustness and business continuity.</p>
+<p style="text-align: justify;">The panel concludes that Nepal SBI Bank Ltd. presents a compelling and well-substantiated model of modern banking innovation that is highly suited to Nepal’s market environment—practical in application, disciplined in execution, and scalable in design.</p>
+<p style="text-align: justify;">The Capital Finance International (CFI.co) Judging Panel congratulates Nepal SBI Bank Ltd. on being awarded the Champion in Modern Banking Innovation 2026 Award (Nepal).</p>
