@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 24567581cb2116eb34736d4bdad8848eb44b6de011ea36075202a7ff65527767
 canonical: 13668-crc-credit-bureau-ltd-best-credit-bureau-nigeria-2026.json
