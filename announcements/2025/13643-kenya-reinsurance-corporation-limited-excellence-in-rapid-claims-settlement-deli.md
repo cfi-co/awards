@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260925033029
+wayback_snapshot_url: "http://web.archive.org/web/20260925033029/https://cfi.co/awards/africa/2025/kenya-reinsurance-corporation-limited-excellence-in-rapid-claims-settlement-delivery-africa-2025/"
 license: CFI-OAAL-1.0
 content_sha256: 51a960fbab79081aaad9656e96321c38b62842a6381c5436ef8bf58a17f680d7
 canonical: 13643-kenya-reinsurance-corporation-limited-excellence-in-rapid-claims-settlement-deli.json
