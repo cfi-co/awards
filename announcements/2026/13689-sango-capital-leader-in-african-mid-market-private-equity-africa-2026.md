@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 5e9bde87a665bc732129c6746dbbf8fd33ebb4e2e1ca7b16143d9f40f64985c8
 canonical: 13689-sango-capital-leader-in-african-mid-market-private-equity-africa-2026.json
