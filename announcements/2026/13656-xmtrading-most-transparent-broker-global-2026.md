@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 7d7c6ece53dc3f4be544d2475ccdcf592689b91e6f8079428cd3d5783d0ab2a9
 canonical: 13656-xmtrading-most-transparent-broker-global-2026.json
