@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: e18b1a79120d846476d81df36b819f1944d48a45016d4bdec134b26c9cb5cf01
 canonical: 13662-parque-industrial-duarte-outstanding-industrial-park-strategic-location-connecti.json
