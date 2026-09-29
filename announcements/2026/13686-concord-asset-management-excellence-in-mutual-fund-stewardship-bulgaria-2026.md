@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260928033513
+wayback_snapshot_url: "http://web.archive.org/web/20260928033513/https://cfi.co/awards/europe/2026/concord-asset-management-excellence-in-mutual-fund-stewardship-bulgaria-2026/"
 license: CFI-OAAL-1.0
 content_sha256: d4a45f9066dbc9b3c45562340cace3f2b6e4af993888834a0ca3515563a689f9
 canonical: 13686-concord-asset-management-excellence-in-mutual-fund-stewardship-bulgaria-2026.json
