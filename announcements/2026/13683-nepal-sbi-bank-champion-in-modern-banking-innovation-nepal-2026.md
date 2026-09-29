@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 39fc32d8e371a572828c6df4484b07fd51e131740f3d329592eb4eebadce7a6f
 canonical: 13683-nepal-sbi-bank-champion-in-modern-banking-innovation-nepal-2026.json
