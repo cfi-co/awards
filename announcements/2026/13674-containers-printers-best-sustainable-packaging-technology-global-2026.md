@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260928033317
+wayback_snapshot_url: "http://web.archive.org/web/20260928033317/https://cfi.co/awards/best-practice/sustainability/2026/containers-printers-best-sustainable-packaging-technology-global-2026/"
 license: CFI-OAAL-1.0
 content_sha256: a49707538e26b9b8be57d9615b74b89a71b97b525ae4d3d4f9bedb1a67e54d68
 canonical: 13674-containers-printers-best-sustainable-packaging-technology-global-2026.json
