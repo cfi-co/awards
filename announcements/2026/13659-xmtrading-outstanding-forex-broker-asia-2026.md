@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260928033121
+wayback_snapshot_url: "http://web.archive.org/web/20260928033121/https://cfi.co/awards/finance/exchanges-brokers/2026/xmtrading-outstanding-forex-broker-asia-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 107bde3afd8968a8a388954ec578764f29dc091eaa98a9288a43a37cb9433af0
 canonical: 13659-xmtrading-outstanding-forex-broker-asia-2026.json
