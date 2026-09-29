@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260928033251
+wayback_snapshot_url: "http://web.archive.org/web/20260928033251/https://cfi.co/awards/asia-pacific/2026/containers-printers-most-innovative-packaging-technology-global-2026/"
 license: CFI-OAAL-1.0
 content_sha256: ce272814755a9970a6cc14aa68de8c019b62105e82483c2d6612a405c80e6857
 canonical: 13671-containers-printers-most-innovative-packaging-technology-global-2026.json
