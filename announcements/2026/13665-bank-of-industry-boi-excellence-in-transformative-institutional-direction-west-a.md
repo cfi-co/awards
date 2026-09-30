@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260928033159
+wayback_snapshot_url: "http://web.archive.org/web/20260928033159/https://cfi.co/awards/africa/2026/bank-of-industry-boi-excellence-in-transformative-institutional-direction-west-africa-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 87b44ecae7bdc7d1ff9f390f982b41052cc15c72aaf2fe40188852fde4fb7a00
 canonical: 13665-bank-of-industry-boi-excellence-in-transformative-institutional-direction-west-a.json
