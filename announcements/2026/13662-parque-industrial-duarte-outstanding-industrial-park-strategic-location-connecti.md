@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260929033127
+wayback_snapshot_url: "http://web.archive.org/web/20260929033127/https://cfi.co/awards/latin-america/2026/parque-industrial-duarte-outstanding-industrial-park-strategic-location-connectivity-caribbean-2026/"
 license: CFI-OAAL-1.0
 content_sha256: e18b1a79120d846476d81df36b819f1944d48a45016d4bdec134b26c9cb5cf01
 canonical: 13662-parque-industrial-duarte-outstanding-industrial-park-strategic-location-connecti.json
