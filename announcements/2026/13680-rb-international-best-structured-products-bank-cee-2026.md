@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260928033407
+wayback_snapshot_url: "http://web.archive.org/web/20260928033407/https://cfi.co/awards/banking/2026/rb-international-best-structured-products-bank-cee-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 16ad272371e93892598f86bdd268d734ed662b8caa1bfc5d3bfb2321f9d44b42
 canonical: 13680-rb-international-best-structured-products-bank-cee-2026.json
