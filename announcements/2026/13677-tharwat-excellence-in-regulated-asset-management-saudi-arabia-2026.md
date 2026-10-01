@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20260928033342
+wayback_snapshot_url: "http://web.archive.org/web/20260928033342/https://cfi.co/awards/middle-east/2026/tharwat-excellence-in-regulated-asset-management-saudi-arabia-2026/"
 license: CFI-OAAL-1.0
 content_sha256: b85c9d72aed18c256039128d6efe680afd8058151f802417014f4d65aeee3ec9
 canonical: 13677-tharwat-excellence-in-regulated-asset-management-saudi-arabia-2026.json
