@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 2ac348970f7cd71b83297c302ad5fac8622db4e7715b6ee7f02556485b2f738f
 canonical: 13708-sfs-capital-nigeria-limited-best-reit-asset-manager-west-africa-2026.json
