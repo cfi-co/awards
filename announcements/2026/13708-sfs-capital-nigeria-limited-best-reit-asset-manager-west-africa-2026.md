@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20261011033010
+wayback_snapshot_url: "http://web.archive.org/web/20261011033010/https://cfi.co/awards/africa/2026/sfs-capital-nigeria-limited-best-reit-asset-manager-west-africa-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 2ac348970f7cd71b83297c302ad5fac8622db4e7715b6ee7f02556485b2f738f
 canonical: 13708-sfs-capital-nigeria-limited-best-reit-asset-manager-west-africa-2026.json
