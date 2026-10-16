@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 4a249267abd234e00a6c060ace3edf6890d56cd58c61c507436104fef5d78bdd
 canonical: 13714-tekcapital-leadership-in-high-value-intellectual-property-strategies-global-2026.json
