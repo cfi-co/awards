@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 813dd0c59f647f70e10a7b4bcbe8125b832801d850b1b9f69018493878d4b053
 canonical: 13737-necker-finance-best-independent-wealth-manager-mauritius-2026.json
