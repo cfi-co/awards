@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20261105033008
+wayback_snapshot_url: "http://web.archive.org/web/20261105033008/https://cfi.co/awards/africa/2026/necker-finance-best-independent-wealth-manager-mauritius-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 813dd0c59f647f70e10a7b4bcbe8125b832801d850b1b9f69018493878d4b053
 canonical: 13737-necker-finance-best-independent-wealth-manager-mauritius-2026.json
