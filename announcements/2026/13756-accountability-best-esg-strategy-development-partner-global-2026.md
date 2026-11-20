@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: not_found
+wayback_status: archived
+wayback_first_snapshot: 20261119033059
+wayback_snapshot_url: "http://web.archive.org/web/20261119033059/https://cfi.co/awards/north-america/2026/accountability-best-esg-strategy-development-partner-global-2026/"
 license: CFI-OAAL-1.0
 content_sha256: d235a6323b1ac9533020fbb20c3c475b23535d1415ce7e22dea6425c53b1227f
 canonical: 13756-accountability-best-esg-strategy-development-partner-global-2026.json
