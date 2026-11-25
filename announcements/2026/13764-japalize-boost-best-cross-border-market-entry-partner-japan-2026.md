@@ -15,7 +15,7 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: pending_check
+wayback_status: submitted_pending
 license: CFI-OAAL-1.0
 content_sha256: 5c61f14f805eb577ba2f71b14e9d0ee921acaca480eccd93e6e50c2c86668af7
 canonical: 13764-japalize-boost-best-cross-border-market-entry-partner-japan-2026.json
