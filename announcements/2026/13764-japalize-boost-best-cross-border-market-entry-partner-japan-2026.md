@@ -15,7 +15,9 @@ historical_status: current_at_publication
 correction_status: none
 archive_policy: no_delete
 provenance_layer: github_versioned
-wayback_status: submitted_pending
+wayback_status: archived
+wayback_first_snapshot: 20261125033042
+wayback_snapshot_url: "http://web.archive.org/web/20261125033042/https://cfi.co/awards/asia-pacific/2026/japalize-boost-best-cross-border-market-entry-partner-japan-2026/"
 license: CFI-OAAL-1.0
 content_sha256: 5c61f14f805eb577ba2f71b14e9d0ee921acaca480eccd93e6e50c2c86668af7
 canonical: 13764-japalize-boost-best-cross-border-market-entry-partner-japan-2026.json
